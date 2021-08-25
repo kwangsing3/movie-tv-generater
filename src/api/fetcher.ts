@@ -127,7 +127,7 @@ export class GETFetcher {
                 ? data['first_air_date'].split('-')[0]
                 : '(-)';
             const pathL = [];
-            const keyname = `${offset}/${oriName}(${airDate})_${Name}`;
+            const keyname = `${offset}/${oriName}(${airDate})`;
             pathL.push(`./output/${keyname}`);
             pathL.push(`./output/${keyname}/Specials`);
             pathL.push(`./output/${keyname}/Extras`);

@@ -10,7 +10,7 @@ async function main() {
     TMDBToken = process.env.TMDB_TOKEN = 'fbb39f0aef28e8abfd66552fa76a4d2b';
   }
   //TMDb
-  const TMDBFetcher: GETFetcher = new GETFetcher(TMDB, TMDBToken, 'zh-TW');
+  const TMDBFetcher: GETFetcher = new GETFetcher(TMDB, TMDBToken, 'en-US');
   try {
     await TMDBFetcher.GenerateFolderbyKeyword('210024', 'series');
   } catch (error) {
