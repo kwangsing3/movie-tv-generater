@@ -1,17 +1,27 @@
-import {WriteFile} from './utils/fs';
-import {ReadFile} from './utils/fs';
+import {getInput} from '@actions/core';
+import {GETFetcher} from './api/fetcher';
+
 async function main() {
-  let gee = 'Hello module';
+  const TMDB = 'https://api.themoviedb.org/3';
+  let TMDBToken = (process.env.TMDB_TOKEN = getInput('TMDB_TOKEN'));
+  const isAction = false;
 
-  for (let i = 0; i < 99; i++) {
-    gee += 'Hello module';
+  if (TMDBToken === '') {
+    TMDBToken = process.env.TMDB_TOKEN = 'fbb39f0aef28e8abfd66552fa76a4d2b';
   }
-
-  await WriteFile('hi.txt', gee);
-
-  const msg: string = await ReadFile('hi.txt');
-
-  console.log(msg);
+  //TMDb
+  const TMDBFetcher: GETFetcher = new GETFetcher(TMDB, TMDBToken, 'zh-TW');
+  try {
+    await TMDBFetcher.GenerateFolderbyKeyword('210024', 'series');
+  } catch (error) {
+    console.error(error);
+  }
+  try {
+    await TMDBFetcher.GenerateFolderbyKeyword('210024', 'movies');
+  } catch (error) {
+    console.error(error);
+  }
+  console.log('--Generate Finish--');
 }
 
 main();
