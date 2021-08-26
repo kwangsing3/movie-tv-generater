@@ -11,6 +11,7 @@ async function main() {
   }
   //TMDb
   const TMDBFetcher: GETFetcher = new GETFetcher(TMDB, TMDBToken, 'en-US');
+
   try {
     await TMDBFetcher.GenerateFolderbyKeyword('210024', 'series');
   } catch (error) {

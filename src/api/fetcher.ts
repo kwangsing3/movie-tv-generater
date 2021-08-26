@@ -150,8 +150,7 @@ export class GETFetcher {
               })
             );
           } catch (error) {
-            console.error('Error ID:' + id + ' error:' + error);
-            currentPage = -1;
+            console.error('\n' + 'Error ID:' + id + ' error:' + error);
           }
         } else if (offset === 'movies') {
           try {
@@ -181,8 +180,7 @@ export class GETFetcher {
               })
             );
           } catch (error) {
-            console.error('Error ID:' + id + ' error:' + error);
-            currentPage = -1;
+            console.error('\n' + 'Error ID:' + id + ' error:' + error);
           }
         }
         this.bar1.update(++count); // prograss bar
@@ -217,7 +215,7 @@ export class GETFetcher {
     result = data.data;
     return result;
   }
-  private async GetSeriesInfo(BaseURL: string, id: string) {
+  public async GetSeriesInfo(BaseURL: string, id: string) {
     const URL =
       BaseURL + '/' + id + `?api_key=${this.token}&&language=${this.lang}`;
     const data = await axios.get(URL, this.header);
