@@ -1,7 +1,7 @@
 {
   "name": "Movie-Series-Generater",
   "version": "1.0.0",
-  "description": "A tool to fetch movie or series list form DB to generate folder for better managing media files.",
+  "description": "A tool to fetch movie or series list form TMDB to generate folder for better managing media files.",
   "main": "dist/src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,18 +9,16 @@
     "clean": "gts clean",
     "compile": "tsc",
     "fix": "gts fix",
-    "prepare": "npm.cmd run compile",
-    "pretest": "npm.cmd run compile",
-    "posttest": "npm.cmd run lint",
-    "prod":"tsc && node dist/src/index.js"
+    "prod":"tsc && node dist/src/index.js",
+    "dev":"rm -rf /output && tsc && node dist/src/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kwangsing3/Movie-Series-Generater.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "kwangsing3",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/kwangsing3/Movie-Series-Generater/issues"
   },
@@ -32,8 +30,6 @@
   },
   "dependencies": {
     "@actions/core": "^1.5.0",
-    "axios": "^0.21.1",
-    "cli-progress": "^3.9.0",
-    "colors": "^1.4.0"
+    "axios": "^0.21.1"
   }
 }
