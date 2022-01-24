@@ -3,7 +3,6 @@ const cont = require('../content/content');
 import {MKDir} from '../utils/fs';
 import {WriteFile} from '../utils/fs';
 const cliProgress = require('cli-progress');
-import {cyan} from 'colors';
 
 export class GETFetcher {
   constructor(url = '', token = '', lang = 'en-US') {
@@ -11,10 +10,7 @@ export class GETFetcher {
     this.token = token;
     this.lang = lang;
     this.bar1 = new cliProgress.SingleBar({
-      format:
-        'CLI Progress |' +
-        cyan('{bar}') +
-        '|{percentage}% || Amount: {value}/{total}',
+      format: 'CLI Progress |' + '|{percentage}% || Amount: {value}/{total}',
       barCompleteChar: '\u2588',
       barIncompleteChar: '\u2591',
       hideCursor: true,

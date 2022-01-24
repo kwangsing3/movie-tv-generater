@@ -12,9 +12,9 @@
                 "<node_internals>/**"
             ],
             "preLaunchTask": "tsc: build",
-            "program": "${workspaceFolder}/dist/src/index.js",
+            "program": "${workspaceFolder}/build/src/index.js",
             "outFiles": [
-                "${workspaceFolder}/dist/**/*.js"
+                "${workspaceFolder}/build/**/*.js"
             ]
         }
     ]

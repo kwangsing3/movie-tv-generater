@@ -1,6 +1,7 @@
 import * as fs from 'fs';
-import {basename, join} from 'path';
+import {join} from 'path';
 import {dirname} from 'path';
+
 export async function WriteFile(
   targetPath: string,
   content: string

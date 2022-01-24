@@ -1,4 +1,4 @@
-# Movie-Series-Generater
+# movie-tv-generater
 
 A tool to fetch movie or series list form TMDB to generate folder for better managing media files.
 

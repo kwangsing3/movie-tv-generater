@@ -1,8 +1,7 @@
-import {getInput} from '@actions/core';
-import {GETFetcher} from './api/fetcher';
+const fs = require('fs');
 
 async function main() {
-  const TMDB = 'https://api.themoviedb.org/3';
+  /*const TMDB = 'https://api.themoviedb.org/3';
   let TMDBToken = (process.env.TMDB_TOKEN = getInput('TMDB_TOKEN'));
   const isAction = false;
 
@@ -22,7 +21,22 @@ async function main() {
   } catch (error) {
     console.error(error);
   }
-  console.log('--Generate Finish--');
+  console.log('--Generate Finish--');*/
+  /* test.json:
+  {
+      "a": 1,
+      "b": 2,
+      "c": 3,
+  }
+  */
 }
 
-main();
+fs.writeFile(
+  './test.json',
+  JSON.stringify(
+    {a: 1, b: 2, c: 3, time: JSON.stringify(new Date())},
+    null,
+    '\t'
+  ),
+  () => {}
+);

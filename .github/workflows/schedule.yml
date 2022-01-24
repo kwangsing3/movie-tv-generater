@@ -1,0 +1,17 @@
+name: CI
+on:
+  push:
+    branches: [ exper_branch ]
+  pull_request:
+    branches: [ exper_branch ]
+  schedule: # execute every 12 hours
+    - cron: '* */12 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate
+    steps:
+      - uses: actions/checkout@v2
+      # To Generate Files here
+      - run: npm run prod
+      - uses: kwangsing3/action-git@release
