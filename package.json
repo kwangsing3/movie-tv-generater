@@ -1,0 +1,40 @@
+{
+  "name": "movie-tv-generater",
+  "version": "1.0.0",
+  "description": "A tool to fetch Movie or TV list form TMDB to generate folder for better managing media files.",
+  "main": "build/src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwangsing3/movie-tv-generater.git"
+  },
+  "keywords": [
+    "TMDB",
+    "Movie",
+    "TV Show"
+  ],
+  "author": "kwangsing3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwangsing3/movie-tv-generater/issues"
+  },
+  "homepage": "https://github.com/kwangsing3/movie-tv-generater#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "gts lint",
+    "clean": "gts clean",
+    "compile": "tsc",
+    "fix": "gts fix",
+    "prod": "tsc && node build/src/index.js",
+    "prodall": "tsc && node build/src/index.js -all",
+    "dev": "rm -rf /output && tsc && node build/src/index.js"
+  },
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@types/node": "^17.0.10",
+    "axios": "^0.25.0",
+    "cli-progress": "^3.10.0",
+    "gts": "^3.1.0",
+    "typescript": "^4.5.5",
+    "wraptmdb-ts": "^1.0.4"
+  }
+}

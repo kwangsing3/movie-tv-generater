@@ -1,0 +1,27 @@
+name: CI/CD
+on:
+  schedule: # execute every 12 hours
+    - cron: '* */24 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        
+      # To Generate Files here
+      - run: npm run prod
+        env:  
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+      - run: |
+          git config --local user.email "actions@example.com"
+          git config --local user.name "Github-Action"
+          git add --all
+          git pull origin "${{ github.ref }}" --autostash --rebase -Xours
+          git commit --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ steps.date.outputs.date }}" 
+          git push -f
+      # --allow-empty  It allow no changed commit to push preventing return error from no-changed push.
