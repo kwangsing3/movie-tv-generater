@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/AmmYxwRSXVzYgEL3squB1XVNLE8.jpg",
+    "created_by": [
+        {
+            "id": 3161832,
+            "credit_id": "62cce6f7595a5612b910ead1",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2017-08-04",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 73138,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-07",
+    "last_episode_to_air": {
+        "air_date": "2017-12-07",
+        "episode_number": 5,
+        "id": 1455612,
+        "name": "Gunpla is the Greatest!",
+        "overview": "One day, Tatsuya Yuuki visits Iori Models, where Sei Iori's family lives. Next week, Tatsuya will begin a tour of Europe as Meijin Kawaguchi. But he has heard from Mao Yasaka that Sei has modified his Build Strike Cosmos into the Build Strike Galaxy Cosmos, and before he leaves, Tatsuya wants to play Gunpla Battle against Sei's new machine. Sei eagerly accepts this proposal, and begins a one-on-one match against the new Gunpla that Tatsuya has built for his overseas tour.",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 73138,
+        "still_path": "/nytw10h1NTp89UpkQ3VmeDOGISo.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gundam Build Fighters: Battlogue",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガンダムビルドファイターズ バトローグ",
+    "overview": "This is a dynamic dream battle featuring many types of Gunpla skirmishing in all sorts of situations.",
+    "popularity": 2.002,
+    "poster_path": "/kHMXKrAMl3DSnWLJWUxSMy9ohCw.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-08-04",
+            "episode_count": 5,
+            "id": 91039,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kHMXKrAMl3DSnWLJWUxSMy9ohCw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 2
+}

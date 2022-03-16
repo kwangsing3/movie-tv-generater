@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/8UtjIXydQ72eA7fjdXc6DSkXOYM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2020-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://eternity-nurechan.com",
+    "id": 105903,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-21",
+    "last_episode_to_air": {
+        "air_date": "2020-12-21",
+        "episode_number": 12,
+        "id": 2347117,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "runtime": 15,
+        "season_number": 1,
+        "show_id": 105903,
+        "still_path": "/zzyXKijXeA1ASTQTt92wsBBI8i5.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Eternity Shinya no Nurekoi Channel",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エタニティ　～深夜の濡恋ちゃんねる♡～",
+    "overview": "",
+    "popularity": 94.327,
+    "poster_path": "/jJGNByRqVXvulYk0HjGZUG0aZBY.jpg",
+    "production_companies": [
+        {
+            "id": 92966,
+            "logo_path": "/9zBMa5LyxHKyatDLHJGal7jetHR.png",
+            "name": "Seven",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-05",
+            "episode_count": 12,
+            "id": 156144,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1u5NHXhS710pMMWGZ44TN3dAe7p.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 1.5,
+    "vote_count": 2
+}

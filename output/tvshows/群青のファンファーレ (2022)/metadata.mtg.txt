@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/8r3SdNxKTLAQZVqSeru8i1wIDZ8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://fanfare-anime.com/",
+    "id": 131681,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-25",
+    "last_episode_to_air": {
+        "air_date": "2022-06-25",
+        "episode_number": 13,
+        "id": 3588266,
+        "name": "Into the Starting Gate!",
+        "overview": "The students line up at the gate for one final race, before they set out on their paths as full jockeys.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 131681,
+        "still_path": "/t36tva7SZ4poHvlDA1G6rKWWmZk.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fanfare of Adolescence",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 343,
+            "name": "Gunma TV",
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 861,
+            "name": "BS11",
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2478,
+            "name": "Tochigi TV",
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "群青のファンファーレ",
+    "overview": "The jockey curriculum at the Horse Racing School... A school with incredibly difficult entrance requirements, where only one out of every ten to twenty applicants is accepted, and students need not just book smarts, but also physical and athletic abilities. There, a boy who is a popular idol meets his real dream for the first time. A boy who grew up on an island dreams of spending his days racing with horses. A boy from England is unsure of the path his parents have chosen for him, but still chooses to follow his dreams. This is a story about boys who pursue their dream of becoming a jockey.",
+    "popularity": 30.778,
+    "poster_path": "/r8P5k3DJPXsxYmEECGEB0gWdbnX.jpg",
+    "production_companies": [
+        {
+            "id": 59988,
+            "logo_path": null,
+            "name": "Lay-duce",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-02",
+            "episode_count": 13,
+            "id": 206843,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/r8P5k3DJPXsxYmEECGEB0gWdbnX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2
+}

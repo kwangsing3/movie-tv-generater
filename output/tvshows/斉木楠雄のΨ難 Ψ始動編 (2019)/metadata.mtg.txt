@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/1FMHoamPXNxAP28OTSGYgcjrajA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-12-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/jp/title/81054849",
+    "id": 97009,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-30",
+    "last_episode_to_air": {
+        "air_date": "2019-12-30",
+        "episode_number": 6,
+        "id": 2032974,
+        "name": "Reawakening Saiki Kusuo",
+        "overview": "Kusuo is now a third-year student living as a normal teenager with no psychic powers. Sort of. But being normal is harder than he thought.",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 97009,
+        "still_path": "/bfnXlQfsApeh4pymA6ocbVdOvGr.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Disastrous Life of Saiki K.: Reawakened",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "name": "Netflix",
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "斉木楠雄のΨ難 Ψ始動編",
+    "overview": "Kusuo and his gaggle of self-proclaimed friends are back for more psychic mishaps. If he didn't have enough problems before, he's got even more now.",
+    "popularity": 17.978,
+    "poster_path": "/yGRlLrCkvXU4xXQ4JUzTBBkI8nc.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        },
+        {
+            "id": 95809,
+            "logo_path": "/5ac8LhghlxYKbPSwbXJkgrNfjGF.png",
+            "name": "EGG FIRM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-12-30",
+            "episode_count": 6,
+            "id": 139376,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zSbmAyaxk6feXeZbRMYREQ08rl9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 19
+}

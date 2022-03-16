@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/2ZTPoeVGQELf2juiFZtuEg1tiPU.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1970-03-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://eiken-anime.jp/works/%E5%8B%95%E7%89%A9%E6%9D%91%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A/",
+    "id": 204083,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1970-07-21",
+    "last_episode_to_air": {
+        "air_date": "1970-07-21",
+        "episode_number": 100,
+        "id": 3784918,
+        "name": "Episode 100",
+        "overview": "",
+        "production_code": "",
+        "runtime": 5,
+        "season_number": 1,
+        "show_id": 204083,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "動物村ものがたり",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 100,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "動物村ものがたり",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/2SHLtWzHqdlrdYMiZseBUqyfX5j.jpg",
+    "production_companies": [
+        {
+            "id": 82357,
+            "logo_path": null,
+            "name": "Eiken",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1970-03-30",
+            "episode_count": 100,
+            "id": 297441,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2SHLtWzHqdlrdYMiZseBUqyfX5j.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/oFzmXnkq9rmfYxJ7rAnPmOZXNlj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1977-10-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.nipponanimation.com/catalogue/015/index.html",
+    "id": 23591,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1978-05-27",
+    "last_episode_to_air": {
+        "air_date": "1978-05-27",
+        "episode_number": 30,
+        "id": 626491,
+        "name": "Beautiful May!!",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 23591,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Wakakusa no Charlotte",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 30,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "若草のシャルロット",
+    "overview": "Wakakusa no Charlotte is a vintage shōjo anime series produced by Nippon Animation Co. Ltd. It was first aired in Japan between October 29, 1977 and May 27, 1978, and is based on an original story by screenwriter Shun'ichi Yukimuro.",
+    "popularity": 1.197,
+    "poster_path": "/3cZgZ1hwRWuPIaaEdBQPdKSR1ac.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1977-10-29",
+            "episode_count": 30,
+            "id": 33560,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3cZgZ1hwRWuPIaaEdBQPdKSR1ac.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1
+}

@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://yurihasa.jp/",
+    "id": 205961,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Caught Between Lesbian Relationships. My Life After Waking Up as a Dummy Head Microphone",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "百合の間にはさまれる。 ある朝ダミーヘッドマイクになっていた俺クンの人生",
+    "overview": "",
+    "popularity": 0.96,
+    "poster_path": "/5uor1CMzypPlhmWJtxFn5UYcnzA.jpg",
+    "production_companies": [
+        {
+            "id": 120294,
+            "logo_path": "/xlbWWzDkQG2hJ5KKUoqvh2OOY15.png",
+            "name": "EKACHI EPILKA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 124530,
+            "logo_path": null,
+            "name": "IndiVision",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 300704,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5uor1CMzypPlhmWJtxFn5UYcnzA.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/7D87idrIAXlg1KCZcdOVl6TUQLy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2022-05-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 203113,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-18",
+    "last_episode_to_air": {
+        "air_date": "2022-06-18",
+        "episode_number": 20,
+        "id": 3792296,
+        "name": "Episode 20",
+        "overview": "",
+        "production_code": "",
+        "runtime": 2,
+        "season_number": 1,
+        "show_id": 203113,
+        "still_path": "/bTBbA9HpTUrEd6viS8ZZ7qbpNps.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nanamental",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4922,
+            "name": "TikTok",
+            "logo_path": "/coaKPQsIIppdJFiv8mydLNTjh5g.png",
+            "origin_country": "CN"
+        },
+        {
+            "id": 5951,
+            "name": "Twitter",
+            "logo_path": "/oBrc0CJx9izO8vKqgkGvZEVmKIg.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ナナメンタル",
+    "overview": "",
+    "popularity": 1.241,
+    "poster_path": "/tn3su7w93EkH5kdgUNXxhq45Oll.jpg",
+    "production_companies": [
+        {
+            "id": 165501,
+            "logo_path": "/dfhJGRhxc1EVDahtnKP1tqin8jn.png",
+            "name": "FIREBUG",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-30",
+            "episode_count": 20,
+            "id": 295525,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tn3su7w93EkH5kdgUNXxhq45Oll.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

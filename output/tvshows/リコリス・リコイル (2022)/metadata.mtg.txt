@@ -1,0 +1,156 @@
+{
+    "adult": false,
+    "backdrop_path": "/cPqA1G5odxY7uVJ0i81z5E2tSSW.jpg",
+    "created_by": [
+        {
+            "id": 934710,
+            "credit_id": "62ceda084a52f80050d104c1",
+            "name": "Shingo Adachi",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1466086,
+            "credit_id": "62cab50b46aed402612a8a91",
+            "name": "Asaura",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://lycorisrecoil.com/",
+    "id": 154494,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-23",
+    "last_episode_to_air": {
+        "air_date": "2022-07-23",
+        "episode_number": 4,
+        "id": 3815861,
+        "name": "Nothing seek, nothing find",
+        "overview": "After the incident at DA Headquarters, Chisato and Takina live a smooth and easy life at LycoReco. On one particular day, Chisato noticed that Takina’s underwear is ■■■■■…! Fed up with Takina’s absolute indifference toward herself, Chisato decides to take her shopping!",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 154494,
+        "still_path": "/xb4lCMSjwAUu59mjdD3L0tOEiNR.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Lycoris Recoil",
+    "next_episode_to_air": {
+        "air_date": "2022-07-30",
+        "episode_number": 5,
+        "id": 3815862,
+        "name": "Episode 5",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 154494,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 343,
+            "name": "Gunma TV",
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 861,
+            "name": "BS11",
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2478,
+            "name": "Tochigi TV",
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "リコリス・リコイル",
+    "overview": "For these peaceful days――there’s a secret behind it all. A secret organization that prevents crimes: “DA - Direct Attack”. And their group of all-girl agents: “Lycoris”. This peaceful everyday life is all thanks to these young girls. The elite Chisato Nishikigi is the strongest Lycoris agent of all time. Alongside is Takina Inoue, the talented but mysterious Lycoris. They work together at one of its branches–Café LycoReco. Here, the orders this café takes range from coffee and sweets to childcare, shopping, teaching Japanese to foreign students, etc. It's mostly tasks unbefitting of Lycoris. The free-spirited and optimistic pacifist, Chisato. And the cool-headed and efficient Takina. The chaotic everyday lives of this mismatched duo begin!",
+    "popularity": 132.961,
+    "poster_path": "/dfGf0Ti3BEKpBpVCVtEXKTjQjNR.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-20",
+            "episode_count": 4,
+            "id": 301780,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/x6ccBqEkE7DRKRCo5IIFf3QdV5o.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2022-07-02",
+            "episode_count": 13,
+            "id": 237827,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/stMIRqxrBXJsuCAvF6UjrQe9bSM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.444,
+    "vote_count": 9
+}

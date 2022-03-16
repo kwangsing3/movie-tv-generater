@@ -1,0 +1,145 @@
+{
+    "adult": false,
+    "backdrop_path": "/gRxV1tfBwN5CT94rQxYefUV8Q0u.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2017-10-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "http://www.inuyashiki-project.com/",
+    "id": 73946,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-21",
+    "last_episode_to_air": {
+        "air_date": "2017-12-21",
+        "episode_number": 11,
+        "id": 1382017,
+        "name": "People of Earth",
+        "overview": "With the battle over, Inuyashiki returns home and reveals his machine form to his family. Shishigami pays a visit to his once dear friend, Ando.",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 73946,
+        "still_path": "/5UhCxDtYm5z2oSBz5EeJ4kPg0zn.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Inuyashiki: Last Hero",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "いぬやしき",
+    "overview": "Aliens replace middle-aged Inuyashiki's body with a combat robot. He uses it to fight high schooler Shishigami, who's using the same power selfishly.",
+    "popularity": 6.157,
+    "poster_path": "/VKhdHvqY3vMeBcZ6UOJanUmeYs.jpg",
+    "production_companies": [
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156999,
+            "logo_path": "/yOPNMsW68we3cA9XNPsZsmZtVOj.png",
+            "name": "DMM pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 171086,
+            "logo_path": null,
+            "name": "Fujipacific Music",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-10-12",
+            "episode_count": 11,
+            "id": 92846,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/w9PYi5MLYBxZbte6WPHwkba98iR.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 223
+}

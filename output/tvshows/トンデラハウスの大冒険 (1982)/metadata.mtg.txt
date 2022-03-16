@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/2Y2gw4nm431opjgcgAKtyh5QDHr.jpg",
+    "created_by": [
+        {
+            "id": 970446,
+            "credit_id": "62bdf5d47ef3812768ede88c",
+            "name": "Masakazu Higuchi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1982-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://tatsunoko.co.jp/works/the-flying-house",
+    "id": 21266,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-03-28",
+    "last_episode_to_air": {
+        "air_date": "1983-03-28",
+        "episode_number": 52,
+        "id": 594182,
+        "name": "Homeward Bound",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 21266,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Flying House",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "トンデラハウスの大冒険",
+    "overview": "Corky, Angey, and Justin are playing hide and seek in the woods when a sudden storm appears and they come upon a house in the woods. They go inside and meet Professor Bumble and his Solar Ion Robot, SIR. They discover the house is a flying time machine and a sudden mishap send them into the past where they end up witnessing events from The Bible's New Testament as they keep trying to get home.",
+    "popularity": 1.781,
+    "poster_path": "/7j6QhAf8cnQYJgPSJG7gxVLAEFF.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-04-05",
+            "episode_count": 52,
+            "id": 31142,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cW5pQiPEaARZoYMgIzMsOHiR3q.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "A house that flies back in time carries three fun-loving kids, an absent-minded professor and a quirky little robot to action packed adventures.",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

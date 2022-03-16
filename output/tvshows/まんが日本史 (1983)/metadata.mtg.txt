@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/aDXCA6O99CAiNhOsYAwOulXOEPU.jpg",
+    "created_by": [
+        {
+            "id": 2004720,
+            "credit_id": "615cf85f0c12550062d930f9",
+            "name": "Junji Tashiro",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 2191262,
+            "credit_id": "615cf8776beaea008c534633",
+            "name": "Tomoki Sakanashi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1983-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 135728,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-04-08",
+    "last_episode_to_air": {
+        "air_date": "1984-04-08",
+        "episode_number": 52,
+        "id": 3842076,
+        "name": "Episode 52",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 135728,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Manga Nihonshi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まんが日本史",
+    "overview": "",
+    "popularity": 0.606,
+    "poster_path": "/6afXTlGjfBj5dXsP8VH3GY8Zxvw.jpg",
+    "production_companies": [
+        {
+            "id": 162100,
+            "logo_path": null,
+            "name": "Tsuchida Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1983-04-03",
+            "episode_count": 52,
+            "id": 301290,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

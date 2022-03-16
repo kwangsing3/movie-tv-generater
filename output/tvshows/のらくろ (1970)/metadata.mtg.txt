@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/qTif5a5aik9Svpko2JLtn3GsXGU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1970-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://eiken-anime.jp/works/%E3%81%AE%E3%82%89%E3%81%8F%E3%82%8D/",
+    "id": 204134,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1971-03-29",
+    "last_episode_to_air": {
+        "air_date": "1971-03-29",
+        "episode_number": 26,
+        "id": 3786188,
+        "name": "Episode 26",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 204134,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Norakuro",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "のらくろ",
+    "overview": "Norakuro is a black dog enlisted in the \"Mokenrentai\" (Fierce Dog Brigade), an Imperial army of dogs fighting in a war against the enemy Monkey Army. Norakuro is a stray black-and-white dog in an army of white dogs who blundered his way while being a Private Second-Class. This series was relatively faithful to the comics. One big change, however, was the addition of the army nurse Miko, whom Norakuro had a crush on. For this series, Norakuro was voiced by Nobuyo Ooyama, who would later become noted for voicing Doraemon. (Source: Cartoon Research)",
+    "popularity": 0.6,
+    "poster_path": "/zEeOunnJpbd2LqOh3k0ewx1JEZT.jpg",
+    "production_companies": [
+        {
+            "id": 82357,
+            "logo_path": null,
+            "name": "Eiken",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1970-10-05",
+            "episode_count": 26,
+            "id": 297526,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zEeOunnJpbd2LqOh3k0ewx1JEZT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

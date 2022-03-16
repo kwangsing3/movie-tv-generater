@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        7
+    ],
+    "first_air_date": "2016-10-05",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://nazotokine.com/",
+    "id": 68400,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-27",
+    "last_episode_to_air": {
+        "air_date": "2017-09-27",
+        "episode_number": 12,
+        "id": 2278648,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "runtime": 7,
+        "season_number": 2,
+        "show_id": 68400,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nazotokine",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1521,
+            "name": "ABEMA",
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ナゾトキネ",
+    "overview": "Tokine Amino works as a secretary for TEN2, an advertising agency. One day while cleaning the conference room, she is surrounded in light and finds she can't leave the room until she solves a puzzle. It seems a creature named Hacchin is a being from another dimension called Quizn. He is interested in the intellectual pleasure that happens when someone solves a puzzles or uncovers a mystery. And he has his sight set on Tokine Amino.",
+    "popularity": 1.355,
+    "poster_path": "/z5QFRglqcaxjREzsGtJkoJSYUqP.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-05",
+            "episode_count": 12,
+            "id": 81393,
+            "name": "Nazotokine",
+            "overview": "",
+            "poster_path": "/bay8VGJC5lrjin0boJ08aL1yI46.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-07-12",
+            "episode_count": 12,
+            "id": 90329,
+            "name": "Kaito x Ansa",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 3
+}

@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/qMYkq5HgQq3p2BdlKpeIEs2ipIX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2021-03-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.nhk.jp/p/ts/7PR67N6RJ8/",
+    "id": 195830,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-01-30",
+    "last_episode_to_air": {
+        "air_date": "2022-01-30",
+        "episode_number": 3,
+        "id": 3615079,
+        "name": "Baby Gets Sick",
+        "overview": "Baby Takeda develops a fever. The board members abandon their meeting to check on him, taking turns to hold him and sharing their regrets about not being involved in their own children's upbringing.",
+        "production_code": "",
+        "runtime": 5,
+        "season_number": 2,
+        "show_id": 195830,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Baby in Charge",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 469,
+            "name": "NHK G",
+            "logo_path": "/8hWXAayakmOUZPzmJsqxN7WYnd3.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 15,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "赤ちゃん本部長",
+    "overview": "In this workplace comedy, Takeda, a 47-year-old business executive, is suddenly transformed into an infant with an out-of-control body but a mind that is as sharp as ever. Instead of his favorite food and cocktails, he is forced to switch to meals of porridge and baby formula, with plenty of naps in between. Meanwhile, his subordinates have to cope with the unusual circumstances and learn more about the meaning of understanding and compassion along the way.",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 130961,
+            "logo_path": null,
+            "name": "Tomovies",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-29",
+            "episode_count": 8,
+            "id": 284585,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 7,
+            "id": 284587,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

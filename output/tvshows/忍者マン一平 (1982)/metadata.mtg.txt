@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/qKf8jkvVGv5PoYy9XWg33edk6HF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://www.tms-e.co.jp/alltitles/1980s/044101.html",
+    "id": 205946,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1982-12-27",
+    "last_episode_to_air": {
+        "air_date": "1982-12-27",
+        "episode_number": 13,
+        "id": 3833890,
+        "name": "Episode 13",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 205946,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ninjaman Ippei",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "忍者マン一平",
+    "overview": "Way out in the sticks, the fourth-graders of the local school in Tokio village all have their own superpowers of doubtful merit, including flying eyeballs and missile-hair. Ippei and his friends study hard to be ninjas, but they are constantly under treat from the arrogant cheats from the neighbouring village of Techno.\n\nA strange mix of ninjas and school comedy, based on a children's manga by Kawai Kazuyoshi.",
+    "popularity": 0.908,
+    "poster_path": "/vFXWFmerERxpEET97R3Ipf7nwzV.jpg",
+    "production_companies": [
+        {
+            "id": 3069,
+            "logo_path": null,
+            "name": "Tokyo Movie Shinsha",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-10-04",
+            "episode_count": 13,
+            "id": 300680,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vFXWFmerERxpEET97R3Ipf7nwzV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

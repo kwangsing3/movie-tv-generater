@@ -1,0 +1,133 @@
+{
+    "adult": false,
+    "backdrop_path": "/4w3xfestxM4BHUJVZbhxeUrI11e.jpg",
+    "created_by": [
+        {
+            "id": 551640,
+            "credit_id": "6276e58c389da10050867ec2",
+            "name": "Masami Obari",
+            "gender": 2,
+            "profile_path": "/mtn9RXFPmG4FJieqnV62FuJGVn8.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1997-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 34094,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1997-12-19",
+    "last_episode_to_air": {
+        "air_date": "1997-12-19",
+        "episode_number": 12,
+        "id": 781706,
+        "name": "To Have and to Hold",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 34094,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Virus Buster Serge",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ウイルス",
+    "overview": "Neo Hong Kong, 2097: The world has changed. Advances in genetic engineering and cybernetics have created an environment full of artificially enhanced humans and intelligent super-computers that operate using biological software. But the same technology that has allowed man & machine to merge has made both susceptible to a new kind of threat - digital viruses capable of controlling their hosts.\n\nThe last line of defense against this insidious foe is an elite task force known as STAND. Equipped with state-of-the-art armored cybernetic suits known as \"variable gears,\" only this special law-enforcement arm can deal with virus-infected war machines on their own terms.",
+    "popularity": 2.678,
+    "poster_path": "/w8nND37qAB2Y82isRc8jXdGfij.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12518,
+            "logo_path": "/qJZAVb8vx6qFLQJ6cunRkVUJVdB.png",
+            "name": "d-rights",
+            "origin_country": "JP"
+        },
+        {
+            "id": 174948,
+            "logo_path": null,
+            "name": "Plum",
+            "origin_country": ""
+        },
+        {
+            "id": 174949,
+            "logo_path": null,
+            "name": "Hudson",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1997-10-02",
+            "episode_count": 12,
+            "id": 44889,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

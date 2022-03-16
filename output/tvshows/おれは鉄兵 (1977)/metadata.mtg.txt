@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/2v1PNSCwt5JTNhvKGj8joQDMUO5.jpg",
+    "created_by": [
+        {
+            "id": 1248921,
+            "credit_id": "525873f7760ee34661270bdc",
+            "name": "Tetsuya Chiba",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1977-09-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.nippon-animation.co.jp/work/1273/",
+    "id": 23696,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1978-03-20",
+    "last_episode_to_air": {
+        "air_date": "1978-03-20",
+        "episode_number": 28,
+        "id": 2457378,
+        "name": "Episode 28",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 23696,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "おれは鉄兵",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 28,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おれは鉄兵",
+    "overview": "",
+    "popularity": 1.361,
+    "poster_path": "/wrpwdA6KaxFLgIYrPHqWIahXal2.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1977-09-12",
+            "episode_count": 28,
+            "id": 33722,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wrpwdA6KaxFLgIYrPHqWIahXal2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3,
+    "vote_count": 3
+}

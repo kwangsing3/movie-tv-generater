@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/aRAm1DQhfxrxuWG2SNCCVEev7gi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        29
+    ],
+    "first_air_date": "2022-03-28",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81264354",
+    "id": 112169,
+    "in_production": false,
+    "languages": [
+        "ja",
+        "la"
+    ],
+    "last_air_date": "2022-03-28",
+    "last_episode_to_air": {
+        "air_date": "2022-03-28",
+        "episode_number": 11,
+        "id": 3623319,
+        "name": "Lucius Builds a Spa Town",
+        "overview": "To undermine public support for the Emperor, some members of the Senate scheme to get rid of the man behind the popular bathhouses: Lucius.",
+        "production_code": "",
+        "runtime": 36,
+        "season_number": 1,
+        "show_id": 112169,
+        "still_path": "/yQ6YnUA6rpnL6fOgmBUGdqEwgho.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Thermae Romae Novae",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "name": "Netflix",
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "テルマエ・ロマエ ノヴァエ",
+    "overview": "A proud bath architect in ancient Rome starts randomly surfacing in present-day Japan, where he's inspired by the many bathing innovations he finds.",
+    "popularity": 2.382,
+    "poster_path": "/vHBI6uDKqI1w0PUt8y1y0yetaq0.jpg",
+    "production_companies": [
+        {
+            "id": 42563,
+            "logo_path": "/iE1h5iSKEOVbtWh4BX4MbvVNsr5.png",
+            "name": "NAZ",
+            "origin_country": "JP"
+        },
+        {
+            "id": 162613,
+            "logo_path": "/eWF9vlk3e5OH3G0bmVu6WvojKMo.png",
+            "name": "Sonilude",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-03-28",
+            "episode_count": 11,
+            "id": 166878,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ePZ4N5SrkNjQwSBpPErOlKJAQb7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 5
+}

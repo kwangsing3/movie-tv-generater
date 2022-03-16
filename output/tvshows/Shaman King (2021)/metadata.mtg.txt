@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": "/sAaGHo7ww5QMw6lk1ZWYrSPcgI7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://shamanking-project.com",
+    "id": 104699,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-04-21",
+    "last_episode_to_air": {
+        "air_date": "2022-04-21",
+        "episode_number": 52,
+        "id": 3535247,
+        "name": "God End",
+        "overview": "Hao has finally reached the Shaman King and become a new god. His friends fall one after another in the face of his overwhelming power. As the countdown to mankind's extinction continues, Yoh and his friends, shamans who communicate with spirits, have not yet given up hope.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 104699,
+        "still_path": "/uHcyjroCbVBvqVrWUawrzwpbwbw.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shaman King",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 252,
+            "name": "TV Aichi",
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Shaman King",
+    "overview": "Medium Yoh Asakura enters a battle tournament held every 500 years, competing with other shamans in a bid to become the all-powerful Shaman King.",
+    "popularity": 47.891,
+    "poster_path": "/5nubFtosTflE1Or41glBpQpWFYK.jpg",
+    "production_companies": [
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 23399,
+            "logo_path": "/tXMheRYcKXCK1a90NRESqO1ibhQ.png",
+            "name": "King Records",
+            "origin_country": "JP"
+        },
+        {
+            "id": 43693,
+            "logo_path": null,
+            "name": "Bridge",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 151984,
+            "logo_path": null,
+            "name": "Techno Sound",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-01",
+            "episode_count": 52,
+            "id": 153295,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5O1ovLYTkJvisM6d8PgbKq0nQGO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 221
+}

@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/jkW2dLC3KVmLQAk4UzBtwvRh0HD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://yuuyame.com",
+    "id": 136763,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-21",
+    "last_episode_to_air": {
+        "air_date": "2022-06-21",
+        "episode_number": 12,
+        "id": 3630732,
+        "name": "I'm Quitting Heroing",
+        "overview": "In the end, what does it mean to be a hero?",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 136763,
+        "still_path": "/khi1e03juzsi4zV2GkD8wMiRRw.jpg",
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    "name": "I'm Quitting Heroing",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "勇者、辞めます",
+    "overview": "After saving humanity from the despicable Demon King, Leo Demonhart does not earn a hero’s standing. Instead, he is regarded with suspicion and hostility by those he fought to protect. Treated as a pariah with nowhere else to turn, exiled Leo seeks a position in the army of his former nemesis! But the army is not what it once was before its defeat at Leo’s hands, so to maintain his new position, Leo must whip the forces back into fighting shape.",
+    "popularity": 41.091,
+    "poster_path": "/oflTB7Ddzw2lCBEADGQCkjp17OW.jpg",
+    "production_companies": [
+        {
+            "id": 9067,
+            "logo_path": null,
+            "name": "Glovision",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21346,
+            "logo_path": "/zFOXiwgrIakUsgWqbsDGgo6JEiw.png",
+            "name": "FlyingDog",
+            "origin_country": "JP"
+        },
+        {
+            "id": 72366,
+            "logo_path": null,
+            "name": "EMT²",
+            "origin_country": "JP"
+        },
+        {
+            "id": 170653,
+            "logo_path": null,
+            "name": "JVC Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-06-24",
+            "episode_count": 2,
+            "id": 286522,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/heu3vwtZxWEtSNdWD42MWISwDuP.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2022-04-05",
+            "episode_count": 12,
+            "id": 216336,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bVx42LkOZL3Ii0og0iFmDMJch3w.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 18
+}

@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/jviYkAtBDUg5TDzobRNDAKWM3Zh.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1966-05-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/lineup/tv/kaizoku_ouji/",
+    "id": 203923,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "1966-11-28",
+    "last_episode_to_air": {
+        "air_date": "1966-11-28",
+        "episode_number": 31,
+        "id": 3780098,
+        "name": "Episode 31",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 203923,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pirate Prince",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 31,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "海賊王子",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/ckjquuLRxmV4suZHFOOmi0fprD1.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1966-05-02",
+            "episode_count": 31,
+            "id": 297174,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ckjquuLRxmV4suZHFOOmi0fprD1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

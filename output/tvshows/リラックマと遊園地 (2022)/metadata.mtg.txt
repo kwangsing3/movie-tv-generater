@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/9wW1Lj2kAXIygVvZsqDB6kKeSmA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2022-08-25",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81341765",
+    "id": 138273,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Rilakkuma's Theme Park Adventure",
+    "next_episode_to_air": {
+        "air_date": "2022-08-25",
+        "episode_number": 1,
+        "id": 3330720,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": 15,
+        "season_number": 1,
+        "show_id": 138273,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 213,
+            "name": "Netflix",
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "リラックマと遊園地",
+    "overview": "Rilakkuma, Korilakkuma, Kiiroitori, and Kaoru are off on an adventure to the theme park, but with closing time imminent it leads to a series of fun mishaps and incidents as the group squeeze a day of fun into tiny amount of time.",
+    "popularity": 0.973,
+    "poster_path": "/jaEbOzy3drWxX5kidvKX8lf4T5K.jpg",
+    "production_companies": [
+        {
+            "id": 71226,
+            "logo_path": null,
+            "name": "TYO Animations",
+            "origin_country": "JP"
+        },
+        {
+            "id": 122939,
+            "logo_path": null,
+            "name": "Dwarf Studios",
+            "origin_country": ""
+        },
+        {
+            "id": 179139,
+            "logo_path": "/ofI1ScwOS5qSPGlleGNyncMOFzX.png",
+            "name": "San-X",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-25",
+            "episode_count": 8,
+            "id": 218956,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dWE6WlgJpfx2qdmFJhsL1yH79ne.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0
+}

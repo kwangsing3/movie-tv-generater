@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/lu37axKKvKcrXzGucnxKLFZzkeD.jpg",
+    "created_by": [
+        {
+            "id": 1353246,
+            "credit_id": "5d7f070df0647c76299d029d",
+            "name": "Fumikane Shimada",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://w-witch.jp/luminous/",
+    "id": 93655,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-24",
+    "last_episode_to_air": {
+        "air_date": "2022-07-24",
+        "episode_number": 4,
+        "id": 3814070,
+        "name": "Let's Sing a Song",
+        "overview": "It's time for a proper concert! But while the Luminous Witches would love to step into the spotlight, they need to put in a bit more work before they take to the stage.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 93655,
+        "still_path": "/fORLClSgigZ7y6XZwrBd72n7gTt.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "League of Nations Air Force Aviation Magic Band Luminous Witches",
+    "next_episode_to_air": {
+        "air_date": "2022-07-31",
+        "episode_number": 5,
+        "id": 3814071,
+        "name": "Episode 5",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 93655,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "連盟空軍航空魔法音楽隊ルミナスウィッチーズ",
+    "overview": "The war against invading aliens can’t be won by missiles alone! Team morale matters just as much as launching a counterassault, and that’s where Ginny and her friends come in. Instead of standing on the front lines with the 501st Joint Fighter Wing, the Luminous Witches of the League of Nations Air Force bring smiles to civilians displaced in the human-Neuroi war world with thrilling song and dance — not to mention aerial displays the likes of which the music world has never seen! While they might be non-combatants, these performers know the value of preserving the people’s smiles, and they’ll fight in their unique way to make sure those smiles never fade.",
+    "popularity": 37.033,
+    "poster_path": "/aDaRiIgWd407J0zrj6VzpiCmY2h.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-03",
+            "episode_count": 12,
+            "id": 132406,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gxHbWgqRzJTgCL71ujwyco9xaHu.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

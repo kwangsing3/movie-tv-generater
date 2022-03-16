@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/lpGx3ldDIcdSX75yyMh6DIxLRBB.jpg",
+    "created_by": [
+        {
+            "id": 3175993,
+            "credit_id": "610159d21b7294004511c31a",
+            "name": "Masami Kuzuo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "1979-01-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 130012,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1979-03-29",
+    "last_episode_to_air": {
+        "air_date": "1979-03-29",
+        "episode_number": 13,
+        "id": 3096547,
+        "name": "Episode 13",
+        "overview": "",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 130012,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "野ばらのジュリー",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "野ばらのジュリー",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/bQQbxlo4VCgOtpk6jSVDPDHBeto.jpg",
+    "production_companies": [
+        {
+            "id": 82917,
+            "logo_path": null,
+            "name": "Dax International",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1979-01-04",
+            "episode_count": 13,
+            "id": 203867,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

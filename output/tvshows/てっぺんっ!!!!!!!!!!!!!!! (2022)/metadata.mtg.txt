@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/cRxB9kwKAKoL5zn826uXMTDEYJf.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://teppen-anime.com/",
+    "id": 154901,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-23",
+    "last_episode_to_air": {
+        "air_date": "2022-07-23",
+        "episode_number": 3,
+        "id": 3825392,
+        "name": "The Salon Chapter",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 154901,
+        "still_path": "/7j1VsbpovSjsDP4zZLTa9LIAqEw.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Teppen!!!!!!!!!!!!!!! Laughing 'til You Cry",
+    "next_episode_to_air": {
+        "air_date": "2022-07-30",
+        "episode_number": 4,
+        "id": 3825393,
+        "name": "The Lamp Chapter",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 154901,
+        "still_path": "/lLD8MdHneCnaDg98yDKbEKh3ajo.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "てっぺんっ!!!!!!!!!!!!!!!",
+    "overview": "Yayoi Sakamoto, a diehard fan of comedians and comedy acts, enrolls in the private Kazuki High School in Nanba (Osaka's entertainment district famous as the starting point for many comedians). She reunites with Yomogi Takahashi, a childhood friend who once formed the comedy duo \"Konamonzu\" with her when they were little. Before long, they find themselves putting together a routine at a park like they did before, in order to enter a local shopping area's contest. At that moment, a mysterious girl calls out to them.",
+    "popularity": 23.158,
+    "poster_path": "/p2hiAKgudnMmHXTqOVxtTZbiv1j.jpg",
+    "production_companies": [
+        {
+            "id": 123199,
+            "logo_path": "/eYfRKOsOKXzL9zau5iKgUmRk8nK.png",
+            "name": "Drive",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 301041,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2022-07-02",
+            "episode_count": 11,
+            "id": 238693,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2Pg9UHNqJhHT07BE9Nk0roKaGPl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

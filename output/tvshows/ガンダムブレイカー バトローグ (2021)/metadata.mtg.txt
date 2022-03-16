@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/xiJX2hdTrDn15xcMHeAFniD1Stn.jpg",
+    "created_by": [
+        {
+            "id": 3161832,
+            "credit_id": "62cce75d4c1bb000507d770c",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2021-10-19",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://g-bb.net/",
+    "id": 134821,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-11-23",
+    "last_episode_to_air": {
+        "air_date": "2021-11-23",
+        "episode_number": 6,
+        "id": 3351781,
+        "name": "UNDER THE MASK",
+        "overview": "Takuma has appeared at last, and Mahara unleashes the hidden full power of the Gundam Barbataurus against him. Thus begins the final confrontation of a Gunpla Battle surpassing the imagination of any Gunpla Fighter.",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 134821,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gundam Breaker: Battlogue",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "ガンダムブレイカー バトローグ",
+    "overview": "After intense fighting, the GUNPLA Battle U.S. Championship enters its final round. Here, the figure of a certain fighter appears. A few months later Satsukino Misa, building a new GUNPLA in the Ayato Shopping Street, seems to be in a worse mood than usual. As an outlet for her unfocused anger, she sets her completed GUNPLA in a simulator and enters battle, but the GUNPLA is suddenly restrained. On the eve of the huge GB Festa event, the fates of the GUNPLA Fighters are at a critical juncture.",
+    "popularity": 1.615,
+    "poster_path": "/cdlzBwa1fjpPp1jttJ64mPOAeoq.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-10-19",
+            "episode_count": 6,
+            "id": 212867,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

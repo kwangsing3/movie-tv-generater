@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/3XlKckxPEa4lg5w4vHnyE35PUyI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-04-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/boruto/",
+    "id": 70881,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-24",
+    "last_episode_to_air": {
+        "air_date": "2022-07-24",
+        "episode_number": 259,
+        "id": 3794374,
+        "name": "A Wound That Never Heals",
+        "overview": "Mitsuki worries when Mikazuki the cat goes missing. Mitsuki, Boruto, and Sarada are assisting with the village patrol at the request of the police department, which is having difficulty investigating a strange series of attacks. From morning until night, Mitsuki spends his days on patrol, when one day, he sees Mikazuki being cared for by another person and being called by another name!",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 70881,
+        "still_path": "/jKkUkdw7OWZxrJ8rh6uGvB3ZBIX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Boruto: Naruto Next Generations",
+    "next_episode_to_air": {
+        "air_date": "2022-07-31",
+        "episode_number": 260,
+        "id": 3794375,
+        "name": "Fireworks of Love",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 70881,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 260,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BORUTO-ボルト- NARUTO NEXT GENERATIONS",
+    "overview": "The life of the shinobi is beginning to change. Boruto Uzumaki, son of Seventh Hokage Naruto Uzumaki, has enrolled in the Ninja Academy to learn the ways of the ninja. Now, as a series of mysterious events unfolds, Boruto’s story is about to begin!",
+    "popularity": 26.765,
+    "poster_path": "/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-06",
+            "episode_count": 2,
+            "id": 90411,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/1t5KWEDwb07ijtgJeKB1ZW4Z7sZ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-04-05",
+            "episode_count": 260,
+            "id": 86520,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pe9TMHu4rWbETYGWgR4jQNlSkkL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.931,
+    "vote_count": 2092
+}

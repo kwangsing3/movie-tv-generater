@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/4f7eSHOgKOjbpXIZs9UC4mLetxy.jpg",
+    "created_by": [
+        {
+            "id": 1961606,
+            "credit_id": "5a5f015f9251415aa00055fd",
+            "name": "Hideo Azuma",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-05-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 25833,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-03-26",
+    "last_episode_to_air": {
+        "air_date": "1983-03-26",
+        "episode_number": 46,
+        "id": 1303233,
+        "name": "Episode 46",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 25833,
+        "still_path": "/xzSuGfs7BQzWxNY7hQaXpWdTjae.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Little Pollon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 46,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おちゃめ神物語コロコロポロン",
+    "overview": "The main character of the story is Pollon, a sweet, precocious little girl who is the daughter of the God of the Sun, Apollo. Pollon's goal in life is to grow up to become a beautiful and powerful goddess. She attempts to do good deeds and help out any way she can in order to achieve the status of godhood. Invariably, her overtures backfire and end up causing major trouble for both the gods of Olympus and their human subjects. However, Pollon's kind heart, perseverance and indomitable spirit win out in the end, as she attains the title of \"Goddess of Hope.\"",
+    "popularity": 4.86,
+    "poster_path": "/e1aq0ScR1HbQfln19RnTkHpdfRV.jpg",
+    "production_companies": [
+        {
+            "id": 123414,
+            "logo_path": null,
+            "name": "Kokusai Eigasha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 2,
+            "id": 36231,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1982-05-08",
+            "episode_count": 46,
+            "id": 36230,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xtiSINzQG8hToBPl5azpCyyWt5Y.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

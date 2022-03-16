@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/6wyWJUSe10s22k1omtL9kclSxsF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1969-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://lineup.toei-anim.co.jp/ja/tv/ataro/",
+    "id": 204053,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1970-12-25",
+    "last_episode_to_air": {
+        "air_date": "1970-12-25",
+        "episode_number": 90,
+        "id": 3784146,
+        "name": "Episode 90",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 204053,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "もーれつア太郎",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 90,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "もーれつア太郎",
+    "overview": "",
+    "popularity": 1.182,
+    "poster_path": "/4h1MJXJ9WaufvRCNGzkPxY7DHsv.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1969-04-04",
+            "episode_count": 90,
+            "id": 297400,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4h1MJXJ9WaufvRCNGzkPxY7DHsv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/reolfY7OnIxxRhiPMgndH6RLK6B.jpg",
+    "created_by": [
+        {
+            "id": 3161832,
+            "credit_id": "62cce945058224006abaef07",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2006-07-14",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "http://www.seed-stargazer.net",
+    "id": 43142,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-29",
+    "last_episode_to_air": {
+        "air_date": "2006-09-29",
+        "episode_number": 3,
+        "id": 885611,
+        "name": "Stage 03",
+        "overview": "Phantom Pain attacks the DSSD station to steal the AI data of the Stargazer. The brutal assault leaves many DSSD members and the Verde Buster pilot, Shams Couza, dead. To counter the attack, Selene and Sol launch in the Stargazer and use its unique features to destroy several enemy mobile suits. Lost in space, Selene captures the Strike Noir and uses the Stargazers propulsion system to catapult themselves near Venus. Sven and Selene meet face to face and start their long journey home. Selene administers a drug on both of them to increase the oxygen absorption inside their blood and they slowly enter coma state. They must be found within 27 days or they will die from lack of oxygen, but Sol finds the Stargazer 27 days and 21 hours later.",
+        "production_code": "",
+        "runtime": 15,
+        "season_number": 1,
+        "show_id": 43142,
+        "still_path": "/rxv5tX6D9VIMAomNP9QzyfgEb9M.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam SEED C.E. 73: Stargazer",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "机动戦士ガンダムSEED C.E.73  STARGAZER",
+    "overview": "Mobile Suit Gundam SEED C.E. 73: Stargazer is a side story to the anime TV series, Mobile Suit Gundam SEED Destiny. As of July 2006, it is being streamed on Bandai Channel as an original net animation. The show is directed by Susumu Nishizawa and written by Shigeru Morita, both staff members of Gundam SEED Destiny.\n\nThe series consists of three episodes, each running at 15-minutes long. The web broadcast began in July 2006, with a new episode showing monthly. A DVD containing all three episodes as well as the two 5-minute long Mobile Suit Gundam SEED Astray animated shorts was released on November 24, 2006. This DVD also contained a different ending for Stage 3 in which several scenes after the Phantom Pain attack are shown.\n\nA manga adaptation of the series has been released in 2007. Authored by Naoki Moriya, it features an epilogue reveals the previously uncertain fate of Selene and Sven as they are shown to be alive and mostly unharmed from their ordeal. Sven joins the DSSD.",
+    "popularity": 3.214,
+    "poster_path": "/cbayt4QCXRJHxqba3WY1U4Bsytl.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-03-01",
+            "episode_count": 3,
+            "id": 52604,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/sEJIIab2c5tuqmIUWbGpdaJOTHK.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-07-14",
+            "episode_count": 3,
+            "id": 52605,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/h4sOlPbjr1vXXvOPgPWRwSrIUNF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 5
+}

@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 116750,
+            "credit_id": "623a09ae54a8ac001c2b4093",
+            "name": "Yoshiaki Iwasaki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2002-01-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 195800,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2002-03-27",
+    "last_episode_to_air": {
+        "air_date": "2002-03-27",
+        "episode_number": 3,
+        "id": 3614757,
+        "name": "Naru",
+        "overview": "Things are a little strange after Kanako, Keitaro, and Naru were in the annex. Both seem to have dreams with Moe as guide showing their true feelings and past promises. Naru still can't show her feelings for Keitaro, causing Shinobu, Matoko, and Kanako in particular much frustration.",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 195800,
+        "still_path": "/iaa4S8WH1Ef9sfpeFXdHGlfupzV.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Love Hina Again",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラブひな Again",
+    "overview": "Keitaro and Naru have begun college life at Tokyo University! After a long period of studying, bizarre happenings, random trips, and misunderstanding upon misunderstanding, their dream has finally come true! However, their feelings for each other are still a little muddled. And just when Naru decides to get things out in the open once and for all, Keitaro disappears on an archaeological dig! With Naru's old flame Seta! And as if that's not enough to cause trouble at the Hinata Apartments, a new manager has been selected to run the place during Keitaro's absence. Kanako, Keitaro's sister, has a lot of ideas about how things should be done and begins making changes. But while Keitaro was laid back and easy going, Kanako believes in rules and discipline. Will anyone survive Hinata Boot Camp?",
+    "popularity": 1.037,
+    "poster_path": "/tuWiJg7VhMYGIa2eKdF31tM5rrs.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-01-26",
+            "episode_count": 3,
+            "id": 284526,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2
+}

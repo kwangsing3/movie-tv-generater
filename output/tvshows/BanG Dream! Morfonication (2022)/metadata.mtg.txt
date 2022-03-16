@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/jmJTiXzUcfCRCNw3cX6XOZtehgF.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-07-28",
+    "genres": [],
+    "homepage": "https://morfonica-anime.bang-dream.com/",
+    "id": 203340,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "BanG Dream! Morfonication",
+    "next_episode_to_air": {
+        "air_date": "2022-07-28",
+        "episode_number": 1,
+        "id": 3759994,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 203340,
+        "still_path": "/3VKQdNyMxWLDPOlgblchXaXaWot.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 247,
+            "name": "YouTube",
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        },
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BanG Dream! Morfonication",
+    "overview": "",
+    "popularity": 7.311,
+    "poster_path": "/jKffjqgZPNG19WzDivyLMs7IYHR.jpg",
+    "production_companies": [
+        {
+            "id": 42196,
+            "logo_path": "/nQNmHvcmaT0zk1Rf0TYtLYO5MpI.png",
+            "name": "Bushiroad",
+            "origin_country": "JP"
+        },
+        {
+            "id": 43363,
+            "logo_path": "/wrKoTEDjIxbIW9h5wi7GylgxbCU.png",
+            "name": "Sanzigen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-28",
+            "episode_count": 6,
+            "id": 296054,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pTHPMtbjUXQRWMjGUNa0ZHo9RSQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0
+}

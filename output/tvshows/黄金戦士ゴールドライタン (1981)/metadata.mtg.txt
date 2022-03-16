@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/zS2PLTipz9vwyMVBXqYTJ8v3jnA.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1981-03-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://tatsunoko.co.jp/works/gold-lightan-the-golden-warrior",
+    "id": 130674,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1982-02-21",
+    "last_episode_to_air": {
+        "air_date": "1982-02-21",
+        "episode_number": 52,
+        "id": 3112397,
+        "name": "Episode 52",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 130674,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gold Lightan - Golden Warrior",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "黄金戦士ゴールドライタン",
+    "overview": "Hiro finds what appears to be a broken lighter. However, it is actually Gold Lightan, who has fallen to Earth from the Robot Dimension. He stays in compact size until called upon to act as a valiant warrior to save Earth from alien invasion.",
+    "popularity": 1.125,
+    "poster_path": "/fhmieBR0uedCZ0QFwq6uYnyAT3P.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1981-03-01",
+            "episode_count": 52,
+            "id": 204935,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

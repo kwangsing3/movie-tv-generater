@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/hK4AmFEO5JBbvYxrreCpPiAxKg1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://cue-animation.jp/",
+    "id": 112463,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-25",
+    "last_episode_to_air": {
+        "air_date": "2022-06-25",
+        "episode_number": 24,
+        "id": 3437207,
+        "name": "The End of the Beginning",
+        "overview": "For new voice actresses, the success rate at auditions is much lower than the failure rate. Even though it seemed that the members of AiRBLUE had leapt right into a glamorous career, this reality applies as well. There are even days when nothing seems to work, and things are starting to look bleak. But then, almost as if to sweep away that depressing mood, an audition for the anime \"Alma of the Azure Valley\" comes up, the anime that was the reason for Haruna to pursue voice acting.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 112463,
+        "still_path": "/9u1JKZewXnqayQYzHxE9NbDMRd2.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "CUE!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "CUE!",
+    "overview": "The trials and tribulations of a group of sixteen young women who follow their dreams of becoming voice actors. But the voice acting world is highly competitive, and no matter how much someone practices, not everyone will make it past the audition process. Despite frustrations and setbacks, the story of a new generation of voice actors is about to begin.",
+    "popularity": 9.275,
+    "poster_path": "/eieeZ5She2ONUtWtdBPyMF8St4C.jpg",
+    "production_companies": [
+        {
+            "id": 10804,
+            "logo_path": "/f1mRiEP0loBe1n4FqmAeUiC68kI.png",
+            "name": "Yumeta Company",
+            "origin_country": "JP"
+        },
+        {
+            "id": 35971,
+            "logo_path": "/5q5P83YiDQa34FgGd2Wtw7aWBnr.png",
+            "name": "Graphinica",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156047,
+            "logo_path": "/bR1IGv2EUNaLGPIA3jRgbATUaX8.png",
+            "name": "Bit grooove promotion",
+            "origin_country": "JP"
+        },
+        {
+            "id": 162061,
+            "logo_path": "/4ifyuGx8hoCQHABtT0FXivqLLEd.png",
+            "name": "APDREAM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-08",
+            "episode_count": 24,
+            "id": 167368,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dasZtIPykCHvNsGNUpRoSmnpHaH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 4
+}

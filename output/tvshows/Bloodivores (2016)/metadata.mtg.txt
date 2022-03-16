@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/93RpUpvhlnJC8ToKV4pomHpxust.jpg",
+    "created_by": [
+        {
+            "id": 1417467,
+            "credit_id": "584ef070925141070e000cab",
+            "name": "Ye Chen",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1721935,
+            "credit_id": "584ef064c3a3682a90000cb5",
+            "name": "Nakamura Masashi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 68078,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-17",
+    "last_episode_to_air": {
+        "air_date": "2016-12-17",
+        "episode_number": 12,
+        "id": 1228932,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 68078,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bloodivores",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1605,
+            "name": "bilibili",
+            "logo_path": "/mtmMg3PD4YGfrlmqpEiO6NL2ch9.png",
+            "origin_country": "CN"
+        },
+        {
+            "id": 2007,
+            "name": "Tencent Video",
+            "logo_path": "/uBCIoV9AUGIdfXTrtJ6CRIxOZF6.png",
+            "origin_country": "CN"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Bloodivores",
+    "overview": "60 years ago, a strange case of insomnia struck the population, forcing them to stay awake for more than a full week. The victims, completely sleep deprived, all went mad. To cure this illness, a new medicine was produced, but the side effects turned the patients into vampires. Humanity went to war against this new species and triumphed, but some of the vampires managed to survive. Born from a Human and a Vampire, the main character Mi Liu, \"The Child of Hope,\" is to represent the new hope that will connect the two species.  (Source: MAL, Emon via ANN)",
+    "popularity": 2.25,
+    "poster_path": "/iVXifh1KfGi5N68vchvNZQUAHhQ.jpg",
+    "production_companies": [
+        {
+            "id": 147262,
+            "logo_path": null,
+            "name": "Creators in Pack Ink.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-01",
+            "episode_count": 12,
+            "id": 80703,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xKzRFO9XNjoW2V1N9wp1tvCBcy8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 9
+}

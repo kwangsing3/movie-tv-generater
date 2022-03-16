@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/j1V5dqKvrZQjR8WmqqTPwSAI7mB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1981-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 37526,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1981-09-29",
+    "last_episode_to_air": {
+        "air_date": "1981-09-29",
+        "episode_number": 26,
+        "id": 847817,
+        "name": "Spring in Concord",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 37526,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Little Women",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "『若草物語』より若草の四姉妹",
+    "overview": "In the United States, the Civil War has just broken and Mr March, a physician and father of four daughters, went to the front. Madam March remains alone with her four daughters: the eldest Margaret (Meg), Josephine (Jo) budding writer, a real boy failed, Elisabeth (Beth), the timid passionate piano, and the latest addition, Amy, who loves to draw. The four girls will quickly get to know their neighbor Mr. Lawrence, which they had a little scared at first, but also to his grandson Laurie who at the age of Jo. Together, they go through many hardships, more or less happy, the furies of Aunt March, jealousies, the joys and the war in fabric background, hoping that their father will come back safe and sound...",
+    "popularity": 1.456,
+    "poster_path": "/f1aJ4akWechaU1906PR8RAm1GXS.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1981-04-07",
+            "episode_count": 26,
+            "id": 48867,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aHxesYXc76fXSQObPIIY3Pe8fhz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1
+}

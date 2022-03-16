@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/A1xhh7SpACpkz9NefSemWzuD1O5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1983-04-09",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://tatsunoko.co.jp/works/itadakiman",
+    "id": 68606,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1993-09-17",
+    "last_episode_to_air": {
+        "air_date": "1993-09-17",
+        "episode_number": 18,
+        "id": 3847792,
+        "name": "Episode 18",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 68606,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "タイムボカンシリーズ イタダキマン",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 20,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "タイムボカンシリーズ イタダキマン",
+    "overview": "The story begins in the year of 20XX. Oshaka School in Kamakuland is a prestige school of the world where only those who are pure and clearheaded descendants of Priest Sanzo's clan may be admitted. As for the familiar villain trio, they are in firm belief that they are genuine descendants of Priest Sanzo's clan although actually they are of uncertain lineage. They study hard to enter the school in spite of their repeated failure. One day three intelligent children are called in by the principal and asked by Shakyamuni dwelling in his body to find missing puzzle copperplates scattered all over the world and complete the puzzle board to heighten honor of Oshaka School. The conversation, however, is overheard by the villain trio and they decide to forestall those selected youngsters. Then they happen to meet with a brilliant boy named koochan who appears handy and so they take him with them and attempt to take away puzzle copperplates from a goblin. At the same time they try to win the goblin over to their side and attack our heroes together. Being aware of the evil scheme, Koochan transforms himself into Itadakiman and fights bravely to drive the wicked trio away.",
+    "popularity": 1.419,
+    "poster_path": "/7HIHAufNZ3AQJ9hVGtw4cFGEPmB.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1983-04-09",
+            "episode_count": 20,
+            "id": 81800,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

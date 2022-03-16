@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/stUY7MRSyTeEaZSwC6h64BjsENb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-02-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://tatsunoko.co.jp/works/ippatsuman",
+    "id": 68607,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-03-26",
+    "last_episode_to_air": {
+        "air_date": "1983-03-26",
+        "episode_number": 58,
+        "id": 3828864,
+        "name": "Episode 58",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 68607,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Time Bokan Series: Gyakuten Ippatsuman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 58,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "タイムボカンシリーズ 逆転イッパツマン",
+    "overview": "Gyakuten! Ippatsuman is the sixth in the Time Bokan series. In the 1990s-era Osteandel City is the headquarters of Time Lease, a business that leases almost everything you could ask for including powerful robots. They are proud of themselves for being number one in the international ranking of billionaires, for the past ten consecutive years. Meanwhile there is another lease company in the same city called Skull Lease where the notorious villain trio work as top executives. Their ostensible object is to disgrace the credit of Time Lease and replace them as the leading enterprise. In fact, however, they have a scheme to secure a footing for world conquest. One day a transport robot of Time Lease is assaulted by the villain trio and it is time for Ippatsuman to get on the move to fight for justice.",
+    "popularity": 0.6,
+    "poster_path": "/5N4CjbTFAj2WRpDxtxpuw9CDcKO.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-02-13",
+            "episode_count": 58,
+            "id": 81801,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uvqBqN31Fe9NfX12I7WXhhHy9SJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

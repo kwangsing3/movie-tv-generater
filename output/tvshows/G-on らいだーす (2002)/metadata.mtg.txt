@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/fQgfrj1gbqjSHkpBJ6KxqoNlm0g.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2002-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 34764,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-10-01",
+    "last_episode_to_air": {
+        "air_date": "2002-10-01",
+        "episode_number": 13,
+        "id": 791728,
+        "name": "Full Force Strawberries",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 34764,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "G-On Riders",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 14,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "G-on らいだーす",
+    "overview": "At Saint Hoshikawa School there is a clandestine group called the G-On Riders. Students with superior strength and ability are chosen to be in the group, which was formed to fight against alien attacks on Earth.",
+    "popularity": 0.676,
+    "poster_path": "/yPjBcUf6RFUCyZkiOy097gtZ1ru.jpg",
+    "production_companies": [
+        {
+            "id": 23917,
+            "logo_path": null,
+            "name": "TNK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-07-02",
+            "episode_count": 14,
+            "id": 45539,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3m5oawUiuJbm0alCHoR1YEczZaC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

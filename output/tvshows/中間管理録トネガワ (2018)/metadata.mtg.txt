@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/dQfZys0J7i1cLr0Tl3Z6vORPfR0.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tonegawa-anime.com",
+    "id": 80463,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-26",
+    "last_episode_to_air": {
+        "air_date": "2018-12-26",
+        "episode_number": 24,
+        "id": 1651811,
+        "name": "End of the Line",
+        "overview": "Hyoudou's latest craving for diabolical entertainment is so twisted, people are afraid to talk about it... even the narrator! And then, wedding bells begin to ring for one member of Team Tonegawa.",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 80463,
+        "still_path": "/5cswjdKJwADAPxDupiaY7jRAi0P.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mr. TONEGAWA Middle Management Blues",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "中間管理録トネガワ",
+    "overview": "Nobody knows what it's like to be the bad man… except the bad man's right-hand man, who has to take the boss' deranged ideas and turn them into functioning plans. So, when the sadistic president of the Teiai Group decides he's bored with the routine leg breaking and widow/orphan evicting, he assigns the task of coming up with something \"special\" to his ruthless Number Two, Yukio Tonegawa. But how do you amuse someone who destroys a dozen lives before breakfast?\n\nThere's a huge pool of potential victims in the form of TFO's swollen roster of defaulting borrowers, but if Tonegawa and his team of nearly identical men in black look-alikes can't create a \"game of death\" that tickles the boss' demented funny bones, they may end up playing the game themselves!",
+    "popularity": 7.587,
+    "poster_path": "/4wSWVBPK6SYnUMjKjXPKN79aFFJ.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-04",
+            "episode_count": 24,
+            "id": 105634,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iZ6uYWnTOMudr1KqTFdXrB2vUcQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

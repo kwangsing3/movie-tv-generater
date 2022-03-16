@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/2pq2vA0mz4WgYvSvN8WIaEpNLvv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2022-07-24",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://maid-ga-ayashii.com",
+    "id": 202160,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-24",
+    "last_episode_to_air": {
+        "air_date": "2022-07-24",
+        "episode_number": 1,
+        "id": 3726140,
+        "name": "The Maid I Hired Recently Is Mysterious",
+        "overview": "",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 202160,
+        "still_path": "/4SO9O7qw3F6k35Erd5tNSJ70kMg.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Maid I Hired Recently Is Mysterious",
+    "next_episode_to_air": {
+        "air_date": "2022-07-31",
+        "episode_number": 2,
+        "id": 3838378,
+        "name": "The Young Master, the Cat, and the Morning Glory",
+        "overview": "",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 202160,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1410,
+            "name": "ABC TV",
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "最近雇ったメイドが怪しい",
+    "overview": "There’s something really strange about the maid I just hired! No normal person could be so beautiful, or cook such amazingly delicious food, or know exactly what I want before I even ask. She must be using magic—right, a spell is the only thing that can explain why my chest feels so tight whenever I look at her. I swear, I’m going to get to the bottom of what makes this maid so...mysterious!",
+    "popularity": 38.408,
+    "poster_path": "/iGv5HouvyQvWF1SCEzzMtej9zhP.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 132732,
+            "logo_path": "/2EjSQXmUMKu697cIhWosbgo7lEA.png",
+            "name": "BLADE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-24",
+            "episode_count": 11,
+            "id": 294046,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iGv5HouvyQvWF1SCEzzMtej9zhP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

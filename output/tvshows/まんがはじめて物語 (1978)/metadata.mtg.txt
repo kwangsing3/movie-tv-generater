@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/zO1dI6ZW1KRIsi4gmwkhXRQWLOU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1978-05-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://www.tbs.co.jp/tbs-ch/item/a0023/",
+    "id": 204833,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-03-31",
+    "last_episode_to_air": {
+        "air_date": "1984-03-31",
+        "episode_number": 305,
+        "id": 3806542,
+        "name": "Episode 305",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 204833,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "まんがはじめて物語",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 305,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まんがはじめて物語",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/unGVjYNOaYXOXwAa9O3ibc2x8pZ.jpg",
+    "production_companies": [
+        {
+            "id": 1393,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "name": "TBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 82917,
+            "logo_path": null,
+            "name": "Dax International",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1978-05-06",
+            "episode_count": 305,
+            "id": 298701,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/unGVjYNOaYXOXwAa9O3ibc2x8pZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

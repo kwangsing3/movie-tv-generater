@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/jzQopgN2oF4fdr8WmA5zwcN72mY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "1981-02-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 45050,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1982-02-06",
+    "last_episode_to_air": {
+        "air_date": "1982-02-06",
+        "episode_number": 52,
+        "id": 896531,
+        "name": "Benvenuta, regina!",
+        "overview": "",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 45050,
+        "still_path": "/ssFr6G4wmpmkOJcHk698BVvrb8u.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Time Bokan Series: Yattodetaman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "タイムボカンシリーズ ヤットデタマン",
+    "overview": "Two royal houses battle for the power to rule the Kingdom of Fir. In order to secure the Kingdom, two representatives go back in time to find the mythical Firebird, which will allow its bearer to become the rightful ruler.",
+    "popularity": 3.154,
+    "poster_path": "/s1LCOVHyLrxSnZHHBUtKJYektuf.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1981-02-07",
+            "episode_count": 52,
+            "id": 53716,
+            "name": "Time bokan season 1",
+            "overview": "",
+            "poster_path": "/yVyEZ90XB3SqeHCBpzInQjPjtcx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

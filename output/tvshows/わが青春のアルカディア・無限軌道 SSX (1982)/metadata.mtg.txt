@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/8sjzmiu6A29TgE6R2RJw2eCS0KL.jpg",
+    "created_by": [
+        {
+            "id": 78014,
+            "credit_id": "5258e8d6760ee346618670cc",
+            "name": "Leiji Matsumoto",
+            "gender": 2,
+            "profile_path": "/muSDczQxWUkLQQuwVvLO8fSdshM.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1982-10-13",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 37392,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-03-30",
+    "last_episode_to_air": {
+        "air_date": "1983-03-30",
+        "episode_number": 22,
+        "id": 845203,
+        "name": "To our mother world Earth! Space hero eternally…",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 37392,
+        "still_path": "/jpv7nonG5gxUcDSDqaMgZgrK1Vp.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Arcadia of My Youth: Endless Orbit SSX",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "わが青春のアルカディア・無限軌道 SSX",
+    "overview": "Arcadia of My Youth: Endless Orbit SSX is an animated television series created by Leiji Matsumoto. It's the sequel to the 1982 animated film Arcadia of My Youth. However, like many of the stories set in the Leijiverse, the continuity of the series does not necessarily agree with other Harlock series or films.",
+    "popularity": 5.809,
+    "poster_path": "/iCm5FJIQFrS5dN4nVSPYg8kwAKN.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1978-10-12",
+            "episode_count": 4,
+            "id": 48668,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/wgYXCGlIJ0rCXV25zimEBlZfuBp.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1982-10-13",
+            "episode_count": 22,
+            "id": 48667,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iCm5FJIQFrS5dN4nVSPYg8kwAKN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 7
+}

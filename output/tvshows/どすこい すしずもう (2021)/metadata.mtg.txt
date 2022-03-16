@@ -1,0 +1,147 @@
+{
+    "adult": false,
+    "backdrop_path": "/lrUP2Al5VccIy5UQDlshVVMh5ym.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2021-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://sushisumo.jp/",
+    "id": 121304,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-31",
+    "last_episode_to_air": {
+        "air_date": "2022-03-31",
+        "episode_number": 52,
+        "id": 3471454,
+        "name": "Episode 52",
+        "overview": "",
+        "production_code": "",
+        "runtime": 5,
+        "season_number": 1,
+        "show_id": 121304,
+        "still_path": "/rmeCuEzCRjXZAECzYTvtNQyshx4.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sushi Sumo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 343,
+            "name": "Gunma TV",
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 663,
+            "name": "Chiba TV",
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 792,
+            "name": "tvk",
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 861,
+            "name": "BS11",
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1137,
+            "name": "KBS Kyoto",
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1176,
+            "name": "Mie TV",
+            "logo_path": "/iJZZIOdaKz7aYK01BTUo001ooPc.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3970,
+            "name": "SBS TV\t",
+            "logo_path": "/bIZ3Aa0JMRCevaYIVqTKY32Yow3.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "どすこい すしずもう",
+    "overview": "Sushi have become sumo wrestlers!! Which SUSHI ingredient is the strongest of all!?\n\nTamago-nosato, Otoro-yama, Salmon-zakura, Kurumaebi-zou, Ikura-maru……and so many more.\n\nEach unique sumo wrestler uses its ingredients to its advantage, unleashing a wide range of techniques.\n\nSo, who will win today’s match!? Put some spirit into it!",
+    "popularity": 1.388,
+    "poster_path": "/2CWzHJJurcZq6Xa0TqpNcKtk7Z4.jpg",
+    "production_companies": [
+        {
+            "id": 11327,
+            "logo_path": "/gJM4ZwaQEKz9zsus8MNGWbm4maV.png",
+            "name": "Shirogumi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-08",
+            "episode_count": 52,
+            "id": 187011,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2CWzHJJurcZq6Xa0TqpNcKtk7Z4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Hakkeyoi Nokotta!",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

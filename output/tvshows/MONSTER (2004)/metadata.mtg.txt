@@ -1,0 +1,142 @@
+{
+    "adult": false,
+    "backdrop_path": "/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2004-04-06",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 30981,
+    "in_production": false,
+    "languages": [
+        "de",
+        "ja",
+        "tr"
+    ],
+    "last_air_date": "2005-09-27",
+    "last_episode_to_air": {
+        "air_date": "2005-09-27",
+        "episode_number": 74,
+        "id": 749587,
+        "name": "The Real Monster",
+        "overview": "It has been some time since the tragic blood battle, and everyone is working hard to put their lives back to normal. Tenma finally locates a woman he has been searching for, and she reveals some startling information.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 30981,
+        "still_path": "/nPvjX9pqeuNeIlr0YGB9LoT1efh.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Monster",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 74,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "MONSTER",
+    "overview": "Kenzou Tenma, a Japanese brain surgeon in Germany, finds his life in utter turmoil after getting involved with a psychopath that was once a former patient.",
+    "popularity": 24.772,
+    "poster_path": "/7ZhHyA0IIQOyz1hzCXpTilXg4Q2.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5261,
+            "logo_path": null,
+            "name": "Shogakukan Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11725,
+            "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+            "name": "VAP",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-09-21",
+            "episode_count": 2,
+            "id": 42538,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/taGxpIu3HfVL9x0FzVPR4W0JDYO.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-04-06",
+            "episode_count": 74,
+            "id": 42537,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/taGxpIu3HfVL9x0FzVPR4W0JDYO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Turkish",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 313
+}

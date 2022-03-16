@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/nZduEFaAj7ll0FJGFkmRcJwYZPK.jpg",
+    "created_by": [
+        {
+            "id": 572015,
+            "credit_id": "55c4dd90c3a36856a000020a",
+            "name": "Yoshito Usui",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1992-04-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "http://www.tv-asahi.co.jp/shinchan/",
+    "id": 30623,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-21",
+    "last_episode_to_air": {
+        "air_date": "2018-09-21",
+        "episode_number": 2307,
+        "id": 3794810,
+        "name": "Episode 2307",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 30623,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shin Chan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 2307,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クレヨンしんちゃん",
+    "overview": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+    "popularity": 22.454,
+    "poster_path": "/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1992-04-13",
+            "episode_count": 2307,
+            "id": 106483,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7qJEhLlky9aZq0LdkXt98YLbITI.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.415,
+    "vote_count": 65
+}

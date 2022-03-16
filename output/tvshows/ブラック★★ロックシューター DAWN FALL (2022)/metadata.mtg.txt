@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/enDp4luDoSV9sksR6AhZqx4xIM2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://blackrockshooter-dawnfall.com/",
+    "id": 133733,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-19",
+    "last_episode_to_air": {
+        "air_date": "2022-06-19",
+        "episode_number": 12,
+        "id": 3630850,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 133733,
+        "still_path": "/sJiGMHrKppHOug1EbrKPi2dVjO6.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Black Rock Shooter: Dawn Fall",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブラック★★ロックシューター DAWN FALL",
+    "overview": "The year is 2062. Earth has been left in ruin after the failure of a labor automation project when the AI called Artemis waged war against humanity. A girl, Empress, awakens in a research lab. As one of the three surviving guardians, she must destroy the Orbital Elevator before Artemis can complete its construction. Failure will result in a machine army overrunning Earth.",
+    "popularity": 4.869,
+    "poster_path": "/fjwT6zU73MTptIkqta16dBKycGq.jpg",
+    "production_companies": [
+        {
+            "id": 118286,
+            "logo_path": null,
+            "name": "Bibury Animation Studios",
+            "origin_country": "JP"
+        },
+        {
+            "id": 162241,
+            "logo_path": null,
+            "name": "Bibury Animation CG",
+            "origin_country": "JP"
+        },
+        {
+            "id": 172244,
+            "logo_path": "/lz8CdepJJMQiZZ9Cf192IZkGNAG.png",
+            "name": "UNLIMITED PRODUCE by TMS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-03",
+            "episode_count": 12,
+            "id": 211166,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/x607kupq3V7rsIz2gakITqwElum.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

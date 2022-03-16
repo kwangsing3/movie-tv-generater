@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/qbpqRyypPb0KYYiMcSx1avaXl0e.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2022-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://anime.shochiku.co.jp/chimimo/",
+    "id": 194733,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-21",
+    "last_episode_to_air": {
+        "air_date": "2022-07-21",
+        "episode_number": 3,
+        "id": 3846162,
+        "name": "Episode 3",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 194733,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Chimimo",
+    "next_episode_to_air": {
+        "air_date": "2022-07-28",
+        "episode_number": 4,
+        "id": 3846163,
+        "name": "Episode 4",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 194733,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Chimimo",
+    "overview": "Meet hell's most adorable messenger. Chimimo might be an average demon, but he and his horde of minions have big dreams of unleashing hell on earth! Too bad a portal to the human realm drops him into the middle of the Onigami household, where the family’s three unflappable sisters rule the roost with iron fists. Now Chimimo is stuck as their freeloading roommate, and his ambitions of unleashing the apocalypse will have to wait until he can summon the willpower to get off the couch!",
+    "popularity": 9.24,
+    "poster_path": "/E8HX0g52oqL29buDCazk2WCJjB.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-07",
+            "episode_count": 12,
+            "id": 282643,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6LTVuYTZeKBZYLIaxRFJPfOYgb2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

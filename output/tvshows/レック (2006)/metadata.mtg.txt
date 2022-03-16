@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/6hdwhhTLt2eWdrdCdPyuU2wRiUa.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        13
+    ],
+    "first_air_date": "2006-02-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 34195,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-04-07",
+    "last_episode_to_air": {
+        "air_date": "2006-04-07",
+        "episode_number": 8,
+        "id": 3011899,
+        "name": "Episode 8",
+        "overview": "Matsumaru and Aka go out to eat and come across Tanaka who was just dumped by her boyfriend. She pressures him to drink with her for the night as Aka becomes jealous. He brings her home to Aka's dismay which makes her wonder if Tanaka can be trusted with him.",
+        "production_code": "",
+        "runtime": 13,
+        "season_number": 1,
+        "show_id": 34195,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rec",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 881,
+            "name": "BS-TBS",
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "レック",
+    "overview": "Rec is a Japanese manga about an aspiring voice actress by Q-Tarō Hanamizawa. A nine-episode anime adaptation by Shaft aired between February and March 2006; an original video animation episode was also produced.",
+    "popularity": 5.641,
+    "poster_path": "/eoNfmHW656JCIdfxKuW3MyG20u7.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-06-30",
+            "episode_count": 1,
+            "id": 45064,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-02-03",
+            "episode_count": 10,
+            "id": 45063,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/abArkPtc5RJ9BLQ73DGxUg3nxpl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 8
+}

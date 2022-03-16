@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/6dErjmx17e8kZn5zHAqLrbcTesV.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://trigun-anime.com/",
+    "id": 204266,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Trigun Stampede",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "TRIGUN STAMPEDE",
+    "overview": "",
+    "popularity": 0.882,
+    "poster_path": "/s65y6vtNuUtEbNtK5qSvqiNi3Cc.jpg",
+    "production_companies": [
+        {
+            "id": 61406,
+            "logo_path": "/cp27UOmwl39GhReASLlGOekc2OB.png",
+            "name": "Orange",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 297776,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/s65y6vtNuUtEbNtK5qSvqiNi3Cc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "Humanoid Typhoon is coming!!!!!",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

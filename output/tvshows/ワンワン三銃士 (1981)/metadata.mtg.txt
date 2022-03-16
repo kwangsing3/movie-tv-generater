@@ -1,0 +1,140 @@
+{
+    "adult": false,
+    "backdrop_path": "/7VhSMvi8fs9lixvynlZ20XEBfWR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1981-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.nippon-animation.co.jp/work/1404/",
+    "id": 5341,
+    "in_production": false,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2005-04-27",
+    "last_episode_to_air": {
+        "air_date": "2005-04-27",
+        "episode_number": 12,
+        "id": 359174,
+        "name": "Dogtanian to the Rescue",
+        "overview": "Cardinal Richelieu, Count Rochefort, Milady and Captain Widimer are planning to accuse Queen Anne of treason, Widimer and Rochefort plan to guard the two secret tunnels to the palace and catch Juliette. With Richelieu also trying to prove Dogtanian tried to kill the Queen, Treville decides to keep Dogtanian in the Bastille, guarded by The Three Musketeers, until the issue is sorted...",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 5341,
+        "still_path": "/r78dyA2qK76SB7KkZsTc7wnId0o.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Dogtanian and the Three Muskehounds",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 443,
+            "name": "La 1",
+            "logo_path": "/dN6GTZyNY32q2onfrvJ2iAeE4su.png",
+            "origin_country": "ES"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "es",
+    "original_name": "ワンワン三銃士",
+    "overview": "Dogtanian and the Three Muskehounds is an animated cartoon adaptation of the classic Alexandre Dumas story of d'Artagnan and The Three Musketeers. Most of the characters are anthropomorphizations of dogs, hence the title of the cartoon; although there are a few exceptions, most notably Dogtanian's two sidekicks Pip the mouse and Planchet the bear, among several others.",
+    "popularity": 8.069,
+    "poster_path": "/ydPAimbFDUv7dbegtvUNsHVUPuZ.jpg",
+    "production_companies": [
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 55627,
+            "logo_path": "/bzYzbvudH6eDsroZSVW8RVDYFEH.png",
+            "name": "BRB Internacional",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-01-01",
+            "episode_count": 2,
+            "id": 15413,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/l4f3Sx3IP7ur1YgQWWomZ1uQxdT.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1981-10-09",
+            "episode_count": 26,
+            "id": 15414,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5MZfYfS7ky5GWQm4sGXJS0O1SBs.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 33
+}

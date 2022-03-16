@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/vL1wyNIdO0yzPktTjNvmQbhijzU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-02-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://shenmue-anime.jp",
+    "id": 108891,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-05-01",
+    "last_episode_to_air": {
+        "air_date": "2022-05-01",
+        "episode_number": 13,
+        "id": 3489762,
+        "name": "Shenmue",
+        "overview": "Ryo finally reaches Lan Di, the man who murdered his Father. Blinded by revenge Ryo viciously attacks Lan Di. Lan Di easily dodges Ryo's attacks and leaves. Yellow Heads' Dou Niu realizes his plan has failed and attacks Ryo.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 108891,
+        "still_path": "/chFMJtT93TxS9mJpaTVuOqnfzl3.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shenmue the Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 80,
+            "name": "Adult Swim",
+            "logo_path": "/2ezVEkNx1tvBLONzDcViyfovWBH.png",
+            "origin_country": "US"
+        },
+        {
+            "id": 1112,
+            "name": "Crunchyroll",
+            "logo_path": "/81QfupgVijSH5v1H3VUbdlPm2r8.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "ja",
+    "original_name": "Shenmue the Animation",
+    "overview": "After he witnesses his father’s murder at the family dojo, Ryo Hazuki dedicates his life to finding the man responsible — a mission that takes him from the streets of Yokosuka, Japan to the sprawling metropolis of Hong Kong, and beyond. Soon he’ll learn that larger, mystical forces are at play as he trains to become the ultimate martial artist in his quest for revenge.",
+    "popularity": 5.42,
+    "poster_path": "/owwTW4OVSG1IbU9gpVgRHbD6Dgz.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 20868,
+            "logo_path": "/jhJGtYghSVawQJygEnJymQAqAb2.png",
+            "name": "Telecom Animation Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 113750,
+            "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+            "name": "SEGA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 118044,
+            "logo_path": null,
+            "name": "WAVE MASTER",
+            "origin_country": ""
+        },
+        {
+            "id": 169947,
+            "logo_path": "/z0p0fcv4oO6pl8DaCXFoBqERLF9.png",
+            "name": "Sola Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-02-06",
+            "episode_count": 13,
+            "id": 161393,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yF25bmrwTs4NDuKTqXQ1HHg7N9V.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.9,
+    "vote_count": 7
+}

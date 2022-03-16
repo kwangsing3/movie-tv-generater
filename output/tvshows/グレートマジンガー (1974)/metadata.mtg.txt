@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/cobH8xcQtBUjIQ4btggRGZgAUct.jpg",
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "592af2399251413b5b06421e",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1974-09-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://lineup.toei-anim.co.jp/ja/tv/great_mazin/",
+    "id": 9148,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1975-09-28",
+    "last_episode_to_air": {
+        "air_date": "1975-09-28",
+        "episode_number": 56,
+        "id": 1169553,
+        "name": "The Peace Bells Rings for the Heroes!",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 9148,
+        "still_path": "/fwJXKPwOqrKis8Hm0yL43IP81zo.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Great Mazinger",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 56,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "グレートマジンガー",
+    "overview": "After Koji Kabuto and Sayaka Yumi leave to the USA, it's up to the rash orphan Tetsuya Tsurugi to pilot the next Mazinger robot: the Great Mazinger. Under the direction of Dr. Kenzo Kabuto and helped by his adoptive sister Jun Honou, Tetsuya battles the Miccene Empire.",
+    "popularity": 6.761,
+    "poster_path": "/7nGqtwa4Ll4gscabYN7uGCFQdPa.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1975-03-21",
+            "episode_count": 4,
+            "id": 19058,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/hXaCbdJ3K955qIi05mneB5MUNHP.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1974-09-08",
+            "episode_count": 56,
+            "id": 19059,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nvnUa6L5dTlmEU1F679undOJbny.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 111
+}

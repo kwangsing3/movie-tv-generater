@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/y79nYQo4neuTPDGj7ug7nrvz8EE.jpg",
+    "created_by": [
+        {
+            "id": 3161832,
+            "credit_id": "62cce605fd4a960f4e839bf1",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1991-05-23",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.gundam0083.net/",
+    "id": 72677,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1992-09-24",
+    "last_episode_to_air": {
+        "air_date": "1992-09-24",
+        "episode_number": 13,
+        "id": 1334064,
+        "name": "A Storm Raging Through",
+        "overview": "The battle to stop the colony goes full-blast, with the Federation and Cima's forces working together to protect the Solar System II on one hand and the Delaz fleet shepherding the colony on the other while the Axis Advance Fleet stands back. Kou kills Cima in the fracas. The Solar System II fires, but Gato destroys the command ship, resulting in a weaker blast that barely damages the colony. As it breaks through the solar array, Gato enters the colony and inputs the final course corrections. Kou tries to stop him, but Nina interferes and protects Gato as they leave, revealing that they were once lovers. The two pilots continue to fight after Gato has Karius bring Nina to safety. The Solar System II remnants fire again, with many forces on both sides destroyed as the colony crashes into the Midwest. The Federation orders the Axis Advance Fleet to leave the Earth Sphere immediately, having overstayed their welcome, but Gato leads the Delaz Fleet survivors to attempt a breakthrough and dies in a kamikaze attack on a Federation ship. Several weeks later, Hymen and Bask Om announce the creation of the Titans. All records of Operation Stardust and the GP are erased, including Kou's one-year hard labor sentence. He eventually reunites with Nina, Keith, and Mora.",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 72677,
+        "still_path": "/l3NqHG7frIzAMyozqtm3WgssdP3.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam 0083: Stardust Memory",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士ガンダム0083 STARDUST MEMORY",
+    "overview": "It is the year 0083 of the Universal Century. The rebellious Principality of Zeon has been defeated in the One Year War by the Earth Federation. However, a faction of Zeon remnants led by Aguille Delaz fled from the final battle, hiding themselves away. After three long years, they attempt to rise up once more, sending Delaz’s ace pilot, Anavel Gato, to infiltrate a Federation research base to steal one of two secretly developed prototype Gundams along with its deadly nuclear warhead.\n\nThreatened by the rogue Gundam suit and seeking to retain peace, the Earth Federation mobilizes the newly developed Albion carrier to recover the stolen unit. Manned by the remaining test pilots, with rookie pilot Kou Uraki piloting the remaining prototype Gundam, the Albion and her crew are determined to stop Gato, retake the stolen Gundam, and prevent the Zeon remnants from starting another war.",
+    "popularity": 7.329,
+    "poster_path": "/j4LkiRJ71kaa3z9BgEJSPPk09AE.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1992-09-24",
+            "episode_count": 2,
+            "id": 93148,
+            "name": "Specials",
+            "overview": "Specials of Mobile Suit Gundam 0083: Stardust Memory",
+            "poster_path": "/nv9WAtVkpMwOu5fSz2EuYtoD3p8.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1991-05-23",
+            "episode_count": 13,
+            "id": 90150,
+            "name": "Mobile Suit Gundam 0083: Stardust Memory",
+            "overview": "",
+            "poster_path": "/3pBU28bg8WnfFzY0WHh99bOAIo9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 6.9,
+    "vote_count": 10
+}

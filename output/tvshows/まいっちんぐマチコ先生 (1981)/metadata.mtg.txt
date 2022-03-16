@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/2c90XWZxLeHDKtezzZsjbYR4HAO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1981-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 44650,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-07-21",
+    "last_episode_to_air": {
+        "air_date": "1983-07-21",
+        "episode_number": 95,
+        "id": 2461364,
+        "name": "The Soft Touch of Love",
+        "overview": "Arama Academy's 80th anniversary celebration is threatened when the vice principal's hard-nosed niece transfers to the school.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 44650,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Miss Machiko",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 95,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まいっちんぐマチコ先生",
+    "overview": "The mischievous students of Arama Academy meet their match in a beautiful and clever new teacher, Miss Machiko! But they're determined to find a prank that will really humiliate her.",
+    "popularity": 0.963,
+    "poster_path": "/2ZL8vWEDAlNy2v6ngxu2bhppxSy.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1981-10-08",
+            "episode_count": 95,
+            "id": 142826,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2ZL8vWEDAlNy2v6ngxu2bhppxSy.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 2
+}

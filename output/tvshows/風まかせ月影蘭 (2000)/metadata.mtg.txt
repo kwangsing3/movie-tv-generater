@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/ya4jBLRqb7UrduJuJmUSPfyUNnR.jpg",
+    "created_by": [
+        {
+            "id": 2950607,
+            "credit_id": "62c11e770bb0760dcd5779dd",
+            "name": "Madhouse",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2000-01-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.madhouse.co.jp/works/2000-1999/works_tv_kazemakase.html",
+    "id": 21320,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2000-04-19",
+    "last_episode_to_air": {
+        "air_date": "2000-04-19",
+        "episode_number": 13,
+        "id": 1390758,
+        "name": "She Hid a Romance in the Past",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 21320,
+        "still_path": "/n1XXFjlaeBUE0LDsWSZ8Jw0gIM6.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Carried by the Wind: Tsukikage Ran",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 172,
+            "name": "WOWOW Prime",
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "風まかせ月影蘭",
+    "overview": "Wandering the lands of Japan - Ran is a master swordsman with a strong sense of honor combined with the courage and strength to right wrongs and battle injustice.​ But that doesn't stop her from having a good time!\n\nStuck with an unwanted traveling companion,​ Myao,​ the two will bring law and order to the countryside.​.. if they don't kill each other first.​ A comedic,​ action drama from start to finish - the way of the Samurai will never be the same!",
+    "popularity": 2.337,
+    "poster_path": "/8iRPnx6DLECdW3I5QSlWKZppXMA.jpg",
+    "production_companies": [
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157807,
+            "logo_path": "/tyrJOOVAUIxQEJzjP1PhP2H5zFi.png",
+            "name": "WOWOW",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-01-26",
+            "episode_count": 13,
+            "id": 94963,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

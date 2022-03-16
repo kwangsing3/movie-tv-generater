@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/nY1GkT2Vvny2I3jUPgaTnhJql3y.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://rustedarmors-anime.com/",
+    "id": 131083,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-27",
+    "last_episode_to_air": {
+        "air_date": "2022-03-27",
+        "episode_number": 12,
+        "id": 3438585,
+        "name": "Episode 12",
+        "overview": "Magoichi is determined to have his brother back by his side, but Lucio seems equally determined to fulfill his ambitions of spreading death wherever he goes.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 131083,
+        "still_path": "/ryLp0oSRr1eDe88up1RSSFa9bYj.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rusted Armors",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "錆色のアーマ-黎明-",
+    "overview": "",
+    "popularity": 14.665,
+    "poster_path": "/sLS4zQgGoFdWqss9TrEfaYMGmkF.jpg",
+    "production_companies": [
+        {
+            "id": 164801,
+            "logo_path": null,
+            "name": "JCTV",
+            "origin_country": ""
+        },
+        {
+            "id": 164802,
+            "logo_path": null,
+            "name": "Studio51",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 12,
+            "id": 205677,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1n25rkLNQcmRdUL0D3TGJv3K1yG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 1.5,
+    "vote_count": 2
+}

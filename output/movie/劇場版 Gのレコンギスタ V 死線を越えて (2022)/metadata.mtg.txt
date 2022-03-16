@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": {
+        "id": 822849,
+        "name": "Gundam Reconguista in G Collection",
+        "poster_path": "/h9xKQGGtAtkrI3lQD1Ttxw39rm7.jpg",
+        "backdrop_path": "/sWkjkJ6DDG3HeK1dVM2adHisOqQ.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://g-reco.net/",
+    "id": 994319,
+    "imdb_id": "tt18973450",
+    "original_language": "ja",
+    "original_title": "劇場版 Gのレコンギスタ V 死線を越えて",
+    "overview": "The fifth and final film in the five-part Gundam: G no Reconguista Movie series.",
+    "popularity": 2.783,
+    "poster_path": "/9g1StWF1AMM3Y4gC5Mf43dCwELD.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "release_date": "2022-08-05",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Gundam Reconguista in G Movie V: Crossing the Line Between Life and Death",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

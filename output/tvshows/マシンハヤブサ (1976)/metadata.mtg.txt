@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/rR7yXPGI3yvRGKkVpYX1nfJTo9w.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1976-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://lineup.toei-anim.co.jp/ja/tv/hayabusa",
+    "id": 51925,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1976-09-24",
+    "last_episode_to_air": {
+        "air_date": "1976-09-24",
+        "episode_number": 21,
+        "id": 2456390,
+        "name": "Episode 21",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 51925,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Machine Hayabusa",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 21,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マシンハヤブサ",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/v89mGp7j2fhFu5ZKROeQq5QnFd3.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1976-04-02",
+            "episode_count": 21,
+            "id": 55928,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gxaWK129OlIsBSBS886EpshTIKS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

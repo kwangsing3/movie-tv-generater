@@ -1,0 +1,150 @@
+{
+    "adult": false,
+    "backdrop_path": "/2p4WlvOrdKjno5YRZ6IDQ7xixNy.jpg",
+    "created_by": [
+        {
+            "id": 1259093,
+            "credit_id": "62ceafb36331b200f328d3e7",
+            "name": "Monty Oum",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://anime.team-rwby-project.jp/",
+    "id": 195966,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-24",
+    "last_episode_to_air": {
+        "air_date": "2022-07-24",
+        "episode_number": 4,
+        "id": 3801429,
+        "name": "Ice Queendom",
+        "overview": "On her snowboard, Ruby slides down the snowy field. Weiss, possessed by the Grimm “Nightmare”, created a world in her dreams, which is a reflection of her mind. With the help of Shion, a Huntsman specializing in the Grimm “Nightmare”, Ruby sneaks into Weiss’ dream and heads toward the place where the “Nightmare” had taken root. Those possessed by the “Nightmare” will be entrapped in a nightmare where Aura and life will be deprived. Weiss was already in a dangerous condition. Ruby was so eager to quickly free Weiss from the “Nightmare” but the world reflecting Weiss’ mind, block’s Ruby’s way.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 195966,
+        "still_path": "/nosaWk69KQcFaYsHh6ImuXexhEy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "RWBY: Ice Queendom",
+    "next_episode_to_air": {
+        "air_date": "2022-07-31",
+        "episode_number": 5,
+        "id": 3801430,
+        "name": "Awaken in a dream",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 195966,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "RWBY 氷雪帝国",
+    "overview": "In the world of Remnant, a place where science and fairy tales coexist, human civilization is plagued by deadly monsters known as the Grimm. For a time, victory by the Grimm seemed all but certain, if not for the heroism of those sworn to protect humanity -- Huntsmen and Huntresses. These warriors are trained and assembled into teams at schools like Beacon Academy, where Ruby meets Weiss and Blake -- forming Team RWBY along with Ruby’s sister, Yang. While team RWBY studies to become the greatest Huntresses the world of Remnant has ever known, they are faced with a horrifying threat...",
+    "popularity": 94.897,
+    "poster_path": "/ovxsx3Kv35t5GnTXmhrQpTI0GXc.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17412,
+            "logo_path": "/mWttB7AboQmh1ij0e9yo0dFdz3c.png",
+            "name": "Rooster Teeth Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 60197,
+            "logo_path": "/D5B8l99tlFJGoMpYJk1kqxYdey.png",
+            "name": "Good Smile Company",
+            "origin_country": "JP"
+        },
+        {
+            "id": 98553,
+            "logo_path": "/81QfupgVijSH5v1H3VUbdlPm2r8.png",
+            "name": "Crunchyroll",
+            "origin_country": "US"
+        },
+        {
+            "id": 136217,
+            "logo_path": "/dBYuplhBgeOsGPQOI0LukWNbFWE.png",
+            "name": "Bandai Namco Arts",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-03",
+            "episode_count": 12,
+            "id": 284860,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lVykNJwz4jGes3KQF46CAgF9czq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

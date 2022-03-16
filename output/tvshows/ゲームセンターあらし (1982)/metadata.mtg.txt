@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/vtIRh8CUIKCto0H9Tc2CAQ3eqgL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.tv-asahi.co.jp/ch/contents/anime/0062/",
+    "id": 139278,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1982-09-27",
+    "last_episode_to_air": {
+        "air_date": "1982-09-27",
+        "episode_number": 26,
+        "id": 3833344,
+        "name": "Episode 26",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 139278,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Game Center Arashi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゲームセンターあらし",
+    "overview": "A young boy named Ishino Arashi is obsessed with video games. He would spend all his time trying to beat the games and conquer the local arcades. He would meet competitors like Daimonji Satoru and Ishii, who would try to out match him with higher scores. At a certain point in each episode, he would display his special skill of unleashing a top which will spin so fast that both the top and his hands would catch on fire. On release, the spin would land on or near the cabinet panels, turning the ordinary button into a turbo button thus giving him a major advantage. His appearance is known for being bucktoothed, and he always wears a hat labeled Arashi with a picture of a sprited alien.",
+    "popularity": 0.6,
+    "poster_path": "/j0L7YxUept66Gvcucg7wVxYy7bU.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6755,
+            "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-04-05",
+            "episode_count": 26,
+            "id": 220580,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sI450dxyEfP2Q1fcAofr20REjti.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

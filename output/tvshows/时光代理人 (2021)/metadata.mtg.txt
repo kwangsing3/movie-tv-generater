@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/hXQCqScrJ7OvH0al484FW9R7VGk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2021-04-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.bilibili.com/bangumi/media/md28230742/",
+    "id": 123542,
+    "in_production": true,
+    "languages": [
+        "zh"
+    ],
+    "last_air_date": "2021-07-09",
+    "last_episode_to_air": {
+        "air_date": "2021-07-09",
+        "episode_number": 11,
+        "id": 2961902,
+        "name": "Pinnacle of Light",
+        "overview": "The serial murderer was finally arrested, but the battle for Cheng Xiaoshi and Lu Guang was not over yet.",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 123542,
+        "still_path": "/mYTZpJOAq3RjlYWLNay5G4TAOZq.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "LINK CLICK",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1605,
+            "name": "bilibili",
+            "logo_path": "/mtmMg3PD4YGfrlmqpEiO6NL2ch9.png",
+            "origin_country": "CN"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "时光代理人",
+    "overview": "In a modern metropolis there is a small store called \"Time Photo Studio.\" Although only a few customers come to visit, it's actually run by Cheng Xiaoshi and Lu Guang, two men with special powers. They cooperate and use their super powers to enter the photos in order to fulfill the client's request. However, things always get out of their control...",
+    "popularity": 10.381,
+    "poster_path": "/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
+    "production_companies": [
+        {
+            "id": 87874,
+            "logo_path": "/9zuMeFMDUba1gRIZDBEAcCUIoaA.png",
+            "name": "Haoliners Animation",
+            "origin_country": "CN"
+        },
+        {
+            "id": 109472,
+            "logo_path": null,
+            "name": "Studio LAN",
+            "origin_country": "CN"
+        },
+        {
+            "id": 123270,
+            "logo_path": "/wBuyakpVGTDKE2umbbiPP54z7Q6.png",
+            "name": "bilibili",
+            "origin_country": "CN"
+        },
+        {
+            "id": 153541,
+            "logo_path": null,
+            "name": "BeDream",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-05-28",
+            "episode_count": 3,
+            "id": 197171,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/2HbKFbAFW7jQ1u8zl7RADqQ93ik.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-04-30",
+            "episode_count": 11,
+            "id": 191014,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 220399,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/o32FQNuzyc5JvkLijKmhN9GrCFi.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 15
+}

@@ -1,0 +1,37 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://myanimelist.net/anime/34930",
+    "id": 740803,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "じょうぶなタイヤ!",
+    "overview": "Amateur animation by 20-year-old Hikeaki Anno (Neon Genesis Evangelion) while he was studying at Osaka University of Arts. The short features a speeding car with physics-defying tires.",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1980-01-01",
+    "revenue": 0,
+    "runtime": 1,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tough Tire! SHADO Tire",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

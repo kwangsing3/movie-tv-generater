@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/lnkdGtYRfSzNQdXEXKLRTanOpfJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1995-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 57144,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-09-26",
+    "last_episode_to_air": {
+        "air_date": "1995-09-26",
+        "episode_number": 26,
+        "id": 941353,
+        "name": "Semshi Toya",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 57144,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Wild Knights Gulkeeva",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "獣戦士ガルキーバ",
+    "overview": "Juusenshi Gulkeeva, known as Wild Knights Gulkeeva and Beast Warriors Gulkeeva, is an anime series that debuted in 1995. It is an animated adaptation of a manga that initially was serialized in the Shonen Super Sunday.",
+    "popularity": 0.933,
+    "poster_path": "/url2hPv1dxOrofqr46pxNbXLeC3.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 172042,
+            "logo_path": null,
+            "name": "TV Tokyo Music",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-04-04",
+            "episode_count": 26,
+            "id": 58439,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9Hh8I1bjo4RoXgshrgSyjlAxFMl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

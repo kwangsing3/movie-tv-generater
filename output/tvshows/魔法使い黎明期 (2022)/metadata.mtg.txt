@@ -1,0 +1,159 @@
+{
+    "adult": false,
+    "backdrop_path": "/y4DVLXmb4M5JHFGHSLglYpFwUVZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.tbs.co.jp/anime/reimeiki/",
+    "id": 124363,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-01",
+    "last_episode_to_air": {
+        "air_date": "2022-07-01",
+        "episode_number": 12,
+        "id": 3630796,
+        "name": "The Beginning of the Adventure",
+        "overview": "Everyone prepares to defend the village from the approaching armies, both of the Church and Mage Unit, that will stop at nothing to annihilate them from existence. Things come to a head as Zero and Saybil prepare to pull off a risky move that could determine their own destinies.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 124363,
+        "still_path": "/lyOcmJ2JrzWctU4l7vrRwZrCIof.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Dawn of the Witch",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 861,
+            "name": "BS11",
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法使い黎明期",
+    "overview": "I can’t remember. Who am I? What am I? Saybil is a student at a magic academy who has no memories of anything from before he joined the school. Not understanding why he's there, the time he spends at the academy feels hollow and empty. And since he doesn't know how to work hard, his grades are always the lowest in his year. Then, one day, the school headmaster, Albus, orders Saybil to participate in a dangerous special training. \"I want you to spread the use of magic in an area where they hold witch hunts.\"",
+    "popularity": 65.836,
+    "poster_path": "/2qbR3QB4V5HmBrl8WOKsUEBMpE0.jpg",
+    "production_companies": [
+        {
+            "id": 1393,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "name": "TBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 69968,
+            "logo_path": "/cN8Qhl29ZrmWYgkYTS6CDhPK0A5.png",
+            "name": "NBCUniversal Entertainment Japan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 98553,
+            "logo_path": "/81QfupgVijSH5v1H3VUbdlPm2r8.png",
+            "name": "Crunchyroll",
+            "origin_country": "US"
+        },
+        {
+            "id": 118502,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "name": "Nippon BS Broadcasting",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156999,
+            "logo_path": "/yOPNMsW68we3cA9XNPsZsmZtVOj.png",
+            "name": "DMM pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157471,
+            "logo_path": "/sWoNzrlMtRH8p3zKayLfOaTNmiG.png",
+            "name": "Nichion",
+            "origin_country": "JP"
+        },
+        {
+            "id": 170527,
+            "logo_path": null,
+            "name": "Japan Narration Actor Institute",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-08",
+            "episode_count": 12,
+            "id": 192627,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pQw7WrP2iDFwxNz7t5gQd6hDk4q.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.556,
+    "vote_count": 9
+}

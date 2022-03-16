@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/g1DgfhkneXTRzJH38POYm4Es3gQ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://uy-allstars.com/",
+    "id": 154524,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Urusei Yatsura",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "うる星やつら",
+    "overview": "Tokyo. Tomobiki Town. Lum, the gorgeous daughter of an invading race of Oni Aliens is smitten with High School student Ataru Moroboshi. A dedicated womanizer, Ataru is unfazed by Lum’s fierce electric shock attacks and continues his daily hunt for pretty girls. With a host of other unique characters, including classmate Shinobu, elegant shrine maiden Sakura, Lum’s best friend’s Oyuki, Benten and Ran, Buddhist Monk Cherry, Ten, the little brat, heir to a wealthy family Shutaro Mendo and the secretly female beauty Ryunosuke… A classic slapstick love comedy where anything goes!",
+    "popularity": 0.6,
+    "poster_path": "/IFYFZGxveRd29X5bvvO9ERpObB.jpg",
+    "production_companies": [
+        {
+            "id": 45188,
+            "logo_path": "/aPH68PzQDtz7QorAU369IlxwgnU.png",
+            "name": "David Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 237892,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/IFYFZGxveRd29X5bvvO9ERpObB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

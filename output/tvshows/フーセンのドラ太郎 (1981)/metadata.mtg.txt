@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/cNUYoTWaTFLA5Rfe2apbuJ2uuhV.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1981-04-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.nippon-animation.co.jp/work/1400/",
+    "id": 205341,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1981-08-01",
+    "last_episode_to_air": {
+        "air_date": "1981-08-01",
+        "episode_number": 13,
+        "id": 3818671,
+        "name": "Episode 13",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 205341,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fuusen no Doratarou",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "フーセンのドラ太郎",
+    "overview": "After many years of wandering, Tarou returns to Cat Island to meet his sister, Sakura, who has stayed with their adoptive parents. Though his family is pleased to see him, they all come to realise that the long separation has seen them grow into different people.",
+    "popularity": 1.036,
+    "poster_path": "/qELPVBbIdikdPclOXVSqyRaAlob.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1981-04-11",
+            "episode_count": 13,
+            "id": 299589,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qELPVBbIdikdPclOXVSqyRaAlob.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

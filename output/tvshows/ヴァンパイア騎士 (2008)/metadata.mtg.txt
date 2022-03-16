@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/ms8VFdiu2VsUrevk4WSYbU4Wkxe.jpg",
+    "created_by": [
+        {
+            "id": 1246425,
+            "credit_id": "52585063760ee34661043561",
+            "name": "Matsuri Hino",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 17149,
+    "in_production": false,
+    "languages": [
+        "de",
+        "ja"
+    ],
+    "last_air_date": "2008-12-30",
+    "last_episode_to_air": {
+        "air_date": "2008-12-30",
+        "episode_number": 13,
+        "id": 553048,
+        "name": "Vampire Knight",
+        "overview": "All of Zero’s strength is not enough to kill Rido -- he will need Kaname's help. But the fight will leave Cross Academy devastated.",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 2,
+        "show_id": 17149,
+        "still_path": "/9qosWQLqdW59hFiH1pBXzDGghuP.jpg",
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    "name": "Vampire Knight",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヴァンパイア騎士",
+    "overview": "Yuki Cross, along with her best friend Zero, attempts to keep the peace between humans and vampires at Cross Academy, but personal issues soon threaten the situation.",
+    "popularity": 15.014,
+    "poster_path": "/eqloipTo5S791bD6zHegJbs2BBV.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2008-11-26",
+            "episode_count": 1,
+            "id": 28170,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/lUQPXfiX9jXEgE6aDBnFBe7sgWE.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-04-08",
+            "episode_count": 13,
+            "id": 28168,
+            "name": "Vampire Knight",
+            "overview": "Yuki is a first-year student at Cross Academy, a prestigious institution that hosts regular classes by day and a school for vampires by night.",
+            "poster_path": "/f6dFMV7lkhA3xuRXyj1anUk6AOu.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-10-07",
+            "episode_count": 13,
+            "id": 28169,
+            "name": "Vampire Knight: Guilty",
+            "overview": "In Season 2, Cross Academy student Yuki is determined to uncover the truth about her past, but she will have to choose between Kaname and Zero.",
+            "poster_path": "/e6GAqvRJrNn8YXF5AWgptUc3qXm.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 273
+}

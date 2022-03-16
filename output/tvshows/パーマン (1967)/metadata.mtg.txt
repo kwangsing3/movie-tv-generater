@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/c7mEIDPaZu9HbUZEZdMDObvMM0d.jpg",
+    "created_by": [
+        {
+            "id": 932979,
+            "credit_id": "56d3fa89925141799e012259",
+            "name": "Fujiko F. Fujio",
+            "gender": 2,
+            "profile_path": "/gRJZtARGLTh0tU1ZGPuJhrHiHWJ.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1967-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 65739,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1968-04-14",
+    "last_episode_to_air": {
+        "air_date": "1968-04-14",
+        "episode_number": 54,
+        "id": 3780632,
+        "name": "Episode 54",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 65739,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Perman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 54,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "パーマン",
+    "overview": "After Mitsuo receives a mask from a retiring superhero, he becomes Perman.",
+    "popularity": 0.618,
+    "poster_path": "/alvU2cGHQBouCCS9IPeKoc3SuEP.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 173029,
+            "logo_path": null,
+            "name": "Studio Zero",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1967-04-02",
+            "episode_count": 54,
+            "id": 74990,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 4
+}

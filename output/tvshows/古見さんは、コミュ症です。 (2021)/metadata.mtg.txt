@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/2bHGk7j4OD21qeXRRDYrKVhxzRc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://komisan-official.com",
+    "id": 123876,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-23",
+    "last_episode_to_air": {
+        "air_date": "2022-06-23",
+        "episode_number": 12,
+        "id": 3649276,
+        "name": "It's just White Day. Plus more.",
+        "overview": "White Day is coming up, and Tadano wants to give something to Komi in return for the chocolate she gave him on Valentine's Day.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 123876,
+        "still_path": "/oRD6ka98rPb1QiWTTQtsAQBj6n1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Komi Can't Communicate",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "古見さんは、コミュ症です。",
+    "overview": "At a high school full of unique characters, Tadano helps his shy and unsociable classmate Komi reach her goal of making friends with 100 people.",
+    "popularity": 144.539,
+    "poster_path": "/rOEaKS6jdZacivHnM56NQ4yhccW.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12655,
+            "logo_path": "/7Rt8txBx60jJ0jjtOibGWmP22vo.png",
+            "name": "Shogakukan-Shueisha Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 108028,
+            "logo_path": "/5cmP4aDWS5XTpf0iq8EE3inrPcs.png",
+            "name": "HALF H・P STUDIO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-07",
+            "episode_count": 12,
+            "id": 191574,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7ojdbf25qlsxrp2UygvdSnnDaSV.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2022-04-07",
+            "episode_count": 12,
+            "id": 236640,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/eETSd6DkHFiZMlQYN520xsUWk24.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.247,
+    "vote_count": 93
+}

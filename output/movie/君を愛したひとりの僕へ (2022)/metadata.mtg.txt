@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://bokuaikimiai.jp/kimiai/",
+    "id": 874745,
+    "imdb_id": "tt15450826",
+    "original_language": "ja",
+    "original_title": "君を愛したひとりの僕へ",
+    "overview": "A world where it has been established that people routinely swing between slightly different parallel worlds... Koyomi Hidaka, who lives with his father following his parents' divorce, meets a girl named Shiori Satō at the research institute where his father works. They both have a little crush on each other, but everything changes when their parents remarry. Koyomi and Shiori, convinced that they will never be together, try to jump into another world where they won't be step-siblings... There's no meaning in a world without her.",
+    "popularity": 0.912,
+    "poster_path": "/rGfAERx1QN6SeziCpYP3iBZCua2.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-10-07",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "To the Solitary Me That Loved You",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

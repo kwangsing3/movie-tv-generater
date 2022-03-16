@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/CNfpjAfT3LbFcTPThN0yURKiTh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1973-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 135917,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1974-09-15",
+    "last_episode_to_air": {
+        "air_date": "1974-09-15",
+        "episode_number": 46,
+        "id": 3794816,
+        "name": "Episode 46",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 135917,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "侍ジャイアンツ",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 569,
+            "name": "YTV",
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 46,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "侍ジャイアンツ",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/xhrHKTbDWnjVI90w0tiGIQUpwUe.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1973-10-07",
+            "episode_count": 46,
+            "id": 214815,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xhrHKTbDWnjVI90w0tiGIQUpwUe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

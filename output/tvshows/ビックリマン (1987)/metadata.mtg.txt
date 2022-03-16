@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/qVBfhE3YPGGaE3n21sMf11oG2k3.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1987-10-11",
+    "genres": [],
+    "homepage": "https://lineup.toei-anim.co.jp/ja/tv/bikkuri_man/",
+    "id": 19343,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1993-04-04",
+    "last_episode_to_air": {
+        "air_date": "1993-04-04",
+        "episode_number": 44,
+        "id": 2992139,
+        "name": "Episode 44",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 3,
+        "show_id": 19343,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bikkuriman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1410,
+            "name": "ABC TV",
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 191,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ビックリマン",
+    "overview": "",
+    "popularity": 0.919,
+    "poster_path": "/4rJqUC4NWSOMk53GY03yNMyYIFb.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1987-10-11",
+            "episode_count": 75,
+            "id": 197565,
+            "name": "Bikkuriman",
+            "overview": "",
+            "poster_path": "/4rJqUC4NWSOMk53GY03yNMyYIFb.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1989-04-09",
+            "episode_count": 72,
+            "id": 197566,
+            "name": "New Bikkuriman",
+            "overview": "The battle between angels and devils is finally over and there is peace around the world. One day, Angel Marco finds out that this world would be ruined in the near future. He must search the Holy Stone to save the world!",
+            "poster_path": "/sZBD3vNTWWSZAdvEXhPf4ZDjpwN.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "1992-05-17",
+            "episode_count": 44,
+            "id": 197568,
+            "name": "Super Phoenix",
+            "overview": "The world is devided into three areas: Angels' World, Devils' World and Earth. They all happily lived in their areas without interfering in other areas, but peace was collapsed at last. Thanks to high-degree biotechnology, Devils found a way to build their own body-like machine, and they began attacking Earth. Angel Phoenix receives a mission to save the world from the Devils.",
+            "poster_path": null,
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

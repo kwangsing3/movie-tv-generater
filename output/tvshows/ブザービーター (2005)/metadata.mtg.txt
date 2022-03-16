@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-02-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 44750,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-09-26",
+    "last_episode_to_air": {
+        "air_date": "2007-09-26",
+        "episode_number": 13,
+        "id": 1426858,
+        "name": "Jam",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 2,
+        "show_id": 44750,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Buzzer Beater",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 172,
+            "name": "WOWOW Prime",
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブザービーター",
+    "overview": "Hideyoshi is a homeless boy living in New York in the near future, who survives by hustling other kids in basketball games. But now he's been drafted into a pro team-a pro team with a very unique goal. There once was a time when humans dominated the game of basketball. But times have changed, and now the physically superior alien players have taken over the game, and there are barely any human players next. But Hideyoshi's team—the first all-human team to compete in the Space League—intends to change all that, and bring the championship back home to Earth.",
+    "popularity": 2.433,
+    "poster_path": "/4wbsNRmV3xOohbNyq0UwLZg9AKM.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-02-05",
+            "episode_count": 13,
+            "id": 53612,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6e3PyWwXM7KzRiYEqcfXCck64oi.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2007-07-04",
+            "episode_count": 13,
+            "id": 98719,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/vwp68WmJaqNzXasWDZ9BCZxiDIY.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

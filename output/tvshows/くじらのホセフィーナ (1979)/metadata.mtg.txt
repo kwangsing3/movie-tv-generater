@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/cruobVPmHEHeCLSXx8Xd8velrH9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1979-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 28567,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1979-09-25",
+    "last_episode_to_air": {
+        "air_date": "1979-09-25",
+        "episode_number": 22,
+        "id": 3803904,
+        "name": "Episode 22",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 28567,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Josephina the Whale",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "くじらのホセフィーナ",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/s8zS2TpkDyNewBLYphUSubJuPuT.jpg",
+    "production_companies": [
+        {
+            "id": 14969,
+            "logo_path": "/jwTtvhoCesywogszy79x84Y8Ihh.png",
+            "name": "Asahi Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 123414,
+            "logo_path": null,
+            "name": "Kokusai Eigasha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1979-04-09",
+            "episode_count": 22,
+            "id": 39838,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

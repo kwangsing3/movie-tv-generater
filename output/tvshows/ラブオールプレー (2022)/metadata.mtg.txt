@@ -1,0 +1,138 @@
+{
+    "adult": false,
+    "backdrop_path": "/syGyuBSILVUOKpqBsmf29GeXorh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://love-all-play.com/",
+    "id": 130765,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-23",
+    "last_episode_to_air": {
+        "air_date": "2022-07-23",
+        "episode_number": 16,
+        "id": 3785766,
+        "name": "Episode 16",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 130765,
+        "still_path": "/rVxVsqs28bHYkRCtr0PWYXLQpSo.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love All Play",
+    "next_episode_to_air": {
+        "air_date": "2022-07-30",
+        "episode_number": 17,
+        "id": 3785767,
+        "name": "Episode 17",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 130765,
+        "still_path": "/opd3HTp7QEhpCALWMYcl0UrKpl8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 569,
+            "name": "YTV",
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラブオールプレー",
+    "overview": "A young badminton star aims to break through to the inter-high tournament!",
+    "popularity": 26.285,
+    "poster_path": "/m19Cko9WIICOCdV7qiRyj5ZxyhE.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11727,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "name": "Yomiuri Telecasting Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 172748,
+            "logo_path": "/jCy6vJN1QCrWsxmIfdoGcM0p3nj.png",
+            "name": "Poplar",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-02",
+            "episode_count": 25,
+            "id": 205094,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/m19Cko9WIICOCdV7qiRyj5ZxyhE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 3
+}

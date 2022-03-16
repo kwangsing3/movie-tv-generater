@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/u2emI7epHChnQrUaSFtxHuFiJ1e.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://fabiniku.com",
+    "id": 125712,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-30",
+    "last_episode_to_air": {
+        "air_date": "2022-03-30",
+        "episode_number": 12,
+        "id": 3416288,
+        "name": "A Guy Who Reincarnated as a Fantasy Knockout and",
+        "overview": "In an ultimate final battle, Jinguuji must face his best friend and companion, Tachibana, who, under the influence of evil forces, controls a giant battle robot and threatens to destroy the entire kingdom! But before Tachibana can regain his senses, Jinguuji must first conquer his own personal inner demon...",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 125712,
+        "still_path": "/wBccRMC8ApW1xAPmnigZSHKlUW1.jpg",
+        "vote_average": 5,
+        "vote_count": 2
+    },
+    "name": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "異世界美少女受肉おじさんと",
+    "overview": "Childhood friends Tachibana Hinata and Jinguji Tsukasa were living the everyday life of office workers. Then, on the way home from a mixer, they were sent flying into another world by a mysterious being. Once there, Jinguji sees his best friend has been turned into a beautiful blonde-haired, blue-eyed girl...?! The adorableness of Tachibana’s female form completely flummoxes Tachibana. But these two are each others’ best friends. To keep their relationship from being destroyed, they must defeat the Demon Lord as quickly as possible and return to their original forms.",
+    "popularity": 16.258,
+    "poster_path": "/zDPQkyzNuqazWNJlDCZazfZ4hop.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-12",
+            "episode_count": 12,
+            "id": 195531,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zDPQkyzNuqazWNJlDCZazfZ4hop.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 11
+}

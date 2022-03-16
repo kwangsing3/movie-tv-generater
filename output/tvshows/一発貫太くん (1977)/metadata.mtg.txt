@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/ypJFKmC2vDFUacHCvwjeDTnyzTi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1977-09-18",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://tatsunoko.co.jp/works/ippatsu-kanta",
+    "id": 44769,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1978-09-24",
+    "last_episode_to_air": {
+        "air_date": "1978-09-24",
+        "episode_number": 53,
+        "id": 3800208,
+        "name": "Episode 53",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 44769,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Homerun Kanta",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 53,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "一発貫太くん",
+    "overview": "Ippatsu Kanta-kun is an anime created by Tatsunoko Production. Along with Temple the Balloonist, it was one of the last works for which Tatsunoko co-founder Tatsuo Yoshida was credited as a creator; Yoshida died before the series began airing. The series was released in two DVD box sets in January 2010.",
+    "popularity": 0.667,
+    "poster_path": "/w5mnP2iSgZ2o6MGzlxmcXP2Zims.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1977-09-18",
+            "episode_count": 53,
+            "id": 298413,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/w5mnP2iSgZ2o6MGzlxmcXP2Zims.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

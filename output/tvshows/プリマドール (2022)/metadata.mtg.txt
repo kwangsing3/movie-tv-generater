@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/7UM7DjoQSR6HxfDUb1SVZIuIOx6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://primadoll.jp/",
+    "id": 156450,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-24",
+    "last_episode_to_air": {
+        "air_date": "2022-07-24",
+        "episode_number": 4,
+        "id": 3815627,
+        "name": "Episode 4",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 156450,
+        "still_path": "/gk0ElbbJv6LznfQpkRTfFSdp1bI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Prima Doll",
+    "next_episode_to_air": {
+        "air_date": "2022-07-31",
+        "episode_number": 5,
+        "id": 3815628,
+        "name": "Episode 5",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 156450,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プリマドール",
+    "overview": "Cafe Kurokoneko-tei. It is a coffee shop located in a corner of the 5th district of the Imperial Capital. Working there are girls who are autonomous mechanical dolls (automata), the culmination of the best of technology. The Great War just ended a few years ago. The girls were created as weapons there. Eventually, the peace that followed the war arrived. Restored to look as good as new, dressed in shiny kimonos They are looking for a new role, and singing in high spirits. Wouldn't you like to spend a wonderful time with them?",
+    "popularity": 37.779,
+    "poster_path": "/zb8IkgbyJ5inw1dSS3HKRZlNyZ7.jpg",
+    "production_companies": [
+        {
+            "id": 118286,
+            "logo_path": null,
+            "name": "Bibury Animation Studios",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-03",
+            "episode_count": 12,
+            "id": 241644,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zb8IkgbyJ5inw1dSS3HKRZlNyZ7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

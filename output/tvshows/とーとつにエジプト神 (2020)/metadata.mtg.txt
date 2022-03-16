@@ -1,0 +1,154 @@
+{
+    "adult": false,
+    "backdrop_path": "/xLmiZL9hNMd4hPKoPuFR0pH0Hmk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        6
+    ],
+    "first_air_date": "2020-12-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://to-to2ni-anime.jp",
+    "id": 106126,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-02-08",
+    "last_episode_to_air": {
+        "air_date": "2021-02-08",
+        "episode_number": 10,
+        "id": 2551242,
+        "name": "Episode 10",
+        "overview": "",
+        "production_code": "",
+        "runtime": 6,
+        "season_number": 1,
+        "show_id": 106126,
+        "still_path": "/mn03gv4I4dd2MIevp2cmFAFQy4B.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Oh, Suddenly Egyptian God",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1083,
+            "name": "Niconico",
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1521,
+            "name": "ABEMA",
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2763,
+            "name": "FOD",
+            "logo_path": "/xMGdd8hvu91BK098UwbUv9IdjM5.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2819,
+            "name": "GyaO!",
+            "logo_path": "/wD1kyr8RuPYSWfqHiswhMBpE2kf.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3418,
+            "name": "Hikari TV",
+            "logo_path": "/1hWkGw1Srw74dFzIYDgssn6OoR6.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3685,
+            "name": "d Anime Store",
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3747,
+            "name": "Rakuten TV",
+            "logo_path": "/4OMk9wkAMwjcVM905BDyDC3iIgC.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3748,
+            "name": "Anime Houdai",
+            "logo_path": "/zQbXySts9Nz2wus72JOqUPWG3Qt.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3869,
+            "name": "U-NEXT",
+            "logo_path": "/ydvZrfyYbBVXPDT1Tv2P6EmRmDZ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "とーとつにエジプト神",
+    "overview": "Welcome to the world of the Egyptian gods.\n\nThis is where the famous gods of Ancient Egypt, from Anubis to Thoth, live their lives freely.\n\nHow freely, you ask? Bastet appears out of nowhere, singing and dancing. Medjed is always stone-faced. Horus works a part-time job. Set is devoted to pulling pranks. Ra's off traveling and rarely comes home... All the Gods basically just do whatever they want!\n\nThese cute mascot Egyptian deities make the most of their unrestrained divine lives. The extremely popular characters of \"Oh, Suddenly Egyptian God\" now have their own anime!",
+    "popularity": 6.851,
+    "poster_path": "/1LsPEKs6IyzZ71IppJMXCLRe31z.jpg",
+    "production_companies": [
+        {
+            "id": 142380,
+            "logo_path": null,
+            "name": "Typhoon Graphics",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-12-07",
+            "episode_count": 10,
+            "id": 156690,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1LsPEKs6IyzZ71IppJMXCLRe31z.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 287716,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/faubrHyWXNXwcd2sh4yCdVOISa6.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

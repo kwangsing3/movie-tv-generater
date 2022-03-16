@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/ynDM18sP3GKRpyPGppjtHe70GFU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://kendeshi-anime.com",
+    "id": 104032,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-30",
+    "last_episode_to_air": {
+        "air_date": "2022-03-30",
+        "episode_number": 12,
+        "id": 3416210,
+        "name": "I Have Arrived!",
+        "overview": "Mira, Solomon, and Luminaria must protect the kingdom from the hordes of monsters that have appeared within its borders.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 104032,
+        "still_path": "/jYpthJMwvrFFakOeiCJ43N7jBzF.jpg",
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    "name": "She Professed Herself Pupil of the Wise Man",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3220,
+            "name": "BS4",
+            "logo_path": "/naTpOY8AjRtgBw0JXafrhAD8ZBT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "賢者の弟子を名乗る賢者",
+    "overview": "Sakamori Kagami was one of the top players in the VRMMO Ark Earth Online as Danblf, a veteran summoner with the gravitas to match his elite status. When he falls asleep playing one day, he's transported to a world where the game is reality—but instead of his all-powerful avatar, he's stuck in the body of a cute young girl! He can't let anyone know that this little cutie is really Danblf, so he takes the name “Mira” and claims to be Danblf's disciple. If this gets out, he'll never live it down!",
+    "popularity": 13.286,
+    "poster_path": "/eDSsaZZVQD0rjrMazEIWrYUJHPk.jpg",
+    "production_companies": [
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3964,
+            "logo_path": "/l7MfzbsazzcSoefr8hUkrX2HArm.png",
+            "name": "Funimation Global Group",
+            "origin_country": "US"
+        },
+        {
+            "id": 95861,
+            "logo_path": "/zgASi8usQpL3nsYjGOywho0VSmM.png",
+            "name": "Studio A-CAT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-12",
+            "episode_count": 12,
+            "id": 151995,
+            "name": "Season 1",
+            "overview": "Kagami wakes up fully transported into his favorite immersive online game — but he's no longer a respected wise man, he's now a cute young woman!",
+            "poster_path": "/huoRd6pDcgNzqtQAN8Q4SnetLD3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 6
+}

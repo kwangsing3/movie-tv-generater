@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/a9keLyhn2ioSMYD6ZggmSiOAUTZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1983-01-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://web.archive.org/web/20060512151545/http://polydor.jp/anime/srungle/index.html",
+    "id": 96061,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-01-20",
+    "last_episode_to_air": {
+        "air_date": "1984-01-20",
+        "episode_number": 53,
+        "id": 2003060,
+        "name": "Episode 53",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 96061,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mission Outer Space Srungle",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 53,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "亜空大作戦 スラングル",
+    "overview": "In a distant future the Garrick Federation is a rich and large space colony located in a myriad of asteroids and planets near two twin stars. In this context the Gorilla Force acts, whose purpose is to fight against crime\n\nAfter his first dangerous mission, a test that consists in evading some members of the team from the prison of the city of Garrick, the Gorilla Force obtains the authorization to use.",
+    "popularity": 2.236,
+    "poster_path": "/iaMO2gC5vVLHrgD8Qp7FXjZR0Ei.jpg",
+    "production_companies": [
+        {
+            "id": 123414,
+            "logo_path": null,
+            "name": "Kokusai Eigasha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1983-01-21",
+            "episode_count": 53,
+            "id": 137199,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/u4rGmVdrOLqS0xYoLuWhnsyyMDP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

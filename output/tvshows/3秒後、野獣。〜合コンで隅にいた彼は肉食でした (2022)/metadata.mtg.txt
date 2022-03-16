@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/pXPR5qBQbCa5WDASnirTO8PpEXk.jpg",
+    "created_by": [
+        {
+            "id": 2438555,
+            "credit_id": "62cf44632d8ef300c1beb7f9",
+            "name": "Akiko Segawa",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://3byogoyaju.af-original.com",
+    "id": 157879,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-10",
+    "last_episode_to_air": {
+        "air_date": "2022-06-10",
+        "episode_number": 8,
+        "id": 3777516,
+        "name": "Episode 8",
+        "overview": "",
+        "production_code": "",
+        "runtime": 7,
+        "season_number": 1,
+        "show_id": 157879,
+        "still_path": "/2YCjMttJE63WbYOU6CPoXaY26lQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "3 Seconds Later, He Turned into a Beast",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 861,
+            "name": "BS11",
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "3秒後、野獣。〜合コンで隅にいた彼は肉食でした",
+    "overview": "Tsumugi is a female college student who carries trauma from an aggressive man in her past. She meets Kaname at a mixer she requested specifically for unaggressive \"herbivore\"-type men. She and Kaname hit it off, and Kaname resembles Tsumugi's older brother a little bit, so she relaxes her guard around him. Kaname, however, feigns to be a \"herbivore\"-type man, but is in reality an aggressive \"carnivore\"-type man, and he can change his demeanor in an instant.",
+    "popularity": 25.085,
+    "poster_path": "/9LnfZfpFEYsOP3THUz1uszExGyf.jpg",
+    "production_companies": [
+        {
+            "id": 149421,
+            "logo_path": "/6UqbB0NLRWEIaCKsd5YkOigJgXb.png",
+            "name": "Suiseisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 170069,
+            "logo_path": null,
+            "name": "Staple Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-04",
+            "episode_count": 8,
+            "id": 244471,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9uie4e8ChO2gX7qdUTTPsoc8nrd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "The most mild-mannered guys are the most dangerous… like me.",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

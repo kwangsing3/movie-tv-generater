@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/k94F4HFlijdvo4hg6jglvstXZnG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tms-e.co.jp/alltitles/2000s/594101.html",
+    "id": 131713,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2001-09-29",
+    "last_episode_to_air": {
+        "air_date": "2001-09-29",
+        "episode_number": 50,
+        "id": 3144502,
+        "name": "Episode 50",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 50,
+        "show_id": 131713,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shin Megami Tensei: Devil Children",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "真・女神転生 デビチル",
+    "overview": "Due to family circumstances, Setsuna Kai is moving to a new city where he's supposed to live by himself in an apartment. As soon as Setsuna arrives, he witnesses a mysterious rain of rocks and barely escapes being crushed by an enormous boulder. Setsuna's new home wasn't as lucky, being completely destroyed by another giant boulder. Setsuna is distraught, not knowing what to do when he's approached by a scientist named Hiromi Kaname. Dr. Kaname's equipment apparently can tell that Setsuna is a \"Devil Child\", and so Dr. Kaname decides to take Setsuna to his laboratory.",
+    "popularity": 1.135,
+    "poster_path": "/jKdTxKWCbFtR84ld5HrrLlZbI3p.jpg",
+    "production_companies": [
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12384,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "name": "CBC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 30125,
+            "logo_path": "/idI9yjIWXWgLLdWqUbBpWzmTW9t.png",
+            "name": "Actas",
+            "origin_country": "JP"
+        },
+        {
+            "id": 50555,
+            "logo_path": null,
+            "name": "Atlus",
+            "origin_country": ""
+        },
+        {
+            "id": 83472,
+            "logo_path": null,
+            "name": "Atlus Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-10-07",
+            "episode_count": 52,
+            "id": 206913,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 50
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/4kLgClNBKu76rJALPJLwxJbtJRl.jpg",
+    "created_by": [
+        {
+            "id": 233248,
+            "credit_id": "6075cb243f4833007966ef17",
+            "name": "Ryousuke Takahashi",
+            "gender": 2,
+            "profile_path": "/yX9j8giZAXdINjACwDjwEQ504U0.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1994-03-21",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.votoms.net/about/06.php",
+    "id": 123221,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1994-12-01",
+    "last_episode_to_air": {
+        "air_date": "1994-12-01",
+        "episode_number": 5,
+        "id": 2872145,
+        "name": "The Untouchable One",
+        "overview": "Chirico is coming for Fyana and woe be to anyone who stands in the way. The final confrontation between Chirico and Titania is approaching. Who will be left standing?",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 123221,
+        "still_path": "/35ZXd6Mx69WFg4WeQJODcfToA05.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Armored Trooper VOTOMS: Brilliantly Shining Heresy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "装甲騎兵ボトムズ 赫奕たる異端",
+    "overview": "Chirico and Fyana were left alone for decades. However, the two lovers suddenly find themselves pawns amid a religious succession for the next pope, putting both Chirico and Fyana in the crosshairs of the church and the deadly Nextant, Titania.",
+    "popularity": 0.931,
+    "poster_path": "/8dLCVRBFuKFX3Zwf29lng9n3Re5.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-03-21",
+            "episode_count": 5,
+            "id": 190423,
+            "name": "Season 1",
+            "overview": "Chirico is awoken from cold sleep and separated from Fyana. His attempts to find her come to the attention of a Nextant, the replacement for the Perfect Soldier program. At the same time, the new Pope is to be nominated, and Chirico is religiously considered to be \"The Untouchable\". With one of the nominees related to the Nextant, Chirico's actions will have far-reaching political ramifications.",
+            "poster_path": "/8dLCVRBFuKFX3Zwf29lng9n3Re5.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

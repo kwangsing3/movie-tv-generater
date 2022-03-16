@@ -1,0 +1,144 @@
+{
+    "adult": false,
+    "backdrop_path": "/enkRDzgrYROAqlI4CbdT0VMZJdq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/prettyrhythm2011/story/index.html",
+    "id": 108906,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-04-05",
+    "last_episode_to_air": {
+        "air_date": "2014-04-05",
+        "episode_number": 1,
+        "id": 3762740,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 4,
+        "show_id": 108906,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pretty Rhythm: Aurora Dream",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 252,
+            "name": "TV Aichi",
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 824,
+            "name": "TV Osaka",
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2064,
+            "name": "TV Setouchi",
+            "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3471,
+            "name": "BS TV Tokyo",
+            "logo_path": "/lUEv1JU8b5UcZJ1XoJkAq8o6UVd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 164,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プリティーリズム オーロラドリーム",
+    "overview": "Prism Stars are performers on the new popular ice show, Prism Show. They are superidols whose techniques, singing and fashion sense are a cut above all others. Aira and Rizumu are two Prism Stars whose goal is to become the best, the Prism Queen; however, the road to success is bumpy.",
+    "popularity": 2.551,
+    "poster_path": "/taWXKwAF5Lqy80dPCKHW3eruxqJ.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-04-10",
+            "episode_count": 51,
+            "id": 161413,
+            "name": "Pretty Rhythm: Aurora Dream",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2012-04-07",
+            "episode_count": 51,
+            "id": 161414,
+            "name": "Pretty Rhythm: Dear My Future",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        },
+        {
+            "air_date": "2013-04-06",
+            "episode_count": 51,
+            "id": 286767,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3
+        },
+        {
+            "air_date": "2014-04-05",
+            "episode_count": 11,
+            "id": 286768,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

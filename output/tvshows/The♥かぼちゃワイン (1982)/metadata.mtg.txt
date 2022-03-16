@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/jIG83PgjAZn9j0WojAShPvUvL2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1982-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://lineup.toei-anim.co.jp/ja/tv/kabocha_wine/",
+    "id": 34110,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-09-03",
+    "last_episode_to_air": {
+        "air_date": "1984-09-03",
+        "episode_number": 95,
+        "id": 782216,
+        "name": "Goodbye! Sunshine School",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 34110,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Kabocha Wine",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 95,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "The♥かぼちゃワイン",
+    "overview": "The Kabocha Wine is a Japanese manga series written and illustrated by Mitsuru Miura. It was serialized in Kodansha's Weekly Shōnen Magazine from 1981 to 1984. The Kabocha Wine received the 1983 Kodansha Manga Award for the shōnen category.\n\nThe sequel to the manga, The Kabocha Wine - Sequel is a one-shot manga published by Seirindo on October 15, 2006.\n\nThe third series of the manga, The Kabocha Wine - Another is published by Akita Shoten.\n\nIt has been adapted into an 95 episode anime series by Toei Animation.\n\nThe sequel to the anime was in the form of an animated movie, called The Kabocha Wine: Nita no Aijou Monogatari, which was released on July 14, 1984 by Toei Animation.\n\nOn October 26, 2007, wint released a DVD for the live-action movie adaptation of the third manga series, called The Kabocha Wine - Another. Directed by Hitoshi Ishikawa, the movie starred Yoko Kumada.",
+    "popularity": 1.921,
+    "poster_path": "/zTLrvZZ5zsWILSpkMa1fzrNDbp7.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-07-05",
+            "episode_count": 95,
+            "id": 44907,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zTLrvZZ5zsWILSpkMa1fzrNDbp7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 3
+}

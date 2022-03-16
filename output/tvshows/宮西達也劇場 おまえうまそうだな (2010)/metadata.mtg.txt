@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/hUVUfbT26LShRyohQiTbEQbRaNz.jpg",
+    "created_by": [
+        {
+            "id": 1562134,
+            "credit_id": "6098e81f028f14003c41286b",
+            "name": "Tatsuya Miyanishi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2010-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 125245,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-02-14",
+    "last_episode_to_air": {
+        "air_date": "2011-02-14",
+        "episode_number": 20,
+        "id": 2940286,
+        "name": "Episode 20",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 125245,
+        "still_path": "/xb2jnILv9fiOV39L5RBwnYU7DGy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tatsuya Miyanishi Theatre: Heart and Yummie",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 20,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "宮西達也劇場 おまえうまそうだな",
+    "overview": "Four separate stories that depict the heartwarming relationships between different dinosaur species.",
+    "popularity": 1.998,
+    "poster_path": "/pvnCvbtIwy9O5dB0o1BrzsZkN6k.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 43368,
+            "logo_path": null,
+            "name": "Ajiado",
+            "origin_country": "JP"
+        },
+        {
+            "id": 90104,
+            "logo_path": null,
+            "name": "Discotek Media",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-10-04",
+            "episode_count": 20,
+            "id": 194291,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/giJ6QCU1bjeSoiKzswjgu1NIJK9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

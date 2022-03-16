@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/j10YzVgLHUDPl6U82v2LKDp9J2P.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2022-01-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://rymansclub.com",
+    "id": 136841,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-04-17",
+    "last_episode_to_air": {
+        "air_date": "2022-04-17",
+        "episode_number": 12,
+        "id": 3416381,
+        "name": "Skyrocket",
+        "overview": "Mikoto injures his eye. Tatsuru tries to forfeit the match, but Mikoto insists on continuing. Against superior opponents and with an overwhelming handicap, the two of them tenaciously hang on. Mikoto, Tatsuru, Takuma, and Izumo--deep connections intertwine in the S/J League finals. The score between Sunlight Beverage vs Mitsuhoshi Bank will finally be settled!",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 136841,
+        "still_path": "/3LvzJ4o2p2CPOk4XafL83xIS3qp.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Salaryman's Club",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "リーマンズクラブ",
+    "overview": "Shiratori Mikoto utilizes his keen observation skills as a badminton player. However, a traumatic incident at the Interhigh leaves him unable to play the way he wants. He's cut from Mitsuboshi Bank's powerhouse amateur team. In an attempt to make a comeback, he takes a job at Sunlight Beverages, where he finds waiting for him work with unfamiliar coworkers and a weak unaccomplished badminton team...",
+    "popularity": 9.687,
+    "poster_path": "/ioJBOA9WycKCWRMlbW7BgZB4iOK.jpg",
+    "production_companies": [
+        {
+            "id": 9067,
+            "logo_path": null,
+            "name": "Glovision",
+            "origin_country": "JP"
+        },
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        },
+        {
+            "id": 106076,
+            "logo_path": "/5FHxgxvhqNC6aOVce3X9T2Wz426.png",
+            "name": "Felix Film",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-30",
+            "episode_count": 12,
+            "id": 216471,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/y6mkDew2hqO1Kb3SJrdu0j591fK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 3
+}

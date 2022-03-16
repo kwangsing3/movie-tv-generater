@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/hhrrTKhVm3RJ6X2duHWDrSFJmvn.jpg",
+    "created_by": [
+        {
+            "id": 1782118,
+            "credit_id": "5b2047589251416e2600532c",
+            "name": "Nakamura Shungiku",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://myanimelist.net/anime/9926/Sekaiichi_Hatsukoi",
+    "id": 42554,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-12-24",
+    "last_episode_to_air": {
+        "air_date": "2011-12-24",
+        "episode_number": 12,
+        "id": 881247,
+        "name": "Love is a Bitter-Sweet",
+        "overview": "Takano remembers how he fell in love with Ritsu and his problems with his family. This is the season finale.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 42554,
+        "still_path": "/xGMfRuQFWgGabsxTZgeJHNehDsw.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sekai Ichi Hatsukoi: The World's Greatest First Love",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 715,
+            "name": "Teletama",
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "世界一初恋",
+    "overview": "Sekaiichi Hatsukoi follows three couples that are interconnected within the manga industry, with each being subject to the budding of first love.",
+    "popularity": 16.914,
+    "poster_path": "/cqkTthn03IlbeEnDaclZ0CPdiSC.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-03-22",
+            "episode_count": 2,
+            "id": 52263,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ay3X6H36TKXTKhPyLlj87cEeb0L.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-04-09",
+            "episode_count": 12,
+            "id": 52264,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1nMP8Na1JFkc3VUUyNZ5eGugqwL.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2011-10-08",
+            "episode_count": 12,
+            "id": 52265,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/tJ5X20YBNOTNPaeknhKxyns8T01.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.2,
+    "vote_count": 12
+}

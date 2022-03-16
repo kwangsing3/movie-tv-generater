@@ -1,0 +1,144 @@
+{
+    "adult": false,
+    "backdrop_path": "/ccdkaYSNo7irxRkSc5TvHiNoKGA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://rollinggirls.com/",
+    "id": 70634,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-29",
+    "last_episode_to_air": {
+        "air_date": "2015-03-29",
+        "episode_number": 12,
+        "id": 1284019,
+        "name": "The Future Is in Our Hands",
+        "overview": "What can four Rest girls do thrown in amongst Bests and robots and aliens? In the midst of all the fighting, can the girls bring peace?",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 70634,
+        "still_path": "/vsHf8Ji81yLx2Ret1KLMvbO6sH6.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "The Rolling Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ローリング☆ガールズ",
+    "overview": "In a dystopian future where Japan's political organization has crumbled after the Great Tokyo War, Japan is broken up into 10 independent nations, with each nation controlled by a gang led by a \"Best,\" a human-proclaimed prophet with destructive superpowers. Nozomi Moritomo is a \"Rest\"—a normal girl that has just started out as a rookie in the local gang. She wants to help the Best Masami Utoku, her childhood friend and role model, in the ongoing territorial dispute.\n\nWhen Masami becomes severely injured and unable to fight, Nozomi decides to go on a mission to complete the requests sent to Masami from all over Japan. Along the way, she meets Yukina Kosaka, a shy girl with no sense of direction; Ai Hibiki, an upbeat girl who loves eating; and Chiaya Misono, a quiet and mysterious girl that wears a gas mask. Together, the four girls travel all over the country on their motorcycles while getting involved in territorial wars, disagreements, and even suspicious conspiracies.",
+    "popularity": 2.894,
+    "poster_path": "/9QuzoUebSW3xu6F40tYOb70rODt.jpg",
+    "production_companies": [
+        {
+            "id": 192,
+            "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+            "name": "Shochiku",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 31058,
+            "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+            "name": "Wit Studio",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-03-18",
+            "episode_count": 12,
+            "id": 127671,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-01-12",
+            "episode_count": 12,
+            "id": 86004,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/faEvOOKLMC1zE1Xvaz2bbzVsWuh.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 10
+}

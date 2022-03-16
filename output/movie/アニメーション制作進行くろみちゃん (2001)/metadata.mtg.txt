@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/q1jK7Sjj4PfZw4nW1815bqZ8Ho3.jpg",
+    "belongs_to_collection": {
+        "id": 134063,
+        "name": "Animation Runner Kuromi",
+        "poster_path": null,
+        "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.absoluteanime.com/animation_runner_kuromi/index.htm",
+    "id": 87636,
+    "imdb_id": "tt1728601",
+    "original_language": "ja",
+    "original_title": "アニメーション制作進行くろみちゃん",
+    "overview": "Ever wonder what it would be like to work for an animation studio? Kuromi just landed her dream job at the famous Studio Petit, and boy is she in for a rude awakening! The new head of the ultimate team of slackers, it’s up to her to finish \"Time Journeys Episode 2,\" or fans everywhere will be let down. Will Kuromi's love of cartoons clean up this horrible mess... or make an even bigger one?",
+    "popularity": 0.946,
+    "poster_path": "/sl6AQ6A40jTiB0PkIjreF09BqEw.jpg",
+    "production_companies": [
+        {
+            "id": 10804,
+            "logo_path": "/f1mRiEP0loBe1n4FqmAeUiC68kI.png",
+            "name": "Yumeta Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2001-03-30",
+    "revenue": 0,
+    "runtime": 40,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Animation Runner Kuromi",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 2
+}

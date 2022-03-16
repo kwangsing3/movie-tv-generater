@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/x4n0BHFLJmQ0sGxzPhlasjISvLH.jpg",
+    "created_by": [
+        {
+            "id": 1237910,
+            "credit_id": "5259654c760ee346619a83bb",
+            "name": "Hiroshi Sasagawa",
+            "gender": 2,
+            "profile_path": "/7OqdNGfkprF5bMID5Rjg7c9fSCr.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1967-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 43591,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1968-09-25",
+    "last_episode_to_air": {
+        "air_date": "1968-09-25",
+        "episode_number": 52,
+        "id": 3781766,
+        "name": "Episode 52",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 43591,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "おらぁグズラだど",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おらぁグズラだど",
+    "overview": "Oraa Guzura Dado is a 52-episode comedy anime series directed by Hiroshi Sasagawa and produced by Tatsunoko Pro. It aired on Fuji TV between 7 October 1967 and 25 September 1968.\n\nThe anime was remade into a 44-episode series also directed by Sasagawa. The remake aired on TV Tokyo between October 12, 1987 and September 30, 1988.",
+    "popularity": 0.6,
+    "poster_path": "/fZ6MCfeO6BAzwZRl7xb6W3mVZYs.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1967-10-07",
+            "episode_count": 52,
+            "id": 297285,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

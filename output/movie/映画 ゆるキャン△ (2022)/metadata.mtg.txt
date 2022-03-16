@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/nBU9ZF7P397Xp7IlUfwbShigAcE.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://yurucamp.jp/cinema/",
+    "id": 566466,
+    "imdb_id": "tt14364238",
+    "original_language": "ja",
+    "original_title": "映画 ゆるキャン△",
+    "overview": "The film depicts Nadeshiko and the others, now grown-up, after some time has passed since the television anime. Rin, who now works at a small publisher in Nagoya, gets a text message from Chiaki. Yamanashi's tourism promotion organization has put Chiaki in charge of reopening a site that had closed several years ago. Upon hearing this, Rin suggests such a spacious site could be turned into a campsite. Chiaki and Rin reunite with Nadeshiko, Aoi, and Ena to launch the campsite development project. The five assemble in work clothes to mow the grass, hold planning meetings, and build a campsite from square one, in scenes reminiscent of their club days in high school.",
+    "popularity": 5.424,
+    "poster_path": "/3xVUzpPtmEONbPr5tAAcbtSXiFS.jpg",
+    "production_companies": [
+        {
+            "id": 192,
+            "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+            "name": "Shochiku",
+            "origin_country": "JP"
+        },
+        {
+            "id": 92992,
+            "logo_path": null,
+            "name": "C-Station",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-07-01",
+    "revenue": 0,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Laid-Back Camp Movie",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

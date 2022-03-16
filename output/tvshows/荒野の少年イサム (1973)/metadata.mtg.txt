@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/y86vUvKYj6T1EoqERuyobpAfjbY.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1973-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 71151,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1974-03-27",
+    "last_episode_to_air": {
+        "air_date": "1974-03-27",
+        "episode_number": 52,
+        "id": 2461777,
+        "name": "Episode 52",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 71151,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kouya no Shounen Isamu",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "荒野の少年イサム",
+    "overview": "",
+    "popularity": 0.962,
+    "poster_path": "/2eWFDDZuXlnBca2ntpQOJaHBcA6.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1973-04-04",
+            "episode_count": 52,
+            "id": 87200,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2eWFDDZuXlnBca2ntpQOJaHBcA6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

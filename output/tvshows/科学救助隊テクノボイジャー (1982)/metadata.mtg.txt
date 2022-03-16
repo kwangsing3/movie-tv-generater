@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/AjsSaSK8jbjEET3mfJxxAD9zdIf.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-04-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://v-storage.bnarts.jp/sp-site/technoboyger/",
+    "id": 8989,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-10-15",
+    "last_episode_to_air": {
+        "air_date": "2008-10-15",
+        "episode_number": 24,
+        "id": 402924,
+        "name": "U.F.O.",
+        "overview": "A alien ship is sighted approaching the sun, creating massive climate changes across the Earth. The Thunderbirds prepare to intercept the UFO, and face the ultimate challenge: the unknown.",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 8989,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Thunderbirds 2086",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "科学救助隊テクノボイジャー",
+    "overview": "Thunderbirds 2086 is a Japanese anime series loosely inspired by the original Gerry Anderson Supermarionation series Thunderbirds. The series was dubbed in English by ITC Entertainment, the original company who produced Thunderbirds, but is not officially recognised as part of Thunderbirds canon, due to the non-involvement of either Gerry or Sylvia Anderson. Despite this the English dub of the series contains music and sound effects from Anderson's series Stingray, Thunderbirds, Captain Scarlet and the Mysterons, Joe 90, UFO and Space:1999. A total of 24 episodes were produced, but only 18 were shown on Fuji TV in 1982.",
+    "popularity": 1.4,
+    "poster_path": "/5gdaVZ9kankaUSw18T5dNPs7EQI.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-04-17",
+            "episode_count": 24,
+            "id": 18923,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9zrHkZR370SrWeQAeJRuHbrc3SP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/zYJqj1bnINvbqBwxAEFiMZ78XrS.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://kuroitsusan-anime.com",
+    "id": 128826,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-04-03",
+    "last_episode_to_air": {
+        "air_date": "2022-04-03",
+        "episode_number": 12,
+        "id": 3416352,
+        "name": "Those Sacrifices Saved from Hell by Black-Winged Devil That Devourers Other Devils Will Revere It as God Regardless of Whether Its Act Makes It a Servant of Heaven or Merely a Savage Cannibal",
+        "overview": "Zet Arc is attempting to buy out Agastia! But when the takeover turns hostile, who will appear to join Miss Kuroitsu in the fight?!",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 128826,
+        "still_path": "/aeG6As2NoWU3phHd4DZs8pYP97M.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Miss Kuroitsu From the Monster Development Department",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1410,
+            "name": "ABC TV",
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "怪人開発部の黒井津さん",
+    "overview": "Touka Kuroitsu is a research assistant who belongs to the Monster Development Department of the evil organization Agastia. However, the enemy she has to fight right now isn't the heroes of justice, but her boss.\n\nSo long justice exists, evil too, will exist. This is the story of those who fight secretly in the shadows of justice and evil's confrontation.",
+    "popularity": 14.385,
+    "poster_path": "/wF07GtqMz0WZ7rCpDMJg2Owqi4k.jpg",
+    "production_companies": [
+        {
+            "id": 8017,
+            "logo_path": null,
+            "name": "Quad",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 12,
+            "id": 201614,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wF07GtqMz0WZ7rCpDMJg2Owqi4k.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 5
+}

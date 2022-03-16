@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/9BDqEqMtWJR9tXQR1u3PD7m3D9i.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1967-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://eiken-anime.jp/works/%E5%86%92%E9%99%BA%E3%82%AC%E3%83%9C%E3%83%86%E3%83%B3%E5%B3%B6/",
+    "id": 203974,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "1967-12-26",
+    "last_episode_to_air": {
+        "air_date": "1967-12-26",
+        "episode_number": 39,
+        "id": 3781375,
+        "name": "Episode 39",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 203974,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "冒険ガボテン島",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "冒険ガボテン島",
+    "overview": "",
+    "popularity": 1.176,
+    "poster_path": "/aivqnqhjriyy9WpxlNOkfIJ9vJY.jpg",
+    "production_companies": [
+        {
+            "id": 82357,
+            "logo_path": null,
+            "name": "Eiken",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1967-04-04",
+            "episode_count": 39,
+            "id": 297259,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aivqnqhjriyy9WpxlNOkfIJ9vJY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

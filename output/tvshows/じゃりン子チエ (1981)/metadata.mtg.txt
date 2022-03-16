@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/mMCvnZum5H1olbzaixPXL0eJ0Se.jpg",
+    "created_by": [
+        {
+            "id": 1971805,
+            "credit_id": "5a7511c2c3a36859ec02c3d5",
+            "name": "Etsumi Haruki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1981-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 76822,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1992-10-17",
+    "last_episode_to_air": {
+        "air_date": "1992-10-17",
+        "episode_number": 39,
+        "id": 1427627,
+        "name": "Episode 39",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 76822,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "じゃりン子チエ",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 103,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "じゃりン子チエ",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/r4I8n5c5o7ScyS7vlb0x4XKylda.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1982-10-15",
+            "episode_count": 1,
+            "id": 116871,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1981-10-03",
+            "episode_count": 64,
+            "id": 98781,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/o5IMXmGFh2dBM8UqmmDwZkQPKXs.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1991-10-19",
+            "episode_count": 39,
+            "id": 98797,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/r4I8n5c5o7ScyS7vlb0x4XKylda.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/aTfr27zt5p3ym8xKqmWolcPr4wR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://hakozume-anime.com",
+    "id": 130266,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-30",
+    "last_episode_to_air": {
+        "air_date": "2022-03-30",
+        "episode_number": 13,
+        "id": 3431363,
+        "name": "Decisive Moment / Run Pawn Run",
+        "overview": "After Makitaka gets the victim's statement and Minamoto and Fuji spot Yasuda leaving the house, it seems the case is finally over. However, for lack of evidence, they still have to be cautious, which basically takes Kawai and company off the rest of the case.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 130266,
+        "still_path": "/utpguu0hi8nEY0GIHXSCJMZ5Wfd.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Police in a Pod",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハコヅメ～交番女子の逆襲～",
+    "overview": "Officer Mai Kawai has had enough! She’s sick of being a police officer—but just when she’s about to hand in her resignation, the arrival of a brilliant (and beautiful) ace detective named Seiko Fuji changes her mind. Will Fuji reignite Mai’s passion for policing? And will Mai uncover the mystery of why Fuji was transferred to this ordinary police box?",
+    "popularity": 7.158,
+    "poster_path": "/bcTwjNfNdzNpsBqHbq9aaya9OOR.jpg",
+    "production_companies": [
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86741,
+            "logo_path": null,
+            "name": "Magic Capsule",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-05",
+            "episode_count": 13,
+            "id": 204286,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dgu336gcG1FZn1BlgFdCpU9SezS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 11
+}

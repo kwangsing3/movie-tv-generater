@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/h2StsYAqWhjSTP5O0Awo9aAByo3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1983-05-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 206561,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1986-10-06",
+    "last_episode_to_air": {
+        "air_date": "1986-10-06",
+        "episode_number": 16,
+        "id": 3848327,
+        "name": "Episode 16",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 206561,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Little Big Nose",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 19,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "こてんぐテン丸",
+    "overview": "Tenmaru is the prince of the monster world who has accidentally let out to the human world, 108 atrocious monsters that were sealed in. In order to return them, he went to the human world with his follower.",
+    "popularity": 1.188,
+    "poster_path": "/yaeziawb1TglllrvzkggGgJr2Ok.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1983-05-26",
+            "episode_count": 19,
+            "id": 301866,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yaeziawb1TglllrvzkggGgJr2Ok.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

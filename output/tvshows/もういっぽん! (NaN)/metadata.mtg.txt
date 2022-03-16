@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://ipponagain.com/",
+    "id": 128824,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "\"Ippon\" Again!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "もういっぽん!",
+    "overview": "After performing in their final middle school judo tournament, Michi and Sanae begin high school and walk in on Michi's final opponent fighting to save their new high school's judo club.",
+    "popularity": 0.6,
+    "poster_path": "/ohvsksvbHaz6fZxjo52f7K3P0PS.jpg",
+    "production_companies": [
+        {
+            "id": 148988,
+            "logo_path": "/3bZRdpQ4O1Ee8iHaq6EB65oflv3.png",
+            "name": "BAKKEN RECORD",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 201611,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ohvsksvbHaz6fZxjo52f7K3P0PS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

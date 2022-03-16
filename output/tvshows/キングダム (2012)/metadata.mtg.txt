@@ -1,0 +1,140 @@
+{
+    "adult": false,
+    "backdrop_path": "/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-06-04",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www9.nhk.or.jp/anime/kingdom/",
+    "id": 46437,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-24",
+    "last_episode_to_air": {
+        "air_date": "2022-07-24",
+        "episode_number": 16,
+        "id": 3839226,
+        "name": "The Crowning Ceremony",
+        "overview": "Ai's foreign-backed chancellor puts the Queen Dowager in an impossible position as Zheng prepares for the crowning ceremony in Qin's ancient capital.",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 4,
+        "show_id": 46437,
+        "still_path": "/j0v0emhCKZ0ZLzpgks347qARc5f.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kingdom",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 469,
+            "name": "NHK G",
+            "logo_path": "/8hWXAayakmOUZPzmJsqxN7WYnd3.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2306,
+            "name": "NHK BS Premium",
+            "logo_path": "/2XZ8Azne0EKsypd6I3PQ2x1maVu.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 119,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キングダム",
+    "overview": "In the Warring States Period of ancient China (475–221 BCE), Shin and Hyou are war-orphans in the kingdom of Qin. They dream of one day proving themselves on the battlefield. One day, however, Hyou is taken to the palace by a minister. Winding up on the losing side of a power-struggle, Hyou manages to return to the village, barely alive. Shin then meets a boy who closely resembles Hyou, Ei Sei. For now he is the king of Qin; later he will become the emperor Shi Huangdi.",
+    "popularity": 49.786,
+    "poster_path": "/sQ6nRFLRLFrpJu3fDs9D5EzlKh2.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        },
+        {
+            "id": 131714,
+            "logo_path": null,
+            "name": "Studio Signpost",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-06-04",
+            "episode_count": 38,
+            "id": 113468,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ciMO3jOtaoeTilFxF8T1PAWGJK4.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2013-06-08",
+            "episode_count": 39,
+            "id": 113470,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/mHpOiykTH3aiUjYAXcWhZdtbtIK.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2020-04-06",
+            "episode_count": 26,
+            "id": 145744,
+            "name": "Season 3",
+            "overview": "For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.",
+            "poster_path": "/kvT93oG9CBDGKfHgmOltjfWXa4.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2022-04-10",
+            "episode_count": 16,
+            "id": 234077,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/xEZ1BeReFllKkTEM9v44m9H6t9p.jpg",
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 16
+}

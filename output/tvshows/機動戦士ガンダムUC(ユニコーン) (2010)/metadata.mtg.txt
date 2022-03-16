@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/tNMWjlVMPSxmDepMYuHnLGFNjky.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        60,
+        90
+    ],
+    "first_air_date": "2010-02-20",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.gundam-unicorn.net",
+    "id": 45500,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-06",
+    "last_episode_to_air": {
+        "air_date": "2014-06-06",
+        "episode_number": 7,
+        "id": 971002,
+        "name": "Over the Rainbow",
+        "overview": "The location of Laplace's Box, which has the potential to overthrow the Earth Federation government, has finally been revealed. The place is Magallanica at Industrial 7, where the whole incident began. Martha Vist Carbine, the acting head of Vist Foundation, is determine to protect the Foundation's interests. Together with her nephew Alberto Vist and Council on Colony Relations Chairman Ronan Marcenas, a central figure in the Earth Federation government, she heads directly for the Cheyene base in order to resolve the situation. Meanwhile, Banagher is hurrying to Industrial 7 in pursuit of Full Frontal, who has gone ahead to seize the Box. But standing in his way are Riddhe's Banshee Norn and Angelo's Rozen Zulu. Who will reach Magallanica where Syam, the guardian of the Box, is waiting?",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 45500,
+        "still_path": "/jCKfuP6jCERJAA6KE8U668zAYjc.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam Unicorn",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士ガンダムUC(ユニコーン)",
+    "overview": "The series begins in U.C. 0001, at the very beginning of human space colonization, when a space colony called Laplace is destroyed during a ceremony hosted by the Federation's Prime Minister ushering in the Universal Century dating system. The main story takes place in UC 0096, sixteen years after the end of the One Year War, three years after the events of Mobile Suit Gundam: Char's Counterattack, and 27 years before Mobile Suit Gundam F91.\n\nThe story revolves around Banagher Links, a seemingly normal boy living and going to school in the space colonies. His life changes one day when he meets a girl named Audrey Burne, as the encounter brings him into contact with a new Gundam and its connections to an item called \"Laplace's Box.\"",
+    "popularity": 9.872,
+    "poster_path": "/221Lo3L1iTg76hWhyzg62C5OYOK.jpg",
+    "production_companies": [
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1194,
+            "logo_path": "/st6AUInP658nox3F5VeMQ4uXZoZ.png",
+            "name": "Kadokawa Shoten",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-08-03",
+            "episode_count": 2,
+            "id": 93634,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-02-20",
+            "episode_count": 7,
+            "id": 54137,
+            "name": "Mobile Suit Gundam Unicorn",
+            "overview": "",
+            "poster_path": "/41MHYjmQGYQT7gy8QhUHZwy3k9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 7.9,
+    "vote_count": 15
+}

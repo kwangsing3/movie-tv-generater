@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/1mqYrevqMakAr1dzIkPdVHboWhr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-04-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 205745,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-03-28",
+    "last_episode_to_air": {
+        "air_date": "1984-03-28",
+        "episode_number": 26,
+        "id": 3830370,
+        "name": "Episode 26",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 205745,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Call of the Wild",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アニメ 野生のさけび",
+    "overview": "",
+    "popularity": 1.183,
+    "poster_path": "/8f6mUGKR99b7orCBImiMaW2aEP6.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 163498,
+            "logo_path": null,
+            "name": "Wako Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-04-17",
+            "episode_count": 26,
+            "id": 300388,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8f6mUGKR99b7orCBImiMaW2aEP6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

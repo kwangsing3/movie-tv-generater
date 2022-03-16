@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/qIr9WX3lT4matVQbP5H2oUQbZSw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2022-07-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://anime.shinepost.jp/",
+    "id": 137194,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-20",
+    "last_episode_to_air": {
+        "air_date": "2022-07-20",
+        "episode_number": 2,
+        "id": 3826545,
+        "name": "Haru Nabatame Is “Shaky”",
+        "overview": "A year has passed, and TiNgS is still slinging tickets on the street. They’ll need to work hard to sell out their venue, but their usual methods may not be up to the task…",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 137194,
+        "still_path": "/1YubzDQFedUGUHwVM8FIfLSbK7j.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shine Post",
+    "next_episode_to_air": {
+        "air_date": "2022-07-27",
+        "episode_number": 3,
+        "id": 3826546,
+        "name": "Episode 3",
+        "overview": "",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 137194,
+        "still_path": "/eG82Q9JrgTswIg16X3vjIhXLXgD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シャインポスト",
+    "overview": "The idol unit \"TINGS\" has big dreams, but only small achievements, and is not very popular. The best manager in the world was supposed to be their savior, but... \"I'm not interested in being your manager.\" The man who shows up is Naose Hinaki, a man with no motivation. However, he has a special power...? This is a story of you and the girls shining brightly to become \"absolute idols.\" The best idol entertainment begins here!",
+    "popularity": 15.821,
+    "poster_path": "/yrK1r7fD5B1n30pqtd9ovFnym1K.jpg",
+    "production_companies": [
+        {
+            "id": 125523,
+            "logo_path": null,
+            "name": "Studio KAI",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156047,
+            "logo_path": "/bR1IGv2EUNaLGPIA3jRgbATUaX8.png",
+            "name": "Bit grooove promotion",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-13",
+            "episode_count": 12,
+            "id": 217117,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yrK1r7fD5B1n30pqtd9ovFnym1K.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

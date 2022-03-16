@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/94Nf5vv5WuBv8oyhsRmuS8jhsoj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1970-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://eiken-anime.jp/works/%E3%81%B0%E3%81%8F%E3%81%AF%E3%81%A4%E4%BA%94%E9%83%8E/",
+    "id": 204068,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1970-09-25",
+    "last_episode_to_air": {
+        "air_date": "1970-09-25",
+        "episode_number": 26,
+        "id": 3784589,
+        "name": "Episode 26",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 204068,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Goro the Terrible",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ばくはつ五郎",
+    "overview": "The non-athletic head of the school newspaper department participates in various club activities, including a number of sports clubs, with disastrously hilarious results.\n\n(Source: AniDB)",
+    "popularity": 0.6,
+    "poster_path": "/wOCbbXc7vfyHPj49VUkaVRD3t6r.jpg",
+    "production_companies": [
+        {
+            "id": 82357,
+            "logo_path": null,
+            "name": "Eiken",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1970-04-03",
+            "episode_count": 26,
+            "id": 297419,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wOCbbXc7vfyHPj49VUkaVRD3t6r.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

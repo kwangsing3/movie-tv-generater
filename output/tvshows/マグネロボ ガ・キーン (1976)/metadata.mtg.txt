@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/vr5lwweNYyHLrkIqn7d8UTbYs8D.jpg",
+    "created_by": [
+        {
+            "id": 3377312,
+            "credit_id": "61dcdbbe8d77c4001b67d522",
+            "name": "Shinobu Urukawa",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3377313,
+            "credit_id": "61dcdbd28d77c4001b67d56d",
+            "name": "Tomoyoshi Katsumada",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1976-09-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/lineup/tv/gakiin/",
+    "id": 20531,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1977-05-15",
+    "last_episode_to_air": {
+        "air_date": "1977-05-15",
+        "episode_number": 37,
+        "id": 2937586,
+        "name": "Episode 37",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 20531,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magune robo Ga kîn",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マグネロボ ガ・キーン",
+    "overview": "Magne Robo Gakeen is a Japanese anime television series that aired from 1976 to 1977 in Japan. There were 39 episodes. It is also referred to as \"Magnerobo Ga-Keen\", \"'Gakeen Supermagnetron\", \"'Gakeen Magnetic Robot\", \"Robotman Gakeen\", \"Gakeen\". Outside of Japan, several episodes were edited and cobbled together into a movie-length feature, and in this format it is also known as Magnos the Robot or Renegade Force.",
+    "popularity": 2.001,
+    "poster_path": "/y4oOSfy0TMyPq1PuDqIgA9Ow8f9.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1976-09-05",
+            "episode_count": 39,
+            "id": 133528,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.1,
+    "vote_count": 14
+}

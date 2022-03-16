@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/jlcJMuYl1OYyyxxnZeghIytSbdO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://leadale.net",
+    "id": 119335,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-23",
+    "last_episode_to_air": {
+        "air_date": "2022-03-23",
+        "episode_number": 12,
+        "id": 3415487,
+        "name": "Relocating, Building, Flying, and the Earth",
+        "overview": "The day after the banquet, Cayna yet again awakens to a hangover. She ends up inheriting the land where the house of the pioneer of the village once stood. Cayna uses magic to start building her house and immediately, Cayna and Luca's new house is complete. Luca stares in utter shock and Cayna reaches out her hand. Their new life together is about to begin",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 119335,
+        "still_path": "/bdv3asU36lZ3JccnNqLbpAp8tda.jpg",
+        "vote_average": 6,
+        "vote_count": 3
+    },
+    "name": "In the Land of Leadale",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "リアデイルの大地にて",
+    "overview": "Due to a terrible accident, Keina Kagami is forced to live on life support in order to survive. The only way for her to be free is within the VRMMORPG \"Leadale.\" One day, her life support stops functioning, and Keina loses her life. But when she wakes up, she finds herself in the world of Leadale 200 years in the future. She is now the half-elf Cayna, who possesses lost skills and OP statuses and becomes closer to the other inhabitants of this world. But among those inhabitants happen to be the \"children\" she made in character creation?!",
+    "popularity": 13.986,
+    "poster_path": "/GQVw5PC4385SMuKuuSIqzTLKof.jpg",
+    "production_companies": [
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 120332,
+            "logo_path": "/yH2UqiQ77X4BkEsl1TdlLknzmrm.png",
+            "name": "MAHO FILM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-05",
+            "episode_count": 12,
+            "id": 182793,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/GQVw5PC4385SMuKuuSIqzTLKof.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 13
+}

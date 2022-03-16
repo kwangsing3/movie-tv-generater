@@ -1,0 +1,154 @@
+{
+    "adult": false,
+    "backdrop_path": "/n7ofHFMOPNBn4SfHWglEY9I40NB.jpg",
+    "created_by": [
+        {
+            "id": 186342,
+            "credit_id": "62a099af1e922521e5f20f8a",
+            "name": "Jukki Hanada",
+            "gender": 2,
+            "profile_path": "/reMd7w0OebEyU6vRL7A0XYHG1KF.jpg"
+        },
+        {
+            "id": 1566976,
+            "credit_id": "62a099a01e922521e683c5e3",
+            "name": "Sakurako Kimino",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3161832,
+            "credit_id": "62a098e535d1bc17f7a83b76",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-07-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.lovelive-anime.jp/yuigaoka/",
+    "id": 106055,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-24",
+    "last_episode_to_air": {
+        "air_date": "2022-07-24",
+        "episode_number": 2,
+        "id": 3839816,
+        "name": "Episode 2",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 106055,
+        "still_path": "/xp5TVOspLOYYsOyHqZrKNzL1e8q.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love Live! Superstar!!",
+    "next_episode_to_air": {
+        "air_date": "2022-07-31",
+        "episode_number": 3,
+        "id": 3839817,
+        "name": "Episode 3",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 106055,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 622,
+            "name": "NHK Educational TV",
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 18,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラブライブ！スーパースター!!",
+    "overview": "Yuigaoka Girls High School is a newly established school that lies between the Omotesando, Harajuku, and Aoyama neighborhoods of Tokyo. The story centers on its first batch of students. With no history, no upperclassmen or alumni, and no reputation, it is a school full of unknowns.\n\nFive girls, among them Kanon Shibuya, have a fateful encounter with school idols. Kanon decides, \"I love singing. I want to make something come true with song!\" Many feelings converge upon a star that has only started to grow. The future is blank and full of possibility for these girls, and their story that everyone will make possible has only just begun. Soar with your wings, our Love Live!",
+    "popularity": 31.24,
+    "poster_path": "/gFs2oxAjyzMu7Bx9mUJKeW3K4ym.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-05-06",
+            "episode_count": 20,
+            "id": 245864,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/8AcwEtVkt8YiiWkRYOZGqDopJtK.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-07-11",
+            "episode_count": 12,
+            "id": 156540,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gFs2oxAjyzMu7Bx9mUJKeW3K4ym.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2022-07-17",
+            "episode_count": 6,
+            "id": 286694,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/15RDVAE3MunWq6BVoAc7U9GaBTZ.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 10
+}

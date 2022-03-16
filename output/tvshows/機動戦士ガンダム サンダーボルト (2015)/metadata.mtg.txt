@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/4tkQLVVMhZ65W4PIMGTHWGf7QDu.jpg",
+    "created_by": [
+        {
+            "id": 3161832,
+            "credit_id": "62cce566a9117f0bb2e75e07",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        18
+    ],
+    "first_air_date": "2015-12-25",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://gundam-tb.net/",
+    "id": 64809,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-07-14",
+    "last_episode_to_air": {
+        "air_date": "2017-07-14",
+        "episode_number": 8,
+        "id": 3799485,
+        "name": "Chapter 8",
+        "overview": "As tensions are high between the Spartan and the South Seas Alliance, Daryl's team is also having trouble in their hands finding their way out against a counterattack by the cult group. During the battle, several cultists break into the Spartan while Daryl manages to extract the Zeon spy out of the island. Meanwhile, Io and Bianca storm through the squadron of Dodai YS units to take back Claudia, but they are thwarted by Gouf pilot Chow Ming. Despite the temporary victory, Io learns the truth about who is running the South Seas Alliance.",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 64809,
+        "still_path": "/6675cGtLJcqINv55z34MstAAJOV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam Thunderbolt",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士ガンダム サンダーボルト",
+    "overview": "Federation troops and Zeon forces carry out a fierce battle in the Thunderbolt Sector in what was once Side 4 \"Mua\". The Thunderbolt Sector is a shoal zone composed of the debris of destroyed space colonies, named for the electrical discharges from the metal debris. MS pilot Io Flemming is among the Federation soldiers who are dispatched to the area, where Zeon sniper Daryl Lorenz awaits them on the battlefield.",
+    "popularity": 5.513,
+    "poster_path": "/p4A0nZjf5A0Eu2quCpbXOaDPcC9.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-12-25",
+            "episode_count": 8,
+            "id": 73058,
+            "name": "Mobile Suit Gundam Thunderbolt",
+            "overview": "",
+            "poster_path": "/lAJEW8TFSDIIlZD81INEhgdCofe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8,
+    "vote_count": 7
+}

@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/acYpiXY4GGIPey7L4qdBEbDADE2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1977-04-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 155363,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1977-08-30",
+    "last_episode_to_air": {
+        "air_date": "1977-08-30",
+        "episode_number": 20,
+        "id": 3800017,
+        "name": "Episode 20",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 155363,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "氷河戦士ガイスラッガー",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "氷河戦士ガイスラッガー",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/zyitT4sGzsXwV9U8mc5m8B3onOi.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1977-04-12",
+            "episode_count": 20,
+            "id": 239488,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bNY01yETR6JTzj01YBA5H5Os57K.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

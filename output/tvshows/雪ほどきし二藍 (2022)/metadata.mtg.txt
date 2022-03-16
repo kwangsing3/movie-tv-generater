@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/oT3WRNCnJ8dC2j0UmVU80lXRPik.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        6,
+        12
+    ],
+    "first_air_date": "2022-05-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.pokemon.co.jp/ex/legends_arceus/ja/sp_anime/",
+    "id": 199966,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-22",
+    "last_episode_to_air": {
+        "air_date": "2022-06-22",
+        "episode_number": 3,
+        "id": 3688066,
+        "name": "Two Hues",
+        "overview": "While remembering his time with Hisuian Zorua, the older Alec finally arrives in the Hisui region. But the question remains: what became of their friendship?",
+        "production_code": "",
+        "runtime": 12,
+        "season_number": 1,
+        "show_id": 199966,
+        "still_path": "/d0SiYFiABbGeDciaojnVS3NkNvT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pokémon: Hisuian Snow",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 247,
+            "name": "YouTube",
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "雪ほどきし二藍",
+    "overview": "The story of a boy named Alec and his encounter with a Hisuian Zorua. When he was younger, Alec's father taught him that people and Pokémon cannot live together. But Alec's interactions with the Zorua might offer a different lesson.",
+    "popularity": 3.079,
+    "poster_path": "/oZPZWOTwNBkPLupIAA4JXDLFGH4.jpg",
+    "production_companies": [
+        {
+            "id": 31058,
+            "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+            "name": "Wit Studio",
+            "origin_country": "JP"
+        },
+        {
+            "id": 161390,
+            "logo_path": "/bYuvc3mREL38gAD5qTT14Q5Pgg1.png",
+            "name": "The Pokémon Company International",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-17",
+            "episode_count": 3,
+            "id": 290710,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/r8Y7mAniizHrT5Ias9q3xyZYdfh.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.5,
+    "vote_count": 4
+}

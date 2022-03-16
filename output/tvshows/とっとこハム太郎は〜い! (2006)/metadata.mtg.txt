@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/l7MCWezTePeihlyRvIWPMrePLbe.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2006-04-05",
+    "genres": [],
+    "homepage": "",
+    "id": 206154,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-10-03",
+    "last_episode_to_air": {
+        "air_date": "2007-10-03",
+        "episode_number": 77,
+        "id": 3839440,
+        "name": "Viewing Cherry Blossoms Together",
+        "overview": "",
+        "production_code": "",
+        "runtime": 5,
+        "season_number": 1,
+        "show_id": 206154,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hamtaro Hai!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 77,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "とっとこハム太郎は〜い!",
+    "overview": "Tottoko Hamutaro Hai! is the sequel to Tottoko Hamutaro, or in English, Hamtaro. The series revolves around the 15 original Ham-Hams in short 5-minute episodes. The Hai! series is animated differently from the original series, most notably, the head-to-body ratio is off, and it is also computer-generated in 3-D.",
+    "popularity": 1.31,
+    "poster_path": "/bIP2Ylp5O6e0yosslMFS1nBMmf7.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-04-05",
+            "episode_count": 77,
+            "id": 301055,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

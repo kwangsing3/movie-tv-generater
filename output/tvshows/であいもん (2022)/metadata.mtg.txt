@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/u17k6EvWDng4aCt62WBffhL6mEb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://deaimon.jp/",
+    "id": 123818,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-22",
+    "last_episode_to_air": {
+        "air_date": "2022-06-22",
+        "episode_number": 12,
+        "id": 3650345,
+        "name": "Red Sea Bream for a Spring Dawn",
+        "overview": "For Itsuka's birthday, Nagomu uses his \"Going Somewhere Together\" ticket and takes her to Hirakata Park. While out with Nagomu, Itsuka's remembers when she went to the park with her father. When they get back to Ryokushou, they find a wagashi cake and birthday party for Itsuka waiting for them. Itsuka always seems to be chasing after the shadow of her father. Concerned, Nagomu comforts her. And in reply to Nagomu's words, Itsuka...",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 123818,
+        "still_path": "/aVVyBFxNdUIi8RS4jeVgAJyjAmq.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Deaimon: Recipe for Happiness",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "であいもん",
+    "overview": "Nagomu Irino returns to his Kyoto home for the first time in ten years when his father is hospitalized. Nagomu is eager to take over Ryokushou, the family's Japanese sweet shop, but he's instead asked to be a father figure to Itsuka Yukihira, the girl everyone calls the successor.",
+    "popularity": 16.322,
+    "poster_path": "/208GQuV0Px9qTMQcrPo1QBb4baG.jpg",
+    "production_companies": [
+        {
+            "id": 109576,
+            "logo_path": "/ieuFVRLPcgnAEsInSMUpFGdOxlh.png",
+            "name": "Encourage Films",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-06",
+            "episode_count": 12,
+            "id": 191456,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8A5JbPh3cpoYRF1SonFdaTw6Vs4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 9
+}

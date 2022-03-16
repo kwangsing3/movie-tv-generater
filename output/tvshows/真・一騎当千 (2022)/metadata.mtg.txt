@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/6FgDiKhLpnR9kuAlN50ijTvbdqJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-05-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.ikkitousen.com/",
+    "id": 128510,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-05-31",
+    "last_episode_to_air": {
+        "air_date": "2022-05-31",
+        "episode_number": 3,
+        "id": 3588749,
+        "name": "Melody",
+        "overview": "When Ryomou wakes up in an eerie place linked to the nether world, she fights like hell to get back to Kyoto. Meanwhile, Himiko's plans continue to progress as Chou'un makes her way into enemy territory.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 128510,
+        "still_path": "/b7aBP0RKzfo3IaIboV6hMvttoPt.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shin Ikki Tousen",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "真・一騎当千",
+    "overview": "",
+    "popularity": 35.459,
+    "poster_path": "/xDcjHWwtKrus96DYggZSANq14Vn.jpg",
+    "production_companies": [
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12083,
+            "logo_path": "/jlk2Htq5C5ToDiIoM353xwpWwO6.png",
+            "name": "ARMS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-17",
+            "episode_count": 3,
+            "id": 201036,
+            "name": "Season 1",
+            "overview": "The magical hand of Himiko, the strongest in the Kanto region, approaches Kanto! \"Magatama\" is an accessory that contains the souls of heroes who lived in the Three Kingdoms of China and were scattered with the aim of unifying China.",
+            "poster_path": "/2NqW4iJ6hPy9pES503F9ceVE7UI.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 3
+}

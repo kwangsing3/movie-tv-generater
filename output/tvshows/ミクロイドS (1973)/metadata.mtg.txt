@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/j9lZ1d7bmXJ5y1dkFW7TC9CtJ5t.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1973-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://tezukaosamu.net/jp/anime/41.html",
+    "id": 204430,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1973-10-06",
+    "last_episode_to_air": {
+        "air_date": "1973-10-06",
+        "episode_number": 26,
+        "id": 3794470,
+        "name": "Episode 26",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 204430,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "ミクロイドS",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2171,
+            "name": "NET",
+            "logo_path": null,
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ミクロイドS",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/oydZgEj1ZgtQgZRIFwY06zdpSXT.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1973-04-07",
+            "episode_count": 26,
+            "id": 298026,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oydZgEj1ZgtQgZRIFwY06zdpSXT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

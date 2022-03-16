@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/gzjxQHkoxkrXZkSn9u5ktQg6qYo.jpg",
+    "created_by": [
+        {
+            "id": 233248,
+            "credit_id": "607609d7d8f44e0059ea6b4c",
+            "name": "Ryousuke Takahashi",
+            "gender": 2,
+            "profile_path": "/yX9j8giZAXdINjACwDjwEQ504U0.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-03-26",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.votoms.net/gen-ei/",
+    "id": 123238,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-10-27",
+    "last_episode_to_air": {
+        "air_date": "2010-10-27",
+        "episode_number": 6,
+        "id": 2872482,
+        "name": "Infanti",
+        "overview": "Forces converge above the planet. Chirico soldiers on, determined to rescue the child entrusted to him, and once again faces an important choice.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 123238,
+        "still_path": "/cVRo8osZnkj8MUsamFj3dc6mhss.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Amored Troopers VOTOMS: Phantom Chapter",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "装甲騎兵ボトムズ 幻影篇",
+    "overview": "Chirico vanished into parts unknown soon after his conflict with the church. While Vanilla and Coconna begin a nostalgic journey to find their friend, trouble brews on the horizon with the imminent birth of Wiseman’s successor, the “Child of God.”",
+    "popularity": 0.811,
+    "poster_path": "/gWIdkc76mhjfgqcVMLUtf6lrOYd.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-03-26",
+            "episode_count": 6,
+            "id": 190444,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gWIdkc76mhjfgqcVMLUtf6lrOYd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

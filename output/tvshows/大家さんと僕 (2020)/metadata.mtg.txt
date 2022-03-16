@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/9yno67O3pWswD6cqLRMyXuu2F4d.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2020-03-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://fanworks.co.jp/project/my-landlord-and-me",
+    "id": 197485,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-25",
+    "last_episode_to_air": {
+        "air_date": "2021-03-25",
+        "episode_number": 15,
+        "id": 3661432,
+        "name": "Episode 15",
+        "overview": "",
+        "production_code": "",
+        "runtime": 5,
+        "season_number": 1,
+        "show_id": 197485,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "My Landlord and Me",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 469,
+            "name": "NHK G",
+            "logo_path": "/8hWXAayakmOUZPzmJsqxN7WYnd3.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 15,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "大家さんと僕",
+    "overview": "An elderly lady who is the protagonist's landlord lives on the first floor, and the protagonist Tarō Yabe, a good-for-nothing comedian, live on the second floor. Her way of greeting is always \"Gokigenyo\", General MacArthur is her type, she’s never had a beef bowl or a hamburger before and she mistakes Tarō for an actor…\n\nIt’s all about a \"strange life together\" of a 39-year-old Tarō Yabe and a 87-year-old \"landlord\". It’s humorous and heartwarming daily interactions between two people living in a corner of the big city, Tokyo.",
+    "popularity": 0.6,
+    "poster_path": "/e9NGXhnI8rH32nVl2P3MhjleOqt.jpg",
+    "production_companies": [
+        {
+            "id": 103564,
+            "logo_path": "/t0dnUMFPjzPStIkEM3Pm1rGLIQ8.png",
+            "name": "Fanworks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-03-02",
+            "episode_count": 15,
+            "id": 287427,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/e9NGXhnI8rH32nVl2P3MhjleOqt.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

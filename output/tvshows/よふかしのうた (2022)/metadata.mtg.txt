@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/fzJsAkCfWIVF0tufwBa78TN9QxN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2022-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://yofukashi-no-uta.com/",
+    "id": 138357,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-22",
+    "last_episode_to_air": {
+        "air_date": "2022-07-22",
+        "episode_number": 3,
+        "id": 3811649,
+        "name": "A Lot Came Out",
+        "overview": "When can you start calling someone a friend? What even IS friendship, anyway? As Ko reconnects with a classmate, questions arise he isn’t sure he knows how answer.",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 138357,
+        "still_path": "/eplbcueeqEz6qUilG1HTVz1smEE.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Call of the Night",
+    "next_episode_to_air": {
+        "air_date": "2022-07-29",
+        "episode_number": 4,
+        "id": 3811650,
+        "name": "Episode 4",
+        "overview": "",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 138357,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "よふかしのうた",
+    "overview": "Nanakusa is a vampire. That's okay with human Ko. He wants to be one too. But transformation doesn't come that easily...\n\nWhen Nazuna invites Ko to spend the night at her place in an abandoned building, he's stoked! But then he awakens to kisses on his neck with a little too much bite to them... Is it just the delicious taste of his blood that makes her meet him night after night for late-night adventures, conversation and...naps? Or something else? Then, when a cute girl from Yamori's past shows up and competes for his attention, his budding relationship with the undead is put to the test!",
+    "popularity": 135.098,
+    "poster_path": "/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+    "production_companies": [
+        {
+            "id": 9149,
+            "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+            "name": "Shogakukan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-08",
+            "episode_count": 13,
+            "id": 219102,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oxyff1qAUGC3y3ub7xthPpOpqjV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 5
+}

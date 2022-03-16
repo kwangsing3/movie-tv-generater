@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/pdsEfgBhCo9vumXffh000kRMSEf.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 988471,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "ビューティフル・ワールド",
+    "overview": "A music video directed by Tsurumaki Kazuya to promote the movies of Rebuild of Evangelion and the main music theme, \"Beautiful World.\" The video includes both new animation and animation from the film.",
+    "popularity": 0.6,
+    "poster_path": "/hx1KLObTvfxJUp6l4g9lB3gs9yw.jpg",
+    "production_companies": [
+        {
+            "id": 4145,
+            "logo_path": "/suAlQoj04ozLC0WbfI5qEMahVwv.png",
+            "name": "khara",
+            "origin_country": "JP"
+        },
+        {
+            "id": 177223,
+            "logo_path": "/5etxEpjXqT8CbtgjKYTWZk1BYF6.png",
+            "name": "EMI Music Japan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 177226,
+            "logo_path": "/vUcYVwjUoMWDgwVJWez4rOQ0IT8.png",
+            "name": "Universal Music Japan",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2014-12-02",
+    "revenue": 0,
+    "runtime": 3,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Beautiful World",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

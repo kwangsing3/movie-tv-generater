@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/c6nLRec8eaorbtaiFM6j1BDPWL2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1979-10-13",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 8980,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1980-03-29",
+    "last_episode_to_air": {
+        "air_date": "1980-03-29",
+        "episode_number": 24,
+        "id": 3102282,
+        "name": "Earth, Forever!",
+        "overview": "After its completion for space travel, the Thundersub team begin their mission to combat the death force from outer space.",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 8980,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Space Carrier Blue Noah",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 569,
+            "name": "YTV",
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "宇宙空母ブルーノア",
+    "overview": "Space Carrier Blue Noah is a science fiction anime TV series produced by Office Academy which ran in Japan from October 13, 1979 through March 30, 1980. It was later distributed overseas in English by West Cape Corporation under the name \"Thundersub\". The series was called \"Nave Anti-Espacial\" in many Spanish-speaking countries.\n\nSet in the year 2052, Earth has managed to find peace until the arrival of the Death Force – ruthless aliens from a dying solar system – who are desperately searching for a new home. Attacking the Earth with a massive satellite ship called Terror Star, the aliens proceed to terraform the planet to make it their own. For mankind there is one hope: it's up to Colin Collins and a small band of his fellow surviving students to crew a top-secret submersible vessel that can fight the invaders at sea or in space.",
+    "popularity": 1.242,
+    "poster_path": "/24l9As2GSJ6aht4sYzcn6FRekC3.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12129,
+            "logo_path": null,
+            "name": "Office Academy",
+            "origin_country": ""
+        },
+        {
+            "id": 18851,
+            "logo_path": null,
+            "name": "West Cape",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1979-10-13",
+            "episode_count": 24,
+            "id": 81424,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tUyYLsxddK629ftsHrnDGY5MJGG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

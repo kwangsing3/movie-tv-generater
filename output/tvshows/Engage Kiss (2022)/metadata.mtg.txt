@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/4cfeojh6ptk24LvKMWhZnW4vgLA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://engage-kiss.com/",
+    "id": 196040,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-24",
+    "last_episode_to_air": {
+        "air_date": "2022-07-24",
+        "episode_number": 4,
+        "id": 3815868,
+        "name": "Unobtainable Lingering",
+        "overview": "Although the Demon Possession that caused the large-scale power outage was exterminated, the problem remains unresolved as the power shortage in Bayron City continues. Meanwhile, Kisara witnesses a secret meeting between Ayano and a mysterious man. To confirm Shu's feelings, she uploads a photo of the scene to social media. Successfully lured by Kisara, Shu rushes Ayano and the mysterious man – an Anti-Demon Bureau detective named Tetsuya Mikami – and, in an unexpected flow of events, realizes that Ayano was hiding her intentions and planning behind his back. An unparalleled sense of tension lofted between the two.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 196040,
+        "still_path": "/7Bogc2eW39bslssOXDXpVWjOoG8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Engage Kiss",
+    "next_episode_to_air": {
+        "air_date": "2022-07-31",
+        "episode_number": 5,
+        "id": 3815869,
+        "name": "Episode 5",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 196040,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Engage Kiss",
+    "overview": "Bayron City -- a Mega-Float type city in the Pacific Ocean, which doesn't belong to any particular nation. As the mine for Orgonium, a new energy resource, this city is the most noticed in the world right now, and here special cases caused by demons called \"D Hazards\" has been occurring frequently. Only a handful of people know about the existence of D Hazards. They are handled by PMCs (Private Military Companies). Shu is a young man living in Bayron City who runs such a company, but his company is tiny. On top of that, he cherry-picks his jobs, so he is always in a bind for money. His life, both publicly and privately, is being supported by the beautiful high school girl Kisara who attends a school in Bayron City.",
+    "popularity": 120.491,
+    "poster_path": "/irBMUE8A5M78qAzCmr0bEVdmEm7.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-03",
+            "episode_count": 13,
+            "id": 284984,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rDWpWlApRc37TejFkgmqutcDL6z.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 7
+}

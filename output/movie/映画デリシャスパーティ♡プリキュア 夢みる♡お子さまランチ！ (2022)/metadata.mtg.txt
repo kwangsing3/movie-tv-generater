@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 935017,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "映画デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ！",
+    "overview": "",
+    "popularity": 1.181,
+    "poster_path": "/eUAMuDYb8bfed1YL6f8jUg9Lro8.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-09-23",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "Delicious Party♡Precure Movie: Dreaming♡Children's Lunch!",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

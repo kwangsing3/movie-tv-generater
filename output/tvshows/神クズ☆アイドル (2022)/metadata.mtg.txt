@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/yI7ryGLFfbE1b5yerR6KKG7hO3q.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kami-kuzu.com/",
+    "id": 139551,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-23",
+    "last_episode_to_air": {
+        "air_date": "2022-07-23",
+        "episode_number": 4,
+        "id": 3814284,
+        "name": "STAGE.4",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 139551,
+        "still_path": "/mjzIpi2F1O2ctFYhgB5PBA8oHUG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Phantom of the Idol",
+    "next_episode_to_air": {
+        "air_date": "2022-07-30",
+        "episode_number": 5,
+        "id": 3814285,
+        "name": "Episode 5",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 139551,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "神クズ☆アイドル",
+    "overview": "Yuuya, one half of the boy pop duo ZINGS, may be the laziest performer in the Japanese music industry. His partner is out there giving 110% every night (and, thankfully, he's quite popular), but Yuuya's half-assed, sloppy dancing, and his frankly hostile attitude toward the audience, has the fans hating him and his agent looking for any excuse to cut him loose. The career of a pop idol just isn't the path of easy leisure and adulation Yuuya expected…\n\nAfter a particularly lifeless concert appearance, Yuuya meets a girl backstage. She's dressed to the nines in a colorful outfit, she's full of vim and vigor, and all she wants from life is to perform. There's just one problem: She's been dead for a year. This is the ghost of Asahi Mogami, the beloved singer whose time on the stage was tragically cut short, unless… If ghosts are real, is spirit possession really that much of a stretch?",
+    "popularity": 25.771,
+    "poster_path": "/IdfV3itweGwvm8se5ct65qKhie.jpg",
+    "production_companies": [
+        {
+            "id": 25504,
+            "logo_path": "/sWnGpj6TF4BIo2tBrmF2NBI4IA9.png",
+            "name": "Studio Gokumi",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156047,
+            "logo_path": "/bR1IGv2EUNaLGPIA3jRgbATUaX8.png",
+            "name": "Bit grooove promotion",
+            "origin_country": "JP"
+        },
+        {
+            "id": 172042,
+            "logo_path": null,
+            "name": "TV Tokyo Music",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-02",
+            "episode_count": 10,
+            "id": 221042,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/IdfV3itweGwvm8se5ct65qKhie.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

@@ -1,0 +1,139 @@
+{
+    "adult": false,
+    "backdrop_path": "/jMJarIL2IV8wW5aw2LwzJCvDwrK.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://slowlooptv.com",
+    "id": 115112,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-25",
+    "last_episode_to_air": {
+        "air_date": "2022-03-25",
+        "episode_number": 12,
+        "id": 3416299,
+        "name": "Let's Pick Some Out Together",
+        "overview": "Koharu's birthday is coming up and the girls try to figure out what to get her. Meanwhile, the girls learn how to tie some flies.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 115112,
+        "still_path": "/dhpJfl1nm9c3UxdfqcnThG97AMJ.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Slow Loop",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スローループ",
+    "overview": "Nervous to meet her new stepdad, Hiyori heads to the place she always feels at home—the ocean. When a curious girl named Koharu shows up, Hiyori decides to teach her how to fish, just like her father did before he died. But after Koharu reveals she’s also meeting her new family that night, the girls come to a startling realization. Their friendship is about to reach a whole new level!",
+    "popularity": 6.161,
+    "poster_path": "/uNO2UDttAiVZYe3EbfpFgmXpx64.jpg",
+    "production_companies": [
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21346,
+            "logo_path": "/zFOXiwgrIakUsgWqbsDGgo6JEiw.png",
+            "name": "FlyingDog",
+            "origin_country": "JP"
+        },
+        {
+            "id": 56949,
+            "logo_path": null,
+            "name": "CONNECT",
+            "origin_country": "JP"
+        },
+        {
+            "id": 149702,
+            "logo_path": null,
+            "name": "Houbunsha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156047,
+            "logo_path": "/bR1IGv2EUNaLGPIA3jRgbATUaX8.png",
+            "name": "Bit grooove promotion",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157001,
+            "logo_path": "/vDBycpPRLKBf7T0RQbQtU49BQO6.png",
+            "name": "Kadokawa Media House",
+            "origin_country": "JP"
+        },
+        {
+            "id": 173963,
+            "logo_path": "/bi9z6lhPJtPRLeJLRNSfC1bijKN.png",
+            "name": "eStream",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-07",
+            "episode_count": 12,
+            "id": 173231,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hWQNv0ph78oiIXBRd2qU6WTWHi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 3
+}

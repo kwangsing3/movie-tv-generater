@@ -1,0 +1,89 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://watakon-anime.com/",
+    "id": 196944,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "My Happy Marriage",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "わたしの幸せな結婚",
+    "overview": "​Born talentless to a noble family famous for their supernatural abilities, Miyo Saimori is forced into an existence of servitude by her abusive stepmother. When Miyo finally comes of marriageable age, though, her hopes of being whisked away to a better life crumble after she discovers her fiancé’s identity: Kiyoka Kudou, a commander apparently so cold and cruel that his previous would-be brides all fled within three days of their engagements. With no home to return to, Miyo resigns herself to her fate—and soon finds that her pale and beautiful husband-to-be is anything but the monster she expected. As they slowly open their hearts to each other, both realize the other may be their chance at finding true love and happiness.",
+    "popularity": 0.6,
+    "poster_path": "/1pvRlRaa63917UnIuKuQEbGMC6e.jpg",
+    "production_companies": [
+        {
+            "id": 9067,
+            "logo_path": null,
+            "name": "Glovision",
+            "origin_country": "JP"
+        },
+        {
+            "id": 16738,
+            "logo_path": "/9OScVSbzYAyM4S25nTH1p9jTV6G.png",
+            "name": "Kinema Citrus",
+            "origin_country": "JP"
+        },
+        {
+            "id": 155307,
+            "logo_path": null,
+            "name": "Miracle Bus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 286490,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1pvRlRaa63917UnIuKuQEbGMC6e.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/rvgdt7q2tGQUiAAMTPAWG7QA12l.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2021-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://dejimeetsgirl.okinawa",
+    "id": 130112,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-18",
+    "last_episode_to_air": {
+        "air_date": "2021-12-18",
+        "episode_number": 12,
+        "id": 3333593,
+        "name": "Deji Meets Girl",
+        "overview": "",
+        "production_code": "",
+        "runtime": 2,
+        "season_number": 1,
+        "show_id": 130112,
+        "still_path": "/whuMF8NVWslkME4EtEpow76VV7o.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "\"Deji\" Meets Girl",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "でーじミーツガール",
+    "overview": "Sixteen-year-old Maise Higa spends her summer days working part-time at her family's hotel, with absolutely nothing interesting to do. That is, until she meets Ichirou Suzuki—a mysterious boy who is seemingly haunted by strange supernatural occurrences. Upon interacting with him, Maise unexpectedly enters a different reality, where hotel rooms can transform into the deep ocean and banyan trees can spawn indoors out of nowhere. Intrigued, Maise accompanies Ichirou in his quest to uncover the secrets behind the inexplicable enigmas surrounding him.",
+    "popularity": 1.181,
+    "poster_path": "/iUelX1DqtgTDYvlsK3TzWcbn2Hb.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        },
+        {
+            "id": 91520,
+            "logo_path": "/wdcFLdFVOPEm3uEp6Hb9OXgi5Zd.png",
+            "name": "STUDIO MAUSU",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-02",
+            "episode_count": 12,
+            "id": 204006,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mpV0hn3CWnLJBhh86OfBVXp7aKs.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 5
+}

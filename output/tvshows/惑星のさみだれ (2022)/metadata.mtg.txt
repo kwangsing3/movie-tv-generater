@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/isDxdNdRCfTrmsNCWvrLKbUOtsa.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://hoshinosamidare.jp/",
+    "id": 156218,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-23",
+    "last_episode_to_air": {
+        "air_date": "2022-07-23",
+        "episode_number": 3,
+        "id": 3825354,
+        "name": "The Knight and the Pact",
+        "overview": "Yuuhi returns home to face his grandfather. His sick grandfather reveals that his feelings have changed from what he thought in the past, and he apologizes for all that he's done to Yuuhi. The sight leaves Yuuhi extremely distressed and angry. As he faces all that, Yuuhi is once more attacked by a new golem. This time he must fight it without any hope of rescue from Samidare.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 156218,
+        "still_path": "/elojDLzPLChvb0ZaE3epsIkuzSx.jpg",
+        "vote_average": 5,
+        "vote_count": 1
+    },
+    "name": "Lucifer and the Biscuit Hammer",
+    "next_episode_to_air": {
+        "air_date": "2022-07-30",
+        "episode_number": 4,
+        "id": 3825355,
+        "name": "Asahina Hisame and Shinonome Hangetsu",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 156218,
+        "still_path": "/7wXP3WWFNlEnwScI3AJmExuq23d.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "惑星のさみだれ",
+    "overview": "Everything about college student Amamiya Yuuhi is average: grades, looks and his blasé outlook on life. So what happens when he awakens one day to a talking lizard, who informs him that there is a gigantic hammer in outer space, poised to split the Earth into pieces, and requests his allegiance in the fight against the forces of evil? Pretend it never happened! Unfortunately for Yuuhi, a little bit of coercion in the form of a super-powered princess prevents him from returning to his mediocre life-as-usual.\n\nIn the adventure of his lifetime, Yuuhi will join forces with the unpredictable princess and seek out a motley crew of companions to fight back against an evil mage and his horrifyingly powerful homunculus before the Biscuit Hammer destroys the planet!",
+    "popularity": 82.056,
+    "poster_path": "/aQP5nyfO0qNAX03rS1BDXlcXbx3.jpg",
+    "production_companies": [
+        {
+            "id": 42563,
+            "logo_path": "/iE1h5iSKEOVbtWh4BX4MbvVNsr5.png",
+            "name": "NAZ",
+            "origin_country": "JP"
+        },
+        {
+            "id": 162613,
+            "logo_path": "/eWF9vlk3e5OH3G0bmVu6WvojKMo.png",
+            "name": "Sonilude",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-09",
+            "episode_count": 6,
+            "id": 241197,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2G7xk1stX3pCYmerJeGbgvL4uEN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

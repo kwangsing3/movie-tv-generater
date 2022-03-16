@@ -1,0 +1,135 @@
+{
+    "adult": false,
+    "backdrop_path": "/hmK8ovIqCOP5NKjWalv64p65KuX.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "62cce09df48e0d0066b46e8d",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1999-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.turn-a-gundam.net",
+    "id": 37546,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-04-14",
+    "last_episode_to_air": {
+        "air_date": "2000-04-14",
+        "episode_number": 25,
+        "id": 848182,
+        "name": "Golden Autumn",
+        "overview": "Poe and Harry join up with the Soleil. Sochie and Miashei help out Corin with his Kapool. The Almaiya discovers the Turn A Gundam's location. The Willghem descends to the ground and Michael says he'll no longer follow Guin's orders. Loran fights Gym, who wants to use the Turn X to destroy civilization and begin things anew. He starts a Moonlight Butterfly attack. Corin fights off Merrybell, but is killed by Gym's attack. Loran activates the Moonlight Butterfly as well. The abandoned Guin rescues Merrybell and join up with Michael and Yanny. Sochie joins up with Harry and Poe in defending the Soleil, which activates its barrier. Loran slices into the Turn X, and Gym ejects the Turn X top. The two get out of their mobile suits and fight with swords. Gym is enveloped in a sealing light from the Turn A and Turn X while Loran is able to escape due to Sochie's help. With Gym permanently trapped, the war ends.",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 2,
+        "show_id": 37546,
+        "still_path": "/msbplOEW47UACC7kzgmqoUAtOGZ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Turn A Gundam",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "∀ガンダム",
+    "overview": "It is the Correct Century, two millenniums after a devastating conflict which left the world broken. Earth is now mostly uninhabitable, and thus a remnant of humanity has resided on the Moon while the Earth and its few survivors recover.",
+    "popularity": 4.977,
+    "poster_path": "/yTpqQNk5sH3ouKsAh3rZBlROckU.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-02-09",
+            "episode_count": 2,
+            "id": 48893,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/4yCjGU9vBGJDPb8bKd06KJVoXv1.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1999-04-09",
+            "episode_count": 25,
+            "id": 48891,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/k8u6B3tPbCpCi9toZziIqbJbxCL.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1999-10-08",
+            "episode_count": 25,
+            "id": 48892,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/1lxYMavAptdds9bknchqBtM3RMt.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 7
+}

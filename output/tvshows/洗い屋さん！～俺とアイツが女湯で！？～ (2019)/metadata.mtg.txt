@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        7
+    ],
+    "first_air_date": "2019-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://araiya.cf-anime.com/",
+    "id": 88090,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2019-05-27",
+    "last_episode_to_air": {
+        "air_date": "2019-05-27",
+        "episode_number": 8,
+        "id": 1812219,
+        "name": "Feelings That Cannot Be Washed Away",
+        "overview": "After losing consciousness in the sauna, Sauta wakes up in Aoi's room, resting on her lap.",
+        "production_code": "",
+        "runtime": 7,
+        "season_number": 1,
+        "show_id": 88090,
+        "still_path": "/8LB4Pojjsrkg66aTzXkwBsyO40T.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Araiya-san! Ore to Aitsu ga Onnayu de!?",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "洗い屋さん！～俺とアイツが女湯で！？～",
+    "overview": "Male student Souta Tsukishima begins working at his family's public bathhouse as a back washer. While concealing her true identity, Souta's classmate Aoi Yuzuki visits the bathhouse. A relationship between the two begins to develop when Souta washes Aoi's back.\n\nThe anime aired in two versions: an all-ages broadcast version and an uncut streamed 18+ version.",
+    "popularity": 180.239,
+    "poster_path": "/upxgNd7JdqbxUXDuEkgba18iG8F.jpg",
+    "production_companies": [
+        {
+            "id": 13078,
+            "logo_path": null,
+            "name": "Magic Bus",
+            "origin_country": "JP"
+        },
+        {
+            "id": 149420,
+            "logo_path": null,
+            "name": "Picante Circus",
+            "origin_country": "JP"
+        },
+        {
+            "id": 149421,
+            "logo_path": "/6UqbB0NLRWEIaCKsd5YkOigJgXb.png",
+            "name": "Suiseisha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-04-08",
+            "episode_count": 8,
+            "id": 121459,
+            "name": "Season 1",
+            "overview": "Tsukishima Souta begins working at his family's public bathhouse as a back washer. While concealing her true identity, Souta's classmate Yuzuki Aoi visits the bathhouse. A relationship between the two begins to develop when Souta washes Aoi's back",
+            "poster_path": "/vUa889SzHmsrYCDYHhBwbv4ULDI.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 4.8,
+    "vote_count": 13
+}

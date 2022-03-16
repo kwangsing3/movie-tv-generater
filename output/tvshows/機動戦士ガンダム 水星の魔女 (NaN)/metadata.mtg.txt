@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/auERLEcOb1R9X21c92E78pNDF9L.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "62d1723aaf4324005150ec81",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        },
+        {
+            "id": 1144162,
+            "credit_id": "62d171f5549dda02d458a103",
+            "name": "Ichirō Ōkouchi",
+            "gender": 2,
+            "profile_path": "/bOACJgaqncJOSukAAErIlxBOor8.jpg"
+        },
+        {
+            "id": 1777195,
+            "credit_id": "62d1721d35811d0051ddaa63",
+            "name": "Hiroshi Kobayashi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://g-witch.net/",
+    "id": 196400,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Mobile Suit Gundam: The Witch From Mercury",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士ガンダム 水星の魔女",
+    "overview": "In an era when a multitude of corporations have entered space and built a huge economic system, Suletta Mercury, from the remote planet Mercury, transfers to the Asticassia School of Technology run by the Beneritt Group, which dominates the mobile suit industry.",
+    "popularity": 2.997,
+    "poster_path": "/25ey1p9VzjW6A9QeTnVLVYzHwA4.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4719,
+            "logo_path": "/b3smsDQQ2UEwqToJbVTlT4kgXBk.png",
+            "name": "Sotsu",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-14",
+            "episode_count": 1,
+            "id": 300810,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/tiU9uUQNzZQhmnbwSgLTiWHUCls.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 285543,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/25ey1p9VzjW6A9QeTnVLVYzHwA4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

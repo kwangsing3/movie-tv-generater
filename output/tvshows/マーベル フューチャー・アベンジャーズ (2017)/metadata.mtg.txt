@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/y9FhwCVyIqonm2XqwGrFtmalnkv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-22",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 91278,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-10-22",
+    "last_episode_to_air": {
+        "air_date": "2018-10-22",
+        "episode_number": 13,
+        "id": 2286560,
+        "name": "The Avengers: Last Stand",
+        "overview": "The Avengers defeat Maximus and save Earth.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 91278,
+        "still_path": "/b3OweeRdWwlR1VnMjJsncPR98vO.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Marvel's Future Avengers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2424,
+            "name": "Dlife",
+            "logo_path": "/hzara9yS43JH1esPvFoH90mqAPO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マーベル フューチャー・アベンジャーズ",
+    "overview": "Makoto, Adi, and Chloe attend a special training school where they train to become the heroes of the next generation. Unfortunately for them they are actually science experiments for Hydra. When Adi and Chloe get captured by Hydra for learning the truth, Makoto seeks out the one group he believes could help them- The Avengers. After rescuing the kids The Avengers decide to take them in and train them to be the heroes of the future.",
+    "popularity": 23.327,
+    "poster_path": "/buxBvftqx3g57FTYtdrfGSHlWfQ.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13252,
+            "logo_path": "/fR0wNyLTP6cexkfwSf49J24dlES.png",
+            "name": "Marvel Animation",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-22",
+            "episode_count": 26,
+            "id": 127980,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/g8cNLdlLvwhACezUBTg5XbZHR4Y.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-07-30",
+            "episode_count": 13,
+            "id": 152064,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 8
+}

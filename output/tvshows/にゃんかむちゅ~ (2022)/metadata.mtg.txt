@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/o2z7flOz5Hd7yxMeSjUZzr76flI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2022-04-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.perio.jp/nyankamuchu/",
+    "id": 198043,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-04-18",
+    "last_episode_to_air": {
+        "air_date": "2022-04-18",
+        "episode_number": 6,
+        "id": 3674447,
+        "name": "Episode 6",
+        "overview": "",
+        "production_code": "",
+        "runtime": 2,
+        "season_number": 1,
+        "show_id": 198043,
+        "still_path": "/s1IYMxYVL1dMkrwuu0Gmb1mt0sR.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cat Bites Mouse",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 247,
+            "name": "YouTube",
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "にゃんかむちゅ~",
+    "overview": "A web anime with the theme of periodontal disease prevention.",
+    "popularity": 0.6,
+    "poster_path": "/yytx9Xu8hGzaZOIehgAAnTMMx7r.jpg",
+    "production_companies": [
+        {
+            "id": 116258,
+            "logo_path": null,
+            "name": "Babel Label",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-17",
+            "episode_count": 6,
+            "id": 288467,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yytx9Xu8hGzaZOIehgAAnTMMx7r.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

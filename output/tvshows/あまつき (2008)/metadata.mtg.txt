@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/e7yQ3Iv3tkZ1eftZFwdQuYYLA73.jpg",
+    "created_by": [
+        {
+            "id": 1957087,
+            "credit_id": "62db3f1ac50ad200da4cbff9",
+            "name": "Shinobu Takayama",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-04-04",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 34738,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-06-27",
+    "last_episode_to_air": {
+        "air_date": "2008-06-27",
+        "episode_number": 13,
+        "id": 791222,
+        "name": "Winter Winds of the High Peaks Whistles Through the Bamboo Fence",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 34738,
+        "still_path": "/7QQ6Q2Dt78tdtum3efBOjAjMkL1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Amatsuki",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あまつき",
+    "overview": "Ordinary high school student, Rikugou Tokidoki, has to take supplementary History classes, to boost his failing grade, at a state-of-the-art museum. This museum allows the visitor to use high-tech virtual reality to reconstruct a realistic Edo of the Bakumatsu period. However, once the simulation begins, Tokidoki is attacked by a strange creature. After something happens to his left eye, he realizes that he is not wearing the VR goggles - it is no longer a simulation; he's trapped in the virtual world and has no way of getting back.",
+    "popularity": 3.328,
+    "poster_path": "/bgzKGfAznrrAVG4O6s6RnlAOQ8a.jpg",
+    "production_companies": [
+        {
+            "id": 4719,
+            "logo_path": "/b3smsDQQ2UEwqToJbVTlT4kgXBk.png",
+            "name": "Sotsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5809,
+            "logo_path": "/aqc1Sj5nfPWb9rjf1TSayKBPlno.png",
+            "name": "Frontier Works",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-04-04",
+            "episode_count": 13,
+            "id": 45499,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nmyLRZLARY9iD1Apss6j8LCES61.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 3
+}

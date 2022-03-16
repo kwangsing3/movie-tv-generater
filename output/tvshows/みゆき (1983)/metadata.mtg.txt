@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/gKf1Fn6fKDmCBxUc0wxFoYYPEeJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1983-03-31",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 71842,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-04-20",
+    "last_episode_to_air": {
+        "air_date": "1984-04-20",
+        "episode_number": 37,
+        "id": 1319428,
+        "name": "Episode 37",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 71842,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Miyuki",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 37,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "みゆき",
+    "overview": "",
+    "popularity": 1.633,
+    "poster_path": "/qApdt5mbWLgJEE1RQQUlzn3MOgM.jpg",
+    "production_companies": [
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4766,
+            "logo_path": null,
+            "name": "Kitty Films",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1983-03-31",
+            "episode_count": 37,
+            "id": 88608,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 4
+}

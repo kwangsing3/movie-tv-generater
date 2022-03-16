@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/2IEtlEyG2LgRd2kzH7TYTnNDaES.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://hanayamata.com/",
+    "id": 61528,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-10-07",
+    "last_episode_to_air": {
+        "air_date": "2014-10-07",
+        "episode_number": 14,
+        "id": 3821955,
+        "name": "Episode 14",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 61528,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "HaNaYaMaTa",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 824,
+            "name": "TV Osaka",
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハナヤマタ",
+    "overview": "Naru is a high school girl who is average in every way. She loves fairy tale heroines, though she’s never had the courage to escape her ordinary life. One day, she sees Hannah, a transfer student, dancing in the moonlit and becomes inspired to learn Yosakoi dancing.",
+    "popularity": 2.864,
+    "poster_path": "/oIL3HXECJTMxjbj6fLRDL07UJWm.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-08",
+            "episode_count": 14,
+            "id": 63136,
+            "name": "Season 1",
+            "overview": " Terminally average Naru borders on underachiever status and she has few interests. Things change when she meets up with Hana, a very energetic and outgoing American girl who is fixated on forming a club dedicated to yosakoi, the traditional form of Japanese group dancing.",
+            "poster_path": "/4XsCz7QcqKNOdIfbAwcvDSoe058.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.9,
+    "vote_count": 7
+}

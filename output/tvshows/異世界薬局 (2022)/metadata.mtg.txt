@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/lZXv60f37JoVwwo88J9wXGUHNRJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://isekai-yakkyoku.jp/",
+    "id": 129195,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-24",
+    "last_episode_to_air": {
+        "air_date": "2022-07-24",
+        "episode_number": 3,
+        "id": 3811013,
+        "name": "Episode 3",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 129195,
+        "still_path": "/oSXy2nPHbKIkk9gt1AUcVOruzBJ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Parallel World Pharmacy",
+    "next_episode_to_air": {
+        "air_date": "2022-07-31",
+        "episode_number": 4,
+        "id": 3811014,
+        "name": "Episode 4",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 129195,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "異世界薬局",
+    "overview": "A young pharmacologist and researcher in Japan died from overworking, and was reincarnated in a Medieval Parallel Europe. He was reincarnated as a 10-year-old apprentice to a famous Royal Court pharmacist, had attained an inhuman skills of ability to see through disease, material creation, and material destruction. In a society in which dubious medical practice are rampant, price gouging thru the monopoly of the pharmacist guild, and good medicine aren't available to the commoners. He was recognized by the Emperor at that time and opened a Pharmacy at the corner of the town.\n\nHe will wipe out the fraud that has swept the world, and deliver to the commoners a truly effective medicine that was developed using present day pharmacology. Thus the boy pharmacist will cheat by using his previous knowledge to create innovative medicines while helping the people of the parallel world, a story about living his new life to the fullest this time.",
+    "popularity": 126.847,
+    "poster_path": "/wpdxXmuLueprJ8fCGKnmmMEm3uy.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-10",
+            "episode_count": 12,
+            "id": 202421,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wTAFOapph8SekSZ0B54du97AsKn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.333,
+    "vote_count": 3
+}

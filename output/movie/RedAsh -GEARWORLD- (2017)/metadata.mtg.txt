@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://animetamago.jp/",
+    "id": 440676,
+    "imdb_id": "tt4913936",
+    "original_language": "ja",
+    "original_title": "RedAsh -GEARWORLD-",
+    "overview": "In a futuristic world, the \"Nanorace,\" people whose genes contain nanomachines that grant them special abilities, are controlled and suffer prejudice from the \"Purerace\" of normal human beings. Beck, a legendary hunter with the power of \"Red Ash,\" aims to undergo the surgical procedure to become Purerace. Alongside the large yet timid mechanic Tyger, they use their parallel machine to fly to the old world, doing dangerous jobs.  One day, they suddenly run into Call, a girl pursued by the duo of Safari and Stripe. Call, Beck, and Tyger together travel to the clockwork world. But Safari, Stripe, and their leader Deny, stubbornly pursue Call, and are finally in a position to make their attack on Beck and his friends.",
+    "popularity": 0.6,
+    "poster_path": "/6yHJ7aXE0kGNyJDlaWSYHjEgFqb.jpg",
+    "production_companies": [
+        {
+            "id": 11671,
+            "logo_path": "/iRdYQdn1eunwV3qAs6RK5Mqwn8Z.png",
+            "name": "Studio 4°C",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2017-03-11",
+    "revenue": 0,
+    "runtime": 25,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Red Ash: Gearworld",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

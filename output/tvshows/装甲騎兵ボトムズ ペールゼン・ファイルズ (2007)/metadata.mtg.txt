@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/gWGHWRWqTwODg1OkCgeTvJyxsdM.jpg",
+    "created_by": [
+        {
+            "id": 233248,
+            "credit_id": "6075d51bd4b9d90040db5e3e",
+            "name": "Ryousuke Takahashi",
+            "gender": 2,
+            "profile_path": "/yX9j8giZAXdINjACwDjwEQ504U0.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2007-10-26",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.votoms.net/pailsen/index.html",
+    "id": 123230,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-08-22",
+    "last_episode_to_air": {
+        "air_date": "2008-08-22",
+        "episode_number": 12,
+        "id": 2872412,
+        "name": "Monad",
+        "overview": "Time is running out as Monad spirals toward destruction. Can Chirico make it out in time, or is his journey fated to end at last?",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 123230,
+        "still_path": "/cBQZS7qSAK4G5gMWXjPra9kgcZc.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Armored Trooper VOTOMS: Pailsen Files",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "装甲騎兵ボトムズ ペールゼン・ファイルズ",
+    "overview": "The Gilgamesh Confederation continues its assault on the Balarant Union with Chirico Cuvie on the front lines — but he is not alone. At his side stands a team of AT pilots who appear to be as invincible as Chirico himself.",
+    "popularity": 1.051,
+    "poster_path": "/2u6WcJbaDHOdFDaDtTa8T2InSkk.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12305,
+            "logo_path": null,
+            "name": "The Answer Studio",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-10-26",
+            "episode_count": 12,
+            "id": 190434,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8AkiEWhpVHVru4HPb5I4xA2OTi4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/7kPFkBCXY0VZ642rfDJBI3E27VX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2022-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://tomodachi-anime.com",
+    "id": 137718,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-22",
+    "last_episode_to_air": {
+        "air_date": "2022-06-22",
+        "episode_number": 12,
+        "id": 3630774,
+        "name": "What's Most Important to Me Is...",
+        "overview": "Yuuichi goes to help Kokorogi knowing it will be very dangerous, but things could turn out worse than imagined.",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 137718,
+        "still_path": "/jikuPpJLjyJzl3y3oh1yTaKW7aY.jpg",
+        "vote_average": 7,
+        "vote_count": 2
+    },
+    "name": "Tomodachi Game",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "トモダチゲーム",
+    "overview": "Yuuichi Katagiri believes that friends are more important than money, but he also knows the hardships of not having enough funds. He works hard to save up in order to go on the high school trip, because he has promised his four best friends that they will all go together. However, after the class' money is all collected, it's stolen! Suspicion falls on two of Yuuichi's friends, Shiho Sawaragi and Makoto Shibe.\n\nSoon afterwards, the five of them are kidnapped, and wake up in a strange room with a character from a short-lived anime. Apparently, one of them has entered them into a \"friendship game\" in order to take care of their massive debt. But who was it, and why did they have such a debt? Could they have stolen the money from class to pay for entry into the game? Yuuichi and his best friends will have to succeed in psychological games that will test or destroy their faith in one another.",
+    "popularity": 46.358,
+    "poster_path": "/l9wfsCpH5Zot8PSskCShqiQc9I4.jpg",
+    "production_companies": [
+        {
+            "id": 91520,
+            "logo_path": "/wdcFLdFVOPEm3uEp6Hb9OXgi5Zd.png",
+            "name": "STUDIO MAUSU",
+            "origin_country": "JP"
+        },
+        {
+            "id": 133501,
+            "logo_path": "/sLuyHvpLctHcBytC23M7a3TK6Ar.png",
+            "name": "Okuruto Noboru",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-06",
+            "episode_count": 12,
+            "id": 217973,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/l9wfsCpH5Zot8PSskCShqiQc9I4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 19
+}

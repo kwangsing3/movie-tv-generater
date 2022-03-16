@@ -1,0 +1,149 @@
+{
+    "adult": false,
+    "backdrop_path": "/tC51lHaYqyMKUE1W4rcr2vhi9QG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2022-04-24",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://cuckoos-anime.com/",
+    "id": 122587,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-24",
+    "last_episode_to_air": {
+        "air_date": "2022-07-24",
+        "episode_number": 13,
+        "id": 3650327,
+        "name": "It Doesn't Go Well",
+        "overview": "",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 122587,
+        "still_path": "/eKxQa9vVmsEbu046AVRhH1ouZN.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "A Couple of Cuckoos",
+    "next_episode_to_air": {
+        "air_date": "2022-07-31",
+        "episode_number": 14,
+        "id": 3650328,
+        "name": "Episode 14",
+        "overview": "",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 122587,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 12,
+            "name": "HTB",
+            "logo_path": "/eJSYeF1YIyQbZdTRNxuvVKaZOIK.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 576,
+            "name": "Nagoya TV",
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1410,
+            "name": "ABC TV",
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カッコウの許嫁",
+    "overview": "16-year-old super-studier Nagi Umino, second-year student at the Megurogawa Academy high school, was switched at birth. On his way to a dinner to meet his birth parents, he accidentally meets the brash, outspoken, Erika Amano, who is determined to make Nagi her fake boyfriend as she never wants to actually marry. But once Nagi makes it to dinner, he finds his parents have decided to resolve the hospital switch by conveniently having him marry the daughter his birth parents raised...who turns out to be none other than Erika herself!",
+    "popularity": 98.137,
+    "poster_path": "/pQWl5ZwKTebT1J6lNekeUyIqGDQ.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 109486,
+            "logo_path": "/5sKwEOp3RdoAukp6qHwSE8MoTit.png",
+            "name": "SynergySP",
+            "origin_country": "JP"
+        },
+        {
+            "id": 161620,
+            "logo_path": "/zXMJBpbuuMZGmohubPcbcjzjtnH.png",
+            "name": "IMAGINE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-28",
+            "episode_count": 12,
+            "id": 291930,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/qfwxyZonRnoZaCUhw8WQ2vA2Rpk.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2022-04-24",
+            "episode_count": 24,
+            "id": 189393,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rK5ZZ9BdA3xcaNmnJIvf4FBA8xT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 7
+}

@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/5UhsO9YP8rhjJ9LB2gqvRDkjcEM.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "542ff3030e0a26464600050b",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2014-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "http://g-reco.net/",
+    "id": 61414,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-27",
+    "last_episode_to_air": {
+        "air_date": "2015-03-27",
+        "episode_number": 26,
+        "id": 1050485,
+        "name": "Rising on Earth",
+        "overview": "The final stand between the nations at war continues inside the earth atmosphere. Miss Aida steps up as the new Amarian leader and Captain Mask and Bellri face each other for the last time in mobile suit battle. A battle which ends with victory for Bellri, but with a real damage done to G-Self. Not all ends well, with the Dorette fleet destroyed and the G-IT Corps on earth the Capital Territory and the Americans need to find their balance and peace together. However with Captain \"Luin\" Mask and Manny together and Bellri deciding to travel the world there is closure for some.",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 61414,
+        "still_path": "/rOR6jR26cgIq74kKg34mdCyAUU1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gundam Reconguista in G",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガンダム Gのレコンギスタ",
+    "overview": "The Universal Century, a history marked by space colonization and space warfare, has passed. Humanity's prosperity, which ushered in a new era known as Regild Century (R.C.), was believed to endure alongside the global peace. Beruri Zenamu a pilot in training of the of the Capitol Guard is somehow chosen by the G-Serufu - a highly maneuverable Mobile Suit of unknown origin - to lead to uncover hidden truths that will shake the peace of the Regild Century era.",
+    "popularity": 3.673,
+    "poster_path": "/2dOUToA73fSsDJSMDFPeyIoGW0q.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 10,
+            "id": 152470,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-10-02",
+            "episode_count": 26,
+            "id": 62871,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xrCsQosXopfsA8xgfYZPaZotn20.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 4
+}

@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2011-10-14",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 198120,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2012-03-24",
+    "last_episode_to_air": {
+        "air_date": "2012-03-24",
+        "episode_number": 21,
+        "id": 3677120,
+        "name": "Grand Master",
+        "overview": "Fam and Giselle reach the furthest depths of the Grand Exile. There, they find Luscinia, holding a sleeping Sārā.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 198120,
+        "still_path": "/vSsLj8KcgkFo273qkyDfvGyOa7J.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "LAST EXILE - Fam, the Silver Wing",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 21,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Last Exile: Gin'yoku no Fam",
+    "overview": "Aerial adventures continue in the sky above the world of Prester.",
+    "popularity": 0.6,
+    "poster_path": "/5q5lVxiawSS9mFnuvkKHIX4i63U.jpg",
+    "production_companies": [
+        {
+            "id": 157013,
+            "logo_path": null,
+            "name": "GONZO",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-10-14",
+            "episode_count": 21,
+            "id": 288615,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

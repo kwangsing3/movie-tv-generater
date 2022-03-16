@@ -1,0 +1,135 @@
+{
+    "adult": false,
+    "backdrop_path": "/lAgcKbMurRjmBdAA3YgqOBYjtwG.jpg",
+    "created_by": [
+        {
+            "id": 1938001,
+            "credit_id": "5a2c45d70e0a264cbc145dc2",
+            "name": "Shiroh Jinbo",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1938003,
+            "credit_id": "5a2c45e6925141032413c5e8",
+            "name": "Shiroh Jinbo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1981-03-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://lineup.toei-anim.co.jp/ja/tv/sandybell/",
+    "id": 9723,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1982-02-26",
+    "last_episode_to_air": {
+        "air_date": "1982-02-26",
+        "episode_number": 47,
+        "id": 409896,
+        "name": "Goodbye Sandybell, You're Happy Forever",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 9723,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hello! Sandybell",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 47,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハロー！サンディベル",
+    "overview": "Hello! Sandybell is an anime series made by Toei Animation in 1981. It was aired in Japan by TV Asahi.\n\nIn the original title when it is made in Japan, her name is the spelling to which \"E\" is attached to an end by \"Sandybelle\".\n\nSimilarly to Silver Fang, the show is relatively unknown in the U.S. but was quite popular in Asia, Latin America, Arab countries and Europe, particularly Scandinavia.",
+    "popularity": 7.473,
+    "poster_path": "/y57X49iIctPzGbSq4Lpbx5FcYWj.jpg",
+    "production_companies": [
+        {
+            "id": 4720,
+            "logo_path": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+            "name": "Asatsu-DK",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 4,
+            "id": 19533,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1981-03-06",
+            "episode_count": 47,
+            "id": 19534,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 79
+}

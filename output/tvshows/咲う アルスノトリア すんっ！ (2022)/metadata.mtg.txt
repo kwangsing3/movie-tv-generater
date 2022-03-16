@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/lCp8jL2o49ZuytobSQ5rBrBcHn8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.arsnotoria-anime.com/",
+    "id": 202770,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-20",
+    "last_episode_to_air": {
+        "air_date": "2022-07-20",
+        "episode_number": 3,
+        "id": 3809534,
+        "name": "Sniff......",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 202770,
+        "still_path": "/d1A0mnzeA2IizPvHj2jUncgvirj.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Smile of the Arsnotoria the Animation",
+    "next_episode_to_air": {
+        "air_date": "2022-07-27",
+        "episode_number": 4,
+        "id": 3809535,
+        "name": "Ding Dong",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 202770,
+        "still_path": "/haDXove2EnEsl7rZ3qz8iF1Xizw.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "咲う アルスノトリア すんっ！",
+    "overview": "Here in this magic academy city of Ashram, where everyone is required to live in dormitories, a close-knit group of girls known as “Pentagrams” pursue their studies, including training in manners and magic, to become “true ladies.”\n\nArsnotoria, one of the students in Ashram, lives in Dorm 5 and is always with her dormmate friends: Mel, who’s the life of the party, Petit Albert, who’s quiet and does things at her own pace, Picatrix, who wants to be the class president, and Abramelin, who’s always cool. They take classes and work on their school duties together, and they throw tea parties after school in “that room”…",
+    "popularity": 37.484,
+    "poster_path": "/ye8FMo4GmsfkN1f1CS0UUYFAOzR.jpg",
+    "production_companies": [
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-06",
+            "episode_count": 12,
+            "id": 294988,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/a7WBMWOizJn8Htr9mtqPdBlpqQf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "We’ll share the girls’ fun and lively days with you!",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 3
+}

@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/nlTqPDbkfbWbqmLAsUPniKerUXW.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://blue-thermal.jp",
+    "id": 865767,
+    "imdb_id": "tt15304756",
+    "original_language": "ja",
+    "original_title": "ブルーサーマル",
+    "overview": "The story centers on Tamaki Tsuru, who was on sports teams throughout her entire school life until high school, but is instead seeking an active romantic life once she enters college. However, a turn of events puts her on the path to joining her university's glider club.",
+    "popularity": 3.055,
+    "poster_path": "/33qpY87zNjvjxo6CdSC19aMu9u6.jpg",
+    "production_companies": [
+        {
+            "id": 20868,
+            "logo_path": "/jhJGtYghSVawQJygEnJymQAqAb2.png",
+            "name": "Telecom Animation Film",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-03-04",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Blue Thermal",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

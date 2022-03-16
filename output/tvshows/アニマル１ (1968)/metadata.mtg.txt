@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/nXphKxb2wATwC3Gl0qZE0zIvuqD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1968-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.mushi-pro.co.jp/2010/08/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AB%EF%BC%91/",
+    "id": 204012,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1968-09-30",
+    "last_episode_to_air": {
+        "air_date": "1968-09-30",
+        "episode_number": 27,
+        "id": 3782679,
+        "name": "Episode 27",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 204012,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Animal 1",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 27,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アニマル１",
+    "overview": "",
+    "popularity": 0.92,
+    "poster_path": "/oLkzjdgEot9I4TeaOTA01YZ3AOa.jpg",
+    "production_companies": [
+        {
+            "id": 20327,
+            "logo_path": "/drfbo2T51CU0gvV5PWCre19P8nG.png",
+            "name": "Mushi Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1968-04-01",
+            "episode_count": 27,
+            "id": 297335,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oLkzjdgEot9I4TeaOTA01YZ3AOa.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

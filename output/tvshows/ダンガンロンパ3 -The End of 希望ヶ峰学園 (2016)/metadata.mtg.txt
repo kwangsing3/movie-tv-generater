@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/6GA6xKWUJQCakFDCrZgxNJOp82Q.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2016-07-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.nbcuni.co.jp/anime/danganronpa3/index.html",
+    "id": 206028,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-26",
+    "last_episode_to_air": {
+        "air_date": "2016-09-26",
+        "episode_number": 12,
+        "id": 3835991,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 206028,
+        "still_path": "/5Scv0oIM5jNf5xVfNhGwkzLQHwy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "ダンガンロンパ3 -The End of 希望ヶ峰学園",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 23,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "ダンガンロンパ3 -The End of 希望ヶ峰学園",
+    "overview": "",
+    "popularity": 0.966,
+    "poster_path": "/fqvlpiTwXzY7hAP8KPVUmUujXmr.jpg",
+    "production_companies": [
+        {
+            "id": 118502,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "name": "Nippon BS Broadcasting",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157002,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "name": "Tokyo MX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-09-29",
+            "episode_count": 2,
+            "id": 300816,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/qR8en8RLtjx2M5cDTuL8AYMDPXv.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-07-14",
+            "episode_count": 11,
+            "id": 300809,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/x7XjJwygIMsXB3qK4LcyEb3FagC.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2016-07-11",
+            "episode_count": 12,
+            "id": 300811,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/bAvIp30oHn39GxiemPuUTphKyPC.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

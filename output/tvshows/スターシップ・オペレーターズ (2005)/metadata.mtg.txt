@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/aHighUmvjOUUZWBleGQFVvjJRdb.jpg",
+    "created_by": [
+        {
+            "id": 107548,
+            "credit_id": "62d2169fc15b550071b80f27",
+            "name": "Ryo Mizuno",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2005-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 34790,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2005-03-30",
+    "last_episode_to_air": {
+        "air_date": "2005-03-30",
+        "episode_number": 13,
+        "id": 792352,
+        "name": "Moment of Truth",
+        "overview": "Using the Amaterasu incident as a rationale, the Earth Federation stages a massive coup d'état, and demands the surrender of the Amaterasu. In the face of inevitable defeat, Sinon formulates a political strategy of her own.The Amaterasu's crew escaped via shuttle while Dita broadcasts the earth Alliance's attack on the guard ship. Shimei Yuuki, the only commissioned officer decided to be left behind.",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 34790,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Starship Operators",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スターシップ・オペレーターズ",
+    "overview": "For the 73rd class of cadets of the Defense University of the small planet Kibi, a maiden voyage on the new warship Amaterasu is a fitting event just before graduation. As they are returning home, however, they are shocked to hear news of a declaration of war by the aggressive Kingdom of Henrietta against Kibi.\n\nWhen the Kibi government surrenders without a struggle, the cadets decide to fight back using the Amaterasu, with funding from the Galaxy News Network. The only stipulation? Exclusive airing rights to the action and good ratings. So, the cadets find themselves the \"stars\" of their own reality show.",
+    "popularity": 2.882,
+    "poster_path": "/qxupcsJ2KezjPXcjARLX3LXB2Vm.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-01-05",
+            "episode_count": 13,
+            "id": 45569,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2
+}

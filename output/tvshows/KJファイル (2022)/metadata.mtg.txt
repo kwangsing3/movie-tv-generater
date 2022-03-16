@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/vcvUwNoLBCSMo122K9GVMxTlLj7.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-07-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/kjfile/",
+    "id": 201395,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-18",
+    "last_episode_to_air": {
+        "air_date": "2022-07-18",
+        "episode_number": 2,
+        "id": 3835257,
+        "name": "Episode 2",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 201395,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "KJ File",
+    "next_episode_to_air": {
+        "air_date": "2022-07-25",
+        "episode_number": 3,
+        "id": 3835258,
+        "name": "Episode 3",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 201395,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "KJファイル",
+    "overview": "Unique monsters that suddenly began to appear all over the world from the beginning of the 20th century. At first, human beings tried to resist, but in the face of their enormous power, they came to the conclusion that complete extermination was impossible, and concentrated their wisdom on monitoring and analyzing monsters. The United Nations Kaiju Observatory (commonly known as Coulons) was born. Leading by the indomitable leader Yuichiro Kaido, the authority of monster ecology, Toji Kobayashi, the talent of monster function analysis, Claire Coleman, the maverick of monster disaster prevention, Kenny Mikoshiba, and the nobleman of monster strategy, Nikita Tarkovsky.  A new generation Lulu de Picard who paved the way for monster linguistics, and Guillermo Marquez, a monster life science tycoon. Experts in monster science monitored and analyzed hundreds of monsters, and continued to explore a world where monsters and humankind live together.",
+    "popularity": 20.331,
+    "poster_path": "/fvjNsxNFaMC6aIlgRBcPbHRljI8.jpg",
+    "production_companies": [
+        {
+            "id": 70498,
+            "logo_path": "/syp3n0kmTJIiW6k4J4u3ihf8Fjw.png",
+            "name": "ILCA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 174858,
+            "logo_path": null,
+            "name": "yell",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-11",
+            "episode_count": 3,
+            "id": 292712,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fvjNsxNFaMC6aIlgRBcPbHRljI8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

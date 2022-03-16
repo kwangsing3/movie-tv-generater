@@ -1,0 +1,137 @@
+{
+    "adult": false,
+    "backdrop_path": "/jItYCon3rqIkhyp5ro9xAra6eFe.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2006-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.oyashirosama.com/web/story/index.htm",
+    "id": 25760,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-12-18",
+    "last_episode_to_air": {
+        "air_date": "2007-12-18",
+        "episode_number": 24,
+        "id": 660853,
+        "name": "The Festival Accompanying Chapter - Part 11 - End",
+        "overview": "The rest of the Yamainu concede defeat, but Takano is unwilling to surrender. After learning Nomura in Tokyo planned to use her as a scapegoat, she flees into the mountains and has a final confrontation with Rika's group. In the end, the Banken comes to arrest her, but Tomitake, pitying her and seeing how she had been infected with the Hinamizawa Syndrome, takes her into the the Irie Clinic for treatment. At the end, Rika and her friends Hanyū, Keiichi, Rena, Satoko, Mion, and Shion, attend the festival.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 25760,
+        "still_path": "/xAK0XYGvLcViisNu4Lk0K2cVb4h.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Higurashi: When They Cry",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 861,
+            "name": "BS11",
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 879,
+            "name": "Tokai Television Broadcasting",
+            "logo_path": "/pX3gDCsG8WcQvQbCNJ37t5w0HyG.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1163,
+            "name": "Kansai TV",
+            "logo_path": "/1J33ZvSff1VOEt3aC8CyKmj9GEy.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ひぐらしのなく頃に",
+    "overview": "After moving into the quiet town of Hinamizawa, Maebara Keiichi spends his days blissfully in school often playing games with his local friends. However, appearances can be deceiving. One fateful day, Keiichi stumbles upon news of a murder that had occurred in Hinamizawa. From this point on, horrific events unfold in front of Keiichi, as he soon learns his close friends may not be all that they seem. Based on the amateur mystery game by 07th Expansion, the story is told in a series of different scenarios.",
+    "popularity": 17.39,
+    "poster_path": "/z6GrUoKte5lzPxR7HWyiSLVieUC.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-08-02",
+            "episode_count": 11,
+            "id": 36156,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ynlsmqpXGqbKD4UuzcOHjOx8iQL.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-04-05",
+            "episode_count": 26,
+            "id": 36155,
+            "name": "When They Cry",
+            "overview": "",
+            "poster_path": "/7sZV2P9AinCmqPqgAkCq4D7JfR1.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2007-07-06",
+            "episode_count": 24,
+            "id": 36157,
+            "name": "When They Cry: Kai",
+            "overview": "",
+            "poster_path": "/cq1ZO72SdFoBnh1KspJ9JwmBxlq.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 153
+}

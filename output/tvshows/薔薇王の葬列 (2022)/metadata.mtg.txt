@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/b684NTGFcBLumAAFhGEblgwxZpr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://baraou-anime.com",
+    "id": 109934,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-26",
+    "last_episode_to_air": {
+        "air_date": "2022-06-26",
+        "episode_number": 24,
+        "id": 3639278,
+        "name": "Requiem of the Rose King",
+        "overview": "\"If this name, if this blood, was all an illusion...then what is the point of this battle?\" Richard looks back at his past, guided by Tyrell in front of him. \"Let us go home, even if it is a battlefield where not even sleep is allowed to us...\"",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 109934,
+        "still_path": "/4EqCkDcpp4ay3wryT7PdfCHwUKx.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Requiem of the Rose King",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "薔薇王の葬列",
+    "overview": "The crown of England has been hotly contested throughout history, and in the Middle Ages, a series of great civil wars became known as the War of the Roses. Claiming a right to the throne, the Duke of York seeks to unseat King Henry VI and his heir in order to become king himself.",
+    "popularity": 17.357,
+    "poster_path": "/xhoveJefmxPbQFSPJ1xTzp8qvpd.jpg",
+    "production_companies": [
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-03",
+            "episode_count": 1,
+            "id": 286023,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 24,
+            "id": 162910,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hPmG6AzF1bXMYVQ1hMWP1RrSpLl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2.7,
+    "vote_count": 3
+}

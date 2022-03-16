@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/mcZQCEeFvLEfH0ezt9bWqsMvRiV.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://kokyu-anime.com/",
+    "id": 153482,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "A Raven in the Harem",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "後宮の烏",
+    "overview": "The story centers on Uki, an imperial concubine who has never been called to the emperor's bedchambers, and maintains a singularly unique life within the harem chambers. Seen by some as having the appearance of an old woman, and some others as a young lady, she is knowne to use mysterious magic that helps with everything from finding lost items to inflicting curses. When a circumstance makes the emperor call on her, their meeting will change history.",
+    "popularity": 0.6,
+    "poster_path": "/2Ks7hlIwK5c5ndrbsYpNakj649e.jpg",
+    "production_companies": [
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 74440,
+            "logo_path": "/mf1nS1bfySc1XM5EmPZp4qsAOoy.png",
+            "name": "Bandai Namco Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 235894,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2Ks7hlIwK5c5ndrbsYpNakj649e.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

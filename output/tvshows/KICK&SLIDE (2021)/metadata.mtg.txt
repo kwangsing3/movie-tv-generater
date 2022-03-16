@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/nVLvsKEq6uVOv8mN9bvPhw4Tvvc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2021-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://www.kidsbhappy.com/",
+    "id": 202440,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-22",
+    "last_episode_to_air": {
+        "air_date": "2021-09-22",
+        "episode_number": 12,
+        "id": 3733773,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "runtime": 3,
+        "season_number": 1,
+        "show_id": 202440,
+        "still_path": "/sCDMe2iiqZ5UQL56lAxHlIeORug.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kick & Slide",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "KICK&SLIDE",
+    "overview": "The third generation of J SOUL BROTHERS from EXILE TRIBE is reimagined as 7 unique and diverse characters in \"KICK & SLIDE\". This is a slapstick story where the characters solve difficult cases!? and rare cases!? that occur in the colorful and pop vibrant city \"Nakame Town\" with dance and music.",
+    "popularity": 0.6,
+    "poster_path": "/4GioTpaI0eQpEa0Sjx8FbIfM8I.jpg",
+    "production_companies": [
+        {
+            "id": 110563,
+            "logo_path": "/g7PnYxIEHdOcjgeXEaFZSR1SxW4.png",
+            "name": "CRAFTAR",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-09-29",
+            "episode_count": 1,
+            "id": 294491,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-07-07",
+            "episode_count": 12,
+            "id": 294484,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4GioTpaI0eQpEa0Sjx8FbIfM8I.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

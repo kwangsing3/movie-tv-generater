@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/sFEDzBhjHeZFdF2xtPa3zPbxx2W.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://shoot-anime.com/",
+    "id": 138882,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-23",
+    "last_episode_to_air": {
+        "air_date": "2022-07-23",
+        "episode_number": 4,
+        "id": 3817078,
+        "name": "Shaking",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 138882,
+        "still_path": "/xqdgJnVuM0fHVS4jmgOcgy4wKaB.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shoot! Goal to the Future",
+    "next_episode_to_air": {
+        "air_date": "2022-07-30",
+        "episode_number": 5,
+        "id": 3817079,
+        "name": "Episode 5",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 138882,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 569,
+            "name": "YTV",
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1136,
+            "name": "BS Fuji",
+            "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3220,
+            "name": "BS4",
+            "logo_path": "/naTpOY8AjRtgBw0JXafrhAD8ZBT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シュート！Goal to the Future",
+    "overview": "Atsushi Kamiya, a former captain at Kakegawa High School and the world-renowned \"courageous captain\" for a famous Italian soccer team…\n\nAnd Hideto Tsuji, a student at Kakegawa High School, who seems uninterested in the now-weakened soccer team…\n\nTheir meeting is the start of a new legend...",
+    "popularity": 51.247,
+    "poster_path": "/3jMImKHLU9zoB2K2hDEe6fu1Emn.jpg",
+    "production_companies": [
+        {
+            "id": 72366,
+            "logo_path": null,
+            "name": "EMT²",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-02",
+            "episode_count": 12,
+            "id": 219929,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/utiQcRYDRqUApxWDzl6T9gs6x5X.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

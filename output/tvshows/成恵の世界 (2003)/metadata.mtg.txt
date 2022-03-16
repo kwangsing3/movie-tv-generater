@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/8qRbpfpGcewRxlM4o5FeQV6B3Yj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2003-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.bestack.co.jp/narue/",
+    "id": 34068,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-06-22",
+    "last_episode_to_air": {
+        "air_date": "2003-06-22",
+        "episode_number": 12,
+        "id": 781266,
+        "name": "The Night of the Festival",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 34068,
+        "still_path": "/cV8mmTdaKlfzxzTQHswI9FdQ1qC.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The World of Narue",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "成恵の世界",
+    "overview": "Meet Narue, an adorable schoolgirl with a secret. She's really an alien with powers right out of a sci-fi comic! But growing up is never easy, and sometimes it doesn't help when you're from outer space. Join our spunky heroine as she faces androids, alien invaders, and her first date with the boy next door. It's the sci-fi comedy that's a direct hit to your heart!",
+    "popularity": 1.677,
+    "poster_path": "/3FG1pj4dg8SkC99EtpnUUPVtJV2.jpg",
+    "production_companies": [
+        {
+            "id": 13067,
+            "logo_path": null,
+            "name": "Studio Live",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-04-06",
+            "episode_count": 12,
+            "id": 44862,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zWQpGMRnSTNiipk0ZfafihDkpo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

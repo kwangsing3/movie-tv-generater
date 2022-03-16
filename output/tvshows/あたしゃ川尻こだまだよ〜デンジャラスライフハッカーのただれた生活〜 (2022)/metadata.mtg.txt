@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/tN8OCeLW08RDRQtdpnYY3MQTh8i.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2022-01-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.fujitv.co.jp/animation/kawashiri-kodama/",
+    "id": 133387,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-22",
+    "last_episode_to_air": {
+        "air_date": "2022-07-22",
+        "episode_number": 22,
+        "id": 3677746,
+        "name": "Episode 22",
+        "overview": "Kawashiri Kodama, a dangerous lifehacker, experiences Komeda's Coffee for the first time.",
+        "production_code": "",
+        "runtime": 3,
+        "season_number": 1,
+        "show_id": 133387,
+        "still_path": "/A6Vbi6ikFbvvgrWUwpdA7rcYsaG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "I'm Kodama Kawashiri",
+    "next_episode_to_air": {
+        "air_date": "2022-07-29",
+        "episode_number": 23,
+        "id": 3677747,
+        "name": "Episode 23",
+        "overview": "",
+        "production_code": "",
+        "runtime": 3,
+        "season_number": 1,
+        "show_id": 133387,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あたしゃ川尻こだまだよ〜デンジャラスライフハッカーのただれた生活〜",
+    "overview": "The story depicts the lazy, unhealthy daily life of Kawajiri, who loves alcohol and anything greasy, salty, or sweet.",
+    "popularity": 10.461,
+    "poster_path": "/5WbTGQQpqiQ8t2W2UDC9k1ThGE6.jpg",
+    "production_companies": [
+        {
+            "id": 128785,
+            "logo_path": "/leTqYkzdabEsxBQ0XdHxA7SDuU6.png",
+            "name": "lapintrack",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-14",
+            "episode_count": 24,
+            "id": 210597,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3omfY0uitISrGmx8jNUWSho7K1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

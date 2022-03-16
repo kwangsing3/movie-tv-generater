@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/9Jw6ko3r6Xc3utgCIJAB6xg9uD8.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 205343,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Doomsday with My Dog",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 247,
+            "name": "YouTube",
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "世界の終わりに柴犬と",
+    "overview": "The sole surviving human and her canine companion, Haru, wander a desolate wasteland after the destruction of civilization, but this is no dark doomsday tale. Haru, a wise-beyond-his-years talking shiba inu, makes sure his master stays one step ahead of post-apocalyptic pessimism with his clever antics, hilarious observations and philosophical ponderings. She may be the last girl on earth, but with Haru at her side, the road through the apocalypse will never be boring!",
+    "popularity": 0.6,
+    "poster_path": "/mrVBB2MPCq8R6kegSSX9H7mfnSL.jpg",
+    "production_companies": [
+        {
+            "id": 71369,
+            "logo_path": "/gsHQTAMMRAlqYIWdN6rcSKSHRqT.png",
+            "name": "DLE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 299593,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mrVBB2MPCq8R6kegSSX9H7mfnSL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

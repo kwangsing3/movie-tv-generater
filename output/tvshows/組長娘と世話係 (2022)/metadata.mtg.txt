@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/zHMOF9kkCY1HyzccmepstswYAu6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kumichomusume.com/",
+    "id": 133197,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-21",
+    "last_episode_to_air": {
+        "air_date": "2022-07-21",
+        "episode_number": 3,
+        "id": 3823501,
+        "name": "A Visit and a Reunion",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 133197,
+        "still_path": "/sUgfTo7Jl5LMKN13b4aWFhLQD9a.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "The Yakuza's Guide to Babysitting",
+    "next_episode_to_air": {
+        "air_date": "2022-07-28",
+        "episode_number": 4,
+        "id": 3823502,
+        "name": "Why Don't We Start Streaming?",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 133197,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "組長娘と世話係",
+    "overview": "Kirishima Tooru is as vicious a yakuza as they come, to the point where he's earned the nickname \"the Demon of Sakuragi.\" To get him under control, he's suddenly given a new mission straight from the boss—to babysit his daughter!",
+    "popularity": 47.099,
+    "poster_path": "/fT88N89mIlvqH6goU23soylehUl.jpg",
+    "production_companies": [
+        {
+            "id": 17315,
+            "logo_path": "/8QPhCeRCNVa3jYCtDvThTlAGYSL.png",
+            "name": "feel.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 112920,
+            "logo_path": "/h4soUI8eYfxBV925RCZ59piTwt3.png",
+            "name": "Gaina",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-28",
+            "episode_count": 6,
+            "id": 241806,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9cfMOcXUgmW2YTzPD49ADzSuP3F.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2022-07-07",
+            "episode_count": 12,
+            "id": 210165,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fT88N89mIlvqH6goU23soylehUl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 3
+}

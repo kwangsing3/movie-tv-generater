@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 77923,
+            "credit_id": "62943febd1857200673cd9fd",
+            "name": "Kazuya Tsurumaki",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2004-11-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 203168,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2006-08-25",
+    "last_episode_to_air": {
+        "air_date": "2006-08-25",
+        "episode_number": 6,
+        "id": 3752748,
+        "name": "Episode 6",
+        "overview": "",
+        "production_code": "",
+        "runtime": 31,
+        "season_number": 1,
+        "show_id": 203168,
+        "still_path": "/ldEJgnywMxOB20I4WszYMybIKtf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "トップをねらえ2!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "トップをねらえ2!",
+    "overview": "",
+    "popularity": 0.872,
+    "poster_path": "/jpNaoNSs9VtLu0OMsf6dcoW6mVF.jpg",
+    "production_companies": [
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-11-26",
+            "episode_count": 6,
+            "id": 295683,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

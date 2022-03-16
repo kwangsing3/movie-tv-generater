@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 552546,
+            "credit_id": "62a17ddfb87aec005177897a",
+            "name": "Junji Ito",
+            "gender": 2,
+            "profile_path": "/A0DSHu2aNknw8PNnUjmaImJuNSZ.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://ji-anime.com/",
+    "id": 203704,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Junji Ito Maniac: Japanese Tales of the Macabre",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "name": "Netflix",
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "伊藤潤二マニアック：日本の不気味な物語",
+    "overview": "Anime based on Junji Ito's famous horror stories.",
+    "popularity": 0.942,
+    "poster_path": "/uoANqBfl0RHAIFovsZdaJiVctFv.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 5,
+            "id": 296798,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

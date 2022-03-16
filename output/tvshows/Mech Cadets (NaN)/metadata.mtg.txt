@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/dYYV8Ja83mdZTEUCKUqmzECcaOX.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81004665",
+    "id": 205214,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Mech Cadets",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "name": "Netflix",
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Mech Cadets",
+    "overview": "Fifty years in the future, after a terrifying alien species attacked our planet, teenager Stanford Yu works as a janitor at the Sky Corps Military Academy. But he’s only dreamed of one thing his entire life -- to pilot a Robo Mech, giant robots from outer-space who came to our aid.",
+    "popularity": 0.6,
+    "poster_path": "/1Ns2BfygCovRxjm38aomCYJyoi8.jpg",
+    "production_companies": [
+        {
+            "id": 20024,
+            "logo_path": "/fLc5F7K5zsXsSNSFFsbKrZXAga7.png",
+            "name": "Polygon Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 122178,
+            "logo_path": null,
+            "name": "BOOM! Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 299374,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

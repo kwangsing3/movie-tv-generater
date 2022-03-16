@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/etuF5wbzeLebWgerWKOAjEuj6cU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1970-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://lineup.toei-anim.co.jp/ja/tv/kickno_oni/",
+    "id": 204128,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1971-03-26",
+    "last_episode_to_air": {
+        "air_date": "1971-03-26",
+        "episode_number": 26,
+        "id": 3786042,
+        "name": "Episode 26",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 204128,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "キックの鬼",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キックの鬼",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/9ffPdSl1zzwgr92vUmL67diUfTv.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1970-10-02",
+            "episode_count": 26,
+            "id": 297513,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9ffPdSl1zzwgr92vUmL67diUfTv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/rniGk0uIxTtZkoQGTnp3nJeYSXX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        6
+    ],
+    "first_air_date": "2018-07-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://iyapan-anime.com/",
+    "id": 80867,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-27",
+    "last_episode_to_air": {
+        "air_date": "2019-12-27",
+        "episode_number": 6,
+        "id": 2015427,
+        "name": "Takayama Maria (Sister)",
+        "overview": "",
+        "production_code": "",
+        "runtime": 6,
+        "season_number": 2,
+        "show_id": 80867,
+        "still_path": "/j217kQLsqz4UNkuoeit28pX511X.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "I Want You To Make a Disgusted Face and Show Me Your Underwear",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1083,
+            "name": "Niconico",
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "嫌な顔されながらおパンツ見せてもらいたい",
+    "overview": "",
+    "popularity": 29.343,
+    "poster_path": "/jNtnmZI61iM1IwQTdP9S9Sf8j1h.jpg",
+    "production_companies": [
+        {
+            "id": 122346,
+            "logo_path": null,
+            "name": "Uwan Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-08-13",
+            "episode_count": 4,
+            "id": 130940,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/2v6QND27uGX5hasbKWFLb7Kxi2N.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-07-14",
+            "episode_count": 6,
+            "id": 106341,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1oauc476sqDQorDFZkFDmTYi2Dk.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-11-22",
+            "episode_count": 6,
+            "id": 138115,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/Af9cVasrLuMIqb1EsivSyrZ9yBR.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 10
+}

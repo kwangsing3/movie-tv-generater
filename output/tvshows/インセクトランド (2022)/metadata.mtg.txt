@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/qqekWYZCrQXpo274QVtCJdgaFGP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2022-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://insect-land.com/anime/",
+    "id": 194481,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-06",
+    "last_episode_to_air": {
+        "air_date": "2022-06-06",
+        "episode_number": 10,
+        "id": 3764986,
+        "name": "Episode 10",
+        "overview": "",
+        "production_code": "",
+        "runtime": 5,
+        "season_number": 1,
+        "show_id": 194481,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Insect Land",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 622,
+            "name": "NHK Educational TV",
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "インセクトランド",
+    "overview": "Anime based on \"nature learning picture books\" which explore the lives of insects, while also celebrating the themes of ecology and diversity.",
+    "popularity": 1.23,
+    "poster_path": "/pQzaOca93F7oi4MUH3MipQRXbA.jpg",
+    "production_companies": [
+        {
+            "id": 92436,
+            "logo_path": null,
+            "name": "TMS Jinni's",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-04",
+            "episode_count": 10,
+            "id": 282193,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pQzaOca93F7oi4MUH3MipQRXbA.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

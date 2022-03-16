@@ -1,0 +1,142 @@
+{
+    "adult": false,
+    "backdrop_path": "/9q69OEoEtpb7NcSZwNFZzF29o0E.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2022-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://shikimori-anime.com",
+    "id": 115694,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-10",
+    "last_episode_to_air": {
+        "air_date": "2022-07-10",
+        "episode_number": 12,
+        "id": 3629248,
+        "name": "Better Than a Dream",
+        "overview": "",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 115694,
+        "still_path": "/e805vu4QpSREBkFP2XfteKplJIY.jpg",
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    "name": "Shikimori's Not Just a Cutie",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 12,
+            "name": "HTB",
+            "logo_path": "/eJSYeF1YIyQbZdTRNxuvVKaZOIK.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 576,
+            "name": "Nagoya TV",
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1410,
+            "name": "ABC TV",
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1521,
+            "name": "ABEMA",
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "可愛いだけじゃない式守さん",
+    "overview": "Shikimori seems like the perfect girlfriend: cute, fun to be around, sweet when she wants to be… but she has a cool dark side that comes out under the right circumstances. And her boyfriend Izumi loves to be around when that happens!",
+    "popularity": 69.859,
+    "poster_path": "/i6WK5JY3ziYdCARgG2l1ragQ5fI.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 69968,
+            "logo_path": "/cN8Qhl29ZrmWYgkYTS6CDhPK0A5.png",
+            "name": "NBCUniversal Entertainment Japan",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-22",
+            "episode_count": 2,
+            "id": 294559,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9wf6dkbBp8CNaZfh7um2DWj1OZX.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2022-04-10",
+            "episode_count": 12,
+            "id": 174515,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/i6WK5JY3ziYdCARgG2l1ragQ5fI.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 22
+}

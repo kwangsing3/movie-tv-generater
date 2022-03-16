@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/3LuelFiSfgbBdMVQA13d6tx6Rm1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2020-06-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://mottainai-baasan.com/",
+    "id": 201995,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-26",
+    "last_episode_to_air": {
+        "air_date": "2020-06-26",
+        "episode_number": 4,
+        "id": 3721198,
+        "name": "Mottainai Grandma Goes to Magic Land",
+        "overview": "",
+        "production_code": "",
+        "runtime": 5,
+        "season_number": 1,
+        "show_id": 201995,
+        "still_path": "/2Bhfg5j7U6NzUc1V9iCLB1xRj5k.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mottainai Grandma",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 247,
+            "name": "YouTube",
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "もったいないばあさん",
+    "overview": "In the books, the titular Grandma seeks to explore the true meaning of the Japanese phrase \"mottainai\" after her son asked her what it meant and she couldn't answer. \"Mottainai\" is a commonly used exclamation that roughly translates to \"what a waste!\", expressing regret over wastefulness. The Grandma seeks to explore the meaning and importance of \"mottainai\" in the story.",
+    "popularity": 0.6,
+    "poster_path": "/tJC8YmmydGrsqJLliYVbipSTGzw.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        },
+        {
+            "id": 175323,
+            "logo_path": null,
+            "name": "editz",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-06-05",
+            "episode_count": 4,
+            "id": 293760,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tJC8YmmydGrsqJLliYVbipSTGzw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0
+}

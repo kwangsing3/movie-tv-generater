@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/5MuHglMHocWxTy3FkEZRoVJvzs2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-08-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://kakegurui-twin-anime.com/",
+    "id": 138183,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Kakegurui Twin",
+    "next_episode_to_air": {
+        "air_date": "2022-08-04",
+        "episode_number": 1,
+        "id": 3328286,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 138183,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 213,
+            "name": "Netflix",
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "賭ケグルイ双〈ツイン",
+    "overview": "Determined to climb up the social ladder, Mary Saotome invests everything she has into what her elite high school values most: high stakes gambling.",
+    "popularity": 13.217,
+    "poster_path": "/z4ExzoRGRQzkPFouXsKWMWvFGqa.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-04",
+            "episode_count": 1,
+            "id": 218795,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/z4ExzoRGRQzkPFouXsKWMWvFGqa.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

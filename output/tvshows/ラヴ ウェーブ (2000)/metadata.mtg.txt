@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/iQgtlwcigeLUTTbEXpp9sHOhqUC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2000-03-24",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.pinkpineapple.co.jp/products/detail.php?product_id=320",
+    "id": 91389,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2000-10-27",
+    "last_episode_to_air": {
+        "air_date": "2000-10-27",
+        "episode_number": 3,
+        "id": 1858431,
+        "name": "Necross",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 91389,
+        "still_path": "/cq5FJPb55L91PayRU19MqLH9Jw7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Luv Wave",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラヴ ウェーブ",
+    "overview": "BC 2039, Tokyo. Top agents Alice and Kaoru Mikogami succeeded in the assassination of the CIA technology hacker Mercy Spectre. However, his memory and personality has invaded the network, invading the minds of drug abusers. Within this ocean of computer networks, Mercy is becoming virtually unstoppable!",
+    "popularity": 3.308,
+    "poster_path": "/c7T7XLXTZ6gSmH9Najt3mvHRgPw.jpg",
+    "production_companies": [
+        {
+            "id": 43809,
+            "logo_path": null,
+            "name": "Nutech Digital",
+            "origin_country": ""
+        },
+        {
+            "id": 80856,
+            "logo_path": "/vZsx3o01kX3w70ZFTVLur1ASkTS.png",
+            "name": "Pink Pineapple",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-03-24",
+            "episode_count": 3,
+            "id": 128153,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/v5ibHWkFfKeyrMTDruopUcoao9j.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

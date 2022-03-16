@@ -1,0 +1,41 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 984730,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "彗星怪獣ハレ",
+    "overview": "One day, a kite fell in the city and a monster appeared.\r A hikikomori game with darkness Akari Moroboshi is the only one who challenges a monster, but the monster is actually...! ??",
+    "popularity": 0.6,
+    "poster_path": "/1oXxhccFv9dZXX6FgRR8osG9psY.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2019-06-07",
+    "revenue": 0,
+    "runtime": 12,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Halley The Comet Monster",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

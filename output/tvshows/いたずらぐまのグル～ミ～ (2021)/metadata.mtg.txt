@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/sfHu8doVb1TQ0YbWyfSOY4sHxkO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        1
+    ],
+    "first_air_date": "2021-04-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://gloomy-official.com/",
+    "id": 122475,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-28",
+    "last_episode_to_air": {
+        "air_date": "2021-06-28",
+        "episode_number": 12,
+        "id": 2958455,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "runtime": 1,
+        "season_number": 1,
+        "show_id": 122475,
+        "still_path": "/85E3d837MdBLkM6F9K8vLVimjbL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "GLOOMY The Naughty Grizzly",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "いたずらぐまのグル～ミ～",
+    "overview": "Gloomy, an abandoned little bear, is rescued by Pitty (the little boy). At first, he is cute and cuddly, but becomes wilder as he grows up. Since bears do not become attached to people like dogs by nature, Gloomy attacks Pitty even though he is the owner. So Gloomy has blood on him from biting and/or scratching Pitty.",
+    "popularity": 1.236,
+    "poster_path": "/pS1rfiDNW5yti5Kg9w2fLGuk8Dz.jpg",
+    "production_companies": [
+        {
+            "id": 42563,
+            "logo_path": "/iE1h5iSKEOVbtWh4BX4MbvVNsr5.png",
+            "name": "NAZ",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-12",
+            "episode_count": 12,
+            "id": 189191,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ce4x7cc0T7TbqCFDEmqDKeuRLSD.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3,
+    "vote_count": 1
+}

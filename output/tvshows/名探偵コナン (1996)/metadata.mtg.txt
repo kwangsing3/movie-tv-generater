@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1996-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.ytv.co.jp/conan",
+    "id": 30983,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-23",
+    "last_episode_to_air": {
+        "air_date": "2022-07-23",
+        "episode_number": 1051,
+        "id": 3837874,
+        "name": "Intrigue at Morikawa Mansion (Part Two)",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 30983,
+        "still_path": "/cvz2SSOO87QF6hy78eZlAI3BgKf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Case Closed",
+    "next_episode_to_air": {
+        "air_date": "2022-07-30",
+        "episode_number": 1052,
+        "id": 3848342,
+        "name": "The Detective Boys' Test of Courage",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 30983,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 569,
+            "name": "YTV",
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1052,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "名探偵コナン",
+    "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+    "popularity": 39.589,
+    "poster_path": "/9ve6LW4ltMMpp9WjoR4MGViOp9V.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-02-15",
+            "episode_count": 52,
+            "id": 42559,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/673EClC1zs7dJZYceI5bzwBjUiH.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1996-01-08",
+            "episode_count": 1052,
+            "id": 42543,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/i2IIP5SOLJcMqLFCoPqeeRepYUG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.91,
+    "vote_count": 547
+}

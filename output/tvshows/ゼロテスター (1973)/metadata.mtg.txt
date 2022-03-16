@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/oUH5dJ9I4piIHhPkik9rUa13Bjs.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1973-10-01",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 204485,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1974-12-30",
+    "last_episode_to_air": {
+        "air_date": "1974-12-30",
+        "episode_number": 66,
+        "id": 3795180,
+        "name": "Episode 66",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 204485,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Zero Tester",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1163,
+            "name": "Kansai TV",
+            "logo_path": "/1J33ZvSff1VOEt3aC8CyKmj9GEy.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 66,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゼロテスター",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/ilTB16fwbZltQuMjjOkqPl3IiHb.jpg",
+    "production_companies": [
+        {
+            "id": 1780,
+            "logo_path": "/2KJ1cSBOGABQotDWSRPNY4C9amg.png",
+            "name": "Tohokushinsha Film Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1973-10-01",
+            "episode_count": 66,
+            "id": 298093,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ilTB16fwbZltQuMjjOkqPl3IiHb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

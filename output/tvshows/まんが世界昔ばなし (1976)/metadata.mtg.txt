@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/hI4Ciluq7YvYTmhVPu5ooEhssIl.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        20
+    ],
+    "first_air_date": "1976-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 129570,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1979-12-20",
+    "last_episode_to_air": {
+        "air_date": "1979-12-20",
+        "episode_number": 168,
+        "id": 3461080,
+        "name": "Episode 168",
+        "overview": "",
+        "production_code": "",
+        "runtime": 20,
+        "season_number": 1,
+        "show_id": 129570,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "World Famous Fairy Tales",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 168,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まんが世界昔ばなし",
+    "overview": "Animated adaptations of fairy and folk tales from around the world.",
+    "popularity": 0.6,
+    "poster_path": "/oPfSmcC7J1tN93Hdknc7OJe21GK.jpg",
+    "production_companies": [
+        {
+            "id": 82917,
+            "logo_path": null,
+            "name": "Dax International",
+            "origin_country": "JP"
+        },
+        {
+            "id": 113257,
+            "logo_path": null,
+            "name": "TBS",
+            "origin_country": ""
+        },
+        {
+            "id": 167050,
+            "logo_path": null,
+            "name": "World Television",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1976-10-07",
+            "episode_count": 168,
+            "id": 203168,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oPfSmcC7J1tN93Hdknc7OJe21GK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/cS49ngv8tmbJQFeSpB7NeoEEr7M.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2014-08-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 88156,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-08-29",
+    "last_episode_to_air": {
+        "air_date": "2016-08-29",
+        "episode_number": 3,
+        "id": 1747935,
+        "name": "Episode 3",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 88156,
+        "still_path": "/5ulN9cDcUcJKyUWExrijD2ZJ75E.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Paradise of Innocence",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無邪気の楽園",
+    "overview": "Shouta is sent back in time to his elementary school days via a mysterious school pool. He sees Konomi, a girl who would eventually become a nationally popular actress, and other cute girls when they were innocent and defenseless.",
+    "popularity": 1.097,
+    "poster_path": "/DSrG9rF3hTniionh0IRelyHjL4.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-08-29",
+            "episode_count": 3,
+            "id": 121622,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hrwLQkCSrC6PMVPUMsA5iQnjKv4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

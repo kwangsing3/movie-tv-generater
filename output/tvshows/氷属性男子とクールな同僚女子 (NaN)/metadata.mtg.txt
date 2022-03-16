@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://icpc-anime.com/",
+    "id": 204519,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "The Ice Guy and His Cool Female Colleague",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "氷属性男子とクールな同僚女子",
+    "overview": "Himuro-kun is a living descendant of the Snow Woman from Japanese folklore. But anytime he's around his eccentric yet kind colleague, Fuyutsuki-san, he totally freezes up! Despite the snowstorm of love that rages on in his heart, and her complete cluelessness, will he take a step forward or stay frozen in place?",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 109854,
+            "logo_path": null,
+            "name": "Zero-G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 177456,
+            "logo_path": null,
+            "name": "Liber",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 298155,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

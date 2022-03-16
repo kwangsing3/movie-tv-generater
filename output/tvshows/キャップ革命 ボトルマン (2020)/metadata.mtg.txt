@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2020-10-09",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.takaratomy.co.jp/products/bottleman/anime/",
+    "id": 112359,
+    "in_production": true,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2021-03-26",
+    "last_episode_to_air": {
+        "air_date": "2021-03-26",
+        "episode_number": 25,
+        "id": 2483951,
+        "name": "Episode 25",
+        "overview": "",
+        "production_code": "",
+        "runtime": 5,
+        "season_number": 1,
+        "show_id": 112359,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cap Revolution Bottleman",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キャップ革命 ボトルマン",
+    "overview": "The anime centers around a boy named Kouta Kouka (Kouka Kouta in Japanese name order, an apparent wordplay on Coca-Cola). Kouta strives to be the world's best Bottle King at the Bottle Battles in the virtual Drink World. He comes across his Bottleman partner Colamaru and then wages battles with various rivals.",
+    "popularity": 1.248,
+    "poster_path": "/vT2vIEQ7rTvGT8ppI4pm4fb5O6K.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-10-09",
+            "episode_count": 25,
+            "id": 167215,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vT2vIEQ7rTvGT8ppI4pm4fb5O6K.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

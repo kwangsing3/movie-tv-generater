@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/lqXIuP8I2eAxQdbp54d3X0xdceO.jpg",
+    "belongs_to_collection": {
+        "id": 819105,
+        "name": "Shoujo Kageki Revue Starlight Collection",
+        "poster_path": "/ieSE5JmBNyvJxcMKVrdTtTSAirZ.jpg",
+        "backdrop_path": "/hcP3F4I3Nl80YCwLFcfbPigc3Tq.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://cinema.revuestarlight.com/",
+    "id": 645439,
+    "imdb_id": "tt12699782",
+    "original_language": "ja",
+    "original_title": "少女☆歌劇 レヴュースタァライトロンド・ロンド・ロンド 再生産総集編",
+    "overview": "The franchise centers on \"Starlight,\" a dance and dance troupe beloved the world over. Karen and Hikari promised each other when they were little that one day they would perform together on that stage. Time passes and now they are both 16 years old. Karen is very excited about the dance lessons she takes every day, keeping her promise close to her heart. Hikari changed schools and now lives far away from Karen. But the gears of fate bring them together again, destined to meet again. The two, along with other hopefuls, will compete in a mysterious audition to become part of this great company.",
+    "popularity": 5.015,
+    "poster_path": "/hvJlGju85jdkYTPM6XvT3kgsLZC.jpg",
+    "production_companies": [
+        {
+            "id": 16738,
+            "logo_path": "/9OScVSbzYAyM4S25nTH1p9jTV6G.png",
+            "name": "Kinema Citrus",
+            "origin_country": "JP"
+        },
+        {
+            "id": 42196,
+            "logo_path": "/nQNmHvcmaT0zk1Rf0TYtLYO5MpI.png",
+            "name": "Bushiroad",
+            "origin_country": "JP"
+        },
+        {
+            "id": 155602,
+            "logo_path": "/o0XBAwD6X1V6UnEnAj5Y5DXATqW.png",
+            "name": "Nelke Planning",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2020-08-07",
+    "revenue": 0,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Rondo Rondo Rondo",
+    "title": "Revue Starlight: Rondo Rondo Rondo",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 12
+}

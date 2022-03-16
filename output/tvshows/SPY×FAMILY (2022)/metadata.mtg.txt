@@ -1,0 +1,188 @@
+{
+    "adult": false,
+    "backdrop_path": "/zNugnnR5KEmq9EzLcl0Me1UmHYk.jpg",
+    "created_by": [
+        {
+            "id": 3291576,
+            "credit_id": "62ae48de0e44190060c899a6",
+            "name": "Tatsuya Endo",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://spy-family.net/",
+    "id": 120089,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-05-21",
+    "last_episode_to_air": {
+        "air_date": "2022-05-21",
+        "episode_number": 7,
+        "id": 3629230,
+        "name": "THE TARGET'S SECOND SON",
+        "overview": "Anya ends up with a Tonitrus Bolt after she hit Damian Desmond. Sadly, this causes her to stand out for the wrong reasons in class which depresses her, but she ends up friends with Becky, and school becomes a little more fun. She also tries to apologize to Damian for hitting him, but just can't seem to get the words out. For the sake of Operation Strix, Loid disguises himself as someone who works at the school and tries to help Anya reconcile from the shadows, but...",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 120089,
+        "still_path": "/nb5wD8QEtDyhMFFFUjlKK3Dw1Tj.jpg",
+        "vote_average": 7.4,
+        "vote_count": 5
+    },
+    "name": "SPY x FAMILY",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 252,
+            "name": "TV Aichi",
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 822,
+            "name": "TVQ",
+            "logo_path": "/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 824,
+            "name": "TV Osaka",
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2064,
+            "name": "TV Setouchi",
+            "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3202,
+            "name": "TV Hokkaido",
+            "logo_path": "/g1jerEP7O2rIYd83AaLKXeZlbpI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "SPY×FAMILY",
+    "overview": "Master spy Twilight is the best at what he does when it comes to going undercover on dangerous missions in the name of a better world. But when he receives the ultimate impossible assignment—get married and have a kid—he may finally be in over his head! Not one to depend on others, Twilight has his work cut out for him procuring both a wife and a child for his mission to infiltrate an elite private school. What he doesn't know is that the wife he's chosen is an assassin and the child he's adopted is a telepath!",
+    "popularity": 888.042,
+    "poster_path": "/3r4LYFuXrg3G8fepysr4xSLWnQL.jpg",
+    "production_companies": [
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12655,
+            "logo_path": "/7Rt8txBx60jJ0jjtOibGWmP22vo.png",
+            "name": "Shogakukan-Shueisha Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 31058,
+            "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+            "name": "Wit Studio",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 121589,
+            "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+            "name": "CloverWorks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-08",
+            "episode_count": 12,
+            "id": 184428,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nShEY0JnMOsvdhEnmYvL9mowIKz.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 8,
+            "id": 300245,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/2rxAOHB7gV8PLht3l1ngepovFXV.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

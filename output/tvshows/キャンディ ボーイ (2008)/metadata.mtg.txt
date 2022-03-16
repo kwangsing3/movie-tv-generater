@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/eHHGmLjYrWPDVRnFlu9qVzhQcNq.jpg",
+    "created_by": [
+        {
+            "id": 1608431,
+            "credit_id": "5b7d3b6f0e0a263bcd00c4fa",
+            "name": "Takafumi Hoshikawa",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        14
+    ],
+    "first_air_date": "2008-05-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "https://web.archive.org/web/20080311195101/http://candyboy.jp/",
+    "id": 61439,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-05-08",
+    "last_episode_to_air": {
+        "air_date": "2009-05-08",
+        "episode_number": 7,
+        "id": 1010899,
+        "name": "Cherry Blossoms Have Bloomed...?",
+        "overview": "Kanade is feeling both guilty that Yukino is doing a part time job for her sake, and lonely since she doesn't get to spend as much time with her. They are both surprised to find Shizuku at their apartment, who stays over. Sakuya tells Kanade that she should go apologize to Yukino, with Shizuku making a similar suggestion. Kanade later meets up with Yukino to apologize, telling her she'll take a short-term course instead of full term, and they promise to stay together forever. Yukino asks Kanade to get some cream off her mouth, which, to Yukino's surprise, Kanade removes with her lips. They later say that they love each other.",
+        "production_code": "",
+        "runtime": 14,
+        "season_number": 1,
+        "show_id": 61439,
+        "still_path": "/sScyniqGsWamDPgcCXQ6ZZCBKif.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Candy Boy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 252,
+            "name": "TV Aichi",
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キャンディ ボーイ",
+    "overview": "Yukino and Kanade Sakurai live together as high school students enjoying their daily life; until one day Sakuya Kamiyama confess her love for Kanade to Yukino, asking for her support. This makes Yukino to release her true feelings for her sister.",
+    "popularity": 3.473,
+    "poster_path": "/y43ZIAJEUaVPzzTe9QWQsVRJyFV.jpg",
+    "production_companies": [
+        {
+            "id": 108026,
+            "logo_path": null,
+            "name": "Studio RUFUS",
+            "origin_country": ""
+        },
+        {
+            "id": 108027,
+            "logo_path": "/rRi6UiDltJSyW6srgOmC7LH3pO2.png",
+            "name": "Studio T&T",
+            "origin_country": "JP"
+        },
+        {
+            "id": 108028,
+            "logo_path": "/5cmP4aDWS5XTpf0iq8EE3inrPcs.png",
+            "name": "HALF H・P STUDIO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-11-21",
+            "episode_count": 3,
+            "id": 286257,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-05-01",
+            "episode_count": 7,
+            "id": 62915,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/n5VSuM0aaYMkXR3p6OdRcVOZ3Mr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2.7,
+    "vote_count": 9
+}

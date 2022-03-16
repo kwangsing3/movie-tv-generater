@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/xfc83Nk5Fl4Tc2t47VwDl65aWvk.jpg",
+    "created_by": [
+        {
+            "id": 2590243,
+            "credit_id": "61647acc1ad93b008cc513ef",
+            "name": "李旎",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.bilibili.com/bangumi/media/md28230743/",
+    "id": 135691,
+    "in_production": false,
+    "languages": [
+        "zh",
+        "ja"
+    ],
+    "last_air_date": "2021-12-20",
+    "last_episode_to_air": {
+        "air_date": "2021-12-20",
+        "episode_number": 12,
+        "id": 3400991,
+        "name": "Human’s Decision",
+        "overview": "Earth is safe thanks to the DGI, but it will only last a few minutes. With no other options, the Astra-Hasis begins its final mission to save the Earth. G’s Frames join the battle, including the White Giant and Asena, who was thought lost.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 135691,
+        "still_path": "/uPz3S5TDNheoou3RZs0Ssrt4Swz.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ancient Girl's Frame",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1605,
+            "name": "bilibili",
+            "logo_path": "/mtmMg3PD4YGfrlmqpEiO6NL2ch9.png",
+            "origin_country": "CN"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CN",
+        "JP"
+    ],
+    "original_language": "zh",
+    "original_name": "闘神機ジーズフレーム",
+    "overview": "At the end of the 21st century, the discovery of a new energy source called \"DG energy\" (short for \"divine grace energy\") has revolutionized Earth's economy and allowed humanity to colonize space. However, when the initial expedition reaches Pluto, they are attacked by a mysterious, giant life-form known as \"Nergal.\"The Earth Alliance Army fights back by creating an \"AG Unit\" using ancient robot weapons known as the \"G's Frame\" which were excavated from archaeological sites all around the world. Girls with special qualities known as \"Ancient Girls\" can pilot these robots against the Nergal. However, the first AG Unit suffers heavy casualties in the Jupiter Trojan campaign, and the pilot of Unit 04, Minamiya Reiu, goes missing-in-action...Years later, Minamiya Reika, the younger sister of Reiu, enlists with the AG Unit to search for her sister and to protect the Earth from the Nergal. A story of friendship, ancient robot weapons, and battles to the death with the Nergal ensues.",
+    "popularity": 3.564,
+    "poster_path": "/7Qc3ZwxbQ5sVT4yw2BmqgTmQhsL.jpg",
+    "production_companies": [
+        {
+            "id": 117213,
+            "logo_path": null,
+            "name": "Seven Stone Entertainment",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-11",
+            "episode_count": 12,
+            "id": 214424,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rstIInUe88xcQukJHqAtYNdBxdw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/rld9hnANdecioj0MbgP2AGKMT0t.jpg",
+    "created_by": [
+        {
+            "id": 1283426,
+            "credit_id": "52c948ae19c2956c1200d6e8",
+            "name": "Koi Ikeno",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1982-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34797,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-09-21",
+    "last_episode_to_air": {
+        "air_date": "1983-09-21",
+        "episode_number": 34,
+        "id": 792458,
+        "name": "Love! Love! Eternal Triangle",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 34797,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tokimeki Tonight",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 34,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ときめきトゥナイト",
+    "overview": "The main character, Ranze, is a junior high girl with troubles: her father is a vampire and her mother is a werewolf. Ranze has yet to manifest her supernatural powers, and her parents are beginning to get worried she might be normal. So begins the fantasy romantic comedy story.",
+    "popularity": 2.72,
+    "poster_path": "/9rbedn4aFGIIyikvMKl55bY9VB.jpg",
+    "production_companies": [
+        {
+            "id": 5397,
+            "logo_path": null,
+            "name": "Group TAC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 45577,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1982-10-06",
+            "episode_count": 34,
+            "id": 45576,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/quoNjAJleB3hv5qqcAPYlRTTjks.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.3,
+    "vote_count": 3
+}

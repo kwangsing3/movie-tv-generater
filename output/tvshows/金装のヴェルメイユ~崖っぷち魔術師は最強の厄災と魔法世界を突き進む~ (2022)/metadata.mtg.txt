@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/a9Y9xwkrqE4vOK12qfZejZXgDjb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://vermeilingold.jp/",
+    "id": 194774,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-19",
+    "last_episode_to_air": {
+        "air_date": "2022-07-19",
+        "episode_number": 3,
+        "id": 3815155,
+        "name": "A Dragonrider’s Beating Heart",
+        "overview": "The Student Council is absurdly powerful, and Alto and Vermeil’s antics have landed them in the crosshairs of one member in particular: Chris, captain of the Dragonriders.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 194774,
+        "still_path": "/zIa0GzPml2OlHkH05xAA0s6gVZR.jpg",
+        "vote_average": 7,
+        "vote_count": 2
+    },
+    "name": "Vermeil in Gold",
+    "next_episode_to_air": {
+        "air_date": "2022-07-26",
+        "episode_number": 4,
+        "id": 3815156,
+        "name": "Episode 4",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 194774,
+        "still_path": "/wEk2PkorxczOr1htpttBEH2UPw9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "金装のヴェルメイユ~崖っぷち魔術師は最強の厄災と魔法世界を突き進む~",
+    "overview": "Royal Ortigia Magic Academy. Alto, on the verge of failing the summoning magic class and having to repeat the year, stumbles upon a grimoire and draws a magic circle, summoning the sealed demon Vermeil and making her his familiar. She has been a feared \"devil\" since ancient times and possesses tremendous power to cause disasters. Vermeil, as a familiar, necessitates magical energy on a daily basis, which she obtains from Alto via passionate kisses. Lilia, Alto's childhood friend, grows envious of their relationship, while the students are also taken aback by the unprecedented familiar. The royal road fantasy of a magician on the edge of failure and an unhealthy devil sister begins!",
+    "popularity": 202.281,
+    "poster_path": "/gozUDZOZZq19vcnnP95eU5MINoa.jpg",
+    "production_companies": [
+        {
+            "id": 170069,
+            "logo_path": null,
+            "name": "Staple Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-05",
+            "episode_count": 12,
+            "id": 282707,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fSpis6z0uBXjR3bFEHgQ3zvbArd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 5
+}

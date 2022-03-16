@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/v4mNqDPp8pwoprAkoNV3Uop6QCi.jpg",
+    "created_by": [
+        {
+            "id": 97288,
+            "credit_id": "6200018c10923000660ce25c",
+            "name": "Osamu Dezaki",
+            "gender": 2,
+            "profile_path": "/z84fo439U9CtonqP3kQlE8UzGQh.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1979-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.madhouse.co.jp/works/1983-1973/works_tv_marco.html",
+    "id": 28665,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1980-04-05",
+    "last_episode_to_air": {
+        "air_date": "1980-04-05",
+        "episode_number": 43,
+        "id": 710438,
+        "name": "Thoughts racing eastwards",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 28665,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Animated Travels: Marco Polo's Adventures",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 469,
+            "name": "NHK G",
+            "logo_path": "/8hWXAayakmOUZPzmJsqxN7WYnd3.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 43,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "アニメーション紀行 マルコ・ポーロの冒険",
+    "overview": "",
+    "popularity": 0.969,
+    "poster_path": "/7qyQhZqKjLmXDcNNn9vJ6pdboFu.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1979-04-07",
+            "episode_count": 43,
+            "id": 39939,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/avAl0X8DohIOdhyHckh8yZ6qz3L.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

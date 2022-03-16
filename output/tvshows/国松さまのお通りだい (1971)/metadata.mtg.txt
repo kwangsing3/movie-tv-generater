@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/iwOQsnBXcTg4uSpndlmfkj2dn1B.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1971-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.mushi-pro.co.jp/2010/09/%E5%9B%BD%E6%9D%BE%E3%81%95%E3%81%BE%E3%81%AE%E3%81%8A%E9%80%9A%E3%82%8A%E3%81%A0%E3%81%84/",
+    "id": 204280,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1972-09-18",
+    "last_episode_to_air": {
+        "air_date": "1972-09-18",
+        "episode_number": 45,
+        "id": 3791206,
+        "name": "Episode 45",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 204280,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "国松さまのお通りだい",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 45,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "国松さまのお通りだい",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/jcuqT9AeIy5PnY3AKkBXurpsjhF.jpg",
+    "production_companies": [
+        {
+            "id": 20327,
+            "logo_path": "/drfbo2T51CU0gvV5PWCre19P8nG.png",
+            "name": "Mushi Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1971-10-06",
+            "episode_count": 45,
+            "id": 297800,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jcuqT9AeIy5PnY3AKkBXurpsjhF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

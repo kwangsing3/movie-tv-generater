@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/wlYMFvqEc9OpkpqLnRrZJxVUR83.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1980-02-02",
+    "genres": [],
+    "homepage": "http://www.tatsunoko.co.jp/works/rescueman",
+    "id": 68608,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1981-01-31",
+    "last_episode_to_air": {
+        "air_date": "1981-01-31",
+        "episode_number": 53,
+        "id": 2021563,
+        "name": "Episode 53",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 68608,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rescueman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 53,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "タイムボカンシリーズ タイムパトロール隊 オタスケマン",
+    "overview": "Burning with ambitions to become the most beautiful woman, the most renowned scientist, and the greatest hero the world has ever known, three villains, Atasha, Sekobitchi and Duwarusuki, unite. The trio are Time Patrollers, the keepers and protectors of the annals of history. But, this is only a cover for the trio, as the villains are league with a nefarious leader, who is trying to alter the course of history to suit his desires, and, under his instructions, the trio travel in time with the aim of tampering with recorded history. Only Hikaru and Nana, disguised as the Otasukemen, stand between the villains and their goals.",
+    "popularity": 0.629,
+    "poster_path": "/3f10iBcNx93OVho8ZrX71IGqMVc.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1980-02-02",
+            "episode_count": 53,
+            "id": 81802,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aK4Y9Qj3RBt8wIv46Ts7Pe6TTxj.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 1
+}

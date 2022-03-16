@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/dGZYpoQP30o94ZJcBA8D2vGxuMZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://mikagura-gakuen.com/",
+    "id": 62369,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-23",
+    "last_episode_to_air": {
+        "air_date": "2015-06-23",
+        "episode_number": 12,
+        "id": 1475109,
+        "name": "Infinite Grand Finale",
+        "overview": "Eruna briefly sees a vision of people resembling Seisa, Shigure, and the girl she met when she first got her powers, before winding back in the real world, where the school has turned into ruins. Shigure explains that the people she saw were their ancestors who founded Mikagura Academy, stating that Eruna's ancestor gave Eruna her powers so that she could help Seisa. Eruna rushes over to see Seisa, asking her to join her club if she manages to win the midterm battles. After giving her thanks to her ancestor, Eruna makes it to the finals, where she is supposed to fight against Kyōma, but the others arrange for Seisa to fight against her instead. With Seisa regaining control of her power from the enjoyment of the battle, both combatants bring out their full power against each other. After the match ends in a draw, Seisa decides to join Eruna's club, which she names the \"Afterschool Paradise Club\".",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 62369,
+        "still_path": "/17RCfTVkrZ3zhzUN7wzperh7zO6.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mikagura School Suite",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 252,
+            "name": "TV Aichi",
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ミカグラ学園組曲",
+    "overview": "High school student Eruna Ichinomiya enters the Mikagura Academy dreaming of a boarding school life filled with beauty. However, Eruna finds out that in the culture clubs, there is a rule that battles that are fought with special powers decide a club representative's treatment. Through various circumstances, Eruna becomes a representative of a club, and is thrown into the fray.",
+    "popularity": 3.997,
+    "poster_path": "/gmQtiPckDeAlLFuZYGf4kru1Blo.jpg",
+    "production_companies": [
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        },
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-04-07",
+            "episode_count": 12,
+            "id": 65927,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1N8ucL0QRYpdWKqUm3gODcxB05W.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 4
+}

@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/zCfvhZxLuPDOTbtv8k3jvYwxbmW.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1976-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 127618,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1977-03-27",
+    "last_episode_to_air": {
+        "air_date": "1977-03-27",
+        "episode_number": 25,
+        "id": 3028649,
+        "name": "Episode 25",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 127618,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "花の係長",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "花の係長",
+    "overview": "",
+    "popularity": 2.074,
+    "poster_path": "/xNpvYdMsvBK7cGKg6XuDxyrElYh.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1976-10-03",
+            "episode_count": 25,
+            "id": 199359,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lBC9KDr4l71JteQVehb3ta637T4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/sZzNROxlOLUPJmuRVoLXWLf8nvp.jpg",
+    "created_by": [
+        {
+            "id": 1746734,
+            "credit_id": "5f538637d705940032cde930",
+            "name": "Nobuo Onuki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1983-07-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 42945,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-07-15",
+    "last_episode_to_air": {
+        "air_date": "1983-07-15",
+        "episode_number": 3,
+        "id": 2414586,
+        "name": "Episode 3",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 42945,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Serendipity The Pink Dragon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ピュア島の仲間たち",
+    "overview": "Serendipity the Pink Dragon is a 26-episode anime TV series produced by NTV and Zuiyo which aired weekly from 1 July 1983 to 23 December 1983 in Japan. The series was based on the Serendipity books by Stephen Cosgrove. After a boy is shipwrecked on a deserted island, he finds a pink egg which hatches into the pink dragon Serendipity. The series follows their adventures on the island.\n\nA feature-length English dub consisting of episodes from the TV series, directed by Jim Terry, was released on home video in the United States in 1989 by Celebrity Home Entertainment. The boy's name was changed from Kōna to \"Bobby\" in the English version. The TV series itself has also been aired in France, as Biniky le Dragon Rose, in Italy as Rosaura and in Iran as Serendipity.",
+    "popularity": 1.4,
+    "poster_path": "/fEzDpzaXxL6yhG4POxMFFXQa1kE.jpg",
+    "production_companies": [
+        {
+            "id": 7958,
+            "logo_path": null,
+            "name": "Fuji Eight Company Ltd.",
+            "origin_country": ""
+        },
+        {
+            "id": 135867,
+            "logo_path": null,
+            "name": "Zuiyo Eizo",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1983-07-01",
+            "episode_count": 26,
+            "id": 161435,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nTmoihLtrYmP982tmZ2GqKv708w.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

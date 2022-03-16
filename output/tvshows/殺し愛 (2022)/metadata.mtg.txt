@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/hncqmccdrPSjhD78zHyYNLYhbRL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://love-of-kill.com",
+    "id": 114396,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-31",
+    "last_episode_to_air": {
+        "air_date": "2022-03-31",
+        "episode_number": 12,
+        "id": 3416266,
+        "name": "MY NAME",
+        "overview": "Two \"Ryang-Has\" survive desperately with a young Chateau. But Ryang-Ha is cornered by his enemies, and the other Ryang-Ha, too, is severely injured.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 114396,
+        "still_path": "/9pgCnUL1vDH1dN9GFJYYc7ALTXJ.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Love of Kill",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3220,
+            "name": "BS4",
+            "logo_path": "/naTpOY8AjRtgBw0JXafrhAD8ZBT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "殺し愛",
+    "overview": "Two assassins face off at a certain \"workplace.\" The cool bounty hunter Chateau and the mysterious and powerful Ryang-Ha. Chateau and Ryang-Ha become enemies after this fight—at least, they should have, but for some reason Ryang-Ha takes a liking to Chateau and begins following her around. Little by little, Chateau develops a cooperative partnership with Ryang-Ha, which gets her caught up in the struggle against the organizations hunting him down. Furthermore, that battle is related to her past as well. Why did Ryang-Ha approach Chateau? What is Chateau's secret past?",
+    "popularity": 21.778,
+    "poster_path": "/7ObHLrX4fb9Rpk5FBcDng8In0cy.jpg",
+    "production_companies": [
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 92088,
+            "logo_path": null,
+            "name": "Platinum Vision",
+            "origin_country": "JP"
+        },
+        {
+            "id": 139842,
+            "logo_path": "/uBixtDwl2hxsugqSOTzEP90kxa0.png",
+            "name": "TOY'S FACTORY",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156047,
+            "logo_path": "/bR1IGv2EUNaLGPIA3jRgbATUaX8.png",
+            "name": "Bit grooove promotion",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-13",
+            "episode_count": 12,
+            "id": 171537,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aD1j9G94GUMwTmuCPDaas0Awkrb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 21
+}

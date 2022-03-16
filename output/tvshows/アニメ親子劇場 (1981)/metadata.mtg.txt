@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/m8tB1dQ4ntV4YSgbCZr1a83qSHV.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1981-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.cbn.com/partners/video/premiumcontent/kids/superbookclassic",
+    "id": 21269,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-09-26",
+    "last_episode_to_air": {
+        "air_date": "1983-09-26",
+        "episode_number": 26,
+        "id": 594286,
+        "name": "A Matter Of Time",
+        "overview": "The children find themselves in a country about to be invaded by the might Assyrian army. However, God intervenes and destroys the Assyrians. The children then return to the 20th Century.",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 2,
+        "show_id": 21269,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Superbook",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アニメ親子劇場",
+    "overview": "Superbook, also known as Animated Parent and Child Theatre, is an anime television series initially produced by Tatsunoko Productions in Japan in conjunction with the Christian Broadcasting Network in the United States and more recently solely produced by CBN for global distribution and broadcast.\n\nThe series chronicled the events of the Bible's Old and New Testaments in its 52 episode run. The first 26 episodes aired from October 1, 1981 to March 29, 1982. The series returned as Superbook II with 26 episodes to air from April 4, 1983 to September 26, 1983. Between both series in the first run was the companion series The Flying House. The Christian Broadcasting Network is currently producing a new Superbook series and has released fourteen episodes.",
+    "popularity": 5.044,
+    "poster_path": "/iIXRDcfqVMQZc5IFSLQluZfKL9F.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1981-10-01",
+            "episode_count": 26,
+            "id": 31144,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "1983-04-04",
+            "episode_count": 26,
+            "id": 31145,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/ib9rmi38KdrKyt5J0tYjEXQisMj.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 8
+}

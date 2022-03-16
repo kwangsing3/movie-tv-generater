@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/29BnZVaTHoot0DCm9ARUFwH8aBo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1983-03-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 19837,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-01-24",
+    "last_episode_to_air": {
+        "air_date": "1984-01-24",
+        "episode_number": 42,
+        "id": 1702986,
+        "name": "Wedding Bells for Mr. Go",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 19837,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ai Shite Knight",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 42,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "愛してナイト",
+    "overview": "Ai Shite Knight is a shōjo manga created in the early 1980s by Kaoru Tada. An anime version of the story in 42 episodes was also produced in 1983-1984 by Toei Animation, and features episodes supervised by Shingo Araki.",
+    "popularity": 2.735,
+    "poster_path": "/hmHGq255s3Wydf6JKHbUGBri2sO.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1983-03-01",
+            "episode_count": 42,
+            "id": 30081,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qYEOaUQyei8MnBRhrjmvmV7SurG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 4
+}

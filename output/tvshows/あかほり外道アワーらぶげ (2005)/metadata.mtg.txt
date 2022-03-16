@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/eE8u57ZToZUKrgpXpbemAHLZVkV.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-07-05",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 45398,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-09-27",
+    "last_episode_to_air": {
+        "air_date": "2005-09-27",
+        "episode_number": 13,
+        "id": 1474813,
+        "name": "Evil Forever! Operation Definite Justice!",
+        "overview": "Humanity is on the verge of extinction due to the Death Ant Empire, led by Emperor GigaAnt. A shocking event strikes Aimi and sends the world into further chaos! What's in store for Earth? Can humanity regain peace? It's the final episode! What will the world do if our heroes don't take action? Step up, Definite Justice Love Pheromone! Let's go, Gedou Otome Tai!",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 45398,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Akahori's Heretical Hour Love Game",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あかほり外道アワーらぶげ",
+    "overview": "Akahori Gedou Hour Rabuge! is a Japanese anime series that combined episodes of two series, Soreyuke! Gedou Otometai and Zettai Seigi Love Pheromone.",
+    "popularity": 0.962,
+    "poster_path": "/o37wXcAZtCuqrFhoVfgt2Vqcorc.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-07-05",
+            "episode_count": 13,
+            "id": 80304,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 4
+}

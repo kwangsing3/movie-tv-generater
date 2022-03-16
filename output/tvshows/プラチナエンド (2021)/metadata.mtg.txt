@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/aCLTXSF8MvRzmJkjJYGnFe8pAHf.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://anime-platinumend.com",
+    "id": 114892,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-25",
+    "last_episode_to_air": {
+        "air_date": "2022-03-25",
+        "episode_number": 24,
+        "id": 3051947,
+        "name": "The Final Arrow",
+        "overview": "God has been chosen and the world's memories of the God selection process has been erased. Professor Yoneda returns to his normal life with Temari as his new laboratory assistant whereas Mirai and Saki shape their future together with the intention of opening a flower shop of their own. Years eventually pass since the conclusion of the competition, and God, who has been watching all this time, comes to a conclusion.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 114892,
+        "still_path": "/qtuEnXUe1jZ7QVxNA5rcAGQVCVw.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Platinum End",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プラチナエンド",
+    "overview": "As his classmates celebrate their middle school graduation, troubled Mirai is mired in darkness. But his battle is just beginning when he receives some salvation from above in the form of an angel. Now Mirai is pitted against 12 other chosen humans in a battle in which the winner becomes the next god of the world. Mirai has an angel in his corner, but he may need to become a devil to survive.",
+    "popularity": 51.304,
+    "poster_path": "/hxL3ZYeS1GYORKGHG9FI0l6QXQF.jpg",
+    "production_companies": [
+        {
+            "id": 88373,
+            "logo_path": "/aUJ6Xd89l0jXiybnaD7KZPWSUgS.png",
+            "name": "Signal.MD",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-04",
+            "episode_count": 25,
+            "id": 244517,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/dBO71H9yAei7gWp241qNiMO6oor.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-10-08",
+            "episode_count": 24,
+            "id": 172739,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/b4mFPDhxJ26wEIRr0HQ8YPSzGHZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 171
+}

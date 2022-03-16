@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/bwUkEbqHSIMZ8g5h25Ura2TS41A.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://lineup.toei-anim.co.jp/ja/tv/patalliro/",
+    "id": 45289,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-05-13",
+    "last_episode_to_air": {
+        "air_date": "1983-05-13",
+        "episode_number": 49,
+        "id": 3831132,
+        "name": "Episode 49",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 45289,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Boku Patalliro!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "パタリロ!",
+    "overview": "Patalliro du Malyner VIII is the crown prince of the Diamond producing country of Malynera. Known for being both ugly, mischievous and with a bad personality, he is nonetheless a strong-willed prince and a good son to his father the king. Many enemies of the throne, including the Prime Minister of Malynera himself, are off to get rid of him and take control of the rich nation. Thus, Bancoran, his haughty but extremely handsome bodyguard, is off to protect the obnoxious prince, even from Bancoran's own lover, the extremely beautiful bishounen Maraich and other bishounen assassins.",
+    "popularity": 1.421,
+    "poster_path": "/3QMCxPUMI3gsucKe9Si78JrfduT.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-04-08",
+            "episode_count": 49,
+            "id": 113171,
+            "name": "Boku Patalliro!",
+            "overview": "",
+            "poster_path": "/6XGcojgV2IauDZIH61WGm0YK50j.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

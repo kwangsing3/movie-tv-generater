@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/3Sl8PL79nqHeIuSNmfUhNN8xjs1.jpg",
+    "created_by": [
+        {
+            "id": 97288,
+            "credit_id": "62db1816f48b3400695ce295",
+            "name": "Osamu Dezaki",
+            "gender": 2,
+            "profile_path": "/z84fo439U9CtonqP3kQlE8UzGQh.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1975-04-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.tms-e.co.jp/alltitles/1970s/023101.html",
+    "id": 67412,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1975-09-29",
+    "last_episode_to_air": {
+        "air_date": "1975-09-29",
+        "episode_number": 26,
+        "id": 1214167,
+        "name": "Episode 26",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 67412,
+        "still_path": "/tE5oFGbBrhokw9oqXGywvs7A5nF.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Adventure of Gamba",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガンバの冒険",
+    "overview": "An adventurous wild mouse called Gamba travels with his friends to see the ocean but he finds an injured mouse and hears about the violence of white ferret Noroi. Gamba decides to help the mice suffering under Noroi's tyranny.",
+    "popularity": 1.643,
+    "poster_path": "/32B8nGeByyZjSfdZfwnLBRXcwUR.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1975-04-07",
+            "episode_count": 26,
+            "id": 79232,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/w63cV9TxFbOPkV1hfdCkLPnRDFb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/dwsajUo7e6lV4UbvayC2qz4FkAf.jpg",
+    "created_by": [
+        {
+            "id": 553254,
+            "credit_id": "61203bd3385202004740de1c",
+            "name": "Shotaro Ishinomori",
+            "gender": 2,
+            "profile_path": "/6GGRm4pvMOqSWfqhv06WJJhn6s4.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1971-10-30",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://lineup.toei-anim.co.jp/ja/tv/ryu/",
+    "id": 28037,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1972-03-25",
+    "last_episode_to_air": {
+        "air_date": "1972-03-25",
+        "episode_number": 22,
+        "id": 701878,
+        "name": "Towards Tomorrow",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 28037,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ryu, the Cave Boy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "原始少年リュウ",
+    "overview": "",
+    "popularity": 2.879,
+    "poster_path": "/xHRzdyZ7q0V5cmBnvix2FlpSrzV.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1971-10-30",
+            "episode_count": 22,
+            "id": 39169,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/AngbXTlWwvsfkP5FddCQLkb1y1D.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 1
+}

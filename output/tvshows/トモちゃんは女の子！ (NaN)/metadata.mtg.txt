@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://tomo-chan.jp",
+    "id": 205308,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Tomo-chan Is a Girl!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 0,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "トモちゃんは女の子！",
+    "overview": "A youthful romantic comedy between a tomboy and her oblivious childhood friend.",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 59988,
+            "logo_path": null,
+            "name": "Lay-duce",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 299526,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "I may be tough, but I still want to hear him say \"I love you.\"",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

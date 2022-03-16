@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/1Ep6YHL5QcrNC1JN6RYalWRPopi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-07-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://dr-stone.jp",
+    "id": 86031,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-25",
+    "last_episode_to_air": {
+        "air_date": "2021-03-25",
+        "episode_number": 11,
+        "id": 2659420,
+        "name": "Prologue of Dr. Stone",
+        "overview": "The Kingdom of Science is victorious, however it is not over for Senku. Senku must use all of his knowledge to cure Tsukasa who is severly injured.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 86031,
+        "still_path": "/1ZAvZGt0teLnh4R0W9yhS3EjwK3.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Dr. Stone",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1137,
+            "name": "KBS Kyoto",
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 47,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドクターストーン",
+    "overview": "One fateful day, all of humanity was petrified by a blinding flash of light. After several millennia, high schooler Taiju awakens and finds himself lost in a world of statues. However, he's not alone! His science-loving friend Senku's been up and running for a few months and he's got a grand plan in mind, to kickstart civilization with the power of science!",
+    "popularity": 18.13,
+    "poster_path": "/64DIVpWiGlvvJczMnyu8jojSYKm.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-21",
+            "episode_count": 2,
+            "id": 166462,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/eeSfyA00IKHsguUWR0Y0fK2amvK.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-07-05",
+            "episode_count": 24,
+            "id": 117113,
+            "name": "Season 1",
+            "overview": "3,700 years after a mysterious light turns every human on the planet into stone, genius boy Senku Ishigami emerges from his petrification into a \"Stone World\" and seeks to rebuild human civilization from the ground up.",
+            "poster_path": "/58EudfXv38HfupYBpfn8txOlZpO.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-01-14",
+            "episode_count": 11,
+            "id": 164875,
+            "name": "Stone Wars",
+            "overview": "Senkuu has made it his goal to bring back two million years of human achievement and revive the entirety of those turned to statues. However, one man stands in his way: Tsukasa Shishiou, who believes that only the fittest of those petrified should be revived.\n\nAs the snow melts and spring approaches, Senkuu and his allies in Ishigami Village finish the preparations for their attack on the Tsukasa Empire.\n\nReuniting with old friends and gaining new allies, Senkuu and the Kingdom of Science must stop Tsukasa's forces in order to fulfill their goal of restoring humanity and all its creations. With the two sides each in pursuit of their ideal world, the Stone Wars have now begun!",
+            "poster_path": "/a1gQ45ZJELpIpFwOmRC1763rrGb.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": null,
+            "episode_count": 12,
+            "id": 300424,
+            "name": "New World",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.714,
+    "vote_count": 1070
+}

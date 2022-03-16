@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/lrgfQ9iEw63ts3nEcdGSJSW0I52.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.mononogatari-pr.com/",
+    "id": 138948,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Malevolent Spirits: Mononogatari",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "もののがたり",
+    "overview": "When spirits cross over into the human world, they can possess old objects and gain a physical form: a tsukumogami. Tsukumogami can be gentle, violent, or somewhere in-between, so the Saenome clan peacefully helps send them back to the spirit world to avoid destruction.\n\nKunato Hyouma is a member of the clan, but is...less than peaceful, since he holds a grudge from when a tsukumogami robbed him of something important. Afraid that Hyouma's brash anger in dealing with these spirits will lead to supernatural catastrophes, Hyouma's grandfather sends him to live in Kyoto with Nagatsuki Botan, an unusual young woman who actually lives with tsukumogami like family! Can Hyouma learn to control his emotions when dealing with tsukumogami, or is his own spirit doomed to be possessed with rage forever?",
+    "popularity": 0.6,
+    "poster_path": "/mdsLaEynjiUBtgEZagvEbCkJjoi.jpg",
+    "production_companies": [
+        {
+            "id": 74440,
+            "logo_path": "/mf1nS1bfySc1XM5EmPZp4qsAOoy.png",
+            "name": "Bandai Namco Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 220034,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mdsLaEynjiUBtgEZagvEbCkJjoi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

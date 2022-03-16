@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/7wKEIfF62WllJavkkSGRGEuYCR3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2022-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://establife.tokyo",
+    "id": 134580,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-23",
+    "last_episode_to_air": {
+        "air_date": "2022-06-23",
+        "episode_number": 12,
+        "id": 3617661,
+        "name": "You Can't Run from the Extractors",
+        "overview": "Endless waves of security drones threaten to overwhelm the extractors as they make a mad dash for the top of Ooedo Castle. Meeting with The Manager is their last hope, but do they really have anything to offer the all-powerful AI?",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 134580,
+        "still_path": "/lQ3FCiXTK5OKaWSYMQc5nIJx2M4.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Estab-Life: Great Escape",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エスタブライフ グレイトエスケープ",
+    "overview": "The distant future. After reaching its peak, Earth's population fell into decline. AI was developed to help preserve the species and manage the ecosystem; a grand experiment in human diversity. Through genetic engineering, a diverse array of peoples, including beastfolk, magical beings, and more, was created to live in a diverse city separated into walled \"clusters\".\n\nEach cluster developed a unique culture, befitting of the people that lived there. Their lives, and the system, is continually maintained by the AI to ensure survival.",
+    "popularity": 4.987,
+    "poster_path": "/i2gYUsPnzcY8caQGWoTUrpQYypu.jpg",
+    "production_companies": [
+        {
+            "id": 20024,
+            "logo_path": "/fLc5F7K5zsXsSNSFFsbKrZXAga7.png",
+            "name": "Polygon Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 172917,
+            "logo_path": "/pE0G6bDiZDNs972Zc6ZZW1QNdr6.png",
+            "name": "slowcurve",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-07",
+            "episode_count": 12,
+            "id": 212559,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/klel2qcHfwaqF3dx3ySbqrGnz9w.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

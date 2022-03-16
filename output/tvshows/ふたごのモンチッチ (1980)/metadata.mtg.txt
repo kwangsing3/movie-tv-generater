@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/s8owSUTHcCu3ea1EYeinFOFUBHj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "1980-02-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://ashipro.jp/works/tv_series/w005.html",
+    "id": 42426,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1980-08-01",
+    "last_episode_to_air": {
+        "air_date": "1980-08-01",
+        "episode_number": 130,
+        "id": 3812100,
+        "name": "Episode 130",
+        "overview": "",
+        "production_code": "",
+        "runtime": 5,
+        "season_number": 1,
+        "show_id": 42426,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Monchhichi Twins",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 130,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ふたごのモンチッチ",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/63AmOGxXIJtJg3QLXCpb5jSemNR.jpg",
+    "production_companies": [
+        {
+            "id": 14969,
+            "logo_path": "/jwTtvhoCesywogszy79x84Y8Ihh.png",
+            "name": "Asahi Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 123414,
+            "logo_path": null,
+            "name": "Kokusai Eigasha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1980-02-04",
+            "episode_count": 130,
+            "id": 299110,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/63AmOGxXIJtJg3QLXCpb5jSemNR.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

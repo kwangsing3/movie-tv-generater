@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/aZYB0Yky2fXAfksxkSG2pEgsjeQ.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-08-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://yoruneko-pr.com/",
+    "id": 199928,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Nights With a Cat",
+    "next_episode_to_air": {
+        "air_date": "2022-08-03",
+        "episode_number": 1,
+        "id": 3686742,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 199928,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "夜は猫といっしょ",
+    "overview": "When Fuuta comes home tired at night, all he wants to do is spend time with his new cat. All the mysterious habits and mannerisms of house cats are carefully reproduced in this relaxed and cute comedy about living with an adorable furball!",
+    "popularity": 2.815,
+    "poster_path": "/jWkdAX8jY46ai2xiPDVZMgDZhe2.jpg",
+    "production_companies": [
+        {
+            "id": 100244,
+            "logo_path": "/jpLi57YEvCe2uWYLknqzWsNxXFr.png",
+            "name": "Studio Puyukai",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-03",
+            "episode_count": 1,
+            "id": 290655,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jWkdAX8jY46ai2xiPDVZMgDZhe2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

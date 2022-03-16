@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/uyjYoc9wkhRZJvoXsGujVK0Us7k.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "592954fcc3a36877ee04aa94",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        },
+        {
+            "id": 1824441,
+            "credit_id": "59295509c3a36877bc04f6a4",
+            "name": "Hajime Yadate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1978-06-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.sunrise-inc.co.jp/work/detail.php?cid=19",
+    "id": 71922,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1979-03-31",
+    "last_episode_to_air": {
+        "air_date": "1979-03-31",
+        "episode_number": 40,
+        "id": 1321788,
+        "name": "Episode 40",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 71922,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Invincible Steel Man Daitarn 3",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 576,
+            "name": "Nagoya TV",
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 40,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無敵鋼人ダイターン3",
+    "overview": "Sōzō Haran was a brilliant scientist that was conducting research on Mars. He created a form of cyborg life with the ability to think for itself. These cyborgs, dubbed the Meganoids (メガノイド Meganoido?), soon ran out of control and killed Dr. Haran along with his whole family, save his youngest son, the 16-year-old Banjō Haran. Banjō escapes from Mars on a rocket with a solar-powered super robot called Daitarn 3, which was built with the special metals of Mars. Now 18 years old and living on Earth in a luxurious mansion, Banjō fights against the meganoids and their leader, Don Zauser and his second in command Koros, with the aid of his faithful butler Garrison, his two gorgeous companions, Reika and Beauty, and an orphan boy named Topo. Together they must stop the evil meganoids which aspire to turn all humans into cyborgs and thus \"improve\" the human race.",
+    "popularity": 2.076,
+    "poster_path": "/hl47NOyDequ1ME0fkrhiccAbuZN.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4719,
+            "logo_path": "/b3smsDQQ2UEwqToJbVTlT4kgXBk.png",
+            "name": "Sotsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 81418,
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "name": "Nagoya Broadcasting Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 135472,
+            "logo_path": "/2YeUWSZ9tEz6WjzTEoGs1D3Upjp.png",
+            "name": "Nakamura Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1978-06-03",
+            "episode_count": 40,
+            "id": 88747,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tn803NogIgUPrUILsbS5LFXlNFT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 4
+}

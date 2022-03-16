@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/w8uW2KXaub2tWLgdKu72JHrj7Wk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://hanyo-yashahime.com/",
+    "id": 103254,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-26",
+    "last_episode_to_air": {
+        "air_date": "2022-03-26",
+        "episode_number": 48,
+        "id": 3590174,
+        "name": "A Never-Ending Future",
+        "overview": "The feudal era is saved from the Degenerate Age. Inuyasha helps repay Moroha’s remaining debt. Towa and Setsuna receive kimonos from their mother, Rin. Towa, Setsuna, and Moroha accept a demon-slaying request from a mysterious man.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 103254,
+        "still_path": "/r0NCwBVvMe5HuY9WKl70jCYMfPf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yashahime: Princess Half-Demon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 57,
+            "name": "Nippon TV",
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 569,
+            "name": "YTV",
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2727,
+            "name": "Chukyo TV",
+            "logo_path": "/KaIK93kJFD8WKH451owMdmNOSz.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3698,
+            "name": "Sapporo Television Broadcasting",
+            "logo_path": "/qV2FvarOatWAtBGk7tLe2KuQMyn.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 48,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "半妖の夜叉姫",
+    "overview": "The daughters of Sesshoumaru and Inuyasha set out on a journey transcending time! In Feudal Japan, Half-Demon twins Towa and Setsuna are separated from each other during a forest fire. While desperately searching for her younger sister, Towa wanders into a mysterious tunnel that sends her into present-day Japan, where she is found and raised by Kagome Higurashi’s brother, Souta, and his family. Ten years later, the tunnel that connects the two eras has reopened, allowing Towa to be reunited with Setsuna, who is now a Demon Slayer working for Kohaku. But to Towa’s shock, Setsuna appears to have lost all memories of her older sister. Joined by Moroha, the daughter of Inuyasha and Kagome, the three young women travel between the two eras on an adventure to regain their missing past.",
+    "popularity": 40.46,
+    "poster_path": "/vfbBzqu5wU4qgbGlamEmBCHSU4t.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9149,
+            "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+            "name": "Shogakukan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11727,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "name": "Yomiuri Telecasting Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-03",
+            "episode_count": 48,
+            "id": 150421,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bFOiobDTL0BAtxtYInYRUIYwbLg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 23
+}

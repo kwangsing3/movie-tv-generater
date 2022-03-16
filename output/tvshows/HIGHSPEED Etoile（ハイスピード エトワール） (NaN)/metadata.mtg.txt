@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/lpBudcaP9QSt2OGykcLCCRdulnO.jpg",
+    "created_by": [
+        {
+            "id": 2553604,
+            "credit_id": "62d171b5f6787a0068fb6f43",
+            "name": "Takuya Fujima",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://highspeed-etoile.com/",
+    "id": 206033,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Highspeed Etoile",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "HIGHSPEED Etoile（ハイスピード エトワール）",
+    "overview": "",
+    "popularity": 0.84,
+    "poster_path": "/xPvEzlhKAEycts5WzDE9CNDAtqp.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 300825,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xPvEzlhKAEycts5WzDE9CNDAtqp.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

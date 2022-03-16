@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/ppSMPpT07vqbySxnQZzhep0oare.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1980-02-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/lineup/tv/lalabel/",
+    "id": 43549,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1981-02-27",
+    "last_episode_to_air": {
+        "air_date": "1981-02-27",
+        "episode_number": 49,
+        "id": 1236047,
+        "name": "I love humans",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 43549,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Lalabel",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法少女ララベル",
+    "overview": "Lalabel, also known as Lalabel, The Magical Girl or Magical Girl Lalabel, is a magical girl anime by Toei Animation.\n\nA 15 minutes long \"movie\" special called Magical Girl Lalabel: the Sea Calls for a Summer Vacation was also created, it aired in Japan in July 1980.",
+    "popularity": 4.206,
+    "poster_path": "/eFIwSYPFJ3XhunY7fI7JuinENpF.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1980-02-15",
+            "episode_count": 49,
+            "id": 81537,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eFIwSYPFJ3XhunY7fI7JuinENpF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/lkCpVxO8I3nKWvmCXboAKExF92U.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2021-04-18",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 196934,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-07-03",
+    "last_episode_to_air": {
+        "air_date": "2021-07-03",
+        "episode_number": 12,
+        "id": 3646566,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "runtime": 2,
+        "season_number": 1,
+        "show_id": 196934,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hyper Positive Yogoremon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハイパーポジティブよごれモン",
+    "overview": "The story centers on Otarou, a creature themed around dirt known as a yogoremon. It and other yogoremon ask the meaning of words and explain negative terms in positive ways.",
+    "popularity": 0.6,
+    "poster_path": "/oREeVZAeSxVC7AbYYo7C0zReBzv.jpg",
+    "production_companies": [
+        {
+            "id": 165501,
+            "logo_path": "/dfhJGRhxc1EVDahtnKP1tqin8jn.png",
+            "name": "FIREBUG",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-18",
+            "episode_count": 12,
+            "id": 286480,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oREeVZAeSxVC7AbYYo7C0zReBzv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

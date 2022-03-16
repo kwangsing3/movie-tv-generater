@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/9PUhpowv0dvUlwtjs3uJYNGyCYq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://honeyworks-tvanime.com/",
+    "id": 132213,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-23",
+    "last_episode_to_air": {
+        "air_date": "2022-06-23",
+        "episode_number": 12,
+        "id": 3630871,
+        "name": "Passion Is Unbeatable!",
+        "overview": "It's almost time for LIP×LIP's performance at the New Year's countdown! But first, Hiyori has a few more tasks to perform as the heroine-in-training.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 132213,
+        "still_path": "/z7bK2EwNgpJxYrwQrBJpkkurScc.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Heroines Run the Show",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヒロインたるもの！〜嫌われヒロインと内緒のお仕事〜",
+    "overview": "What would you do to pursue your passion? For Hiyori Suzumi, it’s leaving her simple rural hometown for the bustling city of Tokyo to join Sakuragaoka High School’s track team. Between being a manager-in-training for two cutthroat schoolboy idols, track, and friends, Hiyori shows no signs of slowing down.",
+    "popularity": 17.497,
+    "poster_path": "/A5OlJA472GSc2S05bzAMaTw1o9w.jpg",
+    "production_companies": [
+        {
+            "id": 59988,
+            "logo_path": null,
+            "name": "Lay-duce",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-07",
+            "episode_count": 12,
+            "id": 208075,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nSF7h3nfSIWc0FxHXhbPeUQcLJ4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 5
+}

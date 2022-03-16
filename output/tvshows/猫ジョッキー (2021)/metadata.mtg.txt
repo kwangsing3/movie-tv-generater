@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/boFXuSvMP4PVwsCL3Z6t7rHl97M.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2021-05-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.asahi.co.jp/sp/neko_jockey/",
+    "id": 195778,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-11-25",
+    "last_episode_to_air": {
+        "air_date": "2021-11-25",
+        "episode_number": 4,
+        "id": 3614397,
+        "name": "Episode 4",
+        "overview": "",
+        "production_code": "",
+        "runtime": 3,
+        "season_number": 2,
+        "show_id": 195778,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Neko Jockey",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1410,
+            "name": "ABC TV",
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "猫ジョッキー",
+    "overview": "The star horse of Neko Jockey is Mannen Billy, a prize racer who has lost 30 races in a row despite having an excellent physique and bloodline. To solve the problem, the horse's owner hires a brand new jockey... who, as far as Mannen Billy's trainer can see, is just a normal cat.",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 71369,
+            "logo_path": "/gsHQTAMMRAlqYIWdN6rcSKSHRqT.png",
+            "name": "DLE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-05-06",
+            "episode_count": 4,
+            "id": 284486,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-11-04",
+            "episode_count": 4,
+            "id": 284501,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

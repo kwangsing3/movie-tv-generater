@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/cB3qsOB1X49x3wq1k9bqlMlxp2b.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1980-07-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/lineup/tv/genki/",
+    "id": 43223,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1981-03-11",
+    "last_episode_to_air": {
+        "air_date": "1981-03-11",
+        "episode_number": 35,
+        "id": 3096403,
+        "name": "Episode 35",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 43223,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Do Your Best Genki",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 35,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "がんばれ元気",
+    "overview": "Do Your Best Genki is a sports manga by Yū Koyama about Horiguchi Genki, a boy who is raised by a single father, and who wants to be a boxer like him. It was adapted as an anime television series by Toei Animation. The manga received the Shogakukan Manga Award for shōnen in 1977.",
+    "popularity": 1.653,
+    "poster_path": "/suWDMXbqdY767ZYfKmaoih7Lpoe.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1980-07-16",
+            "episode_count": 35,
+            "id": 52691,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/geyNc4rl5C0ARBNxzZGrfDkpTbN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

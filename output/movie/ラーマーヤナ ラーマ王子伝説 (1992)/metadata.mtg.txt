@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/4CqIdCki37Cu2fJQErdIEGKCXBd.jpg",
+    "belongs_to_collection": null,
+    "budget": 6159760,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://ramayana-anime.net/",
+    "id": 84092,
+    "imdb_id": "tt0259534",
+    "original_language": "en",
+    "original_title": "ラーマーヤナ ラーマ王子伝説",
+    "overview": "In Ayodhya, the royal palace of Kosala Kingdom in Ancient India, four princes were born to three queens, each of whom grew to great stature. Banished for 14 years due to court intrigue, Prince Rama retreated to the forest with his beautiful wife Sita. When Rama vanquishes the demons of the forest, he invites the wrath of the demon king Ravana, who kidnaps Sita. Based on the Indian epic the Ramayana.",
+    "popularity": 3.335,
+    "poster_path": "/6bGVpojv1f3cth9Quc5H5HOWDTF.jpg",
+    "production_companies": [
+        {
+            "id": 176426,
+            "logo_path": null,
+            "name": "Nippon Ramayana Film Co.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1992-12-05",
+    "revenue": 0,
+    "runtime": 135,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ramayana: The Legend of Prince Rama",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 20
+}

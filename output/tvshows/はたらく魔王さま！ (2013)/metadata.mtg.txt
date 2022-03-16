@@ -1,0 +1,157 @@
+{
+    "adult": false,
+    "backdrop_path": "/vLJEAxGqvVAJlRsIfeo6kfOrNmC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://maousama.jp/",
+    "id": 45997,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-21",
+    "last_episode_to_air": {
+        "air_date": "2022-07-21",
+        "episode_number": 2,
+        "id": 3824875,
+        "name": "The Devil and the Hero Go to the Amusement Park as Advised",
+        "overview": "Maou, Emi, and Alas Ramus have an eventful day at the amusement park. Meanwhile, their three stalkers do their not-so-great best to blend in.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 45997,
+        "still_path": "/gkSuPT28FMa6UlbagA9R9TjtjX9.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "The Devil Is a Part-Timer!",
+    "next_episode_to_air": {
+        "air_date": "2022-07-28",
+        "episode_number": 3,
+        "id": 3824876,
+        "name": "Episode 3",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 45997,
+        "still_path": "/yYpWYC6mlq8Gem3LxTRumXLTCYz.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 861,
+            "name": "BS11",
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はたらく魔王さま！",
+    "overview": "Foiled by a hero when he’s inches away from conquering the world, the devil finds himself in modern-day Tokyo. With no real-world skills to speak of, the devil is forced to make ends meet flipping burgers at a fast food joint! To stall any further plans of world domination, the hero tracks the devil’s trail and takes on the lowly tasks of a telemarketer.",
+    "popularity": 63.978,
+    "poster_path": "/55jYHFT8iJuASF8Mzg0V8Dh3N3M.jpg",
+    "production_companies": [
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12569,
+            "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+            "name": "White Fox",
+            "origin_country": "JP"
+        },
+        {
+            "id": 77832,
+            "logo_path": "/4qKMYPaifBLGWQq7mQYQBw40W1.png",
+            "name": "Studio 3Hz",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86741,
+            "logo_path": null,
+            "name": "Magic Capsule",
+            "origin_country": "JP"
+        },
+        {
+            "id": 99359,
+            "logo_path": "/qaUZJIED95Hz91EezYVkdzF931b.png",
+            "name": "infinite",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-04-04",
+            "episode_count": 13,
+            "id": 63495,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8SOKHI2l7hECjzPcgRIzjLVZjGP.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2022-07-14",
+            "episode_count": 12,
+            "id": 184638,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/7JGGhoUWGDitdCuyhYqM0PmEtjJ.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.664,
+    "vote_count": 168
+}

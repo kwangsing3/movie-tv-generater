@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/hSfr0lhh8FNCx5ftBIUpvZyr2qn.jpg",
+    "created_by": [
+        {
+            "id": 104688,
+            "credit_id": "5c48a20692514105c150ac86",
+            "name": "Tatsuo Sato",
+            "gender": 2,
+            "profile_path": "/c7s7DfZ8TGfEtRoYlP1CVcWdLd.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1995-04-08",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 57025,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-03-30",
+    "last_episode_to_air": {
+        "air_date": "1996-03-30",
+        "episode_number": 50,
+        "id": 1681936,
+        "name": "Episode 50",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 57025,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "飛べ！イサミ",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 219,
+            "name": "NHK BS1",
+            "logo_path": "/8fr5rRhr3avyMYDDl4b3ePardYc.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "飛べ！イサミ",
+    "overview": "Soar High! Isami is an anime series made by Group TAC and directed by Gisaburô Sugii. The anime is based on The Hakkenden but is set in the future. The anime was broadcast on NHK between April 8, 1995 and March 30, 1996. It is licensed by Hirameki International in the USA.",
+    "popularity": 0.642,
+    "poster_path": "/gWTaLZS2CQ5enwPGHYzNL0zwDT3.jpg",
+    "production_companies": [
+        {
+            "id": 61355,
+            "logo_path": null,
+            "name": "BS Japan",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-04-08",
+            "episode_count": 50,
+            "id": 117457,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8AjFLF7gs3DOnlfE6Nmc4r36Wpv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/xjAMy12yxjJbR56SqQZo5BDN7jO.jpg",
+    "created_by": [
+        {
+            "id": 70216,
+            "credit_id": "5dfa124cd1a8930019809b36",
+            "name": "Tatsuo Yoshida",
+            "gender": 2,
+            "profile_path": "/jjX0BR7SbBMJ9OZP2KNAVKZDfpk.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1979-02-03",
+    "genres": [],
+    "homepage": "http://www.tatsunoko.co.jp/works/zenderman",
+    "id": 96609,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1980-01-26",
+    "last_episode_to_air": {
+        "air_date": "1980-01-26",
+        "episode_number": 52,
+        "id": 2021466,
+        "name": "Episode 52",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 96609,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Zenderman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "タイムボカンシリーズ ゼンダマン",
+    "overview": "Dr Monja is a scientist, who is curious about the nature of the legendary \"Elixir of Life\" which grants the user eternal lifetimes and forever youth. He built a device called the \"Time Tunnel\" in order to let a team of youngsters to start a quest down the timeline and various spaces to find an exact answer. The Akudama Trio, however, is also seemingly after exactly the same thing. Who will get it first?",
+    "popularity": 1.527,
+    "poster_path": "/2APTpkTRnSnxOPeNFvl1oERgU6M.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1979-02-03",
+            "episode_count": 52,
+            "id": 138549,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/AaZ0T4soheqr7l4u0sNocTARxLz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

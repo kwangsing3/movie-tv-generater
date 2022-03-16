@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/h01A95FstbNynIk0mIzj9P3eFTy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1980-02-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.sunrise-inc.co.jp/trider-g7/index.html",
+    "id": 20213,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1981-01-24",
+    "last_episode_to_air": {
+        "air_date": "1981-01-24",
+        "episode_number": 50,
+        "id": 2462246,
+        "name": "Episode 50",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 20213,
+        "still_path": "/dE7tpxjnJLaRAsQ7BCLnEYLDPax.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Trider G7",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 576,
+            "name": "Nagoya TV",
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無敵ロボ トライダーＧ７",
+    "overview": "Trider G7, known in Japan as Invincible Robo Trider G7, was a Japanese anime television series which aired from 1980 to 1981. There were 50 episodes. It was also referred to as \"Trider G7\", \"Unchallengeable Trider G7\" and \"Tryder G7\", \"Bird Attack Tryder G7\", \"Unrivaled Robot Trider G7\".",
+    "popularity": 2.606,
+    "poster_path": "/78cvdpfAbb2Y5JzanVcGn23TJYw.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4719,
+            "logo_path": "/b3smsDQQ2UEwqToJbVTlT4kgXBk.png",
+            "name": "Sotsu",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1980-02-02",
+            "episode_count": 50,
+            "id": 30314,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oePq62T6DJ8HwLIyged2Uqw6mRk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

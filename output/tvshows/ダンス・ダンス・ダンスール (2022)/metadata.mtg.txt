@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/eDG3Omokvq14lOKrM1KvO9u9spE.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://danseur-anime.com/",
+    "id": 122826,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-18",
+    "last_episode_to_air": {
+        "air_date": "2022-06-18",
+        "episode_number": 11,
+        "id": 3630860,
+        "name": "Oh, I Think I Love Classical Ballet",
+        "overview": "Jumpei leaves Miyako and her family to take care of Luou and rushes back to Oikawa to perform on the last day of the boys summer school.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 122826,
+        "still_path": "/36Oa7iwNMCilKJ2kabXG0g7GrN5.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dance Dance Danseur",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 94,
+            "name": "MBS",
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 160,
+            "name": "TBS",
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ダンス・ダンス・ダンスール",
+    "overview": "This young student will do whatever it takes to become the world's best ballet dancer: the Danseur noble!",
+    "popularity": 21.301,
+    "poster_path": "/sF4IQP7jUVZmd8qup3dRj99faRY.jpg",
+    "production_companies": [
+        {
+            "id": 9149,
+            "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+            "name": "Shogakukan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150545,
+            "logo_path": "/df2KyiUSCxpoQxV88AI3zxu8kbD.png",
+            "name": "dugout",
+            "origin_country": "JP"
+        },
+        {
+            "id": 160595,
+            "logo_path": "/bBaHtW5M153OOOsQYVpWvEiSyy9.png",
+            "name": "DMM music",
+            "origin_country": "JP"
+        },
+        {
+            "id": 173116,
+            "logo_path": "/tOdZzJz26XrPDsUWoEDaJAI236d.png",
+            "name": "Creek",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-09",
+            "episode_count": 11,
+            "id": 189807,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/AeeTl5eBw2aPbbPCU6RlCfNidA4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 3
+}

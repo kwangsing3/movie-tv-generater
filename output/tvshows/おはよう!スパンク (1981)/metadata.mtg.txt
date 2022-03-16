@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/ajBmrsNsqO4h1DqXxe1XOVpH0DN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1981-03-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://www.tms-e.co.jp/alltitles/1980s/035101.html",
+    "id": 45318,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1982-05-29",
+    "last_episode_to_air": {
+        "air_date": "1982-05-29",
+        "episode_number": 63,
+        "id": 1508662,
+        "name": "Episode 63",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 45318,
+        "still_path": "/WPxCFgnjRtgglbgIiKlLVudr6X.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hello! Spank",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 171,
+            "name": "ANIMAX",
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 63,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おはよう!スパンク",
+    "overview": "Morimura Aiko is a junior high school student who is short for her age. Her father went on a yacht ten years ago and his whereabouts remained in obscurity. Her mother, a designer for hats, left for Paris, leaving Aiko in the care of her uncle, Mr Fujinami. Aiko had a pet dog, Papi, but it died in a car accident. Around the same time, another dog, Spank, appears before her. Having gone through so many unfortunate events in her life, Spank's presence begins to brighten up Aiko's life and put a smile on her face.",
+    "popularity": 1.4,
+    "poster_path": "/a6kCb4A4UUaVEzysdcjFoCa9ecm.jpg",
+    "production_companies": [
+        {
+            "id": 3069,
+            "logo_path": null,
+            "name": "Tokyo Movie Shinsha",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1981-03-07",
+            "episode_count": 63,
+            "id": 105195,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/l83J8oiCP71cAmcoBbSu0P6l5DN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 2
+}

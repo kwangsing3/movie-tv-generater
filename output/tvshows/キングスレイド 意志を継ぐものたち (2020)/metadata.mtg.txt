@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/9aN0IOg97Y8syhUmm8vgVMqcFdG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.anime-kings-raid.com",
+    "id": 102871,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-26",
+    "last_episode_to_air": {
+        "air_date": "2021-03-26",
+        "episode_number": 26,
+        "id": 2452645,
+        "name": "The Battle of the World Tree",
+        "overview": "The Dark Lord Angmund arrives, taking the Holy Sword from Riheet. However, Kasel and the others arrive as well. The final battle to determine the fate of the world begins.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 102871,
+        "still_path": "/cRLtfZIEUgSlJ1US2riwfnsOEL0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "King's Raid: Successors of the Will",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キングスレイド 意志を継ぐものたち",
+    "overview": "A century has passed since King Kyle of the Orvelia kingdom destroyed the fierce demon lord Angmund, restoring peace to the lands. Now in a time of peace, the apprentice knight Kasel enjoys his life without worry. His fate begins to change, however, with news of demon appearances infesting the neighborhood. Guided by a wise man, Kasel finds friends he can rely on and sets off on his mission to seek a holy sword, capable of slaying his newfound enemies.",
+    "popularity": 22.533,
+    "poster_path": "/A5rjiJcRwNuGQxYehOrsngku8e7.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 131964,
+            "logo_path": "/1BE6u0VTC2didfng8w1qK5bUo6k.png",
+            "name": "Sunrise Beyond",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-03",
+            "episode_count": 26,
+            "id": 149623,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xJE2Hl4NTJ4xVZQ3hFwmYtinskF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 39
+}

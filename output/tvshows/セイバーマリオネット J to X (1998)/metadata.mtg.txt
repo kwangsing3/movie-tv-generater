@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 3150282,
+            "credit_id": "624b120ed9f4a600985d45e2",
+            "name": "Satoru Akahori",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1998-10-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 196873,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-03-30",
+    "last_episode_to_air": {
+        "air_date": "1999-03-30",
+        "episode_number": 26,
+        "id": 3644919,
+        "name": "A Forever Blue Sky",
+        "overview": "",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 196873,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Saber Marionette J to X",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "セイバーマリオネット J to X",
+    "overview": "Taking place mere months after the Saber Marionette J OVA series, this newest installment in the Saber Marionette line follows the continuing adventures of Otaru and his clan of selfless, obsessive marionette girls. This time, the evil Faust is back, and again toying with Marionette technology that was never meant to be explored. The Saber Dolls are back, and torn between their newfound love for Otaru and their undying loyalty to Faust; Will Otaru, Lime, Cherry and Bloodberry be able to stop Faust again, or are they all headed for the scrap heap?",
+    "popularity": 0.627,
+    "poster_path": "/8VH34ud3FkKZxGAZuk1ao265rA4.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1998-10-06",
+            "episode_count": 26,
+            "id": 286385,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Saber Marionette J to X",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

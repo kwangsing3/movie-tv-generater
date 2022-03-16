@@ -1,0 +1,140 @@
+{
+    "adult": false,
+    "backdrop_path": "/2IgdwHAtYmcyVZ0t56oTogj4uBJ.jpg",
+    "created_by": [
+        {
+            "id": 1607435,
+            "credit_id": "62cc81944b9bae1a3d1793a8",
+            "name": "Shinobu Otaka",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://orient-anime.jp/",
+    "id": 115911,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-19",
+    "last_episode_to_air": {
+        "air_date": "2022-07-19",
+        "episode_number": 14,
+        "id": 3831682,
+        "name": "Humiliation On-board",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 115911,
+        "still_path": "/7q9A0KulVeBUloZUXyHNas1axJU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Orient",
+    "next_episode_to_air": {
+        "air_date": "2022-07-26",
+        "episode_number": 15,
+        "id": 3841441,
+        "name": "Episode 15",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 115911,
+        "still_path": "/ruLkZnTVc0kxn3KjOiXBVqBmueD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "オリエント",
+    "overview": "During the Warring States era, the feuding generals were suddenly struck down one after another by the demonic Kishin. In the 150 years since, groups of individuals have continued to resist Kishin control. They are called Bushi bands. When they were young, Musashi and Kojiro would hear tales about the Bushi from Kojiro's father, and the two of them dream to form the strongest Bushi band. One day, as Musashi struggles with his choices, he witnesses humans being torn apart by oni. Forced to face the truth, Musashi rises up against the powerful oni to make his dream with Kojiro come true!",
+    "popularity": 63.959,
+    "poster_path": "/jE5cgpooUbp8XJK7tPlJxjz5kp5.jpg",
+    "production_companies": [
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5451,
+            "logo_path": "/xeHQM5AsvHwo4Ublp4MetaEfsVf.png",
+            "name": "ACGT",
+            "origin_country": "JP"
+        },
+        {
+            "id": 55938,
+            "logo_path": "/ku5PUEwBjUx8XaYikgaXRVLIMbb.png",
+            "name": "avex pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 91520,
+            "logo_path": "/wdcFLdFVOPEm3uEp6Hb9OXgi5Zd.png",
+            "name": "STUDIO MAUSU",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-06",
+            "episode_count": 16,
+            "id": 174934,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/A3RDL3OvYQzpzcFqOjs4CFcLgEi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 7
+}

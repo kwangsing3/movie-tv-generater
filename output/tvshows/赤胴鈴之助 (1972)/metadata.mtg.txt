@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/g6XkDhFUFa8fznlWK4JYCXeY5lN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1972-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 204323,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1973-03-28",
+    "last_episode_to_air": {
+        "air_date": "1973-03-28",
+        "episode_number": 52,
+        "id": 3792194,
+        "name": "Episode 52",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 204323,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "赤胴鈴之助",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "赤胴鈴之助",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/zXgSWxCvoqwGIX2D89E5C30Cfp1.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1972-04-05",
+            "episode_count": 52,
+            "id": 297862,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zXgSWxCvoqwGIX2D89E5C30Cfp1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

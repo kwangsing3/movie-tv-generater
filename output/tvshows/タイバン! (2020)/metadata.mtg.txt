@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-12-31",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.tiny-band-story.com/",
+    "id": 203191,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-05-10",
+    "last_episode_to_air": {
+        "air_date": "2021-05-10",
+        "episode_number": 7,
+        "id": 3754157,
+        "name": "Episode 7",
+        "overview": "",
+        "production_code": "",
+        "runtime": 19,
+        "season_number": 1,
+        "show_id": 203191,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tiny² Band Story",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 247,
+            "name": "YouTube",
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "タイバン!",
+    "overview": "Mizuki Haruno, who has been spending her days feeling blue, was taken to a live concert by her childhood friend, Nozomi. She caught a glimpse of the \"exciting world there.\"\n\nThe story of Mizuki who became a high-school student begins now! This is a rockin' youth story woven by the four individual girls from the music band at Hakumai High School in a town in Hokkaido!",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-12-31",
+            "episode_count": 7,
+            "id": 295735,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

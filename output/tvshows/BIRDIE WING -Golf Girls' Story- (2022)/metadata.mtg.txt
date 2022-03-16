@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": "/1ahOpOc9nbpMyKaw1OHinHrHR2r.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://birdie-wing.net/",
+    "id": 137390,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-29",
+    "last_episode_to_air": {
+        "air_date": "2022-06-29",
+        "episode_number": 13,
+        "id": 3777249,
+        "name": "I Think Who Gets What Room Is Very Important for Girls",
+        "overview": "The Doubles Championship heats up as Eve and Aoi face off against the best high-school players in Japan. Can they take their first step towards worldwide fame and glory?",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 137390,
+        "still_path": "/8yyVPkIt1NhwimkA9ptnaWUaSRk.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Birdie Wing -Golf Girls' Story-",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 252,
+            "name": "TV Aichi",
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 822,
+            "name": "TVQ",
+            "logo_path": "/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 824,
+            "name": "TV Osaka",
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2064,
+            "name": "TV Setouchi",
+            "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3202,
+            "name": "TV Hokkaido",
+            "logo_path": "/g1jerEP7O2rIYd83AaLKXeZlbpI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BIRDIE WING -Golf Girls' Story-",
+    "overview": "Fore! After Eve’s first meet-up with Aoi on the grass left her in defeat, she’s had her eyes set on a rematch to return the favor. Both these up-and-coming golfers are highly skilled, highly unique and most of all, highly competitive. With dreams of making it pro, a rivalry is getting in full swing as they both battle it out in the biggest tournaments.",
+    "popularity": 14.116,
+    "poster_path": "/gNMywRfh2sMxyNpQYquLKGiGGcB.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 74440,
+            "logo_path": "/mf1nS1bfySc1XM5EmPZp4qsAOoy.png",
+            "name": "Bandai Namco Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-06",
+            "episode_count": 13,
+            "id": 217400,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gNMywRfh2sMxyNpQYquLKGiGGcB.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 299014,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/qvaCyisaDMf1fiOQaXEuxVRVp4m.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 4
+}

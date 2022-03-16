@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/yOCxMtJ3wgQyXjP9j8zUhoixPrU.jpg",
+    "created_by": [
+        {
+            "id": 70216,
+            "credit_id": "54aa054cc3a3680c30006204",
+            "name": "Tatsuo Yoshida",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1967-09-23",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 30986,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1968-03-15",
+    "last_episode_to_air": {
+        "air_date": "1968-03-15",
+        "episode_number": 52,
+        "id": 750934,
+        "name": "Race Around the World (2)",
+        "overview": "Speed and Sparky survive the crash and quickly catch up to the other racers. Speed saves Lovelace from an ice crevice in Antarctica. In Sahara, a wind storm buries the races in the sand. On the last leg of the race, Speed gives Lovelace some of his gas. After Speed runs out of gas, Racer X shows up and gives Speed a lecture about his duty to win as a professional racer vs. his desire to help his competitors, and leaves a gas can. Speed wins the race becoming world champion race and Lovelace reveals herself to her father.",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 30986,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Speed Racer",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マッハGoGoGo",
+    "overview": "Teenager Speed Racer aspires to be the world's best race-car champion with the help of his friends, family and his father's high-tech race-car, the Mach 5.",
+    "popularity": 60.607,
+    "poster_path": "/7o9x0cdLjNXLeKfPM7p8h7DBL9B.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1993-06-01",
+            "episode_count": 2,
+            "id": 42583,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1967-09-23",
+            "episode_count": 52,
+            "id": 42584,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 91
+}

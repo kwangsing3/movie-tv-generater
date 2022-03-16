@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 202284,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Ninja Kamui",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 80,
+            "name": "Adult Swim",
+            "logo_path": "/2ezVEkNx1tvBLONzDcViyfovWBH.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "ja",
+    "original_name": "Ninja Kamui",
+    "overview": "A team of assassins exact a bloody retribution on Joe Higan – a former ninja who escaped his clan – and his family for betraying their ancient code. Rising from his seeming “death,” Joe will re-emerge as his former self – Ninja Kamui – to avenge his family and friends. and bring down the very clan that made him.",
+    "popularity": 0.6,
+    "poster_path": "/iH8khaRgK1ItORs1KIP2ISE4BBB.jpg",
+    "production_companies": [
+        {
+            "id": 6760,
+            "logo_path": "/qKLBuZa4Z4fKH8xHvCUsb5EIDx3.png",
+            "name": "Williams Street",
+            "origin_country": "US"
+        },
+        {
+            "id": 169947,
+            "logo_path": "/z0p0fcv4oO6pl8DaCXFoBqERLF9.png",
+            "name": "Sola Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 171872,
+            "logo_path": "/2aHNRMPYLETYEw1ZW8h9yxSVOVi.png",
+            "name": "E&H production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 294226,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iH8khaRgK1ItORs1KIP2ISE4BBB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

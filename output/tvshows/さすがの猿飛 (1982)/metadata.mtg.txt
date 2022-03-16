@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/h8TPjQM9r6PYgZ2GnkgLKW7eb75.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-10-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.adkem.jp/works02/%e3%81%95%e3%81%99%e3%81%8c%e3%81%ae%e7%8c%bf%e9%a3%9b/",
+    "id": 92989,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-03-11",
+    "last_episode_to_air": {
+        "air_date": "1984-03-11",
+        "episode_number": 69,
+        "id": 1906026,
+        "name": "Episode 69",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 92989,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Amazing Sarutobi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1,
+            "name": "Fuji TV",
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 69,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "さすがの猿飛",
+    "overview": "Nikumaru, meaning meatball in Japanese, is a seventeen-year-old student at Ninja High School, a special school for the training of ninja. He is short and chubby, but he possesses a super technique known as the \"kamikaze\", where he stirs up a whirlwind with his feet. The series introduces his many adventures and pranks as Nikumaru meets with his rivals both in and out of school.",
+    "popularity": 0.6,
+    "poster_path": "/uwDPBq1e1oHUDFILcfwOMWDB8um.jpg",
+    "production_companies": [
+        {
+            "id": 53504,
+            "logo_path": null,
+            "name": "Nihon Ad Systems",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-10-17",
+            "episode_count": 69,
+            "id": 131170,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uwDPBq1e1oHUDFILcfwOMWDB8um.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

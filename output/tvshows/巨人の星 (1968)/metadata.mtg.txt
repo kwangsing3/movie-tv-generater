@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/xzsMycOplSyWzV2HStNDdmPGax0.jpg",
+    "created_by": [
+        {
+            "id": 1061187,
+            "credit_id": "60eabeabce5d82005f5f6314",
+            "name": "Ikki Kajiwara",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1968-03-30",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 118453,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1978-09-30",
+    "last_episode_to_air": {
+        "air_date": "1978-09-30",
+        "episode_number": 52,
+        "id": 3801752,
+        "name": "Episode 52",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 2,
+        "show_id": 118453,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "巨人の星",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 569,
+            "name": "YTV",
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 234,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "巨人の星",
+    "overview": "",
+    "popularity": 1.4,
+    "poster_path": "/oAUm0orjKxjFN3XJ7eHqXc857vX.jpg",
+    "production_companies": [
+        {
+            "id": 3069,
+            "logo_path": null,
+            "name": "Tokyo Movie Shinsha",
+            "origin_country": ""
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1968-03-29",
+            "episode_count": 182,
+            "id": 201860,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3AvF4Z6v9ScbwCGDKKGfGSF5xU2.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1977-10-01",
+            "episode_count": 52,
+            "id": 298489,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/7Yn7xrodGShfdSFSChDpPxwWQFC.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

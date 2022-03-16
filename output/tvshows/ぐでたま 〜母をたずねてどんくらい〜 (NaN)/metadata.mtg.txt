@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81090127",
+    "id": 203949,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Gudetama: An Eggcellent Adventure",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "name": "Netflix",
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぐでたま 〜母をたずねてどんくらい〜",
+    "overview": "Gudetama, a listless egg who has given up on life, knowing that all that awaits it is someone’s plate, is forced out of the fridge by the enthusiastic, overbearing chick Shakipiyo. Together, the odd couple set out on a quest to find their mother.",
+    "popularity": 0.608,
+    "poster_path": "/qhNW8Onjg2xEpvzHC3tuqix79GQ.jpg",
+    "production_companies": [
+        {
+            "id": 8487,
+            "logo_path": "/bXWVZmW3RD6SAk0lFahPxNbp541.png",
+            "name": "Sanrio",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 297227,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

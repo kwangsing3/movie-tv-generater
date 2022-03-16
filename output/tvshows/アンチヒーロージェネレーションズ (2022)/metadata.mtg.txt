@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-05-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 199957,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-05-02",
+    "last_episode_to_air": {
+        "air_date": "2022-05-02",
+        "episode_number": 1,
+        "id": 3687905,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 199957,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Anti-Hero Generations",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 247,
+            "name": "YouTube",
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アンチヒーロージェネレーションズ",
+    "overview": "In Japan, giant monsters appear and threaten people's lives on a regular basis. Kaneko, the protagonist, gets a job at a company that operates heroes to defeat them, but he discovers the truth behind the scenes: the company is actually manufacturing monsters, and the battles are fixed by them. Kaneko is also unexpectedly selected as a pilot to control the monsters. What is work? What is work and why do people work? Will Kaneko be able to complete his mission while questioning the meaning of work?",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 174199,
+            "logo_path": "/ufl2CwSCgrud4unHd8SDB8FyN0R.png",
+            "name": "Plott",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-02",
+            "episode_count": 1,
+            "id": 290700,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

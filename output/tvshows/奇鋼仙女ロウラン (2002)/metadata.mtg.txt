@@ -1,0 +1,151 @@
+{
+    "adult": false,
+    "backdrop_path": "/asVsMcIdTNht5HMBzNFnXuqGUad.jpg",
+    "created_by": [
+        {
+            "id": 1185311,
+            "credit_id": "5b130b930e0a263dbb0091db",
+            "name": "Noboru Aikawa",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1028316,
+            "credit_id": "5b130ba4c3a368629800699b",
+            "name": "Toshiki Hirano",
+            "gender": 2,
+            "profile_path": "/AjofS1kfJ241g7kTsJXsonxN7MA.jpg"
+        },
+        {
+            "id": 2056254,
+            "credit_id": "5b130bae9251416712007635",
+            "name": "GANSIS",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2002-11-15",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.starchild.co.jp/special/rouran/top.html",
+    "id": 23122,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-05-30",
+    "last_episode_to_air": {
+        "air_date": "2003-05-30",
+        "episode_number": 28,
+        "id": 619946,
+        "name": "Light",
+        "overview": "",
+        "production_code": "",
+        "runtime": 15,
+        "season_number": 1,
+        "show_id": 23122,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Strange Steel Fairy Rouran",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 610,
+            "name": "Kids Station",
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 28,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "奇鋼仙女ロウラン",
+    "overview": "When the secret occult society, Shiromorishuua, sends a huge monster to attack Tokyo, ASY, a peace-keeping organization in Japan, retaliates with a Gousen (metal faery). ASY's Gousen annihilates the creature after driving it into open ocean. Although successful, a surprise attack follows. A girl, floating in midair and glowing with radiance, strikes with a beam of light. This girl is \"Rouran.\" She knows neither her identity, her origins, nor why whenever she senses the Gousen or Kyoushi (reanimated corpses) she transforms into an avenging angel. As Rouran worries about her mysterious existence, Tetsuya kindly watches over her in Tokyo Arcadia, a settlement of expatriates and dissidents.",
+    "popularity": 1.172,
+    "poster_path": "/yP9UskuND4OwlyK0FS6zyKrHZlI.jpg",
+    "production_companies": [
+        {
+            "id": 14899,
+            "logo_path": null,
+            "name": "Starchild Records",
+            "origin_country": ""
+        },
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 28045,
+            "logo_path": null,
+            "name": "GANSIS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 120739,
+            "logo_path": null,
+            "name": "Starchild Records",
+            "origin_country": ""
+        },
+        {
+            "id": 178701,
+            "logo_path": null,
+            "name": "Ganges",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-11-15",
+            "episode_count": 28,
+            "id": 33056,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

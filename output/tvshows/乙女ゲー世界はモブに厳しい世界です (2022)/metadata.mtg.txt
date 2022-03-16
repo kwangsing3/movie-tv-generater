@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/bRagESK8MMvWW1anNUDzqfz3K3C.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://mobseka.com",
+    "id": 139512,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-19",
+    "last_episode_to_air": {
+        "air_date": "2022-06-19",
+        "episode_number": 12,
+        "id": 3630785,
+        "name": "No Matter How Tough the World of Otome Games Is",
+        "overview": "Forced to face off against the Black Knight, Leon, through cunning tactics, manages to defeat his formidable opponent and bring the enemy forces to his mercy. This act gains him more fame and notoriety with the Holfort Kingdom, and he is appointed as Viscount.",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 139512,
+        "still_path": "/tcKwRtdGkzcVif63EaujHaFwumo.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "乙女ゲー世界はモブに厳しい世界です",
+    "overview": "An ordinary office worker is reincarnated as Leon into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, which includes a complete playthrough of the very game in which he is now trapped. Watch Leon spark a revolution to change this new world in order to fulfill his ultimate desire...of living a quiet, easy life in the countryside!",
+    "popularity": 36.481,
+    "poster_path": "/zQInUzmgvT4MgysqSiW95YBkz1w.jpg",
+    "production_companies": [
+        {
+            "id": 121246,
+            "logo_path": "/jt7YfHwB5k0bGVMsSy1WwJhI2hM.png",
+            "name": "ENGI",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-03",
+            "episode_count": 12,
+            "id": 220966,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/toSiSGcYXjPCIARQZtczqdTQBZS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Even as a mob, I'll rise up.",
+    "type": "Scripted",
+    "vote_average": 6.857,
+    "vote_count": 14
+}

@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/3Hg26EKUIgCsJXT3adH3nfoj8XD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1980-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 24252,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1980-09-26",
+    "last_episode_to_air": {
+        "air_date": "1980-09-26",
+        "episode_number": 26,
+        "id": 638954,
+        "name": "Fly! To the world of love",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 24252,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Moby Dick Five",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 569,
+            "name": "YTV",
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ムーの白鯨",
+    "overview": "",
+    "popularity": 2.887,
+    "poster_path": "/eL4i2apsRQErP0Wfnh8lCacXxyZ.jpg",
+    "production_companies": [
+        {
+            "id": 3069,
+            "logo_path": null,
+            "name": "Tokyo Movie Shinsha",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1980-04-04",
+            "episode_count": 26,
+            "id": 34405,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eL4i2apsRQErP0Wfnh8lCacXxyZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

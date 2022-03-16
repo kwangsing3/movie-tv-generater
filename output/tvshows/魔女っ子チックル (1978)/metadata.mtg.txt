@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/ngtuWaxfDLkBm3LvZGxjeeMkyKQ.jpg",
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "5934b1b79251417e1d028851",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1978-03-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 34718,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1978-12-18",
+    "last_episode_to_air": {
+        "air_date": "1978-12-18",
+        "episode_number": 42,
+        "id": 790715,
+        "name": "First day of School, Long Sleeve Kimono",
+        "overview": "",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 34718,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Witch Girl Tickle",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 103,
+            "name": "tv asahi",
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 45,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔女っ子チックル",
+    "overview": "Majokko Tickle is a 1970s magical girl manga and anime by Go Nagai. Unlike Nagai's earlier Cutie Honey, Majokko Tickle is closer to the more traditional mold of magical girl anime such as Mahoutsukai Sally, and is probably more suitable for young children than most of Nagai's other works.",
+    "popularity": 2.868,
+    "poster_path": "/j3Gw7X68VDTsoPniLYJrygsupjH.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 177013,
+            "logo_path": "/zhpVJFnVrD3C33cfRKrx8M7Pn23.png",
+            "name": "Daiko Advertising",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1978-03-06",
+            "episode_count": 45,
+            "id": 45469,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

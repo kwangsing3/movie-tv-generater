@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://dekineko-anime.com/",
+    "id": 202821,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "The Masterful Cat Is Depressed Again Today",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デキる猫は今日も憂鬱",
+    "overview": "When Saku took in a stray black cat, she never expected that he would become the equivalent of a housekeeping life partner. But Yukichi, a giant cat who towers over Saku, is not your ordinary feline. He takes great pride in his culinary skills, and a good sale at the supermarket always gets his whiskers twitching. Saku may not have her act together yet, but at least she has Yukichi!",
+    "popularity": 0.6,
+    "poster_path": "/qD4QYjN8eaHyuIUZPs7KYVIfKDL.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 295073,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qD4QYjN8eaHyuIUZPs7KYVIfKDL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

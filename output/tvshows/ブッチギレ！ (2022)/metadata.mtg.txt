@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/xgh3QCuhNXuJhjQE93rSLAZxMre.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.bucchigire.com/",
+    "id": 195924,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-22",
+    "last_episode_to_air": {
+        "air_date": "2022-07-22",
+        "episode_number": 3,
+        "id": 3826454,
+        "name": "Episode 3",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 195924,
+        "still_path": "/hsendxMGNu2xlYwtES40hJuriaO.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Shine On! Bakumatsu Bad Boys!",
+    "next_episode_to_air": {
+        "air_date": "2022-07-29",
+        "episode_number": 4,
+        "id": 3826455,
+        "name": "Episode 4",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 195924,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブッチギレ！",
+    "overview": "In the era when samurai controlled Japan... The Masked Demons annihilated all but one member of the Shinsengumi, who had worked to maintain the peace and public order in Kyoto.  Seven criminals are chosen as substitutes for the deceased Shinsengumi members, and they are led by Ichibanboshi, whose parents were also killed by the Masked Demons. He becomes a substitute for Commander Isami Kondo and goes after the Masked Demons with the other substitutes to avenge his parents' deaths.  Former criminals rise up to restore peace and order as their crazy story begins!  Now is the time to shine the brightest!",
+    "popularity": 97.149,
+    "poster_path": "/9xWNtJMhT6QBY4sTU1o5b5L05Ra.jpg",
+    "production_companies": [
+        {
+            "id": 104682,
+            "logo_path": "/i87rCY8dRbWWgW3o9jnwWE5qa3Z.png",
+            "name": "Geno Studio",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-08",
+            "episode_count": 12,
+            "id": 284763,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/n52m4tqLLn6CsI5vXIMDCNQvhMz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

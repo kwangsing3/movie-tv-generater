@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": "/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-12",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://you-zitsu.com/",
+    "id": 72517,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-18",
+    "last_episode_to_air": {
+        "air_date": "2022-07-18",
+        "episode_number": 3,
+        "id": 3802214,
+        "name": "The greatest souls are capable of the greatest vices as well as of the greatest virtues.",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 72517,
+        "still_path": "/csfe7WoFm2UyXcBux2nDHxAHdiY.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Classroom of the Elite",
+    "next_episode_to_air": {
+        "air_date": "2022-07-25",
+        "episode_number": 4,
+        "id": 3802215,
+        "name": "Episode 4",
+        "overview": "",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 72517,
+        "still_path": "/oF6UbzQQce0xri9vHL7cCaN9N3J.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 252,
+            "name": "TV Aichi",
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ようこそ実力至上主義の教室へ",
+    "overview": "Koudo Ikusei Senior High School is a leading prestigious school with state-of-the-art facilities where nearly 100% of students go on to university or find employment. The students there have the freedom to wear any hairstyle and bring any personal effects they desire. Koudo Ikusei is a paradise-like school, but the truth is that only the most superior of students receive favorable treatment.\n\nAyanokouji Kiyotaka is a student of D-class, which is where the school dumps its \"inferior\" students in order to ridicule them. For a certain reason, Kiyotaka was careless on his entrance examination, and was put in D-class. After meeting Horikita Suzune and Kushida Kikyou, two other students in his class, Kiyotaka’s situation begins to change.",
+    "popularity": 171.737,
+    "poster_path": "/8BtSk9DGIlS24otIB3qCagVCI6W.jpg",
+    "production_companies": [
+        {
+            "id": 42811,
+            "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
+            "name": "Lerche",
+            "origin_country": "JP"
+        },
+        {
+            "id": 98553,
+            "logo_path": "/81QfupgVijSH5v1H3VUbdlPm2r8.png",
+            "name": "Crunchyroll",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-12",
+            "episode_count": 12,
+            "id": 89821,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8BtSk9DGIlS24otIB3qCagVCI6W.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2022-07-04",
+            "episode_count": 13,
+            "id": 245063,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/lLD9Xg5bASKrUAp7bLCm7s8WbKW.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 294407,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.685,
+    "vote_count": 429
+}

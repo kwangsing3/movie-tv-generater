@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/7u5OrNdmJso53GgnLPX4TMFNMJ3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        1
+    ],
+    "first_air_date": "2021-07-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://yoshimaho.com/",
+    "id": 124928,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-23",
+    "last_episode_to_air": {
+        "air_date": "2021-09-23",
+        "episode_number": 12,
+        "id": 3680278,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "runtime": 1,
+        "season_number": 1,
+        "show_id": 124928,
+        "still_path": "/iXHC0HMeYzm62rvIkEYlsGobfPN.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yoshimaho: Yoshi Yoshi Magic",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 247,
+            "name": "YouTube",
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "よしまほ",
+    "overview": "The protagonist is overworked and always exhausted by daily life, and yearns for comfort and solace. They want to be kindly praised and healed. They think, \"Children have it nice because they're spoiled.\" The protagonist wants to escape from reality, and so they go to a store and purchase a blue pacifier. When they put the pacifier in their mouth, it emits a strange light, and it magically transports the protagonist to another world. The protagonist is now in the body of a five-year-old child, and spends time at a day care center where there are many handsome men who are caregivers there. The caregivers use the \"There, There Magic\" to soothe the children at the day care center.",
+    "popularity": 0.712,
+    "poster_path": "/wM2K783YH12OnG9ej9e8mVslhAb.jpg",
+    "production_companies": [
+        {
+            "id": 71369,
+            "logo_path": "/gsHQTAMMRAlqYIWdN6rcSKSHRqT.png",
+            "name": "DLE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-01",
+            "episode_count": 12,
+            "id": 193715,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wM2K783YH12OnG9ej9e8mVslhAb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Yoshi yoshi",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

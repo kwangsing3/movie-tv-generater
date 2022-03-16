@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/qwHSUEC2ea9El7weERlx7uXzxmH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-01-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://lineup.toei-anim.co.jp/ja/tv/asari/",
+    "id": 205700,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-02-28",
+    "last_episode_to_air": {
+        "air_date": "1983-02-28",
+        "episode_number": 54,
+        "id": 3828665,
+        "name": "Episode 54",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 205700,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Asari-chan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 923,
+            "name": "All-Nippon News Network",
+            "logo_path": "/mlcZ8Y4Q71rKTMhH7ItHH2ZrCVo.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 54,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あさりちゃん",
+    "overview": "Asari's father is an executive of a big company, the mother graduated from an elite university, and her big sister is pretty smart. However, Asari-chan is a quite ordinal girl. Therefore, Asari-chan is always teased by her sister, and her mother scolds her for her bad grades. But, she lives cheerfully not being depressed.",
+    "popularity": 1.062,
+    "poster_path": "/6Z466XzJ6962eABAWRtxOr8PbWp.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-01-25",
+            "episode_count": 54,
+            "id": 300298,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6Z466XzJ6962eABAWRtxOr8PbWp.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

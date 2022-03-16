@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-07-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://nocturne-boogie.jp/",
+    "id": 200938,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-04-22",
+    "last_episode_to_air": {
+        "air_date": "2022-04-22",
+        "episode_number": 47,
+        "id": 3695704,
+        "name": "Episode 47",
+        "overview": "",
+        "production_code": "",
+        "runtime": 3,
+        "season_number": 1,
+        "show_id": 200938,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nocturne Boogie",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 247,
+            "name": "YouTube",
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        },
+        {
+            "id": 2819,
+            "name": "GyaO!",
+            "logo_path": "/wD1kyr8RuPYSWfqHiswhMBpE2kf.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 47,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ノクターンブギ",
+    "overview": "The citizens living in the share house are all monsters but hide that truth from everyone: Vampires who needs to drink female's blood, Wolf girl who has complex in having long hair, jiangshi who wants to have a pure love but gets fake death, ghost that wants to take a wonderful photo but becomes creepy one, and dark hunter who hunts evildoer. There's only a sign of turbulent.",
+    "popularity": 0.84,
+    "poster_path": "/8joPCLtui5PGjniMlb2E3mAnBRq.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-12-11",
+            "episode_count": 2,
+            "id": 291956,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-07-10",
+            "episode_count": 47,
+            "id": 291918,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8joPCLtui5PGjniMlb2E3mAnBRq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

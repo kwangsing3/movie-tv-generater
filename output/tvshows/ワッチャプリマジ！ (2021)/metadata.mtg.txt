@@ -1,0 +1,164 @@
+{
+    "adult": false,
+    "backdrop_path": "/pZ6nhqCXj5eSSt0gVxsfyvu4TbB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2021-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/primagi/",
+    "id": 129599,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-07-24",
+    "last_episode_to_air": {
+        "air_date": "2022-07-24",
+        "episode_number": 40,
+        "id": 3810119,
+        "name": "Episode 40",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 129599,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Waccha Primagi!",
+    "next_episode_to_air": {
+        "air_date": "2022-07-31",
+        "episode_number": 41,
+        "id": 3821309,
+        "name": "Episode 41",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 129599,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "id": 98,
+            "name": "TV Tokyo",
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 173,
+            "name": "AT-X",
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3962,
+            "name": "Nara Television",
+            "logo_path": "/9M08u5EOibJxZCWPG2kasrLrKAR.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3981,
+            "name": "Wakayama Telecasting",
+            "logo_path": "/qBhdAhitNODSGDEmeK8p0XZ0JAG.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4796,
+            "name": "Biwako Broadcasting",
+            "logo_path": null,
+            "origin_country": ""
+        },
+        {
+            "id": 4829,
+            "name": "Sendai Television Incorporated",
+            "logo_path": null,
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 75,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ワッチャプリマジ！",
+    "overview": "",
+    "popularity": 18.649,
+    "poster_path": "/cvM4aLT3V9NjOX2dnYTwP8eYG3F.jpg",
+    "production_companies": [
+        {
+            "id": 4571,
+            "logo_path": "/2gKq3u4hrI0xw5plncuaPapmQaV.png",
+            "name": "Dongwoo A&E",
+            "origin_country": "KR"
+        },
+        {
+            "id": 13583,
+            "logo_path": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-03",
+            "episode_count": 1,
+            "id": 285576,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/bn6pCVWCMJ26Q2Wl6ofEhnMhP4F.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-10-03",
+            "episode_count": 49,
+            "id": 203207,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lNg8GtTKc4E0DeZ1lagvvJD88dW.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-07-01",
+            "episode_count": 26,
+            "id": 298001,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

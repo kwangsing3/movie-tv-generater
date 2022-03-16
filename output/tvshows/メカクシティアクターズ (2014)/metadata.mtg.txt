@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/hsVhwx9QxQ3JaMiWvm8mXL6HOgy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2014-04-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "https://www.mekakucityactors.com",
+    "id": 60842,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-29",
+    "last_episode_to_air": {
+        "air_date": "2014-06-29",
+        "episode_number": 12,
+        "id": 1216103,
+        "name": "Summertime Record",
+        "overview": "The group attempts to escape and unite at a lab. The snake reveals the world is fantasy and that it will be resurrected again and again. As the cycle gets ready to start anew, the gang makes one last attempt to stop it.",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 60842,
+        "still_path": "/l8wpnxRSFenWiT5Yq3JuGGDMMBP.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mekakucity Actors",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 343,
+            "name": "Gunma TV",
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 614,
+            "name": "Tokyo MX",
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 861,
+            "name": "BS11",
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1083,
+            "name": "Niconico",
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "メカクシティアクターズ",
+    "overview": "The incidents which occurred on August 14th and 15th bring a group of young boys and girls together… They are members of a group they call themselves the \"Mekakushi Dan\" (Blindfold Organization) and each member possesses a strange power involving their eyes.",
+    "popularity": 5.316,
+    "poster_path": "/s9oebSALJg4MN5ryewNlLhvH3Hj.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-13",
+            "episode_count": 12,
+            "id": 60876,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/p0fBbjQcqQ12LampWq4dIFKimSW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.4,
+    "vote_count": 15
+}

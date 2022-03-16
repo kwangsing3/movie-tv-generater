@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/3IxQCK2mgJu3Swne8IM37hoJx9G.jpg",
+    "created_by": [
+        {
+            "id": 3161832,
+            "credit_id": "62cce9f790b87e1ba09358e1",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        3,
+        6
+    ],
+    "first_air_date": "2017-06-23",
+    "genres": [
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://g-twilight-axis.net/",
+    "id": 72485,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-01",
+    "last_episode_to_air": {
+        "air_date": "2017-09-01",
+        "episode_number": 6,
+        "id": 1367352,
+        "name": "Episode 6",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 72485,
+        "still_path": "/5mjJWtcvARqu9QpyzMko4XAhyGD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam: Twilight AXIS",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士ガンダム Twilight AXIS",
+    "overview": "Universal Century 0096. Several months have passed since the incident surrounding Laplace's box also known as the Universal Century Charter. The Earth Federation Forces dispatches a group of investigators to the severed Axis which is drifting outside the Earth Sphere. Two civilians participate as members of the research group: Arlette Almage and Danton Hyleg. Both have pasts with government service to the Principality of Zeon and Neo Zeon as an engineer and test pilot. Having infiltrated Axis, the investigators come under attack inside a base where no one should be. Arlette and Dalton are confronted with an incident they never imagined.",
+    "popularity": 1.236,
+    "poster_path": "/2a2TP4hpXMo42WFF3RNuyCbtEZY.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-06-23",
+            "episode_count": 6,
+            "id": 89779,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2a2TP4hpXMo42WFF3RNuyCbtEZY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 5,
+    "vote_count": 1
+}

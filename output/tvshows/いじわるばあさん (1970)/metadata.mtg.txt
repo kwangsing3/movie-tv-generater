@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/oEoofJk5WYvunl8vpco5EL85USG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1970-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 204131,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1971-08-18",
+    "last_episode_to_air": {
+        "air_date": "1971-08-18",
+        "episode_number": 38,
+        "id": 3786108,
+        "name": "Episode 38",
+        "overview": "",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 204131,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "いじわるばあさん",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 569,
+            "name": "YTV",
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 38,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "いじわるばあさん",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/eYqGBnfMBTfoHiwyudFtIlrjYP3.jpg",
+    "production_companies": [
+        {
+            "id": 154819,
+            "logo_path": null,
+            "name": "Knack Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1970-10-03",
+            "episode_count": 38,
+            "id": 297518,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eYqGBnfMBTfoHiwyudFtIlrjYP3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

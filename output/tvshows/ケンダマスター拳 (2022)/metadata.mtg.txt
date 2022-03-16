@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/2uw9ni1oAzDAOnFCEg534fUBSdE.jpg",
+    "created_by": [
+        {
+            "id": 2741565,
+            "credit_id": "6276ab0de7868700ac5ed352",
+            "name": "Pierre Itō",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        14
+    ],
+    "first_air_date": "2022-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://moyashin1.jimdofree.com/",
+    "id": 201495,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-06-03",
+    "last_episode_to_air": {
+        "air_date": "2022-06-03",
+        "episode_number": 10,
+        "id": 3709007,
+        "name": "The Heinous Train Arc : Final Part",
+        "overview": "“Kendama corrupts. Absolute kendama corrupts absolutely.” We’re pretty sure that’s how the saying goes, because Ken has been totally corrupted by kendama in the season finale!",
+        "production_code": "",
+        "runtime": 13,
+        "season_number": 1,
+        "show_id": 201495,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kenda Master Ken",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 5926,
+            "name": "TV Matsumoto",
+            "logo_path": "/kf5juQ8FqbMOjpMaR8Wg3pYTlen.png",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5927,
+            "name": "HIDIVE",
+            "logo_path": "/kRYZwBhvKhc6SIqmk33IuDtNJi4.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ケンダマスター拳",
+    "overview": "The story chronicles the adventures of Ken Tamaki, hotshot practitioner of the traditional Japanese skill toy “kendama.” But kendama is no mere toy. Ken battles rivals, defeats corrupt organizations and even finds love through his favorite pastime. The stakes are high indeed and Ken will have to face his own inner demons if he wants to live to play kendama (or perhaps become a kendama-man!) another day.",
+    "popularity": 0.6,
+    "poster_path": "/yFyhlchBmSMnqGWTmj8e7GVjYqj.jpg",
+    "production_companies": [
+        {
+            "id": 138575,
+            "logo_path": null,
+            "name": "Studio Kingyoiro",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-01",
+            "episode_count": 10,
+            "id": 292869,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yFyhlchBmSMnqGWTmj8e7GVjYqj.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

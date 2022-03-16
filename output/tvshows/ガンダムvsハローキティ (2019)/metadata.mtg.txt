@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/b9RL9gOO3ZiiJlzCgByU9DJtfxa.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "5ed14cfe96386400247020b0",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        },
+        {
+            "id": 3161832,
+            "credit_id": "62ccea5efd4a960f4fcb227f",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2019-03-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 96586,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-04-12",
+    "last_episode_to_air": {
+        "air_date": "2019-04-12",
+        "episode_number": 3,
+        "id": 2068233,
+        "name": "Episode 3",
+        "overview": "",
+        "production_code": "",
+        "runtime": 2,
+        "season_number": 1,
+        "show_id": 96586,
+        "still_path": "/f4KgAYJZs4wARoXWxLSnQXD9tzl.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gundam vs Hello Kitty",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "ガンダムvsハローキティ",
+    "overview": "While preparing for a tea party, Hello Kitty receives a distress signal from Haro. She travels to the Universal Century timeline to help Amuro Ray and the Gundam end the One Year War.\n\nCross-promotion to commemorate the 40th anniversary of Gundam and the 45th anniversary of Hello Kitty.",
+    "popularity": 0.835,
+    "poster_path": "/nD3jGaVWSFi9DloFXkM69MX0XEc.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2019-03-29",
+            "episode_count": 3,
+            "id": 138474,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ctqzC4YYNB7lDAs1enAaSV2WQUu.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

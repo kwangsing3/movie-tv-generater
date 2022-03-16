@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/sMv4DjNr4cF1BtNyVlK5IjIKcP8.jpg",
+    "created_by": [
+        {
+            "id": 1290451,
+            "credit_id": "62718b70e19de9004f49b0f7",
+            "name": "Daisuke Tsutsumi",
+            "gender": 0,
+            "profile_path": "/h3BBHWBmHGL3jg9Jfuyvmxaohzh.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81028343",
+    "id": 201213,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "ONI: Thunder God's Tale",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "name": "Netflix",
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "ONI: Thunder God's Tale",
+    "overview": "In a world filled with Japanese mythological oddball gods and monsters, one of the creatures' free-spirited daughters, Onari, is determined to follow in the footsteps of the mighty heroes of lore, but her unique powers are yet to be revealed. Does she have what it takes to fight to protect her peaceful village from the encroaching threat of the gods' mysterious enemies, the \"Oni\"?",
+    "popularity": 1.09,
+    "poster_path": "/gpP3Z4NtA5DaP56MdzBKjfYE5Rk.jpg",
+    "production_companies": [
+        {
+            "id": 107169,
+            "logo_path": null,
+            "name": "Tonko House",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 292369,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}
