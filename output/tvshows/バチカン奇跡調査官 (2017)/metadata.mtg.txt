@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/7evV05vcqKvcICq0jdnCQkOcNam.jpg",
+    "created_by": [
+        {
+            "id": 1110435,
+            "credit_id": "5969eb57c3a3683b4200d093",
+            "name": "Yoshitomo Yonetani",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://kisekichosakan.jp/",
+    "id": 72035,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-24",
+    "last_episode_to_air": {
+        "air_date": "2017-09-24",
+        "episode_number": 12,
+        "id": 1370490,
+        "name": "Sinfonia",
+        "overview": "While facing his appearently last moments on Earth, Ryota starts thinking about his life, signed since childhood from three hooded men visiting him each time someone close to him was at the point of death. There will be place for a true miracle this time?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dV03n5QacrHoHUw8tVqNz48Ltyj.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Vatican Miracle Examiner",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バチカン奇跡調査官",
+    "overview": "Vatican City—Holy Land of the Catholics. Amidst the land, there is an organization that conducts rigorous investigations on \"claims of miracles\" from all over the world to ascertain their credibility. The organization is referred to as \"Seito no Za\" (Assembly of Saints) and the priests that belong there are called miracle investigators. Robert Nicholas, an ancient archive and cryptanalysis expert is partnered and good friends with Hiraga Josef Kou, a genius scientist. Together, the brilliant duo investigates the \"miracles\" and uncovers the incidents and conspiracies hidden behind them.",
+    "popularity": 9.483,
+    "poster_path": "/5oSULexX5bCxp7LxjoRqQd1H7I2.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-11",
+            "episode_count": 1,
+            "id": 124519,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/1Ad9akhCy6KmyvE4k7xhnAoiI2S.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-07-07",
+            "episode_count": 12,
+            "id": 88968,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1OVClQrPUGqa6JwYveqcov1wY6v.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2
+}

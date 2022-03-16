@@ -1,0 +1,168 @@
+{
+    "adult": false,
+    "backdrop_path": "/wzR1bjXHp194cwoc4n7zbR1NIw8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2010-08-09",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://tv.sbs.co.kr/scan2go/index.html",
+    "id": 76533,
+    "in_production": false,
+    "languages": [
+        "ja",
+        "ko",
+        "en"
+    ],
+    "last_air_date": "2010-08-09",
+    "last_episode_to_air": {
+        "air_date": "2010-08-09",
+        "episode_number": 1,
+        "id": 1421421,
+        "name": "Going for Number 1!",
+        "overview": "The four young racers are excited to witness their first space race.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Scan2Go",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "SBS",
+            "id": 156,
+            "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+            "origin_country": "KR"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP",
+        "KR"
+    ],
+    "original_language": "ja",
+    "original_name": "ギャラクシーレーサースキャン2ゴー",
+    "overview": "Scan2Go is a Japanese-Korean animated series co-produced by d-rights Inc., NewBoy., SBS Productions Inc. and Stonebridge Capital Inc.,under the direction of Mitsuo Hashimoto. The series is set in a futuristic universe of races involving the use of miniature automated toy cars.",
+    "popularity": 0.907,
+    "poster_path": "/2RCbibrQMTcHA7yMWra0qrv9gDy.jpg",
+    "production_companies": [
+        {
+            "id": 8997,
+            "logo_path": null,
+            "name": "SBS Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 12518,
+            "logo_path": "/qJZAVb8vx6qFLQJ6cunRkVUJVdB.png",
+            "name": "d-rights",
+            "origin_country": "JP"
+        },
+        {
+            "id": 140224,
+            "logo_path": "/5sKwEOp3RdoAukp6qHwSE8MoTit.png",
+            "name": "SynergySP",
+            "origin_country": "JP"
+        },
+        {
+            "id": 161781,
+            "logo_path": null,
+            "name": "NewBoy",
+            "origin_country": ""
+        },
+        {
+            "id": 161783,
+            "logo_path": null,
+            "name": "Stonebridge Capital Inc.",
+            "origin_country": ""
+        },
+        {
+            "id": 161784,
+            "logo_path": null,
+            "name": "SBS Contents Hub",
+            "origin_country": ""
+        },
+        {
+            "id": 4844,
+            "logo_path": "/aSrH7g7ZSfIMp5y6yIToGJNBHo0.png",
+            "name": "Cookie Jar Entertainment",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-08-09",
+            "episode_count": 1,
+            "id": 98183,
+            "name": "Season 1",
+            "overview": "Sometime in the near future, in an age in which we have established contact and communications with planets outside our galaxy, Scan2Go has become a huge phenomenon throughout all of outer space. Giant races are held at every locality, with each racer gunning for the title of the universe's number one racer!\n\nThe main character in the series, Kazuya, possesses the power of the eagle, performed well with his blazing, innate power commanding his falconine beast spirit. He competes in a tournament, the \"Pro-Racer Exhibition Race.\", but was no match for the other teams that had won their way through the competitive Space Preliminaries.\n\nRealizing the difficult obstacles that lie before them, Kazuya and his friends leave the small Earth behind and set off on a universe-wide quest to hone their skills as warriors!",
+            "poster_path": "/y9GhvfWvGRUxRyKhcA8zcxGHCAr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

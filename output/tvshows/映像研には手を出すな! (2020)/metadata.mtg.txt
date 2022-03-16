@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/zay5axfEIgIrd5tyPl2NsS1OPY4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2020-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://eizouken-anime.com/",
+    "id": 92579,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-23",
+    "last_episode_to_air": {
+        "air_date": "2020-03-23",
+        "episode_number": 12,
+        "id": 2040218,
+        "name": "Shibahama UFO Wars!",
+        "overview": "At the last possible second, the eizouken runs into a snag with their short film for the upcoming Comet A convention. With time running out, can they manage to salvage their new film in time?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5SZ3cmF4AGrWFrR80jMbSHgB0Df.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Keep Your Hands Off Eizouken!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK G\t",
+            "id": 469,
+            "logo_path": "/bH9mwMa64tQeVhmTmkC8Qn9Eoe.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "映像研には手を出すな!",
+    "overview": "First-year high schooler Midori Asakusa loves anime so much, she insists that \"concept is everything\" in animation. While she spends her time doodling endless ideas and settings in her sketchbook, she hasn't taken the first step to creating anime, insisting that she can't do it alone. After Asakusa's money-loving best friend Sayaka Kanamori notices her genius and drive – and when it becomes clear that their classmate and charismatic fashion model Tsubame Mizusaki wants to be an animator, the energetic trio start an animation club – Together, the three aim to realize the \"ultimate world\" that exists in their minds, and come to see the power that fiction and imagination have on their lives and the world around them.",
+    "popularity": 18.182,
+    "poster_path": "/1rHoqpvvfjHqEBGuhKfPtZoRQkC.jpg",
+    "production_companies": [
+        {
+            "id": 99494,
+            "logo_path": "/qkHfgTmVRgYOyX0d4EivIDFFKMz.png",
+            "name": "Science SARU",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-08",
+            "episode_count": 13,
+            "id": 142575,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/gXLKJ0BdkCYTHYWN8ujQFg54R0a.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-01-06",
+            "episode_count": 12,
+            "id": 130339,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iP9L7zs8nQjROoLcP4uhu9l9qn9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 33
+}

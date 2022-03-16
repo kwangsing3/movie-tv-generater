@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/hNqT2tdxDienpDhoga76QJB8Xrj.jpg",
+    "created_by": [
+        {
+            "id": 1799475,
+            "credit_id": "5f48d2068cfcc70034488ed3",
+            "name": "Tommy Hino",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3250037,
+            "credit_id": "617947c50d5d85002af55f49",
+            "name": "Bushiroad",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2018-05-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://bang-dream.bushimo.jp/special/movie/",
+    "id": 108348,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-21",
+    "last_episode_to_air": {
+        "air_date": "2018-06-21",
+        "episode_number": 6,
+        "id": 2405519,
+        "name": "Aya-chan's grown up so fast it scares me!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "PASTEL LIFE",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぱすてるらいふ",
+    "overview": "Pastel Life (ぱすてるらいふ, Pasuteru Raifu) is a slice of life and music spin-off anime featuring one of the units in the BanG Dream! franchise, Pastel*Palettes.",
+    "popularity": 2.056,
+    "poster_path": "/aHwvzraTmRoC6YXhxLYCQosgEye.jpg",
+    "production_companies": [
+        {
+            "id": 95861,
+            "logo_path": "/zgASi8usQpL3nsYjGOywho0VSmM.png",
+            "name": "Studio A-CAT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-05-17",
+            "episode_count": 6,
+            "id": 160556,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aHwvzraTmRoC6YXhxLYCQosgEye.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7,
+    "vote_count": 1
+}

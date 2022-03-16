@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/5NVIijd8tReEDTXyO1rSrz4XTtS.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-10-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.solty.net/",
+    "id": 26674,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-31",
+    "last_episode_to_air": {
+        "air_date": "2006-03-31",
+        "episode_number": 24,
+        "id": 674037,
+        "name": "The Future",
+        "overview": "Armed with an appreciation for life, death, and love, Solty rises to confront civilization's final threat that drifts silently through the stars. She is humanity's only hope.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/AsdqEy0D2SAPhw6H5N7JfhI1HvQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Solty Rei",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ソルティレイ",
+    "overview": "It’s been twelve years since the Blast Fall, an unexplained disaster that left countless dead and many more maimed. Society is divided and every citizen feels the burn, most of all the Resembles – people whose mangled bodies have been rebuilt with high-tech prosthetic devices. Bounty hunter Roy Revant has seen it all, walking alone in this shattered city. That is, until the day a strange little girl named Solty falls from the sky straight into his heart. The search for family turns into a search for meaning and those that wield harsh power over society won’t go unnamed for long. Roy and Solty may seek different things… But who wants to search for truth alone?",
+    "popularity": 16.341,
+    "poster_path": "/u8ONAAB4eWjn9CkE8s0JPMdcOUN.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-07-26",
+            "episode_count": 1,
+            "id": 37235,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-10-07",
+            "episode_count": 24,
+            "id": 37234,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lppCrrPpEQouG2H6nRuPJF0Jnr7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 5
+}

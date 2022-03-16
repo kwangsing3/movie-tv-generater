@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/tY6ZweSX4Mg8AYNSia9vyH1su8k.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2002-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://v-storage.bnarts.jp/sp-site/ghost-in-the-shell-special/",
+    "id": 1095,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-01-08",
+    "last_episode_to_air": {
+        "air_date": "2005-01-08",
+        "episode_number": 26,
+        "id": 56530,
+        "name": "IN:  Return to Patriotism; ENDLESS∞GIG",
+        "overview": "Kuze and the Major come up with a plan to save the refugees, but the chances of its success are slim. Realizing this, the Tachikomas disobey the Major's orders and come up with a plan of their own. Batou has also disobeyed the Major's orders to go to the bridge and is desperately searching for her in the ruins of Dejima. Meanwhile, the Prime Minister is frustrated with being spurned by the Chief Cabinet Secretary. Determined to be remembered as more than a mere figurehead, she takes matters into her own hands.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/jBJliLvZa6KdKn3krsQMGVyz9JA.jpg",
+        "vote_average": 8,
+        "vote_count": 3
+    },
+    "name": "Ghost in the Shell: Stand Alone Complex",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "攻殻機動隊 STAND ALONE COMPLEX",
+    "overview": "In the future when technological enhancements and robotics are a way of life, Major Motoko Kusanagi and Section 9 take care of the jobs that are too difficult for the police. Section 9 employs hackers, sharpshooters, detectives and cyborgs all in an effort to thwart cyber criminals and their plans to attack the innocent.",
+    "popularity": 58.344,
+    "poster_path": "/6UH2vJryPpQp38noqvchu3uEeqX.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-12-20",
+            "episode_count": 56,
+            "id": 3089,
+            "name": "Specials",
+            "overview": "This season is comprised of the 3 OVAs and the 52 shorts of the \"Tachikomatic Days\" and \"2nd GIG Tachikomatic Days\", 26 for season 1 and 2. These shorts aired at the end of each episode and delve into the collective minds of the Tachikomas.  Last 1 short \"Uchikomatic Days\" about the birth of the Uchikomas, the 'ugly duckling' second generation think-tanks.",
+            "poster_path": "/ts895g8NDK8cvVlJOfyRrWrImuP.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2002-10-01",
+            "episode_count": 26,
+            "id": 3087,
+            "name": "Ghost in the Shell: Stand Alone Complex",
+            "overview": "In 2030 AD, even if the intention to run around as light and electrons is concentrated in one direction as the computerization becomes generalized and the information network becomes more sophisticated, by the time the \"lonely person\" becomes an \"individual\" as a complex. Is an era when it is not computerized. It depicts the activities of the \"Public Security Section 9\" (commonly known as \"Ghost in the Shell\"), which was established as an independent counterintelligence unit under the direct control of the Ministry of Home Affairs to counter complicated crimes. There are a wide variety of top-secret missions such as cybercrime investigation, terrorism deterrence / arrest, VIP protection, and corruption detection, but one incident emerges as it is carried out.",
+            "poster_path": "/x2GCtfg7IOvCQcSsT9S8k785wcw.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2004-01-01",
+            "episode_count": 26,
+            "id": 3088,
+            "name": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+            "overview": "Set in 2032 AD. The truth is revealed through the appearance of the Cabinet Intelligence and Research Office, which is hostile to Section 9 from the background of the resurrection of Public Security Section 9, starting with the case of a terrorist who claims to be \"11 individual people\", and the appearance of the individual 11-person case and Kuze. Becomes. The information manipulation and crafting activities of the Cabinet Intelligence and Research Office will increase the distrust and opposition of the refugees, and the consolation refugees will be armed and uprising all at once.",
+            "poster_path": "/hGMCtXg2WnHQu3rOV70GNPaANem.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 246
+}

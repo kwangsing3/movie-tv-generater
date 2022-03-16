@@ -1,0 +1,154 @@
+{
+    "adult": false,
+    "backdrop_path": "/1khZ5ifWbjF6MvJGJM8kYiEH2ZX.jpg",
+    "created_by": [
+        {
+            "id": 90573,
+            "credit_id": "5780491192514144a00016d6",
+            "name": "Tsubaki Nekoi",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 555348,
+            "credit_id": "5780490c9251414534001767",
+            "name": "Nanase Ohkawa",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 1450844,
+            "credit_id": "57804914c3a36835b20014fd",
+            "name": "Mokona Apapa",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 1626866,
+            "credit_id": "57804919c3a368355b0016ff",
+            "name": "Satsuki Igarashi",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1994-10-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34158,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-11-27",
+    "last_episode_to_air": {
+        "air_date": "1995-11-27",
+        "episode_number": 29,
+        "id": 783816,
+        "name": "The Road to Victory: The Tomorrow that the Believing Heart Opens!",
+        "overview": "Nova is now back in Hikaru's heart where she belongs. With her dying breath, Alcyone unveils Debonair's location: Cephiro's alternate realm. The Magic Knights and their Rune Gods are ready to end the struggle once and for all...",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magic Knight Rayearth",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法騎士レイアース",
+    "overview": "Hikaru Shidou, Umi Ryuuzaki, and Fuu Hououji are strangers brought together by fate when they meet during a seemingly normal field trip to Tokyo Tower. Accompanied by a great flash of light, they hear a mysterious woman's plea to save \"Cephiro,\" and the junior high heroines are suddenly swept away by a giant flying fish. Afterwards, they arrive in an unknown land, where they encounter a man called Master Mage Clef.\n\nClef informs the girls that they were summoned by Princess Emeraude to fulfill their destinies as Magic Knights, restoring peace and balance in Cephiro. The formerly lively and peaceful land has been in disarray ever since High Priest Zagato imprisoned the princess, who acted as Cephiro's pillar of stability. The Magic Knights reluctantly accept Clef's words as truth and embark on a journey to save Cephiro from the clutches of evil.",
+    "popularity": 31.825,
+    "poster_path": "/xh4XkH5RJQPO9b9bBPL77dKXrxR.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1997-07-25",
+            "episode_count": 3,
+            "id": 44987,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/Aiiw9HyFkeFvCOQH2ZtOVA1cs0q.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1994-10-17",
+            "episode_count": 20,
+            "id": 44985,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/p6EgqT1fE6dMPRonWAEc7UW4jSH.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1995-04-10",
+            "episode_count": 29,
+            "id": 44986,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/pg9zISMkJGVBXyQg0folBV25Gh5.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 152
+}

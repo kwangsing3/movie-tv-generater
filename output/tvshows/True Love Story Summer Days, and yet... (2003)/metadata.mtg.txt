@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-09-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 125377,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-04-23",
+    "last_episode_to_air": {
+        "air_date": "2004-04-23",
+        "episode_number": 3,
+        "id": 2944424,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "True Love Story Summer Days, and yet...",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "True Love Story Summer Days, and yet...",
+    "overview": "After his mother's death Yuuta Morisaki and his older sister Ruri move into the city. In a school corridor, Yuuta bumps into the cute yet slightly klutzy Hina Kusunose, a member of the tennis club. Hina remembers their shared past. Slowly Yuuta starts to remember the childhood promise he made to the girl with whom he used to play when his mother was still alive.",
+    "popularity": 0.6,
+    "poster_path": "/5RIaC8CPcn8EjETrCu8YF9mqNZt.jpg",
+    "production_companies": [
+        {
+            "id": 3560,
+            "logo_path": "/yOsrKcVSpC9ofAkE6hJjvC8sW9u.png",
+            "name": "KSS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-09-26",
+            "episode_count": 3,
+            "id": 194501,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 1
+}

@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/A24oCaPMTdR5tlP0Sqg36cAFfeI.jpg",
+    "created_by": [
+        {
+            "id": 555545,
+            "credit_id": "6095d8565ed8e9003cd5726b",
+            "name": "Yoshihiro Togashi",
+            "gender": 2,
+            "profile_path": "/ezo23XxtcICR5yRYhuq7gfKOTk3.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2004-03-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.nippon-animation.co.jp/work/1835/",
+    "id": 125083,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-08-18",
+    "last_episode_to_air": {
+        "air_date": "2004-08-18",
+        "episode_number": 14,
+        "id": 2935558,
+        "name": "Game x Everything Cleared x Finale",
+        "overview": "Everybody in Greed Island participates in a quiz. Gon scores the highest with 87 correct out of 99 questions, wins card #00, and gets instructions to go to Greed Island Castle.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7P8Cp2Cb05ASUmCflfBU62woiFR.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Hunter x Hunter: Greed Island Final",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 14,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "ハンター×ハンター　G・I　Final",
+    "overview": "Continuing with their adventure at Greed Island, Gon and Killua train furiously under the guidance of Biscuit for better preparation at attempting the game. With their abilities vastly improving and the threat of player killers menacing Greed Island, Gon and company continue the game despite the dangers that they will face with the game activities and encounters with other players.",
+    "popularity": 11.458,
+    "poster_path": "/w7W8jBszxvZwTP8SqWYRhzUwbRm.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2004-03-03",
+            "episode_count": 14,
+            "id": 194028,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.5,
+    "vote_count": 24
+}

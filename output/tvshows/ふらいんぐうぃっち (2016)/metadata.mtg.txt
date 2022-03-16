@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/yspS1fm447kk3ikYAAnsS0zPQC5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2016-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.flyingwitch.jp/",
+    "id": 65934,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-26",
+    "last_episode_to_air": {
+        "air_date": "2016-06-26",
+        "episode_number": 12,
+        "id": 1209688,
+        "name": "A Witch's Robe and Different Ways to Spend the Day",
+        "overview": "Makoto finds her old robe and realizes she's outgrown it, so she decides to make a new one. She also decides to surprise Chinatsu by making her one, too.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uNqhbWhUuGVVWWN7PTLkScE9BjY.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Flying Witch",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ふらいんぐうぃっち",
+    "overview": "In the witches' tradition, when a practitioner turns 15, they must become independent and leave their home to study witchcraft. Makoto Kowata is one such apprentice witch who leaves her parents' home in Yokohama in pursuit of knowledge and training. Along with her companion Chito, a black cat familiar, they embark on a journey to Aomori, a region favored by witches due to its abundance of nature and affinity with magic. They begin their new life by living with Makoto's second cousins, Kei Kuramoto and his little sister Chinatsu.\n\nWhile Makoto may seem to be attending high school like any other teenager, her whimsical and eccentric involvement with witchcraft sets her apart from others her age. From her encounter with an anthropomorphic dog fortune teller to the peculiar magic training she receives from her older sister Akane, Makoto's peaceful everyday life is filled with the idiosyncrasies of witchcraft that she shares with her friends and family.",
+    "popularity": 15.236,
+    "poster_path": "/qCt7fkDeZoVsi1mCIuSfzvily9S.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-06-22",
+            "episode_count": 10,
+            "id": 75641,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/x7hUjFCeBEnasrexuq8TNW9MB71.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-10",
+            "episode_count": 12,
+            "id": 75445,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qCt7fkDeZoVsi1mCIuSfzvily9S.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 26
+}

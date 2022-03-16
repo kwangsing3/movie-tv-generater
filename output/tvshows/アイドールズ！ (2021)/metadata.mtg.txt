@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/6TJz4Og5GHZyzZLShIGPMOyAqUZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        8
+    ],
+    "first_air_date": "2021-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://wsy-idolls.com/anime",
+    "id": 110792,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-12",
+    "last_episode_to_air": {
+        "air_date": "2021-03-12",
+        "episode_number": 10,
+        "id": 2623948,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zspiTQi9ld9elifpQ8ZJCFOuR58.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Idolls!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS Asahi",
+            "id": 1765,
+            "logo_path": "/e15zGUrj4axKXfbOPoxUUl3FQJI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイドールズ！",
+    "overview": "Go for Hoi Hoi Hall! This is the passionate but relaxed 10 day story of struggling idols who fight to fill a 100 seat concert hall!",
+    "popularity": 10.365,
+    "poster_path": "/g9vXLkUeZukspxhBfeJcZZzpuXw.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-08",
+            "episode_count": 10,
+            "id": 164310,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oWFVb2fs0ZGZxbRIw4zW9f2PgEN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 2
+}

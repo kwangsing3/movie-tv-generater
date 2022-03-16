@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/xz5dU7uWPN7mXkjHLzoqWKwdHcO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2020-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://singyesterday.com/",
+    "id": 95550,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-21",
+    "last_episode_to_air": {
+        "air_date": "2020-06-21",
+        "episode_number": 12,
+        "id": 2058426,
+        "name": "The Long Way",
+        "overview": "Rikuo notices that something isn’t quite right between him and Shinako. Meanwhile, Haru suffers.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/92lYUiHziQiSbaPOJ5eI98CwEN6.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "SING \"YESTERDAY\" FOR ME",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "イエスタデイをうたって",
+    "overview": "After college, Rikuo Uozumi, a boy without much ambition in life, takes on a job at a convenience store. The days pass by uneventfully for Rikuo until he meets his former girlfriend and classmate, but especially thanks to the unusual Haru Nonaka, and her pet raven...",
+    "popularity": 22.526,
+    "poster_path": "/fB5WHX8NNThiMcLT0zMIeiiAjEO.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 123172,
+            "logo_path": "/52z6trsASwSR0hVhwgNJ4KkmOd2.png",
+            "name": "DMM.futureworks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-05",
+            "episode_count": 6,
+            "id": 148271,
+            "name": "Specials",
+            "overview": "Extras: Special short episodes released on Abema TV.",
+            "poster_path": "/rIc1jLnY7FhbYtVAtnE6U1sHrJU.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-04-05",
+            "episode_count": 12,
+            "id": 136011,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/h12BcuwtVqglDConIDsOT6215Mi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 63
+}

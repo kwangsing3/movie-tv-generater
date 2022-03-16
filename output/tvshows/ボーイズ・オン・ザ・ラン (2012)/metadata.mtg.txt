@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2012-07-06",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 46210,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-07",
+    "last_episode_to_air": {
+        "air_date": "2012-09-07",
+        "episode_number": 9,
+        "id": 907824,
+        "name": "Last Run",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Boys on the Run",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 9,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ボーイズ・オン・ザ・ラン",
+    "overview": "Toshiyuki Tanishi (Ryuhei Maruyama) is 27-year-old single guy, who has never had a girlfriend in his whole life. He works for small toy company, Saida Company. People view Toshiyuki Tanishi as stupid and the last person who will achieve success. Meanwhile, Toshiyuki has feelings for co-worker Chiharu (Akina Minami), but is unable to approach Chiharu. Instead, Toshiyuki goes to telephone clubs or watch adult videos.\n\nOne day, Toshiyuki gets along with the salesman Aoyama (Takumi Saito), from rival company Manmos. With Aoyama's suggestion, Toshiyuki is finally able to have dinner with Chiharu. After dinner, Toshiyuki and  Chiharu miss the last train and go to a hotel.",
+    "popularity": 0.6,
+    "poster_path": "/bUl6ufgLStxPDiG3cneJkosZl4x.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2012-07-06",
+            "episode_count": 9,
+            "id": 54554,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

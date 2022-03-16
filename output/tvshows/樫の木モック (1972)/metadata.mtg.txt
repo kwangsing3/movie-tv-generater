@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/xSXeA1RyhtjCxxitwkeolauqzCh.jpg",
+    "created_by": [
+        {
+            "id": 70216,
+            "credit_id": "525810db19c29531db45c0f4",
+            "name": "Tatsuo Yoshida",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1972-01-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 11520,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1972-12-26",
+    "last_episode_to_air": {
+        "air_date": "1972-12-26",
+        "episode_number": 52,
+        "id": 454128,
+        "name": "Dream upon a shining star",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2jkgIDtFosfbCVbz6PjW9E96yuF.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pinocchio: The Series",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "樫の木モック",
+    "overview": "Mokku of the Oak Tree, also known as Mokku Woody the Oak Tree, or Saban's Adventures of Pinocchio in the United States, is a 52 episode anime series by Tatsunoko Productions first aired on Fuji Television in 1972. The story is based on the novel The Adventures of Pinocchio by Italian author Carlo Collodi.\n\nUnlike the more cheerful lighter tones of the Disney Version and Nippon Animation's version Piccolino no Bōken, this series has a distinctly sadistic darker theme and portrays the main character, Pinocchio, as suffering from constant physical and psychological abuse and freak accidents.",
+    "popularity": 12.862,
+    "poster_path": "/lMFhoKUmC4hdrSjNpgBwXfsS8fz.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1972-01-04",
+            "episode_count": 52,
+            "id": 21998,
+            "name": "Kashi no ki mokku season 1",
+            "overview": "",
+            "poster_path": "/6y1h6pj9u1bQW4KDhw1AerBpOCx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 6
+}

@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/4Bbdj3fFG1fng7Hlj7t19Mu5LM8.jpg",
+    "created_by": [
+        {
+            "id": 3252095,
+            "credit_id": "615465bee8a3e1002c0d8d0d",
+            "name": "Yuuki Kamatani",
+            "gender": 3,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.nabari.tv/index0.html",
+    "id": 37529,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-09-29",
+    "last_episode_to_air": {
+        "air_date": "2008-09-29",
+        "episode_number": 26,
+        "id": 847851,
+        "name": "Spinning Hearts",
+        "overview": "Feeling responsible for everything that has happened, Yoite no longer desires to be erased and has chosen to die alone. Miharu however claims that everything is his fault and explains that he wanted to help Yoite disappear if that is what Yoite really wanted. After hearing how everyone sees him as an invaluable friend though, Yoite decides to live out his remaining days, so that he does not waste the sentiments that everyone has shown him. Everyone continues on, content with their lives. Yoite simply feels grateful that he met Miharu. Back at Tobari and Hanabusa’s house later on, Miharu and Yoite are waiting for everyone to come by to visit. Miharu then steps away for a bit to get some drinks and comes back to find Yoite’s body dissolving into the air. Miharu vows to never forget him.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yviwCliNYGIIwbOgbKvLR7OYG4M.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nabari no Ou",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "隠の王",
+    "overview": "In the shadows of this world, ninjas fight for control of an ancient technique which holds untold strength. This coveted power dwells within apathetic Miharu, a fact the guy really couldn't care less about - until the rival clans bring their battle to him. Now, he must choose a side if he hopes to survive - but when conflict is waged in secret, friend and foe prove difficult to tell apart.",
+    "popularity": 8.278,
+    "poster_path": "/sVfb84opLuGQrAuS2EqE8QJ7zcB.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-04-06",
+            "episode_count": 26,
+            "id": 48870,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kfFhcamahdbfUcxiorUrtJMeolZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Friend and foe prove difficult to tell apart.",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 5
+}

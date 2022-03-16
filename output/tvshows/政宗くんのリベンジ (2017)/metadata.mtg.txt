@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/o1e3RZhbQO6IemZUlNb4ywRBsRu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.masamune-tv.com/",
+    "id": 69295,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-23",
+    "last_episode_to_air": {
+        "air_date": "2017-03-23",
+        "episode_number": 12,
+        "id": 1266480,
+        "name": "Don't Let Go of the Mic, Even if You Die",
+        "overview": "Despite all the trouble, the cultural festival is now over. They all end up having an after party at karaoke and battle it out there. What will become of Masamune’s revenge?!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tA1pz20AmeksECutNxwSgPxZNDz.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Masamune-kun's Revenge",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS Fuji",
+            "id": 1136,
+            "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "政宗くんのリベンジ",
+    "overview": "As a child, Masamune Makabe once suffered greatly at the hands of a wealthy and beautiful girl named Aki Adagaki, who nicknamed him \"Piggy\" due to his chubby appearance. Seeking revenge against his tormentor, Masamune works hard to improve himself and returns as an incredibly handsome, albeit narcissistic, high school student. When he encounters Aki once again, he is prepared to exact vengeance.\n\nWith the aid of the rich girl's maid, Yoshino Koiwai, Masamune slowly begins to build his relationship with Aki, intending to break her heart when the time is right. However, as his friendship with Aki begins to grow, Masamune starts to question the objectives of his devious plans, and if bringing them to fruition is what his heart truly desires.",
+    "popularity": 45.919,
+    "poster_path": "/50jjmuwSwMxlXAP1jQ48kr1xrcN.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-27",
+            "episode_count": 1,
+            "id": 107073,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/e1YaIdvaFRtDCPUuwTrT84bImvn.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-01-05",
+            "episode_count": 12,
+            "id": 83200,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zoDs5IFGKYy7ijHxEMimUWgisaT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 181
+}

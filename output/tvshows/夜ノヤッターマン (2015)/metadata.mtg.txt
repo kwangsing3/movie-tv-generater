@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/sH6xE5pBCo0tzrS4YdL9TK9cgRF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2015-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.yatterman.jp",
+    "id": 61919,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-29",
+    "last_episode_to_air": {
+        "air_date": "2015-03-29",
+        "episode_number": 12,
+        "id": 1054166,
+        "name": "The Dawn",
+        "overview": "After being attacked and falling into a lake, Doronjo and the gang manage to survive. Doronjo comes to realize that in order to change the world, people need to be told the truth about Yatterman; however, no one believes what Doronbow has to say.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kfCOamQyDjrctF0zop1RsIcwCyy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yatterman Night",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "夜ノヤッターマン",
+    "overview": "A girl is looking at a remote island on the ocean named The Yatter Kingdom, a country that is said to be ruled by the hero Yatterman. The girl wants to ask the Yattermans for some help to cure her sick mother and decides to venture to the kingdom. She gets kicked out from the kingdom though and her mother dies without receiving any help.\n\nUnder Dokurobei, the boss of the Dorombo thieves that existed, lies a beauty named Doronjo. The two men, Boyacky and Tonzura, worked under Doronjo but got kicked out from the Yatter Kingdom along with the Doronbo thieves as they lost a fight against the Yatterman. This is the new generation of Dorombo—Doronjo, Boyacky, Tonzura, and new Yatterman—a story of the birth of Gan-chan and Ai-chan.",
+    "popularity": 5.508,
+    "poster_path": "/1WlcVJeidNe2d3EL6fQHetM3BQK.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2015-01-11",
+            "episode_count": 12,
+            "id": 64665,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8RG0uTAbrHQZae8BnXiTSA0xDFo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1
+}

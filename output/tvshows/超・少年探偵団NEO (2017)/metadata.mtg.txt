@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/kEjnUR4N8pugOKi4bm4yQH7QePu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-01-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://shonentanteidan-neo.com/",
+    "id": 69281,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-20",
+    "last_episode_to_air": {
+        "air_date": "2017-03-20",
+        "episode_number": 12,
+        "id": 3141443,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Chō Shōnen Tantei-dan Neo",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "超・少年探偵団NEO",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/wPWWXwpZp9zXnmPHn3E6TU9h28x.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2017-01-02",
+            "episode_count": 12,
+            "id": 83184,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

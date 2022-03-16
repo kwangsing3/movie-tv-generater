@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/mkhuw3wW3NtaWZPlKt3nD0hRWaD.jpg",
+    "created_by": [
+        {
+            "id": 2169453,
+            "credit_id": "5be120a60e0a263d75004767",
+            "name": "Kaori monchi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2009-11-27",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 83770,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-04-30",
+    "last_episode_to_air": {
+        "air_date": "2010-04-30",
+        "episode_number": 2,
+        "id": 1613297,
+        "name": "生徒会長に忠告2話",
+        "overview": "Continue of ova 1",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hey, Class President!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "生徒会長に忠告",
+    "overview": "High-strung Chiga finds himself questioning the results when his judo team partner, Kokusai, is elected class president of their all-boys school. A president, of course, needs a running mate - and just like that, Kokusai appoints Chiga to be his vice-president! How did a slowpoke like Kokusai win an election, anyway?! It quickly becomes clear that Chiga's major vice-presidential duty will be to keep Kokusai out of harm's way, but is he up to the task?",
+    "popularity": 4.504,
+    "poster_path": "/8cs4UJ5AKA7JV8wWXzdiHmjhuTu.jpg",
+    "production_companies": [
+        {
+            "id": 92065,
+            "logo_path": null,
+            "name": "PrimeTime",
+            "origin_country": "JP"
+        },
+        {
+            "id": 90221,
+            "logo_path": null,
+            "name": "On-LEAD",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-11-27",
+            "episode_count": 2,
+            "id": 112104,
+            "name": "OVAS",
+            "overview": "",
+            "poster_path": "/8cs4UJ5AKA7JV8wWXzdiHmjhuTu.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.6,
+    "vote_count": 5
+}

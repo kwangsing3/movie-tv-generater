@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/7KEpk8FG2FkDruOs1VHeGKxN1ub.jpg",
+    "created_by": [
+        {
+            "id": 1579837,
+            "credit_id": "6079bc39c2823a0076a4c63d",
+            "name": "Ikeda Mamiko",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2007-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.marv.jp/special/umisho/",
+    "id": 79041,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-09-26",
+    "last_episode_to_air": {
+        "air_date": "2007-09-26",
+        "episode_number": 13,
+        "id": 1477155,
+        "name": "Mermaid",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nlcYlCcZGxwm9Xo92VDH2qDigAe.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kenkou Zenrakei Suieibu Umishou",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ケンコー全裸系水泳部 ウミショー",
+    "overview": "Kaname Okiura, a student of Umineko Shougyou High (\"Umishou\" for short), joined the school’s swimming club in order to learn how to swim, but the club is filled with weirdos. Then, a sunny, happy-go-lucky girl named Amuro Ninagawa who transferred from Okinawa joined the club. Her extraordinary underwater speed and unorthodox swimming style surprised every club member, especially Okiura, because she reminds him of a mermaid he saw only once in his early childhood.",
+    "popularity": 6.67,
+    "poster_path": "/zBL0xUS6nr8BHTz9AnQgDbQrTmT.jpg",
+    "production_companies": [
+        {
+            "id": 58268,
+            "logo_path": null,
+            "name": "Artland",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-07-04",
+            "episode_count": 13,
+            "id": 102908,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xgEG4hlbzvXmBZtNP8Jr0Dmn7Gb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 7
+}

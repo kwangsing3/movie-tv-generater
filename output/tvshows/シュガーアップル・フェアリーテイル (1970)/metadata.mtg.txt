@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/AcqBIemh62uH9Hq3NYT5FOz6aPx.jpg",
+    "created_by": [
+        {
+            "id": 3266533,
+            "credit_id": "6163ad7b53866e0093bd3cad",
+            "name": "Mikawa Miri",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 135335,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Sugar Apple Fairy Tale",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シュガーアップル・フェアリーテイル",
+    "overview": "After her mother passes away, Ann decides to become a Silver Sugar Master like her mother—a highly regarded occupation in the country of Highland, where very few masters of the craft exist. Ann leaves for the town of Lewiston, where the royal family holds a sugar sculpture festival. To become a Silver Sugar Master, she has to win the top spot and receive a royal medal.\n\nIn this world, humans treat fairies as slaves and take one of their wings to control them. Ann reluctantly buys a fairy named Shall to be a bodyguard on her way to Lewiston. Ann is torn between setting Shall free, but needing a bodyguard on the dangerous roads to the festival.",
+    "popularity": 0.6,
+    "poster_path": "/ckktKn9nddTQj13qtzMlYleb5ys.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 213804,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

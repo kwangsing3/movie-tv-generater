@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/sDsqY4NbzreMACikux3m7jP3YN8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-07-10",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://jashinchan.com/",
+    "id": 80713,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-04-13",
+    "last_episode_to_air": {
+        "air_date": "2020-04-13",
+        "episode_number": 12,
+        "id": 2797643,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Drop Kick on My Devil!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS Fuji",
+            "id": 1136,
+            "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "邪神ちゃんドロップキック",
+    "overview": "Jashin-chan, a devil from Hell was abruptly summoned to the human world by Yurine Hanazono, a stoic college student who lives in a run-down apartment in Jinbocho. They're forced to become roommates since Yurine doesn't know how to send Jashin-chan back. But according to Jashin-chan, she could return by killing Yurine, so she takes action...?! A viperous roomie comedy that keeps you on your toes!",
+    "popularity": 16.314,
+    "poster_path": "/a3cpB2Nd8XEsuZdY2cwUXx77H7p.jpg",
+    "production_companies": [
+        {
+            "id": 35911,
+            "logo_path": null,
+            "name": "Nomad",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-09-25",
+            "episode_count": 3,
+            "id": 110328,
+            "name": "Specials",
+            "overview": "\"It\" was believed to be traveling in space, but, \"I'm back, guys!\" Due to popular demand, we decided to bring Jashin-chan back for an extra episode! What will she face when she returns to Earth? Yurine, Medusa, Pekola, Minos, Yusa, Koji and Peru-chan are all in for the \"swimsuit edition\"! Then appears Kraken for what seemed like the last battle of the season, but the real battle continues...",
+            "poster_path": "/o5z8cPo84YEYmdUyjxdm1CHhXWs.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-07-10",
+            "episode_count": 12,
+            "id": 106106,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/n9l6Pn1vxMDmQWF6KqM6GhOBdpH.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2020-04-06",
+            "episode_count": 12,
+            "id": 145889,
+            "name": "Dropkick on My Devil!! Dash",
+            "overview": "",
+            "poster_path": "/cYX1UxDhFdHx7smJ8FU3BZjBbgz.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 15
+}

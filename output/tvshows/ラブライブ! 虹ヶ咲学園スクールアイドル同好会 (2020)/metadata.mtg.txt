@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/7YLyMkrwsPBJEwLdtqYS5poFjIh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.lovelive-anime.jp/nijigasaki/",
+    "id": 103511,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-26",
+    "last_episode_to_air": {
+        "air_date": "2020-12-26",
+        "episode_number": 13,
+        "id": 2452661,
+        "name": "School Idol Festival (The Place Where Everyone's Dreams Come True)",
+        "overview": "The day of the School Idol Festival is finally here. Will everything go according to plan?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9njGsIhtBwcxkUvIAhqgsHyAhOk.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love Live! Nijigasaki High School Idol Club",
+    "next_episode_to_air": {
+        "air_date": "2022-04-02",
+        "episode_number": 1,
+        "id": 2943129,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラブライブ! 虹ヶ咲学園スクールアイドル同好会",
+    "overview": "Nijigasaki High School is located in Odaiba, Tokyo. The school is popular due to its free school style and diverse majors. The story centers on the members of school idol club in Nijigasaki, and their attempt to prevent the club from being abolished.",
+    "popularity": 21.825,
+    "poster_path": "/yYjRqt1xwt61omb3XwMcxsYh1lA.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-03",
+            "episode_count": 13,
+            "id": 151004,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yYjRqt1xwt61omb3XwMcxsYh1lA.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2022-04-02",
+            "episode_count": 1,
+            "id": 194402,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/p4rtxm5eLAtAEn57mcZkC6F5b2.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 6
+}

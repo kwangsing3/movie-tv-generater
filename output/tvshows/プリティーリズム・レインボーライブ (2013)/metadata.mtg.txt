@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2013-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/prettyrhythm2013/index2.html",
+    "id": 92861,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-29",
+    "last_episode_to_air": {
+        "air_date": "2014-03-29",
+        "episode_number": 51,
+        "id": 2794701,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pretty Rhythm: Rainbow Live",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS TV Tokyo",
+            "id": 3471,
+            "logo_path": "/lUEv1JU8b5UcZJ1XoJkAq8o6UVd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プリティーリズム・レインボーライブ",
+    "overview": "Naru Ayase is an 8th grader who can see the colors of music when she listens to it. For Naru, who is extremely good at decorating, becoming the owner of a shop like Dear Crown was her dream. One day, she finds out that the manager of a newly-opened shop is recruiting middle school girls who can do Prism Dance, and immediately applies. Naru begins to Prism Dance at the audition, and an aura she's never experienced spreads out in front of her. At that moment, a mysterious girl named Rinne asks her if she can see rainbow music.",
+    "popularity": 5.307,
+    "poster_path": "/dlBS85Gwmr1DvgdtPBsGCd1Hb8Y.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4571,
+            "logo_path": "/2gKq3u4hrI0xw5plncuaPapmQaV.png",
+            "name": "Dongwoo A&E",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-04-06",
+            "episode_count": 51,
+            "id": 130942,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

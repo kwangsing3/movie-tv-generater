@@ -15,7 +15,7 @@ wrapTMDB.SetHeader({
 async function main() {
     //TV Shows
     try {
-        await (0, gettvshowbykeywords_1.default)(['198385'], './output/tvshows/'); //anime: 210024
+        await (0, gettvshowbykeywords_1.default)(['210024'], './output/tvshows/'); //anime: 210024
     }
     catch (error) {
         if (isAction) {
@@ -27,7 +27,7 @@ async function main() {
     }
     //Movies
     try {
-        await (0, getmoviebykeywords_1.default)(['198385'], './output/movie/');
+        await (0, getmoviebykeywords_1.default)(['210024'], './output/movie/');
     }
     catch (error) {
         if (isAction) {

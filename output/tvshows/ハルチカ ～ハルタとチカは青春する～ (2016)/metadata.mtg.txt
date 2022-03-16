@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/AhnBONxIgq1jkOH8Afcg8cBPk3I.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://haruchika-anime.jp/",
+    "id": 65177,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-03-24",
+    "last_episode_to_air": {
+        "air_date": "2016-03-24",
+        "episode_number": 12,
+        "id": 1198888,
+        "name": "Sympathy Triangle",
+        "overview": "Mr. Kusakabe got an offer to conduct for the Hamamatsu Orchestra. Will he leave the Shimizu South High School Brass Band Club? Why did he skip on the performance as a conductor years before? Haruta and Chika follow him to find out.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/wyqenJ7T4wayqG52xk1QpZyilDi.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Haruchika – Haruta & Chika",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハルチカ ～ハルタとチカは青春する～",
+    "overview": "Haruta and Chika are members of their high school wind instrument club that is on the verge of being shut down. The two are childhood friends, and they spend their days practicing hard while also trying to recruit new members. When a certain incident happens within their school, they work together to solve it.",
+    "popularity": 12.706,
+    "poster_path": "/aJckfwRocVA01JCFneUDvU9YPzI.jpg",
+    "production_companies": [
+        {
+            "id": 20867,
+            "logo_path": "/op3ROO9jB4KwLUZ16VAvuGasRRv.png",
+            "name": "P.A.Works",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-01-07",
+            "episode_count": 12,
+            "id": 73624,
+            "name": "Season 1",
+            "overview": "Things look bleak for the school’s Wind Instrument Club until childhood friends Haruta and Chika step in to save the day. When they aren’t practicing to perfect their own playing, they’re working hard to save the club by recruiting new members. After a series of mysteries shock the school, they’ll have to add junior detectives to their already impressive resumes.",
+            "poster_path": "/fGa5MJQSaMDTygTY6HRq94EjJN3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 7
+}

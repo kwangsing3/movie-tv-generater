@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/uxjVi7vbw8RjgEAGfw1Ti7fPsEx.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2019-05-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://mirutights.jp/",
+    "id": 86823,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-07-27",
+    "last_episode_to_air": {
+        "air_date": "2019-07-27",
+        "episode_number": 12,
+        "id": 1864346,
+        "name": "Travel Tights",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tRQ9mcskw5lPkj7S0CeyAF3bcBb.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Miru Tights",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "みるタイツ",
+    "overview": "A web short anime series based on popular illustrator Yomu's girls in tights illustrations.",
+    "popularity": 60.72,
+    "poster_path": "/9qUEWpMird1gUHneWuTI7HupP05.jpg",
+    "production_companies": [
+        {
+            "id": 114834,
+            "logo_path": null,
+            "name": "TRUSS",
+            "origin_country": ""
+        },
+        {
+            "id": 114835,
+            "logo_path": null,
+            "name": "Yokohama Animation Lab",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-08-23",
+            "episode_count": 1,
+            "id": 151445,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/uhIhedLe0mYhMN6vxA5gAA4oQaC.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-05-11",
+            "episode_count": 12,
+            "id": 118858,
+            "name": "Season 1",
+            "overview": "The girls live their irreplaceable school life as the seasons change.",
+            "poster_path": "/cseadvEnRVVTYrfaTAj0Cln5ZnP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 13
+}

@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/cNEnD2Z8xaS1qchdVbhKQdLcdOw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        6
+    ],
+    "first_air_date": "2004-01-13",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 34716,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-03-02",
+    "last_episode_to_air": {
+        "air_date": "2004-03-02",
+        "episode_number": 16,
+        "id": 1306378,
+        "name": "Virgins in Shining White",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Cosmopolitan Prayers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "超変身コス∞プレイヤー",
+    "overview": "Koto unknowingly seals away the Sun Goddess Amaterasu, and now she is in a different world and can't return. Meeting priestesses who combat the evil in this strange place she learns that Black Towers throughout the land keep Amatersu sealed away and are guarded by evil monsters. Koto must now find a way to help defeat these monsters and return the world to the way it was.",
+    "popularity": 6.874,
+    "poster_path": "/olRw5ZUD2kuYbLgboOfSTfExGxV.jpg",
+    "production_companies": [
+        {
+            "id": 13067,
+            "logo_path": null,
+            "name": "Studio Live",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-03-17",
+            "episode_count": 6,
+            "id": 112527,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-01-13",
+            "episode_count": 16,
+            "id": 45467,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1zxXxCgsfyPaoF7htrhEOgGSBbV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

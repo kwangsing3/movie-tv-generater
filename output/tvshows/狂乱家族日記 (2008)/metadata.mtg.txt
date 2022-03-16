@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/z7pZi83io2834TqPg8xfonNTGM7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-04-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34683,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-10-04",
+    "last_episode_to_air": {
+        "air_date": "2008-10-04",
+        "episode_number": 26,
+        "id": 790047,
+        "name": "Again, The Legend Of Enka",
+        "overview": "The family debates who Enka was referring to in her prophecy, and ends up closer then ever. Realizing they are a real family by birth or not.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Diary of a Crazed Family",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TVQ",
+            "id": 822,
+            "logo_path": "/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "狂乱家族日記",
+    "overview": "Kyōran Kazoku Nikki is a light novel series by Akira, with illustrations by x6suke. A 26-episode anime adaptation was broadcast in 2008.",
+    "popularity": 9.926,
+    "poster_path": "/c4oKfWaBIkAbpPZzaRVlfNw4Wv.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2008-04-12",
+            "episode_count": 26,
+            "id": 45426,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/c4oKfWaBIkAbpPZzaRVlfNw4Wv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

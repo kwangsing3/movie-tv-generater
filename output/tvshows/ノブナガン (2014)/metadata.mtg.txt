@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/8z98Ox7HVIh7eMXCDt3e0RuZts6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 65615,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-30",
+    "last_episode_to_air": {
+        "air_date": "2014-03-30",
+        "episode_number": 13,
+        "id": 1166051,
+        "name": "Nobunagun",
+        "overview": "Who is Jack the Ripper? Sio gets let in on the secret as Operation Stone Forest comes to an end. And then?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6hd4amGUT36JYhDSkGuhLJ7Hwhr.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nobunagun",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chukyo TV",
+            "id": 2727,
+            "logo_path": "/KaIK93kJFD8WKH451owMdmNOSz.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Yomiuri Telecasting Corporation",
+            "id": 3746,
+            "logo_path": "/wWiz0zwFX6WOXQSwsPyTCKITNQK.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ノブナガン",
+    "overview": "Shio Ogura is a Japanese high school student, who is visiting Taiwan on a school trip when she is suddenly attacked by monsters. Agents known as \"E-Gene Holders\" from the government agency DOGOO also arrive, who wield weapons infused with the spirits of historical figures. Shio is revealed to also be an E-Gene Holder when the soul of Oda Nobunaga awakens after she tries to rescue a friend.",
+    "popularity": 5.299,
+    "poster_path": "/1K59IokVPggX57dQd6guQXHv8kv.jpg",
+    "production_companies": [
+        {
+            "id": 43693,
+            "logo_path": null,
+            "name": "Bridge",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-01-05",
+            "episode_count": 13,
+            "id": 74619,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3fKsNbjnvcwhFx3uC2kMBPdY2yn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 3
+}

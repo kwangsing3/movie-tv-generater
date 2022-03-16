@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/w0WkvliRFFmTqFRTQYKQYOY9vcK.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-07-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.ponycanyon.co.jp/greengreen/",
+    "id": 21897,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-09-29",
+    "last_episode_to_air": {
+        "air_date": "2003-09-29",
+        "episode_number": 12,
+        "id": 602487,
+        "name": "Farewell Kanenone Gakuen Academy",
+        "overview": "Confused by the memories of his past life and wary of going against fate, Yuusuke decides it is better for him and Midori to remain separated. Upset by Yuusuke's choice, Midori runs off. Yuusuke goes after her, but seriously injures himself when he saves her from a fall over a cliff. Although the pair are found by the Baka Trio and brought back to Kanenone, bad weather prevents Yuusuke from being transferred to a place with better medical facilities.\n\nWith Yuusuke's life in the balance, Midori uses her remaining life-force to restore him to health, although she does so at the price of her having to return to her own era. Despite this, she declares her wish to be together again with Yuusuke has come true, as she, through her life-force, will become one with Yuusuke. She and Yuusuke share a final kiss before Reika takes her back to the 31st century.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Green Green",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "グリーングリーン",
+    "overview": "At the isolated all-male boarding school of Kanenone Gakuen there are no females for miles but the school board has begun talks to merge with an all-girl boarding school, in hopes of becoming a co-ed boarding school.",
+    "popularity": 6.477,
+    "poster_path": "/kooX3WmmitM1EtrBMj7uz9dUr1Y.jpg",
+    "production_companies": [
+        {
+            "id": 102164,
+            "logo_path": null,
+            "name": "Studio Matrix",
+            "origin_country": ""
+        },
+        {
+            "id": 102165,
+            "logo_path": null,
+            "name": "Kanenone Rijikai",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-12-20",
+            "episode_count": 11,
+            "id": 31688,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-07-14",
+            "episode_count": 12,
+            "id": 31687,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.3,
+    "vote_count": 3
+}

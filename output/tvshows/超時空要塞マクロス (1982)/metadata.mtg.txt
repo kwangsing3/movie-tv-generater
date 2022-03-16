@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/yiZRga7KXQvjPLuExLNlfJvkrel.jpg",
+    "created_by": [
+        {
+            "id": 76408,
+            "credit_id": "52586b2c760ee346611b6d70",
+            "name": "Shoji Kawamori",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "",
+    "id": 21734,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-06-26",
+    "last_episode_to_air": {
+        "air_date": "1983-06-26",
+        "episode_number": 36,
+        "id": 599724,
+        "name": "Farewell to Tenderness",
+        "overview": "Global informs Misa that the SDF-2, the successor to the Macross, is nearly ready to begin colonizing the galaxy - with her as the captain of the mission. Now that the reaction engine is built into his craft, Quazmin, Laplamiz, and their henchmen attack Macross City with missiles and waves of mecha. Hikaru, Misa and Minmay's love triangle reaches its climax, as Hikaru must decide whether he will go with the pop idol who brushed him aside and now desperately needs him, or the military commander who loves him deeply, but may leave him forever by the line of duty.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/a19CwEnQLLCApNyUqT5H8Hv9Gfk.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Macross",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 36,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "超時空要塞マクロス",
+    "overview": "After a mysterious spaceship crashes on Earth a fleet of spaceships belonging to a race of aliens known as the Zentradi descend upon Earth sparking an intergalactic war.",
+    "popularity": 19.292,
+    "poster_path": "/16tZIQgVJ4EcyrIvOfMWqE0tSOu.jpg",
+    "production_companies": [
+        {
+            "id": 104652,
+            "logo_path": "/uh7DFdoi7r7mg2JwfZewtNv96rc.png",
+            "name": "Fizz Sound Creation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1984-07-21",
+            "episode_count": 4,
+            "id": 31517,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/y9ksdNC6pE8B6iVzAgZzeIONNf1.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1982-10-03",
+            "episode_count": 36,
+            "id": 31518,
+            "name": "Season 1",
+            "overview": "An alien ship crash lands on Earth and its secrets lead to a desperate war against an alien foe sent to retrieve the ship.",
+            "poster_path": "/cBKCZausRfJ1NvrRWkyWA09AFUS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 21
+}

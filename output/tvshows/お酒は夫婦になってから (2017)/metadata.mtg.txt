@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/xoiSMpmmxFzX4GjC1wCS8mqrqoq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2017-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.osakefufu-anime.jp/",
+    "id": 74182,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-27",
+    "last_episode_to_air": {
+        "air_date": "2017-12-27",
+        "episode_number": 13,
+        "id": 1411373,
+        "name": "Frozen Mango Cocktail",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lI54PEjQgYqUONDP3mLUS8VgTI0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love is Like a Cocktail",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "お酒は夫婦になってから",
+    "overview": "Chisato Mizusawa is a reserved but excellent and pretty assistant manager in her company. She has a secret that only her husband Sora knows, which is that she likes drinking alcohol, and she can become very cute when she is drunk! Even tonight, she gets relaxed (with the phrase \"Shifuku~\") and drunk with the cocktail Sora makes♥. It's a \"Yoidere (Drunken Dere)\" cocktail comedy of Japan's closest husband and wife.",
+    "popularity": 17.204,
+    "poster_path": "/aKou5JGxvVY5fdHbVNbhjyhUG97.jpg",
+    "production_companies": [
+        {
+            "id": 89293,
+            "logo_path": "/66LF3OiMvsoHzgus6tZ49HntGiK.png",
+            "name": "Creators in Pack",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-06",
+            "episode_count": 3,
+            "id": 167669,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-10-03",
+            "episode_count": 13,
+            "id": 93351,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/w4RO0arF0MC1t5BHvSOshI24mU7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 12
+}

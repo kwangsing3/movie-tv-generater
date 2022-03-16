@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/nsPzAyJSXG0npYBIshmEv6MRuFo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2010-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.hyakka-ryoran.tv/",
+    "id": 46440,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-06-21",
+    "last_episode_to_air": {
+        "air_date": "2013-06-21",
+        "episode_number": 12,
+        "id": 909846,
+        "name": "Samurai Bride Is Born",
+        "overview": "Sen blindly pursues the cursed spirit as it arrives at the Academy with Hanzo sacrificing herself to protect Sen. Distraught, Sen is also killed as she remorses over Hanzo's body. Both are absorbed by the spirit as Yukimura, Matabei, Sasuke and Kanetsugu continue to fight. They are also killed and absorbed one by one as Muneakira, Jubei, and Keiji arrive to witness their absorbtion. Muneakira attacks the spirit only to be saved by Keiji as he is hit. Enraged Jubei enters into the spirit meeting with Inko who tells her she wishes to die by Jubei's hand and that it is possible as Muneakira is still alive. Within the Academy, Yoshihiko is informed that the spirit will arrive seven minutes before the Chingo Stone's barrier is complete. Keiji pours her ki into Muneakira telling Jubei that while everyone else believes that the Samurai Bride is monstrously powerful, she believes that a Samurai Bride isn't.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/6h6h7hjGf6CyGjBJH54kF5MXDVo.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Samurai Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "百花繚乱",
+    "overview": "The story takes place in Japan in the early 21st century, in an alternate reality where the Tokugawa Shogunate has remained in power. In this reality, student councils are tasked with oppressing schools. Yagyuu Muneakira is a high school student who rebels against his student council with the help of girls who've had the names of famous samurai heroes passed on to them. ",
+    "popularity": 28.425,
+    "poster_path": "/HTVddlolhBpsE2JDPRpUrfv74G.jpg",
+    "production_companies": [
+        {
+            "id": 12083,
+            "logo_path": "/jlk2Htq5C5ToDiIoM353xwpWwO6.png",
+            "name": "ARMS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-11-25",
+            "episode_count": 23,
+            "id": 54678,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/oVxGVvyM3kWKMg5MoRSEuUk3hz0.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-10-04",
+            "episode_count": 12,
+            "id": 54677,
+            "name": "Hyakka Ryouran: Samurai Girls",
+            "overview": "The story takes place in Japan in the early 21st century, in an alternate reality where the Tokugawa Shogunate has remained in power. In this reality, student councils are tasked with oppressing schools. Yagyuu Muneakira is a high school student who rebels against his student council with the help of girls who've had the names of famous samurai heroes passed on to them. ",
+            "poster_path": "/HTVddlolhBpsE2JDPRpUrfv74G.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2013-04-05",
+            "episode_count": 12,
+            "id": 54679,
+            "name": "Hyakka Ryouran: Samurai Bride",
+            "overview": "",
+            "poster_path": "/9DMOeSGmd4v5i4SBim3fJTgkwhH.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 12
+}

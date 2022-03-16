@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/vLJEAxGqvVAJlRsIfeo6kfOrNmC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://maousama.jp/",
+    "id": 45997,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-06-27",
+    "last_episode_to_air": {
+        "air_date": "2013-06-27",
+        "episode_number": 13,
+        "id": 1019236,
+        "name": "The Devil and the Hero Do Some Honest Hard Work",
+        "overview": "Ashiya has something he needs to talk to his master about in private. Meanwhile, Emi also has a strange dream where Satan conquers Sasakuza.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/feY0MMI5VzniNH7TYVVbqR6cFtr.jpg",
+        "vote_average": 8.3,
+        "vote_count": 3
+    },
+    "name": "The Devil Is a Part-Timer!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はたらく魔王さま！",
+    "overview": "Foiled by a hero when he’s inches away from conquering the world, the devil finds himself in modern-day Tokyo. With no real-world skills to speak of, the devil is forced to make ends meet flipping burgers at a fast food joint! To stall any further plans of world domination, the hero tracks the devil’s trail and takes on the lowly tasks of a telemarketer.",
+    "popularity": 44.694,
+    "poster_path": "/55jYHFT8iJuASF8Mzg0V8Dh3N3M.jpg",
+    "production_companies": [
+        {
+            "id": 12569,
+            "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+            "name": "White Fox",
+            "origin_country": "JP"
+        },
+        {
+            "id": 77832,
+            "logo_path": "/4qKMYPaifBLGWQq7mQYQBw40W1.png",
+            "name": "Studio 3Hz",
+            "origin_country": "JP"
+        },
+        {
+            "id": 99359,
+            "logo_path": "/qaUZJIED95Hz91EezYVkdzF931b.png",
+            "name": "infinite",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86741,
+            "logo_path": null,
+            "name": "Magic Capsule",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-04-04",
+            "episode_count": 13,
+            "id": 63495,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8SOKHI2l7hECjzPcgRIzjLVZjGP.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 184638,
+            "name": "The Devil Is a Part-Timer!!",
+            "overview": "",
+            "poster_path": "/uDtAfKb0uwJH9dmaHq8qjRcE0K3.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 153
+}

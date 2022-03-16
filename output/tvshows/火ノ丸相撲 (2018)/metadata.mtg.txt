@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/A01pEFOOFjtbAhWZcPy9peRhhzK.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://hinomaru-zumou.com/",
+    "id": 82859,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-29",
+    "last_episode_to_air": {
+        "air_date": "2019-03-29",
+        "episode_number": 24,
+        "id": 1742172,
+        "name": "The Dream Continues",
+        "overview": "Kuze and Hinomaru are evenly matched in battle. Kuze practiced sumo in isolation from a young age, while Hinomaru’s physique was a handicap he had to overcome. Through the battle, they acknowledge each other’s strength, and give all of themselves to achieve victory.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/taFVYeaeZQyEXXROOh2HRvURN0d.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hinomaru Sumo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "火ノ丸相撲",
+    "overview": "A “small” new student, Ushio Hinomaru, appears before the weak little sumo club of Oodachi High School! The words “big” and “heavy” are the rules to this sport, which does not fit this newbie any inch, but this guy goes and does what...!? Ushio and the small sumo club climbs its way to the top! The goal is Hinoshita Kaisan, a title for the highest rank in professional sumo, equivalent of Yokozuna.",
+    "popularity": 13.624,
+    "poster_path": "/isIjEf54wvdAHNvFINN1osQ2w7Q.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-05",
+            "episode_count": 24,
+            "id": 110353,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/j4TV58W6AQwoSHMfONCnd4vurAb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 11
+}

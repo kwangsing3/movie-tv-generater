@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/2UohhhySbyW8ykTLLaNzSpWir6L.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://anime.idolypride.jp",
+    "id": 100935,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-28",
+    "last_episode_to_air": {
+        "air_date": "2021-03-28",
+        "episode_number": 12,
+        "id": 2614497,
+        "name": "The Story That Begins With Goodbye",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kCvijAXed7naRg4df5zWh2bI5q3.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Idoly Pride",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Idoly Pride",
+    "overview": "After a successful audition, high school student Kotono Nagase and her best friend move into a dorm with eight other aspiring idols. They quickly realize it takes more than cute choreography and cute outfits to reach the top—it will take blood, sweat, and tears to advance in the idol-ranking VENUS program, where the top spot is held by superstar Mana Nagase... who happens to be Kotono’s older sister.",
+    "popularity": 18.811,
+    "poster_path": "/kL7qWjUimxUiZkdmzKjcXepVd4r.jpg",
+    "production_companies": [
+        {
+            "id": 42811,
+            "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
+            "name": "Lerche",
+            "origin_country": "JP"
+        },
+        {
+            "id": 131073,
+            "logo_path": "/KppT27hWXLOkBbu1rVBteVa4zn.png",
+            "name": "CAAnimation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-10",
+            "episode_count": 12,
+            "id": 145989,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/k1SCvSqPXB5PbmykSAikKXpU5SQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4,
+    "vote_count": 5
+}

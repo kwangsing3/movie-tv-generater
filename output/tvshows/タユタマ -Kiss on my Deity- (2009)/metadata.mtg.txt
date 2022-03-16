@@ -1,0 +1,152 @@
+{
+    "adult": false,
+    "backdrop_path": "/1tlbZGoRfdy3O4T4gBmBYvFedyF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34721,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-06-21",
+    "last_episode_to_air": {
+        "air_date": "2009-06-21",
+        "episode_number": 12,
+        "id": 790861,
+        "name": "Yuuri",
+        "overview": "After Yuri and Mashiro defeat Oryu in battle, Mashiro collapses, having used nearly all of her yokai power. Because of this she will eventually go back to her slumber. Before this could happen, Yuri holds a wedding ceremony for him and Mashiro. Eventually all of their friends and even Oryu himself join the ceremony. After sealing their vows with a kiss, Mashiro returns to her slumber, waiting for the time when she can come again. Everyday life goes on as usual. Yuri narrates that Mashiro never really left and that he does not care how many hundreds or thousands of years it takes until they meet again. Meanwhile, Mashiro continues to watch Yuri as she slumbers. The episode ends with a flooded Ashihara-cho many years from now. A futuristic motorcycle is shown with two people (Yuri who became immortal like in the game) as they get off, hold hands, and run off from the screen.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/pEBpifNx9ccylQvZYQv0wW3L7EP.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tayutama: Kiss on my Deity",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "タユタマ -Kiss on my Deity-",
+    "overview": "At Yachimata, there is a legend of a deity named Tayutayu-sama who  protected the area, but this deity and other so-called \"Tayutai\" have  been lost in time. Mito and his friends discover a relic on the school  grounds with mysterious patterns on it. Then, at the opening ceremony of  the new school year, an equally mysterious girl named Mashiro appears  before Mito. Mashiro is somehow tied to the relic and the legend of  Tayutayu-sama.",
+    "popularity": 9.93,
+    "poster_path": "/t29ff0hR7s2BtzqEuoWhK0m3Tyg.jpg",
+    "production_companies": [
+        {
+            "id": 75930,
+            "logo_path": null,
+            "name": "Marvelous Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-06-25",
+            "episode_count": 8,
+            "id": 45477,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-04-05",
+            "episode_count": 12,
+            "id": 45476,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7lnISDCAV2YBYORZToqo6ZVI7Sg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

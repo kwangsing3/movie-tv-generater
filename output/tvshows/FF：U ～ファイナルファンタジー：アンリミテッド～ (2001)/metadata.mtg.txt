@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/yrVWGIaOjTNFZEpg9sKXaOip9cW.jpg",
+    "created_by": [
+        {
+            "id": 2227163,
+            "credit_id": "5f60180ad8cc4a0039f56aca",
+            "name": "Akitoshi Kawazu",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2001-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.gonzo.co.jp/works/ffu/",
+    "id": 11316,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-03-26",
+    "last_episode_to_air": {
+        "air_date": "2002-03-26",
+        "episode_number": 25,
+        "id": 449556,
+        "name": "Kaze - When The Life Shines",
+        "overview": "The Earl now has everything that he needs to finally revive Omega, and things take a turn for the worst. It appears as though everyone has followed right along with his diabolical plan, it perhaps there is no way to stop him. However, self-sacrifice may be the key to finally ending his scheme for good.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Final Fantasy: Unlimited",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "FF:U ～ファイナルファンタジー：アンリミテッド～",
+    "overview": "Twins Ai and Yu Hayakawa decide to set forth in search of their parents and the mysterious dimension they studied.",
+    "popularity": 6.075,
+    "poster_path": "/dc46WJVwhSEcJ7AWDT0gNw1yq70.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-10-02",
+            "episode_count": 25,
+            "id": 21812,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/b3Gj8U6SHoZRo9EoatPl1cXgTgP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 9
+}

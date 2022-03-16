@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/bChKb5SGjzGYqjxWutAuZF1sRWn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-11-25",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.honeyworks-movie.jp/",
+    "id": 74094,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-30",
+    "last_episode_to_air": {
+        "air_date": "2017-12-30",
+        "episode_number": 6,
+        "id": 1412186,
+        "name": "Graduation, Adventures, Color of the Future",
+        "overview": "Graduation is finally here, and everyone is ready to move on as Miou decides her future career, and Haruki is ready to embark on a new adventure. But before that, will Haruki and Miou’s ten centimeter gap finally close?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/YOTqJWqz2CbxcOTdW15Pp1Qrr3.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Our Love Has Always Been 10 Centimeters Apart.",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "いつだって僕らの恋は10センチだった。",
+    "overview": "Miou Aida and Haruki Serizawa might seem like polar opposites to those around them, but as the two third-years prepare to end their high school experience, they couldn't have been been closer. While Miou is a shy and reserved member of the school art club that prefers to stay out of the limelight, Haruki is the boisterous and confident ace of the movie club, already winning awards for his directing prowess. However, after a previous chance encounter during their school entrance ceremony, they quickly become friends despite their stark differences in personality. But although their closeness might be growing, they've never become anything more than just that, much to the bewilderment of their friends.\n\nAs their time in high school draws to a close, Miou and Haruki, along with their friends in the art and movie clubs, have just one year left to face their hidden feelings and the daunting task of deciding their future careers. The two might always be only an arm's reach away, but as Haruki chases his dream of becoming a professional movie director and Miou struggles with choosing a path for herself, they'll learn just how hard it is to get past those last 10 centimeters.",
+    "popularity": 11.409,
+    "poster_path": "/wa0a8FIiqAgq3zX78fmlYGObuPW.jpg",
+    "production_companies": [
+        {
+            "id": 59988,
+            "logo_path": null,
+            "name": "Lay-duce",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-11-25",
+            "episode_count": 6,
+            "id": 93139,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/v4PJS5PIO7A2d3EDzR6frRepPIo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 214
+}

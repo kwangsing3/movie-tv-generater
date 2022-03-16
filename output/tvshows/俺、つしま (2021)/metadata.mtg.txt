@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/ub8StjsL2W2urks0XqiQAl05Rt0.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2021-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://tsushima-anime.com",
+    "id": 119404,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-17",
+    "last_episode_to_air": {
+        "air_date": "2021-09-17",
+        "episode_number": 12,
+        "id": 3087615,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bUtXT6oybRPEO6HJtKz3LfO6QQx.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "I, Tsushima",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "俺、つしま",
+    "overview": "The story centers on a woman who is getting on in years, but all her cats think she's a man so they call her Ojiichan. One day a brazen cat named Tsushima appears in Ojiichan's yard.",
+    "popularity": 12.008,
+    "poster_path": "/6sncQqNTUOhAFHen70SByBDEJ82.jpg",
+    "production_companies": [
+        {
+            "id": 103564,
+            "logo_path": "/t0dnUMFPjzPStIkEM3Pm1rGLIQ8.png",
+            "name": "Fanworks",
+            "origin_country": "JP"
+        },
+        {
+            "id": 127397,
+            "logo_path": null,
+            "name": "Space Neko Company",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-05",
+            "episode_count": 135,
+            "id": 201715,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9aszRjwUfYwdpXQslg0zzRC5TzF.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-07-02",
+            "episode_count": 12,
+            "id": 182926,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6sncQqNTUOhAFHen70SByBDEJ82.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 5,
+    "vote_count": 1
+}

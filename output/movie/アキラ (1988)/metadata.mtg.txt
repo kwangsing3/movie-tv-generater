@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/jmlM5sa8vrBWHSBubqAithX6Fx5.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 149,
+    "imdb_id": "tt0094625",
+    "original_language": "ja",
+    "original_title": "アキラ",
+    "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+    "popularity": 44.495,
+    "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+    "production_companies": [
+        {
+            "id": 10920,
+            "logo_path": null,
+            "name": "Akira Committee Company Ltd.",
+            "origin_country": ""
+        },
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 10921,
+            "logo_path": "/mILVV3xSs3BOkXy85l1pXakLoKk.png",
+            "name": "Sumitomo Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104680,
+            "logo_path": null,
+            "name": "Studio Fuga",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5805,
+            "logo_path": "/jiTDwr7CelkRTSJt8or6WipN75c.png",
+            "name": "Studio Aoi",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 120107,
+            "logo_path": null,
+            "name": "Bandai Entertainment Inc.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1988-07-16",
+    "revenue": 553171,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Neo-Tokyo is about to E.X.P.L.O.D.E.",
+    "title": "Akira",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 3027
+}

@@ -1,0 +1,151 @@
+{
+    "adult": false,
+    "backdrop_path": "/phwgPLUIcv3sbI1xmkiurThR13Q.jpg",
+    "created_by": [
+        {
+            "id": 16137,
+            "credit_id": "6190a766a6fdaa00274e0ab6",
+            "name": "Kenji Kamiyama",
+            "gender": 2,
+            "profile_path": "/1irWT1aUVYdeoZCtnxNVS9wfrks.jpg"
+        },
+        {
+            "id": 70100,
+            "credit_id": "6190a76ae18e3f006933136f",
+            "name": "Shinji Aramaki",
+            "gender": 2,
+            "profile_path": "/wQRb6WeatX25rUjSSeLK31At4m4.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2021-11-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.adultswim.com/videos/blade-runner-black-lotus",
+    "id": 84553,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-02-06",
+    "last_episode_to_air": {
+        "air_date": "2022-02-06",
+        "episode_number": 13,
+        "id": 3396155,
+        "name": "Time to Die",
+        "overview": "Left with no other option, Elle faces off against the architect of her suffering.",
+        "production_code": "113",
+        "season_number": 1,
+        "still_path": "/1EyF90QYsWqc9RsR6kv0PijWcBa.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Blade Runner: Black Lotus",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Adult Swim",
+            "id": 80,
+            "logo_path": "/2ezVEkNx1tvBLONzDcViyfovWBH.png",
+            "origin_country": "US"
+        },
+        {
+            "name": "Crunchyroll",
+            "id": 1112,
+            "logo_path": "/81QfupgVijSH5v1H3VUbdlPm2r8.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Blade Runner: Black Lotus",
+    "overview": "Los Angeles 2032. A young woman wakes up with no memories, and possessing deadly skills. The only clues to her mystery are a locked data device and a tattoo of a black lotus. Putting together the pieces, she must hunt down the people responsible for her brutal and bloody past to find the truth of her lost identity.",
+    "popularity": 148.995,
+    "poster_path": "/zHQJkDZ4OjqJnp4vtphxOQ7GIh6.jpg",
+    "production_companies": [
+        {
+            "id": 1088,
+            "logo_path": "/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png",
+            "name": "Alcon Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 6760,
+            "logo_path": "/qKLBuZa4Z4fKH8xHvCUsb5EIDx3.png",
+            "name": "Williams Street",
+            "origin_country": "US"
+        },
+        {
+            "id": 98553,
+            "logo_path": "/81QfupgVijSH5v1H3VUbdlPm2r8.png",
+            "name": "Crunchyroll",
+            "origin_country": "US"
+        },
+        {
+            "id": 23333,
+            "logo_path": "/4Ts3PMtlSMsqCLDxRKO59P2kH00.png",
+            "name": "Sola Digital Arts",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-11-07",
+            "episode_count": 1,
+            "id": 218009,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-11-14",
+            "episode_count": 13,
+            "id": 113547,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xeWlfRrDdu0HIukpk5pYLIh30Hq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 105
+}

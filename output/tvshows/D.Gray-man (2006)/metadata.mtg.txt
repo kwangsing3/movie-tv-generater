@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/jigrmayBGy8j83qwmbgwd9tRTlu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-10-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/dgrayman2006/",
+    "id": 34141,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-09-30",
+    "last_episode_to_air": {
+        "air_date": "2008-09-30",
+        "episode_number": 52,
+        "id": 782916,
+        "name": "Resounding Through The Lingering Morning",
+        "overview": "The Level 4 appears to be defeated, but is it? In the aftermath of battle, rescue teams are dispatched to gather the survivors. General Cross is sent to Central Office while everyone else must prepare for the relocation of the Black Order's Headquarters. Meanwhile, Krory regains consciousness, much to the joy of his friends. As the Exorcists ponder the significance of Lenalee's evolved Innocence, the \"Crystal Type\", Allen declares that they must become stronger in order to defeat the Earl. The scene changes to show that the Noahs are attending a ball. The Earl is shown in the shadows with a humanoid shape. The end credits show the exorcists continue their duties; reunited with their innocences and sporting new outfits. The post credits reveal the Earl buying flowers from a poor girl with the letters Fin appearing.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/yJy4IZOHQJWSXnKNGfUMqNp6GiY.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "D.Gray-man",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 103,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "D.Gray-man",
+    "overview": "Darkness is moving in, and young exorcist Allen Walker is humanity’s greatest hope against the wicked forces conspiring to bring civilization to its knees. Akuma – cruel spirits born of tragedy and lost souls – lurk in every shadow, willing and eager to do the bidding of their leader, the dread Millennium Earl. With an eye cursed to see evil in its truest form and blessed with an arm to slay soul-devouring demons, Allen stands ready to confront the gathering evil. Should he fail, Innocence will be lost forever. The war to decide the fate of mankind has begun – and the carnage will be endless.",
+    "popularity": 40.142,
+    "poster_path": "/txCtE7ToSLuG8sy8tAIh9q5JAYS.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2006-10-03",
+            "episode_count": 51,
+            "id": 44943,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/stYwlyM8NVmfqFrWjq8eue1pAq.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2007-10-02",
+            "episode_count": 52,
+            "id": 44944,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/fWAvu18XwbMgnF99W3jnsJJ1OMc.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 92
+}

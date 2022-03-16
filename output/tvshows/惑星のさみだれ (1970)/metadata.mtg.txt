@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://hoshinosamidare.jp/",
+    "id": 156218,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Lucifer and the Biscuit Hammer",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "惑星のさみだれ",
+    "overview": "Asamiya Yuuhi was an ordinary college student... until the day a lizard showed up and asked him to help save the world. The next thing he knows, he's been given a ring and special powers, plus an enemy stalking him. However, he's saved in the nick of time by the Girl Next Door, Samidare, who's planning... WHAT kinds of things?! This is an unconventional story that mixes ordinary life with the bizarre and supernatural!",
+    "popularity": 3.762,
+    "poster_path": "/lCCwm9WDCaUIZPeXWUeYPFBSCY.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 241197,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lCCwm9WDCaUIZPeXWUeYPFBSCY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

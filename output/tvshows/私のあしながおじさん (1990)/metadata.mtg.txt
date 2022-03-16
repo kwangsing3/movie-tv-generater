@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/6ve31bSQjlYT9wEYt3DDxzj1uvh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1990-01-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.bandaivisual.co.jp/kidstop/meisaku/ashinaga/ashinaga.html",
+    "id": 8727,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1990-12-23",
+    "last_episode_to_air": {
+        "air_date": "1990-12-23",
+        "episode_number": 40,
+        "id": 399432,
+        "name": "Nice to Meet You, Daddy!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9gjFAyJtNly0VIIHt0pWDahTtiM.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "My Daddy Long Legs",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 40,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "私のあしながおじさん",
+    "overview": "My Daddy Long Legs is a 1990 Japanese anime television series based on the novel Daddy-Long-Legs written by Jean Webster. The show was part of the container World Masterpiece Theater produced by Nippon Animation studios and was awarded the Excellent Movie Award for Television by the Japanese Agency of Cultural Affairs for Children in 1990.\n\nWebster's story had been adapted into anime previously by Tatsunoko Productions in 1979 to the TV special Ashinaga Ojisan, which was directed by Masakazu Higuchi. The aforementioned special was dubbed in English and released in the US and is otherwise unrelated to this television series.",
+    "popularity": 13.759,
+    "poster_path": "/eZuyNToQ8ri5eAcJzHIp0FwDZiG.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1990-01-14",
+            "episode_count": 40,
+            "id": 18621,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xETbNLfW4XWX7v5ZfFmiT6QCgRg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 7
+}

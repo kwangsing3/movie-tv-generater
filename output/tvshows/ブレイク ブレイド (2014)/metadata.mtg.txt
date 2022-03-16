@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/hsQr8gZl2CrIMhWhNgwd2sqVFPl.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://breakblade.jp/",
+    "id": 44163,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-22",
+    "last_episode_to_air": {
+        "air_date": "2014-06-22",
+        "episode_number": 12,
+        "id": 1026762,
+        "name": "Endless-Fate: Eternal Recurrance",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Broken Blade",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブレイク ブレイド",
+    "overview": "In the continent of Cruzon, an impending war between the Kingdom of Krisna and the nation of Athens is brimming. The people of this land are able to use quartz for whatever purpose they desire. Yet one person, Rygart Arrow, is not. He is an \"un-sorcerer,\" a person unable to use quartz. But this characteristic will enable him to pilot an ancient Golem, one strong enough to put up a fight against the invading army of Athens.",
+    "popularity": 9.589,
+    "poster_path": "/nNYgJLG64F6CjrFmsjldHaK33Ex.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-05-29",
+            "episode_count": 10,
+            "id": 53277,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-04-06",
+            "episode_count": 12,
+            "id": 53278,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6YctuGMeeAlceng1bKqNzlwwlEv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 35
+}

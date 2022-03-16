@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/faW9dBmwjJNTth6P86HQ0BksSMd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 42502,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-03-25",
+    "last_episode_to_air": {
+        "air_date": "2012-03-25",
+        "episode_number": 12,
+        "id": 880812,
+        "name": "The Brave of Light",
+        "overview": "The prophecy of Izumo has come true and only the power of braves can stop it. Can Saizo bring himself to strike down Isanami to save the world?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Brave 10",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブレイブ・テン",
+    "overview": "Brave 10 is a manga series by Kairi Shimotsuki, serialized in Media Factory's Comic Flapper from 2007 to 2010. The series was resumed on June 15, 2011 and retitled Brave 10 Spiral, better known as Brave 10 S, serialized in Monthly Comic Gene. An anime adaptation by Studio Sakimakura and TMS Entertainment began airing on January 8, 2012. The original manga series is licensed by Tokyopop, though no volumes have been released as of 2012. The series is based on the legendary Sanada Ten Braves, a group of ninja that assisted warlord Sanada Yukimura during the Sengoku period of Japan. The series had been licensed for streaming on Crunchyroll.",
+    "popularity": 16.799,
+    "poster_path": "/r2YEvFQfCOMlFteOiGMC3yTfDI5.jpg",
+    "production_companies": [
+        {
+            "id": 102363,
+            "logo_path": null,
+            "name": "Studio Sakimakura",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-01-08",
+            "episode_count": 12,
+            "id": 52225,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kgB7LK8cCI1OG9CPbTWKJcARYvA.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 6
+}

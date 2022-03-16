@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/zG0hGjl8umxHz0COOYOXr6KJDWI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.yu-sibu.com",
+    "id": 71441,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-12-21",
+    "last_episode_to_air": {
+        "air_date": "2013-12-21",
+        "episode_number": 12,
+        "id": 1319361,
+        "name": "I Couldn't Become a Hero, so I Decided to Get a Job",
+        "overview": "Raul, Lami-san, Lore-Senpai, Airi and the old man that come in to buy light globes sets off after Fino. As they go towards the mountain they start getting separated. At the end Raul faces Fino in a battle.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tnlfxizYvMR2umxNAdYjMrdvjSU.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "勇者になれなかった俺はしぶしぶ就職を決意しました。",
+    "overview": "The story revolves around Raul, a boy who did not become a Hero, since the demon lord was already defeated just before his Hero exams. His dreams dashed, Raul spends his days working at a magic shop in the capital. One day, a part-time job seeker appears at the shop with an amazing résumé: Name: Fino Previous Occupation: Demon Lord Heir Motive: Because my father was defeated The work comedy revolves around this former Hero-in-training and the daughter of the demon lord.",
+    "popularity": 16.177,
+    "poster_path": "/xwiWn8vggHGxL0ANCsUWwcYFlOk.jpg",
+    "production_companies": [
+        {
+            "id": 42519,
+            "logo_path": null,
+            "name": "asread.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-03-07",
+            "episode_count": 6,
+            "id": 128902,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-10-05",
+            "episode_count": 12,
+            "id": 87800,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lhR6afVHBfqlmN4btAcWsfktB0h.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 15
+}

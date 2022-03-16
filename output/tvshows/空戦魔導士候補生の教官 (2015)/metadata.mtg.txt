@@ -1,0 +1,158 @@
+{
+    "adult": false,
+    "backdrop_path": "/8DPjMoUE000g9NxnePUKa5FQYe1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://ku-sen.jp",
+    "id": 67553,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-24",
+    "last_episode_to_air": {
+        "air_date": "2015-09-24",
+        "episode_number": 12,
+        "id": 1216944,
+        "name": "Instructor of the Sky Wizards Academy",
+        "overview": "Before Fireteam E601 can congratulate themselves for the decisive victory, the mysterious assailant strikes again. Now, Kanata's students - current and former - must work together to defeat this terrible foe.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fI9Wfec91n1ghxcAsgufzBjVQNc.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Sky Wizards Academy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVQ",
+            "id": 822,
+            "logo_path": "/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "GBS",
+            "id": 1175,
+            "logo_path": "/wi1TlXf4tnnnEA5m3DkbH1X7iC9.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Mie TV",
+            "id": 1176,
+            "logo_path": "/iJZZIOdaKz7aYK01BTUo001ooPc.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "空戦魔導士候補生の教官",
+    "overview": "Humanity was driven off the land by the threat of magical armored insects and now live in aerial floating cities. Its defenses lie in wizards who fight the insects with magic in mid-air. Kanata Age is a young man who lives on the floating wizard academy city of \"Misutogan.\" He was once celebrated as the \"Black Master Swordsman,\" the elite ace of the S128 special team. However, he is now despised as the \"traitor of the special team.\" One day, he is assigned as the instructor of E601, a team that has suffered 10 consecutive defeats. E601 has three girls — Misora Whitale, Lecty Eisenach, and Rico Flamel — with one or two peculiar quirks.",
+    "popularity": 16.754,
+    "poster_path": "/1fBWnFW5qXEMX6Fs7lyjAdcghV0.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-03-09",
+            "episode_count": 1,
+            "id": 82178,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/kSmQTdZOOqAlaQLqfUwoop51RWa.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-07-09",
+            "episode_count": 12,
+            "id": 79506,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8fruZ3S3Td08GlnEoEWc3areSmn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 9
+}

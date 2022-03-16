@@ -1,0 +1,135 @@
+{
+    "adult": false,
+    "backdrop_path": "/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+    "created_by": [
+        {
+            "id": 77921,
+            "credit_id": "550d4ea49251414691005416",
+            "name": "Hideaki Anno",
+            "gender": 2,
+            "profile_path": "/AfV9h1RW6uALpx751APdUoX8ONc.jpg"
+        },
+        {
+            "id": 80752,
+            "credit_id": "5ef18fb42e2b2c003673f526",
+            "name": "Shinji Higuchi",
+            "gender": 2,
+            "profile_path": "/9Z9iuUGTVL331Uf6zIxgtXhQR7p.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1990-04-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.nhk.or.jp/anime/nadia/",
+    "id": 24710,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1991-04-12",
+    "last_episode_to_air": {
+        "air_date": "1991-04-12",
+        "episode_number": 39,
+        "id": 645626,
+        "name": "Successor to the Stars",
+        "overview": "All the pieces fall into place for the final stage of Jean and Nadia's journey around the world, Nemo and Gargoyle's long-standing feud, and the secret behind Nadia's Blue Water pendant.\n\nI won't tell you how it ends....",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/eZMKIK51sb5eThWDVLfHDUEXJZZ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nadia: The Secret of Blue Water",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK BS1",
+            "id": 219,
+            "logo_path": "/8fr5rRhr3avyMYDDl4b3ePardYc.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ふしぎの海のナディア",
+    "overview": "In mankind's grasp for the future, a sinister foe known only as Gargoyle begins his plans to take over the world. Nadia, with the help of a young inventor, Jean Ratlique, and Captain Nemo of the submarine Nautilus, must fight to save the world from Gargoyle and Neo-Atlantis.",
+    "popularity": 35.629,
+    "poster_path": "/gGy8YnsdVFontYtnrmQsAbNvzh4.jpg",
+    "production_companies": [
+        {
+            "id": 15505,
+            "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+            "name": "NHK",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5397,
+            "logo_path": null,
+            "name": "Group TAC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 11,
+            "id": 34908,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/a56PACCKlkA3trgpsetn9OUdc8c.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1990-04-13",
+            "episode_count": 39,
+            "id": 34907,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/r6Ob4uZyhwGxGoaXiagkw6HY33d.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 30
+}

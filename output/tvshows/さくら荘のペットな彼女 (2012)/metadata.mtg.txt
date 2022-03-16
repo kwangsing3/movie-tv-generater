@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/5eWk89cDBu0tQIWT3kXernhjYnB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://sakurasou.tv",
+    "id": 50325,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-03-26",
+    "last_episode_to_air": {
+        "air_date": "2013-03-26",
+        "episode_number": 24,
+        "id": 1226979,
+        "name": "Welcome to Sakura Hall",
+        "overview": "A new school year is starting with new and old faces.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8kPGY1VfHMp2XcmuVUbCurtjUnY.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "The Pet Girl of Sakurasou",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "さくら荘のペットな彼女",
+    "overview": "Sorata Kanda, a high school sophomore living in Sakurasou, the den of their academy's problem children, spends his days being dragged around by the strange residents, swearing he's going to escape Sakurasou one day.",
+    "popularity": 34.505,
+    "poster_path": "/6XQ2F5bZLWfAmayKyJtZKxn5Tcl.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-10-09",
+            "episode_count": 24,
+            "id": 79318,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6RtzFYJ7v9HegDPMaRiCnIgyAYx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 49
+}

@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/gMnfHJ1SVagfE1RnIH1NKFwudEO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2017-10-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "http://www.inuyashiki-project.com/",
+    "id": 73946,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-21",
+    "last_episode_to_air": {
+        "air_date": "2017-12-21",
+        "episode_number": 11,
+        "id": 1382017,
+        "name": "People of Earth",
+        "overview": "Finally Inuyashiki confesses his secret to his family, and gets a warm reception. Meanwhile, Shishigami visits Ando, but he leaves for anywhere because Ando condemns him as evil. A few days later, the Earth faces an unprecedented crisis.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5UhCxDtYm5z2oSBz5EeJ4kPg0zn.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Inuyashiki: Last Hero",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "いぬやしき",
+    "overview": "Inuyashiki Ichirou is down on his luck. While only 58 years old, his geriatric looks often have him written off as a pathetic old man by the world around him and he’s constantly ignored and disrespected by his family despite all that he’s done to support them. On top of everything else, his doctor has revealed that he has cancer and it appears that he has little time left in this world. But just when it seems things couldn’t get any worse, a blinding light in the night sky strikes the earth where Ichirou stands. He later wakes up to find himself unscathed, but he soon starts to notice that there’s something… different about himself. However, it turns out that these strange, new changes are just what Ichirou needs to take a new lease on life and now it seems like there’s nothing to stop him from being a hero worthy of the respect that he never had before… unless, that is, there was someone else out there with these same changes…",
+    "popularity": 8.495,
+    "poster_path": "/sfHQpWEiGKDRGBULmxlEkGnTRmR.jpg",
+    "production_companies": [
+        {
+            "id": 16071,
+            "logo_path": null,
+            "name": "DMM Films",
+            "origin_country": ""
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-10-12",
+            "episode_count": 11,
+            "id": 92846,
+            "name": "Season 1",
+            "overview": "Inuyashiki Ichirou is down on his luck. While only 58 years old, his geriatric looks often have him written off as a pathetic old man by the world around him and he's constantly ignored and disrespected by his family despite all that he's done to support them. On top of everything else, his doctor has revealed that he has cancer and it appears that he has little time left in this world. But just when it seems things couldn't get any worse, a blinding light in the night sky strikes the earth where Ichirou stands. He later wakes up to find himself unscathed, but he soon starts to notice that there's something... different about himself. However, it turns out that these strange, new changes are just what Ichirou needs to take a new lease on life and now it seems like there's nothing to stop him from being a hero worthy of the respect that he never had before... unless, that is, there was someone else out there with these same changes...",
+            "poster_path": "/w9PYi5MLYBxZbte6WPHwkba98iR.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 217
+}

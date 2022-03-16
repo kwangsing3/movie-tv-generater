@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/lKffjWJSjLpsCKyt37Wk8EyA4t2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-11-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 60424,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-05-22",
+    "last_episode_to_air": {
+        "air_date": "2008-05-22",
+        "episode_number": 7,
+        "id": 971282,
+        "name": "Freedom 7",
+        "overview": "A single column of smoke trails across the blue sky. It is the new moon rocket, inspired by the Earth girl Ao's determination to preserve her father's legacy. Two years in the making, the rocket teaches the moon boys Takeru, Biz and Ao's entire village to once again look to the skies and dream.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Freedom",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "FREEDOM",
+    "overview": "In the year 2267, more than 160 years after the Skyport orbital station fell to Earth and wiped out all of humanity, Eden is a thriving lunar colony home to young Takeru, who tries to make the most of the brief hiatus of freedom granted to the colony's inhabitants between the end of compulsory education and the rite of becoming a full citizen.",
+    "popularity": 1.921,
+    "poster_path": "/sUgZPacz3REU7b1WWeKdhmz00tZ.jpg",
+    "production_companies": [
+        {
+            "id": 19604,
+            "logo_path": null,
+            "name": "Nissin Food",
+            "origin_country": ""
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 19605,
+            "logo_path": null,
+            "name": "Freedom Committee",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-10-27",
+            "episode_count": 1,
+            "id": 160649,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-11-23",
+            "episode_count": 7,
+            "id": 59850,
+            "name": "Freedom",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8,
+    "vote_count": 2
+}

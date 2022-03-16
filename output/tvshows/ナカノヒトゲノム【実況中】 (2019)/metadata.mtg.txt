@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/p2fo0eurXUgNALMBnyXMduXlsO9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.nhg-anime.com/",
+    "id": 88048,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-09-22",
+    "last_episode_to_air": {
+        "air_date": "2019-09-22",
+        "episode_number": 12,
+        "id": 1915923,
+        "name": "JOURNEY GOES ON",
+        "overview": "The stakes are high in a bonus stage where the players gamble to win Paka prizes. The ultimate reward is a ticket to make any single request come true.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/icNvump9or600jNJhxioSusnhQJ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Ones Within",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ナカノヒトゲノム【実況中】",
+    "overview": "Iride Akatsuki and seven other charismatic game streamers wake up in the world of a mysterious free-to-play game called Naka no Hito Genome. Now they are competing in real-life games with life-or-death stakes, but clearing several game tasks could earn them 100 million lives.",
+    "popularity": 10.744,
+    "poster_path": "/vT1oUjqaLLNz1XcHrSE9EnbFre3.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-02-27",
+            "episode_count": 1,
+            "id": 152420,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/tQzJMq25CTHrMylEJUU5fRQ9bZu.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-07-07",
+            "episode_count": 12,
+            "id": 121371,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vc1MpUyRGXTnFzLNKHKzH1fLnsT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

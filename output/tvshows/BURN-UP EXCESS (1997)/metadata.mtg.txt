@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/gkLbr8kO07elOpoqTggIJ3pyQG5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1997-12-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 43417,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-03-14",
+    "last_episode_to_air": {
+        "air_date": "1998-03-14",
+        "episode_number": 13,
+        "id": 887980,
+        "name": "The Last Stage of Goodbye",
+        "overview": "Maki discovers the truth about her team's emergence as the mystery of the series' big baddie is revealed. An army of robot clones lays siege to the city. Team Warrior's got to pull themselves together to save everyone.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Burn-Up Excess",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BURN-UP EXCESS",
+    "overview": "Follows the exploits of Team Warrior, a special anti-terror wing of the Neo-Tokyo Police force. Team Warrior is comprised of the habitually broke Rio, gun-crazy Maya, computer specialist Lillica, tech-expert Nanvel, pilot/voyeur Yuji, and is led by the enigmatic Maki. The team faces a number of missions, ranging from bodyguard duty, breaking up robbery and arms rackets, and providing security for a very powerful tank. Rio and company continually thwart the terrorist aims of Ruby, an operative for a shadowy cabal of powerful men. Before the final showdown, the circumstances behind the formation of Team Warrior, how the precocious Rio came to join it, and Maki's painful past will be revealed.",
+    "popularity": 5.471,
+    "poster_path": "/rNENtyLLQD7NwdwpI50470pZxQt.jpg",
+    "production_companies": [
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1997-12-12",
+            "episode_count": 13,
+            "id": 52830,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6uOYR3dWlKkFYxz06LLZaJam9VS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4,
+    "vote_count": 2
+}

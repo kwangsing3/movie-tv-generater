@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1986-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 44261,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1988-08-25",
+    "last_episode_to_air": {
+        "air_date": "1988-08-25",
+        "episode_number": 5,
+        "id": 1235210,
+        "name": "Final Touchdown",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 3,
+        "vote_count": 1
+    },
+    "name": "Wounded Man",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "傷追い人",
+    "overview": "Yuko Kusaka is a Japanese journalist sent to Brazil to do a report on  the gold rush phenomenon that seems to be making many people rich from  night to day. Rumors say that among the many \"garimpeiros\" (gold  diggers) currently on the Amazon forest, there is a Japanese known as  Rio Baraki. Reaching their destination, her crew member is promptly  attacked and she is raped as a warning to stop their work and return  immediately to their home country. Determined to do her job, she stays  and finds out from the attacker that he is none other than Baraki, a  white haired muscular man with a large scar on his back. Later she  discovers that his real name is Keisuke Ibaraki. Once a promising  quarterback, he ended up falsely incriminated by a powerful organization  known as GPX.",
+    "popularity": 2.288,
+    "poster_path": "/eGqx6oJNqkbex6My0YYWPiHwI6Z.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 141708,
+            "logo_path": null,
+            "name": "Studio Ship",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1986-07-05",
+            "episode_count": 5,
+            "id": 81457,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 3,
+    "vote_count": 1
+}

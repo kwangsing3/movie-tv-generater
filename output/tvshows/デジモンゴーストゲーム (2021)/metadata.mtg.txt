@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/m9FDZBqkyRhBVWDldkpaNq6zZxQ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.toei-anim.co.jp/tv/digimon_ghost_game/",
+    "id": 134843,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-06",
+    "last_episode_to_air": {
+        "air_date": "2022-03-06",
+        "episode_number": 21,
+        "id": 3498787,
+        "name": "The Spider's Lure",
+        "overview": "A scientist who is a former colleague of Hiro’s mom drops by. She takes everyone to an insect exhibit at the mall, but they’re attacked by a highly intelligent Digimon who’s hungry for their brains…",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/afcrJ55gBFovrGPksPsKmE1sobW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Digimon Ghost Game",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デジモンゴーストゲーム",
+    "overview": "In a relatively near future, an innovative technology has emerged. On social networks, rumors are circulating about strange phenomena whose authenticity is unknown, referred to as \"Hologram Ghosts\". Hiro Amanokawa is a high school freshman at Hazakura Academy, who by activating a mysterious device left behind by his father called \"Digivice\", has the effect of making unknown creatures that cannot be seen by ordinary people, the Digimon, visible to his eyes.\n\nSince the day he met Gammamon, a mischievous Digimon entrusted to him by his father, Hiro is caught up in various strange phenomena: A man with a sewn mouth steals time from human beings, a mummy man wanders around every night and kidnaps humans... The hologram ghosts are all around us, and take us for target. From now on, here is the story of this other side of the world that nobody is aware of. With their friends, Hiro and Gammamon dive into the mysterious world where these creatures live.",
+    "popularity": 26.729,
+    "poster_path": "/gWQ0Oa7O1QgvvXt9vZsxOVlxKIO.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 27716,
+            "logo_path": "/9Pp6m0fRqe86E7MOFaj1ZZiuuL1.png",
+            "name": "YOMIKO Advertising",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-03",
+            "episode_count": 22,
+            "id": 212892,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3VdLDg5kEGlvv2dViOA5BMk0FyE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "They're all around us.",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

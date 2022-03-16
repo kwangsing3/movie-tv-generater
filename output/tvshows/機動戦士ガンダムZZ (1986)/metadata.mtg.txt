@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/rdwNcaJY1E432rrmqkzMlBibgak.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "60f334c3d35dea0045c7bccb",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1986-03-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "http://www.gundam-zz.net/",
+    "id": 5660,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1987-01-31",
+    "last_episode_to_air": {
+        "air_date": "1987-01-31",
+        "episode_number": 47,
+        "id": 365042,
+        "name": "Warrior, Once More...",
+        "overview": "Hoping that a one-on-one battle with Haman will end the conflict, Judau launches in the Double Zeta. Haman too flies out to meet him alone in her white Qubeley. In the face of the Qubeley's furious assault, Judau's back is pushed to the wall. But protected by the wills of many people, he rises to face Haman.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ls4DGo4nivgLtpgPixG4hwtJVKf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam ZZ",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 47,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士ガンダムZZ",
+    "overview": "The year is Universal Century 0088. Directly after the end of the  Gryps War, Haman Karn and her army of Zeon remnants on the asteroid Axis  begin their quest of reviving the lost empire of the Zabi's, and  proclaim themselves as the Neo-Zeon. With the Earth Federation as  hapless as ever, only the Anti-Earth Union Group (AEUG) is able oppose  the plans of Neo-Zeon. In need of all the help it can get after being  decimated in the previous war and losing many of its key members, the  AEUG ship Argama enlists the aid of a young junk collector from the Side  1 colony of Shangri-La named Judau Ashta to pilot its newest mobile  suit, the ZZ Gundam.",
+    "popularity": 19.961,
+    "poster_path": "/8zChoG9PiXcScH8K7s05IBVi7eF.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2009-09-25",
+            "episode_count": 2,
+            "id": 15752,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1986-03-01",
+            "episode_count": 47,
+            "id": 15751,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/q9qHkLEcKRhV1h7a1zl2f3QVS1V.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 5
+}

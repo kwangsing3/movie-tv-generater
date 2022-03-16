@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/fAA2b0SUrRcCKWYZavPfi2EoSWG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2015-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 62513,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-20",
+    "last_episode_to_air": {
+        "air_date": "2015-06-20",
+        "episode_number": 12,
+        "id": 1057121,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Vampire Holmes",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヴァンパイアホームズ",
+    "overview": "While crowded in daytime, this London neighborhood has been haunted by a “vampire killer” for many nights. The protagonist wakes up in a residence, with a man calling himself \"Holmes\" and claiming to have entered the house chasing after a vampire. Unknowingly, the door of the residence has been locked from the outside...",
+    "popularity": 3.999,
+    "poster_path": "/mL7ydYZ746gCnvNy7qwUthwD6lA.jpg",
+    "production_companies": [
+        {
+            "id": 125652,
+            "logo_path": null,
+            "name": "Studio! Cucuri",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-04-04",
+            "episode_count": 12,
+            "id": 66261,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uAVydTIPqYikVuyN6AP3SnfBUlN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.9,
+    "vote_count": 7
+}

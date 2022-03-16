@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/yi85XTzmRTTQJaG8B5XPtkKrITe.jpg",
+    "belongs_to_collection": {
+        "id": 357402,
+        "name": "Digimon Adventure tri. Collection",
+        "poster_path": "/4ziocAQIyRNJFfiKOWvGA7OzVJk.jpg",
+        "backdrop_path": "/97ldEnqZmfLoc1Oh7nj2FT01bHg.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 422347,
+    "imdb_id": "tt5468016",
+    "original_language": "ja",
+    "original_title": "デジモンアドベンチャー tri. 第4章「喪失」",
+    "overview": "Upon arriving at the Digital World after the \"reboot\", the digidestined are hunted by a new villain. Meanwhile, Sora is troubled by her partner digimon's indifference towards her.",
+    "popularity": 9.661,
+    "poster_path": "/rbTOYEesS4pLLMUuja5V8cAzTrx.jpg",
+    "production_companies": [
+        {
+            "id": 126,
+            "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
+            "name": "Lakeshore Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5822,
+            "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+            "name": "Toei Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2017-02-25",
+    "revenue": 59114,
+    "runtime": 82,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Digimon Adventure tri. Part 4: Loss",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 35
+}

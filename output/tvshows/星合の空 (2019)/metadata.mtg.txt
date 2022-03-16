@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/rWMTSMnTW2hJ7XS7ozmOYe60eRh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/hoshiai/",
+    "id": 92835,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-27",
+    "last_episode_to_air": {
+        "air_date": "2019-12-27",
+        "episode_number": 12,
+        "id": 1950103,
+        "name": "",
+        "overview": "Win or lose, Toma and Maki are having a blast playing the national champs. The underdogs get support from the crowd as everyone cheers them on.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tczhpZoeV0VKzs5gExwnQurApJt.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Stars Align",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "d Anime Store",
+            "id": 3685,
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "SBS TV\t",
+            "id": 3970,
+            "logo_path": "/bIZ3Aa0JMRCevaYIVqTKY32Yow3.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "星合の空",
+    "overview": "Constantly outperformed by the girls' club, the boys' soft tennis club faces disbandment due to their poor skills and lack of positive results. In desperate need of capable players, Toma Shinjou is looking to recruit, but he fails to do so. Enter Maki Katsuragi, a transfer student who demonstrates great reflexes when he catches a stray cat, Instantly capturing Toma's attention. Toma ambitiously asks Maki to join the team but is quickly rejected, as Maki doesn't wish to join any clubs. Toma refuses to back down and ends up persuading Maki - only under the condition that Toma will pay him for his club expenses.\n\nAs Maki joins the team, he immediately outshine the rest of the team. This gives rise to conflict among the team, Maki challenges his fellow team members to devote themselves to the game they once neglected.\n\nThis story focuses on the boys' soft tennis club and their discovery of their own capability, while also enduring the darker side of growing up in middle school.",
+    "popularity": 27.611,
+    "poster_path": "/nHvY0YZ5gzvQFKuK4m7cCXFgcjo.jpg",
+    "production_companies": [
+        {
+            "id": 30294,
+            "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+            "name": "8bit",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-11",
+            "episode_count": 12,
+            "id": 130865,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/n6g3MIYj2AQBYx4XNF8c3JeGL9T.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 62
+}

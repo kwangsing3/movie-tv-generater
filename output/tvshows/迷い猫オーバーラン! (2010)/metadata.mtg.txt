@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/9ZlBXqeupF1R7MnjOQrrWMmvydN.jpg",
+    "created_by": [
+        {
+            "id": 3077137,
+            "credit_id": "60ab470853f833002998ac29",
+            "name": "Tomohiro Matsu",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2010-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.patisserie-straycats.com/",
+    "id": 46000,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-06-29",
+    "last_episode_to_air": {
+        "air_date": "2010-06-29",
+        "episode_number": 13,
+        "id": 1161344,
+        "name": "Stray Cats, Wrapped Up",
+        "overview": "This episode is essentially a review and commentary of all the previous episodes by Nozomi, Fumino and Chise.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mK2dftQWngLOtbyxQFS9PboJFlz.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Stray Cats Overrun!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "迷い猫オーバーラン!",
+    "overview": "Takumi lives with his older adoptive sister Otome, she manages a confectionery store called Stray Cats. One day, Otome finds a mysterious girl on the street.",
+    "popularity": 6.788,
+    "poster_path": "/g72ohetncayj7QaI0t4nX2rAnkh.jpg",
+    "production_companies": [
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-06-25",
+            "episode_count": 6,
+            "id": 202123,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-04-06",
+            "episode_count": 13,
+            "id": 72469,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/il3gpRjDzvh264Zq6BYMZ6sitIS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 3
+}

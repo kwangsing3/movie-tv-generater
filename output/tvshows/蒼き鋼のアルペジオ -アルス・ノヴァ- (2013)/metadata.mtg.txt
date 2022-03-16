@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/hwqBr5Pm8URk9GlE199mSgEuWcM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        }
+    ],
+    "homepage": "http://www.aokihagane.com/",
+    "id": 57406,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-12-24",
+    "last_episode_to_air": {
+        "air_date": "2013-12-24",
+        "episode_number": 12,
+        "id": 976929,
+        "name": "The Power to Open a Path",
+        "overview": "Losing Maya has made Kongou go berserk. Absorbing Maya and light cruisers has given Kongou unprecedented power, which she uses to obliterate the Fog's U.S Pacific Fleet and now turns on 401. To save Kongou, Iona decides to go in alone...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2p0M7GrwBbdgxzoDVRnhJEDRGsO.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Arpeggio of Blue Steel: Ars Nova",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BSN",
+            "id": 2460,
+            "logo_path": "/34sNEcsgcTAuDidRMrgxdfNyVjL.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Animax Asia",
+            "id": 3268,
+            "logo_path": "/gNsvkmJY7QzRQ7AZ0QK9PeONIm2.png",
+            "origin_country": "TW"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "蒼き鋼のアルペジオ -アルス・ノヴァ-",
+    "overview": "By 2039, global warming had caused sea levels to rise and large amount of territory to be lost. As though in response, a mysterious group of warships clad in mist, “the Fleet of Mist,” appeared in every corner of the ocean, and began attacking human ships. In spite of humanity mustering all their strength, they were utterly defeated by the Mist's overwhelming force. All of humanity's trade routes were blockaded by the Fleet of Mist, their political economy was destroyed, and the human race was steadily beaten down. Seven years later, the Fleet of Mist's submarine I-401 appears before cadet Gunzo Chihaya. The humanoid life form that pilots the sub, who should be their enemy, is instead offering her services to mankind.",
+    "popularity": 16.288,
+    "poster_path": "/erZZ8bqu9eg41CFGZ28BSyQrM8X.jpg",
+    "production_companies": [
+        {
+            "id": 43363,
+            "logo_path": null,
+            "name": "Sanzigen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-04",
+            "episode_count": 3,
+            "id": 130092,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/1MlnvnTig9eiHwNwk4rSTvk8RO7.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-10-08",
+            "episode_count": 12,
+            "id": 58574,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sUkiOjI8q485aEYbDqN2KqZ4x3h.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 27
+}

@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/hDgIlF0BAHgAwWrHFN5cC7pdsKU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1994-10-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 21735,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-07-25",
+    "last_episode_to_air": {
+        "air_date": "1998-07-25",
+        "episode_number": 4,
+        "id": 599791,
+        "name": "Zola: The Planet Where The Whales Sing",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/xcBhNCu8m3V9mqZlqHAhHmo9cjW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Macross 7",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 56,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マクロス7",
+    "overview": "35 years have passed since Lynn Minmay had brought peace between the Zentradi and the humans. Nekki Basara is a guitarist and a singer of the band Fire Bomber. Living in the flying colony City 7 , he composes and sings songs in the belief that music holds a greater power. However, an unknown alien race appeared and started laying siege upon City 7.",
+    "popularity": 26.359,
+    "poster_path": "/zBWL8ws3iRxrFTTR7TAQw2B5aiV.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1995-03-25",
+            "episode_count": 13,
+            "id": 31520,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/7xpcZjvs7RdxFe0kh29OYC7JnSW.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1994-10-16",
+            "episode_count": 49,
+            "id": 31519,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zBWL8ws3iRxrFTTR7TAQw2B5aiV.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1995-12-18",
+            "episode_count": 3,
+            "id": 31522,
+            "name": "Macross 7 Encore",
+            "overview": "The Macross 7: Encore consists of 3 unrelated episodes set in the original Macross 7 TV series timeline. It is speculated that the story of Macross 7: Encore takes place between episode 39-42 of Macross 7.",
+            "poster_path": "/xyEgGN3asM6XEMtl5QfUbfm1saM.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "1997-12-18",
+            "episode_count": 4,
+            "id": 31521,
+            "name": "Macross 7 Dynamite",
+            "overview": "A rock and roll band called 'Fire Bomber' fight evil alien forces with the power of their music in between performances.The premise is an environmental sort of adventure, based upon Moby Dick. With his rock & roll music, Basara must save a group of 'Galaxy' whales from poachers.",
+            "poster_path": "/gEefpymYslQY5JQQxEYl2QQnSyZ.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.9,
+    "vote_count": 5
+}

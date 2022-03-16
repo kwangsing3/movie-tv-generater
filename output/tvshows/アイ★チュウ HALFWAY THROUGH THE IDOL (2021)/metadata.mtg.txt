@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/ofw482PXwueS0odWyk6NtIwWzRi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://etoile-anime.jp",
+    "id": 112667,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-24",
+    "last_episode_to_air": {
+        "air_date": "2021-03-24",
+        "episode_number": 12,
+        "id": 2796552,
+        "name": "I-Chu",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/usdsQnW8kXjaT4IVAUQez6U6kGQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "I★Chu: Halfway Through the Idol",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイ★チュウ HALFWAY THROUGH THE IDOL",
+    "overview": "Youths aiming to become full-fledged idols enroll in the Étoile Vio School where the students are called IChu. But soon after they begin, Kuma Kocho gets them off to a rocky start with a single phrase...?! As they each work toward their individual goals, their activities as idols make the IChu begin to wonder... \"What is an idol?\" In their struggle to find an answer, the springtime of the IChu's lives is whittled out in glittering moments and flashes of brilliance. Their story begins now!",
+    "popularity": 17.174,
+    "poster_path": "/qiHi7A3ffLA4wzzlV0cpUJd7qba.jpg",
+    "production_companies": [
+        {
+            "id": 59988,
+            "logo_path": null,
+            "name": "Lay-duce",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-06",
+            "episode_count": 12,
+            "id": 167822,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qiHi7A3ffLA4wzzlV0cpUJd7qba.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

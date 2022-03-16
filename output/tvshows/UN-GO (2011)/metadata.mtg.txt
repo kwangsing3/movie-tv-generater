@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/qEakqZN8kLK71amM0g26Shg1rHD.jpg",
+    "created_by": [
+        {
+            "id": 83923,
+            "credit_id": "5ab828c70e0a2630110009fd",
+            "name": "Seiji Mizushima",
+            "gender": 2,
+            "profile_path": "/8ES2my8oFztmeFzuQyWBfCpYeuH.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-10-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.un-go.com/",
+    "id": 42142,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-12-23",
+    "last_episode_to_air": {
+        "air_date": "2011-12-23",
+        "episode_number": 11,
+        "id": 1334167,
+        "name": "I'm Just Searching",
+        "overview": "Shinjuurou, along with Rie, Izumi and some others, receive strange invitations supposedly sent by Rinroku. They are brought together at a table where they are presented with weapons, Shinjuurou believes that the imposter Rinroku was the one who appeared at Rie's home, deducing that the Diet member and Rinroku's bodyguard caused the explosion. It is at this point that Rinroku himself seemingly appears with Inga, only for Shinjuurou to deduce that he is actually Izumi's assistant, Shingen Hayami, using Bettenou's power, with the real Rinroku having disguised himself amongst the attendees, having previously faked his death. After a fierce battle, Inga defeats Bettenou and devours her. After the incident, Shinjuurou explains his relationship with Inga to Rie.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7X2eydoCUsPngX3PuF6unazZzqK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Un-Go",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "UN-GO",
+    "overview": "Un-Go is set in a war-torn Tokyo, in a near-future Japan. In response to Japan sending their military abroad as peacekeeping forces, terrorists launched multiple attacks on Japan, killing many people and destroying much of its cityscapes. Some time after the war receded to a period of uneasy peace, the Japanese Parliament passed the \"Information Privacy and Protection Act\", which gives the Japanese government control over the Internet. Detective Shinjuurou Yuuki and his strange partner Inga make a living in solving crimes and exposing human souls, all influenced in some way by the dystopian backdrop.",
+    "popularity": 4.191,
+    "poster_path": "/dqbdyrHRIUqHvPzFbVRfFYstiqU.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-11-09",
+            "episode_count": 11,
+            "id": 212719,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-10-14",
+            "episode_count": 11,
+            "id": 52027,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1alpQxmgvyfugYYmD5aTu6loDj4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2
+}

@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/gWJHHWC4xxClABSqJBJvYmSkGua.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        6
+    ],
+    "first_air_date": "2003-10-24",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 94936,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-10-24",
+    "last_episode_to_air": {
+        "air_date": "2003-10-24",
+        "episode_number": 7,
+        "id": 2208981,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Blame!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブラム!",
+    "overview": "In the post-apocolyptic future, the earth is buried in an enormous megastructure created by machines. There is barely a trace of humanity and silicon beings run rampant. The last hope for mankind is information on a data disc from an engineer called Cibo.",
+    "popularity": 1.492,
+    "poster_path": "/tcqBHfODesdMsqSOVyR6PA1P7ZE.jpg",
+    "production_companies": [
+        {
+            "id": 5397,
+            "logo_path": null,
+            "name": "Group TAC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-09-07",
+            "episode_count": 2,
+            "id": 180075,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-10-24",
+            "episode_count": 7,
+            "id": 134807,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

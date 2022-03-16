@@ -1,0 +1,187 @@
+{
+    "adult": false,
+    "backdrop_path": "/upkcoee5VhPeTTbLdPERtCVhy4N.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2013-07-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/yamishibai/",
+    "id": 56559,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 10,
+        "id": 3593489,
+        "name": "The Other Building",
+        "overview": "",
+        "production_code": "",
+        "season_number": 10,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Theatre of Darkness: Yamishibai",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 127,
+    "number_of_seasons": 10,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "闇芝居",
+    "overview": "Yamishibai is a picture-story style of animation whose motif is surrounded and based off the rumors, and urban legends throughout the history of Japan.",
+    "popularity": 59.608,
+    "poster_path": "/bF6QY4w7jr8UNHtEQsNmh6DDRML.jpg",
+    "production_companies": [
+        {
+            "id": 70498,
+            "logo_path": null,
+            "name": "ILCA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-08-13",
+            "episode_count": 1,
+            "id": 206091,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ibCTCTJLWEpgErgCAzg2YXuhDat.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-07-15",
+            "episode_count": 13,
+            "id": 58232,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/snDEDXrqPKuLnT9DaWR1usuCKE5.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-07-06",
+            "episode_count": 13,
+            "id": 81422,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/xRZ4N0jeFnFr6sg0dhFkT0fcO8O.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2016-01-10",
+            "episode_count": 13,
+            "id": 83300,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/vkpJslzDDYduGRb5u0V1tEqVgsk.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2017-01-16",
+            "episode_count": 13,
+            "id": 83301,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/aRlzukZ17z9HWoFgmMqiHFrsiri.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2017-07-03",
+            "episode_count": 13,
+            "id": 90029,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/bc2mRvkgqYkwMsoVGTUWUByatxC.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": "2018-07-06",
+            "episode_count": 13,
+            "id": 106987,
+            "name": "Season 6",
+            "overview": "",
+            "poster_path": "/1Rgv1uuhvhapVI4JQB3iF1zwNtJ.jpg",
+            "season_number": 6
+        },
+        {
+            "air_date": "2019-07-08",
+            "episode_count": 13,
+            "id": 127045,
+            "name": "Season 7",
+            "overview": "",
+            "poster_path": "/5f2x3HtG0fiFFcAMN2a0u7TBfq6.jpg",
+            "season_number": 7
+        },
+        {
+            "air_date": "2021-01-10",
+            "episode_count": 13,
+            "id": 174038,
+            "name": "Season 8",
+            "overview": "",
+            "poster_path": "/AmsZ6UPQWtcXQs3LzApG2BGKfs4.jpg",
+            "season_number": 8
+        },
+        {
+            "air_date": "2021-07-12",
+            "episode_count": 13,
+            "id": 199834,
+            "name": "Season 9",
+            "overview": "",
+            "poster_path": "/x9LV6inWnVqmU09QBwWQ2Uzjsuz.jpg",
+            "season_number": 9
+        },
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 10,
+            "id": 237993,
+            "name": "Season 10",
+            "overview": "",
+            "poster_path": "/n8gMnVxKrQzfGrkWVcVl8NYXQm5.jpg",
+            "season_number": 10
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 15
+}

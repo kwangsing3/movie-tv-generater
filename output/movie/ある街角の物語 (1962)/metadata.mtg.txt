@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/xj36cWk6meogrQyyQ7dOEJxE4Qg.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://tezukaosamu.net/jp/anime/64.html",
+    "id": 85802,
+    "imdb_id": "tt0055760",
+    "original_language": "ja",
+    "original_title": "ある街角の物語",
+    "overview": "The sad and happy times of a young girl and her bear doll, a young mouse and his family, a sycamore tree, an old lamp post, a hoodlum moth and an alleyway full of posters coming to life.",
+    "popularity": 1.4,
+    "poster_path": "/5dn5amHXjWXUJOsKt83kCqItlDR.jpg",
+    "production_companies": [
+        {
+            "id": 20327,
+            "logo_path": null,
+            "name": "Mushi Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1962-11-05",
+    "revenue": 0,
+    "runtime": 39,
+    "spoken_languages": [
+        {
+            "english_name": "No Language",
+            "iso_639_1": "xx",
+            "name": "No Language"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tales of a Street Corner",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 12
+}

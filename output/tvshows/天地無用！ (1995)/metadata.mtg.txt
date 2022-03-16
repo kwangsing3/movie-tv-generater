@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/lkXPZx5XI8KnPbAQ9GQ3hRYbZh2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1995-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 20451,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-09-24",
+    "last_episode_to_air": {
+        "air_date": "1995-09-24",
+        "episode_number": 26,
+        "id": 584462,
+        "name": "No Need for a Conclusion",
+        "overview": "Tenchi narrates this epilogue to the Tenchi Universe saga, detailing the fates of everyone who was involved in the story. However, the whereabouts of Ryoko still remain a mystery.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tenchi Universe",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "天地無用！",
+    "overview": "Tenchi Masaki may be a 17-year-old young man in rural Japan, but  little does he know how bad his day will be getting. When a space pirate  chased by a pair of Galaxy Police officers crash-lands at his  grandfather's temple, Tenchi is sucked into a new adventure that will  literally blast him off into outer space and beyond.",
+    "popularity": 14.688,
+    "poster_path": "/xAO2jn2c3JyYn19B9uvVa7Xrp4W.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1995-04-02",
+            "episode_count": 26,
+            "id": 30482,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oTy8Jh0yDbkZjXvPDXokPXNbbQK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 10
+}

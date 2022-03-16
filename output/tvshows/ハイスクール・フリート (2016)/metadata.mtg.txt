@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/wmMOUpJ4D00eNqY5TdTiQEFCaC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.hai-furi.com",
+    "id": 66105,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-25",
+    "last_episode_to_air": {
+        "air_date": "2016-06-25",
+        "episode_number": 12,
+        "id": 1214229,
+        "name": "In a Pinch with the Last Battle!",
+        "overview": "Are you guys ready for the final fireworks show?! Grab your big shark plushie, and tune in as we join Akeno and her crew in this booming finale!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uIV2QyoPQdyfXseQQyPbuFvIRiU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "High School Fleet",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tochigi TV",
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハイスクール・フリート",
+    "overview": "Living by the sea, protecting the sea, and journeying across the sea... They're the Blue Mermaids! Because of a shift in tectonic plates around 100 years ago, Japan lost much of its area to submergence. To preserve Japan's territories, coastal cities sprung up, one after the other. Eventually, they became marine cities, and along with the expansion of sea-lanes to connect them, the need arose for a sizable staff to protect the seas. At the same time, maritime jobs were becoming more popular among women. Hence, the Blue Mermaids, tasked with keeping the seas safe, had become every female student's dream job. This is when childhood friends Akeno Misaki and Moeka China enroll in a marine high school in Yokosuka, along with other girls who share their goal of becoming a Blue Mermaid.",
+    "popularity": 7.021,
+    "poster_path": "/1ZsbaElqwnxlJdNPKbB6beCmcup.jpg",
+    "production_companies": [
+        {
+            "id": 65500,
+            "logo_path": null,
+            "name": "Production IMS",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-03-31",
+            "episode_count": 3,
+            "id": 153292,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/fG6lp0tm4hlodDYMIt7SN22xI7d.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-10",
+            "episode_count": 12,
+            "id": 75983,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/t7k5uzUihlsJMdfpm8IWy6YdhZc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 4
+}

@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/xlfOFhOn2X00DCFbMUBa22s6oyY.jpg",
+    "created_by": [
+        {
+            "id": 1495394,
+            "credit_id": "614dd426c740d90026fce1f9",
+            "name": "Hazuki Minase",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://king-cr.jp/special/c3/",
+    "id": 45954,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-12-17",
+    "last_episode_to_air": {
+        "air_date": "2011-12-17",
+        "episode_number": 12,
+        "id": 1348856,
+        "name": "The Transcendentals Are Everywhere",
+        "overview": "The group begin their battle with Alice, only to find out that Alice’s magic mirror allows her to make solid duplicates of herself that last for 10 minutes, proven when Fear impales one of them through with a drill and has to watch as the clone gets torn up. The situation is pretty much hopeless…until Shiraho and Sovereignty turn up, releasing Kuroe from her body paralysis and breaking the mirror. Kuroe restrains the clones, allowing Haruaki and Fear to beat Alice. Before they can deal the final blow though, she jumps off a cliff and is rescued by a ship, saying that she’ll return to capture Fear someday.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tsd68ZIMhlvfUk7UL60UkrmZQha.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "C³ Cube x Cursed x Curious",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "C³ -シーキューブ-",
+    "overview": "A high school student named Yachi Haruaki receives a mysterious, super-heavy black cube from his father overseas. That night, Haruaki wakes up to a suspicious noise in the kitchen, and he discovers a fully naked female thief of rice crackers. The girl, Fear, is the first of several surprises that Haruaki receives.",
+    "popularity": 17.066,
+    "poster_path": "/ykN5y5EMM35cXMTg4noiWIvK0ML.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-25",
+            "episode_count": 1,
+            "id": 91351,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/1EMAqjAP95ENryOPtzH3Rbrs8Vy.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-10-01",
+            "episode_count": 12,
+            "id": 91349,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5DWkQkgmSe651VapWnqwzhxaEZd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 3
+}

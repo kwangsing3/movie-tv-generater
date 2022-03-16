@@ -1,0 +1,182 @@
+{
+    "adult": false,
+    "backdrop_path": "/awFuZcxrAGnReHrYWOkBqFBBeJy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2012-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://te-kyu.com/",
+    "id": 53020,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-28",
+    "last_episode_to_air": {
+        "air_date": "2017-09-28",
+        "episode_number": 12,
+        "id": 1372457,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 9,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Teekyu",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 116,
+    "number_of_seasons": 9,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "てーきゅう",
+    "overview": "The series follows the hilarious everyday routines of four girls in the Kameido High tennis club who, on occasion, actually play some tennis.",
+    "popularity": 16.548,
+    "poster_path": "/iDyd5ChrP4uRBGkvODq4AIE4wab.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 109567,
+            "logo_path": null,
+            "name": "millepensee",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-10-25",
+            "episode_count": 14,
+            "id": 212211,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-10-07",
+            "episode_count": 12,
+            "id": 56185,
+            "name": "Teekyuu",
+            "overview": "",
+            "poster_path": "/mBAFxaEHTOgxBlK72EfRJiT8L7D.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2013-07-07",
+            "episode_count": 14,
+            "id": 56186,
+            "name": "Teekyuu 2",
+            "overview": "",
+            "poster_path": "/jOksMu6Y7FoQs40YJUy3reywTOq.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2013-10-06",
+            "episode_count": 14,
+            "id": 56188,
+            "name": "Teekyuu 3",
+            "overview": "",
+            "poster_path": "/hRidaTB2NsAWaekZHakWddSg17b.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2015-04-07",
+            "episode_count": 14,
+            "id": 90330,
+            "name": "Teekyuu 4",
+            "overview": "",
+            "poster_path": "/iXRYHGp79ByDoIOIKr6nuAMOdif.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2015-07-07",
+            "episode_count": 12,
+            "id": 90331,
+            "name": "Teekyuu 5",
+            "overview": "",
+            "poster_path": "/2qWeaSzFPN2izxWD4kafaJj0Oa4.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": "2015-10-06",
+            "episode_count": 14,
+            "id": 90332,
+            "name": "Teekyuu 6",
+            "overview": "",
+            "poster_path": "/j5QcNxxeT2Qp8LfCTOmsxbutU9Z.jpg",
+            "season_number": 6
+        },
+        {
+            "air_date": "2016-01-12",
+            "episode_count": 12,
+            "id": 90333,
+            "name": "Teekyuu 7",
+            "overview": "",
+            "poster_path": "/sz4COrGILMphASVQUvJsl5wf951.jpg",
+            "season_number": 7
+        },
+        {
+            "air_date": "2016-10-05",
+            "episode_count": 12,
+            "id": 81604,
+            "name": "Teekyuu 8",
+            "overview": "",
+            "poster_path": "/tmxSRBT6ilGAwGYhD3VNmoyZAbb.jpg",
+            "season_number": 8
+        },
+        {
+            "air_date": "2017-07-13",
+            "episode_count": 12,
+            "id": 90028,
+            "name": "Teekyuu 9",
+            "overview": "",
+            "poster_path": "/wN1TLz4xf3NIX09jSkfaCBAsC5t.jpg",
+            "season_number": 9
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 10
+}

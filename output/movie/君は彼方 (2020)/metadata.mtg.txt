@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/y7RfAQVqCvu9WLADCDUwxje0KTI.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.kimikana.jp",
+    "id": 680041,
+    "imdb_id": "tt13139218",
+    "original_language": "ja",
+    "original_title": "君は彼方",
+    "overview": "Mio is a girl in high school who slacks off. She and her childhood friend Arata and best friend Madoka spend their after-school days in Ikebukuro hanging out. One day, Madoka tells Mio that she loves Arata, and Mio realizes that she loves Arata, too. But she’s scared of their relationship falling apart and lies, saying she’ll help them. Mio deliberately acts coldly to Arata, and they get into a fight. She decides to work things out with Arata, but gets into a car accident on her way to meet him. She wakes up in a mysterious world. It's the Ikebukuro she knows, but something’s different...",
+    "popularity": 5.16,
+    "poster_path": "/1TYqN5RaYIeOshjxwsxBYtu14g4.jpg",
+    "production_companies": [
+        {
+            "id": 130007,
+            "logo_path": null,
+            "name": "Digital Network Animation",
+            "origin_country": ""
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2020-11-27",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Over the Sky",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 8
+}

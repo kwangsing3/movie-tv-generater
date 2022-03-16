@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/ApUNoBfgOWMeWz70o1O77jn1OA1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-01-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://sgs-anime.com/",
+    "id": 69341,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-31",
+    "last_episode_to_air": {
+        "air_date": "2017-03-31",
+        "episode_number": 13,
+        "id": 1297644,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/d2IWhS28naEMas0xwIwMm2KOawt.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Schoolgirl Strikers: Animation Channel",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スクールガールストライカーズ Animation Channel",
+    "overview": "It's the near future. The newly established girls' private school Goryoukan Academy has another face. This school has a special unit, Fifth force, who is assembled and selected from the school's student body in order to fight an enemy called Oburi.\n\nThis is a story about love, courage and friendship about the girls called Strikers.",
+    "popularity": 3.07,
+    "poster_path": "/zejpUiN1xrvbkrSHGPT7vzQfy3i.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-01-07",
+            "episode_count": 13,
+            "id": 83292,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gvM8EiVr74MxY9e3ZkAkKRBynG7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

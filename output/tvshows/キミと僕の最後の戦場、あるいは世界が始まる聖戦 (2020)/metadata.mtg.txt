@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/gjUkdl62eBtxAl4L4Xurm5UBZ0x.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "https://kimisentv.com",
+    "id": 101972,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-20",
+    "last_episode_to_air": {
+        "air_date": "2020-12-20",
+        "episode_number": 12,
+        "id": 2474166,
+        "name": "Beginning: The Two of Them Trigger the Rise of a New World",
+        "overview": "The Empire's experimental weapon, Object, goes after Sisbell. It also detects Mismis' astral energy. Iska and his team must fight Object to save Sisbell and to stop it from uncovering Mismis' secret. However, it seems Object has gone through an upgrade.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/Z8dboK9s6jJ7OzAruv2oRqMmv2.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Our Last Crusade or the Rise of a New World",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
+    "overview": "For years, a great war has raged on between the scientifically advanced Empire and a paradise of witches known as the Nebulis Sovereignty. This age-old battle sets the scene for a fateful encounter between two young combatants: an imperial swordsman, Iska, and the witch princess, Aliceliese. As sworn enemies, they vow to cut each other down in order to unite their worlds, and yet Iska finds himself entranced by her beauty and righteousness, while Aliceliese is moved by his strength and resolve. In the midst of a never-ending war that forbids them from being together, they have no choice but to destroy each other-or find another way.",
+    "popularity": 26.755,
+    "poster_path": "/1VtaTXsHTRfh8m49OVJfMb4JVuh.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-04",
+            "episode_count": 12,
+            "id": 148034,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bN0CcnmSiasFyp9aXb5ghfY9wDS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 156
+}

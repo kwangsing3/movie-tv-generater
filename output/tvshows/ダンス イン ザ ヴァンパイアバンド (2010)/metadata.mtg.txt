@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/fgTu7zADTGdliBdjB8zqfAYQqb9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-01-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.funimation.com/shows/dance-in-the-vampire-bund/",
+    "id": 37183,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-04-01",
+    "last_episode_to_air": {
+        "air_date": "2010-04-01",
+        "episode_number": 12,
+        "id": 842127,
+        "name": "Dance in the Vampire Bund",
+        "overview": "Two beastly warriors shed blood in defense of identical princesses, and Mina learns the shocking secret behind the legacy of the true bloods! Mina then made a pledge to Akria to stay with him forever like Akria did as a young boy.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3VRGeX62EWyGdv2NxkA0u1L4Ux7.jpg",
+        "vote_average": 7,
+        "vote_count": 2
+    },
+    "name": "Dance in the Vampire Bund",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ダンス イン ザ ヴァンパイアバンド",
+    "overview": "Mina Tepeş, the Princess of the ancient covenant and ruler of all vampires, wants her race to stop hiding from the humans. Using her vast wealth, she has paid off Japan's entire national debt and by doing so, gained the right to create a district off Japan's coast that is to become the future haven to vampires worldwide. But when she finally attempts to make public the existence of vampires to the world some politicians, terrorists and rival factions are plotting to assassinate Mina before she has a chance to get Japan's and international recognition for the Vampire Bund. Now she must rely on her strength, cruelty and those closest to her, while trying to make a normal life.",
+    "popularity": 19.88,
+    "poster_path": "/dakyi8YmADxi70nPzXxbOOxtZVt.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 14,
+            "id": 48397,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-01-07",
+            "episode_count": 12,
+            "id": 48396,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dakyi8YmADxi70nPzXxbOOxtZVt.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 21
+}

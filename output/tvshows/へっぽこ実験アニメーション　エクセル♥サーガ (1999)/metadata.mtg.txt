@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/3R15MPMNh2siUR6ndIdGbqirFDg.jpg",
+    "created_by": [
+        {
+            "id": 2001427,
+            "credit_id": "5aaeaeb8925141762d0131ca",
+            "name": "Koshi Rikudo",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1999-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.b-ch.com/titles/486/",
+    "id": 9519,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-03-30",
+    "last_episode_to_air": {
+        "air_date": "2000-03-30",
+        "episode_number": 26,
+        "id": 408076,
+        "name": "Going Too Far",
+        "overview": "In this aptly-named epilogue, an aborted attempt at making a musical version of Excel Saga is replaced by an exercise in pushing the boundaries of good taste for even Japanese television. As a small sampling of the insanity, Excel and Hyatt (the former more deranged than usual, the latter more sickly than usual) switch bodies, Cosette returns only to get naughty with Dr. Shioji, Watanabe takes Hyatt (in Excel’s body) to a love hotel, Nabeshin gets married, and there’s way too much blood and pointless violence. What better way to end a \"Quack Experimental Anime\"?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jNYsVN4R78jeJVzATG4NocUSn4H.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Excel Saga",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "へっぽこ実験アニメーション　エクセル♥サーガ",
+    "overview": "Hyperactive Excel does anything and everything to try to please her lord, Il Palazzo, who wants to take over the planet. Excel’s misadventures takes her and her partner, the ever-dying Hyatt, all over the world, meeting several strange people as they go. Everything is bizarre and goofy, as any kind of anime or entertainment genre gets mocked and spoofed.",
+    "popularity": 9.089,
+    "poster_path": "/hsDcuUPsbAmx6vLYWw0WQaMWska.jpg",
+    "production_companies": [
+        {
+            "id": 12835,
+            "logo_path": null,
+            "name": "Victor Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104652,
+            "logo_path": "/uh7DFdoi7r7mg2JwfZewtNv96rc.png",
+            "name": "Fizz Sound Creation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-10-07",
+            "episode_count": 26,
+            "id": 19376,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/emtt1Y3D79fOKVq0w6r9cVMv8sX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 10
+}

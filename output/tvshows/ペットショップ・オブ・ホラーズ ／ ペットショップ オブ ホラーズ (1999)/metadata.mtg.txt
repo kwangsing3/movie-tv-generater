@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/o2GhUjnwiqCdt292256dpKRON44.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "1999-03-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 45462,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-03-22",
+    "last_episode_to_air": {
+        "air_date": "1999-03-22",
+        "episode_number": 4,
+        "id": 902693,
+        "name": "Dual",
+        "overview": "Roger Stanford comes from a long line of successful politicians, but is considered the bad apple of the family due to his carefree and womanising ways. His faithful assistant, Kelly Vincent, is determined to make Roger the president of the United States, even if it means making a pact with the legendary animal called the Kirin, who grants the wish of its sovereign through the blood of others. Count D just happens to have one Kirin in stock.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pet Shop of Horrors",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ペットショップ・オブ・ホラーズ / ペットショップ オブ ホラーズ",
+    "overview": "Welcome to the most magnificent pet shop in Chinatown! Operated by the shadowy Count D, the shop specializes in rare and hard to come by pets... but with each sale comes a contract. And if that contract is broken, watch out! Detective Orcott has linked many odd and unexplained deaths to Count D's shop. Will he solve the mystery or fall prey to it?",
+    "popularity": 2.414,
+    "poster_path": "/oeR4Q2R22GWQt8LT4TnKIL16fer.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-03-01",
+            "episode_count": 4,
+            "id": 54116,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oeR4Q2R22GWQt8LT4TnKIL16fer.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 16
+}

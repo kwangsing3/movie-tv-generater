@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/yDC8FOpvVNWpPZboz42qETZGmEG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2017-01-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.kuzunohonkai.com/",
+    "id": 69292,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-31",
+    "last_episode_to_air": {
+        "air_date": "2017-03-31",
+        "episode_number": 12,
+        "id": 1297216,
+        "name": "Two Stories",
+        "overview": "Hanabi, Mugi, Sanae, Moca, Narumi, Akane. Their intertwined fates have been cut, unraveled, and retied into a new thread. What is the wish that these emotionally clumsy people discover beyond their disturbed love?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dRN6BlRraaRy4FwCLlfxOA1K3U2.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Scum's Wish",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クズの本懐",
+    "overview": "Seventeen-year-old Mugi Awaya and Hanabi Yasuraoka appear to be the ideal couple. They are both pretty popular, and they seem to suit each other well. However, outsiders don't know of the secret they share. Both Mugi and Hanabi have hopeless crushes on someone else, and they are only dating each other to soothe their loneliness. Mugi is in love with Akane Minagawa, a young teacher who used to be his home tutor. Hanabi is also in love with a teacher, a young man who has been a family friend since she was little. In each other, they find a place where they can grieve for the ones they cannot have, and they share physical intimacy driven by loneliness. Will things stay like this for them forever?",
+    "popularity": 24.314,
+    "poster_path": "/k0JMSNNTdjDjVhQHnULQ0fTxJKD.jpg",
+    "production_companies": [
+        {
+            "id": 42811,
+            "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
+            "name": "Lerche",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2017-01-13",
+            "episode_count": 12,
+            "id": 83196,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uSXXDe6Ahza1V4xRoXegcdLWSpN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 39
+}

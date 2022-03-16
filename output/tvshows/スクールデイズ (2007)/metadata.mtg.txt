@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/moDlQIjzGmEKM5mHlmZJEtZz4ZI.jpg",
+    "created_by": [
+        {
+            "id": 1408426,
+            "credit_id": "5a5b8cf00e0a267fdd023d7a",
+            "name": "Keitaro Motonaga",
+            "gender": 2,
+            "profile_path": "/sRLvJOl5OtPdprYnpUiImeWiceR.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2007-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://schooldays.us/",
+    "id": 28061,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-09-27",
+    "last_episode_to_air": {
+        "air_date": "2007-09-27",
+        "episode_number": 12,
+        "id": 702336,
+        "name": "School Days",
+        "overview": "Sekai disappears, and Makoto is wandering around  aimlessly until he meets up with Kotonoha again, under the town's  Christmas tree. As they pass the night together and Sekai witnesses the  two of them heading back to Makoto's place. Just to make sure her eyes  weren't playing tricks on her, Sekai heads over to his place...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mIPvgWuFg4YcMkg6da353LudfEE.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "School Days",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スクールデイズ",
+    "overview": "A rumor states that if you take a photo of someone you like with your cellphone and keep it hidden, they'll fall for you. Will Makoto win his love by taking a picture of Kotonoha without anyone knowing?",
+    "popularity": 29.754,
+    "poster_path": "/wdbi0p7w2HTtv6Oh1wUAKRIsc0m.jpg",
+    "production_companies": [
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2788,
+            "logo_path": null,
+            "name": "Avex Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 75930,
+            "logo_path": null,
+            "name": "Marvelous Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-02-25",
+            "episode_count": 3,
+            "id": 39204,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/sEqgvLmDmYrjlmRDTbxR5grjnsV.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-07-04",
+            "episode_count": 12,
+            "id": 39203,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mh6agSB4wkXHjdgsFhIAawc7Ekn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 49
+}

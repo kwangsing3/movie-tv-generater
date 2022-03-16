@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/cJYLr8GBpf9gxXocyHaDFTUoEQx.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2020-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://yurucamp.jp/heyacamp/",
+    "id": 95213,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-23",
+    "last_episode_to_air": {
+        "air_date": "2020-03-23",
+        "episode_number": 12,
+        "id": 2041047,
+        "name": "Room Camp",
+        "overview": "The OutClub goes camping in the school yard.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lFpDgB3GDr3RQTsK4kQTkfqyuu3.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Room Camp",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "へやキャン△",
+    "overview": "The Outclub goes on a journey! The Outdoor Activities Club, Aka, the Outclub has 3 members. In the countryside of Yamanashi Prefecture, there's a high school named Motosu High School. Go even further to one of the school buildings and you'll find a very laid-back outdoor club that uses one corner of the classroom as their club room.",
+    "popularity": 11.634,
+    "poster_path": "/cP6aWCVl1jHj6LJtEiCXFJkdEbT.jpg",
+    "production_companies": [
+        {
+            "id": 92992,
+            "logo_path": null,
+            "name": "C-Station",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-29",
+            "episode_count": 1,
+            "id": 137994,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ymVARG9wPo4jea5Fsty76nsXLd4.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-01-06",
+            "episode_count": 12,
+            "id": 135388,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cP6aWCVl1jHj6LJtEiCXFJkdEbT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 10
+}

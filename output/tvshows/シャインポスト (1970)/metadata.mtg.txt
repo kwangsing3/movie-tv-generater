@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": "/qIr9WX3lT4matVQbP5H2oUQbZSw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://anime.shinepost.jp/",
+    "id": 137194,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Shine Post",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シャインポスト",
+    "overview": "",
+    "popularity": 1.21,
+    "poster_path": "/yrK1r7fD5B1n30pqtd9ovFnym1K.jpg",
+    "production_companies": [
+        {
+            "id": 125523,
+            "logo_path": null,
+            "name": "Studio KAI",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 217117,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yrK1r7fD5B1n30pqtd9ovFnym1K.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

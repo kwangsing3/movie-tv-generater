@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/qupQSxhEP1ct0Ek1BzjFsvnbFjD.jpg",
+    "created_by": [
+        {
+            "id": 98266,
+            "credit_id": "5c3e63d29251416e2dae6cb0",
+            "name": "Michiko Yokote",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 23994,
+            "credit_id": "5c3e6393c3a368638a3f8f27",
+            "name": "Chiaki J. Konaka",
+            "gender": 2,
+            "profile_path": "/lyRgqahJntO4vt861ZG9zM5rZsh.jpg"
+        },
+        {
+            "id": 2218468,
+            "credit_id": "5c3e63b50e0a260fe690039c",
+            "name": "Yuuji Sakamoto",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2006-01-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://lineup.toei-anim.co.jp/ja/tv/ayakashi/",
+    "id": 42963,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-24",
+    "last_episode_to_air": {
+        "air_date": "2006-03-24",
+        "episode_number": 11,
+        "id": 884108,
+        "name": "Bakeneko - Part 3",
+        "overview": "In his youth, the head of family had kidnapped a sacrificial maiden, keeping her locked away in a basement prison to be raped and abused at his leisure. Her only companionship was a young cat which she secretly raised with the food she was given, hoping it would one day escape where she could not. One day the head of family's elder son was caught raping her, after which the head beat her to the point of death as punishment. The cat attacked him to protect her, then escaped as she died; its regret from being unable to protect her combined with her sorrow, eventually turning it into a demon. Having finally realized the shape, truth, and reasoning of the demon, the medicine peddler unsheathes his sword, which in reality releases his true spirit-nature from the human shell it is bound within, allowing him to exorcise the bakeneko's grief and release it from its vengeance. In the end, only the two blameless retainers, Kayo and a young samurai, are left to be saved.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bqXT7pHe5aaQZiDcJzZBZuaYX4k.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ayakashi: Samurai Horror Tales",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "怪~ayakashi~ Japanese Classic Horror",
+    "overview": "A collection of three classic Japanese horror stories: \"Yotsuya Ghost Story\", the story of a wife betrayed by her husband who seeks vengeance even in death. \"The Legend of Tenshu\", the story of forbidden love between a goddess and a human, and \"Bakeneko\", the story of a mysterious cat monster with a vendetta against a certain family.",
+    "popularity": 8.274,
+    "poster_path": "/kkqPHs1yeXgeV13Pg874FgeTIxz.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-01-13",
+            "episode_count": 11,
+            "id": 52451,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/477v6Q5l5qiHSvutwCl7zoTOBtb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

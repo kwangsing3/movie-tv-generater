@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/3Ak9i3TnYutjvNjJTtX3RXdCu3i.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.bs-sptv.com/gurazeni/",
+    "id": 78470,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-21",
+    "last_episode_to_air": {
+        "air_date": "2018-12-21",
+        "episode_number": 12,
+        "id": 1610823,
+        "name": "Contract Renewals Part Two",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/6WPxisEfzpFn8SvKbRoESVQ1Xk6.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gurazeni: Money Pitch",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS SKY PerfecTV!",
+            "id": 1164,
+            "logo_path": "/wfxB8kafLxymA4Gn4fJXV4Abonq.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "グラゼニ",
+    "overview": "This is the story of Natsunosuke Honda, a pro baseball player—a relief pitcher who has been playing pro in a team called Spiders for 8 years. The team operates as a highly-stratified society, where the player's performance determines his annual salary. Natsunosuke is one of the highest paid players in the game. He measures how good players are by how much money they make, and he intends to be on top and stay there, and as such is always looking for players to challenge and does everything to insure that he is better than they are.",
+    "popularity": 4.822,
+    "poster_path": "/8CKMZ1khVPM61nBoVQQS5S7zpp0.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-06",
+            "episode_count": 12,
+            "id": 101728,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8Cgr8CkjHAOAH6jarJyEm0U1PPS.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-10-05",
+            "episode_count": 12,
+            "id": 111940,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/6pzF9RRTmNyNgFTbP4x1nBImaX.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": "/iANTR1GcSmkASBJ6UUt3UsHUaXh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2019-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://ekodachan.com/",
+    "id": 83117,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-02-20",
+    "last_episode_to_air": {
+        "air_date": "2019-02-20",
+        "episode_number": 12,
+        "id": 1725577,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rinshi!! Ekoda-chan",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "臨死!!江古田ちゃん",
+    "overview": "Ekoda-chan is from the countryside, living alone in the city. She's a temp worker and a strong, carefree soul, with no solid plan for the future, who doesn't care much about guys. She talks about how she lives her life and provides support to all those women trying to survive in the real life society.",
+    "popularity": 5.585,
+    "poster_path": "/pF7sm6tTg3dwusKfebPhcAWDyZl.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-09",
+            "episode_count": 12,
+            "id": 110890,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yiX5qkjc2OljX5zLRApUvoy8cI3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

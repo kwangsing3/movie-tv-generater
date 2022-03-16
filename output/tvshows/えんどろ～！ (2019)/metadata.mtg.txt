@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/jAm1E49a1n7yc5L1jpTxpH28MrF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-01-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.endro.jp/",
+    "id": 84667,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-31",
+    "last_episode_to_air": {
+        "air_date": "2019-03-31",
+        "episode_number": 12,
+        "id": 1660186,
+        "name": "After the End Roll...",
+        "overview": "The resurrected Demon Lord finally appeared before Yusha, Seira, Fai, and Mei, so the four set out for Demon Lord Castle to save their kidnapped friend. However, during their travels, the young girls learned the truth about the Demon Lord. Demon Lord or friend? The four girls set forth, still deliberating over that unanswered question, together with the precious companions they knew they could trust no matter. And as the curtain drew on their final battle -- (Excerpt from \"Legend of the Hero, Yusha - Final Chapter: I Love Everyone!-\")",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/osKFt7oZDlNDTn66PalRP26Yvek.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Endro!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "えんどろ～！",
+    "overview": "Naral Island, a continent with swords and magic in which humans and monsters coexist. The terrible Demon King lives there. In ancient times, the first-generation hero defeated the Demon King. Over the many successive generations since then, the Demon King has been resurrected, and the hero who opposes him has likewise reappeared. Girls attend a school for adventurers in order to defeat the Demon King when he appears again.\n\nThough a bit absent-minded, Yusha has the body of a hero. The holy elf Seyla's trouble never ends because she is too serious. The cheerful warrior Fai loves to eat. Mei is a quiet otaku magician. As the four girls aim to be in the hero party, they live relaxed fantasy lives and show no sign of defeating the Demon King no matter how much time passes.",
+    "popularity": 8.934,
+    "poster_path": "/2X8iOGsSZ3lceTpfDp3dIfZWLJG.jpg",
+    "production_companies": [
+        {
+            "id": 25504,
+            "logo_path": null,
+            "name": "Studio Gokumi",
+            "origin_country": "JP"
+        },
+        {
+            "id": 35971,
+            "logo_path": "/5q5P83YiDQa34FgGd2Wtw7aWBnr.png",
+            "name": "Graphinica",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-13",
+            "episode_count": 12,
+            "id": 113773,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6wBVCWZ4Eq0uF4eNZMWXWDsynMg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 9
+}

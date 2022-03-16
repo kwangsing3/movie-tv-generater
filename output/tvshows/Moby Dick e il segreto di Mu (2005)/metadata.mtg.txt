@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2005-04-16",
+    "genres": [],
+    "homepage": "",
+    "id": 155280,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2005-10-08",
+    "last_episode_to_air": {
+        "air_date": "2005-10-08",
+        "episode_number": 26,
+        "id": 3439503,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Moby Dick e il segreto di Mu",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Rai 2",
+            "id": 236,
+            "logo_path": "/ar0fBQkxzbBYe4S8zEGnrfZNBnm.png",
+            "origin_country": "IT"
+        },
+        {
+            "name": "TF1",
+            "id": 290,
+            "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_name": "Moby Dick e il segreto di Mu",
+    "overview": "",
+    "popularity": 0.623,
+    "poster_path": "/hXTnUVKVRDmnCmeekz1GFbiUNaj.jpg",
+    "production_companies": [
+        {
+            "id": 31374,
+            "logo_path": "/fpTYf7mYfJUlPJ4SUKIxho9r6X8.png",
+            "name": "LuxAnimation",
+            "origin_country": "LU"
+        },
+        {
+            "id": 19848,
+            "logo_path": null,
+            "name": "Carrère Groupe",
+            "origin_country": ""
+        },
+        {
+            "id": 22123,
+            "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+            "name": "TF1",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-04-16",
+            "episode_count": 26,
+            "id": 239326,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

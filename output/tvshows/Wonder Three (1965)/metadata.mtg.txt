@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/oxsmdfumZzHkBlqYo1YcmV6FinV.jpg",
+    "created_by": [
+        {
+            "id": 58160,
+            "credit_id": "5ea764f3b76cbb0021e3f286",
+            "name": "Osamu Tezuka",
+            "gender": 2,
+            "profile_path": "/4xOgZySBani7h7xkFwK4Rf0MqNg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1965-06-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 22594,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "1966-06-27",
+    "last_episode_to_air": {
+        "air_date": "1966-06-27",
+        "episode_number": 52,
+        "id": 613645,
+        "name": "Goodbye, Amazing 3",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Wonder Three",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Nine Network",
+            "id": 66,
+            "logo_path": "/pXibAQSgIIanNkSg68dUooI7IGU.png",
+            "origin_country": "AU"
+        },
+        {
+            "name": "Nickelodeon",
+            "id": 286,
+            "logo_path": "/aYkLXz4dxHgOrFNH7Jv7Cpy56Ms.png",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "Wonder Three",
+    "overview": "The Galactic Federation is concerned about the number of wars on the Planet Earth. It sends three agents to determine if the planet is a potential threat to the universe, and whether it should be destroyed. The instrument of destruction is a device resembling a large black ball with two antennae that is variously called an anti-proton bomb, a solar bomb, and a neutron bomb. The agents (Captain Bokko, Nokko, and Pukko) are originally humanoid in appearance, but upon arrival on Earth they take on the appearances of a rabbit (Bokko), a horse (Nokko), and a duck (Pukko) that they had captured as examples of Earth life forms. While on Earth they travel in a tire-shaped vehicle capable of enormous speeds called the Big Wheel, which can travel on both land and water (and, with modifications, through the air)",
+    "popularity": 1.96,
+    "poster_path": "/oqLjdejMqLwLjWR087OYkItPJkk.jpg",
+    "production_companies": [
+        {
+            "id": 20327,
+            "logo_path": null,
+            "name": "Mushi Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1965-06-06",
+            "episode_count": 52,
+            "id": 32540,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

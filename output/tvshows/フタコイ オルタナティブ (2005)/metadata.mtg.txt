@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/izX9VC2RuKV7N2u2qSgNqtCtqjO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 34787,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-06-30",
+    "last_episode_to_air": {
+        "air_date": "2005-06-30",
+        "episode_number": 13,
+        "id": 792295,
+        "name": "We Want to Be Three",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Futakoi Alternative",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "フタコイ オルタナティブ",
+    "overview": "Futakoi Alternative is a Japanese anime series by ufotable. The series ran for 13 episodes from 7 April 2005 to 30 June 2005. The show features many of the characters from the original Futakoi, though the story and settings are completely different. A manga adaptation of the show is illustrated by Kanao Araki.",
+    "popularity": 8.397,
+    "poster_path": "/hIRtNwJB1HDoGXBrhyj5TduOT6p.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-04-07",
+            "episode_count": 13,
+            "id": 45565,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zD9migt1tM0DS03rtYTtYV3gVQ1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 3
+}

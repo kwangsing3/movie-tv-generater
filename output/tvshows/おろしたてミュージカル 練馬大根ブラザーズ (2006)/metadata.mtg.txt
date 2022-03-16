@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2006-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.ndbrothers.com",
+    "id": 26868,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-27",
+    "last_episode_to_air": {
+        "air_date": "2006-03-27",
+        "episode_number": 12,
+        "id": 677687,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nerima Daikon Brothers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おろしたてミュージカル 練馬大根ブラザーズ",
+    "overview": "What's a band to do with no fame and especially no sold-out arena to perform in? How can they grab the cash they need to build the Concert Dome of their DREAMS?! Well they can't. But the NERIMA DAIKON BROTHERS sure as hell are going to try! WATCH as Hideki Ichiro and Mako (yeah one of them's a chick!) farm daikon by day and battle slimy record producers, pachinko-mad hags, monstrous nurses, flatulent hospital administrators and hot police babes by night. LISTEN as the band AND the evil villains sing hilarious songs all along the bumpy daikon-studded road! TUNE IN AND SEE!!! (What's daikon? Is it a vegetable? Is it a fruit? A weapon? A girl's best friend? All of the above?! )",
+    "popularity": 2.492,
+    "poster_path": "/dbdAvDmXyqcbteh0WU32FTqqNZx.jpg",
+    "production_companies": [
+        {
+            "id": 78802,
+            "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+            "name": "Studio Hibari",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-01-09",
+            "episode_count": 12,
+            "id": 37543,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 2
+}

@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/4RNJAAVpU2bzDVumQMvR1W7jYxW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-07-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.lovelive-anime.jp/yuigaoka/",
+    "id": 106055,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-10-17",
+    "last_episode_to_air": {
+        "air_date": "2021-10-17",
+        "episode_number": 12,
+        "id": 3071561,
+        "name": "Song for All",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/n9Kbf05kWUQOtOB5lkAbju3px1w.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love Live! Superstar!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK Educational TV",
+            "id": 622,
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラブライブ！スーパースター!!",
+    "overview": "Yuigaoka Girls High School is a newly established school that lies between the Omotesando, Harajuku, and Aoyama neighborhoods of Tokyo. The story centers on its first batch of students. With no history, no upperclassmen or alumni, and no reputation, it is a school full of unknowns.\n\nFive girls, among them Kanon Shibuya, have a fateful encounter with school idols. Kanon decides, \"I love singing. I want to make something come true with song!\" Many feelings converge upon a star that has only started to grow. The future is blank and full of possibility for these girls, and their story that everyone will make possible has only just begun. Soar with your wings, our Love Live!",
+    "popularity": 23.088,
+    "poster_path": "/gFs2oxAjyzMu7Bx9mUJKeW3K4ym.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-05-06",
+            "episode_count": 20,
+            "id": 245864,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/8AcwEtVkt8YiiWkRYOZGqDopJtK.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-07-11",
+            "episode_count": 12,
+            "id": 156540,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gFs2oxAjyzMu7Bx9mUJKeW3K4ym.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 5
+}

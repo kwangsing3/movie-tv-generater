@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/xuXjzBH81fSAAOXVOBHaJQ60npJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 4200000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.tekkon.net/",
+    "id": 13754,
+    "imdb_id": "tt0831888",
+    "original_language": "ja",
+    "original_title": "鉄コン筋クリート",
+    "overview": "Two penniless orphans, Black and White, struggle to survive on the mean streets of Treasure Town. When a megacorporation threatens to tear down the town to build an amusement park, Black and White engage in the fight of their life.",
+    "popularity": 22.527,
+    "poster_path": "/e2x1YDuZPpQiaQS25Ego7xMZYOI.jpg",
+    "production_companies": [
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3033,
+            "logo_path": "/AwgX2FHGJd54aSWfWJqptFvT1h.png",
+            "name": "Asmik Ace",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9149,
+            "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+            "name": "Shogakukan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11671,
+            "logo_path": "/iRdYQdn1eunwV3qAs6RK5Mqwn8Z.png",
+            "name": "Studio 4°C",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2006-10-21",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tekkonkinkreet",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 264
+}

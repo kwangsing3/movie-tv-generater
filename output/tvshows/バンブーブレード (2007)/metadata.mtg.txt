@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/5MU1jMenGi8jONpBoI72iCdsj5P.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2007-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.funimation.com/shows/bamboo-blade/home",
+    "id": 24458,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-04-01",
+    "last_episode_to_air": {
+        "air_date": "2008-04-01",
+        "episode_number": 26,
+        "id": 642165,
+        "name": "Present and Future",
+        "overview": "It is a new year and several months have passed since the National competition. Two freshmen show up to join the club. The members one by one appear trying to convince them to join the club only to perform sideshow tricks leaving the freshmen unimpressed. The club later have a sparring match which causes the freshmen to become enthusiastic about joining the club. Its later revealed that these two new members are the siblings of the previous members that quit. Kojiro returns back to school having settled the problem with the old lady that forced him to leave. At the very end of the episode Tama-chan encounters a long purple haired woman with blue eyes, hinting that Bamboo Blade may have another season to come. ",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/pI1fQlMDkrPvECaludGpbeqrmly.jpg",
+        "vote_average": 10,
+        "vote_count": 2
+    },
+    "name": "Bamboo Blade",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バンブーブレード",
+    "overview": "It didn’t take long for pint-sized Tamaki’s lightning reflexes to catch the eye of starving Kendo instructor Toraji. This second-rate sensei is an embarrassment to the sport, and his Kendo club is running out of members. His only hope for redemption – and a full belly – is to get Tamaki to sign-on as his star pupil. Unfortunately, this sword-wielding prodigy is a serious anime addict, so it’ll be a challenge to get her to step away from the television and into the dojo. But once she feels like a part of the team, Tamaki will put down the remote and pick up her sword as Toraji turns his girls into a fearsome sisterhood of the bamboo blade!",
+    "popularity": 7.37,
+    "poster_path": "/smMmhAW1lZO66yjsywiMmK7vEEW.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-10-02",
+            "episode_count": 26,
+            "id": 34645,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 11
+}

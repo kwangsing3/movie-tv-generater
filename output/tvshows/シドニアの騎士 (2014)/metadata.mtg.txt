@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/1pR5RnM0SCenDtH5ob8vl1LS3to.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-04-11",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.knightsofsidonia.com",
+    "id": 60831,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-27",
+    "last_episode_to_air": {
+        "air_date": "2015-06-27",
+        "episode_number": 12,
+        "id": 1209465,
+        "name": "Battle",
+        "overview": "Nagate rescues Tsumugi but is overpowered by the Crimson Hawk Moth. The situation looks grim as swarms of gauna bear down on the survivors.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/8XUpDrls4Gv6hEwHxcDsWZfNbIU.jpg",
+        "vote_average": 6,
+        "vote_count": 3
+    },
+    "name": "Knights of Sidonia",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シドニアの騎士",
+    "overview": "An alien race called Gauna has destroyed Earth. leaving humanity struggling to survive aboard the spaceship Sidonia. Even though it’s been a century since the last encounter with the Gauna, military service is mandatory. For Nagate Tanikaze, whose grandfather secretly hid him in the forgotten bowels of Sidonia, it’s a strange new world as he’s forced to come to the surface. Yet his recruitment comes just in time, for the Gauna have suddenly reappeared.",
+    "popularity": 32.566,
+    "poster_path": "/4XievuWijy0V9IoB1Hkn2gCEZK5.jpg",
+    "production_companies": [
+        {
+            "id": 20024,
+            "logo_path": "/fLc5F7K5zsXsSNSFFsbKrZXAga7.png",
+            "name": "Polygon Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-11",
+            "episode_count": 12,
+            "id": 60831,
+            "name": "Knights of Sidonia",
+            "overview": "",
+            "poster_path": "/mLDGDj8K05CebACWl08f9T5w7wR.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2015-04-11",
+            "episode_count": 12,
+            "id": 65480,
+            "name": "Knights of Sidonia: Battle for Planet Nine",
+            "overview": "",
+            "poster_path": "/yFnk9cjCN71j10yzeX8qdWKPtdk.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 71
+}

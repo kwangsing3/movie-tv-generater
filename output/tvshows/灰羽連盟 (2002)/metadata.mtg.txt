@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/sC7DcOOWmQ2WNEVDjLY0t8rEwqS.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2002-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.nbcuni.co.jp/rondorobe/anime/haibane/",
+    "id": 34164,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-12-18",
+    "last_episode_to_air": {
+        "air_date": "2002-12-18",
+        "episode_number": 13,
+        "id": 784291,
+        "name": "Reki's World / Prayer / Epilogue",
+        "overview": "Rakka discovers that Reki's entire studio is painted like her cocoon dream. She gives Reki a box from the Communicator, containing her true name, which fills Reki with despair. She throws Rakka out of the room, confronts a manifestation of herself, and relives her dream. Rakka realizes the truth about Reki's struggle and goes back to save her.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mHC14X3wKTHPppk00WRebdDXAu3.jpg",
+        "vote_average": 9,
+        "vote_count": 2
+    },
+    "name": "Haibane Renmei",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "灰羽連盟",
+    "overview": "A dream of falling from the sky...and then birth. Rakka is born from a large cocoon into the Old Home, greeted by a group of females with small wings on their backs and shining halos above their heads. Soon Rakka’s own wings grow, a halo is placed on her head and she is told that she must work in the nearby town of Grie. She soon realizes that the town and the entire world they live in are confined behind the Wall, a tall, impenetrable wall that none except the mysterious Toga are allowed to exit.",
+    "popularity": 14.657,
+    "poster_path": "/uSrIXnPIUkapk0JwMldDZTusl5O.jpg",
+    "production_companies": [
+        {
+            "id": 81988,
+            "logo_path": null,
+            "name": "Rondo Robe",
+            "origin_country": ""
+        },
+        {
+            "id": 3362,
+            "logo_path": null,
+            "name": "Geneon Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 34894,
+            "logo_path": null,
+            "name": "Radix Ace Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-10-09",
+            "episode_count": 13,
+            "id": 45003,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uY4CC2Z1VcqoYQ3sEWLmSAHiFD9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 45
+}

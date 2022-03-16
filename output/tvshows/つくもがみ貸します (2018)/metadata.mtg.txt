@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/7BuXqmbkj8b8dmg8Iya8p3HZtV3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2018-07-19",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://tsukumogami.jp/",
+    "id": 80448,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-10-15",
+    "last_episode_to_air": {
+        "air_date": "2018-10-15",
+        "episode_number": 12,
+        "id": 1528093,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lVKQz9Qz7HL0pIX2vpBlZWDH9HW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "We Rent Tsukumogami",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK G\t",
+            "id": 469,
+            "logo_path": "/bH9mwMa64tQeVhmTmkC8Qn9Eoe.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "つくもがみ貸します",
+    "overview": "The series is set during the Edo period, in the Fukagawa ward of old Edo (present-day Tokyo). Because the area is prone to fire and flooding, residents rent everyday items like pots, futons, and clothing from shops instead of purchasing them, so as not to impede them when they flee. Obeni and Seiji, an older sister and younger brother, run one such rental shop called Izumoya. However, mixed in with their inventory are tsukumogami, objects that have turned into spirits after a hundred years of existence. The siblings sometimes lend these sentient items to customers. Both Obeni and Seiji can see and talk to these spirits, and other tsukumogami often come to the store after hearing of the famed siblings.",
+    "popularity": 7.839,
+    "poster_path": "/w6k6UnWMvSWJmTcuGznCr8fG05M.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-19",
+            "episode_count": 12,
+            "id": 105613,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/to1JtHa3MdiiA5qSzKqKLprSkXG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 2
+}

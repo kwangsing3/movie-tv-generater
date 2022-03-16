@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/kWmMpYtfrflLoElevbtpQxsz5M6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        7
+    ],
+    "first_air_date": "2021-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kurogal.cf-anime.com/",
+    "id": 118588,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-05-24",
+    "last_episode_to_air": {
+        "air_date": "2021-05-24",
+        "episode_number": 8,
+        "id": 2854155,
+        "name": "I'll Do It Till the End",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/iCnYmUXXNNdW5KVMLgrGkE3AezH.jpg",
+        "vote_average": 1,
+        "vote_count": 1
+    },
+    "name": "Kuro Gal ni Natta kara Shinyuu to shitemita.",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AnimeFesta",
+            "id": 2616,
+            "logo_path": "/sftM39QJNGFPEXLGOvakDCz0kSv.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "黒ギャルになったから親友としてみた。",
+    "overview": "Shion and Rui are the dream team when it comes to hitting on women. Tonight was going to be another night of hooking up with girls for Shion, but he ended up taking a strange drug. When he woke up... he'd turned into a girl?! Rui came looking for Shion, but didn't recognize him, and started hitting on him...",
+    "popularity": 77.254,
+    "poster_path": "/faFXOj5nfVwn12vq0eUqkD42Cas.jpg",
+    "production_companies": [
+        {
+            "id": 149138,
+            "logo_path": null,
+            "name": "Irawiazu",
+            "origin_country": ""
+        },
+        {
+            "id": 149421,
+            "logo_path": "/6UqbB0NLRWEIaCKsd5YkOigJgXb.png",
+            "name": "Suiseisha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-05",
+            "episode_count": 8,
+            "id": 180995,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/faFXOj5nfVwn12vq0eUqkD42Cas.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 7
+}

@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1994-05-27",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 45508,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1994-11-25",
+    "last_episode_to_air": {
+        "air_date": "1994-11-25",
+        "episode_number": 4,
+        "id": 902997,
+        "name": "Shred Shred Crumble Crumble - There Are Many Different Ways of Winning!",
+        "overview": "As the show opens, news helicopters are flitting around the giant, monolithic Gate, and a reporter's frantic voice can be heard trying to describe its impact to viewers. Futilely, he tries to speculate on the origin of the Gate, but is abruptly cut off when a flying Remnant gets too close and destroys the helicopter. On the ground, people stare in awe, overwhelmed by a feeling of helplessness. Exhausted, Hazumi struggles to climb up the side of the Gate. \"Wait for me, Takumi! Don't die!\" she screams.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zndH9ZXIaLmqwAHpTkh2dzPZxMG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bakuen Campus Guardress",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "爆炎CAMPUSガードレス",
+    "overview": "Long ago, the gate to the world of darkness was sealed. Now evil warriors, known as Remnants, are trying to reopen the gate and let demons take over the world. However, at Tobira High School, there exist guardians of the gate who must risk their lives to prevent the gate from being opened.",
+    "popularity": 1.177,
+    "poster_path": "/4OTkol9zqaqE4tOF60hTwyNU9SX.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-05-27",
+            "episode_count": 4,
+            "id": 54143,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8,
+    "vote_count": 1
+}

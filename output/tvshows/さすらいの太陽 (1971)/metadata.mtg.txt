@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/agWHq2f6tc4kAw5xk30MDnUMc6S.jpg",
+    "created_by": [
+        {
+            "id": 1112102,
+            "credit_id": "61e795b90835470096b280ce",
+            "name": "Keisuke Fujikawa",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1341840,
+            "credit_id": "5ffa2c817d5db5003f491442",
+            "name": "Chikao Katsui",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3092157,
+            "credit_id": "61e795bf9ac53500b9233b70",
+            "name": "Mayumi Suzuki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1971-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "http://www.mushi-pro.co.jp/2010/09/さすらいの太陽/",
+    "id": 20237,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1971-09-30",
+    "last_episode_to_air": {
+        "air_date": "1971-09-30",
+        "episode_number": 26,
+        "id": 2626493,
+        "name": "Friendship Song From the Heart",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nozomi in the Sun",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "さすらいの太陽",
+    "overview": "Two baby girls were born in the same hospital: one of them is the daughter of an aristocratic family while the other belongs to a deprived household which lives in the slums of the city. However, the nurse-in-charge, Michiko, secretly switches the two babies due to a personal grudge, resulting in a change of fates of the girls from then on. Many years later, the lives of the two girls continue to be intertwined with each other, with the rich Miki ill-treating the poor Nozomi, yet both of them hold similar dreams to become a singer.",
+    "popularity": 2.717,
+    "poster_path": "/r4rjG9fFZOzQlE28TPVKuXT2VIg.jpg",
+    "production_companies": [
+        {
+            "id": 20327,
+            "logo_path": null,
+            "name": "Mushi Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1971-04-08",
+            "episode_count": 26,
+            "id": 81454,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2
+}

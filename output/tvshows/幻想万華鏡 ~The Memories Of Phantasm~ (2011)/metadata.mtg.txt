@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/dZ2qIxWGnfcGwvxINJp3jAPA2a1.jpg",
+    "created_by": [
+        {
+            "id": 2174119,
+            "credit_id": "5be9bdc10e0a263c0604320e",
+            "name": "Manpuku Jinja",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2011-08-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://manpukujinja.blog135.fc2.com/",
+    "id": 83958,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-04-28",
+    "last_episode_to_air": {
+        "air_date": "2021-04-28",
+        "episode_number": 16,
+        "id": 3329065,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fantasy Kaleidoscope ~The Memories of Phantasm~",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "幻想万華鏡 ~The Memories Of Phantasm~",
+    "overview": "A fan made adaption of the Touhou video game series created by  Manpuku Jinja with music by Yuuhei Satellite.",
+    "popularity": 5.135,
+    "poster_path": "/xAEMapxNlHa31yvOymr5Yc6iQ5R.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-11-24",
+            "episode_count": 3,
+            "id": 146914,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/jHoUdNRP95wErGNpyzydBkgCVmH.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-08-12",
+            "episode_count": 16,
+            "id": 112473,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pmfIrPdhZIHPyX0CHuVLTzGZJ8y.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

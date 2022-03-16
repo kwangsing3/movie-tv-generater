@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1997-12-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 44938,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-05-21",
+    "last_episode_to_air": {
+        "air_date": "1998-05-21",
+        "episode_number": 3,
+        "id": 895984,
+        "name": "The Terrifying Fitness Brothers Trio",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Detatoko Princess",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "でたとこプリンセス",
+    "overview": "After a prank gone wrong, Princess Lapis must undergo a long journey back home to the Diamond Palace. With her for this adventure are a young sprite, a directionally challenged immortal, and her math tutor. Armed with the powerful magic eraser, and an unmatched love of pudding, Lapis continues forth righting the injustices of the world and defeating magical foes.",
+    "popularity": 1.929,
+    "poster_path": "/qZVyAdYSThBJi0Cb3MPFIIlYaWS.jpg",
+    "production_companies": [
+        {
+            "id": 11725,
+            "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+            "name": "VAP",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1997-12-01",
+            "episode_count": 3,
+            "id": 53668,
+            "name": "Suddenly Princess",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 9,
+    "vote_count": 1
+}

@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/yrWJ1ZGSIQAVNXkMgEUX8e5qtMB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        51
+    ],
+    "first_air_date": "1992-04-22",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 43782,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1993-04-28",
+    "last_episode_to_air": {
+        "air_date": "1993-04-28",
+        "episode_number": 3,
+        "id": 2059283,
+        "name": "Stage 3",
+        "overview": "Sakuya is captured by the diabolical General, who plans to use her to dominate the world—or destroy it in the attempt! Can Ital, Sahari, Fayk and Zaxon the amnesiac War-roid rescue Sakuya, defeat the General, and save Gaiarth from a fate worse than Armageddon?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/llnUGGz4GpholwdQZ9Otp1SRTKH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Genesis Survivor Gaiarth",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "創世機士ガイアース",
+    "overview": "In a post-apocalyptic future, Ital Del Labard sets out to avenge the death of Randis R. Khiezard. Along the way he teams up with a war-roid called Zaxon, and junk-hunter, Sahari.",
+    "popularity": 2.338,
+    "poster_path": "/4kZmAqdvUW3rgBjVexcRUi4e0Es.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1992-04-22",
+            "episode_count": 3,
+            "id": 141673,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lqcPO6uBotJufsdMhSTVIniY5fk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 9.5,
+    "vote_count": 2
+}

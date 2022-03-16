@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/88Rd5sdhAVJuG9H7eTA4nqddz4t.jpg",
+    "created_by": [
+        {
+            "id": 1255673,
+            "credit_id": "525961bd760ee3466196dc5b",
+            "name": "Masami Kurumada",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1986-10-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 42444,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1989-04-01",
+    "last_episode_to_air": {
+        "air_date": "1989-04-01",
+        "episode_number": 114,
+        "id": 1531211,
+        "name": "Shine, Stars of Friendship! Legend of Youth",
+        "overview": "Seiya, Hyoga and Shiryu combine their techniques and Cosmo, knocking down Poseidon. Shiryu tries to destroy the Main Breadwinner with the Golden Shield, but it flies back to him, with the pillar unscathed. Meanwhile, Ikki is mercilessly attacked by Kanon, angry that his ambitions are crushed. Sorrento tries to kill Kanon with his melody, but Ikki asks to talk to Kanon, about the one thing used to seal Poseidon's soul: Athena's urn. Seiya and his friends are unable to destroy the pillar with Libra's weapons. Seiya asks his friends to launch his body with their ...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/twXR5htF9n8Z8eskIJlK9xsR7Wx.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Saint Seiya",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 114,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "聖闘士星矢",
+    "overview": "Ages ago, the goddess Athena was served by fighters called Saints who channeled the power of the Cosmos within them. Now a youth named Seiya has trained to become a Saint himself by earning the mystical Cloth of Pegasus. He is joined by other Saints with Cloths of their own to fight for Athena.",
+    "popularity": 140.793,
+    "poster_path": "/dhtiYYbob8saEUFWle3aWgVY28M.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1986-10-11",
+            "episode_count": 114,
+            "id": 65042,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dnwkiZIKhAjDTMBi2tv10cmACX3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 827
+}

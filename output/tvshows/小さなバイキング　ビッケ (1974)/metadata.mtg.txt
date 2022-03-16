@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/ljtQfw7ujk4rtGKr7cNpsObDNTc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "1974-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 35257,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1975-09-24",
+    "last_episode_to_air": {
+        "air_date": "1975-09-24",
+        "episode_number": 78,
+        "id": 799151,
+        "name": "Gold From Denmark",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jaBK2YxdRIuh1Q4vjB5g1R4wvUK.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Vicky the Viking",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 78,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "小さなバイキング　ビッケ",
+    "overview": "Vicky is the only son of Halvar, the formidable viking chief. Vicky renounces violence but nevertheless he is able to convince the seasoned viking warriors to take him along on their voyages. In dangerous situations, where their bravery and force are not quite enough to master the situation, the wild-eyed warriors learn to rely on Vicky's cleverness.",
+    "popularity": 23.387,
+    "poster_path": "/2uBkN57xKW8Q2GtuTTXwV17bgZ2.jpg",
+    "production_companies": [
+        {
+            "id": 71443,
+            "logo_path": null,
+            "name": "Zuiyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1974-04-03",
+            "episode_count": 78,
+            "id": 45997,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1Iy8Ji6T0x293cSaLXL8gYyCD9Z.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 22
+}

@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/90IIfsG43KMxQuWrOha514SuBZ9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://isekai-shokudo.com",
+    "id": 72425,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-18",
+    "last_episode_to_air": {
+        "air_date": "2021-12-18",
+        "episode_number": 12,
+        "id": 3256364,
+        "name": "Pork Loin Cutlet / Buffet",
+        "overview": "Preparations are underway at Nekoya to celebrate the marriage of Adelheid and Shareef. Even the master is fired up to show off his skills. Just then, a mysterious old woman enters Nekoya. Artorius and the master seem to be acquainted with her...\n\nRegulars of many races and nationalities gather at Nekoya. The unusual encounters that unfold there all start with delicious cuisine. In this precious place, a joyous party to celebrate the joining of two precious friends begins.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/7r8Ws6DYCJETUFDFp6CV46CUCLI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Restaurant to Another World",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "異世界食堂",
+    "overview": "Western Restaurant Nekoya is a popular eatery located on a street corner in a Tokyo shopping district. Serving both traditional Japanese fare as well as Western dishes, this eating establishment is popular among Tokyo's residents. But this seemingly ordinary restaurant is also popular with another type of clientele...\n\nWhile the restaurant is thought to be closed on Saturdays, the truth is that on this special day each week, its doors are instead opened to the inhabitants of other worlds. From dragons and elves to fairies and mages, this restaurant has no shortage of strange customers. Nevertheless, the enigmatic chef known only as \"Master\" will be waiting to serve up their favorite dishes with a kind smile and keep them coming back for many more Saturdays to come.",
+    "popularity": 36.574,
+    "poster_path": "/g3Um55vfwHDPxvo6jmOr1zDLbDz.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-04",
+            "episode_count": 12,
+            "id": 89674,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hEEAOdupYmnS338xjQd38TwdQrR.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-10-02",
+            "episode_count": 12,
+            "id": 201851,
+            "name": "Season 2",
+            "overview": "The Western Restaurant Nekoya welcomes you for another course in Restaurant to Another World 2!",
+            "poster_path": "/3dpA80zJR2AYNxVQx1NPm3BESHC.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 25
+}

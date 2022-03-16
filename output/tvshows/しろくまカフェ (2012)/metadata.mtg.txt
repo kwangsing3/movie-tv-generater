@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/lYY4agwtIcWOeUWliWujFYR5fbA.jpg",
+    "created_by": [
+        {
+            "id": 1347900,
+            "credit_id": "61fd316207216600999c6478",
+            "name": "Aloha Higa",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/shirokumacafe/top.html",
+    "id": 45856,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-03-28",
+    "last_episode_to_air": {
+        "air_date": "2013-03-28",
+        "episode_number": 102,
+        "id": 2550174,
+        "name": "Cherry Blossom Viewing in Spring",
+        "overview": "Polar Bear becomes downhearted when Penguin expresses interest in moving house, though feels relieved once he hears he just intends to renew his apartment lease. Afterwards, everyone gathers around to have a cherry blossom viewing party, looking back on the year they've spent together.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Polar Bear Cafe",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 102,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "しろくまカフェ",
+    "overview": "Pushed by his mother to stop lazing around the house, a Panda searches for a part-time job but has troubling finding one to accommodate his laziness. He soon stumbles upon the Shirokuma Cafe, run by a Polar Bear who is holding interviews for a part-time position with his faithful customer Penguin. Panda applies for the job but fails the interview, with the job instead going to a human girl named Sasako. However, the others soon point Panda towards a part-time job at a nearby zoo.",
+    "popularity": 9.015,
+    "poster_path": "/2PGmcv4extxerC7QezoXCVhYpMe.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-05",
+            "episode_count": 102,
+            "id": 171476,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kG8eRCrw4OxZ3PHDSmtxkRL8LDB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 6
+}

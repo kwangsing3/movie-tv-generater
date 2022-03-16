@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/sr9Dyg8UuZKZMLHb9GEy46HiCxV.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2012-10-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.funimation.com/shows/roboticsnotes/home",
+    "id": 46435,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-03-22",
+    "last_episode_to_air": {
+        "air_date": "2013-03-22",
+        "episode_number": 22,
+        "id": 909765,
+        "name": "This is Our Game Now",
+        "overview": "Kaito arrives before Misaki, with the others helping to divert the missiles she fires using AR decoys, although Kaito is forced to use the Slow-Mo and sacrifice one of his pile bunkers to dodge the last one. Kaito manages to get up close to Misaki's Sumeragi and use the Slow-Mo to attack her with the other pile bunker. However, this knocks Misaki out and allows Kimijima to take full control of her as he divides the Sumeragi into a more mobile unit. After locking down the launch sequence, despite Nao and the other adults reclaming the control room, Kimijima launches an attack at the others forcing them to seperate, which leaves the Super Gunbuild-1 with only five minutes of power. Just then, Kona receives a program from Sawada that will erase Kimijima if they can get his avatar in the PokeCom's view, although it requires a reboot which leaves Kaito vulnerable.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/n3HOzz9KUHd86U16tBCY8hnIH0h.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Robotics;Notes",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ロボティクス・ノーツ",
+    "overview": "In 2019, Kaito Yashio and Akiho Senomiya are the sole members of the Robotics Club at Central Tanegashima High School in Kyushu, Japan. Kaito is a laid back student and a skilled gamer who is just trying to help Akiho, his childhood friend. She is an energetic positive-thinking girl who yearns to complete the ongoing project of the club: building a functional replica of Gunvarrel, the main robot of a once popular TV series. As they gather new members and try to assemble the robot, Kaito starts stumbling upon secret reports that might reveal a conspiracy of large proportions. Unaware of what he is actually dealing with, Kaito little by little starts discovering clues laid by the mysterious Ko Kimijima.",
+    "popularity": 6.535,
+    "poster_path": "/fsKS4puyVlrbuswHRl2RBBsDwgc.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-04-08",
+            "episode_count": 1,
+            "id": 54673,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-10-12",
+            "episode_count": 22,
+            "id": 54674,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mTyHWhSg86Y7ENP2HSwKRAQT2Ig.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 7
+}

@@ -1,0 +1,135 @@
+{
+    "adult": false,
+    "backdrop_path": "/23DZWcwcGYpdAPXPLc6TzYtxhZG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-09",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://ange-vierge-anime.com/",
+    "id": 67054,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-24",
+    "last_episode_to_air": {
+        "air_date": "2016-09-24",
+        "episode_number": 12,
+        "id": 1223611,
+        "name": "I Will Evolve with You",
+        "overview": "In a final effort to save the worlds, Saya seeks to reconnect with Amane through a fault detected in the process used to imprison the alpha drivers.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qFnc9qTPBJFVlcmZDU6Pc8aV6Pg.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ange Vierge",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS Fuji",
+            "id": 1136,
+            "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アンジュ・ヴィエルジュ",
+    "overview": "The story of the card game follows what happens when \"Hairou\" portals suddenly open, fusing five different worlds together. As a result, various mysterious \"Exceed\" powers are awakened in teenaged girls. An academy for these so-called \"Progress\" girls is built on the isolated Seiran Island in the Pacific.",
+    "popularity": 12.442,
+    "poster_path": "/4ZrS6g3H6fKr6gG9d7JZRbpxGtg.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 56949,
+            "logo_path": null,
+            "name": "CONNECT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-09",
+            "episode_count": 12,
+            "id": 78376,
+            "name": "Season 1",
+            "overview": "Ange Vierge is a Japanese digital collectible card game released by Fujimi Shobo and Media Factory, 2 brand companies of Kadokawa Corporation.  An anime series adaptation by Silver Link and Connect.  Crunchyroll streamed the anime on it website. The Opening Theme is \"Love is My Rail\" by Konomi Suzuki, and the ending theme is \"Link with U\" by L.I.N.K.s",
+            "poster_path": "/sYMWLlLs3WBFm6sttEApY0JupX8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 5
+}

@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/kRNG4hwUr3eQomPhiR2MxAHPV5M.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-10-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://guilty-crown.jp/",
+    "id": 43125,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-03-22",
+    "last_episode_to_air": {
+        "air_date": "2012-03-22",
+        "episode_number": 22,
+        "id": 885512,
+        "name": "Convergence",
+        "overview": "After Mana is completely resurrected, Mana greets Shu but is shunned by him after she speaks ill of Inori, much to her anger. Gai draws out Mana's Void to fight Shu while she triggers the Fourth Apocalypse, spreading the Apocalypse virus throughout the entire world. Haruka confronts Shuichiro who commits suicide by injecting the virus into himself. Meanwhile the Undertakers fight a group of Endlaves led by Daryl, who believes he changed because of them and wants to go back to his old self. Tsugumi finds that her attempts to hack the GHQ system are being repelled by another hacker as skilled as her. Shibungi figures that the hacker is actually Kenji and after tracking his location, he kills him, allowing Tsugumi to operate freely and help Ayase defeat Daryl. Just when Shu is about to be killed by Gai, Shu is seeing a flower while hearing the Voice of Inori.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6xnM3Z62Hw0vRzbyXCfjZvsfbJd.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Guilty Crown",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ギルティクラウン",
+    "overview": "The story revolves around Shu Ouma, a high school boy who inadvertently obtains an ability called \"The Power of the Kings\" that enables him to draw out items called \"Voids\" from other people. He is then thrown into the conflict between a resistance group called Funeral Parlor which aims to restore Japan's independence from a quasi-governmental organization known as the GHQ. In the process, Shu has to deal with the burden his ability puts on his shoulders and the horrific mystery of his past.",
+    "popularity": 46.175,
+    "poster_path": "/sMUzeL5G8NkNpNhgPZPpauS7CYD.jpg",
+    "production_companies": [
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-01-03",
+            "episode_count": 13,
+            "id": 52590,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/uivGJcyqYFZaFhv7IWH9ii4pGv2.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-10-13",
+            "episode_count": 22,
+            "id": 52591,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8xCEEFuz9yOIqq9lCqSZZVSenUY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 125
+}

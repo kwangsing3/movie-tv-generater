@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/8RggGZ4sT7OcmMG0R6g7OCUlBWb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2018-03-31",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "http://www.gineiden-anime.com/",
+    "id": 74018,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-12",
+    "last_episode_to_air": {
+        "air_date": "2019-12-12",
+        "episode_number": 12,
+        "id": 2029346,
+        "name": "My Dear Friend",
+        "overview": "With their respective conflicts handily wrapped up, both Yang and Reinhard spend their time in the afterglow counting their regrets.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/aJvxjc6JdSiUGjdAviD8hDXZPcS.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Legend of the Galactic Heroes: Die Neue These",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Family Gekijo",
+            "id": 2905,
+            "logo_path": "/uYiTfGXmZnCzGNCB59QcaZmnffT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "銀河英雄伝説 Die Neue These 邂逅",
+    "overview": "In humanity's distant future, two interstellar states—the monarchic Galactic Empire and the democratic Free Planets Alliance—are embroiled in a never-ending war. The story focuses on the exploits of rivals Reinhard von Müsel and Yang Wen Li as they rise to power and fame in the Galactic Empire and the Free Planets Alliance.",
+    "popularity": 25.444,
+    "poster_path": "/aOXYjnJqGYIELPEMg1shcPXBbhj.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-03-31",
+            "episode_count": 12,
+            "id": 92993,
+            "name": "Season 1",
+            "overview": "Ginga Eiyuu Densetsu - Die Neue These - Kaikou",
+            "poster_path": "/lVhDd26Irh6FTQy9uUld2VibVZt.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-09-27",
+            "episode_count": 12,
+            "id": 134576,
+            "name": "Season 2",
+            "overview": "Ginga Eiyuu Densetsu - Die Neue These - Seiran",
+            "poster_path": "/iqkocFsI6qjnTtzm5odDFrqAnqz.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 46
+}

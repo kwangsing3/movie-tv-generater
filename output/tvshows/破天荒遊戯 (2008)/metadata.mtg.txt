@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/g3MPFZW6PMDEO0UQmLbQ43fQSBH.jpg",
+    "created_by": [
+        {
+            "id": 1676703,
+            "credit_id": "60b1fdcba802360040251899",
+            "name": "Nobuhiro Takamoto",
+            "gender": 2,
+            "profile_path": "/A2EIoA5VpP34GqI5vNRpB3liKuW.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-01-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.deen.co.jp/works-archives/hatenko",
+    "id": 45265,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-03-08",
+    "last_episode_to_air": {
+        "air_date": "2008-03-08",
+        "episode_number": 10,
+        "id": 1473697,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dmmU7pqc4bgWNTrUUDXmvoSDjR4.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hatenkou Yugi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "破天荒遊戯",
+    "overview": "",
+    "popularity": 1.96,
+    "poster_path": "/j787qqdE7TFz5HNFn1FsZwqgdEV.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-01-05",
+            "episode_count": 10,
+            "id": 102696,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dXt3sBIHjpBaJ40kS7BhO1vOEah.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

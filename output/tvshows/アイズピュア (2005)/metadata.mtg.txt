@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1833087,
+            "credit_id": "594046bc92514105990052b9",
+            "name": "Yōsei Morino",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 931450,
+            "credit_id": "594046e2c3a368040a012251",
+            "name": "Mamoru Kanbe",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2005-12-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 43180,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-06-23",
+    "last_episode_to_air": {
+        "air_date": "2006-06-23",
+        "episode_number": 6,
+        "id": 1393104,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "I\"s Pure",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイズピュア",
+    "overview": "Seto Ichitaka has a crush on Yoshizuki Iori, a girl in his class who has become so popular she now has her own fan club at school. But only a miracle could make him be with her, since the day he first saw Iori-chan, Ichitaka has been too shy to even talk to her. This miracle happened and now he and Iori are working together on the Freshmen Welcoming Party. It seems that things start to look bright for Seto, but then a special childhood friend is coming for a visit...",
+    "popularity": 1.4,
+    "poster_path": "/xl4DbT4pop2qC7ZNzAFXpMfFTOg.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-12-09",
+            "episode_count": 6,
+            "id": 95376,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/e1BznAGhq8qpwr6LWJKFph4615G.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

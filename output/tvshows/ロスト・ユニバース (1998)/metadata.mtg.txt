@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/zDQM5uXPn0bXSjwcdtBTHaZ8dja.jpg",
+    "created_by": [
+        {
+            "id": 126260,
+            "credit_id": "58256bd5c3a3683601004a9c",
+            "name": "Hajime Kanzaka",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1706819,
+            "credit_id": "58256bdf9251417b1a004dd7",
+            "name": "YOSHINAKA Shoko",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25,
+        30
+    ],
+    "first_air_date": "1998-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 36449,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-09-25",
+    "last_episode_to_air": {
+        "air_date": "1998-09-25",
+        "episode_number": 26,
+        "id": 957686,
+        "name": "...and the Blade of Light Will Always Shine On!",
+        "overview": "A brief recap is played at the beginning with Millie being transported to where Kain and Stargazer is. Millie's body is taken over in a sense by Stargazer; he makes her pick up a gun and shoot Kain everytime he moves towards Stargazer. Canal sacrifices herself to destroy Dark Star. All her memories are being erased but she still strives to see Kain one last time. There's a final showdown between Kain and Stargazer. Millie resides at Kain's grandmother's house waiting for Kain to arrive; she falls asleep at a desk writing in a journal and awakens to hear a ship. She bolts up a runs to the window and sees SwordBreaker flying overhead. She runs outside to greet Kain. End credits.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Lost Universe",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ロスト・ユニバース",
+    "overview": "Kane Blueriver and his AI companion Canal Vorfeed are trouble contractors, taking on jobs that require their special skills. Their jobs vary from armed escort, to patrol duty, to the capturing of dangerous criminals. Millennium Feria Nocturne is a private eye who has to be the best at everything.\n\nWhen the three of them get together, they run into one mess after another, gradually uncovering more of a mystery that ties the legendary Lost Ships to all of their pasts, bringing them closer and closer to a discovery that something called Nightmare would rather not have them find...",
+    "popularity": 13.25,
+    "poster_path": "/o7ioUtTuyaPhhgQi3nrBQapCVfw.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1998-04-03",
+            "episode_count": 26,
+            "id": 47422,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/61Nuq6ZnHN9qyUXraPA1NAOi3dP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 2
+}

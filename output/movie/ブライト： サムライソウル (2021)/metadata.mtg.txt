@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/clzh0Z2xR4BAsHLPeal92yZdqFB.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81001990",
+    "id": 839100,
+    "imdb_id": "tt14837960",
+    "original_language": "ja",
+    "original_title": "ブライト: サムライソウル",
+    "overview": "Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north.",
+    "popularity": 50.412,
+    "poster_path": "/i38XerbByKxr5DPGAoaoulJ9dLl.jpg",
+    "production_companies": [
+        {
+            "id": 165638,
+            "logo_path": null,
+            "name": "Arect Anime Producer",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-10-12",
+    "revenue": 0,
+    "runtime": 80,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bright: Samurai Soul",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 36
+}

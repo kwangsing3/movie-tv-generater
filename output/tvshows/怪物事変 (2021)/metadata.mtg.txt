@@ -1,0 +1,133 @@
+{
+    "adult": false,
+    "backdrop_path": "/jQfH20FEhvZpnbTGpZbWPOzfAZd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://kemonojihen-anime.com/",
+    "id": 100022,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-28",
+    "last_episode_to_air": {
+        "air_date": "2021-03-28",
+        "episode_number": 12,
+        "id": 2696413,
+        "name": "Kemono Incidents",
+        "overview": "Nobimaru has a tough battle against Yui, who is using the power of the nullstone, until Kabane leaps in to help him. Kabane uses Nobimaru’s tactic and gives his all to beat Yui’s freezing power, as the battle over the nullstone finally reaches its climax!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/l3O2CCDunvrMiEPIoyjXyJzG8DO.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Kemono Jihen",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "怪物事変",
+    "overview": "When a series of animal bodies that rot away after a single night begin appearing in a remote mountain village, Inugami, a detective from Tokyo who specializes in the occult, is called to investigate.\n\nWhile working the case, he befriends a strange boy who works in the field every day instead of going to school. Shunned by his peers and nicknamed “Dorotabo” after a yokai that lives in the mud, he helps Inugami uncover the truth behind the killings — but supernatural forces are at work, and while Dorotabo is just a nickname, it might not be the only thing about the boy that isn’t human.",
+    "popularity": 40.683,
+    "poster_path": "/ct6HkcvSGDC5yT6eQKdBn4HWcNC.jpg",
+    "production_companies": [
+        {
+            "id": 43368,
+            "logo_path": null,
+            "name": "Ajiado",
+            "origin_country": "JP"
+        },
+        {
+            "id": 136217,
+            "logo_path": "/dBYuplhBgeOsGPQOI0LukWNbFWE.png",
+            "name": "Bandai Namco Arts",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5809,
+            "logo_path": "/aqc1Sj5nfPWb9rjf1TSayKBPlno.png",
+            "name": "Frontier Works",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 138773,
+            "logo_path": null,
+            "name": "Yomiuri-TV Enterprise",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150687,
+            "logo_path": "/6EaHkun3X2qzi4pIxqaXh9dxWLi.png",
+            "name": "JTB Next Creation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-10",
+            "episode_count": 12,
+            "id": 144445,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1ON3UrcmyECZAMug7htkszoNoMC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 61
+}

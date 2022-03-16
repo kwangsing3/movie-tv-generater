@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/15iVN0AydCNNmETAdIIQD1e6Oow.jpg",
+    "created_by": [
+        {
+            "id": 89963,
+            "credit_id": "62133d890e4fc8001dca4a5d",
+            "name": "Masashi Kishimoto",
+            "gender": 2,
+            "profile_path": "/8hoQQiQEak3HxCDhEIDcAZ8QI41.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-04-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/boruto/",
+    "id": 70881,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 240,
+        "id": 3577651,
+        "name": "Ikada's Dream",
+        "overview": "Boruto joins Ikada as he sails to a factory where they can get a component needed for ship repair. He is impressed by Ikada’s excellent piloting abilities. Ikada reveals that he left home despite the protests of his family to look for work that involved ships. That was when he met Kajiki and found his dream of becoming a great ship carpenter. They spot a ship that has been in an accident, and while working together to save the passengers, Boruto sees something unbelievable.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rfxnFvt04eidbEHiijHHXXgKlM9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Boruto: Naruto Next Generations",
+    "next_episode_to_air": {
+        "air_date": "2022-03-20",
+        "episode_number": 241,
+        "id": 3592028,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 241,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BORUTO-ボルト- NARUTO NEXT GENERATIONS",
+    "overview": "The life of the shinobi is beginning to change. Boruto Uzumaki, son of Seventh Hokage Naruto Uzumaki, has enrolled in the Ninja Academy to learn the ways of the ninja. Now, as a series of mysterious events unfolds, Boruto’s story is about to begin!",
+    "popularity": 53.099,
+    "poster_path": "/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-06",
+            "episode_count": 2,
+            "id": 90411,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/1t5KWEDwb07ijtgJeKB1ZW4Z7sZ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-04-05",
+            "episode_count": 241,
+            "id": 86520,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pe9TMHu4rWbETYGWgR4jQNlSkkL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2013
+}

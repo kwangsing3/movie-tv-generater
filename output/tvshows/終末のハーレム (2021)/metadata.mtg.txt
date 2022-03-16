@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/sALDC3It8IYcYZ7yRsgSJGbbIYe.jpg",
+    "created_by": [
+        {
+            "id": 1789127,
+            "credit_id": "6230b47b109dec004621c429",
+            "name": "Yuu Nobuta",
+            "gender": 2,
+            "profile_path": "/dYMEKyxxfil1CRlfH6MiAN9X0Ez.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://end-harem-anime.com",
+    "id": 103409,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-11",
+    "last_episode_to_air": {
+        "air_date": "2022-03-11",
+        "episode_number": 10,
+        "id": 3249470,
+        "name": "The Two Numbers",
+        "overview": "The Numbers come under attack from terrorists calling themselves Izanami. But one of Izanami's leaders is the girl Reito's been searching for since he woke up.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mMNmeg9RLOgFcvRtfiLrz8bX7vE.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "World's End Harem",
+    "next_episode_to_air": {
+        "air_date": "2022-03-18",
+        "episode_number": 11,
+        "id": 3249471,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "終末のハーレム",
+    "overview": "The Man-Killer Virus: a lethal disease that has eradicated 99.9% of the world's male population. Mizuhara Reito has been in cryogenic sleep for the past five years, leaving behind Tachibana Erisa, the girl of his dreams. When Reito awakens from the deep freeze, he emerges into a sex-crazed new world where he himself is the planet's most precious resource. Reito and four other male studs are given lives of luxury and one simple mission: repopulate the world by impregnating as many women as possible! All Reito wants, however, is to find his beloved Erisa who went missing three years ago. Can Reito resist temptation and find his one true love?",
+    "popularity": 169.574,
+    "poster_path": "/kcxcTt4yA3MflFQ4cTNLM62yitw.jpg",
+    "production_companies": [
+        {
+            "id": 25504,
+            "logo_path": null,
+            "name": "Studio Gokumi",
+            "origin_country": "JP"
+        },
+        {
+            "id": 72189,
+            "logo_path": null,
+            "name": "AXsiZ",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-08",
+            "episode_count": 11,
+            "id": 150706,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/svAWiqKKQ3y3qXR5UbxToNHJFWp.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 19
+}

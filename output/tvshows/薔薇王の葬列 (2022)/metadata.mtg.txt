@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/mGsCppQV5BLnE8kRz0nxgoSo74y.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://baraou-anime.com",
+    "id": 109934,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 10,
+        "id": 3416230,
+        "name": "My name is Richard Plantagenet.",
+        "overview": "Anne is ordered by the Earl of Warwick to marry Prince Edward. There is no love between the two of them, but their friendship begins to grow as they discuss their true feelings for each other during a boat trip. Meanwhile, the Earl of Warwick finally confronts Edward on the battlefield. Warwick has the numerical advantage, but George, once aligned with the Lancaster faction, sides with Edward again, evening up the odds. As the battle stalls, Richard takes the place of Buckingham and stages a solo attack on Lancaster's camp.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6T1sOAVOzLAbIVhqjX3zvAQdYMe.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Requiem of the Rose King",
+    "next_episode_to_air": {
+        "air_date": "2022-03-20",
+        "episode_number": 11,
+        "id": 3416231,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "薔薇王の葬列",
+    "overview": "The crown of England has been hotly contested throughout history, and in the Middle Ages, a series of great civil wars became known as the War of the Roses. Claiming a right to the throne, the Duke of York seeks to unseat King Henry VI and his heir in order to become king himself.",
+    "popularity": 37.578,
+    "poster_path": "/xhoveJefmxPbQFSPJ1xTzp8qvpd.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 12,
+            "id": 162910,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zgXHghWV31qyd2AdTuxh12yIC2W.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4,
+    "vote_count": 1
+}

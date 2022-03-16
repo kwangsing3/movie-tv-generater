@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/8vq0qAh97C4VIQGj346wki2W12f.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        14
+    ],
+    "first_air_date": "2010-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://web.archive.org/web/20100915134537/http://meganenakanojo.com/",
+    "id": 92220,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-11-25",
+    "last_episode_to_air": {
+        "air_date": "2010-11-25",
+        "episode_number": 4,
+        "id": 1883836,
+        "name": "Foggy Warmth",
+        "overview": "One day in the third year of middle school the transfer student Kuramoto Chiaki appears in Takatsuka Tatsuya class. Though otherwise shy, running about with fogged-up glassed, she feels comfortable in the presence of the teasing Tatsuya. But when they entered high school, things started to change...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tAG8vU65BB4WVKt79FJCQTX6oQq.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Megane na Kanojo",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "眼鏡なカノジョ",
+    "overview": "For most people, wearing glasses is a necessity for clear sight, but for four young girls, their spectacles mean so much more. From a teenage girl wearing her glasses with pride and a top idol who uses hers to disguise herself as a regular person, to a couple whose bent frames bring them closer together, a good pair of glasses can not only open your eyes, but also open your heart.",
+    "popularity": 4.838,
+    "poster_path": "/y72QOtcUN2eXwxuoDuMJKLFc6dK.jpg",
+    "production_companies": [
+        {
+            "id": 121808,
+            "logo_path": null,
+            "name": "AIC Takarazuka",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-10-08",
+            "episode_count": 4,
+            "id": 129543,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tawJmCa6nuEGHZ04XYqwpFZ26Qd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 6,
+    "vote_count": 2
+}

@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/alI3cn0DYtRM986v02wVNGxb2fn.jpg",
+    "created_by": [
+        {
+            "id": 225756,
+            "credit_id": "621281e4a84ff7006d2682e8",
+            "name": "Kenji Tsuruta",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1992-06-03",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 44907,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1992-07-01",
+    "last_episode_to_air": {
+        "air_date": "1992-07-01",
+        "episode_number": 5,
+        "id": 2781163,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7U4VAJO4SUFQBpul9I6rxgYpdXf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Spirit of Wonder: Scientific Boys Club",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ザスピリットオブワンダー : 少年科學倶楽部",
+    "overview": "As young boys, Cooper, Gordon, and Shepherd where enchanted by the theories of life on Mars published by Percival Lowell, one of th emost influential people on the subject. Consequently, the formed a club called the \"Scientific Boys Club\" and it continues for 50 years to come. With the help of Gordon's daughter Windyy and her husband Jack, the boys pursue their lifelong dream of traveling to Mars.\n\nBristol may be a small town, but the scientific boys club isn't the only attraction! Find out what is going on in the other side of this town as Miss China is shrunken to the size of a pea and travels to Mars!",
+    "popularity": 1.806,
+    "poster_path": "/NXU3W3uZJ1RgM7Gvbbh3Hmuzx3.jpg",
+    "production_companies": [
+        {
+            "id": 43368,
+            "logo_path": null,
+            "name": "Ajiado",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104393,
+            "logo_path": null,
+            "name": "Bihou. Incorporated",
+            "origin_country": ""
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-01-25",
+            "episode_count": 3,
+            "id": 244974,
+            "name": "Specials",
+            "overview": "Three short stories featuring China-san.",
+            "poster_path": "/e2eJtp1SkmiQtHJb8L9AgcnsekK.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1992-06-03",
+            "episode_count": 5,
+            "id": 168559,
+            "name": "Scientific Boys Club",
+            "overview": "The now 50 year old Scientific Boys Club decides to built a ship that sails to Mars on the \"Ethereal Current\" - a thesis of the wife of a club member which claims that the universe is flooded with Ethereal energy. On this stream they travel to Mars in order to prove an old theory about channels on Mars built by Martians, but there is no life. Many years later, when both theories are considered to be nonsense, a Mars expedition discovers a stone with the inscription \"Scientific Boys Club 1954\".",
+            "poster_path": "/40hmLBsvWcnkssjeBnDi7fDm3Yg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Let us journey across space to reveal the mystery! This scientific fantasy will satisfy the dream of mankind for over a century.",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

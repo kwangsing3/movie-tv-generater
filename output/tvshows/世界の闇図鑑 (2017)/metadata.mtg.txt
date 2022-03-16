@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/bckz96bFTL6Z5vd75kF6c6jgYOt.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2017-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/yamizukan/",
+    "id": 71015,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-06-25",
+    "last_episode_to_air": {
+        "air_date": "2017-06-25",
+        "episode_number": 13,
+        "id": 1432690,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The World Yamizukan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "世界の闇図鑑",
+    "overview": "Tucked away in the darkest depths of this world, tales of the bizarre and the supernatural quietly unfold. These inexplicable stories are chronicled throughout the pages of a certain strange encyclopedia, sheltered within a crumbling, decrepit building. Do you dare to open its cover and experience the horrors firsthand? Each of the macabre tales held within the book's pages details some unusual, surreal experiences that often come to a gruesome end. A man searches for his adulterous wife, only to find himself at the mercy of otherworldly visitors; a boy befriends a snowman who harbors a sinister secret; crop circles suddenly form on a family farm, created by some unexpected visitors; hidden in plain sight, menacing mechanical beings continue on undetected. In all of these horrifying stories, nothing is as simple as it seems, revealing a terrifying darkness that perhaps might have been best left alone.",
+    "popularity": 2.662,
+    "poster_path": "/pRmPXwZxksztgFhPstLjxT4Qvug.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-04-02",
+            "episode_count": 13,
+            "id": 86834,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pRmPXwZxksztgFhPstLjxT4Qvug.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 3
+}

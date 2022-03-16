@@ -1,0 +1,165 @@
+{
+    "adult": false,
+    "backdrop_path": "/17ie7Zq9eEguE3YJVszKlfCPWPh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-10-07",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://yowapeda.com/",
+    "id": 61441,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-26",
+    "last_episode_to_air": {
+        "air_date": "2018-06-26",
+        "episode_number": 25,
+        "id": 1422830,
+        "name": "Their Respective Starting Lines",
+        "overview": "The morning of the final day of the Inter-High has arrived. By working together, all six members of Sohoku have made it to this point. Hakone Academy has ridden with the sole intention of reclaiming their throne. Kyoto Fushimi has eliminated all excess and focuses only on victory. Along with the other schools, they stand at their respective starting lines with their eyes on the summit!",
+        "production_code": "",
+        "season_number": 4,
+        "still_path": "/2OxLvkFYhmpPd2u4WiKUAAV1Ou7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yowamushi Pedal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVQ",
+            "id": 822,
+            "logo_path": "/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVh",
+            "id": 938,
+            "logo_path": "/vEUZNYjuSn0iTQyZ3SLNfVgI9Z8.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 112,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "弱虫ペダル",
+    "overview": "Sakamichi Onada is a wimpy high school freshman who loves anime. He initially wants to enter the anime club, but winds up joining the cycling club after meeting two classmates who are already famous cyclists. He undertakes the grueling training to compete in races, and discovers his own hidden talent in cycling.",
+    "popularity": 46.528,
+    "poster_path": "/688PJsb1sVWgosrQCbwT32vJKfI.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-08-08",
+            "episode_count": 12,
+            "id": 157647,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/cUAquFsLkXx2uhhHGani9kv7SdY.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-10-07",
+            "episode_count": 38,
+            "id": 62917,
+            "name": "Yowamushi Pedal",
+            "overview": "",
+            "poster_path": "/oD3wSMPXrA1BEUfOHl35IWa5SuT.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-10-06",
+            "episode_count": 24,
+            "id": 63897,
+            "name": "Yowamushi Pedal: Grande Road",
+            "overview": "",
+            "poster_path": "/w8XYfqFTe27PeTIzMhdJv1Gvhxi.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2017-01-10",
+            "episode_count": 25,
+            "id": 83303,
+            "name": "Yowamushi Pedal: New Generation",
+            "overview": "",
+            "poster_path": "/efxIscMkhB1QbaUJHQhZ2tdIAAf.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2018-01-09",
+            "episode_count": 25,
+            "id": 96726,
+            "name": "Yowamushi Pedal: Glory Line",
+            "overview": "",
+            "poster_path": "/6z7iYrbGAonVed4SYivNGCkxpMM.jpg",
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 18
+}

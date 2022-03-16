@@ -1,0 +1,151 @@
+{
+    "adult": false,
+    "backdrop_path": "/9vVpaxamUN9aED2kGItcTTRFUZj.jpg",
+    "created_by": [
+        {
+            "id": 1324094,
+            "credit_id": "607efa4caa659e002aecf01a",
+            "name": "Keizo Kusakawa",
+            "gender": 2,
+            "profile_path": "/fEGNi4brc9r41E7HKX0syqEtizK.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-01-08",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/fafnir/",
+    "id": 66863,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-01-08",
+    "last_episode_to_air": {
+        "air_date": "2015-01-08",
+        "episode_number": 12,
+        "id": 1259486,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5mUncnni36Ak2MPhC1dQH2n1can.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Unlimited Fafnir",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tulip Television",
+            "id": 896,
+            "logo_path": "/qfUzYnpnN5bnd2bqGUH0OlAMell.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "d Anime Store",
+            "id": 3685,
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "銃皇無尽のファフニール",
+    "overview": "Twenty-five years ago, the world suddenly changed when monsters called “Dragons” appeared; seeking to ravage the earth and find mates. Over time, superhuman girls possessing the powers of the dragons, called “D girls” were born. Yuu Mononobe is the only male “D” in existence and is forced to enroll at Midgar - an academy for D girls. At the academy, he accidentally runs into Iris, a delinquent D girl, while she’s naked, and even reunites with this long lost sister, Mitsuki, whom he was separated with at birth. Will Iris and Yuu, the boy who is supposed to become the strongest assassin, be able to challenge the seven dragons that threaten to destroy the world?",
+    "popularity": 7.454,
+    "poster_path": "/zY7vcsQsoQqY8zcmjkCeeUBeTAV.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-01-08",
+            "episode_count": 12,
+            "id": 77979,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5ocoBDRc6x1uhbaefSyAT7ZNYUi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

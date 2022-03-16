@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/oBDQ8pwetLEOjv4xFImSmQaf0DJ.jpg",
+    "created_by": [
+        {
+            "id": 81495,
+            "credit_id": "60d446183e6f2b005c2f7bb4",
+            "name": "Keiichi Hara",
+            "gender": 2,
+            "profile_path": "/8ormRfEq9wIpxVOGNrbPWw9DD81.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1987-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.fwinc.co.jp/espmami/",
+    "id": 44997,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1989-10-26",
+    "last_episode_to_air": {
+        "air_date": "1989-10-26",
+        "episode_number": 119,
+        "id": 3163305,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mami the Psychic",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 119,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エスパー魔美",
+    "overview": "",
+    "popularity": 4.29,
+    "poster_path": "/eLApJavOyMAK1q1xLaQhnKk5PAA.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1988-12-27",
+            "episode_count": 1,
+            "id": 208023,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1987-04-07",
+            "episode_count": 119,
+            "id": 208022,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

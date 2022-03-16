@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/2EzcsNHA2wEdIymnSyUSvKvLLfq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2002-05-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 28397,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-02-03",
+    "last_episode_to_air": {
+        "air_date": "2003-02-03",
+        "episode_number": 39,
+        "id": 707294,
+        "name": "Whistle For The Victory",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Whistle!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ホイッスル！",
+    "overview": "",
+    "popularity": 1.789,
+    "poster_path": "/f9dmJDTVNUudvvluy8QMjMDoRGS.jpg",
+    "production_companies": [
+        {
+            "id": 69265,
+            "logo_path": null,
+            "name": "Studio Comet",
+            "origin_country": "JP"
+        },
+        {
+            "id": 75930,
+            "logo_path": null,
+            "name": "Marvelous Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-05-06",
+            "episode_count": 39,
+            "id": 39588,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wJNgtFMd8NmxoM116pbYU3UFaja.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 3
+}

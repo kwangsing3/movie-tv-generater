@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/91uoVY4RXB4lpfjsK1ej0XDUhFo.jpg",
+    "created_by": [
+        {
+            "id": 1484447,
+            "credit_id": "5d71166a77c01f45795a3fd5",
+            "name": "Atsushi Nakayama",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 2376073,
+            "credit_id": "5d428bdf95c0af0015d892b3",
+            "name": "Takumi Hiragiboshi",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 2404449,
+            "credit_id": "5d71166084448e20bd299bba",
+            "name": "You Asaba",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-01-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://absoluteduo.com",
+    "id": 65764,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-22",
+    "last_episode_to_air": {
+        "air_date": "2015-03-22",
+        "episode_number": 12,
+        "id": 1172978,
+        "name": "Absolute Duo",
+        "overview": "The idea of wanting to protect someone is still foreign to K, so in a dramatic, no-holds-barred faceoff, Tor decides to show him how it's done.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/hLeDBEyvgCUEMRCaOTe04DBOenX.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Absolute Duo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アブソリュート・デュオ",
+    "overview": "This is the story of Tooru Kokonoe who has enrolled at Kouryou Academy, a school which trains students in wielding Blaze, soul powered weapons to prepare them for the Dorn Agency's special peacekeeping corps. When Tooru is partnered with a mysterious girl: Julie Sigtuna, he finds he has to overcome many hurdles to ensure their teamwork and fighting skills are up to par for the duration of their training.",
+    "popularity": 17.896,
+    "poster_path": "/znP9FZIEFG4mmnmQbrqdggGZUWA.jpg",
+    "production_companies": [
+        {
+            "id": 30294,
+            "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+            "name": "8bit",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-01-04",
+            "episode_count": 12,
+            "id": 75037,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rOL7xiH9YAIvrMjPndo4kmuvHXE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 112
+}

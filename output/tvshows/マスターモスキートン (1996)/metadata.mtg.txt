@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1996-11-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 67102,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1997-04-19",
+    "last_episode_to_air": {
+        "air_date": "1997-04-19",
+        "episode_number": 6,
+        "id": 1205959,
+        "name": "On the Eve of Battle (Part 2)",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Master of Mosquiton",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "マスターモスキートン",
+    "overview": "In the 1920's, Inaho ressurrects a vampire named Mosquiton with her blood. He awakens and becomes her slave. Now, Inaho is after the O-Part, which will grant her immortality. However, a bunch of supernatural monsters are out to stop them from achieving their goal.",
+    "popularity": 0.701,
+    "poster_path": "/w8yHhrfFVH7apMIzglEYirh927O.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1996-11-21",
+            "episode_count": 6,
+            "id": 78492,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 3
+}

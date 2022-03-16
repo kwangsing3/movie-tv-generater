@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/rh71AJrwVIQZ1pUDk4yYYSIoCVK.jpg",
+    "created_by": [
+        {
+            "id": 58160,
+            "credit_id": "5aef4017925141766c004aaf",
+            "name": "Osamu Tezuka",
+            "gender": 2,
+            "profile_path": "/4xOgZySBani7h7xkFwK4Rf0MqNg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2000-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "",
+    "id": 34123,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-09-19",
+    "last_episode_to_air": {
+        "air_date": "2000-09-19",
+        "episode_number": 25,
+        "id": 782481,
+        "name": "Dawn",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3rtNQxYT6uV75iawcJJUV1Zag3b.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Tree In Sunlight",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "陽だまりの樹",
+    "overview": "A story set in the mid-1800's about a young doctor who has been trained in Western-style medicine and a young samurai who is trying to live up to the old traditions of his class and culture. The story is actually based upon real people - the doctor, Ryo-an, was Tezuka's great grandfather.\n\nThe manga series was adapted to anime by Madhouse Studios and premiered in Japan on NTV on April 4, 2000.",
+    "popularity": 1.688,
+    "poster_path": "/xbIcMeje8a2mHEVpWC1SiYhonhW.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-04-04",
+            "episode_count": 25,
+            "id": 44922,
+            "name": "Season 1",
+            "overview": "During the Second Year of Ansei (1855) in Edo's Koishigawa are two young men, Manjiro Ibutani and Ryoan Tezuka. Ibutani is a low-ranking samurai who is a gifted swordsman and has a straightforward and strong sense of justice. Tezuka has a more carefree attitude. He has an eye for the ladies, but he is passionate about becoming a doctor. The two opposite characters come of age during the backdrop of the turbulent end of the Tokugawa Period (1600-1868 CE).",
+            "poster_path": "/iaiNHAMV9V6POAWZbOpSH1hQ137.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

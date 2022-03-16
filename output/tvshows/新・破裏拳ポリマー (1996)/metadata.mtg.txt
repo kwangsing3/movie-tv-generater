@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/j0jkxUtdv3ZjIVZ8kQFYo9JdZq5.jpg",
+    "created_by": [
+        {
+            "id": 548373,
+            "credit_id": "5bc3cf38c3a3682d4b055486",
+            "name": "Hisayuki Toriumi",
+            "gender": 2,
+            "profile_path": "/ptFK5lVfrcA1Rjsyv6H8o3JvbS7.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1996-09-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.discotekmedia.com/new_hurricane_polymar.htm",
+    "id": 43786,
+    "in_production": false,
+    "languages": [
+        "it",
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1997-02-21",
+    "last_episode_to_air": {
+        "air_date": "1997-02-21",
+        "episode_number": 2,
+        "id": 3018054,
+        "name": "Vol. 2",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "New Hurricane Polymar",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "新・破裏拳ポリマー",
+    "overview": "Straight out of Tokyo Plus, a high-tech research center, arrives a new innovation of \"Man Machine\" system (Polymar) developed by the late Dr. Oregar. Tragically, Dr. Oregar and his efforts are dematerialized as the Catsharks, loyal subjects of Nova, steal this new technology for their own devious plans.\n\nMiraculously chosen as the next Polymar, Takeshi finds himself thrust into the middle of the battleground, as he discovers his new role and purpose - to destroy Nova and his followers. He utilizes his karate skills comprised of spinning kicks and backfists with flight formula to defeat the Catsharks, only to have them re-emerge stronger then ever, led by the shrewd Nina. Once she gets Polymar out of the picture - Nova will be free to proceed with his insidious plan. It is a race against time, for Takeshi to save the Earth",
+    "popularity": 0.651,
+    "poster_path": "/4cBaoKmvVVYVoWOGFMOwEu1PBVy.jpg",
+    "production_companies": [
+        {
+            "id": 90104,
+            "logo_path": null,
+            "name": "Discotek Media",
+            "origin_country": ""
+        },
+        {
+            "id": 154637,
+            "logo_path": null,
+            "name": "Urban Vision",
+            "origin_country": ""
+        },
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 53504,
+            "logo_path": null,
+            "name": "Nihon Ad Systems",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13066,
+            "logo_path": "/2fgqTGBeaKaGer4vDUXmYaUIR5o.png",
+            "name": "Nippon Columbia",
+            "origin_country": "JP"
+        },
+        {
+            "id": 155694,
+            "logo_path": null,
+            "name": "Audio Tanaka",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1996-09-21",
+            "episode_count": 2,
+            "id": 198836,
+            "name": "New Hurricane Polymar",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0
+}

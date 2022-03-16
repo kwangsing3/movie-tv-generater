@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/9Tgp8L0RA4y18KVr1rwew5ovC2a.jpg",
+    "belongs_to_collection": {
+        "id": 34055,
+        "name": "Pokémon Collection",
+        "poster_path": "/oUdOt0VbJQnkLwOiQLPJLxH8oCA.jpg",
+        "backdrop_path": "/xQM02GXLgC0HxMHOCUIxTsjzi1O.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 10228,
+    "imdb_id": "tt0190641",
+    "original_language": "ja",
+    "original_title": "劇場版ポケットモンスター ミュウツーの逆襲",
+    "overview": "The adventure explodes into action with the debut of Mewtwo, a bio-engineered Pokémon created from the DNA of Mew, the rarest of all Pokémon. Determined to prove its superiority, Mewtwo lures Satoshi, Pikachu and others into a Pokémon match like none before. Mewtwo vs. Mew. Super-clones vs. Pokémon. It's the ultimate showdown ... with the very future of the world at stake!",
+    "popularity": 35.95,
+    "poster_path": "/3m1kyUksL3vf4anbYMbLUWXTb3W.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5261,
+            "logo_path": null,
+            "name": "Shogakukan Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 76468,
+            "logo_path": null,
+            "name": "Pikachu Project '98",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13070,
+            "logo_path": null,
+            "name": "Tomy",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        },
+        {
+            "id": 76469,
+            "logo_path": null,
+            "name": "JR Kikaku",
+            "origin_country": ""
+        },
+        {
+            "id": 76467,
+            "logo_path": null,
+            "name": "GAME FREAK",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12307,
+            "logo_path": null,
+            "name": "Creatures",
+            "origin_country": ""
+        },
+        {
+            "id": 12288,
+            "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+            "name": "Nintendo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1998-07-18",
+    "revenue": 163644662,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The Pokémon Match of All Time is Here.",
+    "title": "Pokémon: The First Movie - Mewtwo Strikes Back",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 1131
+}

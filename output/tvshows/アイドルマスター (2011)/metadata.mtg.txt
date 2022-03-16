@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/eg0fGpzyLM0zvfuCW2j0n4dD3Ho.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "http://www.idolmaster.jp",
+    "id": 63463,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-12-23",
+    "last_episode_to_air": {
+        "air_date": "2011-12-23",
+        "episode_number": 25,
+        "id": 1092740,
+        "name": "Everyone, Together!",
+        "overview": "Kotori visits the Producer at the hospital. The Producer expresses his wish to see the idols at the New Year's concert.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/a8mz5JUbbxAC4ZTx1YtQ3oRzjVo.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "THE iDOLM@STER",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイドルマスター",
+    "overview": "THE IDOLM@STER follows 13 girls from the 765 Production Studio, whose sole goals is to become the top idols in the Japanese entertainment industry. Along with the laughs, struggles and tears that are inherently part of this journey, you will cheer for the girls of iDOLM@STER as they climb their way to the top!",
+    "popularity": 18.302,
+    "poster_path": "/q8f6reeyLpnH7EJG870phf4uJBx.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-02-28",
+            "episode_count": 7,
+            "id": 70244,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/29RUQ1HcDPzjBbuNiU2aioVwHk8.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-07-08",
+            "episode_count": 25,
+            "id": 69150,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hf41hhMOmLpp79xC83GxdbDqUER.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.3,
+    "vote_count": 8
+}

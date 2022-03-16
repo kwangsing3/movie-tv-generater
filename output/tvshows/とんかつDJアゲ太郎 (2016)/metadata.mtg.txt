@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/cOlmxLg2dR4Yws73XbG93t4nI2J.jpg",
+    "created_by": [
+        {
+            "id": 2719760,
+            "credit_id": "5f8fdb24813cb60035ac9a6a",
+            "name": "Yujiro Koyama",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        11
+    ],
+    "first_air_date": "2016-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tonkatsudj.tokyo/",
+    "id": 65946,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-26",
+    "last_episode_to_air": {
+        "air_date": "2016-06-26",
+        "episode_number": 12,
+        "id": 1416174,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tonkatsu DJ Agetarō",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chukyo TV",
+            "id": 2727,
+            "logo_path": "/KaIK93kJFD8WKH451owMdmNOSz.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "とんかつDJアゲ太郎",
+    "overview": "Agetarou works at his family's tonkatsu restaurant in Shibuya, but he's not very excited by the work. One day, he takes a delivery to the staff of a night club, and the worker lets him in to enjoy the club for a while. Agetarou finds that he loves the club, with its relaxed people and cute girls, all enjoying the music supplied by the DJ. He continues going to the club, until the night comes when the guest American DJ Big Master Fly puts on a show. Agetarou is inspired by Big Master Fly, and realizes that the groove of being a DJ is very similar to the groove of being a tonkatsu chef. Now Agetarou is determined to master both disciplines, though he is most excited to become a DJ!",
+    "popularity": 3.342,
+    "poster_path": "/eN3pZRg8MkGTmQ69QpVJQ3G0vx2.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-10",
+            "episode_count": 12,
+            "id": 75477,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kRqokBKHpzxMhvOayCVuZmfz9z8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

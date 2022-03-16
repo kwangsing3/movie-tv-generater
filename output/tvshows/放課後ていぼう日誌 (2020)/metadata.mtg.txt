@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/4IElItG0yImAZqjuV4CwDFNVq7Q.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://teibotv.com",
+    "id": 94631,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-09-22",
+    "last_episode_to_air": {
+        "air_date": "2020-09-22",
+        "episode_number": 12,
+        "id": 2200109,
+        "name": "From Now On...",
+        "overview": "Hina is determined to catch some whiting after doing some research online on how to catch them. Later on, Hina teaches Natsumi how to make some felt plushies.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jjuXI31kUNL6bg6a96FkIOSTQJk.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Diary of Our Days at the Breakwater",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "放課後ていぼう日誌",
+    "overview": "Hina Tsurugi and her family have just moved to a quaint seaside town. Hoping to savor the sight of the peaceful ocean, Hina stumbles upon a girl named Yuuki Kuroiwa—an upperclassman at her new school—who invites Hina to join her in fishing. Hina reels in an octopus, which falls onto her; being afraid of bugs and big creatures, she panics and begs Yuuki to remove it from her. Yuuki sees this as an opportunity to force Hina to join the school's Breakwater Club—a club where members gather, catch, and eat various types of marine life as their main activity.\n\nAlthough her attempts to refuse to join fail, Hina slowly begins to discover the hidden joy in fishing. Her view on the sport changes, now looking forward to all the delightful experiences she can take part in alongside her fellow club members.",
+    "popularity": 7.909,
+    "poster_path": "/paYqR1V82xMSl4EXSQez0jSIEAe.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-07",
+            "episode_count": 12,
+            "id": 134240,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/y67RMnmExUVMwaRf7K3q6tHeIJT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 6
+}

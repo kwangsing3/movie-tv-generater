@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/1361105",
+    "id": 117830,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Tomb Raider",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Tomb Raider",
+    "overview": "Follow heroine Lara Croft 25 years after her first adventure as she explores new territory.",
+    "popularity": 0.882,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 100711,
+            "logo_path": null,
+            "name": "DJ2 Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 54629,
+            "logo_path": "/nygX645auQxOiiAH1mrPxIuQRj0.png",
+            "name": "Legendary Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 148318,
+            "logo_path": null,
+            "name": "Tractor Pants",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 179071,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

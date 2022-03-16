@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/5LeQU34ZHrJWFDQY5v3729qoYcw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2020-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.fugoukeiji-bul.com/",
+    "id": 98491,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-09-25",
+    "last_episode_to_air": {
+        "air_date": "2020-09-25",
+        "episode_number": 11,
+        "id": 2200059,
+        "name": "All That Glitters is Not Gold",
+        "overview": "After escaping from the cargo ship, Daisuke and Kambe pursue Shigemaru and arrive at the old site of the 3rd Laboratory owned by the Kambe group, which is the source of all the mysteries. Daisuke confronts Kikuko, the head of the family, with his burning questions, but her answers force him to make a crucial decision. The truth behind the tension and conflict between the three generations of the Kambe family becomes clear.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cxrU8NhjMXkeQJR3Rp23Lox3pua.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "The Millionaire Detective – Balance: UNLIMITED",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "富豪刑事 Balance:UNLIMITED",
+    "overview": "The story centers around millionaire Daisuke Kambe, the heir to one of the wealthiest families in Japan, who is assigned as a detective to the Modern Crime Prevention Task Force (aka MCPTF), at the Tokyo Metropolitan Police Department. Taking full advantage of his vast family wealth, he spares no expense in solving complex crimes, and has the tendency to evaluate everything including individual human lives in terms of their monetary value. Haru Kato, a detective with a compassionate heart who believes that money isn’t everything, is chosen as Kambe’s partner but is repulsed by his materialistic attitude. Having diametrically opposing personalities, witness how the two join forces to tackle seemingly unsolvable crimes and mysteries!",
+    "popularity": 25.483,
+    "poster_path": "/myCOg9U2jI7CovdxQj4jbn2RoMJ.jpg",
+    "production_companies": [
+        {
+            "id": 121589,
+            "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+            "name": "CloverWorks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-10",
+            "episode_count": 11,
+            "id": 141772,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xLAGVO5XzwHcJjBcObLSuPMeh2y.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 6.6,
+    "vote_count": 24
+}

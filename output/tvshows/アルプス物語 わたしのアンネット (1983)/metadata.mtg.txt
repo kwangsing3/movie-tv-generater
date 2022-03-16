@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/f3OFrxI6nxr74F1hJEW5Z37ARZX.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1983-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 44257,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-12-25",
+    "last_episode_to_air": {
+        "air_date": "1983-12-25",
+        "episode_number": 48,
+        "id": 1577465,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Story of the Alps: My Annette",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 48,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アルプス物語 わたしのアンネット",
+    "overview": "An anime series based on the children's book and set in the Swiss mountain village of Rossinière.",
+    "popularity": 6.867,
+    "poster_path": "/2s4YAA76HUgeDuJjppDum2OQ1lK.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1983-01-09",
+            "episode_count": 48,
+            "id": 104549,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

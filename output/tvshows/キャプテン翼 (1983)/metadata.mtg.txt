@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/le8yZVANRVul8vdZtJow2XgFz7F.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1983-10-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 25707,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1986-03-27",
+    "last_episode_to_air": {
+        "air_date": "1986-03-27",
+        "episode_number": 24,
+        "id": 660270,
+        "name": "The 17 best",
+        "overview": "",
+        "production_code": "",
+        "season_number": 5,
+        "still_path": "/kuwpJYICOgjrAAGS3iSea6KRZKy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Captain Tsubasa",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 128,
+    "number_of_seasons": 5,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キャプテン翼",
+    "overview": "Tsubasa Ozora loves playing football since he was a little child. After moving to the japanese town of Nankatsu together with his mother, the 11-year-old boy quickly finds friends and joins the local football team of his elementary school. Together with his newly made friends and Brazilian mentor Roberto, Tsubasa starts his exciting journey to chase after his most desired dream - one day winning the FIFA World Cup.",
+    "popularity": 110.835,
+    "poster_path": "/xADNeBzFTAIs4cW8kJGSNwF9qbx.jpg",
+    "production_companies": [
+        {
+            "id": 123409,
+            "logo_path": null,
+            "name": "Tsuchida Production",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1985-07-13",
+            "episode_count": 18,
+            "id": 36117,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/jNSGRApNp9rLoDxOD3a2q6iV5YF.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1983-10-13",
+            "episode_count": 26,
+            "id": 36109,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oTPMqokw0nzvtFqOAY9wpO2aFRx.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1984-04-12",
+            "episode_count": 26,
+            "id": 36110,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/hCuTVJxoVVuK0pGwhwbQaAalLHS.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "1984-10-11",
+            "episode_count": 26,
+            "id": 36111,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/5T8eTuKZrkDK7aDfRvtylt0XkEp.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "1985-04-11",
+            "episode_count": 26,
+            "id": 36112,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/1rRzGVX27XAE1jw3AHXqhS6M8sF.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "1985-10-10",
+            "episode_count": 24,
+            "id": 36113,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/xngdWfRFJ06QtZJWKOn9cmTCOGU.jpg",
+            "season_number": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 614
+}

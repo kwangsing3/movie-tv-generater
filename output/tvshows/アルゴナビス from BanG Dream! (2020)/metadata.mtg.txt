@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/wJMlNGohXF18slqlaJSg42YndLg.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-04-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://anime.argo-bdp.com/",
+    "id": 101561,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-06",
+    "last_episode_to_air": {
+        "air_date": "2020-06-06",
+        "episode_number": 13,
+        "id": 2355414,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8eG2VyxlXDfrqyX1XgalqVlcE9y.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Argonavis from BanG Dream!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アルゴナビス from BanG Dream!",
+    "overview": "Ren Nanahoshi is a lonely college student who isn't good at communicating with others. He remembers the thrill of watching a live band perform when he was young, and spent most of his days searching for his own identity. One day, while singing karaoke alone, two boys named Yuuto and Wataru discover Ren's singing ability. The two agree: \"This is fate. Let's start a band!\" Ren promptly runs away, but fate indeed steps in, and their journey begins.",
+    "popularity": 1.807,
+    "poster_path": "/f3Ab7H8MD7rDLC0s7tvbE2OfZ8m.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-11",
+            "episode_count": 13,
+            "id": 147181,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9LDrvrjT5Xv922EAGl1Rf1qUiSv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

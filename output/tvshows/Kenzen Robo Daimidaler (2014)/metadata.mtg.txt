@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/7GF0kxyQE803X3LcsR5tgKrSyTu.jpg",
+    "created_by": [
+        {
+            "id": 1253090,
+            "credit_id": "5383b3c4c3a368737d00444d",
+            "name": "Tetsuya Yanagisawa",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2014-04-05",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://penguin-empire.com/",
+    "id": 60817,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-21",
+    "last_episode_to_air": {
+        "air_date": "2014-06-21",
+        "episode_number": 12,
+        "id": 1089854,
+        "name": "Showdown! Sound Robots vs Daimidaler",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/g7nuKlEvkzeag2uc5R5CW8twWwa.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Daimidaler the Sound Robot",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Kenzen Robo Daimidaler",
+    "overview": "In order to stop the mysterious \"Penguin Empire\" from interfering with world peace, secret organization \"Prince Beauty Parlor\" has developed a giant robot that is powered by a rare special energy source called \"Hi-ERo particles.\" Organization member Kyōko Sonan has located an ordinary high school student, Kōichi Madanbashi, with high amounts of Hi-ERo particles, making him a suitable candidate to pilot of the giant robot. But there is only one way to release his particles: allow Madanbashi to persuade him with lewd behavior.",
+    "popularity": 13.02,
+    "poster_path": "/7becJ8vETWWXH6p40efr44APCvo.jpg",
+    "production_companies": [
+        {
+            "id": 23917,
+            "logo_path": null,
+            "name": "TNK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-25",
+            "episode_count": 7,
+            "id": 60805,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/zEPhMGOnFgSrImmILdISaNjfbSF.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-04-05",
+            "episode_count": 12,
+            "id": 60800,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/glGZw1H88UK11ffK6S0Mc2NkPw6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 9
+}

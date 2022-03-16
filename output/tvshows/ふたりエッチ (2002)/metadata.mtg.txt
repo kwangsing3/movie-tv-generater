@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/1uRsaPaGVhJZzjSl5GJpLr0HaMN.jpg",
+    "created_by": [
+        {
+            "id": 1748303,
+            "credit_id": "5dbbd0910792e100134c4672",
+            "name": "Aki Katsu",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2002-07-26",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 26563,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-01-22",
+    "last_episode_to_air": {
+        "air_date": "2004-01-22",
+        "episode_number": 4,
+        "id": 1100978,
+        "name": "Yura In Costume",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Step Up Love Story",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ふたりエッチ",
+    "overview": "Makoto and Yura Onoda are a newly-wed couple with zero sexual experience. Yura is a shy and naive 25-year-old woman whose good looks grab men's attention, something that she dislikes because she gets embarrassed very easily. Her husband Makoto is of the same age, but as opposed to his wife, he loves having dirty thoughts about other women. Physically though, Makoto is truly faithful to Yura.\n\nBoth of them may be virgins, but now that they are married, they are ready to dive into the world of sex, \"practicing\" as often as possible. However, the world of sex is complex, so they need all the help they can get to find their way through it. Thankfully, their friends, acquaintances, and porn media lend them a helping hand.",
+    "popularity": 8.564,
+    "poster_path": "/gCkujErHXSAsryVkn7Cl7NjRM8s.jpg",
+    "production_companies": [
+        {
+            "id": 100241,
+            "logo_path": null,
+            "name": "Chaos Project",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-10-10",
+            "episode_count": 3,
+            "id": 135094,
+            "name": "Specials",
+            "overview": "Three new OVAs of Futari Ecchi released as standard DVDs and as part of a Premium DVD Box.",
+            "poster_path": "/xb1Q9BMmlLw1Po6ynXENiNZzuNe.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2002-07-26",
+            "episode_count": 4,
+            "id": 37118,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5ib2clZ0MnNN6vzq1onfP15iLRJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 6.8,
+    "vote_count": 4
+}

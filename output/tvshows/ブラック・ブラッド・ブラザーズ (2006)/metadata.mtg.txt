@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/1FiPbrqSAOMHZus9zE9HPQyG5Ve.jpg",
+    "created_by": [
+        {
+            "id": 1456654,
+            "credit_id": "60978c87cf4b8b003ea38d04",
+            "name": "Hiroaki Yoshikawa",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-09-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://danskeanimeklub.dk/Anime/Black_Blood_Brothers.php",
+    "id": 31741,
+    "in_production": false,
+    "languages": [
+        "ja",
+        "th"
+    ],
+    "last_air_date": "2006-11-24",
+    "last_episode_to_air": {
+        "air_date": "2006-11-24",
+        "episode_number": 12,
+        "id": 760231,
+        "name": "For The Eternity of Our Bloodline, I Devote Everything of This Blood",
+        "overview": "Jirou defeats Cassa, and later on finds out that in the eleventh yard lies the remains of the kowloon king. Then he is told to be Mimiko's guardian. A bit after Jirou tells Mimiko to not tell Kotarou abiout him being the reincarnation of the sage, Eve. Jirou seems to have gotten a job, and they all live happily ever after!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qJXXWcuLM6pIrjVGs446bxuJcrl.jpg",
+        "vote_average": 7,
+        "vote_count": 2
+    },
+    "name": "Black Blood Brothers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブラック・ブラッド・ブラザーズ",
+    "overview": "Black Blood Brothers, also known as BBB, is a light novel series written by Kōhei Azano and illustrated by Yuuya Kusaka. In 2006, Studio Live and Group TAC produced an anime based on the series. It is directed by Hiroaki Yoshikawa. It was licensed for North American release by Funimation Entertainment, with the first DVD being released in February 2008.",
+    "popularity": 8.87,
+    "poster_path": "/tAA1BKAqpRtnemHL8zF4cG7NtYn.jpg",
+    "production_companies": [
+        {
+            "id": 13067,
+            "logo_path": null,
+            "name": "Studio Live",
+            "origin_country": ""
+        },
+        {
+            "id": 5397,
+            "logo_path": null,
+            "name": "Group TAC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-09-08",
+            "episode_count": 12,
+            "id": 43245,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Thai",
+            "iso_639_1": "th",
+            "name": "ภาษาไทย"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 12
+}

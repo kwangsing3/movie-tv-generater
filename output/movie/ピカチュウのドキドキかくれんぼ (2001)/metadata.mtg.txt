@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/oR2P7RxYntNnxkdhQNUo71wQXCy.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 293245,
+    "imdb_id": "tt0304562",
+    "original_language": "ja",
+    "original_title": "ピカチュウのドキドキかくれんぼ",
+    "overview": "At a giant beachside mansion, Pikachu and some of its buddies decide to play a game of hide-and-seek. Pikachu is “it,” and it goes off in search of its friends. Meanwhile, Larvitar, sick of being all by itself, kicks a rock in anger. The rock hurtles through the air—and hits a lawnmower, turning it on and sending it tearing off after Pikachu and its friends! The group draws the lawnmower into a maze and even gets it into the water, but the lawnmower just keeps on chasing. The Pokémon build a road out of logs, hoping to get the lawnmower into a shack, but Psyduck trips and ruins the whole setup. How will the friends ever escape the lawnmower? This fantasy will have you on the edge of your seat!",
+    "popularity": 4.72,
+    "poster_path": "/kpwwkLkkamAQIfxMj68gghHU7S1.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2001-07-07",
+    "revenue": 0,
+    "runtime": 25,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pikachu's PikaBoo",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 7
+}

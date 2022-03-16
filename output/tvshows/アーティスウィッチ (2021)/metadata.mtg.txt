@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/5PffgVBHEwZC4zaSVHs7BcKcQ6w.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        9
+    ],
+    "first_air_date": "2021-05-28",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://artiswitch.com/",
+    "id": 125515,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-10",
+    "last_episode_to_air": {
+        "air_date": "2021-09-10",
+        "episode_number": 6,
+        "id": 2948641,
+        "name": "Nina \"Tobu Saihate\"",
+        "overview": "Nina resolves to quit witchcraft. Suddenly, herself from the past appears before her. Nina faces herself and remembers her school days. She was always alone, dreaming of a better world, never being able to change.  Made fun of by her classmates and nobody willing to help her, she heads to the roof to end it all.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xagoUVggMtADQlH19Kew8T5TCnG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Artiswitch",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アーティスウィッチ",
+    "overview": "Nina is a witch who works at one of the street shops of Harajuku. With her magical powers and supernatural abilities, Nina is able to satisfy the needs of her artsy customers. Although, these customers are only allowed to meet Nina when their true desire is well known to her.",
+    "popularity": 11.06,
+    "poster_path": "/pN3a13CEXYh6Ala1xtG72zEf1Vr.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-12-03",
+            "episode_count": 5,
+            "id": 234175,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-05-28",
+            "episode_count": 6,
+            "id": 194822,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pN3a13CEXYh6Ala1xtG72zEf1Vr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

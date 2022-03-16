@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/vG5Rkm3vMqUsRp252xeyMuYKtW7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://web.archive.org/web/20160826154526/http://kichiku.tv/",
+    "id": 62171,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-21",
+    "last_episode_to_air": {
+        "air_date": "2012-09-21",
+        "episode_number": 12,
+        "id": 1046860,
+        "name": "The World is Watching You",
+        "overview": "Akatsuki and Miu face off with Zahhak in a final battle. Meanwhile, the truth behind Phil is revealed in Alayzard and COCOON takes further notice of Akatsuki.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jS1CdzzbkgFlbYri9TsGxdavE9v.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "Aesthetica of a Rogue Hero",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はぐれ勇者の鬼畜美学",
+    "overview": "Since the discovery of “Samon Syndrome,” thousands of young people have traveled to fantasy worlds, the few returnees managing to keep the special abilities they acquired there.\n\nAkatsuki Ousawa, known as the “Rogue Hero,” discards his peaceful life in the fantasy world Alayzard to face new challenges upon returning to Earth. He comes back with Miu, the daughter of the Demon King he defeated, and is now forced to hide her true identity by having her pose as his little sister. The two soon join Babel, a special school designed for those who have acquired special abilities and magical powers through their journey to a fantasy world.\n\nBabel was seemingly founded to train young interdimensional travelers and “guide them to the right path for the sake of humanity and themselves,” but its true purpose remains unclear to the pseudo-siblings. Will Akatsuki and Miu be able to overcome the hostile, powerful student council and uncover the forces at play behind the scenes?",
+    "popularity": 26.032,
+    "poster_path": "/65y1Z0CaMYT31IUPgZYYxMgpayz.jpg",
+    "production_companies": [
+        {
+            "id": 12083,
+            "logo_path": "/jlk2Htq5C5ToDiIoM353xwpWwO6.png",
+            "name": "ARMS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        },
+        {
+            "id": 142186,
+            "logo_path": "/fCsUYQacBylGp6M7Fafz9Aza9GE.png",
+            "name": "Hakuhodo DY Music & Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        },
+        {
+            "id": 153145,
+            "logo_path": null,
+            "name": "HobbyJAPAN",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-06-27",
+            "episode_count": 7,
+            "id": 65337,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/2Jm6Fjm0TH5T83dQ1dxvOiIj7vy.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-07-06",
+            "episode_count": 12,
+            "id": 65336,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/a66yVE0hdCOW4ymW9ReUNzdh5yc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 30
+}

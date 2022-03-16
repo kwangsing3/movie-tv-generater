@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/eSf2moBoE4YdX7AgKLpZXamPkrW.jpg",
+    "created_by": [
+        {
+            "id": 94248,
+            "credit_id": "525962b9760ee3466197e4ab",
+            "name": "Shin Yoshida",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1247787,
+            "credit_id": "525962b7760ee3466197e49c",
+            "name": "Yasuyuki Suzuki",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1255755,
+            "credit_id": "525962b9760ee3466197e4a5",
+            "name": "Junichi Miyashita",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2006-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.irohanihoheto.jp/",
+    "id": 42833,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-04-06",
+    "last_episode_to_air": {
+        "air_date": "2007-04-06",
+        "episode_number": 26,
+        "id": 1400686,
+        "name": "Beyond the Sea",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Intrigue in the Bakumatsu – Irohanihoheto",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "GyaO!",
+            "id": 2819,
+            "logo_path": "/wD1kyr8RuPYSWfqHiswhMBpE2kf.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "幕末機関説 いろはにほへと",
+    "overview": "The Shogunate is in its final years, and war is fast approaching. When Yojiro Akizuki, a dark and mysterious mercenary, nears something supernatural with some kind of importance to him, the ornament on the end of his sword hilt waves in its direction, his eyes glow mysteriously, and he is driven to go after it. He comes across a traveling theater group who is out for revenge for the killing of the parents of the group's leader, and whose mysterious playwright likes to secretly help along events of history. Yojiro joins them to lend them his skill against their enemies, while dark conspiracy continues to follow behind him.",
+    "popularity": 8.541,
+    "poster_path": "/nmqOcWwY3mxPcyNsIlHxH9UsiP8.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2006-10-05",
+            "episode_count": 26,
+            "id": 52371,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yESba4rtjDrgcNsOizDbIZVA7Wq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

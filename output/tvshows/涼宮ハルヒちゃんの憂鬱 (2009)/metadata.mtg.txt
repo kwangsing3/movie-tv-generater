@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/cK8S9hZe0B8GVrKbTmv5kjysdL7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2009-02-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.haruhi.tv/haruchuru/",
+    "id": 95710,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-05-15",
+    "last_episode_to_air": {
+        "air_date": "2009-05-15",
+        "episode_number": 25,
+        "id": 2063088,
+        "name": "\"The Melancholy of Haruhi-chan Suzumiya\" PC game?!",
+        "overview": "Haruhi and Kyon try to decide on a new look for Mikuru, although their figure drawing skills are incredibly bad. Tsuruya helps out. Afterwards, Yuki shows Kyon that she has made a dating sim of the SOS Brigade, which is surprisingly full of bad ends.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7AZH2iwElp7FjCLIIxs4FmmgWIu.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Melancholy of Haruhi-chan Suzumiya",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "涼宮ハルヒちゃんの憂鬱",
+    "overview": "A parody series featuring the entire cast of The Melancholy of Haruhi Suzumiya in a smaller form factor. Among the changes are: Yuki plays eroge, Haruhi is even more obnoxiuous and loud, Mikuru is even more emotional and Koizumi harbors a deep love for Kyon. Kyon, on the other hand, is generally the same as ever.",
+    "popularity": 6.486,
+    "poster_path": "/dbnhIbwrBrjzBtH2RLHUc6TQ9WH.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-02-14",
+            "episode_count": 25,
+            "id": 136315,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dbnhIbwrBrjzBtH2RLHUc6TQ9WH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

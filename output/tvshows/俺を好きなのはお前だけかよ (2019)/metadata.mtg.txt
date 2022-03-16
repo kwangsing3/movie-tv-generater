@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/lHcScx9Qpj6OkTmnzPRGIRhn3FR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://ore.ski/tv/",
+    "id": 93019,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-26",
+    "last_episode_to_air": {
+        "air_date": "2019-12-26",
+        "episode_number": 12,
+        "id": 1944488,
+        "name": "The One I Love Is…",
+        "overview": "Huh? What are you talking about, Pansy? You already have someone who's promised to be your boyfriend? And it's…",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uyDncY58SndYThJSBpCVFGzr6bN.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "ORESUKI: Are you the only one who loves me?",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tochigi TV",
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "俺を好きなのはお前だけかよ",
+    "overview": "Kisaragi Amatsuyu is invited out alone by the cool beauty upperclassman Cosmos and his childhood friend Himawari. Expecting to hear their confessions, he triumphantly goes to meet each of them in turn. But Cosmos and Himawari both instead confess to Amatsuyu that they like his friend. Amatsuyu fights this lonely battle, but there is another girl who is looking at him. She is a gloomy girl with glasses and braids. Amatsuyu finds that he hates her, because she's always turning her sharp tongue only on him and finding enjoyment in his troubles. But it turns out that she's the only one who actually does like him.",
+    "popularity": 43.469,
+    "poster_path": "/4MojZik5N62IShd2BFVEHyaRBLP.jpg",
+    "production_companies": [
+        {
+            "id": 56949,
+            "logo_path": null,
+            "name": "CONNECT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-12-05",
+            "episode_count": 2,
+            "id": 137409,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/xOMfII6LNAaeI5Bw1uXnjXWKfEQ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-10-03",
+            "episode_count": 12,
+            "id": 131212,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2QiLVp65KUmwRhBolNKEUFyQgC3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 223
+}

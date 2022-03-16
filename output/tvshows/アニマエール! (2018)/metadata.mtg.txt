@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/kiP8qpYI2n8C3bzmrMAYxbkela8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://animayell.com/",
+    "id": 82929,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-23",
+    "last_episode_to_air": {
+        "air_date": "2018-12-23",
+        "episode_number": 12,
+        "id": 1604975,
+        "name": "One for All, All for One",
+        "overview": "The Kaminoki High School cheerleading club is fully prepared for their first tournament after they get new uniforms and train at their training camp. But right before their turn, the usually cheerful and energetic Kohane seems rather nervous...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vhjaf9Uuq6YuEtmtpaX6A8GmU3V.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Anima Yell!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アニマエール!",
+    "overview": "Hatogaya Kohane falls in love with cheerleading at the end of middle school, and begins a cheerleading club in high school with Arima Hizume and Saruwatari Uki. The positive, hard-working girls will be sure to cheer you up!",
+    "popularity": 11.228,
+    "poster_path": "/xDeLrbQ2MjwL10zo73Q0Afbjd7l.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-07",
+            "episode_count": 12,
+            "id": 110468,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/emKiAqc0ZuU0VXxZakjbEqEgx3m.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 3
+}

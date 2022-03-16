@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/6lTTB1rvMZOMJAVgr5IKz3eke2i.jpg",
+    "created_by": [
+        {
+            "id": 18602,
+            "credit_id": "5c97222e0e0a264cc3bfe16f",
+            "name": "Eiji Tsuburaya",
+            "gender": 2,
+            "profile_path": "/1bab6EGYUd8MxJ315jK1MKocoVK.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1979-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://m-78.jp/",
+    "id": 6218,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1980-03-12",
+    "last_episode_to_air": {
+        "air_date": "1980-03-12",
+        "episode_number": 50,
+        "id": 1653068,
+        "name": "To The Ultra Star! Conclusion: Towards Peace and Victory",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The☆Ultraman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ザ☆ウルトラマン",
+    "overview": "Jonias (Joe), a new Ultraman from U-40, merges with young Science Garrison member Chôichirô Hikari to defend the Earth in this, the first-ever animated Ultra Series. The show was the first animated incarnation of Tsuburaya's iconic superhero Ultraman.",
+    "popularity": 7.376,
+    "poster_path": "/ammXEG5yV9KP6Od56TqKRlJfmSy.jpg",
+    "production_companies": [
+        {
+            "id": 5905,
+            "logo_path": "/nsxsWWFe4WW43R6QOhaXWMpOadb.png",
+            "name": "Tsuburaya Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1979-04-04",
+            "episode_count": 50,
+            "id": 80849,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7KB6R8K5jX4yazJAkHDArwngNW9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

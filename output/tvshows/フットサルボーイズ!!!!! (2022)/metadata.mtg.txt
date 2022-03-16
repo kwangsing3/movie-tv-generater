@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/8PxFrQusLUF81AwkZNsXtJcoZJK.jpg",
+    "created_by": [
+        {
+            "id": 2425521,
+            "credit_id": "5d98b858a0be280011f708f2",
+            "name": "Mao Marita",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://futsalboys.com/",
+    "id": 94295,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 10,
+        "id": 3416336,
+        "name": "What I Don't Want to Lose",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fU3buIIeEZ6v46wgj9TSq508zcY.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Futsal Boys!!!!!",
+    "next_episode_to_air": {
+        "air_date": "2022-03-20",
+        "episode_number": 11,
+        "id": 3416337,
+        "name": "Indelible Memories",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "フットサルボーイズ!!!!!",
+    "overview": "Haru Yamato watches the championship of the U-18 world cup and is inspired by a Japanese player Tokinari Tenōji. He joins the Koyo Academy High School's futsal team with the goal of becoming a player like Tenōji. There, he finds friends, and together they face their rivals.",
+    "popularity": 64.609,
+    "poster_path": "/mGJi3pu20DXorvo08SNSzwyH9qf.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12502,
+            "logo_path": "/aDcFy26DtVbyZIFOZNTLsooWH5X.png",
+            "name": "Bandai Namco Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 136217,
+            "logo_path": "/dBYuplhBgeOsGPQOI0LukWNbFWE.png",
+            "name": "Bandai Namco Arts",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 12,
+            "id": 133596,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aXrcBP1g0UtqqhpbU9B3LwxIuEC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 2
+}

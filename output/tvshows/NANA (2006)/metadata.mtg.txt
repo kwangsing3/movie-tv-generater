@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/aWyL3mGDFPYJcy27tPQfTY2z1cP.jpg",
+    "created_by": [
+        {
+            "id": 137703,
+            "credit_id": "62249e01e375c00064a6e981",
+            "name": "Morio Asaka",
+            "gender": 2,
+            "profile_path": "/ipspL2Hr5cTHnlli4oUyvL20C0n.jpg"
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2006-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.ntv.co.jp/nana/index.html",
+    "id": 56568,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-03-28",
+    "last_episode_to_air": {
+        "air_date": "2007-03-28",
+        "episode_number": 47,
+        "id": 939490,
+        "name": "Fireworks Display, Hachi and NANA",
+        "overview": "Several years in the future, the members of Blast plus Hachi and her daughter Satsuke meet each other again at Room 707 for the fireworks display, but strangely Nana is not present. Back in 2001, Hachi has cold feet about seeing Nobu again so Nana lies and tells her that he won't be present for the fireworks.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9WKvXtL2QTW2bOz9cz5bqSionGa.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nana",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 47,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "NANA",
+    "overview": "Nana is a 2006 anime series based upon the manga of the same name. It centers on two girls with the same name and of the same age, crossing paths and ending up living together in Tokyo.",
+    "popularity": 33.783,
+    "poster_path": "/aqdwwMbM3dczEPHrbPnkIY1bGLI.jpg",
+    "production_companies": [
+        {
+            "id": 11725,
+            "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+            "name": "VAP",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6755,
+            "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-06-21",
+            "episode_count": 5,
+            "id": 58238,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-04-05",
+            "episode_count": 47,
+            "id": 58239,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pj9t56GYjlFwcWqPwILcLDj9YOt.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 29
+}

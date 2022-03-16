@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/xjlfkkARk6ApJwLWNFQ8Sf5O4e0.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://project-scard.com",
+    "id": 108977,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-04-03",
+    "last_episode_to_air": {
+        "air_date": "2021-04-03",
+        "episode_number": 13,
+        "id": 2622165,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lcyGvtudaj0X0X9HnHsilUmYpYs.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Scar on the Praeter",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プレイタの傷",
+    "overview": "In the wake of a rebellion in the Akatsuki Special Ward of Tokyo, agents known as the Scard rise up to become the protectors of peace. With Divine Tattoos that each possess unique powers, they’ll have to fight to preserve their own definitions of justice.",
+    "popularity": 13.798,
+    "poster_path": "/XD4BbghaZvoNWU84xT4S3tpslL.jpg",
+    "production_companies": [
+        {
+            "id": 7759,
+            "logo_path": null,
+            "name": "GoHands",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-09",
+            "episode_count": 13,
+            "id": 161570,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qyMM0PVhHNocADOGex4j2uyBQpL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2
+}

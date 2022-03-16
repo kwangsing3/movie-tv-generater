@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": "/6qwbib8digp121qA9xj3STeq2KC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-09",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://kamuy-anime.com",
+    "id": 76757,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-21",
+    "last_episode_to_air": {
+        "air_date": "2020-12-21",
+        "episode_number": 12,
+        "id": 2462125,
+        "name": "To Live",
+        "overview": "Asirpa reaches Kiroranke to witness his final moments and tell him that she has remembered something important. The group leaves Ako, but before going back to Hokkaido they need to find a doctor take care of Tsukishima's and Ogata's wounds.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/fNMLULaX4DUzIpQVWvrjlfA3rAU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Golden Kamuy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 36,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゴールデンカムイ",
+    "overview": "The story takes place in the mighty Northern field of Hokkaido, the time is in the turbulent late Meiji Era. A post war soldier Sugimoto, aka, “Immortal Sugimoto” was in need of large sums of money for a particular purpose…. What awaited Sugimoto, who stepped into Hokkaido’s Gold Rush with dreams of making a fortune, was a tattoo map leading to a hidden treasure based on hints inscribed on the bodies of convicts in Abashiri Prison?! The magnificent nature of Hokkaido vs vicious convicts and the meeting with a pure Ainu girl, Ashiripa!! A survival battle for a hidden treasure hunt begins!",
+    "popularity": 47.163,
+    "poster_path": "/lUAOwL9wKFJSF6rBA98XNgKzw4b.jpg",
+    "production_companies": [
+        {
+            "id": 104682,
+            "logo_path": "/i87rCY8dRbWWgW3o9jnwWE5qa3Z.png",
+            "name": "Geno Studio",
+            "origin_country": "JP"
+        },
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-17",
+            "episode_count": 41,
+            "id": 103261,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/iXoGhyILQSE3wuQ4C2tTS75XZXg.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-04-09",
+            "episode_count": 12,
+            "id": 98657,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2JHsPAfbUjYpMQB0irvJ5gKg8D5.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-10-08",
+            "episode_count": 12,
+            "id": 110515,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/uTMeQmbZ2Q9qVxhH3iPL7wrutNc.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2020-10-05",
+            "episode_count": 12,
+            "id": 155695,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/p0rLSbMngHwDJwetbO0U6Kdrv84.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 234379,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 33
+}

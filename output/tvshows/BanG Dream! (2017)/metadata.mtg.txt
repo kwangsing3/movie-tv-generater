@@ -1,0 +1,138 @@
+{
+    "adult": false,
+    "backdrop_path": "/zdsVkgZnf8AXqELvQl5jn3P0JCb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-01-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://anime.bang-dream.com",
+    "id": 69236,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-02-25",
+    "last_episode_to_air": {
+        "air_date": "2020-02-25",
+        "episode_number": 13,
+        "id": 2217527,
+        "name": "This... This Right Here is the Girl Band Generation!",
+        "overview": "The Girls Band Challenge finals arrive as Poppin'Party, RAS, and Roselia assemble at the Budokan, where they help set up the stage. Before Poppin'Party's performance, Rimi confides to her band that she is hesitant to play as the finals symbolize the end of their journey up to that point. However, she and the band are uplifted when they hear the crowd recite their pre-performance chant. Poppin'Party and Roselia perform new songs, while RAS play a rendition of Chiyu's birthday song. The audience votes for the winner, with Roselia claiming the Grand Prize; to the others' surprise, RAS receives the Best Performance title while Poppin'Party is named Best Band. The three bands close out the event by playing their collaboration song.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/kVtnTlTGkttQTXXMPyH1RSjwMhA.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "BanG Dream!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BanG Dream!",
+    "overview": "Since she was very young, Kasumi Toyama has always been searching for the \"Star Beat\", a sparkling and exciting sound she heard while looking up at the night sky. Just after getting into high school, Kasumi comes across a \"star-shaped guitar\" in the storage area of an old pawn shop. Feeling a rush and excitement she has never felt before, Kasumi teams up with four other girls and embarks on a journey to seek out the shiny place. We promise to perform a live here!",
+    "popularity": 28.904,
+    "poster_path": "/xiSuITwX1KbHpq5SdgmfXf5HXGC.jpg",
+    "production_companies": [
+        {
+            "id": 90183,
+            "logo_path": null,
+            "name": "Issen",
+            "origin_country": ""
+        },
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 43363,
+            "logo_path": null,
+            "name": "Sanzigen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-08-19",
+            "episode_count": 1,
+            "id": 96292,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/hgfKJEQPe8su3PhG4AlCI871Lx6.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-01-21",
+            "episode_count": 13,
+            "id": 83099,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kqw9s3dsIvVxMp26fR7lyE14cJk.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-01-03",
+            "episode_count": 13,
+            "id": 110809,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/utlH3mENnk2LnXSicXNFyxEvqBB.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2020-01-23",
+            "episode_count": 13,
+            "id": 138661,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/zQKXS7jLfNn2g0QRGzAylRjnWiZ.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 11
+}

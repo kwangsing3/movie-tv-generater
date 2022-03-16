@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/kIvNNCOaw6hmMDYzo4dU1cwL21O.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://www.layton-anime.jp/",
+    "id": 78479,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-31",
+    "last_episode_to_air": {
+        "air_date": "2019-03-31",
+        "episode_number": 50,
+        "id": 1711149,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xcHwrOMpVPZ1anN5a4UD10jDFWh.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Layton Mystery Detective Agency: Kat's Mystery‑Solving Files",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "レイトン ミステリー探偵社 ～カトリーのナゾトキファイル～",
+    "overview": "The story is set in London and follows Katrielle as she solves mysteries with her talking dog Sherl.",
+    "popularity": 11.614,
+    "poster_path": "/ce3KtE6u6n643mFM1RlIxn0xEUe.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-08",
+            "episode_count": 50,
+            "id": 101738,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pIA0EqZ3tgGktaNLxvk52pGXqN3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 4
+}

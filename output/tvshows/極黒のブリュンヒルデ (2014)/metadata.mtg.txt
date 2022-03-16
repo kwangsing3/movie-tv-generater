@@ -1,0 +1,140 @@
+{
+    "adult": false,
+    "backdrop_path": "/i2xnzNq8BB4ywzk4lYirKYqZorp.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-04-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.vap.co.jp/gokukoku/",
+    "id": 60805,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-29",
+    "last_episode_to_air": {
+        "air_date": "2014-06-29",
+        "episode_number": 13,
+        "id": 988821,
+        "name": "Things to Protect",
+        "overview": "Valkyria's relationships with both Ichijiku and Neko are revealed in the final episode. Will everyone make it out alive?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/t6RR3A433uQYAE1fs3FU9fBXLj3.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Brynhildr in the Darkness",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Nitteleplus",
+            "id": 2268,
+            "logo_path": "/AfCnFZJO8d0jP8VTtx3Gi1UcYLJ.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chukyo TV",
+            "id": 2727,
+            "logo_path": "/KaIK93kJFD8WKH451owMdmNOSz.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS4",
+            "id": 3220,
+            "logo_path": "/naTpOY8AjRtgBw0JXafrhAD8ZBT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Yomiuri Telecasting Corporation",
+            "id": 3746,
+            "logo_path": "/wWiz0zwFX6WOXQSwsPyTCKITNQK.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "極黒のブリュンヒルデ",
+    "overview": "When he was a child, Murakami was friends with a girl he called Kuroneko. One day, while trying to prove the existence of aliens to Murakami, she is killed in an accident that he barely survives. Guilty of his role in the accident, Murokami decides to dedicate his life to proving that aliens exist. Then, one day, a new student with mysterious powers transfers into his class who not only looks a lot like Kuroneko, but is named Kuroha, Neko.",
+    "popularity": 16.368,
+    "poster_path": "/A8O3GlJESEjfRnV72Ju50AjxjB.jpg",
+    "production_companies": [
+        {
+            "id": 12083,
+            "logo_path": "/jlk2Htq5C5ToDiIoM353xwpWwO6.png",
+            "name": "ARMS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-09-24",
+            "episode_count": 1,
+            "id": 98445,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/quiw3yOXt0GwT9AVIvow6rM0Hj3.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-04-06",
+            "episode_count": 13,
+            "id": 60785,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cHtKPmAwQJhov6FTbvSQsChwA03.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 16
+}

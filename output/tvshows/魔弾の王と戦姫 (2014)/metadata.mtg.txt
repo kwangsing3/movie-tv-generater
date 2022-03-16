@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/6AdrFk7XwMTl4rMmbtc5xuGwzMW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2014-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.madan-anime.jp",
+    "id": 72699,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-12-27",
+    "last_episode_to_air": {
+        "air_date": "2014-12-27",
+        "episode_number": 13,
+        "id": 1334816,
+        "name": "The Widening World",
+        "overview": "Devasted by his surrogate father's loss, Tigre is conforted by Elen. Badouin shows up, and invites Regin back to see the king, who has regained his senses. However, Thenardier stands in their way, and a final showdown between him and Tigre awaits!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9Ixa4blBkNHwXREcUhgSRNuyhpa.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Lord Marksman and Vanadis",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔弾の王と戦姫",
+    "overview": "Tigrevurmud Vorn, the young lord of a remote region far from the kingdom's center, is commanded by the king to go fight the war against a neighboring country. The leader of the enemy is Eleonora Viltaria, one of the seven Vanadis given supernatural arms from a dragon. The moment when an archer boy and the silver-haired beautiful war maiden meet, it is the beginning for the legend of a hero that will be told for generations to come.",
+    "popularity": 19.017,
+    "poster_path": "/5nSMCL9m2OKHP4ciGbfcSlOBAFd.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-10-05",
+            "episode_count": 14,
+            "id": 149296,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ywv4zhBYnvO7aPU8g4HL8TSkDEY.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-10-04",
+            "episode_count": 13,
+            "id": 90201,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eUoSlXnv5XMaGdAc7HGGekhLhT9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 17
+}

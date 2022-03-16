@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/aMqe9Ne9Rx3HZa3sdquqWnTmAQL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2010-01-25",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.katanagatari.com",
+    "id": 46374,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-12-11",
+    "last_episode_to_air": {
+        "air_date": "2010-12-11",
+        "episode_number": 12,
+        "id": 909372,
+        "name": "Gun, the Firearm",
+        "overview": "As Togame lays dying in Shichika's arms, she tells him that all of this was a part of her plan and that had she not died, she intended on killing him after he retrieved all twelve blades. Having manipulated everything, including her heart, into her plan, she says that her feelings were real and dies asking Shichika if it's ok for her to fall for him.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dWORoW6KQid7Pa2kSs3tPRpMhGu.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Katanagatari",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "刀語",
+    "overview": "The historical epic centers on Shichika Yasuri, the seventh generational head of the Kyotō-ryū school of martial arts in medieval Japan. He and his older sister Nanami live on an isolated island, until a military advisor named Togame tells him of the final 12 swords forged by a legendary swordsmith. At Togame's bidding, Shichika embarks on a journey to find all 12 of the swords.",
+    "popularity": 15.541,
+    "poster_path": "/1CINVja7GUEDna1lZDPRgxlsrm9.jpg",
+    "production_companies": [
+        {
+            "id": 12569,
+            "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+            "name": "White Fox",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-01-25",
+            "episode_count": 12,
+            "id": 54643,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xoium6NvuxNguQYz1CnHZ44OijV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.4,
+    "vote_count": 23
+}

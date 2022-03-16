@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/wClLWreoQRD5AMJgooNCtib6EYF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-07-07",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 24667,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2003-09-29",
+    "last_episode_to_air": {
+        "air_date": "2003-09-29",
+        "episode_number": 13,
+        "id": 644799,
+        "name": "The Children of the Future Will Pull Through",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shadow Star Narutaru",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "なるたる ～骸なる星・珠たる子～",
+    "overview": "A girl named Shiina Tamai bonds with a starfish-shaped \"dragonchild\" whom she calls Hoshimaru.",
+    "popularity": 6.194,
+    "poster_path": "/8ixARvxzqc4COaJwf5kXJweS0Op.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-07-07",
+            "episode_count": 13,
+            "id": 34853,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/At7WW9G5hPb1DEffwT9C1HDm0Dt.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 5
+}

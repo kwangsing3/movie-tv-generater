@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/xjaV9rlOr8DxsM44swgTjuAkp5C.jpg",
+    "created_by": [
+        {
+            "id": 1649838,
+            "credit_id": "5786b325c3a3687ef10005e7",
+            "name": "Kotaro Ishidate",
+            "gender": 2,
+            "profile_path": "/i2IyhTi39Pj5XwMJM77ZtOFWzxJ.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2016-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.nariagirls.com/",
+    "id": 67091,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-22",
+    "last_episode_to_air": {
+        "air_date": "2016-09-22",
+        "episode_number": 12,
+        "id": 1917422,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/h2l22rh5lBcVza3RhYZUOo5ehq0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mahou Shoujo? Naria Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法少女? なりあ☆がーるず",
+    "overview": "",
+    "popularity": 2.02,
+    "poster_path": "/x3jUq2KsCRWvC2hiLJDmAaSknOn.jpg",
+    "production_companies": [
+        {
+            "id": 145288,
+            "logo_path": null,
+            "name": "Bouncy",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-07",
+            "episode_count": 12,
+            "id": 78471,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2nEiHxq2vrSwsTXfRCmjthhi043.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1
+}

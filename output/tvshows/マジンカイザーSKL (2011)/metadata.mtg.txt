@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/zXFVBOhteOnevBSKMNm4RlP8Pra.jpg",
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "597cbaafc3a36854170014e2",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        },
+        {
+            "id": 1031950,
+            "credit_id": "597cba9cc3a368542e0016a9",
+            "name": "Jun Kawagoe",
+            "gender": 2,
+            "profile_path": "/xN7GApQUyYdeYPg81kQgIHFCgbD.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2011-01-28",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.mazinkaizer-skl.com/",
+    "id": 53728,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-04-07",
+    "last_episode_to_air": {
+        "air_date": "2011-04-07",
+        "episode_number": 3,
+        "id": 1391628,
+        "name": "Final Count",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mazinkaiser SKL",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マジンカイザーSKL",
+    "overview": "The world government learns that Machine Island's power reactor has become unstable and will explode within 66 hours, destroying the Earth. The island contains a vast amount of resources, allowing competing factions to create an infinite supply of giant robots for their respective armies. The government sends the Death Caprice squad, composed of mercenaries Ken Kaido and Ryo Magami to solve the problem, along with their giant robot Mazinkaiser.",
+    "popularity": 2.39,
+    "poster_path": "/dGE2s1Kyu5CAxjmya0kPMJsMVEn.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2011-01-28",
+            "episode_count": 3,
+            "id": 56453,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 9,
+    "vote_count": 3
+}

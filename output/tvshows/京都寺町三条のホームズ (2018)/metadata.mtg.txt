@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/juSdnxGR64fma152dE5DGXt0FVS.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2018-07-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://kyototeramachi-holmes.com",
+    "id": 80464,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-25",
+    "last_episode_to_air": {
+        "air_date": "2018-09-25",
+        "episode_number": 12,
+        "id": 1525961,
+        "name": "Conditions of an Heir",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9SuAlkn2bD3kJW3TBh1sY7ozqtd.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Holmes of Kyoto",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "京都寺町三条のホームズ",
+    "overview": "Holmes, a young man whose family runs an antique shop in Kyoto, has the unique ability to read people and instantly distinguish genuine and high value antiques. When a local high school student, Aoi Maki, starts working alongside Holmes, together they begin to unravel the many mysteries surrounding the antiques brought to the shop.",
+    "popularity": 6.378,
+    "poster_path": "/a8yXXdwaA09ybatErlrMKfyXJOd.jpg",
+    "production_companies": [
+        {
+            "id": 92966,
+            "logo_path": "/9zBMa5LyxHKyatDLHJGal7jetHR.png",
+            "name": "Seven",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-10",
+            "episode_count": 12,
+            "id": 105636,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nA38Y1tTObN3MMIKaw5EwOCtRxX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 4
+}

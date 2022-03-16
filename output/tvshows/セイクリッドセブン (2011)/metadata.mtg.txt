@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/pqvZBOiiquaJfy7cPTyL3Kumk8l.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.sacred7.jp",
+    "id": 42505,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-18",
+    "last_episode_to_air": {
+        "air_date": "2011-09-18",
+        "episode_number": 12,
+        "id": 880852,
+        "name": "Sacred Seven",
+        "overview": "Kenmi's laughter echoes through the forest. Hes absorbed Number 0s energy and plans to consume Alma, who holds a purer power of the Sacred Seven. To stop Kenmi's ambition, Naito attacks. Their last battle surrounding the Sacred Seven has begun.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sacred Seven",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "セイクリッドセブン",
+    "overview": "Sacred Seven, is a 2011 Japanese science fiction anime television series produced by Sunrise under the direction of Yoshimitsu Ohashi. Script supervisor is Shin Yoshida with mechanical designs by Ippei Gyōbu. The series began broadcasting in Japan starting July 3, 2011 on the Mainichi Broadcasting System and later will be rebroadcast by TV Kanagawa, TV Aichi, Tokyo MX, and Teletama. The anime was originally licensed by Bandai Entertainment for streaming, but they shut down in 2012. At Otakon 2013, Sunrise had announced that Sacred Seven will be licensed by Sentai Filmworks.",
+    "popularity": 4.029,
+    "poster_path": "/kTYUHmTcH5UdmBhOr9Ry85C9GUw.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-07-03",
+            "episode_count": 12,
+            "id": 52230,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fBJTakfhvw2QIOCDLpetk3F3iZD.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/o6klyxY6AJxLCGxMGpNz4FML3Yw.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2003-05-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 45491,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-03-25",
+    "last_episode_to_air": {
+        "air_date": "2005-03-25",
+        "episode_number": 4,
+        "id": 902905,
+        "name": "Dawn, Beyond the dream...",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Guardian Hearts",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 10,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "がぁーでぃあんHearts",
+    "overview": "Maya, Kurusu, and Chelsea hit it off really well when trying to get revenge on Guardian Hearts for making them suffer. Maya and company thought that Guardian Hearts usually appears when Kazuya is getting along with a girl. Not knowing that Guardian Hearts is actually Hina, they leave her alone with Kazuya in an attempt to lure out Guardian Hearts.",
+    "popularity": 0.691,
+    "poster_path": "/dVmZOiONjg4X8lrpA9uIbM3HzmE.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-05-23",
+            "episode_count": 6,
+            "id": 54132,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2005-01-28",
+            "episode_count": 4,
+            "id": 54133,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7,
+    "vote_count": 1
+}

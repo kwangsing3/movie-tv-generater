@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/bP50AwTIuXrBDO9feiAiE7IwyZA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.kyoukai-senki.net/",
+    "id": 120966,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-28",
+    "last_episode_to_air": {
+        "air_date": "2021-12-28",
+        "episode_number": 13,
+        "id": 3395358,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kYMnXYdSLWG5F5pNK1YTbdhXtzf.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "AMAIM Warrior at the Borderline",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "境界戦機",
+    "overview": "In 2061, Japan is under a state of occupation by multiple states. The world, including Japan, has been consolidated under the rule of four trade blocs. The entire archipelago is now the frontline of conflict. The Japanese people live under a state of constant occupation and oppression, with humanoid war machines called AMAIM patrolling its streets. A young introverted boy named Amō Shiiba has a chance meeting with the autonomous AI Gai, and his acquisition of the AMAIM Kenbu begins a story that will see him attempting to take back Japan. Gashin Tezuka is a reticent and frank 16-year-old member of the Japanese resistance who pilots the AMAIM Ghost to avenge his father.",
+    "popularity": 32.133,
+    "poster_path": "/ciVI9scPYlAgvfA7PGFBtw9Os78.jpg",
+    "production_companies": [
+        {
+            "id": 131964,
+            "logo_path": "/1BE6u0VTC2didfng8w1qK5bUo6k.png",
+            "name": "Sunrise Beyond",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-05",
+            "episode_count": 13,
+            "id": 186337,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5gVEGJdVHBORS4wZ1AXgE4zKme1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 4
+}

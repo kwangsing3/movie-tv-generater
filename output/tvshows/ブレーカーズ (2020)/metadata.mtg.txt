@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/uBNyNDjyeHRjj1yGyodnLAG99GQ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        9
+    ],
+    "first_air_date": "2020-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www6.nhk.or.jp/anime/program/detail.html?i=breakers",
+    "id": 96377,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-07",
+    "last_episode_to_air": {
+        "air_date": "2020-03-07",
+        "episode_number": 16,
+        "id": 2315544,
+        "name": "Paralympic Swimming Chapter #04",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Breakers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK",
+            "id": 2334,
+            "logo_path": "/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブレーカーズ",
+    "overview": "Centers on para-athletes who all meet an outcast sports scientist named Ren Narita. The anime will have four stories about four different sports: wheelchair basketball, track and high jump, goalball, and paralympic swimming.",
+    "popularity": 3.75,
+    "poster_path": "/ae0HS5DKPyAM1zowZ1ZRB07WLSg.jpg",
+    "production_companies": [
+        {
+            "id": 126395,
+            "logo_path": null,
+            "name": "Albacrow",
+            "origin_country": ""
+        },
+        {
+            "id": 11376,
+            "logo_path": "/lrglrxyGOMRl9KCsmcjmzjjpT2H.png",
+            "name": "NHK Enterprises",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-07",
+            "episode_count": 16,
+            "id": 137908,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mJ56V8qAGMkacOFDawIJicZZ7Bb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/5tv4aDBaKdHtFQ7r9fsTsiujHTH.jpg",
+    "created_by": [
+        {
+            "id": 80930,
+            "credit_id": "5258277e760ee36aaa826fe6",
+            "name": "Yutaka Izubuchi",
+            "gender": 2,
+            "profile_path": "/i5VbEU91iQMrfByrrSoZsQGv3Sg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2002-01-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.mediafactory.co.jp/anime/rahxephon/",
+    "id": 13375,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-09-10",
+    "last_episode_to_air": {
+        "air_date": "2002-09-10",
+        "episode_number": 26,
+        "id": 497921,
+        "name": "Far Beyond Eternity",
+        "overview": "The RahXephon has transformed into its final state and the battle between the Xephons has begun. The outcome will not only determine the fate of Ayato and his loved ones but also the world.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ocUVIjpWMjb9TU22W3QPLrtXUTE.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "RahXephon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラーゼフォン",
+    "overview": "In a world where time passes at a crawl and the blood of your neighbor runs blue, 17 year old high school student Ayato Kamina goes about his daily life within Tokyo Jupiter oblivious to the world around him, having been educated with the fact that the all civilization but Tokyo has been destroyed. But all that changes when the mysterious civilization \"MU\" invades his home, raining destruction down from the sky in the form of strange monsters called Dolems. The events that occur next will lead Ayato to the mysterious woman named Reika Mishima, to the truth of their existence, the discovery of what and who he is, and to the powerful angelic robot RahXephon.",
+    "popularity": 16.068,
+    "poster_path": "/sQhAs3I1nqZusc5y7s0KiaFmju3.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-08-07",
+            "episode_count": 3,
+            "id": 24359,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2002-01-21",
+            "episode_count": 26,
+            "id": 24360,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qbylR3vkcmPKICGBLASkSZF2pZF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 14
+}

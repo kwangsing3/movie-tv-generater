@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/aZN0XI30gwliem88kzE55LE4I.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://sakurakosan.jp/",
+    "id": 64699,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-12-24",
+    "last_episode_to_air": {
+        "air_date": "2015-12-24",
+        "episode_number": 12,
+        "id": 1222791,
+        "name": "What Lies Beneath Sakurako...",
+        "overview": "With his life once again becoming far too normal, Shotaro recalls his initial impression of Sakurako and the first mystery they solved together.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qJyutQKg3IZn4ugBrj3mt2WyhPp.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Beautiful Bones: Sakurako’s Investigation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "櫻子さんの足下には死体が埋まっている",
+    "overview": "Shōtarō Tatewaki is a normal high school student with a serious demeanor hangs around with Sakurako Kujō. Sakurako is an extraordinarily beautiful woman in her mid-20s from a rich family who loves \"beautiful bones.\" The two live in the city of Asahikawa in Hokkaido, and they get involved in various incidents regarding bones.",
+    "popularity": 14.195,
+    "poster_path": "/zZVY6Sx4mFOuWsWwOKXhyTrxYZy.jpg",
+    "production_companies": [
+        {
+            "id": 70163,
+            "logo_path": "/cwUwQqO5SNrDJoC92XTOKg7c1Gc.png",
+            "name": "TROYCA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-10-08",
+            "episode_count": 12,
+            "id": 72748,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dUoF4LoSYniFsGz5iN5VRK2qWRn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 20
+}

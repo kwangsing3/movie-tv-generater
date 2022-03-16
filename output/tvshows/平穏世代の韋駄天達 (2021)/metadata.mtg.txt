@@ -1,0 +1,139 @@
+{
+    "adult": false,
+    "backdrop_path": "/p0F2nVd9oLZQnZrP2bswqOI6NCp.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2021-07-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://idaten-anime.com",
+    "id": 107001,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-10-01",
+    "last_episode_to_air": {
+        "air_date": "2021-10-01",
+        "episode_number": 11,
+        "id": 3060839,
+        "name": "Smells Fishy",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1yz3Qt53JpSmJRscJ0UqBsT2Nxx.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Idaten Deities Know Only Peace",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "平穏世代の韋駄天達",
+    "overview": "It has been 800 years since the incredibly fast and powerful gods of battle known as the Idaten had sealed away the demons after an intense battle. Now, that battle is just considered a myth or a fairytale. While the current generation of Idaten who have never even had to fight are enjoying their peaceful lives, someone awakened the demons once again! Armed forces, ingenuity, politics, and intrigue. If you've got it, use everything you can! This three-way battle royale with no rules and no limits is about to begin!!",
+    "popularity": 144.941,
+    "poster_path": "/osCAbL4rdGUVLH3o2rlYZpDaiCb.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 162011,
+            "logo_path": "/bg6yrVhnmv6eNE8cMWehyE9wAeb.png",
+            "name": "Gree Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 131015,
+            "logo_path": null,
+            "name": "Hakusensha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150545,
+            "logo_path": "/df2KyiUSCxpoQxV88AI3zxu8kbD.png",
+            "name": "dugout",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-23",
+            "episode_count": 11,
+            "id": 158200,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4kiRZVpjXwqzULkOWcTCxstWQDO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 31
+}

@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/3KKxXWi5EyousKTejSJFU8vDjsj.jpg",
+    "created_by": [
+        {
+            "id": 1368908,
+            "credit_id": "5fe4b806160e73003eaafa1c",
+            "name": "Tsuneo Kobayashi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2001-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://pierrot.jp/archives/tv_list_2000/tv_053.html",
+    "id": 28261,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-03-31",
+    "last_episode_to_air": {
+        "air_date": "2002-03-31",
+        "episode_number": 52,
+        "id": 2791323,
+        "name": "Goodbye ♥ Ran-ran → The Skies of Shibuya Remain Unchanging",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Super GALS!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "超GALS! 寿蘭",
+    "overview": "Sporting designer clothes, make-up, and nails, Ran Kotobuki is the very picture of a trendy, young Shibuya girl, but don't let that fool you. This girl comes from a family of cops, and she’s ready to lay you out flat if you even think about causing trouble in her town! At least, she will... when she’s not distracted with karaoke, shopping, and dodging her homework. Join Ran and her friends as they defend the streets of Shibuya and attempt to shop their way into the history books as the most famous Gals ever!",
+    "popularity": 3.73,
+    "poster_path": "/ey1643pVgJGaUOWN7jefEJ19H5W.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-04-01",
+            "episode_count": 52,
+            "id": 39432,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5Xbze2i7TC5LPZRFS94cOCq8tSe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/xb0uOUJsDI2z7DKVQoz7YuEjvcn.jpg",
+    "created_by": [
+        {
+            "id": 1454439,
+            "credit_id": "616e07ed6728a8008cb52f67",
+            "name": "Hisashi Eguchi",
+            "gender": 1,
+            "profile_path": "/pZOET9l5YLTINyZwGUMjtM1KU46.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1983-05-20",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://lineup.toei-anim.co.jp/ja/tv/hibarikun/",
+    "id": 95560,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-02-25",
+    "last_episode_to_air": {
+        "air_date": "1984-02-25",
+        "episode_number": 35,
+        "id": 3241093,
+        "name": "Super Hibari Travels Through Time?!",
+        "overview": "Hibari is possessed by white alligators that want to possess her, but she has a mystical barrier that stops them. She develops psychic powers as a result of the alligator's possession, including time travel. The episode ends with Hibari chasing Kōsaku who cries out \"Stop!! Hibari-kun\".",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4NgS8eDowQl3vIdQkBWbM3uNJA4.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Stop!! Hibari-kun!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 35,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ストップ！！ひばりくん！",
+    "overview": "A teenage boy has now moved in the home of his mother's friend, because she had died a while back. It just so happens that the Yakuza family has four beautiful daughters, but one daughter, Hibari, who is more beautiful then the rest of the daughters, is actually a boy. Hibari just can't keep his hands off our hero and so their crazy yet happy lives go on.",
+    "popularity": 2.922,
+    "poster_path": "/aJhu2cbpyH6ltmWrmCATSr5DzP6.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1983-05-20",
+            "episode_count": 35,
+            "id": 136024,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dfwT94ZiwZWDiY7PrsY081MegBB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

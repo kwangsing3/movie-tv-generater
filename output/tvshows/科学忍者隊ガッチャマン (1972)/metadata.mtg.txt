@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/doA8rL4ppck7rK0aj2GuS7nm37x.jpg",
+    "created_by": [
+        {
+            "id": 70216,
+            "credit_id": "5258289c760ee36aaa83be57",
+            "name": "Tatsuo Yoshida",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1972-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 13549,
+    "in_production": false,
+    "languages": [
+        "es",
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1980-12-30",
+    "last_episode_to_air": {
+        "air_date": "1980-12-30",
+        "episode_number": 13,
+        "id": 500984,
+        "name": "Violence?! The Decisive Battle of Agrika",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Science Ninja Team Gatchaman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 205,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "科学忍者隊ガッチャマン",
+    "overview": "Science Ninja Team Gatchaman is a five-member superhero team that is composed of the main characters in several anime created by Tatsuo Yoshida and originally produced in Japan by Tatsunoko Productions and later adapted into several English-language versions. It is also known by the abbreviated name Gatchaman.\n\nThe original series, produced in 1972, was eponymously named Kagaku Ninja Tai Gatchaman and is most well known to the English-speaking world as the adaptation titled Battle of the Planets. The series received additional English adaptations with G-Force: Guardians of Space and ADV Films' uncut 2005 release. Tatsunoko also uses the official translation Science Commando Gatchaman, as shown in numerous related products and media. Because the English-language versions are notoriously inconsistent not only with one another but also with the original Japanese series, viewers most familiar with the English versions often experience some confusion upon re-examining the series after a long hiatus.\n\nThe original 1972 Kagaku Ninja Tai Gatchaman series was followed by an animated film, two sequel series, Gatchaman II, and Gatchaman Fighter. In the 90's, episodes from both series were dubbed into English by Saban as Eagle Riders. In 1994, the original series was remade as a condensed OVA series.",
+    "popularity": 41.056,
+    "poster_path": "/q6zcVMKWh8LJBmRvBBhhOO2i2dD.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1994-10-01",
+            "episode_count": 3,
+            "id": 24565,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1972-10-01",
+            "episode_count": 105,
+            "id": 24567,
+            "name": "Gatchaman",
+            "overview": "",
+            "poster_path": "/oshNYObe39jUKu2Ar2aoddRNSSs.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1979-10-07",
+            "episode_count": 52,
+            "id": 24566,
+            "name": "Gatchaman II",
+            "overview": "Peace has been restored to Earth... but not for long. After two short years, Sosai X announces his return by crashing into and sinking the cruise ship Queen Margaret; kidnapping one of the survivors--a four-year-old girl named Sammie Pandora, and force-growing her into GelSadora, the next general of Gallactor. The Syndicate restores its forces and begins capturing military and scientific experts, leaving the ISO no recourse but to revive its own first line of defense: the Kagaku Ninjatai.\n\nBut with Condor Joe missing and presumed dead, things aren't quite the same, and even with new weapons and vehicles, the team is at a loss. Dr. Nambu compounds the problem by bringing in a new G-2, Getz the Hawk.",
+            "poster_path": "/hdaJBskl97gekvGpXe1FW8rMSY0.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "1979-10-07",
+            "episode_count": 48,
+            "id": 24568,
+            "name": "Gatchaman Fighter",
+            "overview": "A surviving fragment of Sosai X mutates into Sosai Z and recruits megalomaniac Count Egobossler to create an army to conquer the world. To combat this new threat, the Science Ninja Team Gatchaman once again return with newer weapons and a new ship - the Gatchaspartan. But with the new weapons comes a heavy price: the more Ken the Eagle uses his weapon Gatchafencer as part of the Gatchaspartan's ultimate weapon, the weaker he gets as the weapon mysteriously and slowly drains his life force.",
+            "poster_path": "/llyoQtCvAHJ5ShlHsHnYAix6sgF.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 47
+}

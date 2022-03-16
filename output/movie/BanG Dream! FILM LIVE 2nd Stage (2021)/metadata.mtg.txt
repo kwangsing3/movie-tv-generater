@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://anime.bang-dream.com/filmlive2/",
+    "id": 745115,
+    "imdb_id": "tt14264308",
+    "original_language": "ja",
+    "original_title": "BanG Dream! FILM LIVE 2nd Stage",
+    "overview": "",
+    "popularity": 5.332,
+    "poster_path": "/um5Np3pSx37jynpzaherRhvFcTr.jpg",
+    "production_companies": [
+        {
+            "id": 43363,
+            "logo_path": null,
+            "name": "Sanzigen",
+            "origin_country": "JP"
+        },
+        {
+            "id": 42196,
+            "logo_path": "/nQNmHvcmaT0zk1Rf0TYtLYO5MpI.png",
+            "name": "Bushiroad",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-08-20",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "BanG Dream! FILM LIVE 2nd Stage",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1
+}

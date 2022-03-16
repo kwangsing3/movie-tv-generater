@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/5ObKAXKJjfEfDEJw6qZ1SoXnZOi.jpg",
+    "created_by": [
+        {
+            "id": 1658148,
+            "credit_id": "579fecdbc3a3687637000b06",
+            "name": "Maki Murakami",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2000-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 30979,
+    "in_production": false,
+    "languages": [
+        "ja",
+        "de"
+    ],
+    "last_air_date": "2001-01-10",
+    "last_episode_to_air": {
+        "air_date": "2001-01-10",
+        "episode_number": 13,
+        "id": 749459,
+        "name": "Got It All",
+        "overview": "Shuichi's got alot of problems, He lost his voice, probably due to worry, Yuki's gone off somewhere, and Ryu-Chan seems to be annoyed with him for some reason. Hiro eventually persuades him to go to find Yuki, will he find Yuki there? and what will happen?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gravitation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "グラビテーション",
+    "overview": "Gravitation follows goofy, wannabe pop star Shuichi Shindo, on his journey to fame with his best friend Hiroshi Nakano and their band, Bad Luck.  Along the way, Shuichi meets famous (male) author, playboy Eiri Yuki, and falls in love.  Bad Luck is signed to a major record label, and Shuichi must learn how to deal with stardom, jealousy,  interference in his band, meeting his musical icon, and dealing with his first romantic relationship - a same-sex celebrity one, at that.",
+    "popularity": 4.765,
+    "poster_path": "/1WGRX9mvcycn3PgNap0clEy0KgJ.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-10-04",
+            "episode_count": 13,
+            "id": 42532,
+            "name": "Gravitation",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 9
+}

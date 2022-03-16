@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/3R2U3E2h3ozGPxVmdUVGz1VJF8R.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1986-01-19",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 13224,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1987-12-27",
+    "last_episode_to_air": {
+        "air_date": "1987-12-27",
+        "episode_number": 50,
+        "id": 2742490,
+        "name": "Goodbye South Town (2)",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Maple Town",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 102,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "メイプルタウン物語",
+    "overview": "The adventures of Patty Rabbit and Bobby Bear, who live in the small utopian city of Maple Town.",
+    "popularity": 4.73,
+    "poster_path": "/9nGLZM1Y7M60pxg8bR87GDsqSym.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1986-01-19",
+            "episode_count": 52,
+            "id": 75688,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/At85PeuJnWXkPQY3t469L9wK9jE.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1987-01-18",
+            "episode_count": 50,
+            "id": 182476,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/2Xl4cUykTBHRs5c6wqW3kIlY48K.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.9,
+    "vote_count": 7
+}

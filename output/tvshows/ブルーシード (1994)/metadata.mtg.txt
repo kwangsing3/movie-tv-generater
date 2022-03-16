@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/eiz7M9HqWE8UVhe8cn6WmBdqeJS.jpg",
+    "created_by": [
+        {
+            "id": 1250381,
+            "credit_id": "5fb525090d5d850041433d2c",
+            "name": "Yuzo Takada",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "1994-10-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 12634,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-03-29",
+    "last_episode_to_air": {
+        "air_date": "1995-03-29",
+        "episode_number": 26,
+        "id": 485324,
+        "name": "New Soul!",
+        "overview": "The giant Arigami buds are blooming, causing mitamas to fall to earth. The mitamas cause all whom they touch to turn to plants...\n\nMomiji screams in pain as the Kushinada pulse is turned on her. Kaede hears her screams, but says that it is \"\"too late.\"\" She melds herself into Susano-oh's mitama in order to protect him from Murakumo, who is still attacking.\n\nMurakumo suffers a few blows from Kusanagi before burying one of his heads into Susano-oh. Murakumo laughs, announcing that he has won, as he begins to drain Susano-oh's energy. Kaede only shakes her head and calls him a fool.   Murakumo continues to feed off of Susano-oh's power until his mitama grow to be huge. Then suddenly, his mitama shatter. As Murakumo is left writhing in pain, Susano-oh finishes him with an energy bolt.\n\nThe children of Japan can hear the Kushinada's pulse, Momiji's song, and are starting to sing along with it.\n\nMomiji has almost completed the matsuri. The members of the TAC note that they all feel warm and happy",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Blue Seed",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブルーシード",
+    "overview": "Momiji Fujimiya, is a descendant of the mythical Princess Kushinada. When Japan is menaced by Aragami spawned by Yamato-no-Orochi, Momiji is intended to be sacrificed to appease the Aragami. She instead, however, becomes a member of the Terrestrial Administration Center, a secret agency charged with fighting them.",
+    "popularity": 6.286,
+    "poster_path": "/4qRkaylYRQNzUhR1k5XSgU5UMC2.jpg",
+    "production_companies": [
+        {
+            "id": 53504,
+            "logo_path": null,
+            "name": "Nihon Ad Systems",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 39020,
+            "logo_path": null,
+            "name": "production reed",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-09-23",
+            "episode_count": 19,
+            "id": 23531,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1994-10-15",
+            "episode_count": 26,
+            "id": 23530,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4qRkaylYRQNzUhR1k5XSgU5UMC2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 3
+}

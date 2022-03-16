@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/2qjIhDmuCOUellWM8ffimVcApgk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://shingekinobahamut-genesis.jp/",
+    "id": 61445,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-30",
+    "last_episode_to_air": {
+        "air_date": "2017-09-30",
+        "episode_number": 24,
+        "id": 1497878,
+        "name": "Run Nina, Run",
+        "overview": "Kaisar looks death in the eyes when protecting Charioce XVII from Jeanne and Azazel. Meanwhile, Bahamut unleashes a torrent of destruction across the world. As the end draws near, difficult decisions become inevitable.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/sQNpK4F9VYJFxAv1YvWhVmXIERN.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rage of Bahamut",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 36,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "神撃のバハムート",
+    "overview": "Two thousand years ago, the black-and-silver-winged dragon, Bahamut, terrorized the magical land of Mistarcia. The humans, god, and demons that inhabited the land united forces against the fiend and sealed its power into a key which was split in two, one half protected by gods and the other protected by demons. Now, Mistarcia is a peaceful realm – until a human woman steals the god’s half of the key. Based on the immensely popular digital card game, Rage of Bahamut: Genesis is an exciting blend of action and fantasy.",
+    "popularity": 32.181,
+    "poster_path": "/osUNCb2v2kIlyLg9DgM5zBlnyRB.jpg",
+    "production_companies": [
+        {
+            "id": 39181,
+            "logo_path": "/3jDDMqYfDO8r30PiXplFoDu1ORi.png",
+            "name": "Cygames Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-11-17",
+            "episode_count": 3,
+            "id": 64100,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/hhZU97EZiDb9OjrtduPT8wbwXPG.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-10-06",
+            "episode_count": 12,
+            "id": 62921,
+            "name": "Rage of Bahamut: Genesis",
+            "overview": "",
+            "poster_path": "/5htKv2YiIQhwGT5KUp1RuLe2z5y.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-04-08",
+            "episode_count": 24,
+            "id": 90705,
+            "name": "Rage of Bahamut: Virgin Soul",
+            "overview": "10 years after the world escaped destruction due to the revival of Bahamut, humans at the royal capital gather wealth, the demons are enslaved to assist with the capital's revival, and the gods lose their power due to a decrease in religious piety. The world is thrown off balance as humans, gods, and demons hold their own ideas of justice.",
+            "poster_path": "/597BHrtlKzwZiFnri70Zoi9HJNG.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 90
+}

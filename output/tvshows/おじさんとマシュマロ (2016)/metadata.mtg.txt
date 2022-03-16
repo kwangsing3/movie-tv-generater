@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/RLBhLZmRCikcvxzd6JBDefVEoz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2016-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 65298,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-03-25",
+    "last_episode_to_air": {
+        "air_date": "2016-03-25",
+        "episode_number": 12,
+        "id": 1306720,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ojisan and Marshmallow",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おじさんとマシュマロ",
+    "overview": "Kusaka is an older man who loves marshmallows, and Wakabayashi is an OL (office lady) who loves Kusaka. Their relationship unfolds at their office.",
+    "popularity": 5.893,
+    "poster_path": "/f3nDL1OxUueX1kdIgOFHFFT6BNE.jpg",
+    "production_companies": [
+        {
+            "id": 89293,
+            "logo_path": "/66LF3OiMvsoHzgus6tZ49HntGiK.png",
+            "name": "Creators in Pack",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-01",
+            "episode_count": 1,
+            "id": 152265,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-01-08",
+            "episode_count": 12,
+            "id": 73897,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tpIayu3mCpUiRcu0HMotHLhERFm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 32
+}

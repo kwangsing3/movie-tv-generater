@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/xpNMg8aZ5BthXxXoB6lddMrVs7f.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2007-05-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tokuma.co.jp/coil/",
+    "id": 13265,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-12-01",
+    "last_episode_to_air": {
+        "air_date": "2007-12-01",
+        "episode_number": 26,
+        "id": 495712,
+        "name": "Yasako and Isako",
+        "overview": "Yasako comes face to face with the true nature of the Coil Domain and Michiko. Even with the support of her friends, can she save Isako?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gPwi9ytox5Ufq5m7OKLcvjUsEZb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Den-noh Coil",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK Educational TV",
+            "id": 622,
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "電脳コイル",
+    "overview": "Dennō Coil, Coil — A Circle of Children, is a Japanese science fiction anime television series depicting a near future where semi-immersive augmented reality technology has just begun to enter the mainstream. The series takes place in the fictional city of Daikoku, a hotbed of AR development with an emerging city-wide virtual infrastructure. It follows a group of children as they use AR glasses to unravel the mysteries of the half real, half Internet city, using a variety of illegal software tools, techniques, and virtual pets to manipulate the digital landscape.\n\nDennō Coil, in development for over a decade, is the series director debut of Japanese animator Mitsuo Iso. It premiered on NHK Educational TV on May 12, 2007. Due to the animators involved in its production and its unusually high-profile television broadcast time slot, Dennō Coil was highly anticipated.",
+    "popularity": 16.392,
+    "poster_path": "/mrNWHDSem2e5wVNIJqHoQe7eYK4.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11376,
+            "logo_path": "/lrglrxyGOMRl9KCsmcjmzjjpT2H.png",
+            "name": "NHK Enterprises",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1779,
+            "logo_path": "/41nGzTdCnORYZIZzaGZtfsBwQCl.png",
+            "name": "Tokuma Shoten",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-08-25",
+            "episode_count": 3,
+            "id": 24182,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/5OBkvo8wXUD78XcEDlTaAImbjmr.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-05-12",
+            "episode_count": 26,
+            "id": 24181,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1kMfXVBeUVTfXpXySTcL4eQu6ZB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 13
+}

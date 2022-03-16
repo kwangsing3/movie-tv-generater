@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/u3KuxVFbrEIGHqvz2F84mElLAM2.jpg",
+    "created_by": [
+        {
+            "id": 1664473,
+            "credit_id": "6227c1fcfd140b001bab7a80",
+            "name": "Natsumi Itsuki",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1997-10-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 44754,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1997-11-25",
+    "last_episode_to_air": {
+        "air_date": "1997-11-25",
+        "episode_number": 2,
+        "id": 1611334,
+        "name": "Part 2",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Eight Clouds Rising",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "八雲立つ",
+    "overview": "Fuzuchi Kuraki is a quiet young high school student blessed with immense psychic powers and an ancient sword. He is searching for other magical artifacts with the help of Nanachi Takeo, a college student with latent powers of his own. They delve deep into the dark magic of Izumo, only to discover the secrets buried within the birthplace of all Japanese mythology!",
+    "popularity": 0.694,
+    "poster_path": "/3DgTE1LcaG2iItbpwZVsTcNm0iJ.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 15237,
+            "logo_path": null,
+            "name": "Media Blasters",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1997-10-25",
+            "episode_count": 2,
+            "id": 112000,
+            "name": "OVA",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Two young men are bound by a sword that can cleave souls.",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/qmEv1X36WyNzGO0B02Eysf9PMai.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2012-04-13",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tsuritama.com/",
+    "id": 45283,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-06-29",
+    "last_episode_to_air": {
+        "air_date": "2012-06-29",
+        "episode_number": 12,
+        "id": 900511,
+        "name": "Goodbye Fishing",
+        "overview": "The legendary lure has been found, but will Yuki have enough time and strength to cast it before DUCK launches the missiles.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/oKGqGp9dMD4mAU4UXxaFHq2Nkl1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tsuritama",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "つり球",
+    "overview": "Yuki Sanada has always felt like a fish out of water. Socially awkward and anxious, he struggles to fit in with his surroundings and moves from town to town with his grandma. As he and his grandma settle into the charming seaside town of Enoshima, Yuki hopes for a fresh start. However, his reputation at school is jeopardized by the arrival of fellow transfer student Haru. The eccentric Haru immediately makes a splash, wildly claiming to be an alien and declaring that Yuki is his friend. Pairing the reluctant Yuki with their classmate and fishing talent, Natsuki Usami, he tasks both of them with the absurd mission of saving the world from a mysterious threat in the ocean. Mischief and hijinks ensue, as these three embark on a whimsical adventure filled with laughs, heart, and self-discovery!",
+    "popularity": 8.112,
+    "poster_path": "/1yoAAwD26fPYpILq2YCjzwVCJSy.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-13",
+            "episode_count": 12,
+            "id": 53921,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sagaiS7aNWLD2a70CZaMaK0wkA.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Saving the world... by fishing?",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

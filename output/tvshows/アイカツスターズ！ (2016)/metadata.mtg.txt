@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/f7nWK7iPKLJzQXt8D7C1w9fgUs6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/aikatsustars",
+    "id": 65929,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-29",
+    "last_episode_to_air": {
+        "air_date": "2018-03-29",
+        "episode_number": 100,
+        "id": 1473550,
+        "name": "To the Unseen Future",
+        "overview": "Yume, Rola, Koharu, Mahiru and Ako decide to spend their final vacation together having fun before Rola leaves for England. The girls spend a night in the country and are joined by Yuzu and Lillie.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/1PBn7ykfFKwEQCyucSw70yBMME1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Aikatsu Stars!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Disney XD",
+            "id": 44,
+            "logo_path": "/nKM9EnV7jTpt3MKRbhBusJ03lAY.png",
+            "origin_country": "US"
+        },
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS Japan",
+            "id": 1198,
+            "logo_path": null,
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 100,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイカツスターズ！",
+    "overview": "Yume Nijino aims to become a top idol, and she enrolls in the Yotsuboshi Gakuen (Four Stars Academy). This academy has a special group called the S4, who are the top four active idols in the school. Yume and the other first-year students aim to become a part of the S4.",
+    "popularity": 26.877,
+    "poster_path": "/veAX2RjDx7pAz937TQVLRaAYNFm.jpg",
+    "production_companies": [
+        {
+            "id": 74440,
+            "logo_path": "/mf1nS1bfySc1XM5EmPZp4qsAOoy.png",
+            "name": "Bandai Namco Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-07",
+            "episode_count": 50,
+            "id": 75440,
+            "name": "Season 1",
+            "overview": "The story follows a girl named Yume Nijino who enrolls at Yotsuboshi Gakuen (Four Star Academy) in order to become a top idol and join the popular group S4 which she admires.",
+            "poster_path": "/i783B5o3S9g2kSElY7GD7cHndGF.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-09-07",
+            "episode_count": 50,
+            "id": 86843,
+            "name": "Wing of the Star",
+            "overview": "An idol academy in the form of a luxurious cruise ship suddenly appears, and it's name is the Venus Ark! The one leading the cruise is the perfect idol, Elza Forte!!",
+            "poster_path": "/bVNeXGzcVKUPOk7mgCytjQfzpuN.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 3
+}

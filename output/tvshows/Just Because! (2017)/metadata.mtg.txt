@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/wwrJIvrQx87WYmp3AMCoqAHR8qn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2017-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://justbecause.jp",
+    "id": 74096,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-28",
+    "last_episode_to_air": {
+        "air_date": "2017-12-28",
+        "episode_number": 12,
+        "id": 1382026,
+        "name": "Get set, go!",
+        "overview": "Eita fails his entrance exam. He receives a text from Mio telling him she passed the test for her first choice. It's graduation and everyone says their good-byes. Eita tells Komiya that he was happy when she confessed to him but still, he can't go out with her because there is someone else he likes. After he left, she is seen crying in the club room. Eita runs into Mio at Joei; he confesses to liking her and she reciprocates.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vRavUZWfzDTweKbFrTT6IIZivu4.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Just Because!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Just Because!",
+    "overview": "Just Because! is a Japanese original anime television series by Hajime Kamoshida, the author of The Pet Girl of Sakurasou, and Kiseki Himura, the author of Getsuyōbi no Tawawa. Pine Jam produced the animation.",
+    "popularity": 13.574,
+    "poster_path": "/2yy1IKa2a5eixz8IWAYRYqhm92T.jpg",
+    "production_companies": [
+        {
+            "id": 91510,
+            "logo_path": "/1eYmEppUaIhXUhejVYPJQhwx4JP.png",
+            "name": "Pine Jam",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-10-05",
+            "episode_count": 12,
+            "id": 93141,
+            "name": "Season 1",
+            "overview": "The story focuses on the feelings of a group of high school students approaching graduation, and the sudden appearance of a transfer student who changes their lives.",
+            "poster_path": "/m8btDJLjNfnivopleabqmZeVt8U.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 18
+}

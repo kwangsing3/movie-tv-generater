@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/xyfUlZxVGCmYrFBi5mRHBnqr4Dy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2020-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://tatamichan.com/",
+    "id": 96655,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-26",
+    "last_episode_to_air": {
+        "air_date": "2020-06-26",
+        "episode_number": 12,
+        "id": 2223889,
+        "name": "It's a Halloween Party, Tatami-chan",
+        "overview": "It’s a Halloween monster mash! Except the monsters aren’t the real monsters.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yIMxJ5I6VgO9HfezNsbaIVQsQVs.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The House Spirit Tatami-chan",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ざしきわらしのタタミちゃん",
+    "overview": "The \"pleasant horror gag comedy\" centers around the life of Tatami-chan, a sardonic ghost from Iwate Prefecture who is now living in Tokyo among other spirits, supernatural entities, and humans. In addition to dealing with otherworldly matters, the unemployed Tatami-chan also has to deal with job-hunting as well as paying for gas, water, and electricity.",
+    "popularity": 8.15,
+    "poster_path": "/aMTzYlr0NqYNR9pp6I9rqMIdTLl.jpg",
+    "production_companies": [
+        {
+            "id": 109854,
+            "logo_path": null,
+            "name": "Zero-G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-10",
+            "episode_count": 12,
+            "id": 138634,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tQV0VVkHkgFdt10Kt0JFMoACzR6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3,
+    "vote_count": 3
+}

@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/4nXI9dZL1ADFD3fG2K3daWSa95o.jpg",
+    "created_by": [
+        {
+            "id": 2041453,
+            "credit_id": "5e6d36db357c000019427e39",
+            "name": "Michiaki Watanabe",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1996-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 77159,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1997-03-19",
+    "last_episode_to_air": {
+        "air_date": "1997-03-19",
+        "episode_number": 25,
+        "id": 1433654,
+        "name": "The Neverending Road",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3jmJPVfLXHCfn2XMghiG9u8klcQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Violinist of Hamelin",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハーメルンのバイオリン弾き",
+    "overview": "Flute is a young girl living in the small Staccato village of the kingdom of Sforzend, till the day when Queen Horn's barrier is destroyed, and that Flute learns she is the queen's daughter... Now to protect the world from the menacing army of demons, she must travel to the capital with her mysterious childhood friend Hamel, who has still to learn the truth about his own heritage.",
+    "popularity": 2.847,
+    "poster_path": "/qLoegKzeyLwZtebIDnPM83Xp84d.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1996-09-25",
+            "episode_count": 1,
+            "id": 203644,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1996-10-02",
+            "episode_count": 25,
+            "id": 99444,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qLoegKzeyLwZtebIDnPM83Xp84d.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 2
+}

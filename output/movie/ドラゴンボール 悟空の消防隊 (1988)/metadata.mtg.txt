@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/uAyrXQMBP405HUUnocxALXXKQel.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 122401,
+    "imdb_id": "tt1297444",
+    "original_language": "ja",
+    "original_title": "ドラゴンボール 悟空の消防隊",
+    "overview": "Goku's Fire Brigade is a ten-minute public service video about fire safety, which aired in Japan in June 1988. This video features the main Dragon Ball characters having jobs as firefighters and Bulma living in a new apartment with Scratch.",
+    "popularity": 16.074,
+    "poster_path": "/lJ08VXUa2tQ9MtMeWw7iepWYMJW.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1988-06-01",
+    "revenue": 0,
+    "runtime": 11,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dragon Ball: Goku's Fire Brigade",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 30
+}

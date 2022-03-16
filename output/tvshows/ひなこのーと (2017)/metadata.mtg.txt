@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/jPXnW9emZ0tvuL0GbqVLv7YHQTJ.jpg",
+    "created_by": [
+        {
+            "id": 233549,
+            "credit_id": "60b1892817792c0029b3925c",
+            "name": "Takeo Takahashi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://hinakonote.jp/",
+    "id": 71006,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-06-23",
+    "last_episode_to_air": {
+        "air_date": "2017-06-23",
+        "episode_number": 12,
+        "id": 1378444,
+        "name": "The Place We Longed to Reach",
+        "overview": "Hinako is too cold to fall asleep, so she heads downstairs for a warm drink and notices a tasty smell coming from the coffee shop. Curiously, she peeks into the dark kitchen... and sees Mayuki stirring something in a large pot, chanting Chiaki's name like some sort of spell. Hinako timidly speaks up, and Mayuki's reaction makes it appear that she's hiding something. Unable to bring herself to question this strange behavior further, Hinako tells Kuina about what she saw.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uxbBsbdgjZ76qZRoTZDAXjslmUy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hinako Note",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ひなこのーと",
+    "overview": "Born and raised in the countryside of Japan, Hinako \"Hina\" Sakuragi gets anxious easily when she talks to new people—so much so that she resembles a stiff scarecrow. To overcome this, Hina hopes to get involved in theater, inspired by a play she saw during her school's field trip. So, Hina moves into the Hitotose Manor in the bustling city of Tokyo to study at Fujiyama High School, aspiring to join the school's renowned theatre club.\n\nBut to Hina's dismay, she learns that Fujiyama High's theatre club has been on a lengthy hiatus. Having already come to Tokyo and enrolled in the school, Hina is at a loss for what to do next. Sensing her disappointment and eagerness to learn theatre, Chiaki Hagino, the landlady of Hitotose Manor, encourages Hina to create a troupe with the residents of Hitotose Manor as its members.\n\nThis story follows Hina as she begins a new life in Tokyo attending Fujiyama High while learning the ropes of theatre with the support of her friends along the way.",
+    "popularity": 8.658,
+    "poster_path": "/h5dev2xCgeJGvoLlf39mlSoqk2h.jpg",
+    "production_companies": [
+        {
+            "id": 87086,
+            "logo_path": null,
+            "name": "Sony Music Communications",
+            "origin_country": ""
+        },
+        {
+            "id": 6954,
+            "logo_path": null,
+            "name": "Enterbrain Inc.",
+            "origin_country": ""
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-04-07",
+            "episode_count": 12,
+            "id": 86825,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bjvJQztHUVoQPisjAnCc1ccrG4H.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 6
+}

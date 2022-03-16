@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/sDPaIH831sCEw9czWPgjacLHx1b.jpg",
+    "created_by": [
+        {
+            "id": 1902122,
+            "credit_id": "59d969c8c3a36861ec0313fd",
+            "name": "Akita Shoten",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/yoichi/",
+    "id": 46033,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-03-26",
+    "last_episode_to_air": {
+        "air_date": "2009-03-26",
+        "episode_number": 12,
+        "id": 906282,
+        "name": "Tommorow's Yoichi!",
+        "overview": "Yoichi, Kagome, Chihaya and Ayame arrive at the Saginomiya residence, a pagoda-shaped castle. They cross the river surrounding the castle using a raft built from surrounding trees. Ukyou orders Sakon to chase Yoichi's group away. She reluctantly accepts. Yoichi's group enters the castle and sees Sakon standing on the top of a staircase. She reveals that Ukyou plans to marry Ibuki today. Then Sakon's maids attack the party, to which Yoichi successfully blocks. Sakon's use of sleeping gas backfires and causes her maids fall asleep. Yoichi pleads Sakon to return Ibuki. Sakon slaps Yoichi and dissapears. Yoichi's group encounter more guards. Luckily, Washizu, Tsubame, Angela and Torigaya intervene. Torigaya gives Washizu his metal-spiked gloves. Yoichi, Kagome, Chihaya and Ayame chase Sakon into the chapel, where Ukyou is preparing his wedding. Ukyou and Ibuki escapes through a hidden platform. Yoichi follows Ukyou to the rooftop, where they fight each other. Ibuki recovers her memory but falls off the roof. Both Yoichi's group and Ukyou attempt to follow but Ukyou is held back by Sakon hugging his legs. Yoichi's group falls into a river. Yoichi grabs onto Ibuki's breast to stop himself from drowning. Ibuki makes him fly with one punch. Yoichi sent a letter to his father of his wishes to stay at the Ikaruga dojo.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uQA5vHZL9joFrxOlQQ4jSO5LDg7.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Samurai Harem",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "明日のよいち!",
+    "overview": "Having been raised and trained for the past seventeen years as a traditional samurai 'bushi', Yoichi was surprised when his father suddenly announces that there nothing more that he could teach his son, but he arranges for Yoichi to continue training at a dojo owned by one of his fathers friends. So now, Yoichi must leave the tranquility of his remote rural mountain life and move to city to live with his fathers friend's family to continue his studies. And if learning how to cope with city life were not hard enough, he finds himself living with 4 beautiful sisters, and having to endure a ‘training’ regiment more severe than he could ever imagine...",
+    "popularity": 11.898,
+    "poster_path": "/7gXqdvLZIwKTDDEWYTof8sLvEHw.jpg",
+    "production_companies": [
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-01-08",
+            "episode_count": 12,
+            "id": 54411,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/didcNyLBEHFvYBjmQGdPSHaogkb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 27
+}

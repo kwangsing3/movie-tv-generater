@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        }
+    ],
+    "homepage": "http://fuse-anime.com/",
+    "id": 204755,
+    "imdb_id": "tt2403867",
+    "original_language": "ja",
+    "original_title": "伏 鉄砲娘の捕物帳",
+    "overview": "In Kyokutei Bakin's classic Japanese epic novel Nansou Satomi Hakkenden, eight samurai serve the Satomi clan during Japan's tumultuous Sengoku (Warring States) era. The Edo-era samurai are the reincarnations of the spirits that Princess Fuse mothered with a dog named Yatsufusa. In Fuse Gansaku: Satomi Hakkenden, the female hunter Hamaji comes to her brother in order to hunt Fuse. Thus, the karmic cycle of retribution that began long ago with the Satomi family begins anew.  Fuse were hybrid creatures of humans and dogs in the Edo period. As there were rumors saying that they killed humans and ate their souls, the Shogun Government offered high bounty for hunting them.  Hamaji was a young female huntress living in the rural part of Mutsu while her brother Dousetsu was living in Edo. The story began as Hamaji went to Edo in order to help his brother to earn some bounty. But in Edo, she met a mysterious young men being chased by others. His name was Shino ...",
+    "popularity": 7.278,
+    "poster_path": "/juZoY7FRaSqYmuGy1rFnhp55mtW.jpg",
+    "production_companies": [
+        {
+            "id": 3033,
+            "logo_path": "/AwgX2FHGJd54aSWfWJqptFvT1h.png",
+            "name": "Asmik Ace",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2012-10-20",
+    "revenue": 0,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Fusé: Memoirs of a Huntress",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 18
+}

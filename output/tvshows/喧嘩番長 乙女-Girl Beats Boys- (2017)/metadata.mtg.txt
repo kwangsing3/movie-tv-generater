@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/tLk6EVRT3KyccnaWmFCWCKnmFzt.jpg",
+    "created_by": [
+        {
+            "id": 1795403,
+            "credit_id": "58efbc7192514118c800058b",
+            "name": "Noriaki Saitō",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        8
+    ],
+    "first_air_date": "2017-04-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://kbo-anime.com/",
+    "id": 71010,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-06-28",
+    "last_episode_to_air": {
+        "air_date": "2017-06-28",
+        "episode_number": 12,
+        "id": 1378583,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    "name": "Kenka Banchou Otome: Girl Beats Boys",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "喧嘩番長 乙女-Girl Beats Boys-",
+    "overview": "",
+    "popularity": 6.17,
+    "poster_path": "/4AbTs4z6n4KbyKKAyKICv4Dyb6e.jpg",
+    "production_companies": [
+        {
+            "id": 74464,
+            "logo_path": null,
+            "name": "project No.9",
+            "origin_country": "JP"
+        },
+        {
+            "id": 101170,
+            "logo_path": null,
+            "name": "A-Real",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-04-12",
+            "episode_count": 12,
+            "id": 86829,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 11
+}

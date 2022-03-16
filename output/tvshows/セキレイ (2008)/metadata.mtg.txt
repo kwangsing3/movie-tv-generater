@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/uwgvSLHNaLgpAhRhJ4uYU0NXKWX.jpg",
+    "created_by": [
+        {
+            "id": 1728011,
+            "credit_id": "58610f1cc3a3681a6f02cb97",
+            "name": "Sakurako Gokurakuin",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2008-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.sekirei-tv.com/",
+    "id": 34805,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-09-26",
+    "last_episode_to_air": {
+        "air_date": "2010-09-26",
+        "episode_number": 13,
+        "id": 792728,
+        "name": "Bonds of Truth",
+        "overview": "Seo aids Matsu in securing MBI data for Higa while Minato and Musubi confront Minaka before he escapes, leaving the MBI Tower as it gets destroyed. Karasuba engages Musubi after she threatens death of Minato's other Sekireis. Under a Norito, Musubi was able to defeat Karasuba for the latter to concede defeat. With the tower destroyed, everyone began to return back to their normal lives. Higa was covertly given false data after Seo advised Matsu. Thanks to the data recovery, Chiho was successfully cured of her sickness.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/jRJDdTVWg9mHi6gdOT3iHRL7OCR.jpg",
+        "vote_average": 10,
+        "vote_count": 2
+    },
+    "name": "Sekirei",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "セキレイ",
+    "overview": "Sekirei is a Japanese manga series by Sakurako Gokurakuin. The manga began serialization in the seinen magazine Young Gangan published by Square Enix in December 2004. An anime adaptation produced by Seven Arcs and directed by Keizō Kusakawa aired in Japan between July and September 2008, and a second season aired between July and September 2010. Both seasons are licensed in North America by Funimation Entertainment. The central character of the series is Minato Sahashi, a ronin who failed college examinations twice. His life changes, however, when he meets a girl named Musubi.",
+    "popularity": 34.149,
+    "poster_path": "/yhRR18sb6lVddhPupn8QiopTbhB.jpg",
+    "production_companies": [
+        {
+            "id": 34767,
+            "logo_path": "/bwQwcvERESoieoPksEq1iZsRW0J.png",
+            "name": "Seven Arcs",
+            "origin_country": "JP"
+        },
+        {
+            "id": 72552,
+            "logo_path": null,
+            "name": "Seven Arcs Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-03-25",
+            "episode_count": 3,
+            "id": 45588,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/omi9VLzRApGSmJYyDFSbED0TllV.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-07-02",
+            "episode_count": 12,
+            "id": 45586,
+            "name": "Sekirei",
+            "overview": "",
+            "poster_path": "/yhRR18sb6lVddhPupn8QiopTbhB.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2010-07-04",
+            "episode_count": 13,
+            "id": 45587,
+            "name": "Sekirei: Pure Engagement",
+            "overview": "",
+            "poster_path": "/xmifOZPoMrkaRqgSN1woXQLxa0d.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 29
+}

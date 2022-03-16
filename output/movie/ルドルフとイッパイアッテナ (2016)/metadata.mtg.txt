@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/sDpyzJHOREuE3OJffRUHTFNgeSr.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 429005,
+    "imdb_id": "tt5912052",
+    "original_language": "ja",
+    "original_title": "ルドルフとイッパイアッテナ",
+    "overview": "Rudolf, a black stray cat, is suddenly separated from his beloved master. He unexpectedly wakes up in a long-distance truck that takes him to metropolis Tokyo. There, he meets Ippai-attena, a big boss cat feared by everyone in town. Unable to return home, Rudolf starts a life as a stray with Ippai-attena, but Ippai-attena isn't all that he seems to be.",
+    "popularity": 6.911,
+    "poster_path": "/54qg3GgKYUM8vdFSUbkdrNo7czt.jpg",
+    "production_companies": [
+        {
+            "id": 7036,
+            "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+            "name": "CJ Entertainment",
+            "origin_country": "KR"
+        },
+        {
+            "id": 128404,
+            "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+            "name": "CJ ENM",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2016-08-06",
+    "revenue": 0,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rudolf the Black Cat",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 33
+}

@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/gmA6lSFxoRZutK6CX4KcQW13Oo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2003-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 42855,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-01-03",
+    "last_episode_to_air": {
+        "air_date": "2004-01-03",
+        "episode_number": 14,
+        "id": 1109023,
+        "name": "Mayal's Gift",
+        "overview": "Haruka, having accepted things as they are and dedicated to her rehabilitation, has gained new confidence. She tells Takayuki that they must part ways, thanking him for the memories – their life together was like a dream. The young man resolves to fix things with Mitsuki, realizing that he needs her, that he truly loves her. Having searched everywhere for Mitsuki, Takayuki finally finds her and confesses his love and his desire that she always be by his side.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dsuyG00bNglBg5stBLu5zn34Bja.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rumbling Hearts",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "君が望む永遠",
+    "overview": "At first, Takayuki Narumi is befriended by Mitsuki Hayase only because Mitsuki's best friend, Haruka Suzumiya has a crush on him; however since then, Takayuki, his pal Shinji Taira, and Mitsuki have grown to be the best of friends. Then one day, Haruka confesses to Takayuki her love for him. Not wanting to hurt her feelings, Takayuki agrees to go out with her. After a few incidents, their relationship gets intimate, even while Takayuki and Mitsuki begin to realize their feelings for each other. But suddenly, when tragedy strikes, things are never the same for these four friends again.",
+    "popularity": 5.697,
+    "poster_path": "/66jZ55jSMIiBPO7t1U7nwRc03hC.jpg",
+    "production_companies": [
+        {
+            "id": 13023,
+            "logo_path": null,
+            "name": "Studio Fantasia",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-06-25",
+            "episode_count": 7,
+            "id": 181057,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/lCRr1TA2xataNKi7HWeJbloJ5HY.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-10-04",
+            "episode_count": 14,
+            "id": 62748,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lCRr1TA2xataNKi7HWeJbloJ5HY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 9
+}

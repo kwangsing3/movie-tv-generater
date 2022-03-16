@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/f7DC5Qu0MJBtbAK9zCOU2rzz6NG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2001-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/shaman/",
+    "id": 40143,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-09-25",
+    "last_episode_to_air": {
+        "air_date": "2002-09-25",
+        "episode_number": 64,
+        "id": 1414673,
+        "name": "Epilogue",
+        "overview": "Hao's, whose power is born of his invincibility alone, and Yoh's, whose power is given to him by his friends and companions, face off for the last time.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fjGFwUD6SslWOvIww8StXeKptI0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shaman King",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 64,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シャーマンキング",
+    "overview": "Asakura Yoh is a shaman, a person who communicates with ghosts. He enters the Shaman Fight, for whoever wins the tournament gets to commune with the Great Spirit, God . . . that and his fiance Anna wants to be the wife of the Shaman King. Helping him are his friends Manta, Horo Horo, Ryu, and his samurai ghost partner, Amidamaru.",
+    "popularity": 45.837,
+    "poster_path": "/bDJLF92frEmKSr1OlCZN5P1kx6W.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 23399,
+            "logo_path": "/tXMheRYcKXCK1a90NRESqO1ibhQ.png",
+            "name": "King Records",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-07-04",
+            "episode_count": 64,
+            "id": 72640,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xlbW6XQqrTMS5myh84K2RqFtkpw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 316
+}

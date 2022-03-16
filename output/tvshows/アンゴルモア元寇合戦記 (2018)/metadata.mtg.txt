@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/2D5QUnIFqGvL7XRrnvPnkj7E3Sl.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-07-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "http://angolmois-anime.jp",
+    "id": 80767,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-26",
+    "last_episode_to_air": {
+        "air_date": "2018-09-26",
+        "episode_number": 12,
+        "id": 1579034,
+        "name": "The Best You Can Do",
+        "overview": "With Jinzaburou gone, the remaining Tsushima forces fight a losing battle against the advancing Mongol army. However Sana takes Teruhi and leads a small group into the forest towards a hidden cave. Amushi causes a distraction by exploding a bomb in the Mongol camp, but is killed as he tries to escape. The group are later found by the Mongols who kill Kaitani Gontarō and wipe out the remaining Tsushima forces. With the situation looking hopeless, Kano tearfully chokes Teruhi to kill her before the Mongols find her, but then acts as a decoy and is captured. As Jinzaburou sinks deeper into the water he recalls the Kuchii household four years earlier, when his daughter defied him to protect a tree and he regains consciousness, rising to the surface. He reaches the scene of the final battle of the Tsushima forces and finds only the survivor is a young boy whose father he killed earlier. Taking his sword, Jinzaburou recklessly attacks the remaining Mongol forces and comes up against the commander, Ryuu Fukukō. After a vicious battle Jinzaburou disarms the Mongol leader and leaves, untouched by the Mongols. As the Mongols prepare to depart and invade Kyushu, Teruhi emerges from where Kano hid her to find Jinzaburou standing alone. Slowly, the surviving villagers and children emerge from the forest and Teruhi declares that Tsushima is not finished yet.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3FYdLWLhHeVBRXhM79Z3GVDJjKz.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Angolmois: Record of Mongol Invasion",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アンゴルモア元寇合戦記",
+    "overview": "The story follows a group of samurai attempting to defend Japan from the first Mongol invasion in 1274.",
+    "popularity": 16.406,
+    "poster_path": "/osDHL65kfdtwYLpB8mhyNenbcWL.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-11",
+            "episode_count": 12,
+            "id": 106187,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zZjaIGgTqtjml6O46lebgy8TJYl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 5
+}

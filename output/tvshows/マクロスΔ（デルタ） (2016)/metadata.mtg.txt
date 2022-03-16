@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/5sdTl2NpbTS1raycAc2D4b7Atz9.jpg",
+    "created_by": [
+        {
+            "id": 76408,
+            "credit_id": "6085f1e3c439c0002a43257e",
+            "name": "Shoji Kawamori",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.macross.jp/",
+    "id": 66111,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-25",
+    "last_episode_to_air": {
+        "air_date": "2016-09-25",
+        "episode_number": 26,
+        "id": 1221405,
+        "name": "Eternal Walküre",
+        "overview": "With the N.U.N.S. fleet wiped out by their own weapons, the final battle on Ragna is now just between Chaos and the Windermereans. Seeing the burden of shouldering the deaths of countless lives, Heinz ponders on negotiating peace talks with the N.U.N.S. while Roid prepares Mikumo on the Star Temple. Heinz orders Mikumo to sing the Song of the Stars, sending delta waves throughout the Brísingr Cluster, only to realize that Roid's objective is to bring the entire galaxy under his sole control in a Vajra-style hive mind. As both factions are mentally trapped by Mikumo's song, Heinz urges the Aerial Knights to take down Roid while Freyja tries to free her comrades from the spell. Hayate, Freyja, and Mirage's feelings for each other enable Chaos and the Aerial Knights to break free, and the combined might of Walküre releases Mikumo from Roid's control before both factions break through the Star Stage. As Hayate, Mirage, and Freyja rescue Mikumo, Keith ends the conflict by killing Roid before he himself is consumed by the destruction of the Star Stage. In the aftermath of the battle, Heinz orders the remaining Windermerean forces to retreat as the Brísingr Cluster is freed from Windermerean control.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qPAxEFGvKgqsIrpfEpimkUGGuxj.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Macross Delta",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マクロスΔ（デルタ）",
+    "overview": "Macross Delta is set in the year 2067, 8 years after the events of  the latest Macross TV series, Macross Frontier. The story focuses on  Walküre, a team of talented idols and the Delta Squadron, a team of  experienced Valkyrie pilots as they battle against the Var Syndrome, a  mysterious phenomena that is consuming the galaxy and there is also the  mysterious Aerial Knights Valkyrie fighter team of the Kingdom of Wind.",
+    "popularity": 10.219,
+    "poster_path": "/sIaGOgUXk7aA5YQAxMwR88EW1xd.jpg",
+    "production_companies": [
+        {
+            "id": 30293,
+            "logo_path": null,
+            "name": "SATELIGHT",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3529,
+            "logo_path": null,
+            "name": "Studio Nue",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-12-31",
+            "episode_count": 12,
+            "id": 93333,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/juPm7f5rAdVULnysh55OaBH0tru.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-03",
+            "episode_count": 26,
+            "id": 75989,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8QRDSo1STaFJAcrVyC616YytHDl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 7
+}

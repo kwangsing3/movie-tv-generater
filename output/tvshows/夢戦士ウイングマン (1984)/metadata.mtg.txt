@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/jTv5qbsQpubqNW5qqLDKFvEy6Bi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        20
+    ],
+    "first_air_date": "1984-01-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 78382,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-01-01",
+    "last_episode_to_air": {
+        "air_date": "1984-01-01",
+        "episode_number": 47,
+        "id": 1464408,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dream Fighter Wingman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 47,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "夢戦士ウイングマン",
+    "overview": "Kenta is a high school student obsessed with Superheroes and anime, often seen running around in a costume of his own design called \"Wing Man.\"  One day as Kenta is walking to school, a girl from another world drops out of the sky. Princess Aoi escaped the villain Rimeru with the artifact known as the \"Dream Note\" which enables its possessor to create anything they desire by drawing or writing within its pages.  Kenta soon discovers that his designs and notes on Wing Man become reality and he in turn becomes his own creation.",
+    "popularity": 2.047,
+    "poster_path": "/w5Tjlg0KxtBuBNUWtwgz1c8T77I.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9300,
+            "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+            "name": "TV Asahi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1984-01-01",
+            "episode_count": 47,
+            "id": 101483,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 3
+}

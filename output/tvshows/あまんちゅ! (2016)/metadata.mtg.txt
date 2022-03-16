@@ -1,0 +1,145 @@
+{
+    "adult": false,
+    "backdrop_path": "/f4rnNIACmQTTsPAFRNvpeNZzEbk.jpg",
+    "created_by": [
+        {
+            "id": 1556193,
+            "credit_id": "5d4d1c713c887d708284fe72",
+            "name": "Kozue Amano",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.amanchu-anime.com/",
+    "id": 67346,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-23",
+    "last_episode_to_air": {
+        "air_date": "2018-06-23",
+        "episode_number": 12,
+        "id": 1503672,
+        "name": "The Story of Future Possibilities",
+        "overview": "It's finally time for Teko's advanced certification test, with a promise of a night-diving celebration if she passes!",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/xpfDBlBy1dJbxyrBncpZXLtY7yu.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Amanchu!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あまんちゅ!",
+    "overview": "The hyperactive teenage scuba diver, Hikari Kohinata, lives in a small town near the sea. On her first day of high school she meets the shy transfer student, Futaba Oki, who is struggling to find a place after moving away from Tokyo. Hikari takes the lead, dragging Futaba into her hijinx, and the two soon become close friends",
+    "popularity": 22.968,
+    "poster_path": "/aAH7MHYqmBujlTfKbMwPGsbtMc5.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-03-29",
+            "episode_count": 1,
+            "id": 178385,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-07-08",
+            "episode_count": 12,
+            "id": 79056,
+            "name": "Amanchu!",
+            "overview": "Hikari Kohinata is an overwhelmingly cheerful and outgoing 15-year-old girl who has spent all her life in a small and beautiful seaside town on the Izu Peninsula.  On the first day of high school, she meets Futaba Oki, a slightly introverted girl who has just moved from Tokyo.  Before she knows it,  Futaba gets dragged along into Hikari's passion for scuba diving.  And from there Futaba gradually starts to come out of her shell, and learns how to take challenges and dive into the ocean of life.",
+            "poster_path": "/ovSELyQVOODGWi5morgNbvwvIPN.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-04-07",
+            "episode_count": 12,
+            "id": 96992,
+            "name": "Amanchu! Advance",
+            "overview": "Kohinata Hikari and Ooki Futaba have together found joy in many things through scuba diving and the most everyday of events. Hikari was born and brought up in a small oceanside town on Izu, and Futaba moved there from Tokyo, but the two polar opposites met at Yumegaoka High and instantly hit it off. The always-reserved Futaba found her perfect foil in the cheery and optimistic Hikari, and their friendship gave her the courage to take the first step and experience many of the smaller joys in life. She also took the Open Water Diver exam and passed, and now she has her sights set on the Advanced Open Water Diver certification.",
+            "poster_path": "/kQyALyPc1hU8rMCuRTVaPgPjJpt.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 8
+}

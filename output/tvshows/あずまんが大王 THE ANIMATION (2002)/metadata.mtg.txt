@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/vig3YMbhRJrMhhk90AviUIW0JFH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2002-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 12143,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-09-30",
+    "last_episode_to_air": {
+        "air_date": "2002-09-30",
+        "episode_number": 26,
+        "id": 472776,
+        "name": "Graduation Ceremony",
+        "overview": "126 - First Graduation Ever\n\nThe last day of school begins, Sakaki faces Kamineko, and Osaka vs. hay fever.\n\n127 - A Thousand Emotions\n\nAt the graduation ceremony, Chiyo gets a surprise, then gets overwhelmed.\n\n128 - Sorrow\n\nWhy is Miss Yukari crying?\n\n129 - Alma Mater\n\nThe girls say \"goodbye\" to high school.\n\n130 - Everyone\n\nFor Yomi, this is the moment of truth. Will she be accepted like the others, or will she be left out yet again?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rmviTL3otm8VaqR92dhDWZMcZvU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Azumanga Daioh",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あずまんが大王 THE ANIMATION",
+    "overview": "Based on the four-panel comic strip that follows the lives of a group of high school students, this animated short features a compilation of comedic vignettes during a typical day in class. The girls compare their test results, child prodigy Chiyo demonstrates her inability to perform tongue-twisters. The stoic Sakaki broods over her earlier encounter with Kamineko, a cat which delights in biting her hand, and daydreamer Osaka imagines what would happen if Chiyo lost her pigtails.",
+    "popularity": 12.008,
+    "poster_path": "/j6uCwt9EvK4a2jiFdFMGfNEGdq6.jpg",
+    "production_companies": [
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13412,
+            "logo_path": "/jLBwPLrniN24UV46WMtNTCTyd8c.png",
+            "name": "Imagica Lab.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-04-08",
+            "episode_count": 26,
+            "id": 22817,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lWWVAZhYYykVFAvoyuG3NcgKinY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 58
+}

@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/6Nls77iKuRKHkRb1OOMenXqKwoR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2014-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 62911,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-20",
+    "last_episode_to_air": {
+        "air_date": "2014-09-20",
+        "episode_number": 10,
+        "id": 1074570,
+        "name": "Two Nobunagas",
+        "overview": "The younger sons of Mori Yoshinari become Saburou's pages (including Ranmaru), the eldest son Nagayoshi becoming a general. Saburou meets another time traveler who becomes his bodyguard Yasuke. Several targets are available for the campaign: Azai's Odani Castle, Ishiyama Hongan Temple (Osaka), the Takeda, Mount Hiei (Kyoto). On the counsel of Mitsuhide, Saburou picks the Enryaku Temple of Mount Hiei.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9wsCKSnz1XRvjoNrmB8nxe8KkgR.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nobunaga Concerto",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "FOD",
+            "id": 2763,
+            "logo_path": "/xMGdd8hvu91BK098UwbUv9IdjM5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "信長協奏曲（コンツェルト）",
+    "overview": "Saburo is a high school student good in sports, but not very good with his studies. One day, Saburo travels back in time and arrives in the Sengoku period of 1549. There, Saburo meets Nobunaga Oda who looks and sounds just like Saburo. Nobunaga Oda is the son of a warlord and magistrate of the lower Owari Province. Nobunaga Oda, though, is physically weak, and he asks Saburo to take his place. Then, Saburo as Nobunaga Oda attempts to unify the country of Japan.",
+    "popularity": 6.041,
+    "poster_path": "/yQluy7X8zj2GtMCoK3bV52MUp3r.jpg",
+    "production_companies": [
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-12",
+            "episode_count": 10,
+            "id": 67538,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9rTkNmQMTS8NldzqFcsZL9RcZEU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 3
+}

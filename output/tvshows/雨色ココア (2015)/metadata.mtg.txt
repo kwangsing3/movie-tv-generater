@@ -1,0 +1,139 @@
+{
+    "adult": false,
+    "backdrop_path": "/y106aFMcHV8yHvxwya0oWL5gh6y.jpg",
+    "created_by": [
+        {
+            "id": 1627347,
+            "credit_id": "5a834b3d0e0a26401a00333d",
+            "name": "Kazuomi Koga",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2015-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://rainycocoa.jp/anime/",
+    "id": 68482,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-18",
+    "last_episode_to_air": {
+        "air_date": "2019-03-18",
+        "episode_number": 12,
+        "id": 1659625,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 5,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rainy Cocoa",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 60,
+    "number_of_seasons": 5,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "雨色ココア",
+    "overview": "Aoi’s soaked by a sudden rainstorm and takes shelter at Rainy Color, a cozy café where the warmth of the staff compliments the sweet hot cocoa he’s served. When he falls into a job at the café he feels like things are finally looking up— until Keiichi Iwase, the man he couldn’t help but stare at on the train, shows up.",
+    "popularity": 9.214,
+    "poster_path": "/hYxlExmGnuMtZuTvBWreBYIQ7th.jpg",
+    "production_companies": [
+        {
+            "id": 72366,
+            "logo_path": null,
+            "name": "EMT²",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-04-05",
+            "episode_count": 12,
+            "id": 99335,
+            "name": "Rainy Cocoa",
+            "overview": "",
+            "poster_path": "/67PfOMrKOJJf73RiR0e19HNLKYV.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2015-10-04",
+            "episode_count": 12,
+            "id": 99336,
+            "name": "Rainy Cocoa, Welcome to Rainy Color",
+            "overview": "",
+            "poster_path": "/6Ma9490gO3vTHxUIqHEIdD5LmCk.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2016-10-02",
+            "episode_count": 12,
+            "id": 81566,
+            "name": "Rainy Cocoa in Hawaii",
+            "overview": "Amami, the owner of the Rainy Color café, assigned Nozomu Tokura as the manager of the new shop in Hawaii. Even though life of Nozomu is increasingly hectic toward the opening, he and his new fellows in Hawaii keep positive and make their efforts trying to get everything down. Can they make it by the date of opening?",
+            "poster_path": "/d9L8XCOr6nK7fsKjX2iL2eVWstS.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2017-10-04",
+            "episode_count": 12,
+            "id": 99337,
+            "name": "Ame-con!!",
+            "overview": "",
+            "poster_path": "/bgEK6Y0fbEHRygN1CKzm1sOQLEi.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2019-01-08",
+            "episode_count": 12,
+            "id": 115413,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/4iHtICzNqEQgyYwg2JWbEQEDEAY.jpg",
+            "season_number": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.8,
+    "vote_count": 6
+}

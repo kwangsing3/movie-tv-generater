@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/yFzSh9arGxgFnj7pjxGXQPSbRyQ.jpg",
+    "created_by": [
+        {
+            "id": 1710889,
+            "credit_id": "5830209c92514162c600c5f8",
+            "name": "Haruhara Robinson",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2013-01-09",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://senyu.tv/",
+    "id": 52883,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-09-24",
+    "last_episode_to_air": {
+        "air_date": "2013-09-24",
+        "episode_number": 13,
+        "id": 922342,
+        "name": "The Hero Returns",
+        "overview": "Ros faces off with the revived Rchemides, but even with his revived power he is unable to defeat him and has to seal him away again. Alba tries to stop him before he leaves, but Ros is unwavering. Just as he reaches his hand out, Ros vanishes with the demon king. What will Alba do now? And how will the story end? The last episode of \"Senyu.\" Please enjoy the story.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/oVphmFHr1BSe9TQPkLkiepRelwp.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Senyu.",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "戦勇。",
+    "overview": "In the story, a gigantic hole suddenly opened up in the world one day, and demons appeared. The king thinks that this portends the return of the demon king Rukimedesu, who was sealed away by the hero Kureashion a millenium ago. The king decreed that the descendants of the hero must take on the threat, and 75 people showed up. Hero No. 45 (Aruba) and a sadistic palace warrior (Ross) team up, and their adventure begins.",
+    "popularity": 7.034,
+    "poster_path": "/eF2CoVU16N7npyC4NsRgiy9cwts.jpg",
+    "production_companies": [
+        {
+            "id": 32384,
+            "logo_path": null,
+            "name": "Ordet",
+            "origin_country": "JP"
+        },
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2013-04-24",
+            "episode_count": 4,
+            "id": 56123,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-01-09",
+            "episode_count": 13,
+            "id": 56121,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iZI0A7m7HdObyB9xOXTPksEwdAH.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2013-07-02",
+            "episode_count": 13,
+            "id": 56122,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/9TQAp8MfWc7DoEiOEgAcJIIugBs.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 6
+}

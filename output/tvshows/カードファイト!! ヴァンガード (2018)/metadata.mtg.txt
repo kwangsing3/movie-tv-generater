@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": "/xI7h69GCjMVrRNZxL0jBoiEFTpP.jpg",
+    "created_by": [
+        {
+            "id": 3250037,
+            "credit_id": "61520940dd731b0042a1c753",
+            "name": "Bushiroad",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3250040,
+            "credit_id": "615209370582240063f5f071",
+            "name": "Akira Itou",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-05-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://anime.cf-vanguard.com",
+    "id": 107974,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-28",
+    "last_episode_to_air": {
+        "air_date": "2020-03-28",
+        "episode_number": 31,
+        "id": 2399471,
+        "name": "Three Idols?/Shin Nitta",
+        "overview": "The story of Shinemon that spans two generations...... is supposed to have ended, but both Shinemon and Shin appears!? Shinemon and Shin reminisce about their individual pasts.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cardfight!! Vanguard",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 97,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カードファイト!! ヴァンガード",
+    "overview": "The main protagonist Sendou Aichi, is a timid and mundane third-year middle school boy. The thing that supported Aichi's heart, was the \"Blaster Blade\" card that he received as a child. It's an important rare card from \"Vanguard\", a card game with the imaginary world of \"Planet Cray\" as its stage. From the day he reunited with the person who gave him that card \"Toshiki Kai\", Aichi's everyday life began to change.",
+    "popularity": 1.837,
+    "poster_path": "/fcL20oaRWpxjJgPo5GPF9UVuyGd.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-05-05",
+            "episode_count": 52,
+            "id": 159995,
+            "name": "Cardfight!! Vanguard",
+            "overview": "",
+            "poster_path": "/fcL20oaRWpxjJgPo5GPF9UVuyGd.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-05-11",
+            "episode_count": 14,
+            "id": 159997,
+            "name": "Cardfight!! Vanguard: Zoku Koukousei Hen",
+            "overview": "",
+            "poster_path": "/uUUgSJiJxjj9MCc9ssNx1ctZEE0.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2019-08-24",
+            "episode_count": 31,
+            "id": 159998,
+            "name": "Cardfight!! Vanguard: Shinemon",
+            "overview": "",
+            "poster_path": "/zTPZWWPmaUeeBAyVSGMjtmaFLvT.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

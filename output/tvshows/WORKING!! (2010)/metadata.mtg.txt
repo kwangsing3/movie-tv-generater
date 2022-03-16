@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/2tPzCwgep3s6rNeedlEyRbnyf8B.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.wagnaria.com/1st/",
+    "id": 46153,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-27",
+    "last_episode_to_air": {
+        "air_date": "2015-09-27",
+        "episode_number": 13,
+        "id": 1414777,
+        "name": "Midday Duel",
+        "overview": "Aoi, curious about Sōta's delayed reactions, is tasked by Yachiyo with taking a photo of Hiroomi for an album. Meanwhile, as Sōta and Mahiru go on their date, they are interrupted by Mahiru's father, who Mahiru hits when he starts insulting Sōta, managing to work things out with him. Later, Yachiyo announces her resignation to the rest of the staff, with Sōta encouraging Popura to do her best as the next chief before being mysteriously abducted.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/ezLSEw6unUVbrWHMoOtVol1pnxe.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Working!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "WORKING!!",
+    "overview": "Set in a family restaurant in Hokkaido, the northern prefecture of Japan, 16-year-old high school student Sōta Takanashi works part-time along with his strange co-workers: Popura Taneshima, a high school girl who—despite being a year older than Sōta—is easily mistaken for a elementary/middle schooler, and Kyoko Shirafuji, the 28-year-old store manager who does not bother to do any work at all.",
+    "popularity": 15.363,
+    "poster_path": "/t8kIc0vLaoheCu9xIAnD71nO637.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-12-26",
+            "episode_count": 1,
+            "id": 54530,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/g1fjAGvewTajFD9JYuiE2KNcE0P.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-04-04",
+            "episode_count": 13,
+            "id": 54528,
+            "name": "Working!!",
+            "overview": "",
+            "poster_path": "/1g8sYwzngtO8Go1pImfpuJiRwb5.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2011-09-03",
+            "episode_count": 13,
+            "id": 54529,
+            "name": "Working'!!",
+            "overview": "",
+            "poster_path": "/zUMUjkBZsUDkakSTnovOjldSDpU.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2015-07-05",
+            "episode_count": 13,
+            "id": 97404,
+            "name": "Working!!!",
+            "overview": "",
+            "poster_path": "/rZEQmPd3ZMlUL4YZ4OUWN9CfFLJ.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 32
+}

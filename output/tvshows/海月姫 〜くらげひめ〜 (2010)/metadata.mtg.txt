@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/vQVIKgybdM4j714ZpGSAUj6If4j.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2010-10-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kuragehime.net/",
+    "id": 37580,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-12-31",
+    "last_episode_to_air": {
+        "air_date": "2010-12-31",
+        "episode_number": 11,
+        "id": 849981,
+        "name": "Jellyfish of Dreams",
+        "overview": "The Sisterhood scrambles for a solution to keep their all-girl pad intact. Kuranosuke comes up with an outrageous plan to use Tsukimi’s jellyfish dress to take the fashion world by storm—and it might just be crazy enough to work!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mKytf5n5N5YX27VGKKG8JFHJykB.jpg",
+        "vote_average": 5,
+        "vote_count": 2
+    },
+    "name": "Princess Jellyfish",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "海月姫 〜くらげひめ〜",
+    "overview": "Amamizukan is an apartment complex where no boys are allowed. Tsukimi, a girl who adores jellyfish, lives there happily with her friends who all have nerdy obsessions of their own. Their peaceful lives gradually start to change when a beautiful woman helps Tsukimi out of a pinch. She stays overnight at the apartments—but it turns out \"she\" is really a \"he\".",
+    "popularity": 17.8,
+    "poster_path": "/qRE7eZgIfem4NBSSugQNO7dCuG5.jpg",
+    "production_companies": [
+        {
+            "id": 3033,
+            "logo_path": "/AwgX2FHGJd54aSWfWJqptFvT1h.png",
+            "name": "Asmik Ace",
+            "origin_country": "JP"
+        },
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-01-28",
+            "episode_count": 11,
+            "id": 48952,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-10-15",
+            "episode_count": 11,
+            "id": 48951,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tsQj7KyGugj3zOeok6ylU4MbaiV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 14
+}

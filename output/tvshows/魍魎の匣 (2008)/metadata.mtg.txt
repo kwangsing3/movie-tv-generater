@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/yVmW1IGXYVQlMFsEAXNUIAR8OL9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2008-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.ntv.co.jp/mouryou",
+    "id": 42960,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-12-31",
+    "last_episode_to_air": {
+        "air_date": "2008-12-31",
+        "episode_number": 13,
+        "id": 1423909,
+        "name": "A Box of All Manner of Spirits, or a Human",
+        "overview": "Chūzenji continues recounting the series of events. The first severed limbs found, before Kanako's abduction, were Kanako's. After Suzaki took Kanako's head, Amemiya killed Suzaki and ran away with the head. Kubo met Amemiya on a train and saw Kanako's head alive inside the box. Kubo tried to keep the heads of other girls alive in a box for himself. Before he killed Yoriko, she told him about Mimasaka. Kubo wrote about it in \"The Woman inside the Box\", then went to Mimasaka, who performed the same procedure on Kubo. Mimasaka's project of implanting a human brain into a machine began when he tried to treat Kinuko's myasthenia. Mimasaka treated Kubo as simply another research subject. When the police try to arrest Mimasaka for what he did to Kubo, he grabs the box with Kubo's head and tries to escape with Yōko. Kubo bites Mimasaka in the neck and kills him, leading Yōko to kill Kubo. Kiba arrests Yōko for the murder of Kubo.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zH1Yznc57hvA3lZmhLXG0IbMxdW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Box of Goblins",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魍魎の匣",
+    "overview": "Between August and October, 1952, a series of unusual crimes takes place in Musashino and Mitaka: the attempted murder of 14-year-old Kanako Yuzuki, Kanako's abduction from the strange research \"hospital\" where she was recovering, then abductions of other girls, followed by their severed limbs in custom-fitted boxes being placed in surrounding towns. News editor Morihiko Toriguchi and crime fiction writer Tatsumi Sekiguchi investigate with the help of onmyōji Akihiko Chūzenji.",
+    "popularity": 7.017,
+    "poster_path": "/iNpdxX6mmogeJJJ6vDpuFwYTtCJ.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-05-22",
+            "episode_count": 1,
+            "id": 117573,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-10-08",
+            "episode_count": 13,
+            "id": 87445,
+            "name": "Season 1",
+            "overview": "The story follows a series of bizarre murders of schoolgirls who have been dismembered and stuffed into boxes. The private investigator hired by a missing daughter's mother joins forces with an antique book seller and others to unravel the murder spree.",
+            "poster_path": "/xHU1esm1p0bC9sqequENpuaawHl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 3
+}

@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/5lC1FZK2SqXUVtso1TJ9Jb9wap8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-07-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.animax.co.jp/marvelanime/blade/",
+    "id": 62798,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-23",
+    "last_episode_to_air": {
+        "air_date": "2011-09-23",
+        "episode_number": 12,
+        "id": 1067843,
+        "name": "The Other Side of Darkness (The Final Glory of Deacon Frost)",
+        "overview": "Blade invades Amaurot, the City of Vampires and headquarters of Existence, while cutting his way through anything that stands between him and now evolved Deacon Frost. Frost's monstrosities fight back, but Blade gets surprise help.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/v1LzFeFAEcwpambrOpTNXzNuxRf.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Blade",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブレイド",
+    "overview": "Legendary half-vampire, half-human vampire hunter Blade is tracking Deacon Frost, a very powerful and influential vampire who killed his mother and who heads Existence, a secretive vampire organization that operates in Southeast Asia.",
+    "popularity": 12.369,
+    "poster_path": "/xRowPbnDmzJnaqSolUpHUTlqhDx.jpg",
+    "production_companies": [
+        {
+            "id": 7505,
+            "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+            "name": "Marvel Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 82346,
+            "logo_path": "/jqgK6CSkPrEsIv6Nk390JaBcXYF.png",
+            "name": "Sony Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-07-01",
+            "episode_count": 12,
+            "id": 67146,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tjs9U3k7xjKD4U6RmJxlPvIBGbc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 42
+}

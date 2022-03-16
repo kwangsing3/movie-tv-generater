@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/AjQjseTbsAHWeKahn6VE0wPmeKJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        1
+    ],
+    "first_air_date": "2020-07-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://getup-getlive.com/",
+    "id": 105713,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-09-12",
+    "last_episode_to_air": {
+        "air_date": "2020-09-12",
+        "episode_number": 10,
+        "id": 2497458,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Get Up! Get Live! #Geragera",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "GETUP! GETLIVE! #げらげら",
+    "overview": "Chibi shorts of the V.A.×2D Entertainer project GET UP! GET LIVE! The project's story centers on aspiring comedian entertainers who all gather at SSS, a talent agency for comedians. The story portrays the friction and jealousy in their rivaling careers, as well as their admiration towards industry veterans, their disappointments, and the obstacles to their success as they aspire to become the greatest entertainers in Japan and the world.",
+    "popularity": 2.516,
+    "poster_path": "/4XUsViAH48FEgQOpoKMmKRWp0Gp.jpg",
+    "production_companies": [
+        {
+            "id": 136990,
+            "logo_path": null,
+            "name": "Spellbound",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-07-11",
+            "episode_count": 10,
+            "id": 155687,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4XUsViAH48FEgQOpoKMmKRWp0Gp.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

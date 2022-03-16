@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/52KuG01xVqBPgM54sdRFxpe29nX.jpg",
+    "created_by": [
+        {
+            "id": 123193,
+            "credit_id": "60abe2f177b1fb004140a9ec",
+            "name": "Kouichi Mashimo",
+            "gender": 2,
+            "profile_path": "/rOuhlDgTCBhLoe9OXbVKh9MAjBE.jpg"
+        },
+        {
+            "id": 1148308,
+            "credit_id": "60abe3eb1108a80040232654",
+            "name": "Kazuhiro Ochi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1998-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 23791,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-03-28",
+    "last_episode_to_air": {
+        "air_date": "2004-03-28",
+        "episode_number": 26,
+        "id": 630030,
+        "name": "Law of the Moon",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Popolocrois Monogatari",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ポポロクロイス物語",
+    "overview": "Prince Pietro is the half-human, half-dragon prince of the kingdom of Popolocrois. After the evil GamiGami tries to take over the Kingdom, a mysterious girl named Hyuu appears in the forest near Popolocrois Castle, which is the beginning of an adventure for Pietro, his witch friend Narcia, and all their friends.",
+    "popularity": 5.523,
+    "poster_path": "/en8iLBsfeE4Lmt5tQ9gjW2Uqh5Q.jpg",
+    "production_companies": [
+        {
+            "id": 4289,
+            "logo_path": null,
+            "name": "BeeTrain",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1998-10-04",
+            "episode_count": 25,
+            "id": 33828,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/en8iLBsfeE4Lmt5tQ9gjW2Uqh5Q.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2003-10-05",
+            "episode_count": 26,
+            "id": 33829,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/v8OCYtJnF9hlT515Q95yrFbdDAc.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

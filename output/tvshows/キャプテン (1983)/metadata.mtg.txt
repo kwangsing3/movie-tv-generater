@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 100121,
+            "credit_id": "6096aac8356a71003ec657bc",
+            "name": "Satoshi Dezaki",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1252979,
+            "credit_id": "6096af1d0929f6003adc228b",
+            "name": "Akio Chiba",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1983-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://eiken-anime.jp/works/captain/",
+    "id": 125138,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-07-04",
+    "last_episode_to_air": {
+        "air_date": "1983-07-04",
+        "episode_number": 26,
+        "id": 2937144,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Captain",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キャプテン",
+    "overview": "The original is an impressive sports manga featuring not heroes, but common boys, and the story depicts the growth of Sumiya 2 junior high school baseball team (the successive captains and players) in downtown Tokyo. Takao Taniguchi, who was a substitute player of the second team of Aoba Gakuin, a prestigious junior high school in the baseball world, but he transferred to Sumiya 2 and he became the captain of the baseball club. After steady training, the team try to do a final game in the regional preliminaries, against Aoba Gakuin.",
+    "popularity": 1.581,
+    "poster_path": "/nOW3Bwqygz3qpxHTcFEUJJPxRWs.jpg",
+    "production_companies": [
+        {
+            "id": 82357,
+            "logo_path": null,
+            "name": "Eiken",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1983-01-10",
+            "episode_count": 26,
+            "id": 194111,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nOW3Bwqygz3qpxHTcFEUJJPxRWs.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

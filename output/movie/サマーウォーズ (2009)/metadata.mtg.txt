@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/wSFAoevZuVBo4L9f8NgYSD1o9cQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 28874,
+    "imdb_id": "tt1474276",
+    "original_language": "ja",
+    "original_title": "サマーウォーズ",
+    "overview": "Kenji is your typical teenage misfit. He’s good at math, bad with girls, and spends most of his time hanging out in the all-powerful online community known as OZ. His second life is the only life he has — until the girl of his dreams, Natsuki, hijacks him for a starring role as a fake fiancé at her family reunion. Things only get stranger from there. A late-night email containing a cryptic mathematic riddle leads to the unleashing of a rogue AI intent on using the virtual world of OZ to destroy the real world. As Armageddon looms on the horizon, Kenji and his new “family” set aside their differences and band together to save the worlds they inhabit in this “near-perfect blend of social satire and science fiction.”",
+    "popularity": 46.39,
+    "poster_path": "/yHy8TrRLnuBZ4t2C0l0pSpRXVHO.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6755,
+            "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1194,
+            "logo_path": null,
+            "name": "Kadokawa Shoten",
+            "origin_country": "JP"
+        },
+        {
+            "id": 14789,
+            "logo_path": null,
+            "name": "D.N. Dream Partners",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3627,
+            "logo_path": "/i1eW4O13B28b4JHpIL5C9rRiiur.png",
+            "name": "Warner Bros. Japan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11725,
+            "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+            "name": "VAP",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11727,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "name": "Yomiuri Telecasting Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2009-08-01",
+    "revenue": 18434328,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Summer Wars",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 696
+}

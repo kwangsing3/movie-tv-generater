@@ -1,0 +1,163 @@
+{
+    "adult": false,
+    "backdrop_path": "/jL12R06O32PEGRxX3ihvbdOxtif.jpg",
+    "created_by": [
+        {
+            "id": 127297,
+            "credit_id": "61d19d6b4f5801001a199f5d",
+            "name": "Takeshi Konomi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2012-01-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/shin-tenipri",
+    "id": 67249,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-26",
+    "last_episode_to_air": {
+        "air_date": "2015-06-26",
+        "episode_number": 10,
+        "id": 2712494,
+        "name": "Chosen Ones",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The New Prince of Tennis",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 23,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "新テニスの王子様",
+    "overview": "The Seigaku tennis club has been invited to train at the U-17 (Under 17) camp. Seigaku is one of the 50 middle schools invited and must compete with high school players to prove they are just as good.",
+    "popularity": 11.157,
+    "poster_path": "/2rZJ0DU092uxpqtlbKYwP7JM0Yw.jpg",
+    "production_companies": [
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 62696,
+            "logo_path": null,
+            "name": "Marvelous AQL",
+            "origin_country": ""
+        },
+        {
+            "id": 74838,
+            "logo_path": null,
+            "name": "NAS",
+            "origin_country": ""
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-20",
+            "episode_count": 8,
+            "id": 78897,
+            "name": "Specials",
+            "overview": "This 7-episode OVA was released bundled with the TV series DVD/Blu-Ray, one episode-per volume.",
+            "poster_path": "/kSjbt6DW8Z8LyMuCxsAfMoK5UT2.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-01-04",
+            "episode_count": 13,
+            "id": 78855,
+            "name": "The New Prince of Tennis",
+            "overview": "",
+            "poster_path": "/vhimpW0RU5TtQRtwWqidDU6cIZC.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-10-28",
+            "episode_count": 10,
+            "id": 180253,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/fAPofaUcAEE1NFKVhjjhXJglIOk.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 3
+}

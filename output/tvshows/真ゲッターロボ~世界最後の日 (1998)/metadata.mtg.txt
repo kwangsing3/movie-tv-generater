@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/qoLIInnDf9FJxJcVgZyvqQyDxz.jpg",
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "5909c225c3a36835fc00b995",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        },
+        {
+            "id": 929310,
+            "credit_id": "58f773d8c3a368415e00b8a3",
+            "name": "Ken Ishikawa",
+            "gender": 0,
+            "profile_path": "/z8l9uQ6YGSFsiLzutRovKBHFUXi.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1998-08-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 68736,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-09-07",
+    "last_episode_to_air": {
+        "air_date": "1998-09-07",
+        "episode_number": 13,
+        "id": 1240630,
+        "name": "Evolution's End",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gbEbKmBxm5t5dFr2M63jz6uAW5X.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Getter Robo: Armageddon",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "真ゲッターロボ~世界最後の日",
+    "overview": "Dr. Saotome returns from the dead after being seemingly murdered by Getter pilot Nagare Ryoma and threatens the world with his ultimate creation: the Shin Dragon. Ryoma reluctantly teams up with his former co-pilots Jin Hayato and Tomoe Mushashi to combat Dr. Saotome. The pilots must also deal with the mysterious Invaders, aliens that have the ability to possess humans and warp their flesh to form hideous creatures.",
+    "popularity": 10.742,
+    "poster_path": "/hvLnxlnNIr1lCTz3KAm1HjJKjte.jpg",
+    "production_companies": [
+        {
+            "id": 12268,
+            "logo_path": null,
+            "name": "Dynamic Planning",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1998-08-25",
+            "episode_count": 13,
+            "id": 82086,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/p3Bw1jwgMpPJFSxghwt10clxb6U.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 4
+}

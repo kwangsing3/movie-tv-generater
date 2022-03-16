@@ -1,0 +1,145 @@
+{
+    "adult": false,
+    "backdrop_path": "/nCEastc2t3njgwTLnLE7YkBjuLJ.jpg",
+    "created_by": [
+        {
+            "id": 1566976,
+            "credit_id": "56a26e9f92514172070001d5",
+            "name": "Sakurako Kimino",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.lovelive-anime.jp/uranohoshi/",
+    "id": 65383,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-30",
+    "last_episode_to_air": {
+        "air_date": "2017-12-30",
+        "episode_number": 13,
+        "id": 1412413,
+        "name": "Our Own Radiance",
+        "overview": "On the day of the graduation and school closing ceremony, Chika and the others are determined to say goodbye to their school without tears.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/uQ757TSzs4KRdtNT2y7O30IzksO.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love Live! Sunshine!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラブライブ！サンシャイン!!",
+    "overview": "Uranohoshi Girls’ High School, a private school in the seaside neighborhood of Uchiura at Numazu city, Shizuoka prefecture. A small high school in a corner of Suruga Bay, it is home to nine teens, led by second-year student Chika Takami, driven by one seriously big dream: To become the next generation of bright, sparkling “school idols”! As long as we don’t give up, any dream can come true... All we have to do now is keep pushing hard for fame and glory! Now their “School Idol Project” begins to make their dreams come true!",
+    "popularity": 11.689,
+    "poster_path": "/bur79VHvAZKFzeDGeEfpoPtTQFi.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 32957,
+            "logo_path": "/fsKExPZ443yF5oMRmbK96AjcZBT.png",
+            "name": "ASCII Media Works",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-02",
+            "episode_count": 13,
+            "id": 74060,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6yVMqUWnFRVpjc1r7fRLvVEQO4Q.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-10-07",
+            "episode_count": 13,
+            "id": 93145,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/oKs4TFs6jyyZNqXXyQbA3XH6ZYO.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.4,
+    "vote_count": 22
+}

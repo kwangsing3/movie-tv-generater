@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/6ZhSRPHFfTSCWFXUMxZo6oB91vr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://rikekoi.com",
+    "id": 90999,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-28",
+    "last_episode_to_air": {
+        "air_date": "2020-03-28",
+        "episode_number": 12,
+        "id": 2171432,
+        "name": "I Knew I Could Fall in Love with You, So I Tried to Prove it.",
+        "overview": "For some reason, the glasses case Himuro gives Yukimura as a present is smashed to pieces. Shock sends Himuro racing away from the scene. Ibarada points out that it could have broken when Himuro fell on the stairs, but Yukimura estimates the force of impact based on the case's mass, materials, and height of fall, and concludes that someone must have deliberately destroyed it. Finally, at dawn, Yukimura finds Himuro crouched alone, barefooted, on a bridge. Will they be able to reconcile? And will they be able to prove their love...?!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ar9g8dnjF6n3P2Gf3mlYEjUsWiW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Science Fell in Love, So I Tried to Prove It",
+    "next_episode_to_air": {
+        "air_date": "2022-04-02",
+        "episode_number": 1,
+        "id": 3580133,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "理系が恋に落ちたので証明してみた。",
+    "overview": "Shinya Yukimura and Ayame Himuro are two scientists that want to find out if love can be solved by a scientific theory. These two scientists also have feelings for each other and want to be able to solve their feelings through similar theoretical facts. With this perfect opportunity, these scientists will attempt to solve the theory of the love they express for each other.",
+    "popularity": 25.523,
+    "poster_path": "/hY9YBN3arW6yWA01IhzVZvJfMbJ.jpg",
+    "production_companies": [
+        {
+            "id": 109854,
+            "logo_path": null,
+            "name": "Zero-G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-11",
+            "episode_count": 12,
+            "id": 127473,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xrfkZ2ssystUfl8sLnBfZQi2CcM.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2022-04-02",
+            "episode_count": 1,
+            "id": 211189,
+            "name": "r=1-sin(θ)",
+            "overview": "",
+            "poster_path": "/jNJ1KGBGa2qK701X5KRrbbrDHEL.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 66
+}

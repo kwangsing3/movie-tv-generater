@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/raLJlKgiFER3pYGSefzIoh8PviQ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/yozakura/index-j.html",
+    "id": 34696,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-12-19",
+    "last_episode_to_air": {
+        "air_date": "2008-12-19",
+        "episode_number": 12,
+        "id": 790238,
+        "name": "Sakura Petals Flutter",
+        "overview": "With the Dragon Spear, Hime begins to fight Enjin. When Akina arrives, however, he is still unwilling to use tuning on Enjin. Enjin travels to the meeting place of the Senior Council, and threatens to kill them. Yae arrives to fight him, but Yūhi tells her to allow Hime to fight him. Elsewhere, Kotoha fights Shinozuka, and after he overpowers her, Kyōsuke begins to fight him. After Kotoha distracts Shinozuka, Kyōsuke defeats him by trapping him behind a car. Hime continues to fight Enjin, who manages to cut her scarf using his scythe. In response, Hime uses the full power of the Dragon Spear to blow away all of the sakura petals on the Seven Pillars, and knocks Enjin into Akina, who uses tuning on him. Freed from Enjin, Gin thanks Akina and Hime before his spirit is sent back to the yōkai world. The following day, Akina repairs Hime's scarf and returns it to her.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/t089VztYcTqf9rOU8F2Z4rnVy2w.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yozakura Quartet",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "夜桜四重奏",
+    "overview": "In Sakurashin, humans and demons live side by side in peace. But when a series of strange events threatens the delicate balance of their town, it will be up to four superpowered teens to restore order and save the day!",
+    "popularity": 14.508,
+    "poster_path": "/42U33MsbJGhiaxh1pF3sgMG10UG.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-10-08",
+            "episode_count": 6,
+            "id": 45442,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-10-02",
+            "episode_count": 12,
+            "id": 45441,
+            "name": "Season 1",
+            "overview": "In Sakurashin, humans and demons live side by side in peace. But when a series of strange events threatens the delicate balance of their town, it will be up to four superpowered teens to restore order and save the day!",
+            "poster_path": "/z79OoAblwQWhWu0sR2uCMUKl9Fr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 6
+}

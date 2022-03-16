@@ -1,0 +1,137 @@
+{
+    "adult": false,
+    "backdrop_path": "/5EHzZjTxJDoXckVwHHO3ZxJKYeX.jpg",
+    "created_by": [
+        {
+            "id": 2282949,
+            "credit_id": "607861687a97ab00409caa53",
+            "name": "Ryōma Mizuno",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.konooto-anime.jp/",
+    "id": 85843,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-29",
+    "last_episode_to_air": {
+        "air_date": "2019-12-29",
+        "episode_number": 26,
+        "id": 2009251,
+        "name": "Starting Line",
+        "overview": "Satowa confronts her mother and everyone waits for the results of the competition.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3ERuCtI50V3slPbP9WvofXW0qw4.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kono Oto Tomare!: Sounds of Life",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "HTB",
+            "id": 12,
+            "logo_path": "/eJSYeF1YIyQbZdTRNxuvVKaZOIK.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tochigi TV",
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "この音とまれ！",
+    "overview": "Since the graduation of the senior members of the club, Takezou ends up being the sole member of the \"Koto\" (traditional Japanese string instrument) club. Now that the new school year has begun, Takezou will have to seek out new members into the club, or the club will become terminated. Out of nowhere, a new member barges into the near-abandoned club room, demanding to join the club. How will Takezou be able to keep his club alive and deal with this rascal of a new member?",
+    "popularity": 25.402,
+    "poster_path": "/zSUhDLrDLqs3uJJj4pcE7JXdDps.jpg",
+    "production_companies": [
+        {
+            "id": 116771,
+            "logo_path": null,
+            "name": "Platinum Vision",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-04-07",
+            "episode_count": 26,
+            "id": 116664,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8bNorJPqAmDXeg81EPMyip6eDgx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 21
+}

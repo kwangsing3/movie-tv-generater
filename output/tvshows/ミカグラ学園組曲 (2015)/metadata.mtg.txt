@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/dGZYpoQP30o94ZJcBA8D2vGxuMZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://mikagura-gakuen.com/",
+    "id": 62369,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-22",
+    "last_episode_to_air": {
+        "air_date": "2015-06-22",
+        "episode_number": 12,
+        "id": 1475109,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/35Eh66wGqjpe0PojYyOkoHRyqVV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mikagura School Suite",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ミカグラ学園組曲",
+    "overview": "High school student Eruna Ichinomiya enters the Mikagura Academy dreaming of a boarding school life filled with beauty. However, Eruna finds out that in the culture clubs, there is a rule that battles that are fought with special powers decide a club representative's treatment. Through various circumstances, Eruna becomes a representative of a club, and is thrown into the fray.",
+    "popularity": 8.678,
+    "poster_path": "/gmQtiPckDeAlLFuZYGf4kru1Blo.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-04-06",
+            "episode_count": 12,
+            "id": 65927,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1N8ucL0QRYpdWKqUm3gODcxB05W.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 4
+}

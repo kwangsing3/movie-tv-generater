@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/fsNIAVcxlL2uFWUyFg1i0pLf0Oh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://senpaiga-uzai-anime.com",
+    "id": 105511,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-26",
+    "last_episode_to_air": {
+        "air_date": "2021-12-26",
+        "episode_number": 12,
+        "id": 3270861,
+        "name": "My Senpai Is Annoying",
+        "overview": "When Takeda is called over to a client's to resolve a problem, Futaba offers to give the presentation he was supposed to give to another client. That night, Futaba goes to an izayaka alone to celebrate and recalls her first day at Itomaki Trading...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4AoyuJW6iTdC1zUwsW9QVZ4tQmo.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "My Senpai Is Annoying",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "先輩がうざい後輩の話",
+    "overview": "Futuba Igarashi's new job would be great if her senpai, Harumi Takeda, wasn't so incredibly annoying! Futuba hates his laugh, she hates how big he is, and she really hates that he treats her like a little kid. Just because Futuba is short and looks young doesn't make her a kid, and just because she spends so much time with Takeda doesn't mean she sees him as anything but an annoying senpai...or does she?!",
+    "popularity": 38.396,
+    "poster_path": "/d8OgdZT9xeNv3REQMpBfnXhpD5r.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 23399,
+            "logo_path": "/tXMheRYcKXCK1a90NRESqO1ibhQ.png",
+            "name": "King Records",
+            "origin_country": "JP"
+        },
+        {
+            "id": 92585,
+            "logo_path": null,
+            "name": "Ichijinsha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-10",
+            "episode_count": 12,
+            "id": 155184,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/huHo8qWUJF9lTHGV6dtHWhnfDZP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 17
+}

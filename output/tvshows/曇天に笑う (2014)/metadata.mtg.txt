@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/rjfQVPav0jcgyKZx2WDThcNXUwr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2014-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.dontenniwarau.com/",
+    "id": 61742,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-12-20",
+    "last_episode_to_air": {
+        "air_date": "2014-12-20",
+        "episode_number": 12,
+        "id": 1027065,
+        "name": "Brothers, Gathering Under the Sun",
+        "overview": "The Kumoh brothers are finally reunited for the final battle against the Orochi and the Fuma…",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nM46Z8FpOpxjd9QTV08FrUco89n.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Laughing Under the Clouds",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "曇天に笑う",
+    "overview": "When swords were outlawed in the eleventh year of the Meiji era, the mighty samurai population began to dwindle. Those who rejected the ban on blades rebelled, causing violent unrest to erupt throughout the countryside. To combat the rise in criminal activity, an inescapable lake prison was constructed. Three young men, born of the Kumo line, were given the duty of delivering criminals to their place of confinement – but could there be more to their mission than meets the eye?",
+    "popularity": 6.808,
+    "poster_path": "/bmLTQL6aLG6urP9R5ilIdWXYQqH.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-12-02",
+            "episode_count": 3,
+            "id": 237699,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-10-04",
+            "episode_count": 12,
+            "id": 63910,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bmLTQL6aLG6urP9R5ilIdWXYQqH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 5
+}

@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/iNm5mOSWFGm54VcATN6FhaNY3dN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.othersidepicnic.com/",
+    "id": 100077,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-22",
+    "last_episode_to_air": {
+        "air_date": "2021-03-22",
+        "episode_number": 12,
+        "id": 2495378,
+        "name": "Sorawo and Toriko",
+        "overview": "Sorawo and Toriko’s rescue operation continues on the Otherside, and Kozakura freaks out about something too close to home. The AP-1 finally gets some road time, and Sorawo and Toriko open up a little more to each other.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bEjxvBs2CSc0CgdR2D71XeXZxZG.jpg",
+        "vote_average": 6,
+        "vote_count": 2
+    },
+    "name": "Otherside Picnic",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "裏世界ピクニック",
+    "overview": "Friendless college girl Sorawo finds a door to another world one day — a strangely post-apocalyptic-feeling Otherside with serene emptiness, which becomes her new “special place.” There, she meets one other human, the beautiful and independent Toriko, and they explore the abandoned Otherside together.",
+    "popularity": 18.734,
+    "poster_path": "/kIfswEV2y1zqscebe9oBVKPKjw6.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        },
+        {
+            "id": 106076,
+            "logo_path": "/5FHxgxvhqNC6aOVce3X9T2Wz426.png",
+            "name": "Felix Film",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-04",
+            "episode_count": 12,
+            "id": 144573,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eyrOuwsqoLah4ENoOfcMqcpsPAz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 9
+}

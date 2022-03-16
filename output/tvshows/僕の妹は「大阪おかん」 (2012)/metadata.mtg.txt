@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2012-12-22",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 53069,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-03-07",
+    "last_episode_to_air": {
+        "air_date": "2013-03-07",
+        "episode_number": 12,
+        "id": 1474923,
+        "name": "Namika-han@Unmotivated",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Boku no Imouto wa \"Osaka Okan\"",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "僕の妹は「大阪おかん」",
+    "overview": "Boku-no-imoutowa\"Osaka-okan\", is a 2012/2013 Japanese anime television series, that premiered on December 21, 2012 on BS Asahi. The series has been licensed for streaming by Crunchyroll.",
+    "popularity": 2.006,
+    "poster_path": "/97duaJV0z5PAHz8rDbPOtgZcr61.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2012-12-22",
+            "episode_count": 12,
+            "id": 102784,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 6
+}

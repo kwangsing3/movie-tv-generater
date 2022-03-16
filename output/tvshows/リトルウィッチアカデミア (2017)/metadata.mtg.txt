@@ -1,0 +1,133 @@
+{
+    "adult": false,
+    "backdrop_path": "/ra6aGM9kmP0XRnWFg1ML2VzpM3W.jpg",
+    "created_by": [
+        {
+            "id": 109197,
+            "credit_id": "6074133cd29bdd004035092b",
+            "name": "Yoh Yoshinari",
+            "gender": 2,
+            "profile_path": "/nVYJGERQUoRl7rp4zxaraOH5hlF.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://tv.littlewitchacademia.jp/",
+    "id": 69293,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-06-26",
+    "last_episode_to_air": {
+        "air_date": "2017-06-26",
+        "episode_number": 25,
+        "id": 1332735,
+        "name": "Changing at the Edge of the World",
+        "overview": "Everyone seems powerless to stop the magical missile. But Akko believes otherwise, and her friends the \"New Nine Witches\" follow her lead.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bP7ADMfPssOudPOoAljG1pJ2Olq.jpg",
+        "vote_average": 8,
+        "vote_count": 4
+    },
+    "name": "Little Witch Academia",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "リトルウィッチアカデミア",
+    "overview": "When she was a little girl, Atsuko \"Akko\" Kagari saw a magic show performed by a witch named Shiny Chariot.  From that day on she wanted to be just like her.  Enrolling at Luna Nova Magical Academy and having no magical background, can she become a witch like her idol Shiny Chariot?",
+    "popularity": 24.593,
+    "poster_path": "/dIeb4SEjkgaIrS1Vrvie8KUIDa0.jpg",
+    "production_companies": [
+        {
+            "id": 50908,
+            "logo_path": "/wdfnq5ze8Ctrb5WiSRQdggyYPUY.png",
+            "name": "TRIGGER",
+            "origin_country": "JP"
+        },
+        {
+            "id": 108028,
+            "logo_path": "/5cmP4aDWS5XTpf0iq8EE3inrPcs.png",
+            "name": "HALF H·P STUDIO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156754,
+            "logo_path": null,
+            "name": "Little Witch Academia Production Committee",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-01-08",
+            "episode_count": 25,
+            "id": 83198,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dIeb4SEjkgaIrS1Vrvie8KUIDa0.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 67
+}

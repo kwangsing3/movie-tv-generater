@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/l6OthKaa4YBUb9w0ikfTIASbhOX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2018-01-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://idolish7.com/aninana/",
+    "id": 76128,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-26",
+    "last_episode_to_air": {
+        "air_date": "2021-09-26",
+        "episode_number": 13,
+        "id": 3240718,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/y6NqKjzglKLcSTYzVT7UzRgGePA.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "IDOLiSH7",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 45,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイドリッシュセブン",
+    "overview": "Working at an agency owned by your father, seven new idols await. They are all part of an idol unit IDOLiSH7, and each of them have unique personalities. It is your task to manage them. In order to achieve the same goals, as manager and idols together, you gather the seven ununified hearts and aim for the top.",
+    "popularity": 29.041,
+    "poster_path": "/8Eo6qtyyzy27dW7duyZwV8xjl2L.jpg",
+    "production_companies": [
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12502,
+            "logo_path": "/aDcFy26DtVbyZIFOZNTLsooWH5X.png",
+            "name": "Bandai Namco Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-02-17",
+            "episode_count": 9,
+            "id": 116055,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/xouoXU2d3YjKcEssNtURjX7mG5Q.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-01-01",
+            "episode_count": 17,
+            "id": 97451,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bXhDohPtExwzDr2JnJOzMmFQXtZ.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2020-04-05",
+            "episode_count": 15,
+            "id": 140197,
+            "name": "Second Beat!",
+            "overview": "",
+            "poster_path": "/sTxjY6DS6CBkCQ04Rw4IeaiskXC.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2021-07-04",
+            "episode_count": 13,
+            "id": 190736,
+            "name": "Third Beat!",
+            "overview": "",
+            "poster_path": "/abedSVUyuVEvP3NgdY1WJXAGn48.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 4
+}

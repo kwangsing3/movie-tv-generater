@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/8HFbFeUdDFJRn6BwibLPvM8awsm.jpg",
+    "created_by": [
+        {
+            "id": 145351,
+            "credit_id": "5ee143cff36a32001d91eec9",
+            "name": "Akitarou Daichi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1999-10-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "",
+    "id": 26340,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-01-20",
+    "last_episode_to_air": {
+        "air_date": "2000-01-20",
+        "episode_number": 13,
+        "id": 669447,
+        "name": "Now and Then, Here and There",
+        "overview": "Nabuca finds himself at a crossroad: Continue killing for the empty promise of going home after the war ends, or listen to his heart and put down his gun.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nDQDEvcwl7x7Ocp9fevJxxJB8pD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Now and Then, Here and There",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "今、そこにいる僕",
+    "overview": "Shu is a typical Japanese boy, but has an unbeatable, optimistic and determined attitude. However, when he sees a mysterious girl with strange eyes named Lala-Ru up on a smokestack, he is soon pulled into a strange desert world. Shu soon discovers the true terrors of war, which includes genocide, brutal torture, hunger, thirst, and child explotation. Now Shu is trying to save Lala-Ru, as well as his hard earned, and often relunctant, new friends from the insane dictator, Hamdo. Whether Shu can possibly accomplish saving those he cares about while still holding up to his values remains to be seen.",
+    "popularity": 10.182,
+    "poster_path": "/vjw3X2Tv1C9zT2StFTdgPEJkxnB.jpg",
+    "production_companies": [
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-10-14",
+            "episode_count": 13,
+            "id": 36821,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sQBRUkBinSElDNsNACWuaIwJN9d.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 18
+}

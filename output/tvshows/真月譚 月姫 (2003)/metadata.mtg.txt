@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/pmYO8BqcyXuAPsNNXNcFbBqBaCW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2003-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.nbcuni.co.jp/rondorobe/anime/tsukihime/",
+    "id": 13915,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-12-25",
+    "last_episode_to_air": {
+        "air_date": "2003-12-25",
+        "episode_number": 12,
+        "id": 509488,
+        "name": "Moon World",
+        "overview": "After reading the farewell note Arcueid left for him, Shiki immediately heads out to look for her; however Ciel tries to stop him. Knowing that absolutely nothing is going to stop him from looking for Arcueid, Ciel decides to help him look for Arcueid who happens to be fighting Roa at the school.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Lunar Legend Tsukihime",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "真月譚 月姫",
+    "overview": "Shiki Tohno sustained a life threatening injury as a child, and due to that incident he was sent away from the Tohno household and was given to a relative to be raised. Years later, when Shiki is in high school, the head of the Tohno household—his father—dies, and he is ordered to move back in by his sister Akiha, who is the new head of the household. However, Shiki holds a huge secret. Ever since that injury, he has been seeing lines on objects, and only with a special pair of glasses is he able to stop seeing them. Also he is unable to remember anything well from the time before his accident. The day he moves back to the Tohno household is the day he stumbles upon a woman named Arcueid Brunestud and decapitates her with one stab of his knife in a temporary fit of insanity. When she suddenly showed up beside him later alive and well, and ask him to be her bodyguard, Shiki's journey to unravel the mysteries of his past begins.",
+    "popularity": 7.302,
+    "poster_path": "/nZtMHaMluGN2PQSVTIYVbs2Zi6U.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 25158,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-10-09",
+            "episode_count": 12,
+            "id": 25157,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/21vh69ZT2BARW0dKNheO9gmJlx7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 3
+}

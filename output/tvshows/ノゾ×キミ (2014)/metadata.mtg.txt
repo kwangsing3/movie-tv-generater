@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/wljycu4UYrcIU49m6hPSOvmXPGT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2014-08-18",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 94756,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-02-18",
+    "last_episode_to_air": {
+        "air_date": "2015-02-18",
+        "episode_number": 3,
+        "id": 1960114,
+        "name": "",
+        "overview": "Sonoda is not happy when Nozomi beats her in a popularity contest.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8Myv9qzNAdCDskFogntXw3dYQL3.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nozo x Kimi",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ノゾ×キミ",
+    "overview": "A young man discovers a tiny hole in a wall of his new room, and looks through it to see a girl on the other side.",
+    "popularity": 4.828,
+    "poster_path": "/kctF7r5bOa5TshSomflxuBADo2y.jpg",
+    "production_companies": [
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-08-18",
+            "episode_count": 3,
+            "id": 134517,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 5.3,
+    "vote_count": 3
+}

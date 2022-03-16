@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/uZswzhdvBQlkbli8mycASE328BC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-10-05",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.marv.jp/special/happiness-anime/",
+    "id": 44519,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-12-21",
+    "last_episode_to_air": {
+        "air_date": "2006-12-21",
+        "episode_number": 12,
+        "id": 894142,
+        "name": "Magic of Happiness",
+        "overview": "Demons appear in the forest and the mages try to stop them. Yūma's power is needed to stop the Shikomori Treasure, the source of the demons, but he firmly believes that magic only brings unhappiness. Haruhi tells Yūma that she was the girl saved by his magic in the past, and that magic can also be a source of happiness if used correctly. Haruhi then proceeds to kiss Yūma. Afterwards, Yūma uses the flute and seals the monsters away once more. In the end, Yūma transfers to the magic section and is now together with Haruhi.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Happiness!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はぴねす!",
+    "overview": "",
+    "popularity": 2.559,
+    "poster_path": "/ApoHToGH8nsRirNh7pqSGL99bfr.jpg",
+    "production_companies": [
+        {
+            "id": 58268,
+            "logo_path": null,
+            "name": "Artland",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-01-25",
+            "episode_count": 1,
+            "id": 53500,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-10-05",
+            "episode_count": 12,
+            "id": 53501,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/muU6OypUIWvLqBJ1J0wVQl29g1g.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

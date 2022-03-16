@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://allison-web.net",
+    "id": 35501,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-10-02",
+    "last_episode_to_air": {
+        "air_date": "2008-10-02",
+        "episode_number": 26,
+        "id": 801951,
+        "name": "My Prince",
+        "overview": "Treize heads out alone at first to rescue Lillia, though Allison and Travas get a plane and fly to the speeding train. Treize finally reveals to Lillia that he is the prince of Ikstova, and with the help of Allison and Travas is able to save Lillia. However, Treize goes over the cliff on the train with the one who abducted Lillia, criminal no. 42, and goes missing. After spring break is over and Lillia is back in school, Treize transfers into her school and class. Later at the dance party, Treize and Lillia dance together.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Allison & Lillia",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK BS2",
+            "id": 2026,
+            "logo_path": "/eMVZPvSxfpFUxzzqzbYIYgE9uJK.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アリソンとリリア",
+    "overview": "An anime series adapted from the light novel series Allison and Lillia and Treize by Keiichi Sigsawa.",
+    "popularity": 3.354,
+    "poster_path": "/o2ybFm5abqS3bbU0pza5jMvKNHK.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-04-03",
+            "episode_count": 26,
+            "id": 46203,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6qlwm8BZLjyQCYsm7Co1MZnyRJb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.5,
+    "vote_count": 2
+}

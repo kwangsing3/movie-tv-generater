@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": "/sQ6udM8ZUNPxrOtut8T4sP27tOR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        6
+    ],
+    "first_air_date": "2008-03-31",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 34186,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-30",
+    "last_episode_to_air": {
+        "air_date": "2018-09-30",
+        "episode_number": 25,
+        "id": 1972891,
+        "name": "Chi Has Fun",
+        "overview": "",
+        "production_code": "",
+        "season_number": 4,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Chi's Sweet Home",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 284,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "チーズスイートホーム",
+    "overview": "Chi's Sweet Home is a manga series written and illustrated by Kanata Konami. It has been serialized in Kodansha's seinen manga magazine Weekly Morning since 2004. The manga has been licensed for North American distribution by Vertical Inc. To date, it has been collected in nine volumes, with the most recent being published in August 2012. An anime adaptation began airing on 31 March 2008 and was produced by studio Madhouse New Zealand distribution by Astro Awani.",
+    "popularity": 32.675,
+    "poster_path": "/xEJmKzbOq87E7eMp0eatgmJ2DSa.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 77884,
+            "logo_path": "/dP2lxVNctD5Cried0IWVqgrO2o9.png",
+            "name": "Marza Animation Planet",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-04-23",
+            "episode_count": 1,
+            "id": 45051,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-03-31",
+            "episode_count": 104,
+            "id": 45050,
+            "name": "Chi's Sweet Home",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2009-03-30",
+            "episode_count": 104,
+            "id": 45052,
+            "name": "Chi's New Address",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        },
+        {
+            "air_date": "2016-10-02",
+            "episode_count": 51,
+            "id": 81610,
+            "name": "Chi's Sweet Adventure",
+            "overview": "",
+            "poster_path": "/j4kBgsBCjhh9GzOq3DpZkLJy40I.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2018-04-08",
+            "episode_count": 25,
+            "id": 135134,
+            "name": "Chi's Sweet Adventure 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 8
+}

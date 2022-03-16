@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/y8ujppuSi7qy3nNACLhold3dyWE.jpg",
+    "created_by": [
+        {
+            "id": 2259261,
+            "credit_id": "5fc191862bcf67003dbe6ff1",
+            "name": "Ren Kawahara",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        13
+    ],
+    "first_air_date": "2019-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://aochan-anime.com/",
+    "id": 87462,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-06-22",
+    "last_episode_to_air": {
+        "air_date": "2019-06-22",
+        "episode_number": 12,
+        "id": 1732765,
+        "name": "Ao-chan Can't Study",
+        "overview": "Ao-chan knows how take her relationship with Kijima to the next level... but it would mean breaking a promise she made to Kijima.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tQxRvJdByy9rztdYHVxUWLl5SPk.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Ao-chan Can't Study!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "みだらな青ちゃんは勉強ができない",
+    "overview": "Ao Horie’s father, a popular erotic fiction author, chose Ao’s name because A stands for “apple” and O stands for “orgy”! Desperate to escape her father’s legacy and get into a prestigious university, Ao devotes herself to studying instead of pursuing romance. She has no time for boys, but there’s just one problem: Kijima, her handsome and popular classmate, just confessed his love to her! And to make matters worse, she can’t stop thinking dirty thoughts about him! Looks like escaping her father’s influence will be harder than she thought…",
+    "popularity": 21.195,
+    "poster_path": "/6RmHv1BXb8645cfVAUPdTkf2rgj.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-04-06",
+            "episode_count": 12,
+            "id": 120136,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8YoCOOxWfUzClsZ4Is3G2WJU84U.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 156
+}

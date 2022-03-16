@@ -1,0 +1,145 @@
+{
+    "adult": false,
+    "backdrop_path": "/ufmMF9F264lIkG3UrrbFs6RO61x.jpg",
+    "created_by": [
+        {
+            "id": 2004912,
+            "credit_id": "6086381fe61e6d007745d1b7",
+            "name": "Li Haoling",
+            "gender": 2,
+            "profile_path": "/zsux0GhDJxf7KP08TCiEl2LGEHc.jpg"
+        }
+    ],
+    "episode_run_time": [
+        11,
+        15
+    ],
+    "first_air_date": "2016-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://tobe-hero.com",
+    "id": 68135,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-07-07",
+    "last_episode_to_air": {
+        "air_date": "2018-07-07",
+        "episode_number": 12,
+        "id": 2670903,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "To Be Hero",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "bilibili",
+            "id": 1605,
+            "logo_path": "/mtmMg3PD4YGfrlmqpEiO6NL2ch9.png",
+            "origin_country": "CN"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "CN",
+        "JP"
+    ],
+    "original_language": "zh",
+    "original_name": "凸变英雄",
+    "overview": "Our main character, Ossan, is a no-good father with a messy appearance even though he looks nice, and decorates restrooms. He is a divorced, single-dad and lives with his daughter Min-chan, who is good at both studying and sport. One day, Ossan has been sucked into the toilet that he finished using, and becomes a hero to save the Earth! The price is he lost his ikemen appearance and becomes a fat person!! Ossan's battle to protect the Earth and Min-chan has begun…",
+    "popularity": 15.243,
+    "poster_path": "/9V9CZ7KQdRvRHjDW7GQUKUYsTih.jpg",
+    "production_companies": [
+        {
+            "id": 109472,
+            "logo_path": null,
+            "name": "Studio LAN",
+            "origin_country": "CN"
+        },
+        {
+            "id": 80544,
+            "logo_path": "/e0ZP8J5XRH2WfcSPRz3GcqSdMfz.png",
+            "name": "Emon Animation Company",
+            "origin_country": "JP"
+        },
+        {
+            "id": 87874,
+            "logo_path": "/9zuMeFMDUba1gRIZDBEAcCUIoaA.png",
+            "name": "Haoliners Animation",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-06-16",
+            "episode_count": 1,
+            "id": 107566,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-10-05",
+            "episode_count": 12,
+            "id": 80810,
+            "name": "To Be Hero",
+            "overview": "The protagonist, known only as \"Ossan\" (pops), is a handsome yet undisciplined man, a divorced father who has a job as a toilet seat designer. He lives with his daughter Min-chan, who excels in both academics and sports. One day, while on the toilet, Ossan is sucked into it and becomes a hero charged with protecting the world. In exchange, he transforms from his handsome form into a chubby appearance. Ossan's fight to save the world and protect Min-chan begins here.",
+            "poster_path": "/1OkhBNc89r3qpI2yYkQKbfrAWEe.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-05-19",
+            "episode_count": 12,
+            "id": 101701,
+            "name": "To Be Heroine",
+            "overview": "Everyone around Huayu Ye (花语叶) expects her to grow up and become an adult, and she's lost the ability to keep herself mentally balanced. At the bottom of her heart, her childish self is still there, and still strong. One day she wanders into another dimension, a world where the light has been lost, and darkness rules. The people there exist as babies wearing only their underpants. The clothes they wear can be summoned as powerful fighters called \"Spiclo\" (Spirit Cloth). In this world, a battle was being fought between light and darkness... However, this battle between light and darkness in another dimension was actually the battle between hope and despair in Huayu Ye's heart...",
+            "poster_path": "/t8fzi8LaanXqZnTEVdoyInfQ8Gd.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.7,
+    "vote_count": 7
+}

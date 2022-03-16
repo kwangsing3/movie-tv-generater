@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/mu9JlZQACnrjkPzPHkw7MZBW0zz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2010-11-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 38605,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-03-16",
+    "last_episode_to_air": {
+        "air_date": "2011-03-16",
+        "episode_number": 2,
+        "id": 861267,
+        "name": "A Voice Actress in Secret",
+        "overview": "Aoyagi Kanna faces a new challenge when Kaizu Motoki, a male classmate, finds out she works as an eroge voice actress.  Things get even more complicated when that same classmate is paired to work with her on the company's new project.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Koe de Oshigoto",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "こえでおしごと! The ANIMATION",
+    "overview": "Koe de Oshigoto!, also known by the short title KoeGoto, is a 2008–2013 manga series by Azure Konno, about a girl working as a voice actress for an eroge development company. It was serialized in Wani Books' monthly Comic Gum magazine. A two-episode anime adptation was produced by Studio Gokumi and released in 2010 and 2011.",
+    "popularity": 10.904,
+    "poster_path": "/tNi4YrVEyscDIytxI8w85X7O5PQ.jpg",
+    "production_companies": [
+        {
+            "id": 25504,
+            "logo_path": null,
+            "name": "Studio Gokumi",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-11-17",
+            "episode_count": 2,
+            "id": 50169,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 5
+}

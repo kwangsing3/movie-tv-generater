@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2000-04-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 28223,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-07-19",
+    "last_episode_to_air": {
+        "air_date": "2000-07-19",
+        "episode_number": 13,
+        "id": 704862,
+        "name": "Time Flows by in Enohana Bath",
+        "overview": "Things continue pretty much as normal after the disappearance of the mothership.  Chiaki and Mayuko talk about things now that it's gone and how NieA is doing.  Later, Kotomi tells them that the bath house actually turned a profit.  Genzo shows up with a large load of rice for Mayuko as Chiaki is leaving.  Suddenly, NieA appears in a new UFO she'd been working on in secret.  When the power on this runs out in mid-flight, she lands on the roof of the bath house and blows another hole in it.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/hdR9E2c5mAtQjaUMy0dCevt2tH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "NieA Under 7",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "NieA_7",
+    "overview": "NieA_7, also known as NieA under 7, is a 13 episode anime series about Mayuko, a poor, introverted student who lives above a Japanese bathhouse, and NieA, a freeloading, freewheeling alien who lives in her closet and eats her food.",
+    "popularity": 5.395,
+    "poster_path": "/aINB40Si5rIXVGn8swwtiFM9j0r.jpg",
+    "production_companies": [
+        {
+            "id": 3530,
+            "logo_path": null,
+            "name": "Triangle Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-04-26",
+            "episode_count": 13,
+            "id": 39405,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

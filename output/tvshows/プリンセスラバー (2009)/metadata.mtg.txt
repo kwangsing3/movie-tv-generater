@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/52lDY5tyBQkVn9ERUOI53O0pM8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2009-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.prilover.tv/top.html",
+    "id": 34188,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-09-21",
+    "last_episode_to_air": {
+        "air_date": "2009-09-21",
+        "episode_number": 12,
+        "id": 785207,
+        "name": "Princess Lover!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/HPiBgT00gcjHai8QjzHEjFpVj0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Princess Lover!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プリンセスラバー",
+    "overview": "Princess Lover! is a Japanese visual novel, and the first title developed by Ricotta. It was first released as an adult game for the PC on June 27, 2008 in both limited and regular editions, which was followed by an all-ages release for the PlayStation 2 on January 28, 2010. The gameplay in Princess Lover! follows a linear plot line which offers pre-determined scenarios and courses of interaction, and its story focuses on the appeal of the four female main characters.",
+    "popularity": 29.186,
+    "poster_path": "/rCpJWhIezs1HEp7R07eFwiEBNm8.jpg",
+    "production_companies": [
+        {
+            "id": 7759,
+            "logo_path": null,
+            "name": "GoHands",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-10-23",
+            "episode_count": 18,
+            "id": 45055,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/5stfjlKxRyWG4y6Ly4fLjUyRlx.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-07-06",
+            "episode_count": 12,
+            "id": 45054,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wkVOiGmG2vUMq7rswqZyYUT4PMe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 7
+}

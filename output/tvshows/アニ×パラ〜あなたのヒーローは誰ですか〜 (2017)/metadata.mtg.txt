@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/sGlu2V6Mbu8Y6JjuGswJ1CJ1aLC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2017-11-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.nhk.or.jp/anime/anipara/",
+    "id": 113670,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-04-25",
+    "last_episode_to_air": {
+        "air_date": "2021-04-25",
+        "episode_number": 12,
+        "id": 3457759,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Animation x Paralympic: Who Is Your Hero?",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK",
+            "id": 2334,
+            "logo_path": "/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アニ×パラ〜あなたのヒーローは誰ですか〜",
+    "overview": "A series of short animation works focusing on the Para-sport with the aim of delivering the appeal of the Paralympic Games and sport for athletes with an impairment.",
+    "popularity": 1.4,
+    "poster_path": "/rCfIISy58BqjuReyjiYCuoyMuc9.jpg",
+    "production_companies": [
+        {
+            "id": 15505,
+            "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+            "name": "NHK",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 50879,
+            "logo_path": null,
+            "name": "Studio Gallop",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71369,
+            "logo_path": "/gsHQTAMMRAlqYIWdN6rcSKSHRqT.png",
+            "name": "DLE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-11-10",
+            "episode_count": 12,
+            "id": 169980,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

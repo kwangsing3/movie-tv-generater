@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/meQqEjXC8nUVbOjT6rUELbpSp3S.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2003-10-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.nhk.or.jp/anime/survive/",
+    "id": 43242,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-10-28",
+    "last_episode_to_air": {
+        "air_date": "2004-10-28",
+        "episode_number": 26,
+        "id": 887026,
+        "name": "To Where Everyone is",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/sZH0UTXxZY6m1UtFqkF5p1842ef.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Uninhabited Planet Survive!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無人惑星サヴァイヴ",
+    "overview": "Uninhabited Planet Survive, also known as Planet Survive is a Sci-Fi/Fantasy and Action/Adventure anime series that aired in Japan on NHK from October 2003 to October 28, 2004. It is a 52 episode series produced by Telecom Animation Film and Madhouse Production.",
+    "popularity": 22.271,
+    "poster_path": "/9xJLh6afMie7MJmJI26uUKwfb6n.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-10-16",
+            "episode_count": 26,
+            "id": 52720,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gZgq7T4CqnQPmNYAsIRLVtBp73x.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2004-04-29",
+            "episode_count": 26,
+            "id": 52721,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/gZgq7T4CqnQPmNYAsIRLVtBp73x.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.5,
+    "vote_count": 2
+}

@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/aZRGh7ccNAdqQWhHypvlT9UuXjZ.jpg",
+    "created_by": [
+        {
+            "id": 56342,
+            "credit_id": "6192abeef85958002b74b98e",
+            "name": "Shinichiro Watanabe",
+            "gender": 2,
+            "profile_path": "/AptCCXOt0n4pnTjvFau8GtFyysh.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2004-05-20",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.newgin.co.jp/pub/machine/champloo/",
+    "id": 1063,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-03-19",
+    "last_episode_to_air": {
+        "air_date": "2005-03-19",
+        "episode_number": 26,
+        "id": 1028939,
+        "name": "Evanescent Encounter (3)",
+        "overview": "Old scores are finally settled as Mugen, Jin, and Fuu finally come face to face with the ghosts of their respective pasts.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/r1YGcqzTcOhblxr9KyJONbbfcd0.jpg",
+        "vote_average": 8.2,
+        "vote_count": 4
+    },
+    "name": "Samurai Champloo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サムライチャンプルー",
+    "overview": "Break-dancing but fierce warrior Mugen has to deal with the cold-blooded and conceited Jin, a samurai who believes he is above all. These sworn enemies are brought together by Fuu for a special task.",
+    "popularity": 35.414,
+    "poster_path": "/lYpHeSm7BcUxAbBx1ucuEH7oGAe.jpg",
+    "production_companies": [
+        {
+            "id": 33347,
+            "logo_path": null,
+            "name": "Manglobe",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-05-20",
+            "episode_count": 26,
+            "id": 3015,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/s5xaOhI9IuQrSgxYDEUNMBJRFiT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Death, betrayal, and... hip hop!",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 421
+}

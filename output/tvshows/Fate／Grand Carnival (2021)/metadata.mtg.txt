@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/usmbzZexo0rGdS8JEYrrSObHU3J.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2021-06-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://anime.fate-go.jp/fgc/",
+    "id": 132848,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-10-13",
+    "last_episode_to_air": {
+        "air_date": "2021-10-13",
+        "episode_number": 2,
+        "id": 3184460,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/ehf7KdozsZR1yaZobRGizYZl9e0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fate/Grand Carnival",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Fate/Grand Carnival",
+    "overview": "",
+    "popularity": 14.511,
+    "poster_path": "/eaeSzebQnZdHFkODmecjpXrRbSf.jpg",
+    "production_companies": [
+        {
+            "id": 42811,
+            "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
+            "name": "Lerche",
+            "origin_country": "JP"
+        },
+        {
+            "id": 53787,
+            "logo_path": "/wZ0g1QrGz19fXA2fRzGfqGeMvrC.png",
+            "name": "TYPE-MOON",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-06-02",
+            "episode_count": 2,
+            "id": 209428,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eaeSzebQnZdHFkODmecjpXrRbSf.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-10-13",
+            "episode_count": 2,
+            "id": 209430,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/hBZspL2CZaWSPKoUe82I774JKMc.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8,
+    "vote_count": 1
+}

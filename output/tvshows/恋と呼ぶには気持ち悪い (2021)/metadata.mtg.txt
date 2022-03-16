@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/lURZio8KWkZ9qUixiopFTqOXix.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-03-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://koikimo.jp",
+    "id": 98309,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-14",
+    "last_episode_to_air": {
+        "air_date": "2021-06-14",
+        "episode_number": 12,
+        "id": 2837713,
+        "name": "You're Creepy",
+        "overview": "A few days after they went flower viewing, Ichika is anxious because she hasn't heard from Ryo since and she decides to talk to Rio about it. Rio tells Ichika that she should try contacting him herself, which Ichika is rather nervous about. Rio tells her that she feels sorry for her brother because Ichika won't make up her mind on how she feels about Ryo. Ichika builds up the courage and finally calls Ryo, but he tells her that he's busy with work and won't be able to talk to her for a while as if he's trying to keep his distance from her...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7vYjxwD0fLNfrokuj75zaMybXt0.jpg",
+        "vote_average": 7.7,
+        "vote_count": 3
+    },
+    "name": "Koikimo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "恋と呼ぶには気持ち悪い",
+    "overview": "One rainy day, salaryman Amakusa Ryo is saved by a high school girl he doesn't know at the station. He later finds out that the girl is Arima Ichika. Ryo is somewhat of a womanizer and to repay her for saving him, he suggests giving her a kiss or going out on a date with her, in which Ichika tells him he's creepy. This, however, opens a new door for Ryo and he falls madly in love with her. Ever since then, Ryo tries to overly express his feelings to Ichika. Ichika just keeps insulting him and says he's being creepy, but he just seems to take it as her way of showing affection towards him...",
+    "popularity": 30.318,
+    "poster_path": "/gPS6ip5T0W823Z0rlDhopXI6i1h.jpg",
+    "production_companies": [
+        {
+            "id": 35911,
+            "logo_path": null,
+            "name": "Nomad",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-29",
+            "episode_count": 12,
+            "id": 141532,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/phvlwMHz0d8pxW7rRX68xpxCWJQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 16
+}

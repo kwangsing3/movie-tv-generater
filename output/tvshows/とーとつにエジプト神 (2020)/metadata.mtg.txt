@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/xLmiZL9hNMd4hPKoPuFR0pH0Hmk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        6
+    ],
+    "first_air_date": "2020-12-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://to-to2ni-anime.jp",
+    "id": 106126,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-02-08",
+    "last_episode_to_air": {
+        "air_date": "2021-02-08",
+        "episode_number": 10,
+        "id": 2551242,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mn03gv4I4dd2MIevp2cmFAFQy4B.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Oh, Suddenly Egyptian God",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "U-NEXT",
+            "id": 3869,
+            "logo_path": "/ydvZrfyYbBVXPDT1Tv2P6EmRmDZ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "とーとつにエジプト神",
+    "overview": "Welcome to the world of the Egyptian gods.\n\nThis is where the famous gods of Ancient Egypt, from Anubis to Thoth, live their lives freely.\n\nHow freely, you ask? Bastet appears out of nowhere, singing and dancing. Medjed is always stone-faced. Horus works a part-time job. Set is devoted to pulling pranks. Ra's off traveling and rarely comes home... All the Gods basically just do whatever they want!\n\nThese cute mascot Egyptian deities make the most of their unrestrained divine lives. The extremely popular characters of \"Oh, Suddenly Egyptian God\" now have their own anime!",
+    "popularity": 14.014,
+    "poster_path": "/1LsPEKs6IyzZ71IppJMXCLRe31z.jpg",
+    "production_companies": [
+        {
+            "id": 142380,
+            "logo_path": null,
+            "name": "Typhoon Graphics",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-12-07",
+            "episode_count": 10,
+            "id": 156690,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1LsPEKs6IyzZ71IppJMXCLRe31z.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

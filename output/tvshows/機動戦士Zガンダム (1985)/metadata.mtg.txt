@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/fp77RH8CxdnERkH3lmvU2pq0zGb.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "5ab3b8efc3a368615b009188",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1985-03-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 13674,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1986-02-22",
+    "last_episode_to_air": {
+        "air_date": "1986-02-22",
+        "episode_number": 50,
+        "id": 503745,
+        "name": "Riders in the Skies",
+        "overview": "Emma and Camille, huddled aboard a wrecked ship, have a last heart-to-heart. She urges him to take her life and use it to fight. \n\nMeanwhile, Char is ducking it out with Hamaan and Scirocco inside the barrel of the colony laser. The terrible twosome quickly dismantle Char's Type 100, and the action then shifts to the inner rooms of the super weapon. The trio are joined by Camille and Fa for more pistol-waving, pontificating, philosophizing action; then they all hop back into their mobile suits and hightail it out of the colony laser. Bright, who's been patiently waiting for his pilots to clear the barrel, then activates the colony laser and disintegrates the Titans fleet. \n\nFinal duel time! Hamaan and Char end up slugging it out inside another wrecked ship. Char almost wins, despite the fact his mobile suit has about one limb left, but he forgot about the Quebeley's funnels. Hamaan offers him a chance to live and serve her (declined), then Char nails the ship's Secret Self-Destruct Widget with the Type 100's vulcans and blows it up around them. Hamaan escapes. \n\nMeanwhile, Camille discovers how frustrating it is to fight an indestructible mobile suit. Giving up on defeating Scirocco through conventional means, he summons all the friendly newtype ghosts at his disposal (Emma, Four, Rozamia) to hold the cold-blooded manipulator in place (Sara's ghost almost intervenes to help her man, but Katsu's ghost talks her out of it). Transforming the Zeta into wave rider mode, Camille plows into Scirocco's mobile suit and crushes him into pulp (very memorable!). The dying Scirocco fries Camille's teeny brain in revenge. \n\nThe end. Fa collects her childhood pal, now with the IQ of a pork cutlet. The Titans are history, the Axis withdraw to pursue world domination, the AEUG are all but wiped out, the colony laser has supposedly blown a gasket. And the torso of the Type 100 drifts by, its cockpit hatch open, empty...?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xFEYQHQknpPOeILdeRzVsHmOWRN.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Zeta Gundam",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Nagoya TV",
+            "id": 576,
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士Zガンダム",
+    "overview": "Universal Century 0087, and the One Year War between the Earth Federation and Principality of Zeon is over. The Earth Federation has created an elite task force, known as the Titans, who are responsible for hunting the remaining Zeon forces. However, the power-hungry Titans have spurred the creation of a rebellious faction called the Anti-Earth Union Group (AEUG).",
+    "popularity": 15.964,
+    "poster_path": "/pmErEd15QbO05OJ3awhr7jvs8LQ.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1985-03-02",
+            "episode_count": 50,
+            "id": 24759,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/43IPkGYLX4GcynT1qoSrvTUODN2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 17
+}

@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/mjyRFPrJ8SPF77STsbkR0X0rE6C.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://subarashiki-anime.jp",
+    "id": 105249,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-26",
+    "last_episode_to_air": {
+        "air_date": "2021-06-26",
+        "episode_number": 12,
+        "id": 2864017,
+        "name": "It's a Wonderful World",
+        "overview": "Neku confronts Kitaniji for the final time when the return of a familiar face turns everything he thought he knew on its head! Who is the real Composer? Will the lessons Neku has learned in Shibuya carry him through one last game?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/aIxa0yq8z79TQmMdPPHWW2S8Z5c.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The World Ends With You: The Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "HBC",
+            "id": 3658,
+            "logo_path": "/n77lM12X5dhGHb0I57RmbtqxFsd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "すばらしきこのせかい The Animation",
+    "overview": "Neku awakens in the middle of Shibuya's bustling Scramble Crossing with no memory of how he got there. Little does he know, he's been transported to an alternate plane of existence known as the Underground. Now an unwilling participant in the mysterious \"Reapers' Game,\" Neku must partner up with a girl named Shiki in order to survive...",
+    "popularity": 19.366,
+    "poster_path": "/6qbkiUDUkJIcb5Jgc6kYIfBKE1i.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 136705,
+            "logo_path": null,
+            "name": "DOMERICA",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-10",
+            "episode_count": 12,
+            "id": 154581,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6qbkiUDUkJIcb5Jgc6kYIfBKE1i.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 26
+}

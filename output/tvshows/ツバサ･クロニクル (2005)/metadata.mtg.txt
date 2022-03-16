@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/qwOTd7GvFYWeVl7vgb7Rx5x0fqT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www6.nhk.or.jp/anime/program/detail.html?i=tsubasa",
+    "id": 37565,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-11-04",
+    "last_episode_to_air": {
+        "air_date": "2006-11-04",
+        "episode_number": 26,
+        "id": 849161,
+        "name": "Wings of Tomorrow (?)",
+        "overview": "Chaos has trapped Sakura in a crystal then reveals his true form (A bird with millions of feathers that look like Sakura's). However, Sakura while imprisoned learns that Chaos can't control his body and to free him, Syaoran must beat his true form. Sakura learns who Chaos really is and why he wanted to travel with her. Who really is Chaos and will Syaoran be able to defeat his Chaos's true form?",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/ed1xyndEi3N4CG76r0WaTbRXiTs.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Tsubasa RESERVoir CHRoNiCLE",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK Educational TV",
+            "id": 622,
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ツバサ･クロニクル",
+    "overview": "Syaoran fights to gather the scattered soul of his beloved princess Sakura, whose memories were sent adrift across space and time.",
+    "popularity": 20.001,
+    "poster_path": "/uS2CbIms3GYSXkTkcMZq5emJsMy.jpg",
+    "production_companies": [
+        {
+            "id": 15505,
+            "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+            "name": "NHK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-08-20",
+            "episode_count": 6,
+            "id": 168690,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-04-08",
+            "episode_count": 26,
+            "id": 48928,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nV3h2Ihk8HPX2Rc0nAcvvZYNa7V.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2006-04-28",
+            "episode_count": 26,
+            "id": 48927,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/2wlKSp0MFOKJqNjqxlCMWm2hkAb.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 14
+}

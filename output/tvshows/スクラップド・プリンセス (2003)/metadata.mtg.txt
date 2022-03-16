@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/o2LQjwcVEHbxIvMfSNX9h9UoPbQ.jpg",
+    "created_by": [
+        {
+            "id": 1467455,
+            "credit_id": "5b144e9bc3a3685330003254",
+            "name": "Ichiro Sakaki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2003-04-11",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 45544,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-10-09",
+    "last_episode_to_air": {
+        "air_date": "2003-10-09",
+        "episode_number": 24,
+        "id": 903502,
+        "name": "Symphony of Those Who Protect",
+        "overview": "Pacifica dies. After Pacifica dies, she is called into Celia's world. Celia asks her advice, freeing the world from its cage. Pacifica's life is restored, and the three siblings go back to their village. Leo proposes again, and Pacifica turns him down.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Scrapped Princess",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スクラップド・プリンセス",
+    "overview": "Pacifica Casull is the most feared and hated person by the followers of the God Mauser. Known as the Scrapped Princess, she is the poison that will destroy the world. To avoid being killed by the zealots of Mauser, Pacifica and her adoptive brother and sister leave the village of Manhurin. Her brother, Shannon, is an expert with the sword while Racquel is proficient with magic. At every step of the way, however, someone is constantly trying to kill Pacifica, hoping to somehow avert the catastrophe that is supposed to befall the world on her 16th birthday.\n\n",
+    "popularity": 17.373,
+    "poster_path": "/n3bg5yxmvEYcIFm2JWvchHEq7wz.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-04-11",
+            "episode_count": 24,
+            "id": 54170,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6j1pWkrmg8mCIA5ziUPHMo2SCV9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 6
+}

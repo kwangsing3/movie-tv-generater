@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/52H16pnnKZ8Mwiytjx3JrsAwNLZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://itakiss-anime.jp/index.htm",
+    "id": 36005,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-09-27",
+    "last_episode_to_air": {
+        "air_date": "2008-09-27",
+        "episode_number": 25,
+        "id": 817611,
+        "name": "Hello Again!",
+        "overview": "Kotoko,Naoki and their daughter Kotomi go to Naoki's grandparents home. On the train, Naoki has a flashback to when he and Kotoko went there after their marriage.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5scM7bLjFuGIlepQ90vT5y9nB6f.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "ItaKiss",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "イタズラなKiss",
+    "overview": "When her newly-built home is razed to the ground by an earthquake, low-achieving, clumsy, and troublesome third-year high school student Kotoko Aihara is forced to share a roof with the school's—and possibly Japan's—smartest student, Naoki Irie. Kotoko is not actually a complete stranger to Irie-kun; unfortunately, a single love letter that she tried to give him in the past has already sealed her fate as far as he is concerned. Throw in some quirky friends and a meddlesome mother, and Kotoko might not even have a snowball's chance in hell of winning the older Irie boy's heart. Yet Kotoko remains optimistic that, because she now lives in his house, her unattainable crush on the genius since the beginning of high school has never been more within reach.",
+    "popularity": 12.436,
+    "poster_path": "/bJb1y6yXBMBwVLChoXqpkXc2i8M.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-04-05",
+            "episode_count": 25,
+            "id": 46809,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/flS1NmTWbTMvO59oK7IGVokckqI.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 14
+}

@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/uAGTzuseqO1uyXQXfsqxNnaHPwt.jpg",
+    "created_by": [
+        {
+            "id": 58160,
+            "credit_id": "6057dfd4e16e5a002810adb8",
+            "name": "Osamu Tezuka",
+            "gender": 2,
+            "profile_path": "/4xOgZySBani7h7xkFwK4Rf0MqNg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "1972-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://tezukaosamu.net/jp/anime/40.html",
+    "id": 13411,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1972-09-30",
+    "last_episode_to_air": {
+        "air_date": "1972-09-30",
+        "episode_number": 27,
+        "id": 498335,
+        "name": "The Sun Will Rise Again in the Atlantic Ocean",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Triton of the Sea",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 27,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "海のトリトン",
+    "overview": "5000 years ago, the Triton Family was living peacefully in Atlantis until the Poseidon Family destroyed them all. Triton, of the Triton Family line, embarks on an adventurous life in the sea fighting the Poseidon Family.",
+    "popularity": 5.519,
+    "poster_path": "/rvTFaseaHRLWR9sWycki8EGgFmB.jpg",
+    "production_companies": [
+        {
+            "id": 138677,
+            "logo_path": null,
+            "name": "Animation Staff Room",
+            "origin_country": ""
+        },
+        {
+            "id": 4868,
+            "logo_path": "/3ExeT4zGXBFU7ei1crOvuzKnc1z.png",
+            "name": "Asahi Broadcasting Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1972-04-01",
+            "episode_count": 27,
+            "id": 24394,
+            "name": "Umi no triton season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.8,
+    "vote_count": 4
+}

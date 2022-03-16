@@ -1,0 +1,71 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2002-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.broccoli.co.jp/dejiko/panyo/",
+    "id": 44942,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2002-09-30",
+    "last_episode_to_air": {
+        "air_date": "2002-09-30",
+        "episode_number": 36,
+        "id": 2737176,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Panyo Panyo Di Gi Charat",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 48,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぱにょぱにょデ・ジ・キャラット",
+    "overview": "Panyo Panyo Di Gi Charat is the prequel to the popular anime series Di Gi Charat. It features Princess Dejiko and Puchiko as young children home at planet Di Gi Charat. The two and their friends Meek and Rinna set off to bring happiness to the citizens of planet Di Gi Charat, while Piyoko and Deji Devil try to stop them.",
+    "popularity": 1.599,
+    "poster_path": "/z60iV8DJNtVJYuJm9efGNKcjhJb.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2002-01-05",
+            "episode_count": 48,
+            "id": 71969,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

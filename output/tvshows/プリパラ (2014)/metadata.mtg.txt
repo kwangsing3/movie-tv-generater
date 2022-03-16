@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/Iyn11whMjSzH0kqqNyYPWXczcH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/ipp/",
+    "id": 67627,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-27",
+    "last_episode_to_air": {
+        "air_date": "2018-03-27",
+        "episode_number": 51,
+        "id": 2851360,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "PriPara",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS TV Tokyo",
+            "id": 3471,
+            "logo_path": "/lUEv1JU8b5UcZJ1XoJkAq8o6UVd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 191,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プリパラ",
+    "overview": "Laala Manaka is a 5th-grader at Paprika Academy. Like most girls, she admires the world of PriPara, a sport that tests idol girls on song, dance, and fashion. Unfortunately for her, her school does not allow elementary school students to participate in PriPara. However, through miraculous circumstances, Laala passes the audition to become a PriPara idol.",
+    "popularity": 9.174,
+    "poster_path": "/kLIVCmuCw1nMpULikGOmQml1lPQ.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4571,
+            "logo_path": "/2gKq3u4hrI0xw5plncuaPapmQaV.png",
+            "name": "Dongwoo A&E",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-04",
+            "episode_count": 140,
+            "id": 79702,
+            "name": "PriPara",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-04-03",
+            "episode_count": 51,
+            "id": 189185,
+            "name": "Idol Time PriPara",
+            "overview": "The story focuses on Yui, a girl who lives in the town of Paparajuku, and who dreams of being an idol, even if she realizes that being an idol is next to impossible for her. Her friends often remark on how much she dreams about it. But then, the PriPara idol theme park opens in her town, and that an idol named Laala is coming to town from Parajuku, which only makes Yui dream even bigger. The new PriPara theme park has been updated with new concepts. However, due to a system error, Laala is no longer able to PriPara Change.",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 2
+}

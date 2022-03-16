@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/r1pqWS32hjMuBPT5H44sdOL8f5t.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.lovelive-anime.jp/otonokizaka/",
+    "id": 53721,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-29",
+    "last_episode_to_air": {
+        "air_date": "2014-06-29",
+        "episode_number": 13,
+        "id": 1099278,
+        "name": "May Everyone's Dream Come True!",
+        "overview": "Today is graduation. Having finally finished her farewell address, Honoka heads to school in high spirits. At the gates she meets Rin and her friends. They head to the club room together, where they find a trophy and flag.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/q04cqGey9unCi47QXDk4KiGV4W.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love Live! School Idol Project",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラブライブ! School idol project",
+    "overview": "Otonokizaka High School is planning to close within three years. However, nine female students come together with one thing in mind—form a pop idol group to revive the school’s popularity and keep it from shutting down. 'In order to protect our beloved school, there’s only one thing we can do...become pop stars!'",
+    "popularity": 29.234,
+    "poster_path": "/aDjKTw209ZBH3gprFvQmt7wpEDt.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-12-31",
+            "episode_count": 8,
+            "id": 69710,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/v0BjDfDQ7eDY1xaf8XEADWooZj6.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-01-06",
+            "episode_count": 13,
+            "id": 56444,
+            "name": "Season 1",
+            "overview": "The school idol project is set at a school between Tokyo's Akihabara, Kanda, and Jinbouchou neighbourhoods. The school faces the danger of being streamlined out of existence, so nine of its female students decide to become idols to protect their school and boost attendance.",
+            "poster_path": "/tmQ6LByXHMhsncL1kjz8FhTvBjl.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-04-06",
+            "episode_count": 13,
+            "id": 69709,
+            "name": "Season 2",
+            "overview": "With Otonokizaka Academy saved by Kousaka Honoka and members of µ from being shut down, students are now back to their normal campus lives — for a brief period. Members of µ are now brought back to the stage and compete with other idol groups for regional tournaments.",
+            "poster_path": "/fmUdokBY0rkGn00VFZ0VneQArP4.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 41
+}

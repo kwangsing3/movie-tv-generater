@@ -1,0 +1,372 @@
+{
+    "adult": false,
+    "backdrop_path": "/y4QjABMUlpwzBl0jlJK9YFE3WoD.jpg",
+    "created_by": [
+        {
+            "id": 111776,
+            "credit_id": "52fb6637c3a3682f251b5bdd",
+            "name": "Satoshi Tajiri",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 111778,
+            "credit_id": "52fb66fe9251415a2a1b3d53",
+            "name": "Junichi Masuda",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1292138,
+            "credit_id": "52fb6656c3a36819b7370f5e",
+            "name": "Ken Sugimori",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "1997-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/pokemon/index.html",
+    "id": 60572,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-11",
+    "last_episode_to_air": {
+        "air_date": "2022-03-11",
+        "episode_number": 53,
+        "id": 3527511,
+        "name": "The Thwackey with One Stick!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 24,
+        "still_path": "/rdJ6lgTdKC07S4S364QPO26RqHo.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pokémon",
+    "next_episode_to_air": {
+        "air_date": "2022-03-18",
+        "episode_number": 54,
+        "id": 3527512,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 24,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1192,
+    "number_of_seasons": 24,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ポケットモンスター",
+    "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+    "popularity": 259.197,
+    "poster_path": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+    "production_companies": [
+        {
+            "id": 90242,
+            "logo_path": null,
+            "name": "The Summit Media Group, Inc.",
+            "origin_country": ""
+        },
+        {
+            "id": 5261,
+            "logo_path": null,
+            "name": "Shogakukan Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12654,
+            "logo_path": "/sFftxQv68oHFEX1GUsnsgsP8IQf.png",
+            "name": "The Pokémon Company",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12288,
+            "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+            "name": "Nintendo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1998-06-07",
+            "episode_count": 49,
+            "id": 64383,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/l2qqsCk7raAKdkIS15BT2I8EDzd.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1997-04-01",
+            "episode_count": 82,
+            "id": 60744,
+            "name": "Indigo League",
+            "overview": "It’s Ash Ketchum’s tenth birthday, and he’s ready to do what many 10-year-olds in the Kanto region set out to do—become a Pokémon Trainer! Things don’t go exactly the way he planned when he ends up with a Pikachu instead of a standard first Pokémon, and winning Gym Badges turns out to be much tougher than he thought. Luckily he’s got former Gym Leaders Brock and Misty at his side, along with a bevy of new Pokémon friends, including Bulbasaur, Squirtle, and Charmander.",
+            "poster_path": "/eGQ5eJMQR20TZsWMFxiXPKR1M2c.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1999-01-28",
+            "episode_count": 36,
+            "id": 60745,
+            "name": "Adventures on the Orange Islands",
+            "overview": "Ash’s journey to the top of the Indigo League continues—but will his friendship with fellow Pokémon League competitor Richie endanger his chances? With his Kanto journey completed, Ash finds there’s still plenty to see and do when Professor Oak sends him and his friends to the Orange Islands. Brock falls head-over-heels for the attractive Professor Ivy and decides to stay with her, leaving Ash and Misty alone as a dynamic duo—at least until they meet intrepid Pokémon watcher Tracey Sketchit!",
+            "poster_path": "/evvGDN8QQkHEFDItfHyKakx41Uw.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "1999-10-14",
+            "episode_count": 41,
+            "id": 59906,
+            "name": "The Johto Journeys",
+            "overview": "The Orange League beckons and Ash answers the call, taking on the Orange Crew and their leader, Drake. Upon returning to Pallet Town, Ash and Misty reunite with Brock and set out on the next stage of their Pokémon journey—the Johto region! Though he still has an errand to run for Professor Oak, Ash jumps with both feet into the Johto League, taking on a couple of Gym Leaders and adding Pokémon like Totodile and Chikorita to his team.",
+            "poster_path": "/q5SITwWnAclZUqWntAb6vCguYGw.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2000-08-03",
+            "episode_count": 52,
+            "id": 60746,
+            "name": "Johto League Champions",
+            "overview": "From the sprawling metropolis of Goldenrod City to the icy peak of Snowtop Mountain, the Johto region presents Ash, Misty, and Brock with exciting new adventures—along with a few familiar faces like their old friends Todd, Duplica, and Suzie! Johto’s rich past means plenty of Pokémon mysteries for our heroes to solve, and its exciting present means some tough challenges—Ash tackles three more Gyms, while handling competitions like the Pokémon Sumo Conference along the way.",
+            "poster_path": "/8gK8sesvgLbDWVdYA4nDHhjE9Rf.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2001-08-09",
+            "episode_count": 65,
+            "id": 59904,
+            "name": "Master Quest",
+            "overview": "With the Olivine City Gym temporarily out of commission, our heroes are off to the Whirl Cup Competition—and Misty wants in on the action! Resuming their journey, they find that Jessie, James, and Meowth aren’t the only members of Team Rocket they need to worry about, though that dastardly trio still has a few tricks up their collective sleeve. After a heated battle with the final Gym Leader, Ash moves on to the Silver Conference, but does he have the mettle to take on his old rival, Gary?",
+            "poster_path": "/4wSl5c3XegGMsvCJR8BWPyHmJIo.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": "2002-11-21",
+            "episode_count": 40,
+            "id": 59903,
+            "name": "Advanced",
+            "overview": "Polishing off the Silver Conference, Ash heads toward his next challenge—the far-off Hoenn region! While he must say goodbye to old friends, he makes the acquaintance of May, a Trainer just starting out on her Pokémon journey. Along with her little brother Max and the ever-reliable Brock, this pack of Pokémon Trainers begin pursuing their dreams—with Ash racking up three Gym Badges, while May changes tack to follow the Contest path of a Pokémon Coordinator.",
+            "poster_path": "/82F5EbLUdmcQ9x4KXUmsS2jqQyH.jpg",
+            "season_number": 6
+        },
+        {
+            "air_date": "2003-09-04",
+            "episode_count": 52,
+            "id": 60747,
+            "name": "Advanced Challenge",
+            "overview": "A shadow hovers over Ash, May, and friends as they continue their journey through the Hoenn region, and it’s not just that of Mt. Chimney—both Team Magma and Team Aqua put plans into action with our heroes caught in the middle! When not foiling evil schemes, Ash and May chase their personal goals, with Ash battling for three more Gym Badges and May winning her first three Contest Ribbons. The group also gains new Pokémon like Torkoal and Bulbasaur, but could they be too much to handle?",
+            "poster_path": "/mziBTfCtoeXTUAefm4hordE7OaQ.jpg",
+            "season_number": 7
+        },
+        {
+            "air_date": "2004-09-09",
+            "episode_count": 53,
+            "id": 60748,
+            "name": "Advanced Battle",
+            "overview": "Ash earns his final two Badges and secures himself a spot in the Hoenn League Championships, while May comes dangerously close to not getting her final Ribbon—setting the stage for epic showdowns with both of her rivals in the Grand Festival. Ash meets two Trainers that become his own Hoenn rivals, facing off against both of them during the course of the tournament. Upon returning to Kanto and reuniting with old friends, Ash is recruited for a new challenge—the Battle Frontier!",
+            "poster_path": "/kJ5s8pS0FkgqZvMvKz2dlEoZsqz.jpg",
+            "season_number": 8
+        },
+        {
+            "air_date": "2005-10-06",
+            "episode_count": 45,
+            "id": 60749,
+            "name": "Battle Frontier",
+            "overview": "The territory might be familiar, but even Ash and Brock can find more than a few surprises in their home region of Kanto, like a Pokémon Ranger hot on the cases of two Legendary Pokémon! May’s back on the Contest path, blazing a trail to the Kanto Grand Festival, while Ash seeks out the hidden facilities of the Battle Frontier. If finding them wasn’t hard enough, he’s still got battles with the Frontier Brains to deal with—much tougher than any Gym Leader he’s ever faced.",
+            "poster_path": "/6BDDH5EHiAHjfVGhi8FQc2xuDG0.jpg",
+            "season_number": 9
+        },
+        {
+            "air_date": "2006-09-28",
+            "episode_count": 52,
+            "id": 60750,
+            "name": "Diamond and Pearl",
+            "overview": "If Gary Oak is headed for the Sinnoh region, then Ash Ketchum won’t be far behind! Ready to take on the Sinnoh League, Ash brings along Pikachu and meets up with Brock in Sinnoh, where the pair of Trainers are soon joined by a third—Dawn, a novice Pokémon Coordinator determined to follow in the footsteps of her mother. Both Ash and Dawn struggle with their respective paths, but it’s easy for them to make new friends, gaining new Pokémon like Turtwig and Piplup.",
+            "poster_path": "/9abTHX6IcyiZAXiVDQMM5jKWQDy.jpg",
+            "season_number": 10
+        },
+        {
+            "air_date": "2007-11-08",
+            "episode_count": 52,
+            "id": 60751,
+            "name": "Diamond and Pearl: Battle Dimension ",
+            "overview": "It’s looking good for Ash as he works on his next three Gym Badges, but not so good for Dawn, coming off a pair of Contest defeats. Both will do what they can to become better Trainers, from entering the Wallace Cup competition to attending Professor Rowan’s Pokémon Summer Academy. Hopefully, the new tactics they pick up will give them the tools they need to succeed against the latest plot by Pokémon Hunter J—as well as the emerging threat of Team Galactic!",
+            "poster_path": "/ny1FRSXWEtLCeevlCyq3DuVO4wF.jpg",
+            "season_number": 11
+        },
+        {
+            "air_date": "2008-12-04",
+            "episode_count": 53,
+            "id": 60752,
+            "name": "Diamond and Pearl: Galactic Battles",
+            "overview": "As the menace of Team Galactic continues to loom over the Sinnoh region, Ash and Dawn keep getting caught up in the schemes of this mysterious group of villains—as well as facing some other unexpected challenges! Dawn’s got her hands full dealing with the many problems of her Pokémon, while Ash’s ongoing rivalry with Paul finally comes to a head in a full 6-on-6 battle! It might be the ultimate test of training styles—will our heroes come out on top?",
+            "poster_path": "/AvRQx5YBG0BH7X7BHdEBXGYrxon.jpg",
+            "season_number": 12
+        },
+        {
+            "air_date": "2010-01-07",
+            "episode_count": 34,
+            "id": 60753,
+            "name": "Diamond and Pearl: Sinnoh League Victors",
+            "overview": "Watch Ash, Dawn, and Brock travel across the Sinnoh region to face challenges, battles, and the antics of Team Rocket! With Team Galactic out of the way, Ash can now focus on qualifying for the Sinnoh League. And Dawn will train to compete for her final Contest Ribbon, which would allow her to compete in the Grand Festival!",
+            "poster_path": "/EUzTYwuoTQJ6besMoBxspXbmn0.jpg",
+            "season_number": 13
+        },
+        {
+            "air_date": "2010-09-23",
+            "episode_count": 48,
+            "id": 60754,
+            "name": "Black & White",
+            "overview": "A new land, new rivals, new challenges, and all-new Pokémon make the 14th season of the Pokémon animated series one of the most exciting ones yet! When Ash and his mother accompany Professor Oak to the distant Unova region, Ash discovers Pokémon that he’s never seen before… and that he can’t wait to catch! He may have Pikachu at his side together with new friends Iris and Cilan, but he’ll still need plenty of new Pokémon on his team if he wants to challenge Unova’s expert Gym Leaders. His quest to become a Pokémon Master just got even tougher!",
+            "poster_path": "/kmfsJG0y9q6y27whVTs8PZWKq4L.jpg",
+            "season_number": 14
+        },
+        {
+            "air_date": "2011-09-22",
+            "episode_count": 49,
+            "id": 60755,
+            "name": "Black & White: Rival Destinies",
+            "overview": "New foes, new friends, and dozens of never-before-seen Pokémon await Ash and Pikachu in Pokémon: BW Rival Destinies, the new season of the Pokémon animated series. As Ash and his friends continue to explore the Unova region, he’ll find himself up against the ultimate battle challenge: Alder, the Champion Master of Unova! His friends also face their own trials, one fighting for the right to continue her travels, another confronting a returning challenge from the past—and all three of them must team up to save an island from the clashing forces of three powerful and mysterious Legendary Pokémon!",
+            "poster_path": "/87N3UhDUIBSm2WtmqbJuPMzUDNx.jpg",
+            "season_number": 15
+        },
+        {
+            "air_date": "2012-10-11",
+            "episode_count": 45,
+            "id": 60756,
+            "name": "Black & White: Adventures in Unova",
+            "overview": "Ash and his friends Iris and Cilan have foiled Team Rocket’s latest evil plan, but a new danger lurks on the horizon! But first, with eight Gym badges in hand, Ash is ready to take on the region’s ultimate challenge: the Unova League, where he’ll face familiar rivals and new opponents in his ongoing quest to become a Pokémon Master! Meanwhile, Iris has been having some trouble connecting with her powerful and stubborn Dragonite—can a visit home to the Village of Dragons help sort things out for the aspiring Dragon Master? And what exciting new adventures await our heroes beyond the Unova League? The answers to come, as the journey continues!",
+            "poster_path": "/pNv5RFdy4WZzIipVnf3hZw5Hycz.jpg",
+            "season_number": 16
+        },
+        {
+            "air_date": "2013-10-17",
+            "episode_count": 48,
+            "id": 60757,
+            "name": "XY",
+            "overview": "It’s time for Ash and Pikachu to set off on their adventures in the Kalos region! Along the way, they’re joined by some new friends—a genius inventor named Clemont, his little sister Bonnie, and Serena, a Trainer on her first journey. Ash immediately tries to challenge the Gym in Lumiose City, but doesn’t get very far before a robot throws him out! In between Gym battles, Ash and friends will be exploring this unique region, meeting all kinds of new Pokémon, and looking into a fascinating new Pokémon mystery!",
+            "poster_path": "/Ac69nFUz9mTx6wDCHgxUucvAPph.jpg",
+            "season_number": 17
+        },
+        {
+            "air_date": "2014-11-13",
+            "episode_count": 45,
+            "id": 64886,
+            "name": "XY: Kalos Quest",
+            "overview": "Ash and Pikachu continue their epic journey in the next exciting season of Pokémon the Series: XY! While Ash continues his quest to win eight Gym badges so he can enter the Kalos League, he and his traveling companions will make new friends, forge new rivalries, and, of course, meet some brand-new Pokémon! Serena, with her partner Fennekin and new friend Pancham, will take on the Pokémon Showcase world; Clemont will continue to create inventions and hope some of them are a hit; and Bonnie, as ever, will try to find someone to take care of her big brother!",
+            "poster_path": "/iEuBbWK37UGiL0UnK0vj6fDKWkU.jpg",
+            "season_number": 18
+        },
+        {
+            "air_date": "2015-10-29",
+            "episode_count": 49,
+            "id": 71856,
+            "name": "XYZ",
+            "overview": "Follow Ash, Pikachu, and their friends as they explore the deepest mysteries of the Kalos region! Team Flare has plans for the Legendary Pokémon Zygarde and the secret it holds. Alain's ongoing search for the source of Mega Evolution intersects with our heroes' adventures. And true to Gym Leader Olympia's prediction, Ash and his Frogadier will work together to reach surprising new heights!",
+            "poster_path": "/klkTfZH89EYgK8qumPERRVJMGFS.jpg",
+            "season_number": 19
+        },
+        {
+            "air_date": "2016-11-17",
+            "episode_count": 43,
+            "id": 82203,
+            "name": "Sun & Moon",
+            "overview": "What starts as a summer vacation in the tropical Alola region turns into the next exciting chapter in Ash Ketchum’s quest to become a Pokémon Master! There’s plenty for Ash and Pikachu to explore in this sunny new region, with exciting new Pokémon to discover and interesting people to learn from along the way—including the cool Professor Kukui and the fun-loving Samson Oak. More new faces will help guide Ash’s Alolan adventure, in the form of a group of skilled Trainers—Kiawe, Lana, Mallow, and Sophocles—and a mysterious research assistant called Lillie. Frequent foes Team Rocket have also made the trip to Alola, looking to swipe some high-powered new Pokémon. But they have some heavy competition on the villainy front: the ruffians of Team Skull, who delight in causing chaos and may have more sinister intentions…",
+            "poster_path": "/nvyTFZ4mQQSOc3IhMD86onQmPe2.jpg",
+            "season_number": 20
+        },
+        {
+            "air_date": "2017-10-05",
+            "episode_count": 49,
+            "id": 99919,
+            "name": "Sun & Moon: Ultra Adventures",
+            "overview": "When Ash sees the Legendary Pokémon Solgaleo and Lunala in a dream, he makes a promise to them. But when he wakes up, he can’t remember what it was! Will the strange Pokémon called Nebby help jog his memory? Along with their new friend and the rest of the students at the Pokémon School, Ash and Pikachu explore the Aether Foundation, an organization dedicated to Pokémon conservation and care. But it may not be as innocent as it seems, and Ash and his friends will have to work together to protect the people and Pokémon they care about as they face a mysterious power like nothing they have ever seen.",
+            "poster_path": "/gbvUZLRpoidPUAHgddi1mKU7Trw.jpg",
+            "season_number": 21
+        },
+        {
+            "air_date": "2018-10-21",
+            "episode_count": 54,
+            "id": 119736,
+            "name": "Sun & Moon: Ultra Legends",
+            "overview": "Ash has completed three of his four grand trials in the Alola region, and more adventures await as he and his classmates acquire new Z-Crystals, make new Pokémon friends, and learn how to Mantine Surf! In their role as Ultra Guardians, the Pokémon School students take on an important mission to protect Wela Volcano. Ash meets a new rival, Hau, whose Dartrix offers Rowlet quite a challenge. Even Rotom Dex gets an adventure of its own when our heroes visit the set of its favorite TV show! And Professor Kukui's dream of starting a Pokémon League in Alola just might be getting closer to reality...",
+            "poster_path": "/iLeIfYu5iyyO6thn1sR6lKwRFOJ.jpg",
+            "season_number": 22
+        },
+        {
+            "air_date": "2019-11-17",
+            "episode_count": 48,
+            "id": 136016,
+            "name": "Journeys",
+            "overview": "Pokémon Trainer Ash Ketchum has a new plan: see the world! But first, he and his partner Pikachu are headed to the opening of the Cerise Laboratory, a research facility dedicated to uncovering the mysteries of Pokémon in every region. Ash meets Goh, another boy with boundless curiosity about Pokémon, and both are overjoyed when Professor Cerise asks them to become official research fellows. With Ash as determined as ever to become a Pokémon Master, and Goh aiming to catch one of every Pokémon (including the Mythical Mew), our heroes are in for adventure and excitement as they explore the wide world of Pokémon!",
+            "poster_path": "/vd3GDmPyxBM4cKwgMkcihMJD8yC.jpg",
+            "season_number": 23
+        },
+        {
+            "air_date": "2020-12-11",
+            "episode_count": 57,
+            "id": 193798,
+            "name": "Master Journeys",
+            "overview": "It’s a big, big world, but you know where to find Ash and Goh—battling and catching Pokemon from Kanto to Galar! With Pikachu, Cinderace, and their other Pokémon beside them, our heroes continue to travel all over the world to research Pokemon for Cerise Laboratory. Along the way, Ash climbs higher in the World Coronation Series rankings, and Goh adds more Pokemon to his Pokedex in his quest to catch Mew. Meanwhile, Chloe takes her first steps as a Pokemon Trainer when she meets a mysterious Eevee. New friends, returning rivals, and exciting adventures await—as the journey continues!",
+            "poster_path": "/wrZARmey5XeSj35rK5hF8rYg8e8.jpg",
+            "season_number": 24
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 1078
+}

@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/bwLgHY98494mGlU2NahE5bqqPuf.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://yagakimi.com",
+    "id": 82861,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-28",
+    "last_episode_to_air": {
+        "air_date": "2018-12-28",
+        "episode_number": 13,
+        "id": 1604600,
+        "name": "To the Last Stop / Lighthouse",
+        "overview": "The play looms closer but the scripts are not final. Yuu and Touko take this opportunity to improvise a scene which may have given the two a deeper look into the other's mind.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1aBWdhNFZ1iKIOrsWBx2CiWVVv0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bloom Into You",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "やがて君になる",
+    "overview": "Yuu has always loved shoujo manga and awaits the day she gets a love confession that sends her heart aflutter with bubbles and hearts, and yet when a junior high classmate confesses his feelings to her…she feels nothing. Disappointed and confused, Yuu enters high school still unsure how to respond. That’s when Yuu sees the beautiful student council president Nanami turn down a suitor with such maturity that she’s inspired to ask her for help. But when the next person to confess to Yuu is Nanami herself, has her shoujo romance finally begun?",
+    "popularity": 22.72,
+    "poster_path": "/iZNfwA4kbHwPRUzwIX9EVCTcUhS.jpg",
+    "production_companies": [
+        {
+            "id": 70163,
+            "logo_path": "/cwUwQqO5SNrDJoC92XTOKg7c1Gc.png",
+            "name": "TROYCA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 648,
+            "logo_path": "/nCIeUG7ntLvo8aMXIkldyCy8g5G.png",
+            "name": "Sony Music Entertainment (Japan)",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157001,
+            "logo_path": "/vDBycpPRLKBf7T0RQbQtU49BQO6.png",
+            "name": "Kadokawa Media House",
+            "origin_country": "JP"
+        },
+        {
+            "id": 60195,
+            "logo_path": null,
+            "name": "Docomo Anime Store",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        },
+        {
+            "id": 160357,
+            "logo_path": null,
+            "name": "Bloom Into You Production Committee",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-05",
+            "episode_count": 13,
+            "id": 110355,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bNFQk064D3e2Wx3C349YRGLEMlK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 28
+}

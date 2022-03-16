@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://paripikoumei-anime.com/",
+    "id": 138441,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Ya Boi Kongming!",
+    "next_episode_to_air": {
+        "air_date": "2022-04-05",
+        "episode_number": 1,
+        "id": 3334105,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "パリピ孔明",
+    "overview": "General of the Three Kingdoms, Kongming had struggled his whole life, facing countless battles that made him into the accomplished strategist he was. So on his deathbed, he wished only to be reborn into a peaceful world... and was sent straight to modern-day party-central, Tokyo! Can even a brilliant strategist like Kongming adapt to the wild beats and even wilder party people?!",
+    "popularity": 5.679,
+    "poster_path": "/vKhZ5nCdIEEAlmNV1HlFuKbFwIv.jpg",
+    "production_companies": [
+        {
+            "id": 20867,
+            "logo_path": "/op3ROO9jB4KwLUZ16VAvuGasRRv.png",
+            "name": "P.A.Works",
+            "origin_country": "JP"
+        },
+        {
+            "id": 55938,
+            "logo_path": null,
+            "name": "avex pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 164668,
+            "logo_path": null,
+            "name": "Ya Boi Kongming! Production Committee",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-05",
+            "episode_count": 1,
+            "id": 219245,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

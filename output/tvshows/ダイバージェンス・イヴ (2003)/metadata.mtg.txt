@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/it6ct1t65nLf9Lc1dxcjDSdtwkt.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2003-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 12352,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-03-27",
+    "last_episode_to_air": {
+        "air_date": "2004-03-27",
+        "episode_number": 13,
+        "id": 479714,
+        "name": "Misaki",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/kpm3KzH1uIocGv5RO0v5NM2h5vD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Divergence Eve",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US",
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ダイバージェンス・イヴ",
+    "overview": "In the 24th Century, Intergalactic Space Travel has become a reality. One of the first outposts in the far reaches of space is Watcher's Nest - an inflation hole drive portal - which has recently come under attack by a mysterious force known simply as Ghoul... A group of young female cadets assigned to the portal are unexpectedly thrown into a hornet's nest of trouble as they finalize their training to become an elite pilot in the Seraphim Squadron.",
+    "popularity": 13.397,
+    "poster_path": "/vAWqCiFJHGT1nrdxUk3ganRDUjp.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-07-02",
+            "episode_count": 13,
+            "id": 23161,
+            "name": "Divergence Eve",
+            "overview": "",
+            "poster_path": "/fSPMaex6hOxb65SxELjEWAJznXP.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2004-01-03",
+            "episode_count": 13,
+            "id": 23162,
+            "name": "Divergence Eve Misaki Chronicles",
+            "overview": "",
+            "poster_path": "/bwTNVMnrQMf7zhDFBILvQ90J5E3.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

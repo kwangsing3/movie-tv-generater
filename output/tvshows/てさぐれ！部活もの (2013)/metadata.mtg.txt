@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/kqVzQJbBViHggPEcF93MOCH8HVK.jpg",
+    "created_by": [
+        {
+            "id": 1649838,
+            "credit_id": "59f615abc3a3682daa018311",
+            "name": "Kotaro Ishidate",
+            "gender": 2,
+            "profile_path": "/i2IyhTi39Pj5XwMJM77ZtOFWzxJ.jpg"
+        },
+        {
+            "id": 2026691,
+            "credit_id": "5ada23bdc3a368602c0026c6",
+            "name": "Toshiyuki Takahashi",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 2026692,
+            "credit_id": "5ada23c69251413501002629",
+            "name": "Masatake Yamaguchi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        11
+    ],
+    "first_air_date": "2013-10-06",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.ntv.co.jp/tesabu/",
+    "id": 57407,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-20",
+    "last_episode_to_air": {
+        "air_date": "2015-06-20",
+        "episode_number": 12,
+        "id": 1433223,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tesagure! Bukatsumono",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 36,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "てさぐれ！部活もの",
+    "overview": "The CG anime centers around the extracurricular activities of students.",
+    "popularity": 2.598,
+    "poster_path": "/7NIO5cfhOrKUq3XATLwsTxWPw6L.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-10-06",
+            "episode_count": 12,
+            "id": 58575,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-01-12",
+            "episode_count": 12,
+            "id": 99398,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        },
+        {
+            "air_date": "2015-04-04",
+            "episode_count": 12,
+            "id": 99399,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8,
+    "vote_count": 1
+}

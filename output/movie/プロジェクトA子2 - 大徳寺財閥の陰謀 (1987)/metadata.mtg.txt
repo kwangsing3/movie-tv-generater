@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": {
+        "id": 859206,
+        "name": "Project A-Ko",
+        "poster_path": "/94rOl3N9vrqru9xu3yiqf44kLwP.jpg",
+        "backdrop_path": "/f20jF6Uzpmzr7yDoyqOwT4iM6Oe.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 134828,
+    "imdb_id": "tt0093792",
+    "original_language": "ja",
+    "original_title": "プロジェクトA子2 - 大徳寺財閥の陰謀",
+    "overview": "It's summer in Graviton City, and the girls all have a break from school! A-Ko decides to lose a few inches, C-Ko makes a list of all the cool things that she'll buy, and B-Ko vows to get A-Ko out of the way once and for all so that she can have C-Ko to herself. To this end, she designs a new giant mecha, better than all the others. But her father steals her designs and uses them to attack the crashed alien spacecraft (now high-class restaurant) in an attempt to steal the advanced technology of the aliens.",
+    "popularity": 2.131,
+    "poster_path": "/sLcvdLDvYZn2cBZnGDPKqMsSCm6.jpg",
+    "production_companies": [
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13317,
+            "logo_path": null,
+            "name": "SOEISHINSHA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6559,
+            "logo_path": null,
+            "name": "APPP Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1987-05-21",
+    "revenue": 0,
+    "runtime": 48,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Project A-Ko 2: Plot of the Daitokuji Financial Group",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 4
+}

@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/p8kIC75HSJP5ZUNclpFtvfQUVlA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 31711,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-06-28",
+    "last_episode_to_air": {
+        "air_date": "2004-06-28",
+        "episode_number": 13,
+        "id": 758820,
+        "name": "The Inevitable Tomorrow",
+        "overview": "It's been years since the fateful, climactic battle. People grow older; they move on. One woman's love, however, remains unchanged.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "GODANNAR!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "神魂合体ゴーダンナー！！",
+    "overview": "Five years ago, while battling an alien force, pilot Goh Saruwatari first met Anna Aoi. Today, on the day of their wedding, the ceremony is interrupted when the aliens strike again.",
+    "popularity": 12.404,
+    "poster_path": "/hxLSJ7IWB4tyQUxMED73LQm4DPk.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-10-01",
+            "episode_count": 13,
+            "id": 43206,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/a0X0TcDScvK618L1mYjMM6VNRaL.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2004-04-05",
+            "episode_count": 13,
+            "id": 43207,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/2F2FPWDrbu3fGQNsZ5ICLY4iEpf.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 4
+}

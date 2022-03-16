@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/wD3wR0qgP0ql4aVjzu6NbRO6PZI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://wz-anime.net",
+    "id": 83099,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-31",
+    "last_episode_to_air": {
+        "air_date": "2019-03-31",
+        "episode_number": 13,
+        "id": 1659323,
+        "name": "My wish is surely...",
+        "overview": "It’s time to end this, once and for all. Who has the strongest will to see their wish fulfilled?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ahCUXSbwXPe4dOobt9E2ZeJE6se.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "W'z",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "W'z",
+    "overview": "Inspired by house music from a young age, Yukiya spends his free time as a DJ for a crowd of one and uploads his videos online. Like any young teenager, he yearns for something greater than his current life. He wants recognition and importance, but breaking out of his comfort zone means he runs the risk of getting hurt, so the cycle continues. That is, until the day he finally crosses the line of no return and live streams a performance that will change his world forever.",
+    "popularity": 6.713,
+    "poster_path": "/91vC78AX0ENfvvYEedSjcxwAfHB.jpg",
+    "production_companies": [
+        {
+            "id": 7759,
+            "logo_path": null,
+            "name": "GoHands",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-02-27",
+            "episode_count": 1,
+            "id": 179033,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-01-06",
+            "episode_count": 13,
+            "id": 110818,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

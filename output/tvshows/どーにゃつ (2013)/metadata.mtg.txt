@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/h9n5L65Gz7JLQ9sET9AZEijGDD1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2013-06-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 90325,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-08-24",
+    "last_episode_to_air": {
+        "air_date": "2013-08-24",
+        "episode_number": 13,
+        "id": 1818797,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Donyatsu",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        },
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "どーにゃつ",
+    "overview": "The \"loosely science-fiction adventure\" is set in the summer sometime in the 21st century. Tokyo's Shinjuku ward has become a wasteland, void of all humans due to an unexplained catastrophe. What remains are these strange creatures such as \"Donyatsu,\" the half-cat, half-doughnut hybrid, and \"Begaru,\" a feline bagel composite.",
+    "popularity": 5.664,
+    "poster_path": "/jXfzlYaYbdko8XRHsFaRcWpUpng.jpg",
+    "production_companies": [
+        {
+            "id": 99170,
+            "logo_path": "/4Ao5ZncaRPpYtP6JH7TkMxxkPW0.png",
+            "name": "Gathering",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-06-01",
+            "episode_count": 13,
+            "id": 125917,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 3
+}

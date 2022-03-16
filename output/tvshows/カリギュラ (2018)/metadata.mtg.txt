@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/2EQHaIfyPoGQB8sA1mq8UFpTDP0.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://caligula-anime.com/",
+    "id": 77722,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-24",
+    "last_episode_to_air": {
+        "air_date": "2018-06-24",
+        "episode_number": 12,
+        "id": 1511032,
+        "name": "Destroy your ideals and self, and return to hell and reality.",
+        "overview": "Now, at the end of the fleeting light, there's a glimpse of...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kI3SeY4qaGG2UleU84FaEXaCG7K.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Caligula",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カリギュラ",
+    "overview": "Mobius is a perfect digital world for the imagined benefit of humanity by μ, a virtual idol program that attained sentience and self-awareness. Only humans who are suffering in the real world and strongly relate to μ's songs are lured into Mobius.  Once they enter, people often forget that the real world exists. Regardless of age or gender, they are turned into students and forced to experience school life over and over, which μ considers \"the most radiant time in a person's life.\"",
+    "popularity": 12.18,
+    "poster_path": "/epAhPqfiRoyIxeNpldQ6bZ1YZuO.jpg",
+    "production_companies": [
+        {
+            "id": 30293,
+            "logo_path": null,
+            "name": "SATELIGHT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-08",
+            "episode_count": 12,
+            "id": 100381,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/w24aOsVgAeszkpojmkVxO8AX22r.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 5
+}

@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/7B4PGxWt9NrcFCEAegLSEuSyAeS.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-04-12",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://steinsgate0-anime.com/",
+    "id": 78102,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-26",
+    "last_episode_to_air": {
+        "air_date": "2018-09-26",
+        "episode_number": 23,
+        "id": 1554236,
+        "name": "Arclight of the Point at Infinity -Arc-light of the Sky-",
+        "overview": "Okabe and his friends must battle against fate in the past, present, and future to find Steins Gate and reunite the lab members once and for all.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/m5qBHFbRw5tC34EnjOrfu0jp2Gw.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Steins;Gate 0",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 23,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シュタインズ・ゲート ゼロ",
+    "overview": "The dark untold story of Steins;Gate that leads with the eccentric mad scientist Okabe, struggling to recover from a failed attempt at rescuing Kurisu. He decides to give up and abandons his lively scientist alter ego, in pursuit to forget the past. When all seems to be normal, he is seemingly pulled back into the past by meeting an acquaintance of Kurisu, who tells him that they have begun testing a device that stores the memory of a human and creates a simulation of them with their characteristics and personalities. Okabe begins testing and finds out that the simulation of Kurisu has brought back anguish and some new unexpected tragedies.\n\nZero is a side story that explores events from the Beta Attractor Field's future that contribute in making the end of the original story possible.",
+    "popularity": 32.764,
+    "poster_path": "/75w7GE9K7T5wvy3OGN9gauSoBOZ.jpg",
+    "production_companies": [
+        {
+            "id": 22600,
+            "logo_path": "/13FsFa7wcjR3mj9zaGSSws4OyOA.png",
+            "name": "Nitroplus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-12-21",
+            "episode_count": 1,
+            "id": 114722,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/bkTHb2thZC7qnx0o8BW7KFCWHmV.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-04-12",
+            "episode_count": 23,
+            "id": 100942,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ojxbYwUIO3k71NP8yb6OV3ZRBP3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 102
+}

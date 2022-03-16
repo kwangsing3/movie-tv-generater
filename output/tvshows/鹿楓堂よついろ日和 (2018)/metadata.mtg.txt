@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/foBn1IIOUKeXxEt25XKRQwISZdR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-04-11",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://rokuhoudou-anime.jp/",
+    "id": 77415,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-27",
+    "last_episode_to_air": {
+        "air_date": "2018-06-27",
+        "episode_number": 12,
+        "id": 1509490,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6bZGPJEumdTdgVsKWExdiPNCyAc.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yotsuiro Biyori",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "鹿楓堂よついろ日和",
+    "overview": "Four men—Gure, Sui, Tokitaka, and Tsubaki—each help run a Japanese tea shop together called Rokuhoudou. When one visits the shop, they are greeted warmly, is served with tea, and are often helped with any problems they may have.",
+    "popularity": 6.053,
+    "poster_path": "/xiVuWPbW4ceLdT5rDph3UslReBC.jpg",
+    "production_companies": [
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-11",
+            "episode_count": 12,
+            "id": 99848,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/buHuqhpZyLZjq8DuGUje5dvAb2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.9,
+    "vote_count": 6
+}

@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/cf3V6YMhvuxkgZQrUe1rLOZRvjQ.jpg",
+    "created_by": [
+        {
+            "id": 1510895,
+            "credit_id": "5894dbd59251412e160005bd",
+            "name": "Kentarou Suzuki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2017-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://marginal4-anime.com/",
+    "id": 69294,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-30",
+    "last_episode_to_air": {
+        "air_date": "2017-03-30",
+        "episode_number": 12,
+        "id": 1297640,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/taNuQjRnTyd9UpQFXMz5T3XeQzL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Marginal#4 Kiss Kara Tsukuru Big Bang",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "MARGINAL#4 KISSから創造るBig Bang",
+    "overview": "On February 13, as snow flurries dance in the air, a new idol unit is born at Pythagoras Production. They are the idols who will deliver their kiss to the ends of the galaxy: \"Marginal #4.\" Its members, Atom Kirihara, Rui Aiba, L Nomura, and R Nomura, put all their effort into their entertainment career for the sake of the fan supporting them! They continue to mature as idols along with the senior unit pulling the entertainment industry forward, Lagrange Point, and the younger unit preparing to make their debut, Unicorn Jr. But when they step off the stage, they're ordinary high school boys with some chaotic student lives! This is the tale of Margninal #4, a school slice-of-life about idols that shine brighter than the stars.",
+    "popularity": 2.473,
+    "poster_path": "/urhY0sALSGBFtKzqac1Nu0SG8Wg.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-01-12",
+            "episode_count": 12,
+            "id": 83199,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1fDK0pOq11iFeQSzIE4wD3jhm0r.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

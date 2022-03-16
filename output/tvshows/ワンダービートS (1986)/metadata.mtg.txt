@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/dYf47B8V0z2MyJFYF8YX0ptd5P6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "1986-01-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.mushi-pro.co.jp/2010/09/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB/",
+    "id": 19374,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1986-06-26",
+    "last_episode_to_air": {
+        "air_date": "1986-06-26",
+        "episode_number": 26,
+        "id": 2659314,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Wonder Beat Scramble",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ワンダービートS",
+    "overview": "The 13-year-old Benny's father has mysteriously disappeared on an expedition to Sirius. Almost at the same time, attacks start from the alien intars to the Earth dwellers. They implant themselves in the bodies of the inhabitants of the earth.  Due to the mysterious disappearance of Benny's father, he is accused of making common cause with the intars. Benny, who has remained behind, suffers greatly from these accusations and hopes one day to be able to unravel the mystery of his father's disappearance and that of the intars. He joins the \"White Pegasus,\" a special unit to combat the Intars and fight together with them against the aliens in the human body. For this, they scale a spaceship down to microscopic size and infiltrate it into the infested body.",
+    "popularity": 1.4,
+    "poster_path": "/81Kxa9t2UmFGCSrzPiiWLahD3Vg.jpg",
+    "production_companies": [
+        {
+            "id": 20327,
+            "logo_path": null,
+            "name": "Mushi Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13078,
+            "logo_path": null,
+            "name": "Magic Bus",
+            "origin_country": "JP"
+        },
+        {
+            "id": 27720,
+            "logo_path": null,
+            "name": "Tokyu Agency",
+            "origin_country": ""
+        },
+        {
+            "id": 1393,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "name": "TBS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1986-01-02",
+            "episode_count": 26,
+            "id": 126425,
+            "name": "Season 1",
+            "overview": "In 2119, the spaceship Green Sleeves found 3 planets attacked by X23, a moving planet heading Earth. The Earth government ordered Green Sleeves to attack X23, but Dr. Sugita, the captain of Green Sleeves, refused because he believed they could co-exist. Then, the communication with Green Sleeves was cut abruptly...\n\nIn 2121, Susumu, the son of Dr. Sugita, is visited by strangers. The take him to Dr. Miya, one of the few supporters to Dr. Sugita's decision, while most blamed him as a traitor. Dr. Miya recommends Susumu to join White Pegasus, a team of special medical recuers. Their Micronizer System can shrink human so that they can cure from the inside of the body. Shortly afterwards, X23 has come in visual range at last. Hues - the aliens of X23 - choose Susumu's friend as their first target. Susumu and the other members of White Pegasus manage to defeat Hues inside of his body. But Susumu finds the signals emitted from the chips within Hues are the music composed by himself and his mother, as a gift to Dr. Sugita...",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

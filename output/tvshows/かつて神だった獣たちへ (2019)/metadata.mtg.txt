@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/4eo2VEIjLa5JUNODlL2ERVf197q.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-07-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://katsu-kami.com/",
+    "id": 88051,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-09-16",
+    "last_episode_to_air": {
+        "air_date": "2019-09-16",
+        "episode_number": 12,
+        "id": 1894839,
+        "name": "Those Who Seek",
+        "overview": "The Incarnates Hank and Miles face off with each other on the battlefield. They exchange words and blows, but their battle comes to a rather unexpected conclusion. Then, Cain appears in front of Hank. What is the ambition of the man who shot Elaine and unleashed the Incarnates upon the world?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jcG5OrKWIaIm4157vxT1wrzHL6b.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "To the Abandoned Sacred Beasts",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "かつて神だった獣たちへ",
+    "overview": "The democratic nation of Patria was created on the continent of Patria. Because of economical disputes, the country split north and south, creating the Northern Union of Patria and the Southern Confederation of Patria and they waged a long civil war. With their numbers dwindling, the North decides to use forbidden technology in order to defeat the South. This technology turns humans into monster-like soldiers, giving them almost godlike powers. And with those powers, the long war came to an end and peace was restored.",
+    "popularity": 30.105,
+    "poster_path": "/yCKFfiaPjV3GeWUOabqxYq8a6cL.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-07-01",
+            "episode_count": 12,
+            "id": 121374,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9S4prj8x73LqXPiG1oOG7HVoVQz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 50
+}

@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/loCWV5K7JEM7sshDaosJZ8xiLBy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "2003-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.starchild.co.jp/special/kurokou/",
+    "id": 12260,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-03-26",
+    "last_episode_to_air": {
+        "air_date": "2004-03-26",
+        "episode_number": 26,
+        "id": 476478,
+        "name": "Suda!! Cromartie Girls Highschool | The Four Lords of Cromartie",
+        "overview": "It’s Cromartie Girls High School and everyone is a princess! It’s Ms. Kamiyama’s first day and “she” walks around the school meeting all the princesses. Back at Cromartie High, Kamiyama, Hayashida, and Maeda talk about their future and how normal everything is.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cromartie High School",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魁!! クロマティ高校",
+    "overview": "Folks, meet Takashi Kamiyama. Enrolled at Cromartie High, where everybody is a delinquent, Kamiyama is apparently the only non-delinquent in the school. Logically, therefore, he must be the toughest in his class—by the rather twisted logic that only a really tough rabbit would lie down with lions. Thus begins a story that parodies every cliché of tough-guy anime that you've ever heard of, and some you haven't. Oh, and Freddie Mercury is in it, too.",
+    "popularity": 8.397,
+    "poster_path": "/pPyHqrwMXHtziGOPoPbJUtH1gN4.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 22988,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-10-03",
+            "episode_count": 26,
+            "id": 22987,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bni35ZUV1FaUcZHr7GFrYHRUcRe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 10
+}

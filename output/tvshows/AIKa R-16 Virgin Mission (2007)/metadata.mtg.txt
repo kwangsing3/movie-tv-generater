@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/qpf1mr6RU74iTP4RBh2c6AoRwWk.jpg",
+    "created_by": [
+        {
+            "id": 536891,
+            "credit_id": "5811b4a5925141571e01314c",
+            "name": "Katsuhiko Nishijima",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2007-04-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 68417,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-10-26",
+    "last_episode_to_air": {
+        "air_date": "2007-10-26",
+        "episode_number": 3,
+        "id": 1342389,
+        "name": "Trial 3: Deep Blue Girl",
+        "overview": "In the final episode of the series, Aika, Eri, and Karen find an old airport at the bottom of the ocean. After exploring the still functional facility, they finally uncover the secret to Karen's past.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "AIKa R-16 Virgin Mission",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "AIKa R-16 Virgin Mission",
+    "overview": "Aika is an intelligent and athletic high school girl. Competently she successfully passes the salvager's licence test, obtaining a C-class license. Yet, she is young and hot-headed, so much so that Gozo still treats her like a child. Due to this personality, no one is willing to hire her for salvaging jobs.\n\nEager to get started with salvaging, though, she decides to post an ad in her school to attract potential clients. She manages to get the attention of Eri, a daughter of a rich family and head of the school's treasure hunting club. She asks Aika to salvage something from the sea floor and Aika accepts the assignment.\n\nHowever, upon seeing the state-of-the-art submarine loaded onto Eri's private cruiser and discovering their destination, Aika realises the dangerous nature of this mission, culminating in a clash with a group of armed high school girls on the southern islands.",
+    "popularity": 12.293,
+    "poster_path": "/ecGbzYMnv2IRaLTMyllgRNjGpKZ.jpg",
+    "production_companies": [
+        {
+            "id": 13023,
+            "logo_path": null,
+            "name": "Studio Fantasia",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-04-25",
+            "episode_count": 3,
+            "id": 81423,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tnRye4w61WRJz5zNrBhLUEl0u7S.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.7,
+    "vote_count": 74
+}

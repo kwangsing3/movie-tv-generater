@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/nw8nJCz2dsLct8GxPPOoA9yosdD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2007-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 71892,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-12-30",
+    "last_episode_to_air": {
+        "air_date": "2007-12-30",
+        "episode_number": 52,
+        "id": 1320756,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Les Misérables: Shoujo Cosette",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "レ・ミゼラブル 少女コゼット",
+    "overview": "Being a single mother is hard in early 19th Century France. When young Cosette was traveling with her mother trying to find a job and a place to live, they were always shunned away because very few employers hire single mothers. When she is promised with the prosperity of working in the big city, Cosette is separated from her mother in the hopes a caretaker will watch over her while her mother earns some money.",
+    "popularity": 4.893,
+    "poster_path": "/5DwmAvpynq1l1s2hkOdU1DjrOqJ.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-01-07",
+            "episode_count": 52,
+            "id": 88700,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

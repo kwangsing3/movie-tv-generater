@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kumichomusume.com/",
+    "id": 133197,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "The Yakuza's Guide to Babysitting",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "組長娘と世話係",
+    "overview": "Kirishima Tooru is as vicious a yakuza as they come, to the point where he's earned the nickname \"the Demon of Sakuragi.\" To get him under control, he's suddenly given a new mission straight from the boss—to babysit his daughter!",
+    "popularity": 1.167,
+    "poster_path": "/twTnwi30PYZ9x4A6CK3rSfF0ZZ4.jpg",
+    "production_companies": [
+        {
+            "id": 17315,
+            "logo_path": "/8QPhCeRCNVa3jYCtDvThTlAGYSL.png",
+            "name": "feel.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 112920,
+            "logo_path": "/h4soUI8eYfxBV925RCZ59piTwt3.png",
+            "name": "Gaina",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-28",
+            "episode_count": 3,
+            "id": 241806,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 210165,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/twTnwi30PYZ9x4A6CK3rSfF0ZZ4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

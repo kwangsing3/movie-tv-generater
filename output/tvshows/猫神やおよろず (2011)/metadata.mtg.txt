@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/p7BCU9o0li2eiKbwI9sGqnfp3sy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.marv.jp/special/nekogami/",
+    "id": 56352,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-24",
+    "last_episode_to_air": {
+        "air_date": "2011-09-24",
+        "episode_number": 12,
+        "id": 938550,
+        "name": "Strange Coincidence Fate Contention",
+        "overview": "Mayu is captured by her mother in order to attend an arranged marriage between Mayu and the second-most important god Tsukiyomi the Moon God. Everyone mounts a rescue.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/pwpWk7i2titJkBtreEI3qLGfhxB.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Everyday Tales of a Cat God",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "猫神やおよろず",
+    "overview": "",
+    "popularity": 9.835,
+    "poster_path": "/lwVev8QcodllVDPYEmDdTh0hyCL.jpg",
+    "production_companies": [
+        {
+            "id": 26262,
+            "logo_path": null,
+            "name": "AIC PLUS+",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-03-21",
+            "episode_count": 1,
+            "id": 58154,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-07-09",
+            "episode_count": 12,
+            "id": 58153,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8i3YNbsLz95ef0EsXLr2SqEStg3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

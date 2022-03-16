@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1996-07-24",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 126181,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-09-21",
+    "last_episode_to_air": {
+        "air_date": "1996-09-21",
+        "episode_number": 2,
+        "id": 2970437,
+        "name": "Bold and Radical Adventurer",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Maze",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "MAZE☆爆熱時空",
+    "overview": "Transported through time and space, Maze has gained incredible powers... and one astronomical problem. Every night, she transforms into a lecherous man! To top it all off, she must rescue a princess from a mysterious warrior cult. But male Maze would rather be chasing the ladies...",
+    "popularity": 1.176,
+    "poster_path": "/rhajrzNOoc8C8jAuytih4bEqr83.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1996-07-24",
+            "episode_count": 2,
+            "id": 196501,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 10,
+    "vote_count": 1
+}

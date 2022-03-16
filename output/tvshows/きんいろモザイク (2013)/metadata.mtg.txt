@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/i8KsjmjDJNN8RSFpY4Qfy8BAjgA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.kinmosa.com/",
+    "id": 78589,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-22",
+    "last_episode_to_air": {
+        "air_date": "2015-06-22",
+        "episode_number": 12,
+        "id": 1465811,
+        "name": "Because I Love You More Than Anything",
+        "overview": "A green summer landscape. Cute honey-colored houses. Alice walks down a path with Poppy. Alice and Karen have returned to England. She'd glad to see her family again, but she still misses Shinobu. But the distance between them makes their friendship even stronger.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/1JAUynI6TgKnOef7Tok9zFkA0Ak.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kinmoza!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "きんいろモザイク",
+    "overview": "The story begins with Oomiya Shinobu, a 15-year-old, seemingly pure Japanese girl who actually did a homestay in Great Britain. Even after coming back to Japan, she still misses her time overseas. One day, an airmail letter arrives from Alice, the girl in Shinobu's host family in Great Britain. The letter reads: Shinobu, I'm coming to Japan! The Japanese/British girls' mixed comedy follows the lives of Shinobu, Alice, and other girls from both Japan and Great Britain.",
+    "popularity": 21.494,
+    "poster_path": "/rw1RX5FkOxGqX1rNQwydBRIjSHc.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-07-06",
+            "episode_count": 12,
+            "id": 102035,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lwZgpmfBE8Mm4o2Lxpr88JYpJ4e.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2015-04-06",
+            "episode_count": 12,
+            "id": 102064,
+            "name": "Hello!! Kinmoza",
+            "overview": "",
+            "poster_path": "/mQIO1CWzHBvoLESnrGN5aRaOiif.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 8
+}

@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/hgFRBpADOBqA6QcjXdQ46Ov79gN.jpg",
+    "created_by": [
+        {
+            "id": 1646980,
+            "credit_id": "577f1e1ec3a36831ac001b0e",
+            "name": "Kazuya Minekura",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1999-04-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 67010,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-08-21",
+    "last_episode_to_air": {
+        "air_date": "1999-08-21",
+        "episode_number": 2,
+        "id": 1204060,
+        "name": "Episode 2",
+        "overview": "A huge demonic spirit attacks the town, and the group meets Yaone and Ensui, two demons under Gyōkuman Kōshu's command.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Saiyuki",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "最遊記",
+    "overview": "On present day Earth, the brotherhood of humans and demons (youkai) has been broken. A corrupt and evil demon, Gyumao, is performing experiments that combine human science and youkai magic, causing all demons to go crazy. Now, Genjo Sanzo, a trash-taking Buddist monk, is given a mission: Deliver a sacred scroll, the Maten Scripture, to India. For the journey, he is teamed up with Son Goku, a 500-year-old demon, Sha Gojyo, a red-eyed half demon human, and Cho Hakkai, a school teacher turned demon. Together, the four of them must travel to India, but the road ahead will surely be full of speed bumps, and demon attacks.",
+    "popularity": 0.903,
+    "poster_path": "/gaqAyuqEacIJHODaD534PbX4B8e.jpg",
+    "production_companies": [
+        {
+            "id": 78440,
+            "logo_path": null,
+            "name": "Tokyo Kids",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-04-23",
+            "episode_count": 2,
+            "id": 78289,
+            "name": "Saiyuki",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 2,
+    "vote_count": 1
+}

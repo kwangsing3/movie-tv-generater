@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/mX26Zq9cX0Q4zPRGOa7Qzi8XYM4.jpg",
+    "created_by": [
+        {
+            "id": 114724,
+            "credit_id": "587b1ac9c3a3684a9e00b698",
+            "name": "Ai Yazawa",
+            "gender": 1,
+            "profile_path": "/uMDUWCZGdWlSZbRAm2Txc8GU8cw.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1995-09-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 23573,
+    "in_production": false,
+    "languages": [
+        "ja",
+        "en",
+        "it"
+    ],
+    "last_air_date": "1996-09-01",
+    "last_episode_to_air": {
+        "air_date": "1996-09-01",
+        "episode_number": 50,
+        "id": 626249,
+        "name": "Thank you, everyone",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Neighborhood Story",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ご近所物語",
+    "overview": "The protagonist, Kouda Mikako, is a student of \"Yaza Gaku\". Specialising in fashion design, Mikako dreams of becoming a fashion designer with her own brand. Living next to her is her childhood friend, Yamaguchi Tsutomu. Even though they have been close since young, they share a platonic friendship. However, Tsutomu has been gaining popularity after he was recruited as the vocalist for a band and somehow, Mikako begins to see him in a different light. This is a story about how youths cope with dreams, love and friendship. (source: AnimeNewsNetwork)",
+    "popularity": 6.69,
+    "poster_path": "/l3E026l85v0ThwgRDzew6ivrQ8l.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-09-10",
+            "episode_count": 50,
+            "id": 33552,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/g4F0QocWfPuRIN6SHyDIUsXTxZF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

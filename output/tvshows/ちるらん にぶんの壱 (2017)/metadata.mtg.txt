@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/uCjLBocgK5zYYVAd2GQ2TXQPNp6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2017-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.chiruran.jp/",
+    "id": 69240,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-27",
+    "last_episode_to_air": {
+        "air_date": "2017-03-27",
+        "episode_number": 12,
+        "id": 1296232,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6U2YxfWKsmrMH05lu6zw3J2KhXv.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Chiruran 1/2",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ちるらん にぶんの壱",
+    "overview": "Strong, intense, and cute! The most laid-back Shinsengumi in history arrives!! An official spinoff series by Hashimoto Eiji (manga) and Umemura Shinya (story) of \"Chiruran Shinsengumi Requiem.\" Here's the laid-back everyday life of the Shinsengumi warriors.",
+    "popularity": 3.833,
+    "poster_path": "/mss5vNYzzpblQ9KUdjjBnqBGyqx.jpg",
+    "production_companies": [
+        {
+            "id": 89537,
+            "logo_path": "/6g6N6TFv2icepVUjsKuUKkfHXfY.png",
+            "name": "LandQ Studios",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-01-10",
+            "episode_count": 12,
+            "id": 83103,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4SokeGnS51engQorL35eg5oaV9g.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.7,
+    "vote_count": 3
+}

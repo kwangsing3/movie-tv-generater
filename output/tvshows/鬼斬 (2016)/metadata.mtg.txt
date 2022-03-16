@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/dGplXovAEoS8yWUIzcJlmcAjs9S.jpg",
+    "created_by": [
+        {
+            "id": 1106028,
+            "credit_id": "58318ca0c3a3685bb0022042",
+            "name": "Takashi Yamamoto",
+            "gender": 2,
+            "profile_path": "/vNU2VICoBzUtot0dVfuPv1iXeC8.jpg"
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2016-04-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.onigiri-anime.com/",
+    "id": 66114,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-07-14",
+    "last_episode_to_air": {
+        "air_date": "2016-07-14",
+        "episode_number": 13,
+        "id": 1475133,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1RCfBekkxCcPBmopz5gSmoILZqy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Onigiri",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS Fuji",
+            "id": 1136,
+            "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "鬼斬",
+    "overview": "Onigiri thrusts its players into mystical Japan, a land filled with mythical creatures of Japanese legend. Starting as a lone Oni, players fight against the malevolent influence of the Kamikui as their miasma spreads over the land. 8 NPCs, each with their own distinct personality and skills, ally themselves with the player to help build a legend, and quell the evil that has arisen. As you grow stronger together, so do the bonds binding you to each other.",
+    "popularity": 1.912,
+    "poster_path": "/mJwrMUfEh6pRYfY4eSTr2yMFEAE.jpg",
+    "production_companies": [
+        {
+            "id": 74476,
+            "logo_path": null,
+            "name": "Pierrot Plus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-07",
+            "episode_count": 13,
+            "id": 75992,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rv0yAP2iMB10IXIGERmqrsHd1xp.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 5
+}

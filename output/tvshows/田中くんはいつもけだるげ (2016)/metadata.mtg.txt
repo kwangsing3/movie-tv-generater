@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/nrIBk7Qdf6mNGs0AjpDBxesurJM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tanakakun.tv/",
+    "id": 66077,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-25",
+    "last_episode_to_air": {
+        "air_date": "2016-06-25",
+        "episode_number": 12,
+        "id": 1200407,
+        "name": "Tanaka-kun's Happiness",
+        "overview": "Shiraishi is fascinated by Tanaka. She wants to know him more, but it's difficult for her to talk to him because almost always he sleeps or he is on another planet.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/pZJUFDShTOGIL7i7AlVkJEdN183.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tanaka-kun Is Always Listless",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "田中くんはいつもけだるげ",
+    "overview": "This unconventional, surrealist comedy follows an exhausted high school boy who, despite multiple attempts from his friends, still manages to spectacularly... sleep. Much to the chagrin of the energetic (at times bossy) Oota, Tanaka is often found in a blissful state of lethargy, possessing the ability to doze off in any situation, especially in mid-sentence!",
+    "popularity": 17.218,
+    "poster_path": "/q3TdnhtfXh6yfrHuZO0hEmkjjnr.jpg",
+    "production_companies": [
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 192,
+            "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+            "name": "Shochiku",
+            "origin_country": "JP"
+        },
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-07",
+            "episode_count": 42,
+            "id": 147769,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/iVnTcY2I6qljCVjElHHrbAQIxcg.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-09",
+            "episode_count": 12,
+            "id": 75928,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5QhYdIz8396JOHOWRU5fGXeP4mo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 18
+}

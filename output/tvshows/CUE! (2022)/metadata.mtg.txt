@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/hK4AmFEO5JBbvYxrreCpPiAxKg1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://cue-animation.jp/",
+    "id": 112463,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-12",
+    "last_episode_to_air": {
+        "air_date": "2022-03-12",
+        "episode_number": 10,
+        "id": 3416395,
+        "name": "Are You Free After This?",
+        "overview": "While Maika had been doing just fine at the post-recordings, when the anime is about to get to its climax, she finds herself faced with a big wall.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bKeclLGZ4673CzH4TVglR7lBzO8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "CUE!",
+    "next_episode_to_air": {
+        "air_date": "2022-03-19",
+        "episode_number": 11,
+        "id": 3416396,
+        "name": "Take Flight, Little Birds!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "CUE!",
+    "overview": "The trials and tribulations of a group of sixteen young women who follow their dreams of becoming voice actors. But the voice acting world is highly competitive, and no matter how much someone practices, not everyone will make it past the audition process. Despite frustrations and setbacks, the story of a new generation of voice actors is about to begin.",
+    "popularity": 66.78,
+    "poster_path": "/eieeZ5She2ONUtWtdBPyMF8St4C.jpg",
+    "production_companies": [
+        {
+            "id": 10804,
+            "logo_path": "/f1mRiEP0loBe1n4FqmAeUiC68kI.png",
+            "name": "Yumeta Company",
+            "origin_country": "JP"
+        },
+        {
+            "id": 35971,
+            "logo_path": "/5q5P83YiDQa34FgGd2Wtw7aWBnr.png",
+            "name": "Graphinica",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-08",
+            "episode_count": 24,
+            "id": 167368,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dasZtIPykCHvNsGNUpRoSmnpHaH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

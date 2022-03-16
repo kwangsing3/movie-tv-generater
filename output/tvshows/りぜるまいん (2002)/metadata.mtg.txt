@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/j68VP9sW5W6cEghc5TCtfFvhPeO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2002-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34684,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-12-21",
+    "last_episode_to_air": {
+        "air_date": "2002-12-21",
+        "episode_number": 12,
+        "id": 790071,
+        "name": "Do It For The First Time! Let`s Start!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rizelmine",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "りぜるまいん",
+    "overview": "Iwaki Tomonori is a schoolboy who happens to have a crush on his teacher, but learns she has become engaged. Brokenhearted, he soon meets a girl named Rizel, a biochemically engineered human, who he learns the Japanese government has married him to against his will.",
+    "popularity": 3.874,
+    "poster_path": "/y4v22tWtRbTBh5ArN4J667ALFKa.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2002-04-02",
+            "episode_count": 12,
+            "id": 45427,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2002-10-05",
+            "episode_count": 12,
+            "id": 45428,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

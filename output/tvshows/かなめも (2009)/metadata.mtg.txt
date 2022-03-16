@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/sQXYko77XSNSDjk0MezXhRJBWIK.jpg",
+    "created_by": [
+        {
+            "id": 1872508,
+            "credit_id": "5998198fc3a36821b000bc1b",
+            "name": "Shoko Iwami",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2009-07-05",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://king-cr.jp/special/kanamemo/",
+    "id": 73396,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-09-28",
+    "last_episode_to_air": {
+        "air_date": "2009-09-28",
+        "episode_number": 13,
+        "id": 1352428,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kanamemo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVh",
+            "id": 938,
+            "logo_path": "/vEUZNYjuSn0iTQyZ3SLNfVgI9Z8.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Setouchi",
+            "id": 2064,
+            "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "かなめも",
+    "overview": "The story centers on Kana Nakamichi, a middle-school girl who had already lost her parents and just recently lost her only remaining relative, her grandmother. As a result, she ends up living and working at a newspaper delivery office. Everyone else living at the office are all charming, self-assertive bishōjo. The show follows Kana’s daily life in the fast-paced yet joyous environment.",
+    "popularity": 4.247,
+    "poster_path": "/pUBgvmF1EUCEad6bjcFmMvYGm05.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-07-05",
+            "episode_count": 13,
+            "id": 91628,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pUBgvmF1EUCEad6bjcFmMvYGm05.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.5,
+    "vote_count": 2
+}

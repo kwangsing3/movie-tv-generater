@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/fJ6Jlx3jBlG3lBjxUgioXYEl2ki.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-07-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/cfru/",
+    "id": 72500,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-10-03",
+    "last_episode_to_air": {
+        "air_date": "2017-10-03",
+        "episode_number": 12,
+        "id": 1374888,
+        "name": "Passion ☆ Fruits",
+        "overview": "Watching the show online, Misaki is surprised to see the girls sticking to the script that included her role. Just then, Mikan begins adlibbing, throwing in a plot element that reflects the turmoil Misaki is going through and their desire to support her.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tup3H576v3qRtwUg9CT50H1uVSX.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Action Heroine Cheer Fruits",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アクションヒロイン チアフルーツ",
+    "overview": "The \"local heroine fighter\" of a certain city became popular and a national star. Because of this, \"local heroines\" debuted in various other places, and their action live events became a hit trend nationally. In Hinano City, high school girl Misaki Shirogane and other girls become local heroines (at the urging of Misaki's aunt, the prefectural governor) and vow to produce action live events.",
+    "popularity": 6.313,
+    "poster_path": "/zt0VKLhzbTCUHESBvo6RXOgtvVS.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-15",
+            "episode_count": 12,
+            "id": 89803,
+            "name": "Season 1",
+            "overview": "Base on Japanese anime television series produced by Diomedea and directed by Keizou Kusakawa.  The Series aired in Japan during July 7 and September 29, 2017 and licensed in North America by Sentai Filmworks.",
+            "poster_path": "/vRYZA8DMB0pngHdaUHf6pkQNlBr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 7
+}

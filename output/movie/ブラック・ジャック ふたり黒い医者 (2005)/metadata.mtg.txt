@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://tezukaosamu.net/",
+    "id": 87270,
+    "imdb_id": "tt0471589",
+    "original_language": "ja",
+    "original_title": "ブラック・ジャック ふたり黒い医者",
+    "overview": "The mega-corporate Daedalus Group is under attack by a small group of activists known as the Ghost of Icarus. While taking care of some of the victims of the bombing, Black Jack encounters Dr. Kiriko, also known as Death Incarnate, who just like him, asks his patients huge sums of money but instead of saving them, he offers them a painless death. When the activist group requests both doctors’ collaboration, Black Jack finds himself caught in a spiral of life, death and treason while trying to save his patients' lives and avoid the breaking of a biological war that could destroy humanity.",
+    "popularity": 2.386,
+    "poster_path": "/c3ut5CbzJCIh15YYdW6kfUDFF03.jpg",
+    "production_companies": [
+        {
+            "id": 11727,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "name": "Yomiuri Telecasting Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 51469,
+            "logo_path": null,
+            "name": "Avex Inc.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2752,
+            "logo_path": null,
+            "name": "DENTSU Music And Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2005-12-17",
+    "revenue": 11338,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Black Jack: The Two Doctors in Black",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 8
+}

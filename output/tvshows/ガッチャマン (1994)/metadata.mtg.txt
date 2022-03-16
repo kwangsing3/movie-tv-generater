@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/kWoaGpww6PPzEWhuPpRni26bgmW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        47
+    ],
+    "first_air_date": "1994-09-30",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://tatsunoko.co.jp/works/gatchaman-ova",
+    "id": 126065,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1995-03-31",
+    "last_episode_to_air": {
+        "air_date": "1995-03-31",
+        "episode_number": 3,
+        "id": 2966168,
+        "name": "The Final Countdown",
+        "overview": "While huge mechanical drills controlled by Galactor infiltrate the Earth's core, the Gatchaman confront Berg Katse for the final battle to decide the fate of the world!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/82NGqIhZwVCkKDAvhC2uxx0J0zl.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gatchaman",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "ガッチャマン",
+    "overview": "In the year 2066, the Republic of Hontworl, a charter member of the United Nations, leaves the organization without explaining its motives. This causes an outrage within the U.N. and places the security of the world on edge. Soon after this incident, Myori, the capital of the Republic of Triad, is attacked by a bird-like, flying fortress known as the Turtle King. The International Science Organization, which is headed by Dr. Kouzaburou Nanbu, is tasked to deal with this mysterious enemy. At the same time, the leading scientists of the ISO are disappearing. The five members of the Science Ninja Team, the Gatchaman warriors, are called upon to get to the bottom of things.",
+    "popularity": 0.772,
+    "poster_path": "/8lUQgRWbNh5XCAH62SYyt5ivWWc.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12302,
+            "logo_path": "/lkxJXc0o9M2vVoQOyWeZfiNAsXl.png",
+            "name": "ARTMIC Co., Ltd.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 33751,
+            "logo_path": "/2caA5Y2tdgi69L61uQnrpCIjwde.png",
+            "name": "Sentai Filmworks",
+            "origin_country": "US"
+        },
+        {
+            "id": 154637,
+            "logo_path": null,
+            "name": "Urban Vision",
+            "origin_country": ""
+        },
+        {
+            "id": 7901,
+            "logo_path": null,
+            "name": "Harmony Gold",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-09-30",
+            "episode_count": 3,
+            "id": 196266,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

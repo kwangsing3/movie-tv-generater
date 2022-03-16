@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/eb2YQpJcqvirCt7iT23OsRl8MBM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-01-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 35460,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-03-27",
+    "last_episode_to_air": {
+        "air_date": "2010-03-27",
+        "episode_number": 13,
+        "id": 801601,
+        "name": "Distant Memories",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xzU80KtnX6nekZq7JUCD2TTeM7p.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cobra the Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "COBRA THE ANIMATION",
+    "overview": "Cobra is a well known space pirate, but decides to change his face and to clear all his memories. He becomes a average guy, with a common job, and a very boring life, but suddenly he starts remembering his true identity and new adventures begin.",
+    "popularity": 7.958,
+    "poster_path": "/xFHpBcVWeTrzMDHmPKrM52Vxjyh.jpg",
+    "production_companies": [
+        {
+            "id": 13078,
+            "logo_path": null,
+            "name": "Magic Bus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-01-02",
+            "episode_count": 13,
+            "id": 46171,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bua4xv2jjnyX07EurCTuQgQJd7w.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.8,
+    "vote_count": 6
+}

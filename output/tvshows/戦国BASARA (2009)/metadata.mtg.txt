@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/wE1G8zDgLXY4i8h9U76T5rPq95z.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "http://www.basara-movie2011.com/basara1/index2.html",
+    "id": 25492,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-21",
+    "last_episode_to_air": {
+        "air_date": "2014-09-21",
+        "episode_number": 12,
+        "id": 1386705,
+        "name": "",
+        "overview": "The long-brewing showdown between Tokugawa Ieyasu and Ishida Mitsunari finally takes place. And when it ends, everyone must work out where to go from there.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/6ploJppqyktiE9aEHK58t6pRLV5.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sengoku Basara",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 36,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "戦国BASARA",
+    "overview": "During the Sengoku period, there are many factions constantly at war. One of these is led by a one-eyed man named Date Masamune and another by the imposing Takeda Shingen. The latter has a fiercely loyal subordinate named Sanada Yukimura who goes head to head against Date Masamune multiple times, but the battles between them tend to get interrupted. One such battle occurs when both men try to go after another leader named Imagawa, and they’re forced to break off their heated duel when Imagawa attempts to flee the scene with his body doubles. Yukimura and Masamune go after separate Imagawas, but all of the doubles are killed by a third party, and when their paths cross again, they are in front of the menacing Oda Nobunaga and his army. It was Nobunaga’s subordinates that killed those body doubles, and Nobunaga himself proceeds to kill the real Imagawa with a shotgun blast to the head.",
+    "popularity": 10.402,
+    "poster_path": "/bFdT4pUHnUuACXiLTnzhTK75kpv.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-07-01",
+            "episode_count": 16,
+            "id": 35877,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ccROZCQhGFKRQRbuBZ1HO0aRpg8.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-04-01",
+            "episode_count": 12,
+            "id": 35875,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lIO0CVX0cvxPuJqUig3TijiVIDB.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2010-07-11",
+            "episode_count": 12,
+            "id": 35876,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/tcD7OpRj8fxBExIV1HowIeu02f3.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2014-07-06",
+            "episode_count": 12,
+            "id": 94578,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/6QwamRHyi4lik6hYn0v0sYoKjSN.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 8
+}

@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/kkjow78DQhzTSg7zc3sPXOcKvc4.jpg",
+    "created_by": [
+        {
+            "id": 582431,
+            "credit_id": "5fa67c0d43494f00411be461",
+            "name": "Mitsuteru Yokoyama",
+            "gender": 2,
+            "profile_path": "/jrUA4NCmiBrIRd756yzsYGL5XXR.jpg"
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "1992-07-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 69212,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-01-25",
+    "last_episode_to_air": {
+        "air_date": "1998-01-25",
+        "episode_number": 7,
+        "id": 1249588,
+        "name": "The Grand Finale",
+        "overview": "Emmanuelle acquires the third sample, prompting both Chief Chujo and agent Ginrei to prepare for the ultimate sacrifice.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/wKSsAz7A3alnuGGE9aM2UnOqv3G.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Giant Robo: The Day the Earth Stood Still",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ジャイアントロボ THE ANIMATION -地球が静止する日",
+    "overview": "Dr. Shizuma invented a revolutionary new form of renewable energy drive but had to pay a heavy price for his success in a catastrophic accident that the world wants to forget. 10 years later the secret organization Big Fire have obtained two of three mysterious Shizuma drives as part of their world domination plans. The third drive has however been taken by Dr. Shizuma who during his escape is saved by Giant Robo. A desperate struggle begins between the Giant Robo and Big Fire for the control of the last drive as Big Fire unleashes their ultimate weapon, the Eye of Volger.",
+    "popularity": 9.106,
+    "poster_path": "/o6RAeajCWAw9BOCDuCZ2Ib1qSD.jpg",
+    "production_companies": [
+        {
+            "id": 15238,
+            "logo_path": null,
+            "name": "Phoenix Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1992-07-23",
+            "episode_count": 7,
+            "id": 83049,
+            "name": "Season 1",
+            "overview": "10 years ago Dr. Shizuma and his colleagues invented the Shizuma drive which is a revolutionizing new form of renewable and recyclable energy. Though they had to pay a heavy price for their success in a catastrophic accident that the world only wants to forget about. However, all is not well as the secret organization Big Fire is hell-bent on taking over the world. They have obtained two of three mysterious Shizuma drive samples with an unknown function, which are an integral part of their world domination plans. The third sample has however been stolen by Dr. Shizuma who during his escape is saved by Daisaku, Giant Robo and the Experts of Justice. Then a desperate struggle begins between the Experts of Justice and Big Fire for the control of the last sample as Big Fire unleashes their mightiest weapon, the Eye of Volger, upon the unsuspecting world. Soon everything points towards the hidden truth behind the accident 10 years ago as the starting point of everything.",
+            "poster_path": "/w3treh9C1jUQQRyzV9qCONBQP8E.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 10,
+    "vote_count": 1
+}

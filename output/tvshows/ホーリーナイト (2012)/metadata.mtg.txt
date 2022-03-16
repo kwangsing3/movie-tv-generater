@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/cOnMJpAMNX5iXpDIoCE15nHx7Ot.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2012-03-21",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 44883,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-05-25",
+    "last_episode_to_air": {
+        "air_date": "2012-05-25",
+        "episode_number": 2,
+        "id": 895870,
+        "name": "Volume 2",
+        "overview": "Shinta discovers that he is the last in a long line of vampire slayers and Lilith, a vampire, must conceive a child with the slayer and then kill them both and bathe in their blood in order to live on.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/iKaUDotW04auCo99n8kHVf07IZi.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Holy Knight",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ホーリーナイト",
+    "overview": "Holy Knight is the story of a young male vampire slayer who reluctantly falls in love with a beautiful female vampire exchange student and their personal struggles to avoid their bloody predestined conflict.",
+    "popularity": 3.736,
+    "poster_path": "/nEVPJLsYpnVD0ZJ1tonzTSrzDhl.jpg",
+    "production_companies": [
+        {
+            "id": 102225,
+            "logo_path": null,
+            "name": "CAMMOT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-03-21",
+            "episode_count": 2,
+            "id": 53658,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mGuAllXLNeJY2U4VW3YuYRbTsMe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 6.7,
+    "vote_count": 5
+}

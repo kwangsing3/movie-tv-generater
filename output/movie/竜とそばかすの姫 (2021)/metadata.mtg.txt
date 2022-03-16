@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/vzJkN2vpIiCXzQ6AgwMmNhRPag2.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "https://studiochizu.com/works/belle",
+    "id": 776305,
+    "imdb_id": "tt13651628",
+    "original_language": "ja",
+    "original_title": "竜とそばかすの姫",
+    "overview": "Suzu is a 17-year-old high-school student living in a rural town with her father. Wounded by the loss of her mother at a young age, Suzu one day discovers the massive online world \"U\" and dives into this alternate reality as her avatar, Belle. Before long, all of U's eyes are fixed on Belle, when, suddenly, a mysterious, dragon-like figure appears before her.",
+    "popularity": 46.445,
+    "poster_path": "/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg",
+    "production_companies": [
+        {
+            "id": 15662,
+            "logo_path": "/onTO8FymA6J6puYznAjZDsXvHYf.png",
+            "name": "Studio Chizu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6755,
+            "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11846,
+            "logo_path": "/es3LvDA6wLWVDvZnAYYuAT6x8lJ.png",
+            "name": "Hakuhodo DY Media Partners",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11727,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "name": "Yomiuri Telecasting Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157646,
+            "logo_path": null,
+            "name": "BookWalker",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9070,
+            "logo_path": "/hF6wiZa36H54RtJC2O4P1bdyGEW.png",
+            "name": "NTT Docomo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104184,
+            "logo_path": null,
+            "name": "Lawson Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11726,
+            "logo_path": null,
+            "name": "The Yomiuri Shimbun",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-07-16",
+    "revenue": 61000000,
+    "runtime": 122,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "You are no longer alone.",
+    "title": "Belle",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 219
+}

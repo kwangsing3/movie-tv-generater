@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/eFx8KxRDy0o7Gq36dZSEPl4ETOT.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2015-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://smiral-label.com/milliondoll/",
+    "id": 74822,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-22",
+    "last_episode_to_air": {
+        "air_date": "2015-09-22",
+        "episode_number": 11,
+        "id": 1387952,
+        "name": "",
+        "overview": "Idols!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/o8Y2tiEMt2r7nYnsN7F21vQk0LL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Million Doll",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ミリオンドール",
+    "overview": "Suuko has the special ability to make any idol popular just by writing about them on her blog! One day, while being forced to go to the supermarket by her sister, she happens to see a live performance from the dol group “Iotrio”. Suuko decides that she will do everything in her power to push them into stardom. Unfortunately, she has to compete with the charismatic otaku blogger Ryuu-san who supports the underground idol Mariko!",
+    "popularity": 3.269,
+    "poster_path": "/cqKsSZryvYpBkcBPxB15mO4smCE.jpg",
+    "production_companies": [
+        {
+            "id": 14969,
+            "logo_path": "/jwTtvhoCesywogszy79x84Y8Ihh.png",
+            "name": "Asahi Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-08-11",
+            "episode_count": 1,
+            "id": 94847,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-07-07",
+            "episode_count": 11,
+            "id": 94687,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6PYN4bgKixY9ua3FP5ZNcEpcfPN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

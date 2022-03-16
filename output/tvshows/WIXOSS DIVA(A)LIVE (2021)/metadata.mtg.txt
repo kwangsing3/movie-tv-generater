@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/edl2vLPzj9RNmHrmOhobLNrXei4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://wixoss-diva.com",
+    "id": 110371,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-26",
+    "last_episode_to_air": {
+        "air_date": "2021-03-26",
+        "episode_number": 12,
+        "id": 2826936,
+        "name": "",
+        "overview": "No Limit is back for one final shot against Deus Ex Machina. Can Hirana really make it to the top?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lTZQJT3Y8Gy7SjJYTedeEJjvpQb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "WIXOSS DIVA(A)LIVE",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "WIXOSS DIVA(A)LIVE",
+    "overview": "In the world of Wixoss, the card game, players are invited to play as avatar versions of themselves; in this well-known game, the most popular way to play is participating in \"Diva Battles,\" where players compete to gain fans.",
+    "popularity": 16.433,
+    "poster_path": "/guI2U1Vmvn6c6vc96e0Pbxjlxy4.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-09",
+            "episode_count": 12,
+            "id": 163600,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/n6i2GZOq2M1ma8xMr3m6bzGxE43.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4,
+    "vote_count": 5
+}

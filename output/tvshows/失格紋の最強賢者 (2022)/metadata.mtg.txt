@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/bE14LgY9fQdUTTUlHx6e4Vre8pa.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://shikkakumon.com/",
+    "id": 117884,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-12",
+    "last_episode_to_air": {
+        "air_date": "2022-03-12",
+        "episode_number": 10,
+        "id": 3416198,
+        "name": "The Strongest Sage Works With a Team",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/193V78k4eMEKh0t2fuCsEyukHe5.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "The Strongest Sage With the Weakest Crest",
+    "next_episode_to_air": {
+        "air_date": "2022-03-19",
+        "episode_number": 11,
+        "id": 3416199,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "失格紋の最強賢者",
+    "overview": "His strength limited by the magical crest with which he was born, Mathias, the world's most powerful sage, decides reincarnation is necessary to become the strongest of all. Upon his rebirth as a young boy, Mathias is thrilled to discover he's been born with the optimal crest for magical combat on his first try! Unfortunately, the world he's been born into has abysmally poor standards when it comes to magic, and everyone thinks he's still marked for failure! Now it's up to Mathias to prove everyone wrong…world's strongest sage-style!",
+    "popularity": 100.83,
+    "poster_path": "/55IKEC0Q0w50iKlygeHCdldTMse.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-08",
+            "episode_count": 12,
+            "id": 179261,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9V1KBaiUC7ECh4e0Q8UwdmeOEE1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 5
+}

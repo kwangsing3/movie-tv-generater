@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/82d5MWUZbmXY3YMCfNTxFSdAGEH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/kawaisou/",
+    "id": 60812,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-20",
+    "last_episode_to_air": {
+        "air_date": "2014-06-20",
+        "episode_number": 12,
+        "id": 1029609,
+        "name": "I Want to Get Closer",
+        "overview": "After approaching Ritsu in the library, Maemura has been following her everywhere. She invites Ritsu to an event for book lovers, but it turns out to be a mixer at a karaoke place. Back at the Kawai Complex, Sayaka mentions that she happened to see Ritsu by the station, and Usa begins to panic.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sgcfftNBKQoGBrRz1u4imekcDlh.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Kawai Complex Guide to Manors and Hostel Behavior",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "僕らはみんな河合荘",
+    "overview": "Kazunari Usa finally has a place of his own at the Kawai housing complex. Unfortunately, his roommate is a total weirdo and a massive pervert! But life at the Kawai Complex isn’t all that bad with his dream-girl Ritsu living right down the hall.",
+    "popularity": 17.633,
+    "poster_path": "/leOzWLnniaJc3cjPL0DXSbBout7.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-02",
+            "episode_count": 15,
+            "id": 74587,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/6FDROmkdNepfEU9v4eOcVdcLyqP.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-04-04",
+            "episode_count": 12,
+            "id": 60794,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1gTOSMyCy3ZWl5IO08dp98UIuv9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 14
+}

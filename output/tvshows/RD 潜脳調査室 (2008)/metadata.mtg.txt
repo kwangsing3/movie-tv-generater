@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/rWatsA0eJEhroHkmEWiGcdwugnz.jpg",
+    "created_by": [
+        {
+            "id": 57303,
+            "credit_id": "5cbe2a3cc3a368694c8886df",
+            "name": "Masamune Shirow",
+            "gender": 2,
+            "profile_path": "/pPd9Dyh2zGCUO5FLP1FTNwAe5lP.jpg"
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2008-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.ntv.co.jp/RD/",
+    "id": 34773,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-10-01",
+    "last_episode_to_air": {
+        "air_date": "2008-10-01",
+        "episode_number": 26,
+        "id": 792016,
+        "name": "Real Drive",
+        "overview": "Haru makes contact with Eliza and receives Kushima's proof that the weather particles will cause worldwide disaster. Haru broadcasts the proof on the Metal, and the world's leaders quickly agree to shut down the Metal to kill the weather particle nanomachines. Kushima's consciousness then contacts Haru and explains that the ocean itself will replace the functionality of Metal via the salt water in the human body. Haru, restored to his younger self, is safely returned to the surface, where he reunites with Minamo.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Real Drive",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "RD 潜脳調査室",
+    "overview": "The story takes place in 2061, 50 years after humanity developed the \"Net society\" that depended on information networks despite their security issues. To improve security, a new network called Meta Real Network — or \"Metal\" for short — was developed. People's personal memories are reduced to information and placed within \"protected virtual stand-alone organic cyber enclaves\" called bubble shells online. The result was a virtual \"explosion\" of creative freedom as people felt safe enough to explore instincts and desires on Metal that they would not otherwise explore in real life. This \"friction\" between the Metal's alluring lack of restrictions and rules-bound reality led to trouble and incidents that investigators known as \"cyber divers\" must handle. Masamichi Haru is one such cyber diver.",
+    "popularity": 7.306,
+    "poster_path": "/f613eSgVKsfVmNrqQcSOHEpxMdK.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-04-09",
+            "episode_count": 26,
+            "id": 45551,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/f613eSgVKsfVmNrqQcSOHEpxMdK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2
+}

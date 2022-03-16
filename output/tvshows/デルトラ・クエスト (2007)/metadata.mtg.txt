@@ -1,0 +1,89 @@
+{
+    "adult": false,
+    "backdrop_path": "/mi6xq5VPb48SCW1Po4YMi5p24mU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2007-01-06",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 3240,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-03-29",
+    "last_episode_to_air": {
+        "air_date": "2008-03-29",
+        "episode_number": 65,
+        "id": 2937651,
+        "name": "Deltora Forever",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Deltora Quest",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 65,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "デルトラ・クエスト",
+    "overview": "The evil Shadow Lord has taken control of the kingdom of Deltora and has driven the land and its people into misfortune and suffering. Lief, the son of a blacksmith, has just turned sixteen and is entrusted, along with his two companions Barda and Jasmine, with an important mission: to retrieve the stolen seven magical stones that once reunited within the Belt of Deltora, will bring power to the true heir of Deltora and give him the power to free the kingdom from the tyranny of the Shadow Lord. There is just one problem; the seven stones have been scattered all across Deltora and currently reside in the hands of seven wicked men who are not easily willing to give them up.",
+    "popularity": 12.667,
+    "poster_path": "/tz4DRWdlL79TyMLNPz89nQkYe6w.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2007-01-06",
+            "episode_count": 65,
+            "id": 106142,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qrUEul9ruJat63k6trbev2EKv4Q.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 4
+}

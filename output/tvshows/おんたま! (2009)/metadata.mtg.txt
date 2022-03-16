@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        11
+    ],
+    "first_air_date": "2009-08-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 53353,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-11-06",
+    "last_episode_to_air": {
+        "air_date": "2009-11-06",
+        "episode_number": 5,
+        "id": 2498919,
+        "name": "Warmth - Family!",
+        "overview": "Everything comes together in the final episode",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ontama!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おんたま!",
+    "overview": "Ichigo is a fourth-grade girl, who lives with her gentle-hearted mother and not-so-kind stepfather. Worried about the discord between her parents, she wishes: \"To meet my real father!\" Her wish is granted and suddenly she ends up in her real father's apartment, but several years in the past. Playing the role of her father's younger sister, Ichigo tries to bring her real father and mother together...",
+    "popularity": 0.629,
+    "poster_path": "/kWVlvSMBOxHqdnjkAoBEYv1K8ka.jpg",
+    "production_companies": [
+        {
+            "id": 109576,
+            "logo_path": "/sOIxEPrn2MMo74YP03XlYh41v0V.png",
+            "name": "Encourage Films",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-08-07",
+            "episode_count": 5,
+            "id": 56352,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

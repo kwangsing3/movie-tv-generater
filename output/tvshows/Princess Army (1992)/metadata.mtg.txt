@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1207552,
+            "credit_id": "618a13cc66a7c300217926dc",
+            "name": "Miyuki Kitagawa",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        26
+    ],
+    "first_air_date": "1992-08-01",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 138197,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1992-09-21",
+    "last_episode_to_air": {
+        "air_date": "1992-09-21",
+        "episode_number": 2,
+        "id": 3328615,
+        "name": "ACT-2",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Princess Army: Wedding Combat",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Princess Army",
+    "overview": "A Judo student and a dashing young man who plays piano are both of interest to young Nonoka Aida. Then her childhood friend shows up from abroad to keep his promise that he would marry her as declared by her deceased father on his deathbed. This newcomer is determined that Nonoka is destined to become his bride but he will need to stand up to her amazing Judo skills and the affection she shows for her two classmates.",
+    "popularity": 0.705,
+    "poster_path": "/9QLNgynJ0yqfBir6YR6Im6bLDVE.jpg",
+    "production_companies": [
+        {
+            "id": 13064,
+            "logo_path": null,
+            "name": "Animate Film",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1992-08-01",
+            "episode_count": 2,
+            "id": 218813,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/sHzIaeRNfSXZfMbpFMYnxowUEqj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2021-02-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www3.nhk.or.jp/nhkworld/maikosan/",
+    "id": 101242,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-01-27",
+    "last_episode_to_air": {
+        "air_date": "2022-01-27",
+        "episode_number": 12,
+        "id": 2664264,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5zj3mw0xjrYPGB6Ptpo88a2lVqF.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kiyo in Kyoto: From the Maiko House",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK WORLD-JAPAN",
+            "id": 4570,
+            "logo_path": "/dnoNljXZQkHQubzaqME1mFRRBgJ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "舞妓さんちのまかないさん",
+    "overview": "Kiyo and Sumire came to Kyoto from Aomori Prefecture, dreaming of becoming maiko. But after an unexpected turn of events, Kiyo starts working as the live-in cook at the Maiko House. Their story unfolds in Kagai, the Geiko and maiko district in Kyoto, alongside their housemate maikos. Kiyo nourishes them daily with her homecooked meals, and Sumire strives toward her promising future as the once-in-a-century maiko.",
+    "popularity": 15.289,
+    "poster_path": "/gju01b35hWSBhYLhbqaX7awYsH8.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11376,
+            "logo_path": "/lrglrxyGOMRl9KCsmcjmzjjpT2H.png",
+            "name": "NHK Enterprises",
+            "origin_country": "JP"
+        },
+        {
+            "id": 15505,
+            "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+            "name": "NHK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-02-25",
+            "episode_count": 12,
+            "id": 146535,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gju01b35hWSBhYLhbqaX7awYsH8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

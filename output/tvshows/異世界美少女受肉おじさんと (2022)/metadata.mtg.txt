@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/lffGTJwsBn4AuzU9en5EIguyOiL.jpg",
+    "created_by": [
+        {
+            "id": 1970410,
+            "credit_id": "620eb6bca84ff7004750c6d6",
+            "name": "Sayaka Yamai",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://fabiniku.com/",
+    "id": 125712,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-09",
+    "last_episode_to_air": {
+        "air_date": "2022-03-09",
+        "episode_number": 9,
+        "id": 3416285,
+        "name": "A Guy Who Reincarnated as a Fantasy Knockout and a Beautiful Girl",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vklrLMOslQxyeRdXs9JXUYwryCm.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
+    "next_episode_to_air": {
+        "air_date": "2022-03-16",
+        "episode_number": 10,
+        "id": 3416286,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/owKWtpfkan9anwKlPpvpy9jPglD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "異世界美少女受肉おじさんと",
+    "overview": "Childhood friends Tachibana Hinata and Jinguji Tsukasa were living the everyday life of office workers. Then, on the way home from a mixer, they were sent flying into another world by a mysterious being. Once there, Jinguji sees his best friend has been turned into a beautiful blonde-haired, blue-eyed girl...?! The adorableness of Tachibana’s female form completely flummoxes Tachibana. But these two are each others’ best friends. To keep their relationship from being destroyed, they must defeat the Demon Lord as quickly as possible and return to their original forms.",
+    "popularity": 135.554,
+    "poster_path": "/p7HJFmg3AuzbzVQcoDroloLD9xW.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-12",
+            "episode_count": 12,
+            "id": 195531,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/p7HJFmg3AuzbzVQcoDroloLD9xW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 4
+}

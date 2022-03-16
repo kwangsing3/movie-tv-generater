@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/x8NA42fSP8g5wHGBQvqbHTmY9iv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-07-02",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 54241,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-06-24",
+    "last_episode_to_air": {
+        "air_date": "2006-06-24",
+        "episode_number": 51,
+        "id": 924986,
+        "name": "Shining heart! The next Queen selection",
+        "overview": "Chocolat purifies Pierre, and in the process, switches hearts with him. He turns good. After Chocola defeated Pierre, Vanilla wins, but she refuses to take the crown. Instead, she gives it to Chocolat because she thinks that Chocolat will be a better queen. Chocola and Vanilla wish to study further in the human world; Queen Candy permits them to do so. Then Pierre and Chocolat get married in the Magical World, making Chocolat the first queen of the Magical and Ogre worlds. Pierre now doesn't collect noir, he collects pink and orange hearts.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sugar Sugar Rune",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シュガシュガルーン",
+    "overview": "Chocolat Meilleure is a happy-going and optimistic girl. Together  with her friend-cum-rival, Vanilla Mieux, they are potential candidates  to become Queen of the magic world. After obtaining their magic wands,  they set off to the human world to gather the hearts of unsuspecting  humans. Whoever gets the most hearts will be the crowned Queen.",
+    "popularity": 6.827,
+    "poster_path": "/dPNrTDTRUHeqswFxnq1PIGEWnLr.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-07-02",
+            "episode_count": 51,
+            "id": 56473,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dPNrTDTRUHeqswFxnq1PIGEWnLr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

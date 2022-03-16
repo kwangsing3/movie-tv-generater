@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2008-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 35989,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-06-19",
+    "last_episode_to_air": {
+        "air_date": "2008-06-19",
+        "episode_number": 12,
+        "id": 817307,
+        "name": "I Exist",
+        "overview": "Shinkurō returns to Inner Sanctuary to rescue Murasaki while Benika rushes to his side. Once inside, Shinkurō meets up with Renjou, Murasaki's father, and they discuss Murasaki's future. Before long, Benika and Yayoi appears at the Inner Sanctuary with Lin in pursuit. Murasaki's brother and Lin are both easily defeated with the Hōzuki style. Shinkurō makes Renjou realize the error of his ways and he vows to change the Kuhoin system. Many decisions are made for Murasaki's future.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kure-nai",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "紅",
+    "overview": "Shinkurou Kurenai is a 16-year-old student by day and a dispute mediator by night. Despite his unimposing appearance, he is a strong martial artist, who also possesses a strange power.\n\nWhile taking various jobs for his employer one assignment leads Shinkurou to live with Murasaki Kuhouin as her bodyguard. Murasaki is the seven-year-old daughter of a wealthy family, who escaped from her home under strange circumstances.",
+    "popularity": 5.992,
+    "poster_path": "/4X3sEj37dgz85qGWAHnWzvFH7gD.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2010-07-02",
+            "episode_count": 2,
+            "id": 46776,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-04-03",
+            "episode_count": 12,
+            "id": 46775,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2
+}

@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/xtMhBn1RTKR7cYjAVZXvuZ88A4O.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-07-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 30180,
+    "in_production": false,
+    "languages": [
+        "fr",
+        "ja",
+        "en"
+    ],
+    "last_air_date": "2004-09-25",
+    "last_episode_to_air": {
+        "air_date": "2004-09-25",
+        "episode_number": 12,
+        "id": 737430,
+        "name": "Furthermore It Was Hot",
+        "overview": "In the apartment, Khi explains to Takeya in detail the reason for the recall. Back at the market, Xaki gives chase to Ren but is dissuaded when a mob of storekeepers come to her aid. As Ren returns and settles home, confused and indecisive, Takeya divorces ownership of her; Khi scheduling to pick her up the next day. At school, as Ren gives her farewells, she eludes Khi and is pursued by Xaki once more. Upset at this, the entire school assembles to help; Yoshihime motorcycling Takeya to Ren. Following a scuffle with Xaki, Takeya emphatically changes his mind and makes it his final decision to be Ren's master.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5gqB2EMEW6SbuJtQZ6wIFvp0jU7.jpg",
+        "vote_average": 7,
+        "vote_count": 2
+    },
+    "name": "DearS",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "DearS",
+    "overview": "One year ago, a UFO containing 150 aliens crash-landed off the shores of Kasai. Because no one could fix their ship, the Japanese Government decided to bestow upon them the designation \"DearS\" and make them into Japanese citizens.  One morning, a truck carrying a capsule that housed one of the aliens ends up dropping it into the riverbank, releasing her from her confinement. She is eventually found by a high school student named Takeya Ikuhara, who saves her, despite being extremely distrustful of their race and wanting nothing to do with them. Upon being named Ren, she imprints upon him as her \"Master\" and serves as his personal \"Slave,\" leaving him with a \"DearS\" who wants to remain with him no matter what.",
+    "popularity": 7.732,
+    "poster_path": "/rqquMDIzWC1oAQ6XvKKF8OzBx8K.jpg",
+    "production_companies": [
+        {
+            "id": 88185,
+            "logo_path": "/7KGVmlLGv6hoon8UkqE7ls7z4op.png",
+            "name": "Daume",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-07-08",
+            "episode_count": 2,
+            "id": 41659,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-07-09",
+            "episode_count": 12,
+            "id": 41658,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tuIg45B5Y5h1REexTmfLSmfX4EO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 15
+}

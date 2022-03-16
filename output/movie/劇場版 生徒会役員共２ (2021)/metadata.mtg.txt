@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://king-cr.jp/special/seitokai_G2/",
+    "id": 653858,
+    "imdb_id": "tt12439230",
+    "original_language": "ja",
+    "original_title": "劇場版 生徒会役員共２",
+    "overview": "Second theatrical movie of Seitokai Yakuindomo series.",
+    "popularity": 3.062,
+    "poster_path": "/q7xVIzrdpAcnJn7obAzlzXsmyWl.jpg",
+    "production_companies": [
+        {
+            "id": 7759,
+            "logo_path": null,
+            "name": "GoHands",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Seitokai Yakuindomo the Movie 2",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 5
+}

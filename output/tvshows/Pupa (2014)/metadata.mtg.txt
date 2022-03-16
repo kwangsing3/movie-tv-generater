@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/kNExxLCRZRWuSfmWlRaaObry2mF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2014-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 71307,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-28",
+    "last_episode_to_air": {
+        "air_date": "2014-03-28",
+        "episode_number": 12,
+        "id": 1304097,
+        "name": "Larva",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cDRlBFAUAldgwHOWMQHyG5Qb79Q.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pupa",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Pupa",
+    "overview": "Growing up with an abusive father, Utsutsu is highly protective of his younger sister Yume. One day, she contracts the strange Pupa virus and begins to sprout grotesque wings and attack both animals and humans.",
+    "popularity": 6.197,
+    "poster_path": "/6p0dnZkr0QIz76rmoqAR8oHkPWs.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-01-10",
+            "episode_count": 12,
+            "id": 87476,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6616PZc8w0djDqzeDaAwnACoav6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2.9,
+    "vote_count": 14
+}

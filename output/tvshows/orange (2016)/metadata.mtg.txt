@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/pLz3ASlL4SkcdLjHpUdt8ftNqXO.jpg",
+    "created_by": [
+        {
+            "id": 929851,
+            "credit_id": "5835dc209251416c2e01384d",
+            "name": "Hiroshi Hamazaki",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.orange-anime.com/",
+    "id": 66958,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-26",
+    "last_episode_to_air": {
+        "air_date": "2016-09-26",
+        "episode_number": 13,
+        "id": 1212336,
+        "name": "Letter 13",
+        "overview": "Naho can't give her Valentine's Day chocolate to Kakeru. Ever since what happened on New Year's Eve, Kakeru keeps putting distance between Naho and himself. But, through all the hardships, Naho refuses to give up and fully intends to tell Kakeru how she feels. And so, the time comes for everyone to face the fateful day outlined in the letters from the past, \"Kakeru's Final Day.\"",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nmFuz6mCETh0D3gmQYJFXNZATy1.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Orange",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "orange",
+    "overview": "One day, Naho Takamiya receives a letter written to herself from ten years in the future. As Naho reads on, the letter recites the exact events of the day, including the transfer of a new student into her class named Kakeru Naruse. The Naho from ten years later repeatedly states that she has many regrets, and she wants to fix these by making sure the Naho from the past can make the right decisions—especially regarding Kakeru. What's more shocking is that she discovers that ten years later, Kakeru will no longer be with them. Future Naho asks her to watch over him closely.",
+    "popularity": 21.666,
+    "poster_path": "/o9dLDFxGuNvH9qAOBnbVNKgJVbn.jpg",
+    "production_companies": [
+        {
+            "id": 20868,
+            "logo_path": null,
+            "name": "Telecom Animation Film",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-11-18",
+            "episode_count": 1,
+            "id": 150608,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/7Op8p8D7ZmDoAKXBqRC8tMj2hrN.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-07-04",
+            "episode_count": 13,
+            "id": 78177,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pLpN4XM9mTbW2Zta18yBKeOcuo0.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 379
+}

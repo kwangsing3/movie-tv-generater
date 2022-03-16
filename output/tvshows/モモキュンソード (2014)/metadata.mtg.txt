@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/vfE3gd2VoWbJ2h5E1IOialJawgv.jpg",
+    "created_by": [
+        {
+            "id": 2000094,
+            "credit_id": "5aacfac30e0a26781e00ffc1",
+            "name": "Tsuyoshi Tamai",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-07-09",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.momokyun.com/",
+    "id": 70722,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-23",
+    "last_episode_to_air": {
+        "air_date": "2014-09-23",
+        "episode_number": 12,
+        "id": 1405702,
+        "name": "Peach Fantasy! Momo Kyun Sword",
+        "overview": "Youki looks to take control of the Michimi Peach; Onihime continues to struggle with the truth of her identity.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4FxK8n3IFBs3Bw28HxMAFZw62v8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Momokyun Sword",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "モモキュンソード",
+    "overview": "Momoko is a beautiful young sword fighter who was born inside a peach. She lives with her constant companions—the dog god Inugami, the monkey god Sarugami, and the pheasant god Kijigami—in a peaceful paradise. However, a demon army led by devil king invades the paradise and steals the precious treasure that protects Momoko's land. To retrieve the treasure and save the people, Momoko embarks on a great adventure with her three companions.",
+    "popularity": 4.496,
+    "poster_path": "/tg6HZ5SKGv7ezXxjwXn24MHYlnr.jpg",
+    "production_companies": [
+        {
+            "id": 102210,
+            "logo_path": null,
+            "name": "Tri-Slash",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-09",
+            "episode_count": 12,
+            "id": 86187,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eT7FRqcETka1DfsIzJYnQorAP6r.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 8
+}

@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/wJtrctuWTKgIi45zLw9tTjWQFY3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-07-31",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://kengan.net/",
+    "id": 90660,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-10-31",
+    "last_episode_to_air": {
+        "air_date": "2019-10-31",
+        "episode_number": 12,
+        "id": 1972200,
+        "name": "Father",
+        "overview": "Just when the match seems over, Ohma has a vision and unlocks a new level of his abilities for an epic showdown against Raian.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/42XRYNCpXsDHc7O0bUplYkwy9fA.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kengan Ashura",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ケンガンアシュラ",
+    "overview": "Since the Edo periods of Japan, gladiator arenas exist in certain areas. In these arenas, wealthy business owners and merchants hire gladiators to fight in unarmed combat where winner takes all. Toki Taouma, nicknamed \"Ashura,\" joins these arenas and devastates his opponents. His spectacular ability to crush his enemies catches the attention of the big business owners, including the Nogi Group chairman, Nogi Hideki.",
+    "popularity": 114.829,
+    "poster_path": "/vFsrfUBAW6Ew0GvLPdALdBYQ3ao.jpg",
+    "production_companies": [
+        {
+            "id": 120076,
+            "logo_path": null,
+            "name": "Larx Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-07-31",
+            "episode_count": 12,
+            "id": 126761,
+            "name": "Part I",
+            "overview": "",
+            "poster_path": "/8INsRowGMwR2mcj43OnmqVA1LFi.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-10-31",
+            "episode_count": 12,
+            "id": 135045,
+            "name": "Part II",
+            "overview": "",
+            "poster_path": "/a6b0S0Wbi2YqMfXZWraLmBj8T1c.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 514
+}

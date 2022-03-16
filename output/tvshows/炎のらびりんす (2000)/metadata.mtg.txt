@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/qB2jCMRZdgbyMUWj7O13ICTfHMC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        33
+    ],
+    "first_air_date": "2000-09-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 131899,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-12-21",
+    "last_episode_to_air": {
+        "air_date": "2000-12-21",
+        "episode_number": 2,
+        "id": 3150224,
+        "name": "Treasure Labyrinth? Loverinth?",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/szHdIbvLosKhtZwDckZiKbOwWxN.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Labyrinth of Flames",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "炎のらびりんす",
+    "overview": "Meet Galan, a Russian spastic geek who`d do anything to be a real, live samurai. But that`s just an impossible dream... or is it? When his friend Natsu, who is a successor of Japanese emigrants family, gives him the gift of an ancient sword, strange events unfold, and even stranger people drop out of the sky to attack. Now Galan must overcome his ineptitude and join a bunch of beautiful women in a wacky romp through a kingdom that time forgot. Hey, what could be better?",
+    "popularity": 0.6,
+    "poster_path": "/eUBhbTtKyKKWwymQYQSBD60hlsy.jpg",
+    "production_companies": [
+        {
+            "id": 13023,
+            "logo_path": null,
+            "name": "Studio Fantasia",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2000-09-25",
+            "episode_count": 2,
+            "id": 207353,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 6.7,
+    "vote_count": 3
+}

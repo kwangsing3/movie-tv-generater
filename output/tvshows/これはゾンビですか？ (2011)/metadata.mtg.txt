@@ -1,0 +1,147 @@
+{
+    "adult": false,
+    "backdrop_path": "/kpdAeHUEFRKqxVmo4kQPogepF9J.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.funimation.com/shows/is-this-a-zombie",
+    "id": 38420,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-06-07",
+    "last_episode_to_air": {
+        "air_date": "2012-06-07",
+        "episode_number": 10,
+        "id": 859619,
+        "name": "Still, That's Okay",
+        "overview": "Head Teacher Ariel proposes a test to Ayumu, to see if he is ready to take on Chris. At stake are Ayumu's memories, which will be erased if he fails the test. Haruna decides to help Ayumu pass the test, but will her help end up doing more harm than good?",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/r1lyZBkgrc9QiAIEn9ShFZB3yvp.jpg",
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    "name": "Is This a Zombie?",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "これはゾンビですか？",
+    "overview": "Some guys have no luck; he’s got no pulse. That’s life for poor unfortunate, undead Ayumu. First, he was murdered by a serial killer. Total bummer. Then he was resurrected as a zombie by a cute little Necromancer. That seemed pretty cool until she moved into his house, refused to speak, and forced his rotting carcass to do all the cooking. After that, a magical girl in a pretty pink dress used her matching chainsaw to chop his corpse in half. Luckily, the Necromancer’s powers of resurrection trumped those of the chainsaw chick, so instead of dying (again), Ayumu became the world’s first magical girl zombie. There’s also a voluptuous vampire ninja who thinks zombie boy’s a pervert – and a hideous crayfish demon who wants to devour him. Confused? All you gotta know is this: zombies, frilly dresses, demons, and moe chainsaws. Pink. It’s the new dead.",
+    "popularity": 28.243,
+    "poster_path": "/iRCtFHNKL5d41Uxr1UvM6wytPQc.jpg",
+    "production_companies": [
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21346,
+            "logo_path": "/zFOXiwgrIakUsgWqbsDGgo6JEiw.png",
+            "name": "FlyingDog",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6681,
+            "logo_path": "/s4RElEnQyM2VrHZCQ3jYemPdxML.png",
+            "name": "THE KLOCKWORX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-06-10",
+            "episode_count": 3,
+            "id": 49935,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/i1yNFu8tB2D7sTOil9Jxdw4t0g7.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-01-11",
+            "episode_count": 12,
+            "id": 49934,
+            "name": "Season 1",
+            "overview": "Ayumu Aikawa is a normal high school boy. One day he is killed by a serial killer and revived as a zombie by a necromancer named Eucliwood Hellscythe. He starts to serve Eu as her guard but he happens to deprive a magical girl in a pretty pink dress of her powers. After which she orders Ayumu to fight against the \"Megalo\" demons in her place.",
+            "poster_path": "/xffiZGaXoPTlDN0omd4guZrrpTY.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2012-04-05",
+            "episode_count": 10,
+            "id": 49936,
+            "name": "Season 2: Of the Dead",
+            "overview": "Ayumu Aikawa must continue to fight the Megalo in place of Haruna, who continues to recharge her magical powers. While trying to figure out the mysteries behind the people who are releasing these Megalo in the world, Ayumu meets a beautiful, black-haired girl by chance, and she only has eyes... for his butt.",
+            "poster_path": "/oLauQIHSx1nYIm65gHu996RLs8g.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 32
+}

@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/9xr44c31C2Btwp8wB92DDQlxKiy.jpg",
+    "created_by": [
+        {
+            "id": 101917,
+            "credit_id": "52596804760ee346619d2909",
+            "name": "Gōshō Aoyama",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2010-04-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 44578,
+    "in_production": false,
+    "languages": [
+        "ja",
+        "de"
+    ],
+    "last_air_date": "2012-12-29",
+    "last_episode_to_air": {
+        "air_date": "2012-12-29",
+        "episode_number": 12,
+        "id": 894559,
+        "name": "Tears of Love for the Dark Knight",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rDVjMEefBR8HWN2ElSbrJlYGnE9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magic Kaito: Kid the Phantom Thief",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まじっく快斗: Kid the Phantom Thief",
+    "overview": "",
+    "popularity": 11.727,
+    "poster_path": "/lK0VNYGpHgLjsh140BKmfnGOSWq.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 53527,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-04-17",
+            "episode_count": 12,
+            "id": 53526,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lK0VNYGpHgLjsh140BKmfnGOSWq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 2
+}

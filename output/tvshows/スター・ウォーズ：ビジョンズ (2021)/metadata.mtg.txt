@@ -1,0 +1,147 @@
+{
+    "adult": false,
+    "backdrop_path": "/6t9gvk0Off0HkqFjBu9Rqz6KMBj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15,
+        22
+    ],
+    "first_air_date": "2021-09-22",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/series/star-wars-visions/5AiiTRJ7OaKg",
+    "id": 114478,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-22",
+    "last_episode_to_air": {
+        "air_date": "2021-09-22",
+        "episode_number": 9,
+        "id": 3054374,
+        "name": "Akakiri",
+        "overview": "A Jedi returns to his forbidden love to help defend her kingdom from a Sith-like Shogun.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gm8eK7ASBgMBhgZIPyA8NxeqIHY.jpg",
+        "vote_average": 6.167,
+        "vote_count": 5
+    },
+    "name": "Star Wars: Visions",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Disney+",
+            "id": 2739,
+            "logo_path": "/uzKjVDmQ1WRMvGBb7UNRE0wTn1H.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP",
+        "US"
+    ],
+    "original_language": "ja",
+    "original_name": "スター・ウォーズ：ビジョンズ",
+    "overview": "An anthology series of animated short films celebrating Star Wars through the lens of the world's best anime creators.",
+    "popularity": 37.661,
+    "poster_path": "/8yECMpsZ8wAvra4Sow6Bz9WOO5f.jpg",
+    "production_companies": [
+        {
+            "id": 1,
+            "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+            "name": "Lucasfilm",
+            "origin_country": "US"
+        },
+        {
+            "id": 93154,
+            "logo_path": "/vTNoVe4tBhY1hshuVVF7fA2RbSD.png",
+            "name": "Kamikaze Douga",
+            "origin_country": "JP"
+        },
+        {
+            "id": 20556,
+            "logo_path": "/vtDnd97vIv35YpJzQ5k2H4LP0uv.png",
+            "name": "Studio Colorido",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104682,
+            "logo_path": "/i87rCY8dRbWWgW3o9jnwWE5qa3Z.png",
+            "name": "Geno Studio",
+            "origin_country": "JP"
+        },
+        {
+            "id": 50908,
+            "logo_path": "/wdfnq5ze8Ctrb5WiSRQdggyYPUY.png",
+            "name": "TRIGGER",
+            "origin_country": "JP"
+        },
+        {
+            "id": 16738,
+            "logo_path": "/Lf0udeB7OwHoFJ0XIxVwfyGOqE.png",
+            "name": "Kinema Citrus",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 99494,
+            "logo_path": "/qkHfgTmVRgYOyX0d4EivIDFFKMz.png",
+            "name": "Science SARU",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-09-22",
+            "episode_count": 9,
+            "id": 171719,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8yECMpsZ8wAvra4Sow6Bz9WOO5f.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "7 visionary anime studios. 9 original short stories from across the galaxy.",
+    "type": "Miniseries",
+    "vote_average": 7.4,
+    "vote_count": 145
+}

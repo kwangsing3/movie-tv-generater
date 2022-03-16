@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/5Icpuw4F6k7sXeprPlMWYTM9qOX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 45278,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-14",
+    "last_episode_to_air": {
+        "air_date": "2012-09-14",
+        "episode_number": 11,
+        "id": 900388,
+        "name": "Episode 11",
+        "overview": "In this final episode, Rokka chooses whom she's going to spend the rest of her life (or life in death) with: Hazuki or her deceased husband, Shimao.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Natsuyuki Rendezvous",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "夏雪ランデブー",
+    "overview": "Ryousuke Hazuki is a young man whose heart has been stolen away, stopping by the local floral shop daily in order to catch a glimpse of the beautiful Rokka Shimao, the shop's owner. In hopes of getting close to her, he decides to get a part-time job at the shop, but before he is able to make his move, he runs into a major roadblock: in her apartment dwells a ghost who claims to be Rokka's deceased husband.\n\nAtsushi Shimao has quietly watched over his widowed wife ever since he passed three years ago. However, Hazuki is the first person to ever notice him, and the two quickly find themselves at odds: the jealous Shimao attempts to thwart the suitor's advances and possess his body, while Hazuki simply wants the ghost to pass on for good, allowing Rokka to move on from the past and him to be with the one he loves. As both men refuse to let go of their desires, an unusual relationship forms between a troubled woman, an unrelenting ghost, and a stubborn man in love.",
+    "popularity": 8.762,
+    "poster_path": "/byqOkS9BJ86BmlYYQDXCARmzFEg.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-07-06",
+            "episode_count": 11,
+            "id": 53912,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jnjrNoUK221RovAGRIiHEaJo3dd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 7
+}

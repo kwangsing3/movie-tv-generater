@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/gN4SHrUCzbcBTwRDgL5rJGy2vDd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        8
+    ],
+    "first_air_date": "2021-01-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://jimihen.cf-anime.com",
+    "id": 113360,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-02-21",
+    "last_episode_to_air": {
+        "air_date": "2021-02-21",
+        "episode_number": 8,
+        "id": 2741493,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/aCfokVN3dSAIZOpnPMZz95H59z8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Jimihen!! Pure Heterosexual Exchange That Changes a Reserved Girl",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "じみへんっ!!～地味子を変えちゃう純異性交遊～",
+    "overview": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.",
+    "popularity": 29.39,
+    "poster_path": "/lzZF7A2J742XwlMcSIAbfc6or0c.jpg",
+    "production_companies": [
+        {
+            "id": 125825,
+            "logo_path": null,
+            "name": "Studio Hōkiboshi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-03",
+            "episode_count": 8,
+            "id": 169263,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lzZF7A2J742XwlMcSIAbfc6or0c.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 8
+}

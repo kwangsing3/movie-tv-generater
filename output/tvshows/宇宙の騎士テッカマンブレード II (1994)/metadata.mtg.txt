@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/n5zE4MZ71pTGwMFnn4YtCfNfEnx.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1994-07-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 20565,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-04-26",
+    "last_episode_to_air": {
+        "air_date": "1995-04-26",
+        "episode_number": 7,
+        "id": 2188823,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dc5PnvnJFQ8n24UKp17OFuesFfB.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tekkaman Blade II",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "宇宙の騎士テッカマンブレード II",
+    "overview": "Ten years have passed since the end of Tekkaman Blade, and a new generation of Tekkaman must confront a powerful new enemy while rebuilding their forces. The main character this time is Yumi Francois, a young and bumbling mechanic who proves the unlikely third candidate for the elite Tekkaman fighting trio. Thrust into battle with very little training, she must earn the trust and confidence of her teammates if she is to succeed and survive.",
+    "popularity": 2.346,
+    "poster_path": "/zqryz2UWzwIbz8LKQINx01gjJAo.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-07-21",
+            "episode_count": 7,
+            "id": 99654,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

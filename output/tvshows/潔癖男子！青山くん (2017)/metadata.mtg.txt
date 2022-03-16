@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/bmZVQJDprVZ98CF2VKchuxJWYqi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://kda-anime.com/",
+    "id": 72507,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-17",
+    "last_episode_to_air": {
+        "air_date": "2017-09-17",
+        "episode_number": 12,
+        "id": 1339639,
+        "name": "The Reason Behind Aoyama-kun`s Choice",
+        "overview": "Today is the match against the high-ranking Kuraishi High School. In order to break through their ironclad defense, Zaizen's performance as the forward need to be stellar! However, he is the one whose head doesn't seem to be quite in the game. The reason being that Aoyama-kun is being actively scouted for the U16 team! On top of that, today is supposedly the day an important family member passed away. Aoyama-kun might quit the club! This might be the last match Fujimi High School's soccer club plays with this team!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/i1mmsY2YpjuAhpHotTqudevBeTI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Clean Freak! Aoyama-kun",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "潔癖男子！青山くん",
+    "overview": "He is charming, cool, athletic, a good cook, but more importantly, he's a clean freak. Aoyama is idolized and respected by everyone, but they can only admire him from afar due to his mysophobia. Despite that, he plays soccer—a rather dirty sport!\n\nAs the playmaker for Fujimi High School's soccer club, Aoyama avoids physical contact at all cost and cleanly dribbles toward victory. However, the path to Nationals will not be easy for Fujimi's underdog team. But alongside striker Kaoru Zaizen, Aoyama will show everyone that even as a clean freak, there are things he's willing to get dirty for.",
+    "popularity": 8.928,
+    "poster_path": "/dN6aCJdkJHk5Sj81befvlGQcDVP.jpg",
+    "production_companies": [
+        {
+            "id": 78802,
+            "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+            "name": "Studio Hibari",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-02",
+            "episode_count": 12,
+            "id": 89811,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yW0SjXn5itPcN8AhNmDvNyNrvrZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 8
+}

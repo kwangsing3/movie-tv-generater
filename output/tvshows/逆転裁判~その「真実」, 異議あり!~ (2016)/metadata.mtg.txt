@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/plQXVdg0JUlYmttW35k4WaYsAhy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.ytv.co.jp/animegyakuten/",
+    "id": 66103,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-30",
+    "last_episode_to_air": {
+        "air_date": "2019-03-30",
+        "episode_number": 23,
+        "id": 1746784,
+        "name": "Bridge to the Turnabout - Last Trial",
+        "overview": "Noticing that Maya was able to identify the true culprit in the dark, Phoenix deduces that the killer is Godot, whose red visor not only glows in the dark but also leaves him unable to see anything red, including the bloody message incriminating Maya.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/kfu7RsEelWDJYEOGq9iUZuL0QBg.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ace Attorney",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 47,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "逆転裁判~その「真実」, 異議あり!~",
+    "overview": "A rookie lawyer Ryuuichi Naruhodou stands up to save his defendants by proving their innocence from unusual cases! Is the defendant guilty or innocent...? Believing his client's innocence Naruhodou stands in court and battles his rival judges. With the word of \"OBJECTION!\" and limited evidence, Naruhodou makes a comeback when all odds are against him and seems like there is nothing more he can do. Don't miss out on the comical episodes between him and his mentor Chihiro Ayasato, assistant Mayoi Ayasato, rival prosecutor Reiji Mitsurugi, and numerous unique characters! The anime also depicts the childhood relationship between Naruhodou and his friends. With the skills inherited from his mentor Naruho reveals the truth!",
+    "popularity": 22.882,
+    "poster_path": "/5iqzzrL2cBVk7km4xjSnm2m8erl.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 121589,
+            "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+            "name": "CloverWorks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 205311,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-02",
+            "episode_count": 24,
+            "id": 75981,
+            "name": "Season 1",
+            "overview": "Ace Attorney's anime adaptation from the first 2 video game in the franchise, Phoenix Wright: Ace Attorney and Justice for All, though the case \"Rise from the Ashes\" from the first game is omitted from adaptation.",
+            "poster_path": "/eDIj87i4OQbiOShSUhWENYgYTer.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-10-06",
+            "episode_count": 23,
+            "id": 110397,
+            "name": "Season 2",
+            "overview": "A second season adapts the 3rd game in franchise, Trials and Tribulations, as well as \"Lost Turnabout\", the only case from the second game that was not adapted in the first season.",
+            "poster_path": "/gQ0f4BqlzUZbimVXRok3s37GPGD.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 17
+}

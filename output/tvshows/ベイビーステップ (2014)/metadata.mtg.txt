@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/7XH3NOKskuhOFPuP10Zq0ydHmro.jpg",
+    "created_by": [
+        {
+            "id": 116065,
+            "credit_id": "5388a8170e0a261456006668",
+            "name": "Masahiko Murata",
+            "gender": 2,
+            "profile_path": "/6v7riYc5EeRVWdtmwBHJdST6F3z.jpg"
+        },
+        {
+            "id": 117604,
+            "credit_id": "5d662b5c58361b001321d956",
+            "name": "Katsuhiko Chiba",
+            "gender": 2,
+            "profile_path": "/RjY9OmpedqIlBnhsY9w4ZxaUgR.jpg"
+        },
+        {
+            "id": 2397810,
+            "credit_id": "5d662b4c58361b001221db52",
+            "name": "Hikaru Katsuki",
+            "gender": 1,
+            "profile_path": "/87LcbMHbKSdhRglHumXq1ZxjkbO.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2014-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www9.nhk.or.jp/anime/babysteps/",
+    "id": 60844,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-20",
+    "last_episode_to_air": {
+        "air_date": "2015-09-20",
+        "episode_number": 25,
+        "id": 1561676,
+        "name": "Final Set",
+        "overview": "The game finally reaches its final stage. Eiichiro who desperately envisions a vision to win Nambae and is ready for a new strategy with the intention of losing.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/l6BTsUQQQi33Z5cwTNX7tfLK2HX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Baby Steps",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK Educational TV",
+            "id": 622,
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ベイビーステップ",
+    "overview": "Eiichirō Maruo (nicknamed \"Ei-chan\" for his grades being straight \"A\") is an honor student, bookworm, and is not interested in anything other than studying. In order to solve his problem of lacking physical strength, he enrolled a tennis school and soon found the fascinating side of tennis. Being a tennis newbie lacking physical strength, he supplement his shortcomings with his excellent observing and analyzing skills.",
+    "popularity": 16.809,
+    "poster_path": "/dVXgyHizeUbL1RdyKd58WjVGrNv.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-06",
+            "episode_count": 25,
+            "id": 60878,
+            "name": "Season 1",
+            "overview": "Eiichiro (15 years old), a high school student who was only interested in studying, wakes up to the depths of tennis at a tennis school he participated to resolve lack of exercise. Eiichiro, who was a complete amateur, made up for the physical disadvantages with his own observation and analysis skills and thorough wearing ball control.  At the beginning, junior tennis players who weren't dealing with Eiichiro were inspired by his dedicated attitude and gradually changed their consciousness.  A realistic sports anime that is a brain-smart character who aims to become a professional with a data-based strategy.",
+            "poster_path": "/fJQlz57BDTeBxMM0wmQMuqTijRg.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2015-04-05",
+            "episode_count": 25,
+            "id": 97701,
+            "name": "Season 2",
+            "overview": "The stage of the second series is the Florida Tennis Academy.  There, rivals aiming for the top of the world competed every day to raise the world rank even one.  How will Eiichiro overcome the world barrier by studying abroad for the first time in his life ...  A hot and realistic story of the boys, depicting the behind-the-scenes behind-the-scenes tennis scene in an easy-to-understand manner.",
+            "poster_path": "/rdrOAwwmc0P2NizWchE4ucJgptN.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 7
+}

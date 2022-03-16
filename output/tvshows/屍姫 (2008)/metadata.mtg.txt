@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/drjMOPLtrsYfQjfK1dKUl5UQA6A.jpg",
+    "created_by": [
+        {
+            "id": 1704797,
+            "credit_id": "581eb100c3a36806ef014129",
+            "name": "Yoshiichi Akahito",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-10-02",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://king-cr.jp/special/shikabanehime/",
+    "id": 31721,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-03-26",
+    "last_episode_to_air": {
+        "air_date": "2009-03-26",
+        "episode_number": 12,
+        "id": 959599,
+        "name": "Beyond the Dead",
+        "overview": "As the battle between Hokuto and Makina Continues it is revealed that Corpse Princess’ Choose to Bond with their Monks and all the Princess’ regain their power. Another of The Seven Stars is defeated and one gives up. The last Seven Stars escapes with Hokuto. Makina and Ouri decide to make a final decision on their Future.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/eOgECydAiszfUQe4c1ZqVo3OShq.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Corpse Princess",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "屍姫",
+    "overview": "Makina Hoshino is already dead, but she can’t let go of this twisted world. She burned to death along with her entire family in a fire started by freaks that wouldn’t stay buried. Makina knows she doesn’t belong among the living, but that won’t stop her from unleashing the full fury of her twin MAC-11 machine guns on the rotting remains of those who refuse to die. She’s hell-bent on filling every empty grave she can find with the monsters that should be six feet under. Makina is a Shikabane Hime — a Corpse Princess — and it’s her job to finish off the undead leftovers haunting the dark corners of a city that used to be safe.",
+    "popularity": 21.463,
+    "poster_path": "/zbYRzhmQm4LyJiPF4hlH3B4iy2E.jpg",
+    "production_companies": [
+        {
+            "id": 83094,
+            "logo_path": null,
+            "name": "Shikabane-hime Production Committee",
+            "origin_country": ""
+        },
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17315,
+            "logo_path": "/8QPhCeRCNVa3jYCtDvThTlAGYSL.png",
+            "name": "feel.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2009-08-05",
+            "episode_count": 2,
+            "id": 43224,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-10-02",
+            "episode_count": 13,
+            "id": 43222,
+            "name": "Aka",
+            "overview": "",
+            "poster_path": "/kG82oQpRNsT2QPeG0NS3OOnBePI.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2009-01-01",
+            "episode_count": 12,
+            "id": 43223,
+            "name": "Kuro",
+            "overview": "",
+            "poster_path": "/44ayBzpIVPVpwRnD3pf5YgsG1C6.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 10
+}

@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/g75sIFKgkqog0XtsdHtuMwCnFAM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2016-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://aooni-anime.com/tv/",
+    "id": 68137,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-01-09",
+    "last_episode_to_air": {
+        "air_date": "2017-01-09",
+        "episode_number": 13,
+        "id": 1400443,
+        "name": "Trapped for 70 Years",
+        "overview": "Except for the monster, life in the mansion is pretty sweet. Using the knowledge gained from the library, the four friends become completely self-sufficient. There’s even a TV in the living room. Eventually, they get quite used to their life and begin thinking they don’t need to escape after all. And in the blink of an eye, 70 years pass...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ctcm3jaVLy2hWPbUGAmxHTBQ6UT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ao Oni The Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あおおに ～じ・あにめぇしょん～",
+    "overview": "In most ordinary high schools, many stories and rumors float around—some scandalous, some happy and some...more macabre. One such example is of monsters lurking in an abandoned mansion outside of town. Such tales, however, prove too tempting to resist for Hiroshi and his friends Mika, Takeshi, and Takurou. They decide to brave the rumored dangers in order to investigate the manor and complete a test of courage. Each of them approaches the mansion with an overwhelming sense of dread. And when they enter, they come upon a blue monster named Ao Oni who attacks them.\n\nAs Hiroshi and his friends try to solve the various puzzles in the mansion and escape their new blue nemesis, they find themselves meeting several horrible endings as they fail miserably.",
+    "popularity": 11.625,
+    "poster_path": "/cKuDLJ1mHXn1ZFHPwAvYxO0h9Az.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-03",
+            "episode_count": 13,
+            "id": 80812,
+            "name": "Season 1",
+            "overview": "Based on the horror game Ao Oni by noprops.\n\nOn the outskirts of town stands an abandoned house where ghosts are rumored to appear. Hiroshi and his classmates Takurou, Takeshi, and Mika pay the house a visit, only to be attacked by a bizarre monster, the Blue Devil. Will Hiroshi and his friends succeed in answering riddles and escaping the house, or are they doomed to live hilarious lives forever with the Blue Devil in the haunted house?! The courage-testing life of these four friends begins with the Blue Devil who continues to entertain even after death.",
+            "poster_path": "/gdKe7Egvi62RtJFG25jS5qdl6on.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.5,
+    "vote_count": 4
+}

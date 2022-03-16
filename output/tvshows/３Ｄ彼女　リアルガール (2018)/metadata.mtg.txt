@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/jwAUfgwFEzMYUh3lUht8VBB1SU7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.3dkanojo-anime.com/",
+    "id": 77721,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-27",
+    "last_episode_to_air": {
+        "air_date": "2019-03-27",
+        "episode_number": 12,
+        "id": 1659600,
+        "name": "Regarding Her Future and Mine.",
+        "overview": "No matter what happens to your memory, they say the heart never forgets.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/vAr97gcMQreQkZBwRfCDaEp2NkR.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Real Girl",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "３Ｄ彼女　リアルガール",
+    "overview": "Tsutsui Hikari (a.k.a \"Tsuttsun\") is a high school student who is content with his virtual life of anime and video games. One day, he gets stuck cleaning the pool with Iroha, a real live girl who is stylish, sassy and known to be easy with boys ... and she aggressively approaches him! Tsuttsun, who has few friends and lives in his own world, finds himself smitten by the confident and wild Iroha ... and his whole world is turned upside down!! It's the awkward and pure love story of a boy who experiences relationship for the first time.",
+    "popularity": 32.127,
+    "poster_path": "/3UmNynM1YXkYylyontGXPHncjOC.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-04",
+            "episode_count": 12,
+            "id": 100380,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oRAIB862ssqc9Gk3T9QayyTG3I4.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-01-09",
+            "episode_count": 12,
+            "id": 110808,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/5Ob5TisReZW2WQwAXsC4j6DxiHO.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 371
+}

@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/A3P3J2oeo7iHtUlpFgKGFP4Ndhl.jpg",
+    "created_by": [
+        {
+            "id": 570259,
+            "credit_id": "60ab4a2d5be00e0027ace45f",
+            "name": "Itsuro Kawasaki",
+            "gender": 2,
+            "profile_path": "/xJmtsKNL4QhelmEif9Jn0yBLWQj.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2006-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 45280,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-03-29",
+    "last_episode_to_air": {
+        "air_date": "2007-03-29",
+        "episode_number": 24,
+        "id": 900474,
+        "name": "The Goddess` Blessing to Mamoru-kun!",
+        "overview": "Ayako-san and Mamoru-kun destroy the Beatrice and the School holds a funeral for them but something appears to be amiss. Then it later reveals that they were running tests on them after the last battle. Also some members seem to be graduating, but what will be the outcome of this glorious reunion?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/wOqUPOCHDqZPGktCsS6fo7nfAst.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Venus to Mamoru!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "護くんに女神の祝福を!",
+    "overview": "Mamoru has a far-from-normal high school life with girlfriend Ayako, who possess magical powers.",
+    "popularity": 6.324,
+    "poster_path": "/za4gmi6hrS6TLGmw0jJfulcgfIZ.jpg",
+    "production_companies": [
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-10-05",
+            "episode_count": 24,
+            "id": 53916,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kg7JmXCR9DQ67hGcT0pmC5q4hSD.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

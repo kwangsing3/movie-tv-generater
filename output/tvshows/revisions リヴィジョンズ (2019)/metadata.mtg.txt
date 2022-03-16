@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/fL0G2bLpFnRLigzxlKTWUqaqpbi.jpg",
+    "created_by": [
+        {
+            "id": 90502,
+            "credit_id": "5bc29a0892514179ae03c5df",
+            "name": "Goro Taniguchi",
+            "gender": 2,
+            "profile_path": "/jaWKoFPi2uft5nbmMjSKtaH4uPE.jpg"
+        },
+        {
+            "id": 1403483,
+            "credit_id": "5bc29a0fc3a3682d4b040513",
+            "name": "Makoto Fukami",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1785145,
+            "credit_id": "5bc29a160e0a266e5d03d698",
+            "name": "Taichi Hashimoto",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://revisions.jp",
+    "id": 83105,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-19",
+    "last_episode_to_air": {
+        "air_date": "2019-03-19",
+        "episode_number": 12,
+        "id": 1659645,
+        "name": "revert",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/u9VPQ8imEiKARychy9nqzHXlVE5.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "revisions",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "revisions リヴィジョンズ",
+    "overview": "An isolated city. An unknown enemy. An uncertain past and a prophecy of the future. The children fight the \"future\" to bring back the \"present\". No matter what, they're going home...",
+    "popularity": 10.477,
+    "poster_path": "/h3UAL7EqEXDTfvCFQfbAyujw2Vd.jpg",
+    "production_companies": [
+        {
+            "id": 11327,
+            "logo_path": "/gJM4ZwaQEKz9zsus8MNGWbm4maV.png",
+            "name": "Shirogumi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-09",
+            "episode_count": 12,
+            "id": 110824,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gg7djQDUu118Mf2K1sC0IDxay8V.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 16
+}

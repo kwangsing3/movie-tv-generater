@@ -1,0 +1,162 @@
+{
+    "adult": false,
+    "backdrop_path": "/lE501tGuJt5rgPsbdYxmbh3vGWx.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 91426,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-04-07",
+    "last_episode_to_air": {
+        "air_date": "2012-04-07",
+        "episode_number": 1,
+        "id": 3062801,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 4,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Jewelpet",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 351,
+    "number_of_seasons": 7,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ジュエルペット",
+    "overview": "",
+    "popularity": 7.231,
+    "poster_path": "/5ZJ6dasaXiS5ry9qp0zvjUS2Xiu.jpg",
+    "production_companies": [
+        {
+            "id": 69265,
+            "logo_path": null,
+            "name": "Studio Comet",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-07-22",
+            "episode_count": 1,
+            "id": 179433,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-04-05",
+            "episode_count": 52,
+            "id": 128206,
+            "name": "Jewelpet",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2010-04-03",
+            "episode_count": 52,
+            "id": 179425,
+            "name": "Jewelpet Tinkle",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        },
+        {
+            "air_date": "2011-04-09",
+            "episode_count": 52,
+            "id": 179426,
+            "name": "Jewelpet Sunshine",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3
+        },
+        {
+            "air_date": "2012-04-07",
+            "episode_count": 52,
+            "id": 179427,
+            "name": "Jewelpet Kira Deco!",
+            "overview": "",
+            "poster_path": "/cCzjS3LbvUHzOBhUudpe5tgxhOe.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": null,
+            "episode_count": 52,
+            "id": 179428,
+            "name": "Jewelpet Happiness",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 5
+        },
+        {
+            "air_date": null,
+            "episode_count": 52,
+            "id": 179429,
+            "name": "Lady Jewelpet",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 6
+        },
+        {
+            "air_date": null,
+            "episode_count": 39,
+            "id": 179430,
+            "name": "Season 7",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 7
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

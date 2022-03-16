@@ -1,0 +1,139 @@
+{
+    "adult": false,
+    "backdrop_path": "/fsnHf3qC4SJAMaYolZqmqvRaVw3.jpg",
+    "created_by": [
+        {
+            "id": 2079890,
+            "credit_id": "5ff7512afcec2e003f11fddd",
+            "name": "Shimizu Akane",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://saibou-black.com",
+    "id": 101873,
+    "in_production": false,
+    "languages": [
+        "ga",
+        "ja"
+    ],
+    "last_air_date": "2021-03-21",
+    "last_episode_to_air": {
+        "air_date": "2021-03-21",
+        "episode_number": 13,
+        "id": 2668393,
+        "name": "Cardiac Arrest, Revival, and a Change",
+        "overview": "Bodily functions are coming to a halt. In this dire situation, all the cells are on the verge of losing hope, but only Red Blood Cell (AA2153) hasn't given up. Are they making us work hard because the body is unhealthy? Do we stop working because the body is going to die? After experiencing various diseases and losing his friend, the answer that Red Blood Cell (AA2153) and the other cells find is...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/121hjtd7qFMB9QjEz81tlAypsgI.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Cells at Work! Code Black",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はたらく細胞BLACK",
+    "overview": "Alcohol, smoking, and stress—in the body subjected to these irritants, the cells responsible for maintaining life seem to fight a war that never ends. Due to a severe shortage of workers, Red Blood Cell AA2153 has to quickly learn to deliver oxygen and collect carbon dioxide, even in dangerous conditions. Meanwhile, White Blood Cell U-1196 has to do her part by dealing with germs and viruses during life-threatening situations. In the midst of these crises, they have to work together to keep the body healthy, despite not knowing if their sacrifices will be worthwhile. Cells at Work! Code Black takes a different approach by showing the grittier side of the jobs our cells perform.",
+    "popularity": 18.675,
+    "poster_path": "/eJW7W8QhHamxbwOP4laXY8s7GdI.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-10",
+            "episode_count": 13,
+            "id": 147835,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ehz2kV5YxoIbfD9WQnP5pkSkKUv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Irish",
+            "iso_639_1": "ga",
+            "name": "Gaeilge"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 61
+}

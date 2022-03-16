@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/9bbxqz1iPEfZN9Xi2ZjJhkp5JRo.jpg",
+    "belongs_to_collection": {
+        "id": 620873,
+        "name": "Dragon Ball Super Collection",
+        "poster_path": "/uKEwXSn9uGqbsArjlMNoe0LKXVi.jpg",
+        "backdrop_path": "/hBzDzjMesdB3SoxFaSjGK3rFRVG.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 610150,
+    "imdb_id": "tt14428864",
+    "original_language": "ja",
+    "original_title": "ドラゴンボール超：スーパーヒーロー",
+    "overview": "The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.",
+    "popularity": 168.79,
+    "poster_path": "/wFYXVMKWLAoazjWTBNQ4IiQSKJg.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12502,
+            "logo_path": "/aDcFy26DtVbyZIFOZNTLsooWH5X.png",
+            "name": "Bandai Namco Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 24051,
+            "logo_path": null,
+            "name": "Bird Studios",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-04-22",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Dragon Ball Super: Super Hero",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

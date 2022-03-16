@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-02-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 44750,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-09-26",
+    "last_episode_to_air": {
+        "air_date": "2007-09-26",
+        "episode_number": 13,
+        "id": 1426858,
+        "name": "Jam",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Buzzer Beater",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブザービーター",
+    "overview": "",
+    "popularity": 5.076,
+    "poster_path": "/4wbsNRmV3xOohbNyq0UwLZg9AKM.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-02-05",
+            "episode_count": 13,
+            "id": 53612,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6e3PyWwXM7KzRiYEqcfXCck64oi.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2007-07-04",
+            "episode_count": 13,
+            "id": 98719,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/vwp68WmJaqNzXasWDZ9BCZxiDIY.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

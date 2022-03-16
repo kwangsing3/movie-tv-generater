@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/b8zaKb4d59vMjUWL7NdezgOsxQs.jpg",
+    "created_by": [
+        {
+            "id": 78014,
+            "credit_id": "5258db65760ee34661749bed",
+            "name": "Leiji Matsumoto",
+            "gender": 2,
+            "profile_path": "/muSDczQxWUkLQQuwVvLO8fSdshM.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1981-04-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 34839,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1982-03-25",
+    "last_episode_to_air": {
+        "air_date": "1982-03-25",
+        "episode_number": 42,
+        "id": 793393,
+        "name": "Legend of Queen Millennia",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Queen Millennia",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 42,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "新竹取物語 1000年女王",
+    "overview": "Queen Millennia is a manga series by Leiji Matsumoto which was serialized from 28 January 1980 through 11 May 1983 in both the Sankei Shimbun and Nishinippon Sports newspapers. The manga series was adapted into a 42-episode anime TV series by Toei Dōga and broadcast on the Fuji TV network from 16 April 1981 through 25 March 1982. An anime film was released on 13 March 1982 shortly before the TV series ended.\n\nThe anime series was combined by Harmony Gold and Carl Macek with episodes from the 1978 Matsumoto series, Space Pirate Captain Harlock, and shown from 1985 to 1986 in the United States as the 65-episode Captain Harlock and the Queen of a Thousand Years. The series was broadcast in Germany on Tele 5 during 1992 and on Mangas in France in 2004.",
+    "popularity": 24.746,
+    "poster_path": "/wwLtwQaMu6jRnKcTlFzeO11nHtg.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-03-02",
+            "episode_count": 1,
+            "id": 45634,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/2jR1dBg8n7b0aCpsgBia3EcVJMa.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1981-04-16",
+            "episode_count": 42,
+            "id": 45633,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7FjC0UDYjlALHa7aql9brmOXO5f.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 26
+}

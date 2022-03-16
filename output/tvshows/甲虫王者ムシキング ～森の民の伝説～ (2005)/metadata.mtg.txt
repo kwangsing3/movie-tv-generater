@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/qGfJtYZyyjogTKm8MPC88QYlcl9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2005-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/mushiking/",
+    "id": 29153,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-29",
+    "last_episode_to_air": {
+        "air_date": "2006-03-29",
+        "episode_number": 52,
+        "id": 720579,
+        "name": "The Legend Of The Forest People",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mushiking: The Guardians of the Forest",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "甲虫王者ムシキング ～森の民の伝説～",
+    "overview": "Popo, and his family were harmoniously living with the insects in the forest until one day when his father left him and gave him a mysterious pendant with magical powers. Now, with mysterious events happened to his mother, he must travel with his newly found companions to the forest to solve the mysteries bound in the east.",
+    "popularity": 4.897,
+    "poster_path": "/wDpjSro9lonXK1HeKPwWTtZ0LJs.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-04-06",
+            "episode_count": 52,
+            "id": 40431,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iE4rsPgvtLrRKjKxSztyKR7gFME.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Guard the Forest! Save your mother! And Fight with your fathers spirit!",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

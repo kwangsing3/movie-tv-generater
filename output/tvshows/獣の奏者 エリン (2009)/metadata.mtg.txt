@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/lU6SfQcJNSdqMzDDUwW6TwOp8hp.jpg",
+    "created_by": [
+        {
+            "id": 1250035,
+            "credit_id": "569f7946925141370b001ee7",
+            "name": "Takayuki Hamana",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www3.nhk.or.jp/anime/erin/",
+    "id": 54923,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-12-26",
+    "last_episode_to_air": {
+        "air_date": "2009-12-26",
+        "episode_number": 50,
+        "id": 927235,
+        "name": "Beast Player",
+        "overview": "Erin flies Lilan into the battlefield and successfully destroys the Touda army Dahmiyah made. She manages to have Lilan stop attacking the Touda and has Shunan ride Lilan to escape. However, all does not end well, as Erin is suddenly attacked by a barrage of arrows. As Lilan flies under Erin's orders, Erin lays in the sea of arrows. Shunan gets to where Seimiyah is, but is worried for his life's savior, as the Touda who were forced unconscious reawaken and go after Erin. As Seimiyah cries for someone to save Erin, Lilan hears this and decides to go back. Lilan saves Erin from the Touda by safely grabbing her in her mouth. This surprises Erin, who once feared Lilan's fangs. Lilan flies through the sky, shining silver, and everyone watches in awe. As Seimiyah and Shunan agree to join their countries through marriage, Dahmiyah breaks free from Ia-lu's grip and grabs Erin's knife. He lunges it at Seimiyah and Shunan, only to be killed by Ia-lu.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kcIma30Q3V02TsYVGQZEnmpXOKT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Beast Player Erin",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK BS1",
+            "id": 219,
+            "logo_path": "/8fr5rRhr3avyMYDDl4b3ePardYc.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "獣の奏者 エリン",
+    "overview": "In the war against neighboring countries, the Grand Duke’s warriors use dragon-like beasts called Touda as weapons. Touda are admired across the nation and villages take great pride in breeding them. Erin lives in one such village with her mother, Soyon, who is the best beastinarian in the country. However, life in the village is not so straightforward: Soyon is also an Ariyo, a woman of the Mist People - a race that is feared by humans for its mystical abilities. So that she and Erin can stay in the village, Soyon must flawlessly fulfill her duty capturing and disciplining the Touda; but while Erin wants nothing more than to become a beastinarian, she also feels sorry for the Touda and recognizes that there’s far more to them than meets the eye. Can Erin ever become an ordinary beastinarian when her deepest instincts tell her there is a better way to interact with the Touda?",
+    "popularity": 9.691,
+    "poster_path": "/jBKVXUvUBRSK5t1GlvN4AjfjPTx.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-01-09",
+            "episode_count": 10,
+            "id": 174773,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-01-10",
+            "episode_count": 50,
+            "id": 56736,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1inWMjyeff692MbNGjcW0UFOot1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2
+}

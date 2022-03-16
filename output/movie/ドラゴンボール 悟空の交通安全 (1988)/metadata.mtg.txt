@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/rD0CyENQ1vvltt4FqLKVRAsVuRi.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 273653,
+    "imdb_id": "tt1297445",
+    "original_language": "ja",
+    "original_title": "ドラゴンボール 悟空の交通安全",
+    "overview": "An educational film featuring characters from \"Dragon Ball\". Roshi and Krillin are on their way to Bulma's birthday party, and they see a boy run into the street, nearly getting run over. Launch, as a traffic officer, teaches him about traffic safety. Meanwhile, Goku, who is also on his way to Bulma's party, gets a traffic lesson of his own from Suno after running through traffic to see her.",
+    "popularity": 22.637,
+    "poster_path": "/jdC25p16rWKKPRQtCAq3UWrXeLD.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1988-06-01",
+    "revenue": 0,
+    "runtime": 15,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dragon Ball: Goku's Traffic Safety",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 34
+}

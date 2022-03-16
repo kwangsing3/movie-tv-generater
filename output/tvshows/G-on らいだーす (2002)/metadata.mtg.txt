@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2002-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 34764,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-10-01",
+    "last_episode_to_air": {
+        "air_date": "2002-10-01",
+        "episode_number": 13,
+        "id": 791728,
+        "name": "Uneven Strawberries",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "G-On Riders",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 14,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "G-on らいだーす",
+    "overview": "At Saint Hoshikawa School there is a clandestine group called the G-On Riders. Students with superior strength and ability are chosen to be in the group, which was formed to fight against alien attacks on Earth.",
+    "popularity": 2.64,
+    "poster_path": "/yPjBcUf6RFUCyZkiOy097gtZ1ru.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2002-07-02",
+            "episode_count": 14,
+            "id": 45539,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

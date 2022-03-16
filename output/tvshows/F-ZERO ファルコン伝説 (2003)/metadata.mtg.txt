@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/yGq0cawKci9MuVTI6rjXj66dWc1.jpg",
+    "created_by": [
+        {
+            "id": 1275812,
+            "credit_id": "5d487aa62d1e403b44c5c40e",
+            "name": "Shigeru Miyamoto",
+            "gender": 2,
+            "profile_path": "/kQ5pDmiPCf0muBmvHOrBXa2icYu.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/f-zero/",
+    "id": 25408,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-09-28",
+    "last_episode_to_air": {
+        "air_date": "2004-09-28",
+        "episode_number": 51,
+        "id": 656333,
+        "name": "The Legend of Falcon!!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "F-Zero: GP Legend",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "F-ZERO ファルコン伝説",
+    "overview": "Rick Wheeler was a police detective who got into a fatal car accident while pursuing the criminal Zoda. He was placed into artificial coldsleep for 150 years. Wheeler is brought back to life by Jody Summer and Dr. Stewart, who work with a group of good racers who try to keep prize money out of the hands of unsavory people like the Dark Million Organization run by Black Shadow and Deathborn.",
+    "popularity": 4.304,
+    "poster_path": "/KpSzQXImvUwNUN9rxubgIkrOQZ.jpg",
+    "production_companies": [
+        {
+            "id": 108661,
+            "logo_path": null,
+            "name": "Studio Jack",
+            "origin_country": "JP"
+        },
+        {
+            "id": 39020,
+            "logo_path": null,
+            "name": "production reed",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-10-07",
+            "episode_count": 51,
+            "id": 35783,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/blBGChXrpVLohKBv3qqcqwVlPZV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

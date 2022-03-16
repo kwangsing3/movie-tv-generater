@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/yeN44FKUaQJ9EZcAakiw32gp7LN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://uqholder.jp/",
+    "id": 74189,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-19",
+    "last_episode_to_air": {
+        "air_date": "2017-12-19",
+        "episode_number": 12,
+        "id": 1407316,
+        "name": "Adeat! Everlasting Love",
+        "overview": "The time has come for Touta to make his ever lasting decision but will it be the right choice?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cXR8MkqvpTozu0vW1U2ixnggHHv.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "UQ Holder!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "UQ HOLDER!～魔法先生ネギま！",
+    "overview": "In the decade since the world became aware of the existence of magic, the world has undergone massive upheaval. However, a boy named Tōta lives in seclusion in a rural town far removed from these changes. His ordinary life is highlighted by his magic-using female teacher and his supportive friends.",
+    "popularity": 21.829,
+    "poster_path": "/7oUjy6CIwjiPCHtjKWH7vw1k9xN.jpg",
+    "production_companies": [
+        {
+            "id": 95809,
+            "logo_path": "/5ac8LhghlxYKbPSwbXJkgrNfjGF.png",
+            "name": "EGG FIRM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 41861,
+            "logo_path": "/iQ9Av0fDGKDUInp4I5czxhz5fVj.png",
+            "name": "GYAO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104184,
+            "logo_path": null,
+            "name": "Lawson Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-09-08",
+            "episode_count": 3,
+            "id": 174797,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/stCftwdOhZKEZLQDUu9CyUPbAib.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-10-03",
+            "episode_count": 12,
+            "id": 93496,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wTGlzo9rXIEpGSQqMxOFLcE5tFU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 16
+}

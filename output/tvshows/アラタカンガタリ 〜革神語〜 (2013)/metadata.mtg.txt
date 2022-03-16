@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/uRNHT5rkYk4n6mIVcnwdzYGkm51.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://arata-anime.com",
+    "id": 50093,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-07-01",
+    "last_episode_to_air": {
+        "air_date": "2013-07-01",
+        "episode_number": 12,
+        "id": 918397,
+        "name": "The Light of Creation",
+        "overview": "Kadowaki shows up yet again in the midst of Arata's battle with Yorunami. He tells Arata that he became a Sho for the sake of \"fighting for submission,\" but Arata disagrees. The beliefs of Arata and Kadowaki, after crossing two worlds, are about to clash.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/pK0e7A2WsFIQGZahIsT1CG8a6nf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Arata: The Legend",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アラタカンガタリ 〜革神語〜",
+    "overview": "Arata Hinohara is a high school boy who is bullied by an old friend from junior high. Arata is a boy born into a ruling clan in a mystical world. Strange circumstances cause the boys to switch places and force both to deal with situations far beyond their understanding.",
+    "popularity": 8.88,
+    "poster_path": "/3Jb35wxSy9zBe5VvoIG8NKJPfnF.jpg",
+    "production_companies": [
+        {
+            "id": 30293,
+            "logo_path": null,
+            "name": "SATELIGHT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-04-09",
+            "episode_count": 12,
+            "id": 55546,
+            "name": "Season 1",
+            "overview": "In Japanese known as \"Arata Kangatari\".  Base on Japanese Manga written by Yuu Watase.",
+            "poster_path": "/chsvqutdsNmxdVVbIxzHY0mst7Z.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/w9EmtEwpiNV347pNMgISvzX1Z1c.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-01-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://riorainbowgate.com/",
+    "id": 38532,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-03-29",
+    "last_episode_to_air": {
+        "air_date": "2011-03-29",
+        "episode_number": 13,
+        "id": 860607,
+        "name": "Rainbow Gate",
+        "overview": "Rina gains a huge advantage over Rio, managing to lead 14-0. However, Rio soon starts to make her comeback, and as the two put their Roll Rulers to the test, the Gates start to glow. With the game tied 14–14, Rio takes Rina and Joker into her Roll Ruler world, where secrets cannot be hidden. Joker reveals her identity as Risa, revealing that she and Rina's father had to leave to protect Rio and Rina from the Casino Guild, who wanted to use them for evil, while Rina is shown her surpressed memories, and her resolve for fighting is shown. Upon returning to the real world, Rio wins due to her Royal Straight Flush and is declared the new MVCD. The Gates then activate to form the Rainbow Gate which Rio enters. However, the casino is attacked by Casino Guild radicals who try to capture Rio, but are stopped by Carlos, who reveals himself to be a member of the ICDG Police, revealing the radicals' intentions to use the MVCD for evil and convincing them to retreat. Meanwhile, Rio's ultimate Roll Ruler spreads good fortune throughout the entire world, giving everyone good luck. As life returns to normal, some mysterious figures appear on the roof of Howard Resort.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yKnqaFYmgU83o0N1DodQ1V3Ya7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rio: Rainbow Gate!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Rio RainbowGate!",
+    "overview": "The \"Howard Resort Hotel\" is an entertainment destination where people gather from around the world to grab huge fortunes. In the casino is a beautiful female dealer named Rio Rollins, known far and wide as the \"Goddess of Victory\".",
+    "popularity": 7.29,
+    "poster_path": "/9Rxk59jFghbB9b1ANrqWeUZAQPs.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-09-21",
+            "episode_count": 1,
+            "id": 50077,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/l6SUhGe5KkrbWoX8VPAefWKxar3.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-01-04",
+            "episode_count": 13,
+            "id": 50076,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wcwqmoc8jmxj3xVDIvt9lpw0gGE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

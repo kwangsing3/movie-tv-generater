@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/2Bh8UopEPHWMZykMzB6OXUUptEn.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://gkids.com/films/fortune-favors-lady-nikuko/",
+    "id": 781816,
+    "imdb_id": "tt13758684",
+    "original_language": "ja",
+    "original_title": "漁港の肉子ちゃん",
+    "overview": "Nikuko is a brash, jolly, scattered, and passionate woman in an otherwise sleepy seaside town in northern Japan. She’s also the single mother of 11-year-old Kikuko, who is her opposite in many ways. Kikuko is a string-bean of a young girl, pensive, quietly curious, and methodical in how she approaches life in this small harbor town.  Nikuko embarrasses Kikuko as any mom of a preteen would, but Nikuko’s bold spirit makes her especially well-known in a town where Kikuko herself wants nothing more than to simply blend in. As Kikuko navigates the everyday social dramas of middle school, enhanced with touches of magical realism from her ever-present imagination, a shocking revelation from the past threatens to uproot the pair’s tender relationship.",
+    "popularity": 3.191,
+    "poster_path": "/ceine994qh3wc5KpQoEp3LAGHOS.jpg",
+    "production_companies": [
+        {
+            "id": 11671,
+            "logo_path": "/iRdYQdn1eunwV3qAs6RK5Mqwn8Z.png",
+            "name": "Studio 4°C",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-06-11",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Fortune Favors Lady Nikuko",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 2
+}

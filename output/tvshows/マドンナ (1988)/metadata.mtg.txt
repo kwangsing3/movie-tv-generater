@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1667786,
+            "credit_id": "6189eeec2f266b0093d1351a",
+            "name": "Ikuko Kujirai",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1988-03-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 138188,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1989-06-23",
+    "last_episode_to_air": {
+        "air_date": "1989-06-23",
+        "episode_number": 2,
+        "id": 3328375,
+        "name": "Love and Youth`s Kick-Off",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Madonna",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マドンナ",
+    "overview": "Mako, a sexy young teacher, comes to Gyunabe high school to enlighten young minds. What she wasn't counting on was a class full of misfits lead by the delinquent Obayashi. If their never ending quest to see her underwear and embarrass her in front of the whole school doesn't force her to quit, then her principal's brilliant idea of making her the new rugby coach will.",
+    "popularity": 1.09,
+    "poster_path": "/h6UvnkQo8VZtcHwRO9nHRHhYQpH.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 82651,
+            "logo_path": null,
+            "name": "Aoni Production",
+            "origin_country": ""
+        },
+        {
+            "id": 11822,
+            "logo_path": null,
+            "name": "Studio Junio",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1988-03-11",
+            "episode_count": 2,
+            "id": 218800,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

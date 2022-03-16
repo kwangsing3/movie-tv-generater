@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/dI1eAHX69mZGwDPmTNsKSUj06St.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2009-10-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 36134,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-12-19",
+    "last_episode_to_air": {
+        "air_date": "2009-12-19",
+        "episode_number": 12,
+        "id": 1215830,
+        "name": "Blacksmith",
+        "overview": "After his humiliation during the conference Siegfried finally snaps and dispatches a horde of demons to destroy the City of Housman. While Cecily and Aria join the Knight Guards in dealing with the demons, Luke decides it is time to settle things with Siegfried. However, even Luke may not be strong enough to stand against Siegfried's Demon Sword of Darkness, at least not without help.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dK5EmzECMBuUIba8XaV4ayypoEM.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "The Sacred Blacksmith",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "聖剣の刀鍛冶（ブラックスミス）",
+    "overview": "This show is based on the light novel series by Isao Miura of the same name. Cecily Campbell is the only child of the famous Campbell family. When her father passes away she joins the prestigious Knight Guards to honour her family's legacy. Soon Cecily encounters a strange young man with a unique sword and an even more unique fighting style. Cecily learns that the man is Luke Ainsworth a blacksmith with a very mysterious past. Soon Cecily and Luke become comrades, of sorts, and together with blacksmith's assistant, Lisa and the Demon Sword of Wind, Aria they embark on many adventures together.",
+    "popularity": 7.753,
+    "poster_path": "/rEKwIEClCuvrF1HjJ5jON5FKRUl.jpg",
+    "production_companies": [
+        {
+            "id": 33347,
+            "logo_path": null,
+            "name": "Manglobe",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2009-10-03",
+            "episode_count": 12,
+            "id": 46991,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/u1FZN5gxDzjI2t9nNHlaqDfAZE3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 7
+}

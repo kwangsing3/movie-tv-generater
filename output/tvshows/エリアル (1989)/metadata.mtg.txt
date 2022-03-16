@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 555172,
+            "credit_id": "6191d0326ca9a00094150bde",
+            "name": "Yuichi Sasamoto",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1989-07-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 125453,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1991-01-21",
+    "last_episode_to_air": {
+        "air_date": "1991-01-21",
+        "episode_number": 2,
+        "id": 2946270,
+        "name": "Great Fall",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ariel",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エリアル",
+    "overview": "To save the Earth from alien invaders and their giant monsters, Dr. Kishida does what any other red-blooded mad scientist would do: he builds a giant robot—the ultimate feminine fighting robot! Unfortunately, his granddaughters refuse to pilot it! Apparently, they've got more important things to do than becoming teenage super-heroes. Besides, how are you supposed to study for your college entrance exams while getting beaten up in battle?\n\nThe fate of the world rests upon two people: Aya Kishida, one of the doctor's granddaughters, who may have to give up prep school to pilot the mighty (and lovely) ARIEL; and a mysterious alien named Saber Starblast, who may have the power to defeat the invaders once and for all...",
+    "popularity": 0.84,
+    "poster_path": "/xzVWfmwTR94f9NbiGFOW4BVMwxb.jpg",
+    "production_companies": [
+        {
+            "id": 13064,
+            "logo_path": null,
+            "name": "Animate Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1989-07-20",
+            "episode_count": 2,
+            "id": 194643,
+            "name": "Ariel",
+            "overview": "The Earth is being invaded by aliens. Fortunately, the aliens are so concerned about budgets and the cost of the invasion that they haven't succeeded yet. To defend the Earth, Dr. Kishida has designed ARIEL, a giant robot shaped in the likeness of a woman with body armor. Unfortunately, he has selected his relatives (his granddaughters Aya and Kazumi Kishida, and his niece Mia Kawai) to be the pilots, and they are far more interested in their own lives.",
+            "poster_path": "/cvAW3GeWYE8DLfGPOBec0hBs1Qj.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1991-04-20",
+            "episode_count": 2,
+            "id": 194644,
+            "name": "Ariel Deluxe",
+            "overview": "Those incompetent aliens are still plotting to conquer the Earth! The only obstacle in their path - the giant, feminine robot Ariel! But the young pilots have lives of their own... When Kazumi receives a mysterious love letter from a secret admirer, should she cancel her first date - just to save the Earth?",
+            "poster_path": "/q1kY9V7qXGhU5dAIn5bThtkDUcz.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

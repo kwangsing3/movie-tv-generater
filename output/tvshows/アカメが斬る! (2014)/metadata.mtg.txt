@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/3XAGgklKkJhv5M9m5NkfhBYb7l8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://akame.tv",
+    "id": 61223,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-12-15",
+    "last_episode_to_air": {
+        "air_date": "2014-12-15",
+        "episode_number": 24,
+        "id": 1026844,
+        "name": "Akame ga Kill!: The Final Battle",
+        "overview": "With the Empire all but defeated, Esdeath still refuses to surrender and challenges Akame to a duel. With all of her attacks deflected, Akame is forced to unleash her Imperial Arm's trump-card by poisoning her own body with it, increasing her abilities and making a comeback to the point of wounding Esdeath's left arm. As a result, Esdeath cuts it off to prevent the poison from spreading through her body. With no time left to act, Akame puts all of her efforts into one final strike, forcing Esdeath to use her own Imperial Arm's trump-card to freeze time, which fails to prevent Akame from dealing her a fatal blow. With her last ounce of strength, Esdeath holds Tatsumi's body and freezes herself with it, which shatters both into pieces. Meanwhile, the prime minister is cornered by Leone and activates his own Imperial Arm to destroy hers, but even after shooting her several times, he fails to stop her from beating him to death. Knowing that her wounds are fatal, Leone bids farewell to Akame and dies alone in an alleyway after visiting her old drinking friends for one last time. The revolution finally ends with the Emperor sentenced to death, and before being executed, he asks Najenda to restore the country in his place. Meanwhile, Wave and Run pay respects to Kurome's grave and swear to help rebuild the nation as well. To soothe the public opinion, Akame accepts the blame for all of the crimes attributed to Night Raid and bids farewell to Najenda, leaving to parts unknown.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3wI49NRQB3P8PvGmvuXjjrhuAAm.jpg",
+        "vote_average": 8.7,
+        "vote_count": 3
+    },
+    "name": "Akame ga Kill!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アカメが斬る!",
+    "overview": "Young Tatsumi travels to the capital of the Empire in order to earn money for his starving people and encounters a world of unimaginable depravity, dominated by the ruthless Prime Minister who controls the child Emperor. Tatsumi is recruited by Night Raid, a group of assassins dedicated to eliminating corruption by mercilessly killing officials and privileged nobles.",
+    "popularity": 102.15,
+    "poster_path": "/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
+    "production_companies": [
+        {
+            "id": 12569,
+            "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+            "name": "White Fox",
+            "origin_country": "JP"
+        },
+        {
+            "id": 92992,
+            "logo_path": null,
+            "name": "C-Station",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-07",
+            "episode_count": 25,
+            "id": 63521,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/eMM9S1dkFQIg4kGjfjCWnFN7UCT.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-07-07",
+            "episode_count": 24,
+            "id": 62360,
+            "name": "Season 1",
+            "overview": "This merry band of assassins' newest member is Tatsumi, a naive boy from a remote village who had embarked on a journey to help his impoverished hometown and was won over by not only Night Raids ideals, but also their eresolve.  Akame ga Kill follows Tatsumi as he fights the Empire and comes face-to-face with powerful weapon, enemy assassins, challenges to his own morals and values and ultimatedly, what it truly means to be an assassin with a cause.",
+            "poster_path": "/qjoaKTiZompxbPubJU6aznzchfO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 682
+}

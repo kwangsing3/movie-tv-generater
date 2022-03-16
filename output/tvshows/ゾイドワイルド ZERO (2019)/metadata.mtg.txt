@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/7cKTQERByqNAH477ulwNEYEbHHD.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2019-10-04",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 103377,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-01-24",
+    "last_episode_to_air": {
+        "air_date": "2020-01-24",
+        "episode_number": 15,
+        "id": 2403816,
+        "name": "Genospino, the Dinosaur of Destruction!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Zoids Wild Zero",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "ゾイドワイルド ZERO",
+    "overview": "In the 21st century planet Earth was rendered inhospitable to life, and people mass-migrated to Planet Zi, the natural home of metallic life forms known as Zoids. Many years later, Zi faces its end. Its inhabitants partake the journey to migrate back to Earth. Attempting to regenerate the Earth to make it hospitable, the migrants come up with a \"Zi-Forming\" scheme. However, the plan fails and Earth is left in its state of turmoil. Overrun by Zoids and blanked by unstable weather phenomena, the migrants are faced with a difficult life. The Empire and Republic settlements attempt to uncover Zoids buried within the Earth to bolster their respective armies. The story picks up following second-generation Earth citizens: Leo Conrad and Buzz Cunningham, who have a chance encounter with a girl Sally Land as she flees the clutches of the Empire.",
+    "popularity": 10.307,
+    "poster_path": "/7KnrXw310PkNOyTh2AEKLxxkNwT.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2019-10-04",
+            "episode_count": 50,
+            "id": 150638,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6KtlDW9Tami0F0OIEykP1XLSRP8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

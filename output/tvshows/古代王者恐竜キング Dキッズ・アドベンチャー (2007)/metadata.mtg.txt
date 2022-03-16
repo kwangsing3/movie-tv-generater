@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/klYsm5j7vqtuZzsNQfv2raI7cYX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2007-02-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 21409,
+    "in_production": false,
+    "languages": [
+        "es",
+        "en",
+        "cn"
+    ],
+    "last_air_date": "2008-08-31",
+    "last_episode_to_air": {
+        "air_date": "2008-08-31",
+        "episode_number": 30,
+        "id": 595502,
+        "name": "Fate of the Cosmos",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dinosaur King",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 79,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "古代王者恐竜キング Dキッズ・アドベンチャー",
+    "overview": "Dinosaur King is a card-based arcade game from Sega that uses the same gameplay mechanics from Mushiking but uses super-powered dinosaurs instead of beetles. The game was revealed in JAMMA 2005 and is available in Japanese and English versions. A Nintendo DS version has also been released in North America.\n\nIn the fall of 2008, Upper Deck Company released a Dinosaur King Trading Card Game. This card game is not to be confused with the cards used for the arcade machines.\n\nThe series has been adapted into an anime TV series, Ancient Ruler Dinosaur King DKidz Adventure, which is made by Sunrise and premiered on TV Asahi on February 4, 2007. As of 2008, an English adaptation aired on the 4Kids TV block on the Fox Network, but moved to The CW's The CW4Kids block on September 6, 2008.\n\nA sequel was announced called \"Ancient Ruler Dinosaur King DKidz Adventure: Pterosaur Legend,\" which debuted February 3, 2008 in Japan.\n\nThe show ended its run in Japan in late 2008.",
+    "popularity": 41.878,
+    "poster_path": "/y6KWd6u4sU6vXMA9b9Gj9M5NvtJ.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 31208,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-02-04",
+            "episode_count": 49,
+            "id": 31206,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3DWN0JdtrQpOWaTcQibiswYSGqz.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-02-03",
+            "episode_count": 30,
+            "id": 31207,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/4mM6aNlTBsvIfnriWuLzCVHJirL.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 322
+}

@@ -1,0 +1,144 @@
+{
+    "adult": false,
+    "backdrop_path": "/ajOyVsKQjHhlPSDrQu8Vr7ITrsW.jpg",
+    "created_by": [
+        {
+            "id": 116681,
+            "credit_id": "5c25ef040e0a263e1b0b6300",
+            "name": "Yosuke Kuroda",
+            "gender": 2,
+            "profile_path": "/svtvrGyKehb5wV0kPJEM7iMz9Zw.jpg"
+        },
+        {
+            "id": 1319859,
+            "credit_id": "5c25eefbc3a36872f5c29365",
+            "name": "Hiraku Kaneko",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-10-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://valkyriedrive.jp/anime/",
+    "id": 66926,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-12-26",
+    "last_episode_to_air": {
+        "air_date": "2015-12-26",
+        "episode_number": 12,
+        "id": 1202708,
+        "name": "Valkyrie Drive",
+        "overview": "Mirei struggles to fight against Momoka as she wields Mamori against her, but is aided by Kasumi, who is finally joined in battle by Hibiki, as well as Lady Lady and Meifeng. However, Momoka uses Mamori's Valkyrie ability to absorb other girls into her arm and become stronger, overwhelming the others in a single shot and absorbing them. Inside the blade, as the captives are attacked by tentacles that draw the Armed Virus out of them, providing Momoka with enough power to even destroy a satellite, Mirei manages to break free and reunite with Mamori, freeing her from Momoka's control and releasing the others. Combining together into a perfect form, the Valkyrie Drive, Mirei and Mamori battle against Momoka as she combines with allies to transform into a giant robot. With support from all of her friends, Mirei manages to defeat Momoka, removing the Armed Virus from her and everyone else. As the residents of Mermaid are finally given the chance to return home to their families, Mirei and Mamori, along with Meifeng and Lady Lady, travel around the world in order to help others carrying with Armed Virus.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sHoheJvaRe21jmuaRIMJcaUkF4a.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Valkyrie Drive: Mermaid",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "VALKYRIE DRIVE -MERMAID-",
+    "overview": "Tokonome Mamori is transferred to Mermaid - an artificial quarantine island for people with superpowers. When Mamori is attacked, a newly transferred girl named Mirei saves her. The enemy doesn't stop, however, and the two are soon cornered. Just when they think all hope is lost, Mirei kisses Mamori, and Mamori turns into a sword. Mirei then wields the sword and launches a counterattack against their enemies.",
+    "popularity": 28.682,
+    "poster_path": "/6hEpqMPUxDcV3ljeCHgJoVY5U2d.jpg",
+    "production_companies": [
+        {
+            "id": 12083,
+            "logo_path": "/jlk2Htq5C5ToDiIoM353xwpWwO6.png",
+            "name": "ARMS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2015-12-18",
+            "episode_count": 6,
+            "id": 169362,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-10-10",
+            "episode_count": 12,
+            "id": 78119,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9SpTENqdTA1ojcwVWvx2s7d3MxR.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 15
+}

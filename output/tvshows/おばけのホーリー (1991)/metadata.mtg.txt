@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 936523,
+            "credit_id": "5f0119a115959f003757d82f",
+            "name": "Minoru Okazaki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        10
+    ],
+    "first_air_date": "1991-01-28",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 35956,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1991-01-28",
+    "last_episode_to_air": {
+        "air_date": "1991-01-28",
+        "episode_number": 1,
+        "id": 2337471,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Holly the Ghost",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK BS1",
+            "id": 219,
+            "logo_path": "/8fr5rRhr3avyMYDDl4b3ePardYc.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おばけのホーリー",
+    "overview": "Holly the Ghost, also known in Japan as The Ghost Holly, is a Japanese anime series directed by Minoru Okazaki. The series first aired in Japan on the NHK network between January 28, 1991 and March 6, 1992, spanning 200 episodes.",
+    "popularity": 0.6,
+    "poster_path": "/p1yssxye5cmLQeYQyT0aHOv4qYw.jpg",
+    "production_companies": [
+        {
+            "id": 11822,
+            "logo_path": null,
+            "name": "Studio Junio",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1991-01-28",
+            "episode_count": 1,
+            "id": 111021,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/p1yssxye5cmLQeYQyT0aHOv4qYw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

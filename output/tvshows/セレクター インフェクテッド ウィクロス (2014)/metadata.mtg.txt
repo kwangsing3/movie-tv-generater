@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/f7OXN4qXVRDYDg7XCzxdSSqvMKi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2014-04-04",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://selector-wixoss.com/",
+    "id": 60816,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-12-20",
+    "last_episode_to_air": {
+        "air_date": "2014-12-20",
+        "episode_number": 12,
+        "id": 1032503,
+        "name": "This Selection...",
+        "overview": "Tama manages to escape her imprisonment and rejoins with Ruko, who combines Tama and Yuki into one LRIG, who is also named Mayu after her true feelings, resuming their match against Mayu and Ulith. Meanwhile, Hitoe and Kazuki enter Mayu's room in the real world, commenting on what a lonely place it is. Mayu laments how she was never given the opportunity to 'select' before she died. Returning to Mayu's not-quite-real room, Mayu gives Ruko one opportunity to guess what color card she chose in order to win the game. Ruko correctly guesses that the card Mayu chose was non-colored, resulting in Ulith being destroyed. Afterwards, Ruko embraces Mayu, allowing her to pass on into the open world. Ruko then changes her wish slightly so that all LRIGS, including those who were LRIGs to begin with, would become girls, completing her contract with the new Mayu. With the Selector battles over, with all girls returned to their original forms, Ruko awaits the day when she can finally meet Tama as a human. It ends with Tama, shown to be a human now, sitting on a rooftop.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/5P9y8p9VwVQogxUg0tkJhE98iQ0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Selector Infected WIXOSS",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "セレクター インフェクテッド ウィクロス",
+    "overview": "WIXOSS is a card game that's popular with teenagers. Supposedly there exist \"LRIG Cards,\" female character cards with wills of their own. Special girls can hear the voices of the LRIGs, and those who possess them are called \"Selectors.\" These Selectors have card battles in a dimension that other humans cannot access. It's said that whoever triumphs in these battles will have their wish granted. Ruko Kominato is the latest girl to find a LRIG card. She names hers Tama, and without any further explanation is thrown into her life as a Selector.",
+    "popularity": 13.613,
+    "poster_path": "/fZ3pPGNts57Ygi2FM7sQb6PUyoM.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-08-27",
+            "episode_count": 4,
+            "id": 103689,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-04-04",
+            "episode_count": 12,
+            "id": 60799,
+            "name": "Selector Infected WIXOSS",
+            "overview": "",
+            "poster_path": "/v1neHOMSriDoFMVN229E2r1TdRh.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-10-04",
+            "episode_count": 12,
+            "id": 64280,
+            "name": "Selector Spread WIXOSS",
+            "overview": "",
+            "poster_path": "/gkYyEI3LBmCd38kha9DEc5Ejwca.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 10
+}

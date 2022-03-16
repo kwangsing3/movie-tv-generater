@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/2K6nmJM2HeZJ51Xc8ZoILw4T77P.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.cerberus-anime.jp/",
+    "id": 66102,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-28",
+    "last_episode_to_air": {
+        "air_date": "2016-06-28",
+        "episode_number": 13,
+        "id": 1212928,
+        "name": "Dragon's Heart",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Seisen Cerberus: Ryuukoku no Fatalités",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "聖戦ケルベロス　竜刻のファタリテ",
+    "overview": "Sword and magic rule in the continent of Kuna'ahn. In this continent are three powerful nations: the Holy Kingdom of Amoria, the Kingdom of Ishilfen, and the Kingdom of Vanrodis, which share a delicate balance of power. Should disaster befall any one of the three nations, war would spread throughout the continent. Also residing there is the feared \"Evil Dragon\" Daganzord, an unstoppable force that leaves nothing but scorched land and destruction wherever he goes. Hiiro's parents, Bairo and Kismitete, joined other sorcerers in a magic ritual ten years ago in an attempt to seal Daganzord, but failed when someone interfered. The ritual would later become known as the \"Balbagoa Tragedy.\" After being rescued by Giruu, young Hiiro set out to learn swordsmanship so that he could avenge his parents.",
+    "popularity": 8.675,
+    "poster_path": "/dXdICmRUcQXt8i4NANplXED1Kdi.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-05",
+            "episode_count": 13,
+            "id": 75980,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2oxJ5rJEKHelzEdBbCPGhU04FgP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 22
+}

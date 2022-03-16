@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/omwXSDI932gI6yzf84ja0XdBbTv.jpg",
+    "created_by": [
+        {
+            "id": 12180,
+            "credit_id": "5aef4cabc3a368141e00634a",
+            "name": "Mamoru Oshii",
+            "gender": 2,
+            "profile_path": "/s3HsXgIjub4JmOLgdJgfUvXUePt.jpg"
+        },
+        {
+            "id": 548373,
+            "credit_id": "5aef4e8b0e0a261d95008445",
+            "name": "Hisayuki Toriumi",
+            "gender": 2,
+            "profile_path": "/ptFK5lVfrcA1Rjsyv6H8o3JvbS7.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1983-12-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 79328,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-07-05",
+    "last_episode_to_air": {
+        "air_date": "1984-07-05",
+        "episode_number": 4,
+        "id": 1483690,
+        "name": "The Sea of Remembrance -ACT.II-",
+        "overview": "With both sides decimated, just what has everything up until now been for? With the future uncertain, all must consider where they stand, and they are fighting for.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mtGHiOQWMXfUoax8WEpafJqmWmr.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Dallos",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ダロス",
+    "overview": "In a near future, mankind has moved from a drained Earth to the Moon. Rebel acts of terrorism lead to conflicts with the Earth Federal Government. A mysterious entity called Dallos appears to restore hope.",
+    "popularity": 2.824,
+    "poster_path": "/sBUIsPAZaZhBRJwLpKDWzoru1rm.jpg",
+    "production_companies": [
+        {
+            "id": 90104,
+            "logo_path": null,
+            "name": "Discotek Media",
+            "origin_country": ""
+        },
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1983-12-21",
+            "episode_count": 4,
+            "id": 103423,
+            "name": "Season 1",
+            "overview": "Shun Nonomura is a young man out of Monopolis, a sprawling miner's colony on the lunar surface. His people mine essentials for Earth. In the late 21st century, Earth's resources are depleted and the planetary government has resorted to authoritarian rule to get what they want. As the put-upon miners start to organize a revolt, they come under attack from Earth's new lunar commander, Alex Rigel. As Shun's idealism and Alex's chilly pragmatism clash, Monopolis is thrown into chaos. The last, best hope for victory lies within a mysterious alien artifact the lunarians worship as a god: Dallos!",
+            "poster_path": "/g5yf3zDfGbUKwlH8PAyEEg9CfbH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2
+}

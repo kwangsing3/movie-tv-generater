@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": "/jy0NeeP0JtTWiMRnKyrS0oAd3Sn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2015-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://osomatsusan.com/",
+    "id": 71785,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-29",
+    "last_episode_to_air": {
+        "air_date": "2021-03-29",
+        "episode_number": 25,
+        "id": 2717124,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/xiOilfqXZsVk7huZ9RzkSpDvwxt.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mr. Osomatsu",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 75,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おそ松さん",
+    "overview": "The adventures of young Osomatsu Matsuno and his five sextuplet brothers.",
+    "popularity": 41.114,
+    "poster_path": "/vEsmh6m9fUhJzGfLxUpliT3vqdh.jpg",
+    "production_companies": [
+        {
+            "id": 97279,
+            "logo_path": null,
+            "name": "Daiichi Shokai CO.",
+            "origin_country": ""
+        },
+        {
+            "id": 51469,
+            "logo_path": null,
+            "name": "Avex Inc.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 31364,
+            "logo_path": null,
+            "name": "Rakuonsha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 55938,
+            "logo_path": null,
+            "name": "avex pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-01-29",
+            "episode_count": 16,
+            "id": 120649,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/x29vdioxn1BKaQH15gRNE1bu0FS.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-10-05",
+            "episode_count": 25,
+            "id": 88492,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oslVaqBaPTVtgQpKGbCS9YTvuUw.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-10-03",
+            "episode_count": 25,
+            "id": 93230,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/yHQmnIiT4Ee1MLtSj4sGAsRMLE.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2020-10-12",
+            "episode_count": 25,
+            "id": 164623,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/AsGxj1kVDczlOtlBMZvqVhBkdAp.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 13
+}

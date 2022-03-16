@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/4VGk0j3xtCpg1E0hdXvW6694TcB.jpg",
+    "created_by": [
+        {
+            "id": 1393044,
+            "credit_id": "5851983b9251416f6301a8ee",
+            "name": "Kazuhiro Yoneda",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2016-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.mouiidesukara.com/",
+    "id": 68136,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-21",
+    "last_episode_to_air": {
+        "air_date": "2016-12-21",
+        "episode_number": 12,
+        "id": 2279318,
+        "name": "Why I`m Glad I Became a Magical Girl",
+        "overview": "Is Daiya-chan all right?! And what is the reason Yuzuka has found for being a magical girl?! And now, the final episode of the second season!!",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/x9CJJWhMNwojUr0gEIrwtYUQdG5.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "I've Had Enough of Being a Magical Girl",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法少女なんてもういいですから。",
+    "overview": "Yuzuka Hanami is a young, carefree girl who lives the most ordinary life imaginable. Although her father works around the clock and her mother is rarely home, she still enjoys herself and strives to be an excellent student.\n\nMiton, on the other hand, is an alien life-form with the ability to transform his master into a magical girl, a warrior who fights evil wherever it may appear. However, there are not as many enemies as there used to be, so Miton has been out of work for a while. Starving and homeless, he has taken up residence in a pile of garbage.\n\nAs Yuzuka walks past him one day, Miton seizes the opportunity to offer his services to the young girl. Yuzuka reluctantly agrees, but when she transforms into a magical girl and discovers that her outfit is a swimsuit, she begins to have second thoughts about what she has gotten herself into!",
+    "popularity": 7.089,
+    "poster_path": "/6AyrMs4D32ICN6nbiDMgIgg2gII.jpg",
+    "production_companies": [
+        {
+            "id": 91510,
+            "logo_path": "/1eYmEppUaIhXUhejVYPJQhwx4JP.png",
+            "name": "Pine Jam",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-01-12",
+            "episode_count": 12,
+            "id": 80811,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xOPwr2x7HcecjaacZMRPvwYPeqG.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2016-10-05",
+            "episode_count": 12,
+            "id": 151498,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/nrVjCziL6vpMVkt7pojZh3FIuQ1.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 5
+}

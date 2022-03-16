@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/mje3hRTc7jGd38TX5q6DgQN9Ehy.jpg",
+    "created_by": [
+        {
+            "id": 1249161,
+            "credit_id": "52587788760ee346612be2d8",
+            "name": "Yuna Kagesaki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-11-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 24318,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-05-11",
+    "last_episode_to_air": {
+        "air_date": "2006-05-11",
+        "episode_number": 24,
+        "id": 640495,
+        "name": "It's Embarrassing to be Together Always",
+        "overview": "The final episode in Karin. Will Karin become a normal vampire? Will her family be able to escape the wrath of the vampire hunter? Will it be a happy ending?! Watch it to find out!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Karin: Chibi Vampire",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "かりん",
+    "overview": "Karin Maaka leads an ordinary life in spite of the fact that she is from a family of vampires. Unlike the rest of her family, she has no problem with bright lights, sleeps in a bed instead of a coffin, and loves to eat garlic. She is such an abnormal vampire that she doesn't even suck blood - she makes it!",
+    "popularity": 6.088,
+    "poster_path": "/hZmo87aANSS0QFzKdlMQke6tosu.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-11-03",
+            "episode_count": 24,
+            "id": 34499,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lpO5dzFtqVvdlSyO2hCtkqJppJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "I Want To... Give You Blood?!",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 4
+}

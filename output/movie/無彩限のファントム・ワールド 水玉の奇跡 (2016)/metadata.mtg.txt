@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 431462,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "無彩限のファントム・ワールド 水玉の奇跡",
+    "overview": "A special unaired episode of Musaigen no Phantom World bundled with the series' seventh DVD/BD.",
+    "popularity": 1.96,
+    "poster_path": "/uPY2YPXLritPrxKL3M4k2xiykb4.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2016-10-05",
+    "revenue": 0,
+    "runtime": 23,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Myriad Colors Phantom World Special",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 2
+}

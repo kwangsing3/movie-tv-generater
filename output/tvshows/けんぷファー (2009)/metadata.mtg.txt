@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/xvQ1j5vpro380XMlK7ldEc8m7k.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-10-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/kenpu/",
+    "id": 36025,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-12-18",
+    "last_episode_to_air": {
+        "air_date": "2009-12-18",
+        "episode_number": 12,
+        "id": 817918,
+        "name": "Christmas, the Miracle of the Entrails Dolls",
+        "overview": "Natsuru wakes up on Christmas Eve morning to find out that he and his messenger, Disemboweled Tiger, have swapped bodies!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mQPs2iDFooeJDHy4M7KUJCDMXYL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kämpfer",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "けんぷファー",
+    "overview": "Kämpfer is a Japanese light novel series by Toshihiko Tsukiji, with illustrations by Senmu. The series contains 15 volumes published by Media Factory under their MF Bunko J imprint between November 2006 and March 2010. The main series covers 12 volumes, while the remaining three are short story collections. A manga adaptation by Yu Tachibana started serialization in the April 2008 issue of Monthly Comic Alive. A 12-episode anime adaptation aired in Japan between October and December 2009 on TBS, concluded in spring 2011 with Kämpfer für die Liebe. The series has extensive use of the German language.",
+    "popularity": 15.357,
+    "poster_path": "/aMYrlGS3jah1Eu3pvv0DhHV4f6H.jpg",
+    "production_companies": [
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-12-23",
+            "episode_count": 10,
+            "id": 46838,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/zvAtMxp9pIAyFj1FAhhfSeaEfrg.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-10-02",
+            "episode_count": 12,
+            "id": 46839,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qkx5pdqk2vCIJLXDZrICVcYdJCU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 7
+}

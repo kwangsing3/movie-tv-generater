@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/s35FAaBxBzAT67rDvpbOhIqNepw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/sakamoto/",
+    "id": 65944,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-07-01",
+    "last_episode_to_air": {
+        "air_date": "2016-07-01",
+        "episode_number": 12,
+        "id": 1184747,
+        "name": "Goodbye, Sakamoto-kun",
+        "overview": "Sakamoto is giving the farewell speech at graduation when Acchan attacks him! Fukase seems to be set on never leaving school, but perhaps this scheme will be his last.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/t2bqfN18m6RKXnKIInNkTX3b3eE.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Haven't You Heard? I'm Sakamoto",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "坂本ですが？",
+    "overview": "First year high school student Sakamoto isn't just cool, he's the coolest! Almost immediately after starting school, he began attracting everyone's attention. The girls love him, and most of the boys resent him. There's even a boy in the class who works as a model, but who is constantly upstaged by Sakamoto! No matter what tricks the other boys try to play on him, Sakamoto always manages to foil them with ease and grace. Though Sakamoto may seem cool and aloof, he helps others when asked, such as in the case of the boy in his class who was being constantly bullied. No matter what difficulties Sakamoto encounters, he moves through his high school life with confidence and class.",
+    "popularity": 19.488,
+    "poster_path": "/rzWTW9DSToU7mW5RPos91fJSbBV.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-26",
+            "episode_count": 1,
+            "id": 104256,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/6WX3jJrrZleQ00FU84gVELoxwbF.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-08",
+            "episode_count": 12,
+            "id": 75472,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6WX3jJrrZleQ00FU84gVELoxwbF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 113
+}

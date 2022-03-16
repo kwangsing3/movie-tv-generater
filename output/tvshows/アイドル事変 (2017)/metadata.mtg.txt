@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/tg1eUxgnJ1l7YBabKvnbOqyqMQo.jpg",
+    "created_by": [
+        {
+            "id": 1567478,
+            "credit_id": "593eddb29251411569000275",
+            "name": "Daisuke Yoshida",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-01-08",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://idoljihen.jp/anime/",
+    "id": 69287,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-26",
+    "last_episode_to_air": {
+        "air_date": "2017-03-26",
+        "episode_number": 12,
+        "id": 1266347,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5tw4dyAJfWKKOABkzb33IyDcO8s.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Idol Incidents",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイドル事変",
+    "overview": "47 idol members of the seven parties in the Japanese Diet elected from each prefecture will smash through the sense of stagnation covering Japan using the power of song and dance! They’ll bring back the smiling faces of the people, and wrap Japan in a glittering aura!!",
+    "popularity": 2.299,
+    "poster_path": "/y8qOthn5g84zp4VwI7g5N310Jy4.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-01-08",
+            "episode_count": 12,
+            "id": 83190,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/k8MnOsrT8aSBslxGU9DzGMH5Qbi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

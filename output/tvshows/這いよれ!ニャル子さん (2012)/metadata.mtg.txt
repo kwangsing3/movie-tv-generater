@@ -1,0 +1,155 @@
+{
+    "adult": false,
+    "backdrop_path": "/h55l725dZkQ4HsojCDCKN8IRViL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.nyaruko.com/",
+    "id": 45254,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-07-01",
+    "last_episode_to_air": {
+        "air_date": "2013-07-01",
+        "episode_number": 12,
+        "id": 900232,
+        "name": "Goodbye, Nyaruko-san W",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/7Tk5CMmOWTo5O8joSHuIUJpT7MF.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nyaruko: Crawling With Love!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "GyaO!",
+            "id": 2819,
+            "logo_path": "/wD1kyr8RuPYSWfqHiswhMBpE2kf.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "d Anime Store",
+            "id": 3685,
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "這いよれ!ニャル子さん",
+    "overview": "\"I'm the chaos that always crawls up to you with a smile, Nyarlathotep.\" A silver haired girl appeared with this nonsensical catch phrase!",
+    "popularity": 27.756,
+    "poster_path": "/37tfOPuIout9BJbyuJfGIjy6n0n.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-11-30",
+            "episode_count": 4,
+            "id": 53898,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/yOe4YnCnALHiiAoJoS8e2TXBs8D.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-04-09",
+            "episode_count": 12,
+            "id": 53896,
+            "name": "Nyarko-san: Another Crawling Chaos",
+            "overview": "",
+            "poster_path": "/rN6yR5tGdW6kdHpnWafFiTkyGuD.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2013-04-08",
+            "episode_count": 12,
+            "id": 53897,
+            "name": "Nyarko-san: Another Crawling Chaos W",
+            "overview": "",
+            "poster_path": "/zvteCbcBAQUGxD4D9nVDjlRhIvV.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 10
+}

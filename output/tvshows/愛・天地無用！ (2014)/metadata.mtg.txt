@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/sWRP7tYngmuH80dAVlAh8D0cAw7.jpg",
+    "created_by": [
+        {
+            "id": 554868,
+            "credit_id": "5f731668223e2000377d4e9b",
+            "name": "Masaki Kajishima",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2014-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 76645,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-12-31",
+    "last_episode_to_air": {
+        "air_date": "2014-12-31",
+        "episode_number": 56,
+        "id": 1466847,
+        "name": "Wandering in the Dark",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4TH5MoUzXpd2Lip4Rk4yjlPpRAp.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ai Tenchi Muyo!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 60,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "愛・天地無用！",
+    "overview": "",
+    "popularity": 14.621,
+    "poster_path": "/hmUnwfvD12xkfZngBPVUmKFs5uN.jpg",
+    "production_companies": [
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        },
+        {
+            "id": 26262,
+            "logo_path": null,
+            "name": "AIC PLUS+",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-10-06",
+            "episode_count": 60,
+            "id": 98437,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vgXhLuXJn6VEHWNa9CT2pAadkLW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 26
+}

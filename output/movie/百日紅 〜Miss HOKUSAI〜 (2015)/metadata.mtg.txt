@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/kWT9hKpbd0MhvQ38Dga1KAVMrqU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        }
+    ],
+    "homepage": "http://www.production-ig.co.jp/works/sarusuberi",
+    "id": 267970,
+    "imdb_id": "tt3689910",
+    "original_language": "ja",
+    "original_title": "百日紅 〜Miss HOKUSAI〜",
+    "overview": "The time: 1814. The place: Edo, now known as Tokyo. A much accomplished artist of his time and now in his mid-fifties, Tetsuzo can boast clients from all over Japan, and tirelessly works in the garbage-loaded chaos of his house-atelier. He spends his days creating astounding pieces of art, from a giant-size Bodhidharma portrayed on a 180 square meter-wide sheet of paper, to a pair of sparrows painted on a tiny rice grain. Third of Tetsuzo's four daughters and born out of his second marriage, outspoken 23-year-old O-Ei has inherited her father's talent and stubbornness, and very often she would paint instead of him, though uncredited. Her art is so powerful that sometimes leads to trouble. \"We're father and daughter; with two brushes and four chopsticks, I guess we can always manage, in a way or another.\"",
+    "popularity": 7.131,
+    "poster_path": "/dgN11TAkzmcK9QNSKbspqOreneX.jpg",
+    "production_companies": [
+        {
+            "id": 57977,
+            "logo_path": "/2JcgVKZ1gEY5RsLJU1CGj1MaKFj.png",
+            "name": "The Asahi Shimbun",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104680,
+            "logo_path": null,
+            "name": "Studio Fuga",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2015-05-09",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miss Hokusai",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 100
+}

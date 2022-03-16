@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/pzRBBZVl7nCDewhbwCs2CDF8RJd.jpg",
+    "created_by": [
+        {
+            "id": 1091323,
+            "credit_id": "577edba792514123bb0034b3",
+            "name": "Harold Sakuishi",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1112119,
+            "credit_id": "5fa0e27c417aaf0036e4a400",
+            "name": "Osamu Kobayashi",
+            "gender": 2,
+            "profile_path": "/G5larUPqO2AUa8r9m1j233EK9j.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/beck/",
+    "id": 43288,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-03-30",
+    "last_episode_to_air": {
+        "air_date": "2005-03-30",
+        "episode_number": 26,
+        "id": 1297787,
+        "name": "America",
+        "overview": "Koyuki plans to revive Beck and sets out to get the band together. After talking to Chiba and Taira and getting them to join, Saku finally makes his way back to town to join up with the others and the band is finally back together (except for Ryusuke, who is making a living as a street musician in New York City when John Lee Davis approaches him offering help in anything he might need). Great news comes in the form of an invitation to tour with a band in the United States of America, and along the way they end up meeting Ryusuke again at Seattle. Leon Sykes also gets arrested. Beck plays a gig, all of them including Ryuusuke, their future is told in the manga (which also chronicles the lead-up to the US Tour in more detail).",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Beck: Mongolian Chop Squad",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ベック",
+    "overview": "Koyuki Tanaka was feeling the rut, though he’s only a teenager. Between the sheltered and stifling grind of school and the girls that spend their time not noticing him… Every day was just another day of being a total nobody. Enter Ryusuke: a local rock n’ roller haunted by a shady reputation. Together they form Beck, a dynamic band that just might be the salvation of the stagnant music scene. Sure, it’s going to take hard work and obsession to make it, but there’s something special in the sound. If the guys can stay true to their vision, the world awaits. Music can change your life, sometimes against your will. Just remember… When it’s live, anything can happen.",
+    "popularity": 12.623,
+    "poster_path": "/sZc5WEjoPO6lNr1ReDDgAT2fgqz.jpg",
+    "production_companies": [
+        {
+            "id": 75930,
+            "logo_path": null,
+            "name": "Marvelous Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4720,
+            "logo_path": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+            "name": "Asatsu-DK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-10-06",
+            "episode_count": 26,
+            "id": 72445,
+            "name": "Beck: Mongolian Chop Squad",
+            "overview": "Koyuki Tanaka was feeling the rut, though he’s only a teenager. Between the sheltered and stifling grind of school and the girls that spend their time not noticing him… Every day was just another day of being a total nobody. Enter Ryusuke: a local rock n’ roller haunted by a shady reputation. Together they form Beck, a dynamic band that just might be the salvation of the stagnant music scene. Sure, it’s going to take hard work and obsession to make it, but there’s something special in the sound. If the guys can stay true to their vision, the world awaits. Music can change your life, sometimes against your will. Just remember… When it’s live, anything can happen.",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 25
+}

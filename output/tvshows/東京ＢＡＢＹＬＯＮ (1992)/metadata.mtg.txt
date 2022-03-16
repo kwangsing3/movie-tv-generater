@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/hHivQc16A9ppgU1kGOWIoRutzsR.jpg",
+    "created_by": [
+        {
+            "id": 555348,
+            "credit_id": "578048e5925141453400174c",
+            "name": "Nanase Ohkawa",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 90573,
+            "credit_id": "578048ef92514145070016c8",
+            "name": "Tsubaki Nekoi",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 1626866,
+            "credit_id": "578048f6c3a3682e1d0034bf",
+            "name": "Satsuki Igarashi",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 1450844,
+            "credit_id": "578048fbc3a368355b0016f4",
+            "name": "Mokona Apapa",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "1992-10-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 44485,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1994-04-11",
+    "last_episode_to_air": {
+        "air_date": "1994-04-11",
+        "episode_number": 8,
+        "id": 2313120,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tokyo Babylon",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "東京ＢＡＢＹＬＯＮ",
+    "overview": "Psychic investigator Subaru Sumeragi is hot on the tail of a serial killer who seems to have some supernatural powers of his own. When Subaru encounters a young girl placing a curse on his suspect, the mystery deepens. The body count continues to rise, and Subaru must solve the case quickly, or he may become the killer’s next target!",
+    "popularity": 4.561,
+    "poster_path": "/kNsvmA0dW9id1fDzlrGR3HSCxRJ.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 169988,
+            "logo_path": null,
+            "name": "Central Park Media",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1992-10-21",
+            "episode_count": 12,
+            "id": 53473,
+            "name": "Tokyo Babylon",
+            "overview": "",
+            "poster_path": "/v6QEkkYVWwRA7Ujgz6faAopLfCX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 6
+}

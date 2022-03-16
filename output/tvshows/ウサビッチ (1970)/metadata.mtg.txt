@@ -1,0 +1,145 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1244775,
+            "credit_id": "52582d3e760ee36aaa8a1ff9",
+            "name": "Satoshi Tomioka",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 13961,
+    "in_production": false,
+    "languages": [
+        "xx"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Usavich",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MTV Japan",
+            "id": 2234,
+            "logo_path": "/e9GMyvaguUc36ktS7iSFYP0WLKa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 78,
+    "number_of_seasons": 6,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ウサビッチ",
+    "overview": "Putin and Kirenenko are two odd inmates stuck in a bizarre Russian prison. Being confined to their small cell does not prevent them from causing a lot of trouble.",
+    "popularity": 18.185,
+    "poster_path": "/zg781peocunLpi2p1tBpiWEZo2Z.jpg",
+    "production_companies": [
+        {
+            "id": 63017,
+            "logo_path": null,
+            "name": "Kanaban Graphics",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 4,
+            "id": 25217,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": null,
+            "episode_count": 13,
+            "id": 25218,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 13,
+            "id": 25219,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/I4lWW6hQvi8w1NQ5gf9IqURj41.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": null,
+            "episode_count": 13,
+            "id": 25220,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/fomAMaIMA67iuK1ViudKit5ctgn.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": null,
+            "episode_count": 13,
+            "id": 25221,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/mlDOLZvdJVXV9pPPJBvFmPr370F.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": null,
+            "episode_count": 13,
+            "id": 114280,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/tAnXngF2NNB2NKDQWVJNpUZaw0S.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": null,
+            "episode_count": 13,
+            "id": 114282,
+            "name": "Season 6",
+            "overview": "",
+            "poster_path": "/one6ErACoNhYNQ9K0eTgTmSenIK.jpg",
+            "season_number": 6
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "No Language",
+            "iso_639_1": "xx",
+            "name": "No Language"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 7
+}

@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/aiqGfP4nCvJ4n55sjfCrackhdCr.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2006-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.starchild.co.jp/special/himawari/",
+    "id": 42987,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-03-28",
+    "last_episode_to_air": {
+        "air_date": "2007-03-28",
+        "episode_number": 13,
+        "id": 1475875,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Himawari!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ひまわりっ!",
+    "overview": "Himawari! is a Japanese anime series created by GoDo, directed by Shigenori Kageyama, and produced by Genco. It was aired on Chiba TV from April 8, 2006 to July 1, 2006 and afterwards got a second season, Himawari!!, and a short manga to connect the two, Himawari-den!.",
+    "popularity": 3.474,
+    "poster_path": "/nvmAGpExikcUEj2KbrkahP4dJq0.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 177175,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-04-09",
+            "episode_count": 13,
+            "id": 102809,
+            "name": "Himawari!",
+            "overview": "",
+            "poster_path": "/2Bmri0sVD2hkqKMB12uEg8Zrge9.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2007-01-07",
+            "episode_count": 13,
+            "id": 102810,
+            "name": "Himawari, Too!",
+            "overview": "",
+            "poster_path": "/ywT5zby8LnaPQfsyExjVxYgzuj0.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

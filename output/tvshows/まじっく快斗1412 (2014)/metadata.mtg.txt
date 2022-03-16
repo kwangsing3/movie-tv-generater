@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/1sVd6U6jwHsGbTVr3zgPUdXpHsZ.jpg",
+    "created_by": [
+        {
+            "id": 101917,
+            "credit_id": "5907950fc3a36858d60011ff",
+            "name": "Gōshō Aoyama",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 68573,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-28",
+    "last_episode_to_air": {
+        "air_date": "2015-03-28",
+        "episode_number": 24,
+        "id": 1237625,
+        "name": "Midnight Crow (Part Two): Clash! White or Black?!",
+        "overview": "In this final episode, Kid goes up against the enigmatic Corbeau one more time as they vie for the jewel that may contain Pandora, which means Snake can't be far behind!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rghU9xu3a3Ujc7bTKISSLciA7St.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Magic Kaito 1412",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まじっく快斗1412",
+    "overview": "Eight years after the mysterious death of his father, Kaito Kuroba, a slightly mischievous but otherwise ordinary teenager, discovers a shocking secret: the Phantom Thief Kaito Kid—also known as \"The Magician Under the Moonlight\"—was none other than his own father. The former thief was murdered by a criminal organization seeking a mythical stone called the Pandora Gem, said to shed a tear with the passing of the Valley Comet that comes every ten thousand years. When the tear is consumed, the gem supposedly grants immortality.\n\nVowing to bring those responsible for his father's death to justice, Kaito dons the Phantom Thief's disguise, stealing priceless jewels night after night to find the Pandora Gem before his enemies can use the power for themselves.",
+    "popularity": 16.824,
+    "poster_path": "/uEUset1GJx7QvGyWsSMecRcysJp.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-10-04",
+            "episode_count": 24,
+            "id": 81749,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kmVTXGTCGPoSvc0touNJ5K36FY7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 9
+}

@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1717583,
+            "credit_id": "618773d313a38800660888aa",
+            "name": "Naoki Yamamoto",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1991-07-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 138068,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1991-10-21",
+    "last_episode_to_air": {
+        "air_date": "1991-10-21",
+        "episode_number": 2,
+        "id": 3325458,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dance Till Tomorrow",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Asatte Dance",
+    "overview": "Suekichi goes to university and has, as any Japanese university student, time for hobbies. Things change when he attends his great grandfather's funeral and wakes the next morning in his room with a very sexy girl besides him. His great grandfather has left him a *little* inheritance but there are some conditions. Meanwhile, sexy Aya keeps hanging around and refuses to go away. The beginning of a strange relationship which revolves around suspicions and desire.",
+    "popularity": 0.913,
+    "poster_path": "/9f9KyYfUJzfAvcpvCUQYSvoyCRP.jpg",
+    "production_companies": [
+        {
+            "id": 82919,
+            "logo_path": null,
+            "name": "KnacK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1991-07-25",
+            "episode_count": 2,
+            "id": 218535,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1
+}

@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1991-11-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 115367,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1993-03-27",
+    "last_episode_to_air": {
+        "air_date": "1993-03-27",
+        "episode_number": 6,
+        "id": 2591344,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Inferious Wakusei Senshi Gaiden Condition Green",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "インフェリウス惑星戦史外伝 CONDITION GREEN",
+    "overview": "Keith, George, Edward, Yang and Shaw are Platoon #801, the five-man team formed to protect their homeworld in the Inferious galaxy from alien invasion. Gazaria's evil emperor Vince conquers the neighbor worlds of Kal and Granad, and suddenly only Platoon #801, also known as Condition Green, stands between him and the conquest of Emerald Earth.",
+    "popularity": 0.6,
+    "poster_path": "/lsKH6ayTyGfvdNdJGmayw889s2N.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1991-11-29",
+            "episode_count": 6,
+            "id": 173808,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 173809,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/vaH4XdNBXwhOpyBQx9sXfnUu0BJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://oddtaxi.jp/",
+    "id": 116727,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-29",
+    "last_episode_to_air": {
+        "air_date": "2021-06-29",
+        "episode_number": 13,
+        "id": 2870926,
+        "name": "Where To?",
+        "overview": "It's business as usual for privately-owned taxi driver Odokawa as he drives a variety of passengers around the city.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2RcZL2Gt8abn6BuihSPhiKVHPmi.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "ODDTAXI",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "オッドタクシー",
+    "overview": "This town should look familiar, but suddenly, it's not. The taxi driver Odokawa lives a very mundane life. He has no family, doesn't really hang out with others, and he's an oddball who is narrow-minded and doesn't talk much. The only people he can call his friends are his doctor, Gouriki and his classmate from high school, Kakibana. All of his patrons seem to be slightly odd themselves. The college student who wants to be noticed online, Kabasawa. A nurse with secrets, Shirakawa. A comedy duo, the Homosapiens... All these mundane conversations somehow lead to a girl who's gone missing.",
+    "popularity": 22.755,
+    "poster_path": "/1EjfuzlLayjraY358hB8fSmXCSr.jpg",
+    "production_companies": [
+        {
+            "id": 123472,
+            "logo_path": "/kKEDydCyqmwx7yeCocQXYnVvBY1.png",
+            "name": "P.I.C.S.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156813,
+            "logo_path": null,
+            "name": "Odokawa Transportation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-06",
+            "episode_count": 13,
+            "id": 176619,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/faffn2RHByUlCm40DUsahp036Nw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.9,
+    "vote_count": 52
+}

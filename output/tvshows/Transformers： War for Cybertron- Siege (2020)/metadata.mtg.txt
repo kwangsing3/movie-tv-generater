@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-07-30",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81002438",
+    "id": 100617,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-07-30",
+    "last_episode_to_air": {
+        "air_date": "2020-07-30",
+        "episode_number": 6,
+        "id": 2317358,
+        "name": "",
+        "overview": "Optimus struggles to obtain the Allspark. Megatron figures out Optimus’ plan and orders an attack on the Autobots, who receive an unexpected assist.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bLCW7kR6IHjeek2qTmjyZlEu03G.jpg",
+        "vote_average": 8.2,
+        "vote_count": 5
+    },
+    "name": "Transformers: War for Cybertron: Siege",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Transformers: War for Cybertron: Siege",
+    "overview": "On their dying planet, the Autobots and Decepticons battle fiercely for control of the AllSpark in the Transformers universe's origin story.",
+    "popularity": 46.71,
+    "poster_path": "/14B6I4FxCMiDoPOwzj27EcqqY6i.jpg",
+    "production_companies": [
+        {
+            "id": 20024,
+            "logo_path": "/fLc5F7K5zsXsSNSFFsbKrZXAga7.png",
+            "name": "Polygon Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 111718,
+            "logo_path": null,
+            "name": "Allspark Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 17412,
+            "logo_path": "/mWttB7AboQmh1ij0e9yo0dFdz3c.png",
+            "name": "Rooster Teeth Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-07-30",
+            "episode_count": 6,
+            "id": 145448,
+            "name": "Siege",
+            "overview": "The war that has torn apart their home planet of Cybertron is at a tipping point. Two leaders, Optimus Prime and Megatron, both want to save their world and unify their people, but only on their own terms. Outnumbered, outgunned, and under SIEGE, the battle-weary Autobots orchestrate a desperate series of counterstrikes on a mission that, if everything somehow goes right, will end with an unthinkable choice: kill their planet in order to save it.",
+            "poster_path": "/q6XBIrlT8XiBg4KbK5ivQAW78q7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.7,
+    "vote_count": 231
+}

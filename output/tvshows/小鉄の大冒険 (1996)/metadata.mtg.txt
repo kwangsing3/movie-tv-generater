@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 2928293,
+            "credit_id": "5ff892270cd32a004048fd49",
+            "name": "MEE-KUN",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1996-12-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 116244,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1997-01-10",
+    "last_episode_to_air": {
+        "air_date": "1997-01-10",
+        "episode_number": 2,
+        "id": 2623695,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Adventures of Kotetsu",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "小鉄の大冒険",
+    "overview": "",
+    "popularity": 1.4,
+    "poster_path": "/tFsKu1yqwlUqwytIAquAuOpPIGS.jpg",
+    "production_companies": [
+        {
+            "id": 54951,
+            "logo_path": null,
+            "name": "Palm Tree",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1996-12-13",
+            "episode_count": 2,
+            "id": 175580,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 9,
+    "vote_count": 1
+}

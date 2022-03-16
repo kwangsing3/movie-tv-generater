@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/Ase5sDrJYc03qwmdsle5pnpNiSn.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 16767,
+    "imdb_id": "tt0164917",
+    "original_language": "ja",
+    "original_title": "スプリガン",
+    "overview": "An elite superhuman agent must stop a foreign military unit from seizing control of an ancient artifact that holds the key to ultimate power.",
+    "popularity": 7.923,
+    "poster_path": "/nX2sgumjpBkEMzGFSMdBZMCiVgX.jpg",
+    "production_companies": [
+        {
+            "id": 11671,
+            "logo_path": "/iRdYQdn1eunwV3qAs6RK5Mqwn8Z.png",
+            "name": "Studio 4°C",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1393,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "name": "TBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1998-09-05",
+    "revenue": 25824,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "It's the END of our world.. and the BEGINNING of the next!",
+    "title": "Spriggan",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 54
+}

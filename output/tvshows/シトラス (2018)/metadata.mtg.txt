@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/rmEgDoPlunWADd60hCJ1lycMNGF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://citrus-anime.com",
+    "id": 76063,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-24",
+    "last_episode_to_air": {
+        "air_date": "2018-03-24",
+        "episode_number": 12,
+        "id": 1439505,
+        "name": "my love goes on and on",
+        "overview": "Yuzu promises Nina that she'll support Sara's love with her, but after learning that the girl of Sara's destiny is Mei, she can't help but feel shaken. Nina ignores all the attention she's drawing, desperately holding Yuzu back to keep her from going to Mei. During their conflict Yuzu gets a call from Sara on her smartphone, saying \"There's something I need to give you.\" She quickly races to the overlook, but Mei isn't there, only Sara greeting her with a slightly sad smile as she returns the student ID Yuzu dropped earlier.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/hnTwvdAcxrrvj3pFqaYfVW7CQHe.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Citrus",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シトラス",
+    "overview": "Yuzu, a high school gyaru who hasn't experienced her first love yet, transfers to an all-girls school after her mother remarries. She's beyond upset that she can't land a boyfriend at her new school. Then, on her first day, she meets the beautiful black-haired student council president Mei in the worst way possible. What's more, she later finds out that Mei is her new step-sister, and they'll be living under the same roof! And so the love affair between two polar opposite high school girls who find themselves drawn to one another begins!",
+    "popularity": 42.306,
+    "poster_path": "/1h6v8gS1vKybZciqpNWeV5MFQNb.jpg",
+    "production_companies": [
+        {
+            "id": 58035,
+            "logo_path": "/rtFGLtHkjVqq042Ky5gbOEnXFlN.png",
+            "name": "Passione",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-01-06",
+            "episode_count": 12,
+            "id": 97322,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wLBJziEOIL3C4zo3JRU9A5CZ9eM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 46
+}

@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/pkHOVTeH0BlsSk8GacfdmmnXtIR.jpg",
+    "created_by": [
+        {
+            "id": 1945572,
+            "credit_id": "61888739fe63180044bdc8e7",
+            "name": "Hiroshi Tanaka",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1993-09-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 138112,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-08-09",
+    "last_episode_to_air": {
+        "air_date": "1998-08-09",
+        "episode_number": 5,
+        "id": 3326415,
+        "name": "Bad Boys 5",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bad Boys",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Bad Boys",
+    "overview": "Tsukasa, Yoji, and Eiji are friends and members of the motorcycle gang called the Paradise Butterflies. Riding the streets of Hiroshima, their goal in life is to top all other gangs in their city.",
+    "popularity": 1.018,
+    "poster_path": "/vgpp3QfNt884i3b6R3QJHHqpgLm.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13064,
+            "logo_path": null,
+            "name": "Animate Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 132564,
+            "logo_path": null,
+            "name": "Shonengahosha",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1993-09-25",
+            "episode_count": 5,
+            "id": 218662,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

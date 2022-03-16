@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/fReRituFiToJoXPoQtDJ7lGT6NN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2010-04-16",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "http://www.goyou-anime.jp/",
+    "id": 53352,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-07-02",
+    "last_episode_to_air": {
+        "air_date": "2010-07-02",
+        "episode_number": 12,
+        "id": 923941,
+        "name": "Already Staggering",
+        "overview": "Yaichi joins Yagi for a drink, where they reminisce about the past and old friends. Later, tensions escalate after a confrontation between Jin and Yaichi leads to a confession about the kidnapping.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/v3OBgrVyDY2AQ5qKDFkKGLfY4jk.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "House of Five Leaves",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "さらい屋 五葉",
+    "overview": "Rônin Akitsu Masanosuke is a skilled swordsman, but his personality often causes him to be let go from his job. One day he encounters Yaichi, the leader of a group calling itself \"Five Leaves\" and takes a job from him as a bodyguard. Though he is worried about their intentions, he feels there is something more to the group and agrees to work with them.",
+    "popularity": 4.724,
+    "poster_path": "/yBnrKdexSdSldD6S8LaMgu1zAUm.jpg",
+    "production_companies": [
+        {
+            "id": 33347,
+            "logo_path": null,
+            "name": "Manglobe",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-04-16",
+            "episode_count": 12,
+            "id": 56351,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yBnrKdexSdSldD6S8LaMgu1zAUm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 9
+}

@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/oM55x1xvdqfW9rJ48Dl7wEkBPC9.jpg",
+    "created_by": [
+        {
+            "id": 1222103,
+            "credit_id": "5af80c229251412c75007055",
+            "name": "Yoshitoshi ABe",
+            "gender": 2,
+            "profile_path": "/6mTocJieEsNgCmaAAd9Hx10uX5S.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1998-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 1087,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-09-28",
+    "last_episode_to_air": {
+        "air_date": "1998-09-28",
+        "episode_number": 13,
+        "id": 56128,
+        "name": "Ego: Layer 13",
+        "overview": "The world is crumbling, people are dying and Alice's sanity is threatened. To save humanity, there is only one thing Lain can do; she must make the ultimate personal sacrifice.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rjYMNz9RbNDl7BOMaA9uXEbyd9f.jpg",
+        "vote_average": 8.4,
+        "vote_count": 5
+    },
+    "name": "Serial Experiments Lain",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シリアルエクスペリメンツレイン",
+    "overview": "Lain—driven by the abrupt suicide of a classmate—logs on to the Wired and promptly loses herself in a twisted mass of hallucinations, memories, and interconnected-psyches.",
+    "popularity": 20.683,
+    "poster_path": "/ej3tcxv2YYVWy6WoOeWZTcrkiI8.jpg",
+    "production_companies": [
+        {
+            "id": 7776,
+            "logo_path": null,
+            "name": "Pioneer LDC, Inc.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3530,
+            "logo_path": null,
+            "name": "Triangle Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1998-07-06",
+            "episode_count": 13,
+            "id": 3065,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6xoy9CGjJbAfdPxQh0lfRWuiz8I.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 320
+}

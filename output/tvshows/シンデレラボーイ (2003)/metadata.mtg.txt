@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/w1ShRQ9t6lf1CEVLUpvQYaMNJJi.jpg",
+    "created_by": [
+        {
+            "id": 78365,
+            "credit_id": "5258663c760ee34661185fff",
+            "name": "Kazuhiko Kato",
+            "gender": 2,
+            "profile_path": "/iKuROzO2J3D1RCuohe3SAAfThjy.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-06-24",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 21286,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-09-16",
+    "last_episode_to_air": {
+        "air_date": "2003-09-16",
+        "episode_number": 13,
+        "id": 594749,
+        "name": "Cinderella Does Not Sleep",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cinderella Boy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シンデレラボーイ",
+    "overview": "Cinderella Boy follows the adventures of impoverished private detective Ranma Hinamatsuri and his thrill-seeking rich girl partner Rella \"Cindy\" Shirayuki in a futuristic city named \"Kirin Town\". Kirin Town is a lawless European city-state with its own currency with the name of the city being a pun on the English word for \"killing\". The two are badly injured when they stumble across an organised crime operation and are put back together into the same body by a mysterious doctor. Every night the stroke of midnight, their shared body changes both form and identity. Ranma becomes Rella, or vice versa. Neither is aware of any actions or situations their partner is involved in, completely losing consciousness until twenty-four hours later, when the change comes around to them again.",
+    "popularity": 6.069,
+    "poster_path": "/d1V7jZvPz5irTZla8JjKp2NZY66.jpg",
+    "production_companies": [
+        {
+            "id": 13078,
+            "logo_path": null,
+            "name": "Magic Bus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-06-24",
+            "episode_count": 13,
+            "id": 31164,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lqT44ZVm2us4VwbttcX83MeBgPb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

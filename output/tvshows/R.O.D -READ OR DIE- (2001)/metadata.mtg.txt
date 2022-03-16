@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        90
+    ],
+    "first_air_date": "2001-05-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.sonymusic.co.jp/Animation/ROD/media/ovaindex.html",
+    "id": 96326,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-02-06",
+    "last_episode_to_air": {
+        "air_date": "2002-02-06",
+        "episode_number": 3,
+        "id": 2010944,
+        "name": "Volume 3",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/575glWtr4wFoTH0p358QpKlIw6r.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Read or Die",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "R.O.D -READ OR DIE-",
+    "overview": "A young female agent with a powerful psionic power over paper must stop a plot for world destruction.",
+    "popularity": 1.278,
+    "poster_path": "/myv2W7Ds1mps7vG5ae6Vil3Sd5g.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-05-23",
+            "episode_count": 3,
+            "id": 137816,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jl8w4Pee8FKoOZUHkR3zTzOfe3V.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8.3,
+    "vote_count": 3
+}

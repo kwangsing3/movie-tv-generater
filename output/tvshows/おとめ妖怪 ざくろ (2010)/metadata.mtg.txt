@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/fw6Fd4yYka49hdJs53ig7gGuw04.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 36836,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-12-27",
+    "last_episode_to_air": {
+        "air_date": "2010-12-27",
+        "episode_number": 13,
+        "id": 832916,
+        "name": "Brilliant Finale",
+        "overview": "With Byakuroku leading the way, Lieutenants Agemaki, Yoshinokazura, and Hanakiri and the half-spirits Susukihotaru, Bonbori, and Hozuki arrive Will the unconscious Zakuro remain in Omodaka's hands. The time of reckoning is at hand. A brilliant final episode to provide stirring and emotional closure!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ewOJ6Fpv4pgDWjsfgv3PR8MmHLF.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Zakuro",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おとめ妖怪 ざくろ",
+    "overview": "In an alternate Japan, humans and spirits coexist. To solve the problems that arise between the two, human lieutenants are partnered with half-spirit girls to form the Ministry of Spirit Affairs.",
+    "popularity": 9.855,
+    "poster_path": "/wzZwwIl9ICpMCk6ADhsJsAJKDHB.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-11-24",
+            "episode_count": 2,
+            "id": 47961,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-10-04",
+            "episode_count": 13,
+            "id": 47960,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/q0Sdf2vaSOdBaCLT9QNns6XKeVD.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 4
+}

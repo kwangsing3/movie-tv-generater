@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/cJTwGrbhbMPP2qjUy4xiEmKH7iF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2015-01-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://yurikuma.jp",
+    "id": 68642,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-30",
+    "last_episode_to_air": {
+        "air_date": "2015-03-30",
+        "episode_number": 12,
+        "id": 1434265,
+        "name": "Yuri Kuma Arashi",
+        "overview": "When yuri meets bear, a storm begins.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rCdgwrCs0wa4qK2CQifqMf8VFQ6.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Yurikuma Arashi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ユリ熊嵐",
+    "overview": "Humans have created a Wall of Severance to separate themselves from the bears, who grew violent and attacked humans after a far-off planet known as Kumalia exploded many years ago, turning into a meteor shower that fell upon earth. Two bears, Ginko Yurishiro and Lulu Yurigasaki, sneak through the Wall of Severance and disguise themselves as humans, enrolling in Arashigaoka Academy and taking an interest in Kureha Tsubaki, a human girl who despises bears.",
+    "popularity": 8.587,
+    "poster_path": "/5iR56K02oa9RDZZaDmwnNasewsS.jpg",
+    "production_companies": [
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-01-05",
+            "episode_count": 12,
+            "id": 81863,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uMEmv8qPEgzOMAhBQbqXX0baEaK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Never give up on love!",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 13
+}

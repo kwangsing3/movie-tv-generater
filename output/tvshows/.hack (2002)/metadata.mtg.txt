@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/aKiRNVzI6dMSH3VVMdObVroVbJ2.jpg",
+    "created_by": [
+        {
+            "id": 110690,
+            "credit_id": "56b4a03892514153200035ff",
+            "name": "Yoshiyuki Sadamoto",
+            "gender": 2,
+            "profile_path": "/fuaMRqctadjtQ5PI2n3F98vab3g.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2002-04-04",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://hack.bn-ent.net/",
+    "id": 8864,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-28",
+    "last_episode_to_air": {
+        "air_date": "2006-09-28",
+        "episode_number": 26,
+        "id": 401140,
+        "name": "Determination",
+        "overview": "Haseo reappears after his hiatus only to receive devastating news about Phyllo. Tabby finally discovers the confidence to make her own decisions, and informs Haseo she has decided to become a nurse in order to save Shino. Now, Haseo is alone with only his memories to keep him company.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/zNtVEw1EAtQWJfw4tolqwuZ6KWO.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": ".hack",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 64,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": ".hack",
+    "overview": ".hack follows several young players as they navigate the vast, mysterious MMORPG known as “The World” – a place, it turns out, that is sometimes impossible to leave.",
+    "popularity": 28.4,
+    "poster_path": "/wNplB2ViLejqtyU76Qz2iv3oZPM.jpg",
+    "production_companies": [
+        {
+            "id": 4289,
+            "logo_path": null,
+            "name": "BeeTrain",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-06-20",
+            "episode_count": 19,
+            "id": 18746,
+            "name": "Specials",
+            "overview": "OVA's and specials of .hack.",
+            "poster_path": "/taHDGusKR5uCa6ZTUEZ8ELyagCQ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2002-04-04",
+            "episode_count": 26,
+            "id": 18745,
+            "name": ".hack//SIGN",
+            "overview": "Tsukasa wakes up inside The World, a massive online role-playing game full of magic and monsters, and finds himself unable to log out. With no knowledge of what’s happening in the real world, Tsukasa must discover how he ended up stuck in the game, and what connection he has with the fabled Key of the Twilight—an item that’s rumored to grant ultimate control over the digital realm.",
+            "poster_path": "/wNplB2ViLejqtyU76Qz2iv3oZPM.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2003-01-09",
+            "episode_count": 12,
+            "id": 18747,
+            "name": ".hack//Legend of the Twilight",
+            "overview": "Rena and her twin brother Shugo enter The World, a massive online RPG. Playing as the limited edition characters Kite and Black Rose, the siblings encounter powerful monsters capable of sending players into real world comas. To save themselves—and The World—Shugo and Rena must unlock the secrets of the mysterious twilight bracelet before it’s too late!",
+            "poster_path": "/65iQ6gLQeVBcRpWTzutXJxOcpqm.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2006-04-06",
+            "episode_count": 26,
+            "id": 18748,
+            "name": ".hack//Roots",
+            "overview": "In the newest version of the massive online RPG know as “The World,” Haseo and his guild mates search for a legendary item called the Key of the Twilight—but they’re not the only ones looking for it. When a rival guild faces off against Haseo and his teammates, the conflict has deep repercussions both inside and outside the game, and threatens to leave the players forever changed.",
+            "poster_path": "/gituhJvzcsj7yOSHlovJyBFPRdf.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 20
+}

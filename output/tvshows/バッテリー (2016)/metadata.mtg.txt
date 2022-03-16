@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/Hqpm62h1f51dyyy4dm3fwHbs7k.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2016-07-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://battery-anime.com",
+    "id": 65957,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-23",
+    "last_episode_to_air": {
+        "air_date": "2016-09-23",
+        "episode_number": 11,
+        "id": 1414529,
+        "name": "Their Spring",
+        "overview": "The last Sunday of March, the day of their rematch with Yokoteni Junior High finally arrives. Tomura, Youzo, Seiha, and even the principal have come to watch. The game is being played underneath the early cherry blossoms. Takumi throws Kadowaki the first pitch, the man who has been waiting for this moment for so long.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dzlxfeRm8skTzWv7ByWyxItpBeT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Battery",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バッテリー",
+    "overview": "Meet Harada Takumi – not even in junior high and he’s the best pitcher in the region, although he’s frustrated and ready to give up, because he can’t find a catcher who is good enough to keep up with how he pitches in this backwater town his family has just moved to. Then along comes a kid named Nagakura Gou…",
+    "popularity": 7.279,
+    "poster_path": "/g97x8EbKyCcCgY64mL0enBouXfX.jpg",
+    "production_companies": [
+        {
+            "id": 109854,
+            "logo_path": null,
+            "name": "Zero-G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-15",
+            "episode_count": 11,
+            "id": 75491,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cftsdVI6Mdpgp1EdiiwU4FSjbbO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 5
+}

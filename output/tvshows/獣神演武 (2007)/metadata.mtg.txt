@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/utHdCovMJxEnpSNfIuW5j9WdSiD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2007-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/jyushin/",
+    "id": 29565,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-03-31",
+    "last_episode_to_air": {
+        "air_date": "2008-03-31",
+        "episode_number": 26,
+        "id": 727299,
+        "name": "The End of the Fight",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hero Tales",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "獣神演武",
+    "overview": "It is the time of wars. In the chaotic Empire, a group of seven heroes of the stars, the Hokushin-Tenkun, rose to lead the common folk. Out of the seven a destiny of heated battle unfolds between the \"Two Noble Spirits\", Hagun and Tonrou. Originally the two should not exist in the same time but the gears of Fate have turned otherwise. In the current feeble state of the Ken Empire, the conflicting \"Two Noble Spirits\" - Taitou Shirei of Hagun and Keirou of Tonrou each fight for their view of justice and the peace of the countries and their home country. In the name of Fate, the justice of whom shall prevail....?",
+    "popularity": 3.35,
+    "poster_path": "/kXxIN3EHIVA120egKTWmggxvI8u.jpg",
+    "production_companies": [
+        {
+            "id": 104509,
+            "logo_path": null,
+            "name": "Studio Flag",
+            "origin_country": ""
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 3,
+            "id": 40950,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-10-08",
+            "episode_count": 26,
+            "id": 40949,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

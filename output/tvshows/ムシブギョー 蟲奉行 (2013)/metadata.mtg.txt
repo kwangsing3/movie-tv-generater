@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/45d8n6t4w11J8z3lgT2lk6xizYi.jpg",
+    "created_by": [
+        {
+            "id": 1250035,
+            "credit_id": "5ab6c653c3a3680a41013064",
+            "name": "Takayuki Hamana",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2013-04-08",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 53809,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-09-30",
+    "last_episode_to_air": {
+        "air_date": "2013-09-30",
+        "episode_number": 26,
+        "id": 924733,
+        "name": "Tsukishima Jinbei Is Here!!!",
+        "overview": "The well gives the Magistrate back her power and she transforms into Shiroageha, but her memories are lost. She attacks Jinbei, and the power of the well makes Sanada much stronger. Jinbei, who swore to fight until he dies, is faced with his last enemy. The final battle begins!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/31Gs9w8DV78pKOJa1zEV7OEBhjo.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mushibugyou",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ムシブギョー 蟲奉行",
+    "overview": "The action story is set in Edo-era Tokyo in the early 1700s. The eighth shogun Tokugawa Yoshimune ordered boxes to be installed so commoners can submit their thoughts. After hearing their voices, the shogun creates a new magistrate unit — Mushibugyou — to protect the people in the heart of the city. Each member is a specialist with unique fighting skills.",
+    "popularity": 4.469,
+    "poster_path": "/yYfrauYQIz193qVv4IDfzn9ZLoA.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2014-07-16",
+            "episode_count": 3,
+            "id": 151282,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/lhq1I0GtVqRUlLE9q4KMAVflFju.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-04-08",
+            "episode_count": 26,
+            "id": 56458,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lgS1HRhGKcoMFgPb8YEoU0hvkQw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 2
+}

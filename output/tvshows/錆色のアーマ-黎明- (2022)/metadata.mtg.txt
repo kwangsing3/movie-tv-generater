@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/nY1GkT2Vvny2I3jUPgaTnhJql3y.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://rustedarmors-anime.com/",
+    "id": 131083,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 10,
+        "id": 3438582,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/b43jAL3T3fNKXlUruxKYhZxi5xm.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rusted Armors",
+    "next_episode_to_air": {
+        "air_date": "2022-03-20",
+        "episode_number": 11,
+        "id": 3438583,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "錆色のアーマ-黎明-",
+    "overview": "",
+    "popularity": 55.217,
+    "poster_path": "/sLS4zQgGoFdWqss9TrEfaYMGmkF.jpg",
+    "production_companies": [
+        {
+            "id": 164801,
+            "logo_path": null,
+            "name": "JCTV",
+            "origin_country": ""
+        },
+        {
+            "id": 164802,
+            "logo_path": null,
+            "name": "Studio51",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 12,
+            "id": 205677,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sLS4zQgGoFdWqss9TrEfaYMGmkF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 1.5,
+    "vote_count": 2
+}

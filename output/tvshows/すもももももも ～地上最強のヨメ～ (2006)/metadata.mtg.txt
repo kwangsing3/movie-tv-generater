@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/nACdlUB0yW5RrQYBIt7Gw7Q2BjF.jpg",
+    "created_by": [
+        {
+            "id": 1607435,
+            "credit_id": "5f32701e9a358d0038944eb0",
+            "name": "Shinobu Otaka",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2006-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tv-sumomo.com/",
+    "id": 82509,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-08-24",
+    "last_episode_to_air": {
+        "air_date": "2007-08-24",
+        "episode_number": 24,
+        "id": 2385833,
+        "name": "Kidnapped Koushi! (OVA DVD)",
+        "overview": "Koushi is kidnapped.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sumomomo Momomo - The Strongest Bride on Earth",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "すもももももも ～地上最強のヨメ～",
+    "overview": "Koushi is in high school, oblivious to the marriage arranged for him at his birth. Enter Momoko Kuzuryuu: airhead martial artist and Koushi's self-proclaimed bride. Her wish for sexual intercourse meets with Koushi's square refusal as he has absolutely no desire to get it on with someone who looks like she could be his little sister, not to mention that he doesn't have the foggiest idea who she actually is.\n\nMeanwhile, a war has broken out between the martial arts families. For Koushi, this means that numerous fighters are out to challenge/assassinate him.",
+    "popularity": 3.666,
+    "poster_path": "/dqTGGbhb5fgsWP3hZsgpi0b8EXD.jpg",
+    "production_companies": [
+        {
+            "id": 78802,
+            "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+            "name": "Studio Hibari",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 2,
+            "id": 156727,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-10-05",
+            "episode_count": 24,
+            "id": 109655,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/peaMR9bVkxvcyfBew4AnAZAV0T1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 4
+}

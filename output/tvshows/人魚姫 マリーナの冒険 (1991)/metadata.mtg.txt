@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/twoRT9mTe6DFM9DzD4P5eF9wDzM.jpg",
+    "created_by": [
+        {
+            "id": 63977,
+            "credit_id": "5cc321199251412577ff9c7d",
+            "name": "Hans Christian Andersen",
+            "gender": 2,
+            "profile_path": "/azV6ZIGZh80eZpVCHAu2cDnytJb.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1991-02-02",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 43990,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1991-07-27",
+    "last_episode_to_air": {
+        "air_date": "1991-07-27",
+        "episode_number": 26,
+        "id": 2515900,
+        "name": "Waste Not, Want Not",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Adventures of the Little Mermaid",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Antenne 2",
+            "id": 1130,
+            "logo_path": "/s1LJ4va6BZq17ebVQs0T9bBthgC.png",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "FR",
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "人魚姫 マリーナの冒険",
+    "overview": "Marina, a lonely mermaid, is bored of underwater life. She wants legs. She goes to the sea witch. She is given a magic whistle that when blown, can turn her into a human or mermaid. The Prince and Marina fall in love but she can't stay with him until she can get the sea witch off her case.ja",
+    "popularity": 3.539,
+    "poster_path": "/sIPVyBbiTaRmzgZ4ZQ7gRmgm81Z.jpg",
+    "production_companies": [
+        {
+            "id": 10267,
+            "logo_path": null,
+            "name": "Studio Telescreen Japan",
+            "origin_country": ""
+        },
+        {
+            "id": 929,
+            "logo_path": null,
+            "name": "Fuji Eight Company",
+            "origin_country": ""
+        },
+        {
+            "id": 7958,
+            "logo_path": null,
+            "name": "Fuji Eight Company Ltd.",
+            "origin_country": ""
+        },
+        {
+            "id": 1117,
+            "logo_path": "/2X2uFeObxawiAajNDOf3Mhri5Wg.png",
+            "name": "Antenne 2",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1991-02-02",
+            "episode_count": 26,
+            "id": 71603,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 2
+}

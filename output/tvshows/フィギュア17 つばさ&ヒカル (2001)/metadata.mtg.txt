@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/49L4AMmw8w4edK9jrACimYMChEY.jpg",
+    "created_by": [
+        {
+            "id": 1253456,
+            "credit_id": "5258dea8760ee3466177f38d",
+            "name": "Genco and OLM, Inc",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2001-05-27",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 35465,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-05-26",
+    "last_episode_to_air": {
+        "air_date": "2002-05-26",
+        "episode_number": 13,
+        "id": 801664,
+        "name": "Do you remember kindness?",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gQdtbvO5mw3d7CVnEcqqS04uZva.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Figure 17: Tsubasa & Hikaru",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "フィギュア17 つばさ&ヒカル",
+    "overview": "Tsubasa Shiina witnesses a UFO crash in the forest near her home. She rushes to the scene and there an alien lifeform fuses with her body to form the battle armor Figure 17.",
+    "popularity": 4.313,
+    "poster_path": "/7PmcxWi7ICGZ9RrVUp8AKNsf7wO.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-05-27",
+            "episode_count": 13,
+            "id": 46176,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 3
+}

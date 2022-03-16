@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/c0f5pyLdO91kLk8dgld8bEDms16.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://warubure-anime.com/",
+    "id": 66919,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-29",
+    "last_episode_to_air": {
+        "air_date": "2015-03-29",
+        "episode_number": 12,
+        "id": 1371746,
+        "name": "Surpass Two Lives",
+        "overview": "The Saviors fight valiantly in what appears to be a losing battle against an unusually intelligent Metaphysical. When Moroha finally enters the fray, he finds it will take more than his powers alone to emerge victorious.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cApsscPvsUuJc2GhcIvVFzsaMoU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "World Break: Aria of Curse for a Holy Swordsman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "聖剣使いの禁呪詠唱",
+    "overview": "The scenery takes place in a private high school involving the concept of \"saviors.\" They are known as people who possess awakened memories of their past lives. The story tells of a young boy named Moroha Haimura who comes to this private school. At the school, there are two types of people: Saviors, who fight enemies with weapons and techniques gleaned from the Puraana powers from their own bodies, and Kuroma, who wipe out enemies with magic to manipulate the Maana powers that surpass physics. Moroha Haimura is the first person with past lives of both Shirogane and Kuroma.",
+    "popularity": 17.919,
+    "poster_path": "/e083Kkp9cC3no0Zc17gQVKBFqLu.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-01-11",
+            "episode_count": 12,
+            "id": 78109,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rSaDz2XHebffjYfhqIjpE8oEB3i.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 9
+}

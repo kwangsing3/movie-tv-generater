@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/nWXKBU6RMHvOUKI9WpQfC1bgaTM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://kono-healer-anime.com/",
+    "id": 123250,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Don't Hurt Me, My Healer!",
+    "next_episode_to_air": {
+        "air_date": "2022-04-10",
+        "episode_number": 1,
+        "id": 2873057,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "このヒーラー、めんどくさい",
+    "overview": "",
+    "popularity": 6.255,
+    "poster_path": "/yvgSonbC67Ltc2TAHiF1TmdJ424.jpg",
+    "production_companies": [
+        {
+            "id": 108805,
+            "logo_path": null,
+            "name": "Jumondou",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-10",
+            "episode_count": 1,
+            "id": 190462,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yvgSonbC67Ltc2TAHiF1TmdJ424.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

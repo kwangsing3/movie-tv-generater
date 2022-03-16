@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/hRZJ2dPrPIz8QoegrjDkJvHjFrL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.a-ch.jp/",
+    "id": 69189,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-06-24",
+    "last_episode_to_air": {
+        "air_date": "2011-06-24",
+        "episode_number": 12,
+        "id": 1249166,
+        "name": "Alien - Anytime",
+        "overview": "Tooru is worried about the prospect of being left alone after Run and the others eventually graduate. While cleaning up leaves, Yutaka attempts to rescue a cat stuck up a tree. Later, Yūko collects point cards at a fast food restaurant for a free prize, while everyone does impressions of each other. After having a weird dream about Run, Tooru becomes more worried about her fears until she spots Run outside her apartment building, feeling happy that she hasn't changed.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rogczzA9orH0x7yhIwL6PCnkm0q.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "A-Channel",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Aチャンネル",
+    "overview": "Tooru and Run have been best friends forever, so when Tooru learns that she's managed to get into the same high school as Run, she runs to tell her... only to find Run in a compromising position with yet another girl, Yuko. Needless to say, that makes things a bit awkward at school, with Tooru fending off those who might be interested in Run while Yuko and their other girlfriend, Nagi, have to deal with Run's own penchant for drama.",
+    "popularity": 5.342,
+    "poster_path": "/8v5DNnmMgFpjSw4RPrEDP86Isxr.jpg",
+    "production_companies": [
+        {
+            "id": 25504,
+            "logo_path": null,
+            "name": "Studio Gokumi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-05-25",
+            "episode_count": 14,
+            "id": 174057,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/41ri3thjlh3SfvyNHdrRyjJe6ph.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-04-08",
+            "episode_count": 12,
+            "id": 82999,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qtWjs2iTCbOZr96bQVq3FWCZz3e.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 23
+}

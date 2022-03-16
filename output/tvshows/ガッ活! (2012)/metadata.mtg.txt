@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/2E3zcpzZSbSpWI2qITnIr54AcOG.jpg",
+    "created_by": [
+        {
+            "id": 1786523,
+            "credit_id": "5a75c7500e0a2664330365e7",
+            "name": "Rareko",
+            "gender": 2,
+            "profile_path": "/pm73PcuCZvfDAzi08KZZToqDN8w.jpg"
+        }
+    ],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2012-04-03",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www9.nhk.or.jp/anime/gakkatsu/",
+    "id": 55364,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-04-20",
+    "last_episode_to_air": {
+        "air_date": "2013-04-20",
+        "episode_number": 1,
+        "id": 930900,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gakkatsu!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK Educational TV",
+            "id": 622,
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガッ活!",
+    "overview": "In a fictional school, \"Tender Tank\" Rareko is constantly opening absurd yet strangely enthusiastic debates, this way creating a lively classroom life. Bringing up tremendous themes, she and her classmates exchange words like sword-strokes, and here and there even a profound remark is slipped in.\n\nFun and informative debate comedy, packed into only five minutes each time.",
+    "popularity": 0.881,
+    "poster_path": "/Qd35k51iSMMn93Zt0pbT6ZcCrx.jpg",
+    "production_companies": [
+        {
+            "id": 103564,
+            "logo_path": "/t0dnUMFPjzPStIkEM3Pm1rGLIQ8.png",
+            "name": "Fanworks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-03",
+            "episode_count": 25,
+            "id": 57252,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2013-04-20",
+            "episode_count": 1,
+            "id": 57253,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

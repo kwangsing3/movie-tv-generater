@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/phNTciK1qPvUqbX6hkT3sg6PQ6m.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://megaton-musashi.jp",
+    "id": 129553,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-24",
+    "last_episode_to_air": {
+        "air_date": "2021-12-24",
+        "episode_number": 13,
+        "id": 3397774,
+        "name": "Life of a Miracle",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Megaton Musashi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS Fuji",
+            "id": 1136,
+            "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Megaton Musashi",
+    "overview": "In an ordinary town, there are people who live a peaceful and fulfilling life. But they don't know that it is a false peace. The untold truth... The earth has already been destroyed... 99.9% of the human race has been wiped out by a mysterious alien force from outer space. The enemy is named \"Dracters.\" Eventually, a large hole was drilled in the earth and terraformed into a suitable environment for the aliens to live. Humans have no choice but to hide in shelters to escape their eyes. Waiting for the day of resurrection, which they do not know when it will come... The inhabitants of the shelter Ixia have had their memories of the day of destruction erased, and live a normal life without knowing anything about it. However, some of them, the \"chosen ones,\" have become pilots, driving giant robots called \"Rogue\" and fighting against aliens. Today, another new pilot is selected...",
+    "popularity": 12.234,
+    "poster_path": "/8cz1PoLOi72iarRQhTdLRCyyGxm.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-01",
+            "episode_count": 13,
+            "id": 203127,
+            "name": "Season 1",
+            "overview": "In an ordinary town, there are people who live a peaceful and fulfilling life. But they don't know that it is a false peace. The untold truth... The earth has already been destroyed... 99.9% of the human race has been wiped out by a mysterious alien force from outer space. The enemy is named \"Dracters.\" Eventually, a large hole was drilled in the earth and terraformed into a suitable environment for the aliens to live. Humans have no choice but to hide in shelters to escape their eyes. Waiting for the day of resurrection, which they do not know when it will come... The inhabitants of the shelter Ixia have had their memories of the day of destruction erased, and live a normal life without knowing anything about it. However, some of them, the \"chosen ones,\" have become pilots, driving giant robots called \"Rogue\" and fighting against aliens. Today, another new pilot is selected...",
+            "poster_path": "/8cz1PoLOi72iarRQhTdLRCyyGxm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

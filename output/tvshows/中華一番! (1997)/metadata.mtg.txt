@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/hYCZxCdf5GRVzvZGnBrelT444fw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1997-04-27",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://cookingmaster-anime.jp/",
+    "id": 25080,
+    "in_production": false,
+    "languages": [
+        "zh",
+        "ja"
+    ],
+    "last_air_date": "1998-09-13",
+    "last_episode_to_air": {
+        "air_date": "1998-09-13",
+        "episode_number": 52,
+        "id": 650429,
+        "name": "The Big Reversal! The Brave Chef`s Glory",
+        "overview": "While Fei and his team are working away cooking, Mao is still thinking of what to cook, with his friends anxiously waiting. Finally, after observing the king for a little, he comes up with a 'theme' and they start cooking. After a lot of rushing and hurrying, they finally finish their 100 dishes just in time. Fei presents his neo Man Han Banquet, and the king takes one spoon out of each of the 100 dishes and says that he's full (implying that Mao's dishes are rejected). However, after some begging from Mao, the king decides that he will try one dish. After that, he became crazy, and started eating more and more until he finished all 100 dishes! So he askes Mao the secret behind his dishes, and Mao said that he had observed that the king had small wrists and oily skin and the theme of his food was to be healthy and fresh. Then the king declares that Mao has won, and Mao says that he doesn't want to take the job, instead travel to find the remaining cooking utensils. He then askes Fei to come along, and Fei tells them why he joined the UCS. So they set off to look for the remaining 5 cooking utensils.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cooking Master Boy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "中華一番!",
+    "overview": "",
+    "popularity": 17.896,
+    "poster_path": "/WUngFmcOcGKMeyTSuhxr00sUbs.jpg",
+    "production_companies": [
+        {
+            "id": 123014,
+            "logo_path": null,
+            "name": "JY Animation",
+            "origin_country": ""
+        },
+        {
+            "id": 74838,
+            "logo_path": null,
+            "name": "NAS",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1997-04-27",
+            "episode_count": 52,
+            "id": 35312,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5ROCcOQuxoRy2xsotmRRhxLcWXF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 7
+}

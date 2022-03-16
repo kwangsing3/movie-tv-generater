@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/pDoEnOctrYtcsSPQ8diqL4xCkT.jpg",
+    "created_by": [
+        {
+            "id": 89972,
+            "credit_id": "57feae9a925141471c000210",
+            "name": "Hajime Kamegaki",
+            "gender": 2,
+            "profile_path": "/l0tvUz7ITTAyLY7XNmSTTO7f8Al.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2006-04-04",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/airgear/index.html",
+    "id": 31670,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-26",
+    "last_episode_to_air": {
+        "air_date": "2006-09-26",
+        "episode_number": 25,
+        "id": 758066,
+        "name": "I'm a Genius!",
+        "overview": "After numerous attempts to complete the devil's thirty thirty, Ikki performs one final jump, reaching 35.09m and beating the previous 34.2m record set by Sora.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6fAJVeKTECUv0tICfEPmRwgkcEM.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Air Gear",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エア・ギア",
+    "overview": "Itsuki Minami is a school student notorious for engaging in street fights, a reckless punk that will break through any obstacle, alongside his best friends Kazuma Mikura and Onigiri. However, when he discovers a pair of Air Trecks his true desire to rule the skies takes off.",
+    "popularity": 19.174,
+    "poster_path": "/fbNkD6MxjSuAN9TFP6rsWwo5gkc.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-03-21",
+            "episode_count": 4,
+            "id": 128765,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9zhOmf0G0kh1XpDbXIMagODR6MO.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-04-04",
+            "episode_count": 25,
+            "id": 43162,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qXORVr199cTafPVoDkhH3aKgSoE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 28
+}

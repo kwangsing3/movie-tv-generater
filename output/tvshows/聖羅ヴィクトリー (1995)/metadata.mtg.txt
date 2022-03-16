@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/yuIIixNzFNoCQwiPmDts2fRDzbZ.jpg",
+    "created_by": [
+        {
+            "id": 3451082,
+            "credit_id": "6220e74b6f43ec001cb2409d",
+            "name": "Headroom",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1995-06-25",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 105950,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-08-25",
+    "last_episode_to_air": {
+        "air_date": "1995-08-25",
+        "episode_number": 2,
+        "id": 2349156,
+        "name": "Young Maidens in a Pinch - Death of the Cherry Blossom Under the Evil Spirit!?",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sailor Victory",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "聖羅ヴィクトリー",
+    "overview": "Five Female high school friends reunite as the secret crime-fighting organization known as Sailor Victory. Commanding 3 giant Ninja Robots, Gion, Momoyama and Sagano, they fight evil in the virtual-future city of Mikado.\n\nWhen a disgraced and disgruntled city official turns to the dark side, he joins forces with the evil and sinister Margarita. While he merely wants to humiliate the Sailor Victory crew, Margarita’s objective is the complete and total annihilation of Mikado City. Only the sweet and innocent Sailor Victory can protect the city from this wicked power.",
+    "popularity": 1.022,
+    "poster_path": "/9COVjVlu4STMipG8d66YcPQpiea.jpg",
+    "production_companies": [
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104938,
+            "logo_path": "/ffeiDYMEXeqf2QSW5jNjNc4opbz.png",
+            "name": "animate",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 15237,
+            "logo_path": null,
+            "name": "Media Blasters",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-06-25",
+            "episode_count": 2,
+            "id": 156236,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9COVjVlu4STMipG8d66YcPQpiea.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "It takes more than a sailor suit to be a hero!",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0
+}

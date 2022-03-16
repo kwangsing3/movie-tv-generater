@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/tN8OCeLW08RDRQtdpnYY3MQTh8i.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2022-01-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.fujitv.co.jp/animation/kawashiri-kodama/",
+    "id": 133387,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-11",
+    "last_episode_to_air": {
+        "air_date": "2022-03-11",
+        "episode_number": 9,
+        "id": 3447481,
+        "name": "Strategic Retreat",
+        "overview": "Kawashiri Kodama, a dangerous lifehacker, strategically retreats.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yvye72usQ5TDeSU4jH2MQQJHT1r.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "I'm Kodama Kawashiri",
+    "next_episode_to_air": {
+        "air_date": "2022-03-18",
+        "episode_number": 10,
+        "id": 3447482,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あたしゃ川尻こだまだよ〜デンジャラスライフハッカーのただれた生活〜",
+    "overview": "The story depicts the lazy, unhealthy daily life of Kawajiri, who loves alcohol and anything greasy, salty, or sweet.",
+    "popularity": 14.521,
+    "poster_path": "/5WbTGQQpqiQ8t2W2UDC9k1ThGE6.jpg",
+    "production_companies": [
+        {
+            "id": 128785,
+            "logo_path": "/tmlV71dSJ2GIGj4VhVT0DzYDac7.png",
+            "name": "Lapin Track",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-14",
+            "episode_count": 12,
+            "id": 210597,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

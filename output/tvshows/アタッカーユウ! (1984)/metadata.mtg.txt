@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/lIykOzcXC0anF86E7pqU8SfmuHe.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "1984-04-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 9477,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1985-06-21",
+    "last_episode_to_air": {
+        "air_date": "1985-06-21",
+        "episode_number": 58,
+        "id": 1379756,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xLfDFCQrRert2fjIPU5Zzpqko1c.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Attacker You!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TXN Network",
+            "id": 3111,
+            "logo_path": "/jxnfcJz2lH8cko542t7PVEEZ9L7.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 58,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アタッカーユウ!",
+    "overview": "The adventures of a young volleyball player who moves the Japanese countryside to live with her father.",
+    "popularity": 14.737,
+    "poster_path": "/6iiSUJbxIA2XiFfEZCHk15LmlOG.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 82919,
+            "logo_path": null,
+            "name": "KnacK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1984-04-13",
+            "episode_count": 58,
+            "id": 81222,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/OjJLEGUiQOHEFovbIVi2Rwx6ei.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 5
+}

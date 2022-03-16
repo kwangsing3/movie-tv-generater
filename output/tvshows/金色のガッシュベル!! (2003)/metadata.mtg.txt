@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/aHLnsMNfKZWn1rFVHqPCVfCfLaA.jpg",
+    "created_by": [
+        {
+            "id": 1257711,
+            "credit_id": "5abc85910e0a2609e40210f8",
+            "name": "Makoto Raiku",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/GB/",
+    "id": 35894,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-26",
+    "last_episode_to_air": {
+        "air_date": "2006-03-26",
+        "episode_number": 150,
+        "id": 1482094,
+        "name": "Decisive Battle Against Faudo! The Golden Radiance. The Kind King",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Zatch Bell!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 150,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "金色のガッシュベル!!",
+    "overview": "Takamine Kiyomaro, a depressed don't-care-about-the-world guy, was suddenly given a little demon named Gash Bell to take care of. Little does he know that Gash is embroiled into an intense fight to see who is  the ruler of the demon world.",
+    "popularity": 44.179,
+    "poster_path": "/m5KA8J7AKcYIoM8f0GBAFBjy54m.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-09-03",
+            "episode_count": 4,
+            "id": 103332,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/n3mE6Bw1BXWnaDYc5wa8X3OnduQ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-04-06",
+            "episode_count": 150,
+            "id": 46692,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/527N2AQn1WnQ9oB288ouRXJ56FN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 141
+}

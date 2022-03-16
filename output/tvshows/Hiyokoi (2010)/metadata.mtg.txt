@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": "/i7cxh885tsXBZ5OM7W9m0t8m3aA.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2010-07-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 103574,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-07-30",
+    "last_episode_to_air": {
+        "air_date": "2010-07-30",
+        "episode_number": 1,
+        "id": 2273830,
+        "name": "Hiyokoi",
+        "overview": "Hiyori, a small and timid girl, goes to school for the first time in a year since an accident left her hospitalized. Follow her as she struggles with her social skills, tries to make friends and maybe even a little bit more...?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hiyokoi",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Hiyokoi",
+    "overview": "Hiyori, a small and timid girl, goes to school for the first time in a year since an accident left her hospitalized. Follow her as she struggles with her social skills, tries to make friends and maybe even a little bit more...?",
+    "popularity": 1.4,
+    "poster_path": "/b4gIlgud5HzCeFWMd3HT8RvtBFP.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2010-07-30",
+            "episode_count": 1,
+            "id": 151115,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/b4gIlgud5HzCeFWMd3HT8RvtBFP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

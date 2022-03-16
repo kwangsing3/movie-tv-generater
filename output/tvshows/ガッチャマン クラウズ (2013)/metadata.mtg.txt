@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/mGIgwTFuut9rkkuYa5UavzcPmkW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2013-07-13",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.ntv.co.jp/GATCHAMAN_Crowds/",
+    "id": 61527,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-27",
+    "last_episode_to_air": {
+        "air_date": "2015-09-27",
+        "episode_number": 12,
+        "id": 1167596,
+        "name": "insight",
+        "overview": "Having accepted the masses' wishes, the Gatchamen head to battle with a strong resolve to put everything they have on the line in order to grant them.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/rGXpG7IQSRsVhqTe3zy0o7p8xVc.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gatchaman Crowds",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガッチャマン クラウズ",
+    "overview": "Tachikawa, Japan, is a \"second metropolis\" of Tokyo, protected by the Gatchaman, warriors who fight in special reinforced suits powered by the manifestation of their spiritual powers called NOTE. When the energetic and cheerful Hajime Ichinose becomes their newest member, the Gatchaman must deal with Berg Katze, an enigmatic alien creature bent on destroying Earth just like it did with several other planets in the past.",
+    "popularity": 13.855,
+    "poster_path": "/sy6A71E7WVfBUQQkXOn1QQe1R4O.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-01-22",
+            "episode_count": 2,
+            "id": 74776,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-07-13",
+            "episode_count": 12,
+            "id": 63135,
+            "name": "Gatchaman Crowds",
+            "overview": "As the energetic and cheerful Hajime Ichinose joins the mysterious and secretive Gatchaman team, a new collaborative social network called GALAX is having enormous impacts on society. But when GALAX, and the power of Crowds, falls into the wrong hands, Tachikawa may need a kind of hero they've never known before.",
+            "poster_path": "/sy6A71E7WVfBUQQkXOn1QQe1R4O.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2015-07-05",
+            "episode_count": 12,
+            "id": 74764,
+            "name": "Gatchaman Crowds Insight",
+            "overview": "",
+            "poster_path": "/vbhQyHAXEgFikRkxQ4gtZ6TyCem.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 20
+}

@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/fArx4Rk3zt0x95svGALS6ItdWkr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.standmyheroes.tv/",
+    "id": 93818,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-23",
+    "last_episode_to_air": {
+        "air_date": "2019-12-23",
+        "episode_number": 12,
+        "id": 2010153,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uJyZHsVPg6omO7IuUMSlsyjI1t6.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Stand My Heroes: Piece of Truth",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スタンドマイヒーローズ PIECE OF TRUTH",
+    "overview": "Newcomer Rei Izumi is joining the narcotics investigation unit of the Ministry of Health, Labour and Welfare. As a scout for the newly created STAND, she’s going to recruit the most unique of agents, investigators, and informants to make up a specialized team to safeguard the country. And their first mission is to discover the hazardous drug destroying the lives of innocent Tokyo citizens.",
+    "popularity": 5.074,
+    "poster_path": "/v6t3OIRMdWJ1w26Cwkv2uJIRODE.jpg",
+    "production_companies": [
+        {
+            "id": 26258,
+            "logo_path": null,
+            "name": "M.S.C.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-07",
+            "episode_count": 12,
+            "id": 132686,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qbtfWuCmbeTm1B7u4mWh1bhBq5N.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.8,
+    "vote_count": 5
+}

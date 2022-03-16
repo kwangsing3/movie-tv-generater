@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/n37Q4McCD6EpiZJICgsDJWUhkWE.jpg",
+    "created_by": [
+        {
+            "id": 1979876,
+            "credit_id": "60273a55149565003e08f03d",
+            "name": "LeSean Thomas",
+            "gender": 2,
+            "profile_path": "/2a3vAPSKlv8unNQlJFAnztH56PJ.jpg"
+        }
+    ],
+    "episode_run_time": [
+        28
+    ],
+    "first_air_date": "2021-04-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80990863",
+    "id": 112166,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-04-29",
+    "last_episode_to_air": {
+        "air_date": "2021-04-29",
+        "episode_number": 6,
+        "id": 2781123,
+        "name": "Balance",
+        "overview": "While Morisuke and his men create a protective shield around the temple, Yasuke and Saki face off with the Daimyo in Azuchi Castle.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/282TNHTiT5PcvnRpJdPzDPAXTEG.jpg",
+        "vote_average": 6,
+        "vote_count": 3
+    },
+    "name": "Yasuke",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Yasuke",
+    "overview": "In a war-torn feudal Japan filled with mechs and magic, the greatest ronin never known, Yasuke, struggles to maintain a peaceful existence after a past life of violence. But when a local village becomes the center of social upheaval between warring daimyo, Yasuke must take up his sword and transport a mysterious child who is the target of dark forces and bloodthirsty warlords.",
+    "popularity": 15.101,
+    "poster_path": "/hgYqEkZQS2fgC6E9fe8Le1Kxbmw.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150545,
+            "logo_path": "/df2KyiUSCxpoQxV88AI3zxu8kbD.png",
+            "name": "dugout",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-29",
+            "episode_count": 6,
+            "id": 166874,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rAz5y8H7ZvNmVpigabFUPsTpLd6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Honor has a new name.",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 164
+}

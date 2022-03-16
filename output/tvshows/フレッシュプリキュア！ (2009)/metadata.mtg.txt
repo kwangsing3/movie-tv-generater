@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/lqc7NS9aw5cU1Kqlre6AKHBXb3M.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-02-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/fresh_precure/",
+    "id": 46128,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-01-31",
+    "last_episode_to_air": {
+        "air_date": "2010-01-31",
+        "episode_number": 50,
+        "id": 907389,
+        "name": "So Many Smiles! Everyone Will Get Their Happiness!!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3HZ3YReLG6F9Q0ystMDR6zrBKvX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fresh Pretty Cure!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "フレッシュプリキュア！",
+    "overview": "Fresh Pretty Cure! is a Japanese anime series and the sixth Pretty Cure installment by Izumi Todo. Produced by Toei Animation, the series was directed by Junji Shimizu and written by Atsushi Maekawa. Character designs were created by Hisashi Kagawa, who previously designed the characters in the anime Saikano, and Kamikaze Kaitou Jeanne. The series aired on TV Asahi's ANN network between February 1, 2009 and January 31, 2010, replacing Yes! PreCure 5 Go Go! in its initial time slot, and was succeeded by HeartCatch PreCure!. This is the first Pretty Cure series to extend the target-audience demographic beyond young girls, as well as the first to introduce CG-animated end credits focused on dance routines.\n\nThe series's main themes involve traditional playing-card suits, fruits and clovers; these symbols are associated with the cures, magical devices and attacks used by the series' characters.",
+    "popularity": 10.874,
+    "poster_path": "/tjwsfeFU2rNA32kCAYjH7Wj6RjU.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2009-02-01",
+            "episode_count": 50,
+            "id": 54489,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tjwsfeFU2rNA32kCAYjH7Wj6RjU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 4
+}

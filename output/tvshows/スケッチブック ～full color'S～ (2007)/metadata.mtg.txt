@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/dtMWRLSsaB9Lr4l6f1Bl0Gf6UMK.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2007-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.mag-garden.co.jp/sketchbook/index.html",
+    "id": 72249,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-12-25",
+    "last_episode_to_air": {
+        "air_date": "2007-12-25",
+        "episode_number": 13,
+        "id": 1327374,
+        "name": "The Lonely Art Club",
+        "overview": "After a lively afternoon picnic surrounded by cherry trees in full bloom, Sora finds herself alone in an empty Art Club room. But even though no one is with her, she doesn't feel lonely. Taking brush in hand, Sora finally paints what's in her heart.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sketchbook ~full color's~",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スケッチブック ～full color'S～",
+    "overview": "No matter where she goes, Sora takes her sketchbook along. The world is full of mysterious and beautiful things, after all, and Sora doesn't want to miss a single one. The best way she knows to capture each moment is by drawing and sketching, watching and learning.",
+    "popularity": 3.988,
+    "poster_path": "/thUCyc63onPYj6baWXOsFUf8b17.jpg",
+    "production_companies": [
+        {
+            "id": 72652,
+            "logo_path": null,
+            "name": "Hal Film Maker",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-10-02",
+            "episode_count": 13,
+            "id": 89306,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

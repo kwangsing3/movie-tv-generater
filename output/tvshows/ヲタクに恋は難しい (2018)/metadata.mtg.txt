@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/mYunpuXqt2nCwrcq00am9zeca7h.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-04-13",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://wotakoi-anime.com",
+    "id": 78457,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-22",
+    "last_episode_to_air": {
+        "air_date": "2018-06-22",
+        "episode_number": 11,
+        "id": 1509739,
+        "name": "Love Is Hard for Otaku",
+        "overview": "Narumi goes over to Hirotaka's place on the last day of vacation while fantasizing about how Hirotaka would react when she shows up unannounced. However, when she rings the doorbell, no one answers.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qQRQwk4wB6SDKrsjNgzgEdZJVj.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Wotakoi: Love Is Hard for Otaku",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヲタクに恋は難しい",
+    "overview": "When Narumi, an office lady who hides the fact that she is a yaoi fangirl, changes jobs, she is reunited with Hirotaka, her childhood friend who is attractive and skilled but is a hardcore gaming otaku. They decide to start dating for now, but being otaku, both of them are awkward so a serious romantic relationship is rather difficult for them...",
+    "popularity": 34.255,
+    "poster_path": "/fpDesSzDRMFGIJbcuC2WVCveC2P.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 128785,
+            "logo_path": "/tmlV71dSJ2GIGj4VhVT0DzYDac7.png",
+            "name": "Lapin Track",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-03-29",
+            "episode_count": 3,
+            "id": 123756,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/yzj7tHdU07BzRaD6jiiiALr1gQC.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-04-13",
+            "episode_count": 11,
+            "id": 101715,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fpDesSzDRMFGIJbcuC2WVCveC2P.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 53
+}

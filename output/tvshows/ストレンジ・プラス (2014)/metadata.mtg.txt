@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/rY8wWO0uB5JJGHIfg8FhzCL4XL6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2014-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.dreamcreation.co.jp/stpl/",
+    "id": 72806,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-25",
+    "last_episode_to_air": {
+        "air_date": "2014-09-25",
+        "episode_number": 12,
+        "id": 1549673,
+        "name": "Suto*pura",
+        "overview": "Suddenly, Kou finds himself in the world of gal games. Who could the heroine be?",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/qfNn6lbrwPZrWrieBdQsyME8aVR.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Strange+",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ストレンジ・プラス",
+    "overview": "Kou comes to a slum neighborhood in search of his elder brother Takumi and finds him to have become the head of a private detective firm. Kou is drafted by Takumi to do errands and chores in the detective firm, and they come to meet interesting people...",
+    "popularity": 2.66,
+    "poster_path": "/r6lkbv7XtD9e2vL366dHA7juIcv.jpg",
+    "production_companies": [
+        {
+            "id": 92966,
+            "logo_path": "/9zBMa5LyxHKyatDLHJGal7jetHR.png",
+            "name": "Seven",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-17",
+            "episode_count": 1,
+            "id": 200208,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-01-10",
+            "episode_count": 12,
+            "id": 90420,
+            "name": "Strange+",
+            "overview": "",
+            "poster_path": "/rsbGHR4DJusy3TAmKPuuJ5zZejl.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-07-10",
+            "episode_count": 12,
+            "id": 107922,
+            "name": "Shin Strange+",
+            "overview": "",
+            "poster_path": "/nAXYcxfdfFmZDVP8a4jUNVMgfh7.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.7,
+    "vote_count": 3
+}

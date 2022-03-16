@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/htG5EU3tV8HMro9Hpa03YgiyZeR.jpg",
+    "created_by": [
+        {
+            "id": 1466086,
+            "credit_id": "61cf10e5e640d600417cf6a8",
+            "name": "Asaura",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://lycoris-recoil.com/",
+    "id": 154494,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Lycoris Recoil",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "リコリス・リコイル",
+    "overview": "",
+    "popularity": 0.84,
+    "poster_path": "/8PPBy8o7klJuwBRkky4ebMpzRb7.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 237827,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zOkk3f8YuEODU3as73EEeKIDTOq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

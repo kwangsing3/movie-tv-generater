@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1994-10-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 138114,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1994-12-21",
+    "last_episode_to_air": {
+        "air_date": "1994-12-21",
+        "episode_number": 2,
+        "id": 3326462,
+        "name": "My dear friend",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Birth: Debut",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "誕生 ～Debut～",
+    "overview": "Aki Itou is a normal high school girl doing normal things: reading books, feeding stray cats, eating at restaurants with her friend Kumi, dreaming of being an adult, and admiring the boy she likes. However, the reality is not always kind to girls with dreams, as she finds out.",
+    "popularity": 0.626,
+    "poster_path": "/2CJOoqm8YPjcKzdHOYrTgj99Rr.jpg",
+    "production_companies": [
+        {
+            "id": 13064,
+            "logo_path": null,
+            "name": "Animate Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 648,
+            "logo_path": "/nCIeUG7ntLvo8aMXIkldyCy8g5G.png",
+            "name": "Sony Music Entertainment (Japan)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-10-21",
+            "episode_count": 2,
+            "id": 218664,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

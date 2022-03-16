@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/nT7setuxQpz3ucrp5bUQYAm6s1b.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1993-03-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 26121,
+    "in_production": false,
+    "languages": [
+        "fr",
+        "ja"
+    ],
+    "last_air_date": "1994-08-25",
+    "last_episode_to_air": {
+        "air_date": "1994-08-25",
+        "episode_number": 7,
+        "id": 665704,
+        "name": "Youth to the Rescue",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Alien Defender Geo-Armor, Kishin Corps",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機神兵団",
+    "overview": "October 1941, as the second World War threatens to destroy the civilized world, an unforeseen complication suddenly occurs. An alien invasion! Despite the sudden appearance of these extraterrestrial aggressors, the Axis and Allies continue their destructive conflict. Only the Kishin Corps and their giant Geo-Armor Robots (a.k.a.: Kishin), developed from a captured alien robot soldier, stand between the Earth and total annihilation!\n\nA teenager, named Taishi, suddenly finds himself at the center of a struggle over a mysterious black attaché case entrusted to him by his father, Professor Tokamura. The case contains the controlling mechanism for one of the giant Geo-Armor Robots, and the Japanese Kanto Army, the alien invaders, and the Kishin Corps all want to recover the device! Between the spies, the armies, the aliens, and the Giant Robots, Taishi is in for an epic adventure—if he can survive it!",
+    "popularity": 2.878,
+    "poster_path": "/qY3qYfFu0ck3JBbzjWyE8sBbtae.jpg",
+    "production_companies": [
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104486,
+            "logo_path": null,
+            "name": "Ginga Teikoku",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1993-03-25",
+            "episode_count": 7,
+            "id": 36573,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bFClKdYu8zoBGxNlIoYcxWzvAXM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

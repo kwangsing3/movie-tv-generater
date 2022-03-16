@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/fQn8dzKpQ9XbOa1AyYTYFQLINZ3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1996-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 43032,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-03-27",
+    "last_episode_to_air": {
+        "air_date": "2008-03-27",
+        "episode_number": 23,
+        "id": 884740,
+        "name": "Extra Edition: Under Arrest",
+        "overview": "Miyuki and Natsumi have managed to capture the lead phantom racer. Aoi and Yoriko go on some adventures; will they be the next exciting Bokuto duo?",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "You're Under Arrest!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 100,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "逮捕しちゃうぞ",
+    "overview": "Tokyo Highway Patrolwomen Natsumi and Miyuki get off to a bad start when Miyuki busts Natsumi for reckless moped driving on her way to work. Things get worse when they find out they're going to be partners!",
+    "popularity": 20.359,
+    "poster_path": "/ySk3yzbkaIns1sxti9tSNJInzAz.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-03-30",
+            "episode_count": 24,
+            "id": 52490,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/BvfqzcCEgcPkBKO9nw47jv2YNM.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1996-10-05",
+            "episode_count": 51,
+            "id": 52492,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sgJI4G5H5EdLhqo7AEjwIEYPkqn.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2001-04-07",
+            "episode_count": 26,
+            "id": 52491,
+            "name": "Second Season",
+            "overview": "",
+            "poster_path": "/sNvNEIcM4QroXhlPdueVMhDa1r7.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2007-10-03",
+            "episode_count": 23,
+            "id": 52493,
+            "name": "Full Throttle",
+            "overview": "",
+            "poster_path": "/8ZO0GBumXq29llZQbu6PKaHQTG0.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

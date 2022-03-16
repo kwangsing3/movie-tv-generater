@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2007-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.avexmovie.jp/wk/000120.html",
+    "id": 34671,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-03-18",
+    "last_episode_to_air": {
+        "air_date": "2008-03-18",
+        "episode_number": 23,
+        "id": 789788,
+        "name": "Rokusan",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mokke",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "もっけ",
+    "overview": "Mokke is a Japanese manga series written and illustrated by manga author Takatoshi Kumakura. The manga was first serialized in the Japanese seinen manga magazine Afternoon Season Zoukan on August 2000. The magazine was suspended after its 14th issue, and the manga continued its serialization from the March 2003 issue of Afternoon magazine. An anime adaptation by Madhouse and Tezuka Productions started its broadcast run in October 2007.\n\nThe kanji representation of the title is 勿怪, which means \"unexpected\".",
+    "popularity": 4.072,
+    "poster_path": "/k7Au68ZkarFR31WBg9O3LN6KuGT.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 45413,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-10-02",
+            "episode_count": 24,
+            "id": 45412,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 4
+}

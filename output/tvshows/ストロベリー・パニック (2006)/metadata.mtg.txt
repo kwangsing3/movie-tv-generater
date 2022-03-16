@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/8wNnApquXIWkcdxpBGXgNXhTimu.jpg",
+    "created_by": [
+        {
+            "id": 1278991,
+            "credit_id": "54974f3e9251413f75005003",
+            "name": "Masayuki Sakoi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 36157,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-25",
+    "last_episode_to_air": {
+        "air_date": "2006-09-25",
+        "episode_number": 26,
+        "id": 822158,
+        "name": "A Beginning",
+        "overview": "The Etoile elections have started. Shizuma makes her final decision about her relationship with Nagisa when she tells Nagisa she loves her in the middle of the ceremony, and the two end up 'eloping' just before the announcement of who won the election. While Amane and Hikari go forward together as the new Etoiles, Shizuma and Nagisa finally consummate their love, but Nagisa has to make up with the heartbroken Tamao.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2vyxWKgaIoYfsFMLcbV2TXLP0cg.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Strawberry Panic!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ストロベリー・パニック",
+    "overview": "Nagisa Aoi is a new transfer student into one of the three prestigious all-girls Catholic high schools on Astraea Hill: a school called St. Miator (the other two are St. Spica and St. Lelim (known in the anime as Le Rim, for some reason). While getting totally lost on her first day, she stumbles into a clearing with a tree, and also into a girl with long silver hair. Nagisa is immediately smitten with the girl, Shizuma Hanazono, otherwise known as the Etoile of the three schools (the most idolized girl). Shizuma, after picking up a figurine dropped by Nagisa, kisses her on the forehead, leading to Nagisa fainting. After waking up in the school's infirmary, Nagisa then meets her new roommate, Tamao Suzumi. Things, however, will be getting a lot more complicated for the new student than just that.",
+    "popularity": 11.657,
+    "poster_path": "/tpgJ26KgCMKY3ya8mOk5ulXzV2o.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-04-03",
+            "episode_count": 26,
+            "id": 47015,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9dFSAWWKfE6oYrm1zrbpJ2yJOqV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 15
+}

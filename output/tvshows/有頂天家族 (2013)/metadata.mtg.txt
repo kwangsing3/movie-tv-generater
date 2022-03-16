@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/cNZT0ELbKlLQqu0qANyI6c8yS3J.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2013-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://uchoten-anime.com",
+    "id": 61338,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-06-25",
+    "last_episode_to_air": {
+        "air_date": "2017-06-25",
+        "episode_number": 12,
+        "id": 1417055,
+        "name": "The Red String of Fate",
+        "overview": "Yasaburo fights with Jyurojin over who rules the skies of Kyoto and Benten appears. Benten tells him to stop and once all seemed to be lost, the sight that appeared before Yasaburo’s eyes was a mixture of conspiracy and utter chaos. A fun thing is a good thing.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/i8sH2712L2jNW39zrPLawBFFejK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Eccentric Family",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "有頂天家族",
+    "overview": "In Kyoto, humans and supernatural creatures live side-by-side. Soichiro Shimogamo used to be the head of tanuki society, but without warning one day he was made into tanuki stew, and no one knows how it happened. He left four sons behind who all live happily with their mother. What does fate have in store for this strongly bonded family?!",
+    "popularity": 24.104,
+    "poster_path": "/jDq0Q9OoeFOqJGCaV9sdn1cmJNy.jpg",
+    "production_companies": [
+        {
+            "id": 20867,
+            "logo_path": "/op3ROO9jB4KwLUZ16VAvuGasRRv.png",
+            "name": "P.A.Works",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-07-07",
+            "episode_count": 13,
+            "id": 62641,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fuLLJQbHsb7kbuCrmETNK3GixXf.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-04-09",
+            "episode_count": 12,
+            "id": 86841,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/sySE8ddCrohomOBypR2cOBCnwqD.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 11
+}

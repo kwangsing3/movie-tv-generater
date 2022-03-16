@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/vBPoQ31jMmdPaVWbw8PQot0wAmE.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www9.nhk.or.jp/anime/ginga/",
+    "id": 44038,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-02-26",
+    "last_episode_to_air": {
+        "air_date": "2013-02-26",
+        "episode_number": 39,
+        "id": 891132,
+        "name": "World Cup of Galaxy",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ginga e Kickoff!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK G\t",
+            "id": 469,
+            "logo_path": "/bH9mwMa64tQeVhmTmkC8Qn9Eoe.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "NHK BS Premium",
+            "id": 2306,
+            "logo_path": "/2XZ8Azne0EKsypd6I3PQ2x1maVu.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "銀河へキックオフ!!",
+    "overview": "The story follows a boy who was in a soccer team, but it was disbanded due to not enough players. However, after the boy meets a female professional soccer player, he aims to bring his soccer team back.",
+    "popularity": 6.324,
+    "poster_path": "/xwu6mqWQcmBAXMRkKw6bn9Yu6Yv.jpg",
+    "production_companies": [
+        {
+            "id": 71226,
+            "logo_path": null,
+            "name": "TYO Animations",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-08-25",
+            "episode_count": 2,
+            "id": 53216,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-04-07",
+            "episode_count": 39,
+            "id": 53215,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 3
+}

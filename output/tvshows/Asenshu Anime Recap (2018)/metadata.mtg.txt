@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/xHm5Sk9WRnnYKZ5ps5SwmCwPAsX.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2018-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10767,
+            "name": "Talk"
+        }
+    ],
+    "homepage": "http://asenshu.com/",
+    "id": 82824,
+    "in_production": true,
+    "languages": [
+        "sq",
+        "en"
+    ],
+    "last_air_date": "2019-12-19",
+    "last_episode_to_air": {
+        "air_date": "2019-12-19",
+        "episode_number": 7,
+        "id": 2022576,
+        "name": "Asenshu - Viti 2019",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ceOjXqS1xT2OEqakUKHH3iBZGN4.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Asenshu Anime Recap",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Asenshu",
+            "id": 2734,
+            "logo_path": null,
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "AL"
+    ],
+    "original_language": "sq",
+    "original_name": "Asenshu Anime Recap",
+    "overview": "Anime Synopsis, News and Spoilers in Albanian.",
+    "popularity": 1.232,
+    "poster_path": "/odnyg3vbZDYcvxCcNkwTsvvPKoj.jpg",
+    "production_companies": [
+        {
+            "id": 109686,
+            "logo_path": null,
+            "name": "Asenshu",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AL",
+            "name": "Albania"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-02",
+            "episode_count": 7,
+            "id": 110285,
+            "name": "Sezoni1",
+            "overview": "",
+            "poster_path": "/odnyg3vbZDYcvxCcNkwTsvvPKoj.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Albanian",
+            "iso_639_1": "sq",
+            "name": "shqip"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0
+}

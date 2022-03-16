@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/r2VtnZR0HdZsLiYTgzFjqbe6qsU.jpg",
+    "created_by": [
+        {
+            "id": 1255463,
+            "credit_id": "52596038760ee3466195d488",
+            "name": "Sōta Sugahara",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2011-10-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://enet-dvd.com/enet/sp/gdgdf/",
+    "id": 42140,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2013-03-28",
+    "last_episode_to_air": {
+        "air_date": "2013-03-28",
+        "episode_number": 12,
+        "id": 878464,
+        "name": "0",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "gdgd Fairies",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "gdgd妖精s",
+    "overview": "gdgd Fairies is a Japanese CG anime television series created and animated by Sōta Sugahara. The series aired on Tokyo MX between October 12, 2011 and December 28, 2011, and was also simulcast by Crunchyroll. A special episode aired in December 2012, and a second season began airing in January 2013.",
+    "popularity": 2.881,
+    "poster_path": "/xjuhhSkjLfxvGtrm1aq138hIkia.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-01-27",
+            "episode_count": 1,
+            "id": 52023,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-10-12",
+            "episode_count": 12,
+            "id": 52022,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xjuhhSkjLfxvGtrm1aq138hIkia.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2013-01-10",
+            "episode_count": 12,
+            "id": 52024,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/tJ3BLW6VkegxWmYAasOjfgvwKkL.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

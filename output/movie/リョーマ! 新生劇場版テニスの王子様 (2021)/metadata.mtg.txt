@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 650270,
+    "imdb_id": "tt13681790",
+    "original_language": "ja",
+    "original_title": "リョーマ! 新生劇場版テニスの王子様",
+    "overview": "",
+    "popularity": 1.805,
+    "poster_path": "/8GT56fW9PIMBKFO5ygNMN4xm4bT.jpg",
+    "production_companies": [
+        {
+            "id": 110539,
+            "logo_path": null,
+            "name": "The Monk Studios",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-11-11",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ryouma! The Prince of Tennis Shinsei Gekijouban Tennis no Ouji-sama",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

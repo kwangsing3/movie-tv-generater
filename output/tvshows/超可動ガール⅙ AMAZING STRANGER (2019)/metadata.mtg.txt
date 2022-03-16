@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/yl4Ltag61cTv0XtwbwMpvzxt7ov.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://choukadou-anime.com/",
+    "id": 87692,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-06-22",
+    "last_episode_to_air": {
+        "air_date": "2019-06-22",
+        "episode_number": 12,
+        "id": 1798106,
+        "name": "Let Me See Your Universe",
+        "overview": "Using the power of wedges, Nona heads to the final world of the anime \"Girl → Planetary Exploration\". It meant farewell to the Harutos. And Haruto who knew it--.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2fedo4hk3iMra1Z5MmhNPuKtaR0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Amazing Stranger",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "超可動ガール⅙ AMAZING STRANGER",
+    "overview": "Bouida Haruto, a hardcore otaku with no interest in 3D (real) women, once appreciated figures from afar, accepting that \"if you get into them, there's no turning back.\" However, when Nona, a character he loved from an anime called \"Girls→Planetary Investigation\" had a figure of her released, he ended up purchasing it. And then that night, the figure of Nona somehow came to life, and a couple-like lifestyle between man and toy began.",
+    "popularity": 11.253,
+    "poster_path": "/pPxakEs1TP6JhclPceGxHBoE8Ey.jpg",
+    "production_companies": [
+        {
+            "id": 95861,
+            "logo_path": "/zgASi8usQpL3nsYjGOywho0VSmM.png",
+            "name": "Studio A-CAT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-04-06",
+            "episode_count": 12,
+            "id": 120675,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qBNIyxotOZptHzUl3vJd9QNJeFF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 5
+}

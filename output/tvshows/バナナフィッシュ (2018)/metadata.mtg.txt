@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/ci7jTekDFEx6U48XUCl3vBMdrns.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-07-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://bananafish.tv/",
+    "id": 80564,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-21",
+    "last_episode_to_air": {
+        "air_date": "2018-12-21",
+        "episode_number": 24,
+        "id": 1636461,
+        "name": "The Catcher in the Rye",
+        "overview": "Ash demands to have the hostages released, in exchange for sparing Golzine's life. But that's when Foxx betrays Golzine. Cain, Sing, and Blanca quickly take action to save the hostages together with Ash. Meanwhile, Eiji, who's in the hospital, decides to finally head back to Japan, but just can't seem to get Ash off of his mind...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/u3jj2wqg697X7A3bvaPlKABApee.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Banana Fish",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バナナフィッシュ",
+    "overview": "Nature made Ash Lynx beautiful; nurture made him a cold ruthless killer. A runaway brought up as the adopted heir and sex toy of \"Papa\" Dino Golzine, Ash, now at the rebellious age of seventeen, forsakes the kingdom held out by the devil who raised him. But the hideous secret that drove Ash's older brother mad in Vietnam has suddenly fallen into Papa's insatiably ambitious hands—and it's exactly the wrong time for Eiji Okamura, a pure-hearted young photographer from Japan, to make Ash Lynx's acquaintance...",
+    "popularity": 61.927,
+    "poster_path": "/1UV5di9UIXwrpCW3xQ4RNli5hEV.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150545,
+            "logo_path": "/df2KyiUSCxpoQxV88AI3zxu8kbD.png",
+            "name": "dugout",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-06",
+            "episode_count": 24,
+            "id": 105822,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sbHIUsSAZKlGyYt5CKhDHN06hsH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.9,
+    "vote_count": 669
+}

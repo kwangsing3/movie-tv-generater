@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/7rqOiQ6S9pnU6SOIRNpwGxzyi0K.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 42891,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-06-25",
+    "last_episode_to_air": {
+        "air_date": "2006-06-25",
+        "episode_number": 13,
+        "id": 1476193,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/t6jJ4OHKCR9x34tGHwivr0hOkkM.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gargoyle of Yoshinaga House",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "吉永さん家のガーゴイル",
+    "overview": "When Yoshinaga Futaba wins the first prize in a lottery, the prize turns out to be a stone gargoyle. More surprising yet, the gargoyle turns out to be alive.",
+    "popularity": 2.235,
+    "poster_path": "/gcplxwfC69HDJ4mOHu2QBhpNdln.jpg",
+    "production_companies": [
+        {
+            "id": 19073,
+            "logo_path": null,
+            "name": "Trinet Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 78802,
+            "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+            "name": "Studio Hibari",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-04-02",
+            "episode_count": 13,
+            "id": 99750,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qVLRvYH9k3EqBqdSnM80uC0kmah.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.3,
+    "vote_count": 3
+}

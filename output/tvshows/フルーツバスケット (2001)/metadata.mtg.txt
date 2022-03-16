@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/5KibTSRCggpQc1wGfjoxOQHQCVj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2001-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/fruits_basket/",
+    "id": 36941,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2001-12-27",
+    "last_episode_to_air": {
+        "air_date": "2001-12-27",
+        "episode_number": 26,
+        "id": 834249,
+        "name": "Let's Go Home",
+        "overview": "Tohru pushes her relationships with the Sohmas to the limit as she tries to reach out to Kyo in love, which proves to be troublesome since Kyo is in his wild monster cat form. And if that wasn’t enough, she confronts Akito to tell him how she feels about all the abuse. Akito isn’t pleased with any of her interactions, and feels like it’s time for Tohru’s memories to be erased once and for all. Friendships will be tested in the exciting finale to the TV series.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/aPHCPdRyaFY4Ve4Y0Z7Sq8M5bvM.jpg",
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    "name": "Fruits Basket",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABC Me",
+            "id": 279,
+            "logo_path": "/5HcWDo0e9WFKAMx1CQ8qlztKpdV.png",
+            "origin_country": "AU"
+        },
+        {
+            "name": "CoLours TV",
+            "id": 498,
+            "logo_path": null,
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "フルーツバスケット",
+    "overview": "Tohru Honda is 16 year old orphaned girl who gets invited to live in the house of her classmate, the handsome boy Sohma Yuki, and his cousins, 16 year old Kyo and 27 year old Shigure. However, these young men and parts of the rest of their family (both close and distant) hold a curse; if they are hugged by the opposite gender, they transform into animals of the Chinese Zodiac. Everyday is an adventure for sweet Tohru, as she gets to know everyone in the large family better (especially Yuki and Kyo), in both common and bizarre situations. But, the Sohma Family curse is certainly no laughing matter... it also holds horrible cruelty and heartbreak.",
+    "popularity": 18.084,
+    "poster_path": "/7cewiZDj66DhGVk7u9yELLiiLvI.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 48081,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2001-07-05",
+            "episode_count": 26,
+            "id": 48080,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/smSahUi8J4eUy0enORTOYiG0xr7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 40
+}

@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/v2tcrexw7naw4PASomwoHJRGEdS.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://akanesasushojo.com/",
+    "id": 82682,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-17",
+    "last_episode_to_air": {
+        "air_date": "2018-12-17",
+        "episode_number": 12,
+        "id": 1605045,
+        "name": "After the Twilight Falls",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7s7Nm2ep57egm0yShE37dt9eQIY.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Girl in Twilight",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あかねさす少女",
+    "overview": "Girls who live in a provincial city perform a certain ritual. The girls are in the \"Crystal Radio Club.\" It is an interest circle that Asuka Tsuchimiya, a girl known for her cheerfulness, started with friends in her high school. That ritual was considered just an urban legend. However, with several conditions coincidentally falling into place, it stops being fun and games...",
+    "popularity": 5.915,
+    "poster_path": "/df2BpzYyo4p4UrD12NGu1mKhkMc.jpg",
+    "production_companies": [
+        {
+            "id": 67224,
+            "logo_path": "/dVBetkMxe122JaROHwoOyvqznTF.png",
+            "name": "Dandelion",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-01",
+            "episode_count": 12,
+            "id": 110064,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wUpsU0bp9j4piKXeSDeVOJiUI2o.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 11
+}

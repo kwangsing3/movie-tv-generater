@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/q0G2O9jIYreq0rFhv9bdCIqnT8r.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.daito-anime.com/",
+    "id": 65851,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-12-24",
+    "last_episode_to_air": {
+        "air_date": "2014-12-24",
+        "episode_number": 12,
+        "id": 1174843,
+        "name": "A Good Librarian Like a Good Shepherd",
+        "overview": "It's finally the day of Minafes and the symposium. Which will get more people? Will Kakei be able to save Shirasaki?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xDYDbvvg455eXDHfi8pFypizjMI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "A Good Librarian Like a Good Shepherd",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "大図書館の羊飼い",
+    "overview": "Kyōtarō Kakei has always had an affinity towards books in hopes to find answers to his life. With a mentor's promise, he continues to search for a book with his absolute hope. However, this changes when he receives a foretelling message saying that \"Today, something will happen that will change your fate. --From the Shepherd.\" Due to this premonition, his normal school life at Shiomoi Academy becomes entangled due to the optimistic Tsugumi Shirasaki and the Shimoi Happy Project.",
+    "popularity": 17.143,
+    "poster_path": "/lcTR9lQJKtwBYsUDsYKUCyQDfCv.jpg",
+    "production_companies": [
+        {
+            "id": 25697,
+            "logo_path": "/u0AlLAjKiCI42ZeRUIuI8ARuosr.png",
+            "name": "Hoods Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-12-25",
+            "episode_count": 6,
+            "id": 131027,
+            "name": "Specials",
+            "overview": "** BD/DVD Bonus **\n\nContain Picture Drama.",
+            "poster_path": "/2jAjF5wgfEIEdkSrTxFUGq9O3uk.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-10-08",
+            "episode_count": 12,
+            "id": 75235,
+            "name": "Season 1",
+            "overview": "** Know in Japan as 大図書館の羊飼い Daitoshokan no Hitsujikai, translate in English \"Large Library's Shepherd or The Shepherd of the Great Library.)  Base on Japanese adult visual novel develop by August. An anime adaptation produced by Hoods Entertainment and Felix Film and Direct by Yuu Nobuto.\n\nThe story is set at Shiomi Academy, a vast, prestigious academy with a Daitoshokan (literally, \"great library\") that rivals Japan's national library. As a member of the Library Club, Kyoutarou Kakei goes to Daitoshokan to enjoy reading by himself. He then meets a second-year girl named Tsugumi Shirasaki through the efforts of a so-called \"shepherd\" who fulfills people's wishes. Eventually, more people join the club thanks to the \"shepherd.\"\n\nOpening Theme \"On My Sheep\" Song by Mitsuki Nakae.\n\nEnding Theme \"Aozora to Green Belt\" Song by Hagumi Nishizawa.",
+            "poster_path": "/tHGvQBc2BEKkBxgdRNlapceHtmm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 41
+}

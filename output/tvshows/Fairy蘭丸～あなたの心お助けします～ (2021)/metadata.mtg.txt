@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/s0WIi00DomnnZcPgvrM2KVYuvdQ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://f-ran.jp",
+    "id": 116224,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-24",
+    "last_episode_to_air": {
+        "air_date": "2021-06-24",
+        "episode_number": 12,
+        "id": 2860677,
+        "name": "Love",
+        "overview": "Ranmaru and the others re-enter the decaying fairy world to battle the queen. But as they attempt to combine their powers to rein her in...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/TnO9amnhioaQ2t3afqWQ59QpuF.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fairy Ranmaru",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Fairy蘭丸～あなたの心お助けします～",
+    "overview": "This world is all about do or die. There ain't no paradise. You go down once and you're out. This world is filled with people who suffer believing that. Hey, you there. Are you really going to pretend not to notice? We, however, cannot do that. Let us wipe away your tears. We'll put that smile back on your face. But it's not going to be for free. Please come by Bar F. Have no fear. We don't need any money. There's only one thing that we want... \"We'll take your heart!!\"",
+    "popularity": 17.69,
+    "poster_path": "/6PUFvH1YnaoTXmcAbNsGoHJJNcr.jpg",
+    "production_companies": [
+        {
+            "id": 69265,
+            "logo_path": null,
+            "name": "Studio Comet",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-08",
+            "episode_count": 12,
+            "id": 175535,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/g48apNiKTygMbOf0kfV092addTy.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4,
+    "vote_count": 1
+}

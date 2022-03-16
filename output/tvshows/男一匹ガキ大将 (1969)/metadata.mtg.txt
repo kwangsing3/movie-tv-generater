@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/bJ10dYAq8JvjjqLD7EzGzF3FY5n.jpg",
+    "created_by": [
+        {
+            "id": 1739197,
+            "credit_id": "5cfd587fc3a3683662221bbd",
+            "name": "Hiroshi Motomiya",
+            "gender": 2,
+            "profile_path": "/1YaTIcDtgAI5pjOKSkCGrAl6i6U.jpg"
+        }
+    ],
+    "episode_run_time": [
+        40
+    ],
+    "first_air_date": "1969-09-29",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 90144,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1970-03-23",
+    "last_episode_to_air": {
+        "air_date": "1970-03-23",
+        "episode_number": 26,
+        "id": 1812250,
+        "name": "The Final Showdown",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Ideal Boy's Gang Leader",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "男一匹ガキ大将",
+    "overview": "Oddball Junior High Student Mankichi Togawa accompanied by the one eyed Ginji, sets out on a quest to become the number one gang leader in Japan.",
+    "popularity": 2.227,
+    "poster_path": "/bIrwOpxlss9yf8L7NSGKV9LLPMK.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6755,
+            "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1969-09-29",
+            "episode_count": 26,
+            "id": 125599,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qmMvoKThyvZoQZbSPAEEmPIsqFT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/7G0tUp2UiAzNauYS1KGH3nviCA9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 34678,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-10-01",
+    "last_episode_to_air": {
+        "air_date": "2009-10-01",
+        "episode_number": 26,
+        "id": 789933,
+        "name": "Free",
+        "overview": "Despite Dan and co.'s efforts, Earthdash and the moon continue to be en route of collision, and all players and their allies join forces in a last desperate try to stop it.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fQeEyq4ehDRMX8h6D2sgMqayMWU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Basquash!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バスカッシュ！",
+    "overview": "Moving to the moon means a new life — one with fame, fortune, and medical treatments for his sister. When he crashes a Bigfoot Basketball game and revolutionizes the sport, has he finally found his chance?",
+    "popularity": 10.906,
+    "poster_path": "/1TC9QBC6IT2QpjdfXdx6Xl0nZyY.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-04-02",
+            "episode_count": 26,
+            "id": 45421,
+            "name": "Season 1",
+            "overview": "Moving to the moon means a new life — one with fame, fortune, and medical treatments for his sister. When he crashes a Bigfoot Basketball game and revolutionizes the sport, has he finally found his chance?",
+            "poster_path": "/drxp8xqb6SgSA8g8RK4TlseFbCQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 3
+}

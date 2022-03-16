@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/yMDy90i3QdWtx4z1TYEUuABfOiD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1992-03-27",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 22432,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1992-08-28",
+    "last_episode_to_air": {
+        "air_date": "1992-08-28",
+        "episode_number": 6,
+        "id": 610892,
+        "name": "ai, love and sadness",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Video Girl Ai",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "電影少女 VIDEO・GIRL・AI",
+    "overview": "High-school student Yota Moteuchi is so unpopular that his classmates have given him the nickname \"Dateless.\" So it's no surprise when the love of his life, Moemi, is not interested in Yota but instead is in love with Yota's best friend, Takashi. Yota turns to a video rental shop for comfort, but little did he suspect that the shop was magical and that the cute girl on his rented tape would pop out of the television and try to fix his ruined love life!",
+    "popularity": 6.618,
+    "poster_path": "/55kGXYm6oC2WULfhmipJvTAOqsx.jpg",
+    "production_companies": [
+        {
+            "id": 104940,
+            "logo_path": null,
+            "name": "Studio Boston",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12105,
+            "logo_path": null,
+            "name": "Jay Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 32338,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1992-03-27",
+            "episode_count": 6,
+            "id": 32337,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fEgBb4nPUeG91hsANOZP4zhAoQZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 14
+}

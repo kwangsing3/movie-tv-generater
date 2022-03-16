@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/qhxmLWL2DniuomLdpJzJsvMriST.jpg",
+    "created_by": [
+        {
+            "id": 1067790,
+            "credit_id": "5894dd75c3a3680898000660",
+            "name": "Hiroaki Sakurai",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2017-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://piace-anime.com/",
+    "id": 69300,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-29",
+    "last_episode_to_air": {
+        "air_date": "2017-03-29",
+        "episode_number": 12,
+        "id": 1266510,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6u7Kmj6usNmRhFJWZ3lQtcM3t8q.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Piacevole! My Italian Cooking",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ピアシェ~私のイタリアン~",
+    "overview": "High-schooler Morina Nanase has begun working as a part-timer in an Italian restaurant, Trattoria Festa. As she encounters various quirky co-workers, such as their manager, the child prodigy chef Maro Kitahara, and unique cuisines, she begins to grow as a person.",
+    "popularity": 1.516,
+    "poster_path": "/xG0pOoLCcjlpPmjfqPGNvoEs0fF.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2017-01-11",
+            "episode_count": 12,
+            "id": 83206,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ahPYVN9SpWdakOZtIZIkzTuBEXp.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 3
+}

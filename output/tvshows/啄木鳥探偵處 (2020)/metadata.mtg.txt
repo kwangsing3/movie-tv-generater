@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/zdlcU789CQCXb133I00ubJjEmIw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-04-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://kimikoe.com/kitsutsuki/sp/index.html",
+    "id": 94277,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-29",
+    "last_episode_to_air": {
+        "air_date": "2020-06-29",
+        "episode_number": 12,
+        "id": 2223941,
+        "name": "Pale Blue Skies",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xS0YsvpqDCatiyBNfmeDUR1kfx2.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Woodpecker Detective's Office",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "啄木鳥探偵處",
+    "overview": "It is the end of the Meiji Era. The genius poet Ishikawa Takuboku, who’s struggling financially, starts a detective business out of his lodging in response to a certain murder case. He calls it the Woodpecker Detective’s Office. “The ghosts of the Twelve-Story Tower in Asakusa,” “the man-eating figure who wanders the streets on snowy nights”… Takuboku involves himself in one bizarre case after another with his hometown acquaintance, Kindaichi Kyosuke, as his assistant. Other literary men such as Nomura Kodo, Yoshii Isamu, Hagiwara Sakutaro, and Wakayama Bokusui are also dragged into Takuboku’s exploits as he races all around Tokyo at the height of Westernization!",
+    "popularity": 8.892,
+    "poster_path": "/hyVXsreVfLdMK25VI02DY8SuvVE.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1780,
+            "logo_path": "/2KJ1cSBOGABQotDWSRPNY4C9amg.png",
+            "name": "Tohokushinsha Film Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-13",
+            "episode_count": 12,
+            "id": 133568,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gFIN5qCSGvk4oA44ENw2atPE9KG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 5
+}

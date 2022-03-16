@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/en2X3XWGiUwZFe9pH9r06Si3Nbh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://moriarty-anime.com/",
+    "id": 100281,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-27",
+    "last_episode_to_air": {
+        "air_date": "2021-06-27",
+        "episode_number": 24,
+        "id": 2727851,
+        "name": "The Final Problem, Act 2",
+        "overview": "William aims to complete his plan with his death, as Albert and the others each carry out their roles. Meanwhile, Sherlock deduces William's true reason for having him vanquish the Lord of Crime. Overlooking London, the pair face each other one last time.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/oB0Tblv4InVqtgUEghWczSM0svA.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Moriarty the Patriot",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "憂国のモリアーティ",
+    "overview": "In the late 19th century, the British Empire nobility reigns while its working class suffers at their hands. Sympathetic to their plight, William James Moriarty wants to topple it all. Frustrated by the systemic inequity, Moriarty strategizes to fix the entire nation. Not even consulting detective Sherlock Holmes can stand in his way. It’s time for crime to revolutionize the world!",
+    "popularity": 68.603,
+    "poster_path": "/lLcmshfrLg7JUMwMCnp5fuNqtoQ.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 165240,
+            "logo_path": null,
+            "name": "Studio Don Juan",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-27",
+            "episode_count": 2,
+            "id": 209086,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-10-11",
+            "episode_count": 24,
+            "id": 144879,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lLcmshfrLg7JUMwMCnp5fuNqtoQ.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 187020,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 209068,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 86
+}

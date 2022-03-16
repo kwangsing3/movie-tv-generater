@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/dsoBiXdYC8akLVrOpEfMXcrHycn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://lostorage-wixoss.com/",
+    "id": 68285,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-23",
+    "last_episode_to_air": {
+        "air_date": "2018-06-23",
+        "episode_number": 12,
+        "id": 1478779,
+        "name": "Light",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/hoRgqEFDlGnELwl0YY0XFdj8K1K.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Lostorage incited WIXOSS",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ロストレージインサイテッドウィクロス",
+    "overview": "High school student Homura Suzuko has returned to Ikebukuro, the town where she grew up. But when she gets to school, she finds she has trouble fitting in with the rest of the class. One day, she decides that if she learns to play the card game Wixoss, she might be able to make some friends. She buys a deck set, and when she opens it, the girl on one of the cards begins to move, and speak. \"Welcome, Selector.\" Selectors must battle for control of the five coins that hold all their memories. If they can retake all the coins, they win, and can leave the game. But if they lose, as a penalty--",
+    "popularity": 12.925,
+    "poster_path": "/q4qDgn7qaz4t47wTrtShxdvIHBl.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-11-10",
+            "episode_count": 1,
+            "id": 104577,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-10-07",
+            "episode_count": 12,
+            "id": 81098,
+            "name": "Lostorage incited WIXOSS",
+            "overview": "",
+            "poster_path": "/tRQCbVIr0B9w19JYAUycewWxJgd.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-04-07",
+            "episode_count": 12,
+            "id": 96991,
+            "name": "Lostorage Conflated WIXOSS",
+            "overview": "",
+            "poster_path": "/2dCoL7qHFQfk5qwL7Ztp7bY3ueT.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 5
+}

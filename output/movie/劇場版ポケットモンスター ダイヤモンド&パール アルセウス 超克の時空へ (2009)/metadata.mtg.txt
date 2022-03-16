@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/1WygXLVPO4wNYm6WUgUi7PNAvkU.jpg",
+    "belongs_to_collection": {
+        "id": 661026,
+        "name": "Pokémon: Diamond and Pearl Collection",
+        "poster_path": "/piQiaDOIeR06epBYhk9DSUBD8iA.jpg",
+        "backdrop_path": "/7flPQzneoQrXirkKB62pLc2KlaC.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.pokemon.co.jp/anime/movie/2009/",
+    "id": 39057,
+    "imdb_id": "tt1468843",
+    "original_language": "ja",
+    "original_title": "劇場版ポケットモンスター ダイヤモンド&パール アルセウス 超克の時空へ",
+    "overview": "When the creator of the world, Arceus, comes to pass judgement on humanity for the theft of the legendary Jewel of Life, Ash and his friends are sent back in time to possibly reverse the events that led to Arceus' vendetta.",
+    "popularity": 25.934,
+    "poster_path": "/u5dybbTyhgJ3Trof4QZvfN5UoOP.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12653,
+            "logo_path": null,
+            "name": "Pikachu Project",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2009-07-18",
+    "revenue": 50673078,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A Tale Untold. A Legend Unleashed.",
+    "title": "Pokémon: Arceus and the Jewel of Life",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 212
+}

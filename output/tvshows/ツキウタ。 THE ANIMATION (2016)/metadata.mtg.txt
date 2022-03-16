@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/7v03BLwrMLwOJxnNSnNYLUtlOtg.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://tsukiani.com/",
+    "id": 67153,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-11-18",
+    "last_episode_to_air": {
+        "air_date": "2020-11-18",
+        "episode_number": 13,
+        "id": 2602032,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tsukiuta. The Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ツキウタ。 THE ANIMATION",
+    "overview": "Six Gravity and Procellarum are two rival male idol groups who  happen to live in the same dorm. Six Gravity is made up of young men who  represent the months of December to May, while Procellarum’s members  represent June to November. Follow the daily lives of these twelve young  men as they deal with the stresses of idol-hood, school, and living  together.",
+    "popularity": 4.36,
+    "poster_path": "/omNaIK4VUQFfdKNTCjY2WCK7mqm.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-06",
+            "episode_count": 13,
+            "id": 78632,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/e6tCKEw8O23MEEUQOCyJBBrBwhd.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2020-10-07",
+            "episode_count": 13,
+            "id": 147534,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/4AwxyuMap2bcbNmIBTH8kQVSRUC.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

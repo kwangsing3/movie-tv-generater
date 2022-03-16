@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/pVHRrh5bsBhXpcgMrXgJXmEf1Z8.jpg",
+    "created_by": [
+        {
+            "id": 2041418,
+            "credit_id": "5b0b6ff8c3a3684b7e01211c",
+            "name": "Norie Yamada",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2003-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 34067,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2008-09-24",
+    "last_episode_to_air": {
+        "air_date": "2008-09-24",
+        "episode_number": 12,
+        "id": 781254,
+        "name": "Summer Skies",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/m8Fy002ua2JM0yEmUZYqUnXxaba.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Someday's Dreamers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法遣いに大切なこと",
+    "overview": "Someday's Dreamers is a manga written by Norie Yamada and illustrated by Kumichi Yoshizuki. It was serialized in Kadokawa Shoten's Comic Dragon magazine from May 2002 to January 2003 and was later collected in two bound volumes. In 2006, Tokyopop released the manga in the United States under the name Someday's Dreamers.\n\nSomeday's Dreamers was also adapted into an anime series that was produced by J.C.Staff under the direction of Masami Shimoda. It is loosely based on the storyline of the first manga series with new characters added to the story. It ran for a total of 12 episodes on TV Asahi and was later licensed by Geneon Entertainment USA. However, due to the closure of Geneon USA, the series has been relicensed by Sentai Filmworks.\n\nAnother story set in the same universe, Someday's Dreamers: Spellbound, written and drawn by the same author and illustrator, was serialized in Kadokawa Shoten's Comic Dragon Age. It ran from December 2003 to February 2006 and was later released in five bound volumes. In 2006, Tokyopop released the manga in the United States under the name Someday's Dreamers: Spellbound.",
+    "popularity": 6.664,
+    "poster_path": "/kPWHphwoXvXjz7Tdb8giYkYD7PV.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        },
+        {
+            "id": 72652,
+            "logo_path": null,
+            "name": "Hal Film Maker",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-01-09",
+            "episode_count": 12,
+            "id": 44860,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/v1mt4lItC6gJDjMoTioMEn13Qzg.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-07-02",
+            "episode_count": 12,
+            "id": 44861,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/vLJvErR96bHETxBclvwO1FMM7yC.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 4
+}

@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/bP9mG3hBeTxgdlbUtc5Bl7AElhj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1993-10-22",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "",
+    "id": 65983,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1994-01-21",
+    "last_episode_to_air": {
+        "air_date": "1994-01-21",
+        "episode_number": 3,
+        "id": 1177602,
+        "name": "Knight of the Iron Dragon",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ldpx60URVlbjEY47vzIiRwAMKDJ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Cockpit",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ザ・コクピット",
+    "overview": "A World War II anthology based on Leiji Matsumoto's Battlefield manga.",
+    "popularity": 3.218,
+    "poster_path": "/hey6a0HakFGRmXKIorhHG79zV7t.jpg",
+    "production_companies": [
+        {
+            "id": 21657,
+            "logo_path": null,
+            "name": "Jacom",
+            "origin_country": ""
+        },
+        {
+            "id": 21658,
+            "logo_path": null,
+            "name": "Visual 80",
+            "origin_country": ""
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1993-10-22",
+            "episode_count": 3,
+            "id": 75556,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 7.3,
+    "vote_count": 4
+}

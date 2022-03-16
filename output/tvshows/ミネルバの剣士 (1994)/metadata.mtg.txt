@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1994-12-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 43777,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-12-18",
+    "last_episode_to_air": {
+        "air_date": "1996-12-18",
+        "episode_number": 5,
+        "id": 1988658,
+        "name": "The Tempest (Part 2)",
+        "overview": "En route to Gupta, Marlon plants Hanna as a slave in order to gain information. However, Sho and Diana are aware of Hanna's true purpose and use Hanna's feelings for Marlon to their advantage. When Diana beats Hanna in a match, she tells Hanna to ask Marlon to make her his slave. Marlon is reluctant at first but agrees after some talking with Sho. Later, Sho and Diana admit to killing Dunan. However, even if revenge is taken, the conflict will not end. While the conversation takes place, Dorian troops invade Gupta, leaving them no choice but to make amends.\n\nLater, Diana takes Hanna to Marlon where they proceed the slave training. Teo goes back to the nomadic life, living with Ulsra. Before leaving, he has one final conversation with Diana. She is now known throughout the world as the Slave Queen, inspiring other slaves to be by their master's sides rather than living in freedom.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fencer of Minerva",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ミネルバの剣士",
+    "overview": "Princess Diana runs away from an arranged marraige and straight into the arms of slave traders who capture her and she is forced to become a slave. She finds her long lost childhood friend/love there, who happens to be the sworn enemy of her families throne, and becomes his, but of course with the family wanting her back all is not ideal.",
+    "popularity": 1.66,
+    "poster_path": "/twAW5TUat5zO3XF27L9JX9UJ281.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5650,
+            "logo_path": null,
+            "name": "Central Park Media",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-12-17",
+            "episode_count": 5,
+            "id": 136071,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 6,
+    "vote_count": 5
+}

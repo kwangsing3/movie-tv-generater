@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/4iNLG60hRrOB2hOYRPwwgguiMiA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2017-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://akunogundan.com",
+    "id": 71215,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-06-21",
+    "last_episode_to_air": {
+        "air_date": "2017-06-21",
+        "episode_number": 12,
+        "id": 1386400,
+        "name": "Nell",
+        "overview": "The Evil Corps has begun life in their new apartment. Then, one day, Chiku and Pepu find a box outside. Inside, it's a letter of challenge!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Makeruna!! Aku no Gundan!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まけるな!! あくのぐんだん！",
+    "overview": "The \"Evil Corps,\" led by Don, are on a mission to conquer the universe. They set out to invade Earth first, but they struggle as some quirky Earthlings stand in their way. Eventually Don's plan to invade Earth becomes distorted...?!",
+    "popularity": 3.45,
+    "poster_path": "/pbIPJBOxrVzPDGOu237nMG2owOB.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-04-05",
+            "episode_count": 12,
+            "id": 87310,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pbIPJBOxrVzPDGOu237nMG2owOB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/zOfOs7a9Kal6TVvgf8UdtdozckE.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.tbs.co.jp/anime/adashima/",
+    "id": 94359,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-25",
+    "last_episode_to_air": {
+        "air_date": "2020-12-25",
+        "episode_number": 12,
+        "id": 2457744,
+        "name": "Friends and Love, Love and Cherry Blossoms",
+        "overview": "Adachi seems very adamant about wanting to spend the night at Shimamura's house.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/pyFxplItfUsbRX8c3EjDDUm5Ghd.jpg",
+        "vote_average": 7,
+        "vote_count": 2
+    },
+    "name": "Adachi and Shimamura",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "安達としまむら",
+    "overview": "Adachi spends her school days skipping class until she meets fellow delinquent Shimamura and the two become fast friends. Cutting class together deepens their friendship but soon unexpected emotions blossom. As awkwardness and confusion settle in, the two girls travel this sea of emotions without a paddle as they learn about each other’s feelings.",
+    "popularity": 21.772,
+    "poster_path": "/fWNKUeADaTga51trdvDApOBvbdl.jpg",
+    "production_companies": [
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-09-11",
+            "episode_count": 30,
+            "id": 175765,
+            "name": "Specials",
+            "overview": "Mini: Short episodes with super-deformed characters posted on the official Twitter account.",
+            "poster_path": "/nw2rjB460PFCDKOz0PuRi1jjgoG.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-10-09",
+            "episode_count": 12,
+            "id": 133678,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2AqTWB7WafD9R33hm2HfSJ3Ucxo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 16
+}

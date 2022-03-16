@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/zSm2DkglaYhFuesB3dmEjaLtTD4.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1989-01-27",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 45471,
+    "in_production": false,
+    "languages": [
+        "fr",
+        "it",
+        "ja"
+    ],
+    "last_air_date": "1989-12-22",
+    "last_episode_to_air": {
+        "air_date": "1989-12-22",
+        "episode_number": 2,
+        "id": 902717,
+        "name": "Goku Midnight Eye II",
+        "overview": "Goku is asked to find a woman's brother that has been made into a psychic super-soldier. Lies and intrigue cloud Goku's way, and only his computer eye makes it possible for him to succeed.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Goku Midnight Eye",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ＭＩＤＮＩＧＨＴ ＥＹＥ ゴクウ",
+    "overview": "Goku is a detective who has an \"eye of god\", a mysterious group gave him this artificial eye that enables him to control any computer.",
+    "popularity": 1.263,
+    "poster_path": "/e1C89tECLK93X7ZchaeJQ9xNxjo.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1989-01-27",
+            "episode_count": 2,
+            "id": 54119,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8,
+    "vote_count": 1
+}

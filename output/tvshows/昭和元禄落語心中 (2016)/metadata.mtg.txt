@@ -1,0 +1,135 @@
+{
+    "adult": false,
+    "backdrop_path": "/kYxuP65QMwOb5KIobvjY9U6ocYN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        26
+    ],
+    "first_air_date": "2016-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.rakugo-shinju-anime.jp/",
+    "id": 66862,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-25",
+    "last_episode_to_air": {
+        "air_date": "2017-03-25",
+        "episode_number": 12,
+        "id": 1289065,
+        "name": "",
+        "overview": "Fifteen years have passed since that fateful day. Yotaro and Konatsu's children are growing up: Shinnosuke is a futatsume, and Koyuki has entered high school. Those who made their lives from rakugo, those who gave their lives to rakugo… aspects of their checkered pasts carry on to the next generation. What feelings lie in the hearts of those who inherit the names Kikuhiko, Sukeroku, and Yakumo, as they face their rakugo? The curtain is finally about to come down on Showa Genroku Rakugo Shinju.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/v3Bb0iJyr4Dgb59qs68dzzP0SSs.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Showa Genroku Rakugo Shinju",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "昭和元禄落語心中",
+    "overview": "When a certain man is released from prison, he knows exactly where he's heading first. After falling in love with a traditional comic storyteller's rendition of the story called \"Shinigami,\" he is determined to become his apprentice. The performer, Yakumo, has never taken an apprentice before, but to everyone's surprise, he accepts the eager ex-prisoner, nicknaming him \"Yotaro.\" As Yotaro happily begins his new life, he meets others in Yakumo's life, including Yakumo's ward Konatsu. Konatsu was the daughter of a famous storyteller, and Yakumo took her in after her father's tragic death. Konatsu loved her father's storytelling, and would love to become a performer in her own right—but that path is not available for women.",
+    "popularity": 22.961,
+    "poster_path": "/9BW5x9sxzVAOpjhCQCr0rObESDy.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-03-06",
+            "episode_count": 2,
+            "id": 158495,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-01-09",
+            "episode_count": 13,
+            "id": 77977,
+            "name": "Showa and Genroku Era Lover's Suicide Through Rakugo",
+            "overview": "",
+            "poster_path": "/4cfVWdhD1O8Ec5scBUuXAX8iD0W.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-01-07",
+            "episode_count": 12,
+            "id": 83566,
+            "name": "Descending Stories: Showa Genroku Rakugo Shinju",
+            "overview": "",
+            "poster_path": "/1Ap4BV8M2CPFSekrJJdnr5oCSix.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 30
+}

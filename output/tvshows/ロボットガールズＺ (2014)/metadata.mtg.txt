@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/3b4TtFBaaEtjARbr96HuHNJWJVe.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        27
+    ],
+    "first_air_date": "2014-01-04",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 71465,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-10-20",
+    "last_episode_to_air": {
+        "air_date": "2015-10-20",
+        "episode_number": 6,
+        "id": 1308553,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/ntTx9FfYOlxkvEsmpqtqt1rCgCX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Robot Girls Z",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 15,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ロボットガールズＺ",
+    "overview": "The story revolves around a new team of \"Toei robot girls\" named \"Team Z\" that is made up of three girls based on Toei's Mazinger Z franchise: Mazinger Z, Great Mazinger, and UFO Robot Grendizer. Usually they perform in activities around Nerima ward in Tokyo to raise the awareness of the promising future energy source \"Photon Power\" (koushiryoku). However, there are times when \"Mechanical Beast\" team of girls emerge from the \"Subterranean Empire\" and attempt to steal the energy. Thus \"Team Z\" has to battle them to prevent this, though sometimes they just go and beat up the \"bad girls\" to relieve stress.",
+    "popularity": 3.429,
+    "poster_path": "/tnR8ZaiYtPhoLVulTQmN5Iw8SS5.jpg",
+    "production_companies": [
+        {
+            "id": 89537,
+            "logo_path": "/6g6N6TFv2icepVUjsKuUKkfHXfY.png",
+            "name": "LandQ Studios",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13066,
+            "logo_path": "/2fgqTGBeaKaGer4vDUXmYaUIR5o.png",
+            "name": "Nippon Columbia",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-01-04",
+            "episode_count": 9,
+            "id": 87841,
+            "name": "Robot Girls Z",
+            "overview": "",
+            "poster_path": "/ophwputYcF5rLKhsQpv89XqKDJ9.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2015-05-20",
+            "episode_count": 6,
+            "id": 87842,
+            "name": "Robot Girls Z Plus",
+            "overview": "",
+            "poster_path": "/srh4uNsJKVL1fLw4f5BGcBA746u.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 4
+}

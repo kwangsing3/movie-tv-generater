@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2002-02-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.bandaivisual.co.jp/fubuki/",
+    "id": 29241,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2003-01-25",
+    "last_episode_to_air": {
+        "air_date": "2003-01-25",
+        "episode_number": 4,
+        "id": 723035,
+        "name": "Final Stage: A Reunion that Transcends Time",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Arcade Gamer Fubuki",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アーケードゲーマーふぶき",
+    "overview": "Fubuki is a girl whose only goal in life is to be the best...at arcade games! She's not much good at sports, but when it comes to arcades, Fubuki's a whiz with special super-powers. When an evil organization steals her powers to gain world domination, Fubuki's dream of winning the World Championship is in danger! She and her friends must battle the wackiest bunch of video game villains ever in a quest to make playing games fun again.",
+    "popularity": 2.827,
+    "poster_path": "/hjMuJYL2Bjga73Sv3hGjCRI4WZJ.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2008-06-11",
+            "episode_count": 1,
+            "id": 40615,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2002-02-25",
+            "episode_count": 4,
+            "id": 40614,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 7.6,
+    "vote_count": 5
+}

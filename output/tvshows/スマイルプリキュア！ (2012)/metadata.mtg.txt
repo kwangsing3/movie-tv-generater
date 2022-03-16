@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/uTG0BKMJ2YxeO1PJ1mTIWZNnX4l.jpg",
+    "created_by": [
+        {
+            "id": 1254093,
+            "credit_id": "52596d0a760ee34661a11f0e",
+            "name": "Izumi Todo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-02-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/smile_precure/",
+    "id": 45801,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-01-27",
+    "last_episode_to_air": {
+        "air_date": "2013-01-27",
+        "episode_number": 48,
+        "id": 904591,
+        "name": "The Lights Shining To the Future! Deliver it! The Greatest Smile!!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Smile PreCure!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "All-Nippon News Network",
+            "id": 923,
+            "logo_path": "/mlcZ8Y4Q71rKTMhH7ItHH2ZrCVo.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 48,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スマイルプリキュア！",
+    "overview": "Candy, a fairy from Märchenland follows the shining light that leads to the five legendary PreCure warriors in order to fight Bad End Kingdom villains who are trying to vanquish the entire world to the “Worst Ending.",
+    "popularity": 24.452,
+    "poster_path": "/qPpRiUX4nWdWQkVI1T8U7bsI85L.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-10-27",
+            "episode_count": 1,
+            "id": 54265,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/nxpgHLy39nmSTbQ2ASpEe9lwug9.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-02-05",
+            "episode_count": 48,
+            "id": 54266,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/udOCP2Sumj9FmHBzP3GwiMdbfN0.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 15
+}

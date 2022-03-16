@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/2LEo6XM1TO5NgK1jBkzAmPbbMXh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kakushigoto-anime.com/",
+    "id": 95433,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-18",
+    "last_episode_to_air": {
+        "air_date": "2020-06-18",
+        "episode_number": 12,
+        "id": 2195042,
+        "name": "Hidden Truths",
+        "overview": "Hime finds out the truth about Kakushi’s past, and is in for a surprise herself.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3QXPGkOIIpOeRj37vAdHKM94yKx.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Kakushigoto",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS4",
+            "id": 3220,
+            "logo_path": "/naTpOY8AjRtgBw0JXafrhAD8ZBT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "かくしごと",
+    "overview": "Kakushi Goto is a somewhat popular manga artist whose works are known for inappropriate content. Because of this raunchiness, when his daughter Hime was born, he vowed to keep his profession hidden from her, believing that she will be disillusioned if she finds out.\n\nThis paranoia-induced belief leads Kakushi into hectic situations. Despite being a single father, he does his best and often resorts to extreme ends just to protect his secret, such as guising as a salaryman every day or holding emergency drills in case Hime somehow finds her way to his workplace.\n\nThis show tells the story of a father and daughter living side by side, maintaining their peaceful existence as the father attempts to preserve the status quo. However, there is a saying: \"there are no secrets that time cannot reveal.\" In time, Hime must learn the reality behind the things she took for granted as she grew up.",
+    "popularity": 35.105,
+    "poster_path": "/odtryn9XCRIo33oLDaAaaTNgiuQ.jpg",
+    "production_companies": [
+        {
+            "id": 43368,
+            "logo_path": null,
+            "name": "Ajiado",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-02",
+            "episode_count": 12,
+            "id": 135784,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/biI5XF4jpXzTXGzxIUqUOQb8tmy.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 100
+}

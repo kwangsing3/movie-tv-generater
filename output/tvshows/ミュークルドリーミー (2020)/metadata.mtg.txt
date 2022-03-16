@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/9wd3qVabwEjTQilmyDdcD4NCIey.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://mewkledreamy.com/",
+    "id": 98903,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 48,
+        "id": 3596041,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mewkledreamy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 96,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ミュークルドリーミー",
+    "overview": "A middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones.",
+    "popularity": 19.473,
+    "poster_path": "/9dU6luX5rQDTDb7oYuPiIQVw564.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-05",
+            "episode_count": 48,
+            "id": 142476,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fKWS4dNakaxrE89IuBKHXSye0MQ.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-04-11",
+            "episode_count": 48,
+            "id": 189180,
+            "name": "Mix!",
+            "overview": "",
+            "poster_path": "/xQSqjCl2y8V4ywRByD2rb8gNUbS.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 2
+}

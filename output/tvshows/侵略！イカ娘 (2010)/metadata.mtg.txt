@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/nUUxIsHIZmn4jR0JEFS5lI1HVXJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2010-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.ika-musume.com/",
+    "id": 35447,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-12-26",
+    "last_episode_to_air": {
+        "air_date": "2011-12-26",
+        "episode_number": 12,
+        "id": 801323,
+        "name": "Practice Makes Squid Perfect?! / Ink That a Festival?!",
+        "overview": "Squid Girl asks the Lemon to help her invasion club practise for proper invasions, though really she wants to test her ability to invade without Chizuru around. After Squid Girl gets into a fight with Eiko, they decide to stop talking to each other. As everyone attends a summer festival, Squid Girl ends up getting separated from her friends. As a shower hits, Eiko decides to search for her and meets Kozue, who helps her find and make up with Squid Girl.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/sdGpKnSZ7fGzF4aerp2ZPQqASTA.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Squid Girl",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "侵略！イカ娘",
+    "overview": "Squid Girl has come to the land from the depths of the sea to conquer humanity in revenge for pollution of the ocean. Unfortunately she ruins the first house she uses as an invasion base and has to work to pay for repairs. Of course, she can't overcome the Aizawa sisters who manage the house, so who knows whether she can subjugate humankind.",
+    "popularity": 14.377,
+    "poster_path": "/n9mhIbk2VE3bCDEm2aPsNZtZuOH.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-05-03",
+            "episode_count": 5,
+            "id": 46163,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/r8gMxvKAMU1owrzYruoZ2Yu7WPB.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-10-05",
+            "episode_count": 12,
+            "id": 46162,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mfo5eOBsWulJkuoyeEolBMpGzf8.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2011-09-27",
+            "episode_count": 12,
+            "id": 46164,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/89cpEGlggiZGJ2WQosn5BlluPGq.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 12
+}

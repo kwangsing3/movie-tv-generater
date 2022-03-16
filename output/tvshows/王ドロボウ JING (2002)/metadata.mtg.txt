@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/a7kHO279f3NbEDTFP7ANs6jnzAO.jpg",
+    "created_by": [
+        {
+            "id": 2284408,
+            "credit_id": "60e7642f8de0ae005d51e182",
+            "name": "Yuuichi  Kumakura",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2002-05-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 34820,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-08-14",
+    "last_episode_to_air": {
+        "air_date": "2002-08-14",
+        "episode_number": 13,
+        "id": 793052,
+        "name": "The Masquerade Ball of ZaZa (Part 3)",
+        "overview": "The fight continued on until the night with Jing and the red-armored warrior matching each other blow for blow. Just as Jing disarms the warrior's sword, Cube smashes the warrior to gain vengeance. The armor shatters and to everyone's shock, it revealed Miss Stir! Before anyone can act, Jing carried Stir and jumped towards the Madame's balcony so she can rest. Baffle suddenly captures Jing and hopes to execute him, but Angostura halts Baffle letting him know the law in ZaZa. Jing, ever so crafty, decides to have one more battle with Baffle. However, before the match, he switched masks and clothes with Angostura in order to reach Stir and the Vintage Smile. During Stir's rest, the cold-hearted Madame cried and took off her mask revealing her face. Then, everything in ZaZa was back to normal. Jing got the Vintage Smile while his friend Ginjou got everything else. However, Baffle was on Jing's trail and Jing finally put an end to the D'Ice Brothers' evil with a Kir Royale blast. Afterwards, Kir started to get that look in Jing's eye that something happened between him and Stir. When the masquerade ball was back to dancing instead of fighting, Stir put off every man who wanted to dance with her so she can save the first dance for Jing.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Jing: King of Bandits",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK BS1",
+            "id": 219,
+            "logo_path": "/8fr5rRhr3avyMYDDl4b3ePardYc.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "NHK BS2",
+            "id": 2026,
+            "logo_path": "/eMVZPvSxfpFUxzzqzbYIYgE9uJK.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "王ドロボウ JING",
+    "overview": "Jing's remarkable skills make him one of the most feared thieves on the planet. Along with his partner Kir, Jing travels from town to town, stealing anything of value no matter the security.",
+    "popularity": 4.693,
+    "poster_path": "/2u5mbQDXvLGUvDkh39K6ECKxmcc.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        },
+        {
+            "id": 58206,
+            "logo_path": null,
+            "name": "SME Visual Works",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-01-21",
+            "episode_count": 3,
+            "id": 45612,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/AvQuKQKzccLNy8xKinVJcbjgc8c.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2002-05-15",
+            "episode_count": 13,
+            "id": 45611,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.5,
+    "vote_count": 2
+}

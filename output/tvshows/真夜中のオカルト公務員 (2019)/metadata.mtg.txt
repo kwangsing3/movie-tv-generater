@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/gYwERM20es5TQ2bRGbOkQJ5bQb2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://occultkoumuin.com/",
+    "id": 85935,
+    "in_production": false,
+    "languages": [
+        "de",
+        "ja"
+    ],
+    "last_air_date": "2019-06-24",
+    "last_episode_to_air": {
+        "air_date": "2019-06-24",
+        "episode_number": 12,
+        "id": 1732798,
+        "name": "Shinjuku Ward Nocturnal Community Relations Division",
+        "overview": "Arata and Kohaku enjoy a leisurely day off in Tokyo, but the rest of the yokai in the city aren't happy with having a powerful creature like Kohaku walking among them.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dkhkXWMPfFFQVrI6r7yvvbxcekK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Midnight Occult Civil Servants",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "真夜中のオカルト公務員",
+    "overview": "Miyako Arata is newly assigned to the Shinjuku Ward Office's Nighttime Regional Relations Department. Each of Tokyo's 23 wards has one such department, established to mitigate paranormal and occult-related events. Arata's special skill is the understanding of non-human speech, and the story begins with him encountering a youkai at Shinjuku Gyoen park who refers to him as the legendary Heian-era exorcist, Abe no Seimei.",
+    "popularity": 10.412,
+    "poster_path": "/cFCPAtDwiL3zrysqxGeVH5MsMW0.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 3,
+            "id": 133206,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/mSgg2JW8zArmCkrCXRJuY6RtnSB.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-04-08",
+            "episode_count": 12,
+            "id": 116880,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6cKQju3rJsFF1sxInHgkOHc24wU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 11
+}

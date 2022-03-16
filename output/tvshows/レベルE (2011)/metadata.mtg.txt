@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/zlAzK5qjpP77lPGYKDG0j6SfcDA.jpg",
+    "created_by": [
+        {
+            "id": 555545,
+            "credit_id": "5dc885086c0e4f00133b9330",
+            "name": "Yoshihiro Togashi",
+            "gender": 2,
+            "profile_path": "/ezo23XxtcICR5yRYhuq7gfKOTk3.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/level-e/",
+    "id": 38559,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-04-04",
+    "last_episode_to_air": {
+        "air_date": "2011-04-04",
+        "episode_number": 13,
+        "id": 860839,
+        "name": "Full Moon!",
+        "overview": "The Prince is still trying to escape his arranged marriage - however, his bride-to-be has set him a puzzle that he cannot help but try and solve. Will he manage to avoid an eternal marriage - or is there another plot at work here?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/u4Bbpi1bhJvftSxniTJSx6Q9NnP.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Level E",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "レベルE",
+    "overview": "Earth has been populated by thousands of aliens from all over the galaxy. While all the other aliens are aware of their presence, it is a secret only from the Earthlings. Baka, the prince of the planet Dogra, crash lands on Earth and loses his memory. He forcibly moves in with Yukitaka Tsutsui, a first year high school student who had just moved out on his own. The normal life he once knew is quickly pulled away as he becomes the target of the prince's torment.",
+    "popularity": 7.17,
+    "poster_path": "/tdhOYnrkZhSr6wiLDWOKIozRhEI.jpg",
+    "production_companies": [
+        {
+            "id": 45188,
+            "logo_path": "/aPH68PzQDtz7QorAU369IlxwgnU.png",
+            "name": "David Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-01-11",
+            "episode_count": 13,
+            "id": 50116,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lYZIitLygQ31K4OfQH5eeedQHE3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 42
+}

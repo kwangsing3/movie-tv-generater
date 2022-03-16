@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/uTxVa3q7eyQfU7Z6Wm0PAzDK1TG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.shogakukan.co.jp/pr/12sai/",
+    "id": 65928,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-18",
+    "last_episode_to_air": {
+        "air_date": "2016-12-18",
+        "episode_number": 12,
+        "id": 1864235,
+        "name": "I Love You",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/zcKbUBv8Xxm0ScPedUzXmJBXfYC.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "12-sai.: Chicchana Mune no Tokimeki",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "12歳。～ちっちゃなムネのトキメキ～",
+    "overview": "The story begins with Hanabi, a sixth-grade girl who is neither an adult nor a child. She deals with issues such as accidentally witnessing her homeroom teacher kissing, and worrying about experiencing physiological changes before her friends. The series depicts a 12-year-old girl's innocent worries and first love.",
+    "popularity": 12.58,
+    "poster_path": "/jDAwCMeEnpGZgtUPBh3diRIGds5.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-03",
+            "episode_count": 12,
+            "id": 131157,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-04",
+            "episode_count": 12,
+            "id": 75438,
+            "name": "Season 1",
+            "overview": "In Japan known as (12歳. ~ちっちゃなムネのトキメキ~). Base on manga series written and illustrated by Nao Maita. The anime is split into 2 season.  Summary: Hanabi Ayase and her best friend, Yui aoi are 6th graders in school. When Hanabi is chosen to work with Yuuto Takao for an upcoming test, she begins to fall in love with him and they both start dating.  Yui also falls in love with kazuma Hiyama, after he protects her from a classmate who talked about Yui behind her back, and they start dating as well.  But with physiological changes and more and more obstacles in their love lives, will Hanabi nd Yui overcome everything and find true love at the age of 12?\n\n** Opening Theme \"Sweet Sensation\" by Rie Murakawa.\n\n** Ending Theme \"Cotona MODE by AOP (Member: Kei Tomoe, Yuuki Hirose, Saori Ogino, Risa Sakurana, Yui Fukuo and Aoi Mizuki).",
+            "poster_path": "/nUtRLJxHYssU32TG8Es3Z54DBSE.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2016-10-03",
+            "episode_count": 12,
+            "id": 79822,
+            "name": "Season 2",
+            "overview": "Continue follow story season 1\n\nOpening Theme \"Ano ne, Kimi dake ni\" by AOP (Member: Kei Tomoe, Yuuki Hirose, Saori Ogino, Risa Sakurana, Yui Fukuo and Aoi Mizuki).\n\nEnding Theem \"Yuuki no Tsubasa\" by Machico.",
+            "poster_path": "/6QQkqfeZTsqjuNvx6lqgPAybo1h.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 4
+}

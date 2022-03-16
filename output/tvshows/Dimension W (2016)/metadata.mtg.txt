@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/snZwrfBtwOFSZWCNMPjr9d7OaoG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "http://dimension-w.net/",
+    "id": 65712,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-03-27",
+    "last_episode_to_air": {
+        "air_date": "2016-03-27",
+        "episode_number": 12,
+        "id": 1169487,
+        "name": "The Future Reached",
+        "overview": "Mira helps Kyōma put the pieces of his memories back together as they all fight to bring down Seameyer together.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kdJLARRtBevMmayS5IZoNJPjWlL.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "Dimension W",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Dimension W",
+    "overview": "Humanity has found a way to achieve infinite energy by using coils to draw it from the fourth plane: dimension \"W\". With the production of coils having been monopolized by the New Tesla energy company, freelance collectors are hired to find and remove any illegal, unofficial coils.\n\nThis is the story of collector Kyōma, who also happens to have a huge hatred towards coils. During one of his missions he stumbles upon a female android that perceives herself as being human, leading the two to enter an unlikely partnership.",
+    "popularity": 16.789,
+    "poster_path": "/oS5tiW8fpwnBW9pwVvFSQ7pQtAg.jpg",
+    "production_companies": [
+        {
+            "id": 77832,
+            "logo_path": "/4qKMYPaifBLGWQq7mQYQBw40W1.png",
+            "name": "Studio 3Hz",
+            "origin_country": "JP"
+        },
+        {
+            "id": 61406,
+            "logo_path": "/cp27UOmwl39GhReASLlGOekc2OB.png",
+            "name": "Orange",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-03-25",
+            "episode_count": 6,
+            "id": 179505,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-01-10",
+            "episode_count": 12,
+            "id": 74913,
+            "name": "Season 1",
+            "overview": "In the year 2071, the world’s energy problems seem solved by a network of cross-dimensional electric-field inductors- “coils” -that extract energy from a seemingly infinite source. That source is the W dimension, a fourth plane that exists beyond the X, Y, and Z dimensions.",
+            "poster_path": "/zx2EUpKws98NbbEHmuclQKLAs3D.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 30
+}

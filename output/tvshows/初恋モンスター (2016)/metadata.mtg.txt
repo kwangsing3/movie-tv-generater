@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/1ONYcGvKeRlJoweNNRJVBaVUXkN.jpg",
+    "created_by": [
+        {
+            "id": 1650298,
+            "credit_id": "57b921c9925141423e002d2a",
+            "name": "Hiyoshimaru Akira",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://hatsukoimonster.jp/",
+    "id": 66949,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-17",
+    "last_episode_to_air": {
+        "air_date": "2016-09-17",
+        "episode_number": 12,
+        "id": 1250960,
+        "name": "Adorable/Abnormable",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    "name": "First Love Monster",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "初恋モンスター",
+    "overview": "When fifteen-year-old Kaho Nikaidou leaves her sheltered home to start life anew in a Tokyo high school dormitory, the last thing she expects is to nearly get hit by a truck! Saved in the nick of time by a handsome stranger, Kaho falls head over heels for him and, after finally tracking him down, boldly confesses her feelings. Turns out Kaho's mystery savior, Kanade, is the son of Kaho's new landlord! The handsome object of Kaho's affection agrees to go out with her, but her newfound bliss is short-lived when it turns out that her new boyfriend...is a fifth-grader?!",
+    "popularity": 6.976,
+    "poster_path": "/4yXU5I8ZtYh7aNE6mZBGT4BLsiH.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-02",
+            "episode_count": 12,
+            "id": 78158,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xN2j6CyOAwEOpCQYa3kReFUITCi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 65
+}

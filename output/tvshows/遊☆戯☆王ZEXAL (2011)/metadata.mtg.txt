@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/8jgvqyz76ydAwLrntGn3jTaYr7S.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-04-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/yugioh-zexal/",
+    "id": 45854,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-23",
+    "last_episode_to_air": {
+        "air_date": "2014-03-23",
+        "episode_number": 146,
+        "id": 2937865,
+        "name": "Forever ZEXAL",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yu-Gi-Oh! Zexal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 146,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "遊☆戯☆王ZEXAL",
+    "overview": "Yu-Gi-Oh! Zexal is a Japanese manga and anime series and the third main spin-off series of the Yu-Gi-Oh! franchise. The manga began serialization in Shueisha's V-Jump magazine from December 2010 and is licensed in North America by Viz Media. The anime series, produced by Nihon Ad Systems and Studio Gallop, aired on TV Tokyo between April 2011 and September 2012, following the previous anime series, Yu-Gi-Oh! 5D's, with an English-language version airing in North America between October 2011 and August 2013. A second series, Yu-Gi-Oh! Zexal II, began airing in Japan on October 7, 2012 and in North America from August 18, 2013. The series aired on The CW's Saturday morning cartoon block, Toonzai, and continues to air on its successor, Vortexx, later airing on Nicktoons from April 2013. It now airs every Sunday at 11:30,on Nicktoons.",
+    "popularity": 25.355,
+    "poster_path": "/3aZUtzeHQrLgQQdYNqHSbJqj59G.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 55914,
+            "logo_path": "/fLZm5yRhOmaYb82wvCMOPiClMMB.png",
+            "name": "Konami",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-09-17",
+            "episode_count": 3,
+            "id": 152447,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-04-11",
+            "episode_count": 146,
+            "id": 54288,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qkrGY4vrKpC1bWmGgaL7MvWHcLf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 15
+}

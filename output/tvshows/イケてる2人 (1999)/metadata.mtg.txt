@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/v2520uogfizQg5EC9kgJZ2Jql7q.jpg",
+    "created_by": [
+        {
+            "id": 1256089,
+            "credit_id": "59d9a59cc3a368620d03093a",
+            "name": "Takashi Sano",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        6
+    ],
+    "first_air_date": "1999-02-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 44202,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-02-26",
+    "last_episode_to_air": {
+        "air_date": "1999-02-26",
+        "episode_number": 16,
+        "id": 1310522,
+        "name": "Cheers to the Good Couple!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/w2bkbQlWkOMeyySQ98lDY5zQ8BU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Iketeru Futari",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 68,
+            "logo_path": "/65r0kR6MfOBYF0gEQsJGM6v5fEG.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "イケてる2人",
+    "overview": "Saji Keisuke is a rather energetic young man who is quite smitten with the mysterious Koizumi Akira who appears to hate men. And then there is also Saji's well-endowed childhood friend Yuki who sees Akira as a rival. So what will become of this love-triangle?",
+    "popularity": 2.426,
+    "poster_path": "/id1UxifTa03rnoXry6sCgucpiGd.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-02-02",
+            "episode_count": 16,
+            "id": 87920,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

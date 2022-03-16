@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/8w60Vj4l3XFyiBHzQyjsPUfyZO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 21998,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-06-29",
+    "last_episode_to_air": {
+        "air_date": "2005-06-29",
+        "episode_number": 12,
+        "id": 604043,
+        "name": "Endless",
+        "overview": "Ritsuka finally cracks the code the Seven Moon members give him. It leades him to a internet computer game, where he meets up with one of the members. However, later on, he finds everyone dying, and Soubi admits he killed them all. What can Ritsuka do now?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Loveless",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラブレス",
+    "overview": "Twelve-year old Aoyagi Ritsuka is left with his insane mother as his only family when his brother, Seimei, is killed suddenly. After moving to a new school, he meets Agatsuma Soubi, who claims to have known his brother. Ritsuka eventually discovers that Soubi and Seimei used to be a fighting pair, whereby Soubi was the \"Fighter\" and Seimei was the \"Sacrifice\". Now that Seimei is gone, Ritsuka has inherited Soubi, who will become his \"Fighter\". After learning that Seimei was killed by an organisation known as the \"Seven Moons\", Ritsuka decides to investigate into his brother's death, with the sometimes useless help of Soubi, along the way.",
+    "popularity": 6.763,
+    "poster_path": "/lrA0DhpjyjnXqIIEjv3moPAaGBF.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 7,
+            "id": 31838,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-04-06",
+            "episode_count": 12,
+            "id": 31837,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5F9axjUE5LAX0GpmGuJa0brX42w.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.8,
+    "vote_count": 5
+}

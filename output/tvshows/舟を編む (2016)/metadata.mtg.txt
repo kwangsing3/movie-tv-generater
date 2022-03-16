@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/t9KbbLk4Ip3feJFA4Rk1Womqjxc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2016-10-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.funewoamu.com/",
+    "id": 65952,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-23",
+    "last_episode_to_air": {
+        "air_date": "2016-12-23",
+        "episode_number": 11,
+        "id": 1249700,
+        "name": "Torch",
+        "overview": "Majime and Araki visit Matsumoto with an advanced copy of Daitokai. Matsumoto is pleased, but he tells them he has cancer. That spring, the team gets a call informing them of his death. Daitokai is completed, and they throw a party to celebrate. Araki reads a moving thank you letter from Matsumoto. Later, Majime reflects on Matsumoto's message as he walks with Kaguya, finding peace and solace.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/e2jwb13OZLjndPZC5qGrfhlmZ3y.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Great Passage",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "舟を編む",
+    "overview": "The publication of a new dictionary titled The Great Passage progresses. Mitsuya Majime, originally from publisher Genbu Shobo's sales department, has been recruited by Kouhei Araki, a veteran editor of the dictionary department who is looking to retire soon. The dictionary department is known internally as the \"money-eating insect,\" but Mitsuya uses his perseverance and attachment to the words in order to become a great editor. Mitsuya, who has poor social skills, finds himself working with another man named Masashi Nishioka, who is able to express himself better.",
+    "popularity": 20.417,
+    "poster_path": "/yglVKWyNMAz4dmXvjGa4rFx6g1b.jpg",
+    "production_companies": [
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 22,
+            "id": 151624,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/1UrIhvyy3jLpxNIfCy2UGgmrePw.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-10-14",
+            "episode_count": 11,
+            "id": 75486,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wIDp8QfYqsgKMq5nKVuEtktP7lQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 15
+}

@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/4J0SQvyXHbF1ftKLqA15lJeqf4T.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2014-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://mahoushoujyotaisen.com/",
+    "id": 68612,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-30",
+    "last_episode_to_air": {
+        "air_date": "2014-09-30",
+        "episode_number": 26,
+        "id": 1238009,
+        "name": "Shimane Prefecture: The Case of Amane Sakaki",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9RNURkOYUaTjQJcmjqHyCFTckpL.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Magica Wars",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法少女大戦",
+    "overview": "\"Mahou Shoujo Taisen\" is a project created from a variety show for the Otaku \"2.5 Chigen TV\" (2.5 Dimension TV). The characters are the mahou shoujo that represent each local town in Japan. The characters that won from the second illustration competitions that were held on pixiv will appear in the anime.",
+    "popularity": 2.043,
+    "poster_path": "/svHhEKRnMZBkSJhocrijDRjG7Wh.jpg",
+    "production_companies": [
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-08",
+            "episode_count": 26,
+            "id": 81818,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sCmq3oAbvbtuoOQhSOCiuyPnDph.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

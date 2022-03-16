@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
+    "created_by": [
+        {
+            "id": 107548,
+            "credit_id": "592c8401c3a3680fcf000f88",
+            "name": "Ryo Mizuno",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1825814,
+            "credit_id": "592c84499251417c1b000f16",
+            "name": "Hitoshi Yasuda",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1990-06-30",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 42713,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1991-11-20",
+    "last_episode_to_air": {
+        "air_date": "1991-11-20",
+        "episode_number": 13,
+        "id": 1160846,
+        "name": "Lodoss, the Burning Continent",
+        "overview": "The exciting conclusion! Can Parn save Deedlit and bring peace to Lodoss?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/s4ks3qMmYF811rrKfrJl7Mr47Q1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Record of Lodoss War",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ロ-ドス島戰記",
+    "overview": "Born in battle, baptized in fire, it's kingdoms have been ravaged by war for thousands of years.  Now, an evil stirs, an ancient goddess of destruction awakened by an evil wizard.  A party of six is forged to defeat this threat, or die in the attempt.  Join Parn, the young fighter, as he leads his warriors into the heart of a land where dragons rule and evil holds sway over the earth.  Six swords are now drawn against this darkness.  The war for Lodoss has begun!",
+    "popularity": 11.371,
+    "poster_path": "/4DmzoxYfS4A1eFA35QIEJCvZE4D.jpg",
+    "production_companies": [
+        {
+            "id": 1393,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "name": "TBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1194,
+            "logo_path": null,
+            "name": "Kadokawa Shoten",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1990-06-30",
+            "episode_count": 13,
+            "id": 74105,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uCJSgCqNSUnv3NVUjSwfJVZ787N.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 23
+}

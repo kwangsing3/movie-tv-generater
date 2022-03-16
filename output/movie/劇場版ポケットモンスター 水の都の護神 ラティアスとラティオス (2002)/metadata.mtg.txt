@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/6nfEmbfWMuMBenYMOY6Vdho3Ycg.jpg",
+    "belongs_to_collection": {
+        "id": 34055,
+        "name": "Pokémon Collection",
+        "poster_path": "/oUdOt0VbJQnkLwOiQLPJLxH8oCA.jpg",
+        "backdrop_path": "/xQM02GXLgC0HxMHOCUIxTsjzi1O.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.miramax.com/movie/pokemon-v-heroes/",
+    "id": 33875,
+    "imdb_id": "tt0347791",
+    "original_language": "ja",
+    "original_title": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス",
+    "overview": "Ash, Pikachu and his friends try and stop a pair of thieves hiding out in the canals and alleyways of Altomare, the age-old water capital. Joining the adventure are two new legendary Pokémon, a pair of siblings named Latias and Latios, who serve as peacekeepers and protectors of the Soul Dew - a priceless treasure with a mysterious power.",
+    "popularity": 27.338,
+    "poster_path": "/qHcZJ3MkTay6XCzgb8BPy22qHPR.jpg",
+    "production_companies": [
+        {
+            "id": 138863,
+            "logo_path": null,
+            "name": "Pikachu Project 2002",
+            "origin_country": ""
+        },
+        {
+            "id": 12653,
+            "logo_path": null,
+            "name": "Pikachu Project",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5261,
+            "logo_path": null,
+            "name": "Shogakukan Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2002-07-13",
+    "revenue": 20867919,
+    "runtime": 71,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "On a mission they never expected. To a world they never imagined. An adventure you'll never forget.",
+    "title": "Pokémon Heroes: Latios and Latias",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 256
+}

@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/j8gNkno0nWmwAsIJd19wa3wryn6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://relife-anime.com",
+    "id": 66941,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-24",
+    "last_episode_to_air": {
+        "air_date": "2016-09-24",
+        "episode_number": 13,
+        "id": 1203067,
+        "name": "Confession",
+        "overview": "At the fireworks display, everyone puts their plans into motion and tries to make things work between Kazuomi and Rena. Meanwhile, a different pairing begins to take shape...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1w7OF08sk8kFurJFCQM9r7WS6Wj.jpg",
+        "vote_average": 10,
+        "vote_count": 2
+    },
+    "name": "ReLIFE",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ReLIFE",
+    "overview": "Arata Kaizaki (27) quit the job he landed after graduation in only three months. His life did not go well after that. Now his parents are threatening to stop sending money, and want him to come back to the country. He has no friend or girlfriend to share his troubles with...as he hits rock bottom a strange man named Ryou Yoake appears. He invites Arata to join a societal rehabilitation program for NEETs called ReLife. This program uses a mysterious drug to make him look younger, and sends him back to high school for a year...",
+    "popularity": 37.238,
+    "poster_path": "/aRK64bB8hMsuZZnitebPyKqOR5d.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-03-21",
+            "episode_count": 6,
+            "id": 101336,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ztdRy4dyLqml4Ni9EWV2r4XTOlK.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-07-02",
+            "episode_count": 13,
+            "id": 78146,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mitfFWFS0NztR9IJ6GVQIS7rH4C.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 82
+}

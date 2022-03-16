@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/5AtjdQtzU3euha2Ri9126IU3fla.jpg",
+    "created_by": [
+        {
+            "id": 2141778,
+            "credit_id": "5bb690829251410ddd017de4",
+            "name": "P Masataka",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1974399,
+            "credit_id": "5bb69088c3a368151a01cc82",
+            "name": "Sugahara Souta",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2018-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://devidol.com/",
+    "id": 82825,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-20",
+    "last_episode_to_air": {
+        "air_date": "2018-12-20",
+        "episode_number": 12,
+        "id": 2505792,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Devidol!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "でびどる！",
+    "overview": "Three demons are living in the human world: Aira, Shima, and Hana. While they work hard and make friends at school, they pursue their dream of being an idol. However, because none of them know how to be an idol, they keep trying and straying from their goal. Guided by the kind but sometimes strict lecture of Rocket-sensei, they strive to become idols.",
+    "popularity": 3.489,
+    "poster_path": "/2ssgWmH5jLiAnW3evS5E5utVDir.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-04",
+            "episode_count": 12,
+            "id": 110286,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7xD60jM1NnYCoDVKBZ7tUDXLqVj.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

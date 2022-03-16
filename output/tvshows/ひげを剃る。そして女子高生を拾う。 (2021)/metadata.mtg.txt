@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/u5lyhrnWDZ9kcAb6t5HpWj85XLh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://higehiro-anime.com",
+    "id": 106519,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-28",
+    "last_episode_to_air": {
+        "air_date": "2021-06-28",
+        "episode_number": 13,
+        "id": 2852721,
+        "name": "Future",
+        "overview": "It's time for Yoshida to head back home, and Sayu to return to her old life. Can she get by without him, and can he get by without her?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qnbTJxivdZDeUQGzvtiKXsF75hW.jpg",
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    "name": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ひげを剃る。そして女子高生を拾う。",
+    "overview": "On his way home from drinking his sorrows away after being rejected by his crush, 26 year old salaryman Yoshida finds a high school girl named Sayu sitting on the side of the road and ends up letting her stay at his place overnight. Not having the heart to put the runaway out on the streets, Yoshida allows her to stay at his place... And so began the awkward, irritable, and slightly heartwarming relationship between a runaway high school girl and a salaryman living together.",
+    "popularity": 37.702,
+    "poster_path": "/aNpf4vaeZiucPqrOlIKs5Sqxzbs.jpg",
+    "production_companies": [
+        {
+            "id": 74464,
+            "logo_path": null,
+            "name": "project No.9",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86741,
+            "logo_path": null,
+            "name": "Magic Capsule",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-05",
+            "episode_count": 13,
+            "id": 157380,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/crxAlG1gYvDj3MGPMDx58mBBAcU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 155
+}

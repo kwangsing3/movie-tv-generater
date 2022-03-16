@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/iu45FZkhSNJysANEDiRu2QoMY8E.jpg",
+    "created_by": [
+        {
+            "id": 233248,
+            "credit_id": "5fdf020fe263bb0046bd2483",
+            "name": "Ryousuke Takahashi",
+            "gender": 2,
+            "profile_path": "/yX9j8giZAXdINjACwDjwEQ504U0.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1998-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.gasaraki.net/",
+    "id": 34782,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-03-28",
+    "last_episode_to_air": {
+        "air_date": "1999-03-28",
+        "episode_number": 25,
+        "id": 792185,
+        "name": "Gasara",
+        "overview": "Desperate to summon Gasaraki and claim the infinite power he craves, Kazukiyo decides to use the powers of the third Kai- his little sister Misuzu. Can Yushiro and Miharu arrive in time to stop him, or will they too be drawn into the very terror they have tried so hard to avoid?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gasaraki",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガサラキ",
+    "overview": "The flames of war are fanned in the Middle East as two secretive forces unleash their latest weapons of mass destruction.",
+    "popularity": 4.984,
+    "poster_path": "/6xN2mibxO4yMqHkOmjN6uSVXX4k.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1998-10-04",
+            "episode_count": 25,
+            "id": 45559,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nSaSrrXPUO85UK6A0QLWYX8SHfQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 5
+}

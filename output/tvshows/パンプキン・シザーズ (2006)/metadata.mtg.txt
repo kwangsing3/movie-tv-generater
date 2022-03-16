@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/2de33LCNRqLrIHsXBIfoZTLzdmV.jpg",
+    "created_by": [
+        {
+            "id": 1531942,
+            "credit_id": "563b9c1ac3a3681b4d028129",
+            "name": "Ryotaro Iwanaga",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2006-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 31712,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-03-17",
+    "last_episode_to_air": {
+        "air_date": "2007-03-17",
+        "episode_number": 24,
+        "id": 758844,
+        "name": "Soldiers, Commoners, Nobles",
+        "overview": "Pumpkin Scissors is quickly running out of time to find a solution before the mansion is attacked.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pumpkin Scissors",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "パンプキン・シザーズ",
+    "overview": "Pumpkin Scissors is a manga created and authored by Ryotaro Iwanaga. Originally serialized in Magazine GREAT in 2002 it was later moved to Monthly Shonen Magazine in October 2006. The manga has been licensed by Del Rey. An anime adaptation of Pumpkin Scissors has been released, produced by Gonzo and AIC, which began airing on October 2, 2006 across several Japanese television stations and ended with the 24th episode on March 19, 2007. The series was originally licensed to the North American market by ADV Films for $780,000. In 2008 it became one of over thirty titles transferred from ADV Films to FUNimation, the main distributor of anime in the English speaking world.",
+    "popularity": 7.281,
+    "poster_path": "/56MIZgVKGDMo25NNuVspQmDrF0D.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-10-02",
+            "episode_count": 24,
+            "id": 43208,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2SHqOWnmm5PFkRitV3pQ0JDpSB8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 6
+}

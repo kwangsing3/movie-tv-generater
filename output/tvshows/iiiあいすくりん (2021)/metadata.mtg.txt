@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/mUjeUxO6CZz79n5NkPbJgwQ1wao.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2021-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://iii-icecrin.com/",
+    "id": 127264,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-29",
+    "last_episode_to_air": {
+        "air_date": "2021-06-29",
+        "episode_number": 12,
+        "id": 3018088,
+        "name": "Everyone's Friends",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "iii icecrin",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "iiiあいすくりん",
+    "overview": "iii Icecrin is a short series aired in a two minute format with the setting of the show is a place named Ice Cream town where people socialize and meet with each other and its denizens being animals based on the 15 various flavors sold by Blue Seal Ice Cream. Each episode focuses on a certain character in the series in their everyday antics but when problems arose, they solve it through teamwork and dedication. Also as a running theme in the series, the characters can melt in hot conditions, requiring them to go to a freezer to freeze their bodies back in shape.",
+    "popularity": 2.507,
+    "poster_path": "/exABiAOA1zugUmCCRM2FVjJJSA.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-06",
+            "episode_count": 12,
+            "id": 198716,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/exABiAOA1zugUmCCRM2FVjJJSA.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

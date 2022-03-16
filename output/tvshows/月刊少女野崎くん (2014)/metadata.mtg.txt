@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/aeJAPG0OaOKMSnqvmDHWU9E5UQD.jpg",
+    "created_by": [
+        {
+            "id": 3349888,
+            "credit_id": "61bbc5563f8ede0061051caf",
+            "name": "Izumi Tsubaki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.nozakikun.tv/",
+    "id": 61379,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-22",
+    "last_episode_to_air": {
+        "air_date": "2014-09-22",
+        "episode_number": 12,
+        "id": 1029575,
+        "name": "If This Feeling Isn't Love, Then There Is No Love in the World",
+        "overview": "Chiyo tries to advance her relationship with Nozaki when she finds that she still has not given him the chocolates she had for Valentine’s Day. Chiyo, Nozaki and their friends attend a summer festival where Chiyo is reminded of the time when she and Nozaki first met.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/38TKZtPaCrDaOZLslODQiPcSy3n.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Monthly Girls' Nozaki-kun",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "月刊少女野崎くん",
+    "overview": "High school student Chiyo Sakura has a crush on schoolmate Umetarō Nozaki, but when she confesses her love to him, he mistakes her for a fan and gives her an autograph. When she says that she always wants to be with him, he invites her to his house and has her help on some drawings. Chiyo discovers that Nozaki is actually a renowned shōjo manga artist named Sakiko Yumeno. She then agrees to be his assistant in order to get closer to him. As they work on his manga Let's Fall in Love (恋しよっ), they encounter other schoolmates who assist them or serve as inspirations for characters in the stories.",
+    "popularity": 22.634,
+    "poster_path": "/maPv22inKIcyfOCil3wrWiyJ7gC.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        },
+        {
+            "id": 87086,
+            "logo_path": null,
+            "name": "Sony Music Communications",
+            "origin_country": ""
+        },
+        {
+            "id": 5809,
+            "logo_path": "/aqc1Sj5nfPWb9rjf1TSayKBPlno.png",
+            "name": "Frontier Works",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-10-09",
+            "episode_count": 6,
+            "id": 102109,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/kaO9rD8sowpZ5ryACB9wJbFFrNO.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-07-07",
+            "episode_count": 12,
+            "id": 62782,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cP7WvZV6XPMn3yOc9IpTTmeTn2Y.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 47
+}

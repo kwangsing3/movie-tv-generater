@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/45feYn6zwVrwLcBtiaLOXzavtOT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-10",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://slime300-anime.com/",
+    "id": 99073,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-26",
+    "last_episode_to_air": {
+        "air_date": "2021-06-26",
+        "episode_number": 12,
+        "id": 2817851,
+        "name": "We Opened a Coffee Shop",
+        "overview": "Festival season has come to the village of Flatta. The festival has been held there for the past 250 years, but as the only person who knows its entire history since it was started, Azusa has distanced herself from it to let the villagers keep their independence. But her family has shown interest in it and seems excited to see it, so she makes up her mind to change the way she interacts with the village tradition... and thus the one-day-only coffee shop, The Witch's House, was born. Will the villagers enjoy this little shop Azusa's family has created?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uvNsjSB5vQ80KbiPlYaLsMnWxFy.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スライム倒して300年、知らないうちにレベルMAXになってました",
+    "overview": "After dying of overwork in the real world, I’m reincarnated as an immortal witch, and I spend 300 years enjoying a relaxing life. At some point, though, I end up at level 99! All those years spent killing slimes to make the money to pay the bills gave me a ton of experience points. Rumors of the level 99 witch spread, and soon I’m up to my ears in curious adventurers, duelist dragons, and even a monster girl calling me her mom! I’ve never been on an adventure, but I’m the strongest in the world… What’s going to happen to my relaxing life?!",
+    "popularity": 42.302,
+    "poster_path": "/iyTiJqrAs2YItyTYGI18PdqX65c.jpg",
+    "production_companies": [
+        {
+            "id": 105259,
+            "logo_path": "/67VoQg4RJe786AOULP426rEfXew.png",
+            "name": "REVOROOT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-10",
+            "episode_count": 12,
+            "id": 142788,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iyTiJqrAs2YItyTYGI18PdqX65c.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 241336,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 113
+}

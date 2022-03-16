@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": "/nFK1szk19NxWRnP9gV9wYNutvhy.jpg",
+    "created_by": [
+        {
+            "id": 90502,
+            "credit_id": "578291949251414646001aa5",
+            "name": "Goro Taniguchi",
+            "gender": 2,
+            "profile_path": "/jaWKoFPi2uft5nbmMjSKtaH4uPE.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "http://activeraid.net/",
+    "id": 65214,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-27",
+    "last_episode_to_air": {
+        "air_date": "2016-09-27",
+        "episode_number": 12,
+        "id": 1246105,
+        "name": "Wonderful Days",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/aLls2nmOxAosO99CfgURHpyyDCS.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Active Raid",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アクティヴレイド -機動強襲室第八係-",
+    "overview": "Set in a part of Tokyo that has descended into a quagmire, the story follows Unit 8 of the 5th Special Public Security Section's 3rd Mobile Assault Division — popularly called \"The Eighth\" — who don powered armor \"Willware\" exoskeletons to counter the rise in crime. Assistant inspector Asami Kazari is assigned to The Eighth with the task of assessing the unit's status and reporting it to her superiors. But her true goal is to rehabilitate this sloppy, haphazard, justice-less group.",
+    "popularity": 24.562,
+    "poster_path": "/c1o3sK5FHr26IQ4JzsNElY6kqW2.jpg",
+    "production_companies": [
+        {
+            "id": 65500,
+            "logo_path": null,
+            "name": "Production IMS",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-01-07",
+            "episode_count": 12,
+            "id": 73704,
+            "name": "Season 1",
+            "overview": "In a futuristic, post-disaster Tokyo, the \"Special Public Security Fifth Division Third Mobile Assault Eighth Unit,\" or \"Unit Eight,\" is a police unit specializing in handling criminals who wield dangerous wearable technology called \"Willwear.\" Equipped with Willwear of their own, the squadron is often criticized by the public for their carelessness and disregard for protocol.\n\nSent in by the government as an undercover agent with special instructions from the higher-ups, Asami Kazari is Unit Eight's newest member. Determined to straighten out what she expects to be a group of incompetent fools, she instead finds a team of well-intentioned experts who use very effective—albeit unorthodox—methods, hindered by strict regulations. With their newest member by their side, Unit Eight fights crime and overcomes unexpected adversaries in Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari.",
+            "poster_path": "/a1AuwCetM7gIuoFbzKLbD5NmgnP.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2016-07-12",
+            "episode_count": 12,
+            "id": 82205,
+            "name": "Season 2",
+            "overview": "Set in a part of Tokyo that has descended into a quagmire, the story follows Unit 8 of the 5th Special Public Security Section's 3rd Mobile Assault Division, popularly called \"The Eighth,\" who don powered armor \"Willwear\" exoskeletons to counter the rise in crime.",
+            "poster_path": "/gjhUlLlr1E6xD6pIBkjzuwCqTGu.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 11
+}

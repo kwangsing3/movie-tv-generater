@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/pMlkgIGVxX0cWclzeFS2Zxtmasj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        26
+    ],
+    "first_air_date": "1981-10-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 34163,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1986-03-19",
+    "last_episode_to_air": {
+        "air_date": "1986-03-19",
+        "episode_number": 218,
+        "id": 1991427,
+        "name": "Great All Star Banquet! We are Immortal!!",
+        "overview": "Every character from the show makes an appearance as the school attempts a retelling of a classic Japanese tale.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Urusei Yatsura",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 218,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "うる星やつら",
+    "overview": "An alien race known as the Oni arrive on Earth to invade the planet. Instead of taking over the planet by force, the Oni give humans a chance to fight for the rights to the planet by taking part in a competition. The computer-selected human player is Ataru Moroboshi, a lecherous, unlucky and stupid high school student from the Japanese city of Tomobiki, and the Oni player is Princess Lum, daughter of the leader of the Invasion force.",
+    "popularity": 58.775,
+    "poster_path": "/bs0Q5TMYVUTNXCPbuPBNylzqrxk.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-03-31",
+            "episode_count": 15,
+            "id": 45002,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/siOr7YWjvVSbYWysG15xk5ty7a7.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1981-10-14",
+            "episode_count": 218,
+            "id": 44994,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4vvzNVJ0PaD9fQC41OUMCs5EbdF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 15
+}

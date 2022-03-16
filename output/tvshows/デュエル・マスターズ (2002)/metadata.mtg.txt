@@ -1,0 +1,241 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24,
+        30
+    ],
+    "first_air_date": "2002-10-21",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://dm.takaratomy.co.jp/",
+    "id": 46392,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-28",
+    "last_episode_to_air": {
+        "air_date": "2021-03-28",
+        "episode_number": 47,
+        "id": 2753022,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 16,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Duel Masters",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 809,
+    "number_of_seasons": 16,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デュエル・マスターズ",
+    "overview": "A mysterious organization is interested in fledging duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.",
+    "popularity": 50.663,
+    "poster_path": "/bZEhSAooW0rWGhFisuwtvRZ2vSm.jpg",
+    "production_companies": [
+        {
+            "id": 5451,
+            "logo_path": "/xeHQM5AsvHwo4Ublp4MetaEfsVf.png",
+            "name": "ACGT",
+            "origin_country": "JP"
+        },
+        {
+            "id": 78802,
+            "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+            "name": "Studio Hibari",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-10-21",
+            "episode_count": 65,
+            "id": 54651,
+            "name": "Duel Masters",
+            "overview": "The world of Duel Masters is one of five great civilizations. Through a card game, duelists can bring these worlds into existence, making what was previously abstract into reality. These skilled duelists are known as Kaijudo masters.\n\nShobu Kirifuda is the best player at his local playground, and seeks to become a world-class master like his father. His first step on the road to conquest begins with winning a local tournament. Rather, it should have, except he is destroyed by the best Kaijudo master in the world, Knight. Shobu loses, but upon remembering the words of wisdom his father instilled into him, decides to continue on the road of becoming a duelist who can enjoy the game for what it is. And so begins his journey to victory－and as we all know, the journey is the most important part!",
+            "poster_path": "/9geJLGR0xCU3tDPBNlGmyCB0fpK.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2004-04-19",
+            "episode_count": 52,
+            "id": 54653,
+            "name": "Duel Masters Charge",
+            "overview": "Shobu has returned after his 3 years training with all his friends in Battle Arena tournament. However, Shobu encounters a new enemy Zakira and his followers, the Fua Duelists. Zakira is a strong kaijudo duelist like Hakuoh. After kidnapping Hakuoh, they turn him into an enemy! Shobu and his friends try to stop them, but will they make it in time? Or will Shobu lose everything and end up devastated!?",
+            "poster_path": "/igfp3mmrAahoxoSd29Y1Vjps0Ox.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2007-04-09",
+            "episode_count": 12,
+            "id": 54652,
+            "name": "Zero Duel Masters",
+            "overview": "It is featured in an alternate universe where Shobu had lost his duel against Hakuoh in their duel back in the Season 1 episode \"Just Duel It\".\n\nA mysterious organization is interested in fledgling duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.",
+            "poster_path": "/jM6iKubxAqofjK6MMPOCtDpkj4X.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2007-10-06",
+            "episode_count": 25,
+            "id": 90191,
+            "name": "Duel Masters Zero",
+            "overview": "The previous season of 'Zero Duel Masters' was set in an alternate universe, so this season's plot is a continuation of the Duel Masters Charge.\n\nIt follows the aftermath of the duel of Shobu vs Zakira.",
+            "poster_path": "/dcUcMEpMCZj8El7kZUoDDLOcmV2.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2008-04-05",
+            "episode_count": 100,
+            "id": 90192,
+            "name": "Duel Masters Cross",
+            "overview": "Shobu and friends fight the remaining Fua Duelists in order to defeat Zakira. Once again, they face off against the old members of Fua Duelists at the World Championship tournament.\n\nShobu also found the terrible fate his friends faced because of these duelists in their past.",
+            "poster_path": "/p5WQbwz02JKqpxIoLMxSt5BlR6p.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": "2010-04-03",
+            "episode_count": 50,
+            "id": 90195,
+            "name": "Duel Masters Cross Shock",
+            "overview": "Shobu and friends continue to face the members of Fua Duelist in the World Championship and defeat them all.\n\nAnd now Shobu is the World Champion. Before Shobu could relax he is being called into the creature world to face Diabolos Zeta, Temporal Ruler, who is about to bring annihilation. Shobu and friends gather the new legendary cards and stop him with their new powers of these cards.",
+            "poster_path": "/fvMn1wh4zAD68wdO34WItYZrKE9.jpg",
+            "season_number": 6
+        },
+        {
+            "air_date": "2011-04-02",
+            "episode_count": 52,
+            "id": 90196,
+            "name": "Duel Masters Victory",
+            "overview": "As shown in Episode 32 of Duel Masters Versus, this storyline follows the events of the Duel Masters: Star Cross manga instead of Cross Shock.\n\nIt introduces a new protagonist named Katta Kirifuda, the brother of Shobu.\n\nHe wants to be a dueling champion like his brother Shobu, but in his own way. The series shows the beginning of his dueling adventures with his friends, Bucyake, Yohdel and Benchan. During these adventures he considers Dragon Ryu a fierce duelist as his rival.\n\nThis series also features the story behind the battle between the races of Hunters and Aliens.",
+            "poster_path": "/bHzHn1Un3mz3hfzOBL43WhoEkBg.jpg",
+            "season_number": 7
+        },
+        {
+            "air_date": "2012-04-07",
+            "episode_count": 51,
+            "id": 90197,
+            "name": "Duel Masters Victory V",
+            "overview": "This series continues the adventures of Katta Kirifuda, Bucyake and Yohdel throughout the school season. They meet new classmates such as Leo to duel against.",
+            "poster_path": "/wMLuEAS5187HbzgsqFxoR61Coxh.jpg",
+            "season_number": 8
+        },
+        {
+            "air_date": "2013-04-06",
+            "episode_count": 51,
+            "id": 90199,
+            "name": "Duel Masters Victory V3",
+            "overview": "In this series the story continues after Katta Kirifuda defeats the YA.RA.SI band and also gains back his popularity by defeating Leo and his sidekick Nai Minamimo.\n\nKatta will use a new race of Outrage creatures against the opposing new race of Oracle deck users. Also in the creature world a new time era will start off.",
+            "poster_path": "/e5ReUfhpEox1JbEHqUmMRomTeto.jpg",
+            "season_number": 9
+        },
+        {
+            "air_date": "2014-04-05",
+            "episode_count": 49,
+            "id": 90210,
+            "name": "Duel Masters VS",
+            "overview": "The most anticipated card game, Duel Masters had returned after 2 years since the battle in the past season. However, Katta Kirifuda once the strongest duelist, is now a year 2 middle school student and had lost his passion of dueling throughout the 2 years, and dreams of curry bread every day.\n\nHowever, after an encounter with the baseball ace, Hokaben, a mysterious duelist and a reunion with his childhood friend Lulu Takigawa, he rekindled his dueling spirit and return to his journey of becoming the strongest duelist. With new friends and rivals and Katta's passionate duelist soul, the greatest battle begins!",
+            "poster_path": "/pppjkkUKF2p2kicLGcmAAbKwLhr.jpg",
+            "season_number": 10
+        },
+        {
+            "air_date": "2015-04-05",
+            "episode_count": 51,
+            "id": 90213,
+            "name": "Duel Masters VSR",
+            "overview": "A next fierce fight is about to begin after Katta Kirifuda finally become the Duel Masters National Tournament champion.\n\nJapan's largest theme park, Duel Masters Land has appeared. With numerous fun attractions and events, Katta was also having fun. However, after meeting the mascot of the park, \"Duemouse\", Katta got involved in a ridiculous conspiracy of the park.\n\nA shadow that invades the Duel Masters World, which is the mysterious team of duelists! The mysterious identity of the legendary card is to be revealed. A new stage and revolution of Duel Masters befalls Katta!",
+            "poster_path": "/70tygdMZu9N1y7W0AzexztAnzui.jpg",
+            "season_number": 11
+        },
+        {
+            "air_date": "2016-04-03",
+            "episode_count": 51,
+            "id": 121549,
+            "name": "Duel Masters VSRF",
+            "overview": "It is the sequel of Duel Masters VSR, continuing the chain of events after the battle between the Invaders and Revolutionary. It is also the last season and conclusion of the Versus Saga in the anime\n\nThe 'V' mark that was once on Katta Kirifuda's forehead hides a mysterious force. However, the power was sealed off. Even though the impact of removing the seal does not do much, but Hamukatsu starts to talk!\n\nPlus more hamsters that are like Hamukatsu starts to appear! They were then told about a secret organization, the \"Rare Killers\", with the members being transfer students of the school! What is the mystery of the hamsters like Hamukatsu and who exactly are the Rare Killers? The final battle is about to start!",
+            "poster_path": "/19JNrl6kxBcLFrsLsq5NLdQ0JGX.jpg",
+            "season_number": 12
+        },
+        {
+            "air_date": "2017-04-02",
+            "episode_count": 51,
+            "id": 121693,
+            "name": "Duel Masters (2017)",
+            "overview": "In the new series' story, the balance of the Creature World is starting to crumble. A talking deck case named Decky comes to the human world to search for a Duel Master to preserve equilibrium. There he sees Joe's power to create creatures.",
+            "poster_path": "/z2JqMgU7wfzgD7s5BBwVrEaBz6l.jpg",
+            "season_number": 13
+        },
+        {
+            "air_date": "2018-04-01",
+            "episode_count": 51,
+            "id": 183101,
+            "name": "Duel Masters!",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 14
+        },
+        {
+            "air_date": "2019-04-07",
+            "episode_count": 51,
+            "id": 183102,
+            "name": "Duel Masters!!",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 15
+        },
+        {
+            "air_date": "2020-04-05",
+            "episode_count": 47,
+            "id": 183103,
+            "name": "Duel Masters King",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 16
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 4
+}

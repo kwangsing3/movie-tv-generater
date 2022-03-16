@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/aUOV7Xij21f1PXQhJ8dydYJCQs2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        27
+    ],
+    "first_air_date": "2004-11-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 104840,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-08-26",
+    "last_episode_to_air": {
+        "air_date": "2005-08-26",
+        "episode_number": 3,
+        "id": 2742131,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Akane Maniax",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アカネマニアックス",
+    "overview": "",
+    "popularity": 1.401,
+    "poster_path": "/7Bp1AMPmyPbthIa8c6L26Xui6sH.jpg",
+    "production_companies": [
+        {
+            "id": 116765,
+            "logo_path": null,
+            "name": "Silver",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-11-25",
+            "episode_count": 3,
+            "id": 153594,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

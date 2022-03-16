@@ -1,0 +1,56 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 740128,
+    "imdb_id": "tt7106942",
+    "original_language": "ja",
+    "original_title": "いじめ 〜いけにえの教室〜",
+    "overview": "Sera is the queen of the school, and everyone who bothers her becomes the \"sacrifice\", which is mistreated by everyone.",
+    "popularity": 0.6,
+    "poster_path": "/8O8kdpH7MWGRCRHx9pimeApFZtq.jpg",
+    "production_companies": [
+        {
+            "id": 140224,
+            "logo_path": "/5sKwEOp3RdoAukp6qHwSE8MoTit.png",
+            "name": "SynergySP",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12655,
+            "logo_path": "/7Rt8txBx60jJ0jjtOibGWmP22vo.png",
+            "name": "Shogakukan-Shueisha Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2012-02-03",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ijime: Ikenie no Kyoushitsu",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/xmCldvBh9YMkCdSSCZ8UTr0UhqH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2003-10-04",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://king-cr.jp/special/binzume/",
+    "id": 12423,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-12-27",
+    "last_episode_to_air": {
+        "air_date": "2003-12-27",
+        "episode_number": 13,
+        "id": 480755,
+        "name": "and then...",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bottle Fairy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "瓶詰妖精",
+    "overview": "Bottle Fairy follows a quartet of cute fairies as they play, study, and learn (often incorrect) lessons about the human world.",
+    "popularity": 2.445,
+    "poster_path": "/jgimkNaV0GAsYMlqWoDsnwWFYWg.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-10-04",
+            "episode_count": 13,
+            "id": 23235,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dSriPRv5JulmZdM0HXrhhz1OxCL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 8
+}

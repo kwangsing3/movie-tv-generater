@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/dTNrPvSf3WEoYAiO2q8xmwtSM6o.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://taisho-otome.com",
+    "id": 114937,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-25",
+    "last_episode_to_air": {
+        "air_date": "2021-12-25",
+        "episode_number": 12,
+        "id": 3266299,
+        "name": "A Spring Storm",
+        "overview": "An injured Yuzuki reflects on some moments in her life since she met Tamahiko and laments her inability to express her feelings. She wishes she could survive and meet Tamahiko again.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bODH4MVp26UkblWnwFcXRiz2V9W.jpg",
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    "name": "Taisho Otome Fairy Tale",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "大正オトメ御伽話",
+    "overview": "Tamahiko Shima has been exiled to the country because of his disability, but the sudden arrival of an arranged bride upends his lonely life.",
+    "popularity": 35.466,
+    "poster_path": "/yojUkkYwuBnOZAuEMIYe6mjj206.jpg",
+    "production_companies": [
+        {
+            "id": 140224,
+            "logo_path": "/5sKwEOp3RdoAukp6qHwSE8MoTit.png",
+            "name": "SynergySP",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156047,
+            "logo_path": "/bR1IGv2EUNaLGPIA3jRgbATUaX8.png",
+            "name": "Bit grooove promotion",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-02",
+            "episode_count": 1,
+            "id": 220756,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-10-09",
+            "episode_count": 12,
+            "id": 172869,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2vR0U6JGSV3RwB6y20DFttMHn5w.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 7
+}

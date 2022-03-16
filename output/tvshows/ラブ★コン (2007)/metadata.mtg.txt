@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/d2mXa6mhvAuMIZ89LL1FFGGv9KJ.jpg",
+    "created_by": [
+        {
+            "id": 1524364,
+            "credit_id": "5625687c92514144b0005d2f",
+            "name": "Aya Nakahara",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2007-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 27167,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-09-29",
+    "last_episode_to_air": {
+        "air_date": "2007-09-29",
+        "episode_number": 24,
+        "id": 680953,
+        "name": "Together Always",
+        "overview": "Otani comes to stay at Risa's place for the night before his exam and meets her family. After his exam, Otani and Risa run into Mimi, who is a model now. Risa thinks of what she should do in life.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8nP3rGmPQyU9uWugwCwDDlQx7pl.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Lovely Complex",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラブ★コン",
+    "overview": "Love is unusual for Koizumi Risa and Ootani Atsushi, who are both striving to find their ideal partner in high school—172 cm tall Koizumi is much taller than the average girl, and Ootani is much shorter than the average guy at 156 cm.",
+    "popularity": 23.063,
+    "poster_path": "/upz1NpOpWo4coEicGFKb2VwWhmV.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-04-07",
+            "episode_count": 24,
+            "id": 37951,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/p6HAmiFIlj7PN4Uv7ENTLbMncbP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 100
+}

@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1989-10-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 138620,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1989-10-14",
+    "last_episode_to_air": {
+        "air_date": "1989-10-14",
+        "episode_number": 3,
+        "id": 3338958,
+        "name": "The Final Confrontation",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Umi no Yami, Tsuki no Kage",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "海の闇、月の影",
+    "overview": "Luka and Lumi Kobayakawa are twin sisters in love with the same man, athletic upperclassman Katsuyuki Touma. Lumi seems supportive of Luka's fledgling romance with Katsuyuki, until the twins are infected with a strange bacterium that transforms Lumi's personality and gifts the twins with terrifying psychic powers. Now Lumi will stop at nothing - or no-one - that gets between her and Katsuyuki, including her own twin sister...",
+    "popularity": 0.6,
+    "poster_path": "/cqmyxCtGOjS1ejD8HoXDo6eTozx.jpg",
+    "production_companies": [
+        {
+            "id": 155586,
+            "logo_path": "/rogLuRSNdqLI9r29ZCzD0i0kfJW.png",
+            "name": "Bandai",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3560,
+            "logo_path": "/yOsrKcVSpC9ofAkE6hJjvC8sW9u.png",
+            "name": "KSS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 139635,
+            "logo_path": null,
+            "name": "Visual 80 Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1989-10-14",
+            "episode_count": 3,
+            "id": 219579,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

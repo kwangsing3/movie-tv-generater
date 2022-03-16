@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/4qSnvBOYQSRmbi2O3ncyL0F8bI9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/aikatsufriends/",
+    "id": 79024,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-09-30",
+    "last_episode_to_air": {
+        "air_date": "2019-09-30",
+        "episode_number": 26,
+        "id": 1954649,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/vKPgzuCcSs763oRWlevVwTPWjFx.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Aikatsu Friends!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 76,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイカツフレンズ!",
+    "overview": "Aine Yūki is good at making friends, and is enrolled in Star Harmony Academy's general education track. She befriends Mio Minato, the school's top idol, and becomes an idol herself.",
+    "popularity": 9.984,
+    "poster_path": "/pM5ND1TiH6jArgMjMbJcnGMhk5W.jpg",
+    "production_companies": [
+        {
+            "id": 74440,
+            "logo_path": "/mf1nS1bfySc1XM5EmPZp4qsAOoy.png",
+            "name": "Bandai Namco Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-05",
+            "episode_count": 50,
+            "id": 102876,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-04-08",
+            "episode_count": 26,
+            "id": 120676,
+            "name": "Kagayaki's Jewel",
+            "overview": "",
+            "poster_path": "/abhJizQD6L2OiI9WeBzrYt3Gkin.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

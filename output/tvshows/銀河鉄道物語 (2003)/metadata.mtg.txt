@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/glMzijtdQbeD9ym3vEXMqVcC0sY.jpg",
+    "created_by": [
+        {
+            "id": 78014,
+            "credit_id": "5257940b760ee36aaa704bae",
+            "name": "Leiji Matsumoto",
+            "gender": 2,
+            "profile_path": "/muSDczQxWUkLQQuwVvLO8fSdshM.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 8915,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-02-21",
+    "last_episode_to_air": {
+        "air_date": "2007-02-21",
+        "episode_number": 21,
+        "id": 402125,
+        "name": "Revolt",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Galaxy Railways",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 50,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "銀河鉄道物語",
+    "overview": "A science fiction anime series about flying trains set in the far reaches of space.",
+    "popularity": 17.626,
+    "poster_path": "/eG4Bayg3vtLB1gtjVHQSP0aHBgW.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 4,
+            "id": 18852,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/bB0ENKelvd5zdxm45by9A2JNDME.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-10-04",
+            "episode_count": 26,
+            "id": 18851,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/om2qQpqITjIMi41Ym3HT76jzQ31.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2006-10-05",
+            "episode_count": 24,
+            "id": 18853,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/jfutY2fmmvdtH7gPIRmeOlB5Cnh.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 2
+}

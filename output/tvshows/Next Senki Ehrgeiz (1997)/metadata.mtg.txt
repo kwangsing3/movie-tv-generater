@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 3302366,
+            "credit_id": "618a08c239549a0043e0be93",
+            "name": "et",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1997-09-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 27537,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1997-12-24",
+    "last_episode_to_air": {
+        "air_date": "1997-12-24",
+        "episode_number": 12,
+        "id": 692710,
+        "name": "The Absolute Present",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Next War Chronicle Ehrgeiz",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Next Senki Ehrgeiz",
+    "overview": "Earth started space colonization by creating the Next Colonies. Next later rebelled, and created the Next Government. The rebellion became a war, and the multi-purpose Metal Vehicles, MVs for short, were changed for battle purposes. Meanwhile, Terra, an Earth Rebellion force, started creating more trouble for Earth. Now, a mysterious MV-like being, S.A.C (\"S\" for short), is loose, and Next wants it so that they can win the war. Terra's psychic leader, Hal, has been sensing \"S\", and wants to know more about the power it has. The future of these three groups will be up to a bunch of outlaws who live on the abandoned Next 7 colony, though no one knows that yet...",
+    "popularity": 1.027,
+    "poster_path": "/tneAeWgGmnfBZzO1lnrPKVJlZIJ.jpg",
+    "production_companies": [
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 110472,
+            "logo_path": null,
+            "name": "BeSTACK",
+            "origin_country": ""
+        },
+        {
+            "id": 12518,
+            "logo_path": "/qJZAVb8vx6qFLQJ6cunRkVUJVdB.png",
+            "name": "d-rights",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11847,
+            "logo_path": "/rZP0I1p3hZNUMNFPHUSal6rWThQ.png",
+            "name": "Mitsubishi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1997-09-01",
+            "episode_count": 12,
+            "id": 38496,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

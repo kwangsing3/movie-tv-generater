@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/ofrEZSmNAzF2ZDkusPyZqhG8qZy.jpg",
+    "created_by": [
+        {
+            "id": 93107,
+            "credit_id": "5fc5ba5262fcd3003fc1e8be",
+            "name": "Masaaki Yuasa",
+            "gender": 2,
+            "profile_path": "/c8w5a2ExhnRPV3lN4D2CvOwGQJT.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-04-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.wowow.co.jp/anime/kaiba",
+    "id": 34747,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-07-25",
+    "last_episode_to_air": {
+        "air_date": "2008-07-25",
+        "episode_number": 12,
+        "id": 791378,
+        "name": "Everyone in the Clouds",
+        "overview": "The end of the world draws near, as legendary memory eating plant approaches. What's more is that Kaiba/Warp wants everything to be erased, so Neiro is the only one able to stop him with the memory Kaiba had once forgotten.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/19rb8DzIvNcLlRlC44lIKsQTo4d.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kaiba",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カイバ",
+    "overview": "In a world where memories exist in memory chips separate from the body, death of the body no longer means death of the soul. It is possible for memories to be viewed, altered, and transferred between bodies. These memory chips are used by the rich to obtain eternal lives in carefully selected bodies, while for the poor, selling their own bodies and conserving their souls in the chips often become the only way to earn a living. An electrolytic cloud in the sky serves as a barrier between the heavens of the fortunate and the underworld of the destitute, making this social division impregnable. One day, a man named Kaiba wakes up in an empty room with no memories, a mysterious hole in his chest, and a locket holding the picture of an unknown woman. After escaping an attack and stumbling upon a decrepit village of underworld residents, he begins his adventure across the different planets of this strange universe to find out more about his own identity and the woman he once knew.",
+    "popularity": 12.111,
+    "poster_path": "/7rq1AFb5SO9j1hlS0SuThLcBBVM.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-04-11",
+            "episode_count": 12,
+            "id": 45511,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gPHxv5XMlNB8PTVw6HXKAyKQEWG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.9,
+    "vote_count": 23
+}

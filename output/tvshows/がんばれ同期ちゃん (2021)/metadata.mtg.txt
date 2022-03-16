@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/d9uJkES911LiLxRQ6alnKRYqdWG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        7
+    ],
+    "first_air_date": "2021-09-20",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://doukichan-anime.com",
+    "id": 131168,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-06",
+    "last_episode_to_air": {
+        "air_date": "2021-12-06",
+        "episode_number": 12,
+        "id": 3276163,
+        "name": "That's What I'm Talking About, Douki-Kun",
+        "overview": "Douki-kun whisks Douki-chan away from the guys who are hitting on her. Then Douki-chan performs in her maid costume.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/k4X5XSHpv2cjL5chdWuKMH7nDZ3.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Ganbare Douki-chan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "がんばれ同期ちゃん",
+    "overview": "Douki-chan is an office lady who is working with Douki-kun in an office. Unbeknownst to Douki-kun, Douki-chan secretly has feelings for him. As Douki-chan struggles to confess her feelings, her rivals, both the kouhai and senpai, continue to vie for his affection.",
+    "popularity": 10.447,
+    "poster_path": "/vd60WrTKHcNWkUbrJcOaAUOSVGO.jpg",
+    "production_companies": [
+        {
+            "id": 24054,
+            "logo_path": null,
+            "name": "NBC Universal Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-12-24",
+            "episode_count": 1,
+            "id": 221141,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-09-20",
+            "episode_count": 12,
+            "id": 205853,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/huCRzNvVPnc1xsCBCnfW201xF7o.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 10
+}

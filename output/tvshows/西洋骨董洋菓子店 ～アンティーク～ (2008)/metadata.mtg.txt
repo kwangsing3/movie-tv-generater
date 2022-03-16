@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/t7JQdI1oHVkPQfahyfiF6suGtbf.jpg",
+    "created_by": [
+        {
+            "id": 237298,
+            "credit_id": "61678bb8be7f3500410415bf",
+            "name": "Fumi Yoshinaga",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2008-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34741,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-09-19",
+    "last_episode_to_air": {
+        "air_date": "2008-09-19",
+        "episode_number": 12,
+        "id": 791271,
+        "name": "Recipe 12: The Aftertaste of Eternity",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ocYcGpXfUUNSPqeSJZIDGwwUzkk.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Antique Bakery",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "西洋骨董洋菓子店 ～アンティーク～",
+    "overview": "Antique Bakery is a manga by Fumi Yoshinaga depicting the lives of four men who work in a small bakery. It was published in Japan by Shinshokan and in English by Digital Manga Publishing. The series won the 2002 Kodansha Manga Award for shōjo manga. The manga was adapted as a Japanese TV drama, with the title Antique or Antique Cake Store, that was broadcast on Fuji TV in 2001, an anime TV series, airing on July 3, 2008 on noitaminA, and a Korean live-action movie.",
+    "popularity": 7.569,
+    "poster_path": "/4tmA7ox936DNpjPgtfNJshiJJRi.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11327,
+            "logo_path": "/gJM4ZwaQEKz9zsus8MNGWbm4maV.png",
+            "name": "Shirogumi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-07-04",
+            "episode_count": 12,
+            "id": 45502,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wTTyned3pOKm2qwj4NfjM16Wqyx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 3
+}

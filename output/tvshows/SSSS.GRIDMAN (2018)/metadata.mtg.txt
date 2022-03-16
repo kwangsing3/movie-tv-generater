@@ -1,0 +1,162 @@
+{
+    "adult": false,
+    "backdrop_path": "/daqQkmsrwwO3W8RV5hsmMaGU0bx.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://gridman.net/",
+    "id": 82895,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-23",
+    "last_episode_to_air": {
+        "air_date": "2018-12-23",
+        "episode_number": 12,
+        "id": 1604861,
+        "name": "Awakening",
+        "overview": "It all comes down to the line as the Gridman Alliance attempts to save Akane, but do they have what it takes to battle the monster within?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tymGlitufcf2TYKnXUjakIEMvzW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "SSSS.GRIDMAN",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "SSSS.GRIDMAN",
+    "overview": "Yuta Hibiki can’t remember who he is, and now he’s seeing and hearing things that others don’t! A voice from an old computer tells him to remember his calling, and he sees a massive, unmoving creature in the distance. Nothing’s making sense—until the behemoth springs to life! Suddenly, Yuta is pulled into the digital world, reappearing in the real one as the colossal hero—Gridman!",
+    "popularity": 27.42,
+    "poster_path": "/4l9EA3CCn9BQi95Rj2xlj5PSZB.jpg",
+    "production_companies": [
+        {
+            "id": 50908,
+            "logo_path": "/wdfnq5ze8Ctrb5WiSRQdggyYPUY.png",
+            "name": "TRIGGER",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5905,
+            "logo_path": "/nsxsWWFe4WW43R6QOhaXWMpOadb.png",
+            "name": "Tsuburaya Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 117461,
+            "logo_path": null,
+            "name": "Fields",
+            "origin_country": "JP"
+        },
+        {
+            "id": 60195,
+            "logo_path": null,
+            "name": "Docomo Anime Store",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 50906,
+            "logo_path": "/b334NexgTgoJiKPaDxxoWPq0kd3.png",
+            "name": "Ultra Super Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6681,
+            "logo_path": "/s4RElEnQyM2VrHZCQ3jYemPdxML.png",
+            "name": "THE KLOCKWORX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 118502,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "name": "Nippon BS Broadcasting",
+            "origin_country": "JP"
+        },
+        {
+            "id": 170262,
+            "logo_path": null,
+            "name": "Pony Canyon Enterprise",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-06-13",
+            "episode_count": 13,
+            "id": 186535,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-10-07",
+            "episode_count": 12,
+            "id": 110415,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4l9EA3CCn9BQi95Rj2xlj5PSZB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 53
+}

@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/kikr0zJnCK39D9Pku21AZDEnYTF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2003-08-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.fujitv.co.jp/b_hp/fullmeta/",
+    "id": 68184,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-11-18",
+    "last_episode_to_air": {
+        "air_date": "2003-11-18",
+        "episode_number": 12,
+        "id": 1230104,
+        "name": "5th Period Hot Spot",
+        "overview": "A classmate accidentally opens Sousuke's biohazardous container, causing a classroom quarantine. Sousuke later learns that the contents were not pathogenic, but destroys synthetic clothing instead. Relieved that there is no outbreak, he now fears the repercussions from his angry classmates.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dccTqbKoHNjTxGSDG0pQhkpyIwx.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Full Metal Panic? Fumoffu",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "フルメタル・パニック？ふもっふ",
+    "overview": "It's back-to-school mayhem with Kaname Chidori and her war-freak classmate Sousuke Sagara as they encounter more misadventures in and out of Jindai High School. But when Kaname gets into some serious trouble, Sousuke takes the guise of Bonta-kun - the gun-wielding, butt-kicking mascot. And while he struggles to continue living as a normal teenager, Sousuke also has to deal with protecting his superior officer Teletha Testarossa, who has decided to take a vacation from Mithril and spend a couple of weeks as his and Kaname's classmate.",
+    "popularity": 10.787,
+    "poster_path": "/tSJbYU643iD2VqkPw04vWbvYwBk.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-08-26",
+            "episode_count": 12,
+            "id": 80892,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 31
+}

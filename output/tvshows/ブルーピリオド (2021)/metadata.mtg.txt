@@ -1,0 +1,143 @@
+{
+    "adult": false,
+    "backdrop_path": "/wKVMgfOT6K1jOcfyP6h16ORMKVn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://blue-period.jp",
+    "id": 116983,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-18",
+    "last_episode_to_air": {
+        "air_date": "2021-12-18",
+        "episode_number": 12,
+        "id": 3256344,
+        "name": "When I Started to be Dyed in Color",
+        "overview": "The second exam is in full swing. Yatora struggles with illness and an unclear theme when sudden inspiration delivers answers and a final secret weapon.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nojLibyLGbpPRvT9AhSzQeHMhqM.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Blue Period",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "HBC",
+            "id": 3658,
+            "logo_path": "/n77lM12X5dhGHb0I57RmbtqxFsd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブルーピリオド",
+    "overview": "Bored with life, popular high schooler Yatora Yaguchi jumps into the beautiful yet unrelenting world of art after finding inspiration in a painting.",
+    "popularity": 18.916,
+    "poster_path": "/bK669RsJ4xaZYHvc144iKlEyzJ7.jpg",
+    "production_companies": [
+        {
+            "id": 34767,
+            "logo_path": "/bwQwcvERESoieoPksEq1iZsRW0J.png",
+            "name": "Seven Arcs",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156047,
+            "logo_path": "/bR1IGv2EUNaLGPIA3jRgbATUaX8.png",
+            "name": "Bit grooove promotion",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156999,
+            "logo_path": "/yOPNMsW68we3cA9XNPsZsmZtVOj.png",
+            "name": "DMM pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 160595,
+            "logo_path": "/bBaHtW5M153OOOsQYVpWvEiSyy9.png",
+            "name": "DMM music",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-02",
+            "episode_count": 12,
+            "id": 177176,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uUkcPV1tPxloYShhNiKxqyHuXmK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 9
+}

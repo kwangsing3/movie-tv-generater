@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/9vlqbcJTQjSdVhDdyyBbm21IpIP.jpg",
+    "created_by": [
+        {
+            "id": 106577,
+            "credit_id": "525969de760ee346619e38e4",
+            "name": "Junichi Sato",
+            "gender": 2,
+            "profile_path": "/ckKxvO5rmHG9nh4ZarKffR3iYUv.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2000-07-11",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.geneon-ent.co.jp/rondorobe/anime/st-dawn/",
+    "id": 45064,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-09-26",
+    "last_episode_to_air": {
+        "air_date": "2000-09-26",
+        "episode_number": 13,
+        "id": 896619,
+        "name": "The mind that opens to your voice",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5GBSNwaVBnJgvaEUfBIjfMYCbvZ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Strange Dawn",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ストレンジドーン",
+    "overview": "Yuko and Eri are two normal girls who are sucked into the alternate world filled with tiny people. The people of this mysterious world sees them as their \"Great Protectors\" who can protect their land in a time of strife. The two girls set out on a mission with a group of warriors from the village to find out how they were brought here and how might they return home. However, there is a war brewing and these two Great Protectors are the political tool that every faction lusts for to rally the people to their side.",
+    "popularity": 5.024,
+    "poster_path": "/qUpGP3jmVXd3Up7AgtRWXCSXEea.jpg",
+    "production_companies": [
+        {
+            "id": 72652,
+            "logo_path": null,
+            "name": "Hal Film Maker",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-07-11",
+            "episode_count": 13,
+            "id": 53722,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

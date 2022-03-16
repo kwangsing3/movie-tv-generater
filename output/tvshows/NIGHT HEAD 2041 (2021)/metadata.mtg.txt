@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/lLqIzrNq8Yi0RsB42SQWOeXBy50.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2021-07-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://nighthead2041.jp/",
+    "id": 112616,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-30",
+    "last_episode_to_air": {
+        "air_date": "2021-09-30",
+        "episode_number": 12,
+        "id": 3084474,
+        "name": "Inheritance and Reincarnation -Start Over-",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/Ao23C4crhYOoeYm9qFexwfScicC.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Night Head 2041",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "NIGHT HEAD 2041",
+    "overview": "The story follows the Kirihara brothers who from a young age were incarcerated in a secure scientific facility due to their supernatural powers, having escaped after the barrier that was preventing them malfunctions. The story also follows the Kuroki brothers who are trying to chase the Kirihara brothers.",
+    "popularity": 24.202,
+    "poster_path": "/mJ7t9wyD43H32E9Sv22mMrVmkLo.jpg",
+    "production_companies": [
+        {
+            "id": 11327,
+            "logo_path": "/gJM4ZwaQEKz9zsus8MNGWbm4maV.png",
+            "name": "Shirogumi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-08",
+            "episode_count": 5,
+            "id": 203034,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-07-15",
+            "episode_count": 12,
+            "id": 167704,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6BLOjxjRBB71Ptc5oITB2pNrqAz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 42
+}

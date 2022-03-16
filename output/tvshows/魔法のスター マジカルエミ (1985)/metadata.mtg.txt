@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/kRjtu7FKyD7hxhAp9kIWqRIyW7k.jpg",
+    "created_by": [
+        {
+            "id": 2162287,
+            "credit_id": "5bd44fae9251410387013c98",
+            "name": "Kiyoko Haku",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1985-06-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://pierrot.jp/title/magicgirl/",
+    "id": 83479,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1986-02-28",
+    "last_episode_to_air": {
+        "air_date": "1986-02-28",
+        "episode_number": 38,
+        "id": 1605378,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/r9KhiNAaFjwS7knztGCYEnKl5LI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magical Emi, the Magic Star",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 38,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法のスター マジカルエミ",
+    "overview": "Kazuki Mai, an elementary schoolgirl, wanted to be a magician but her skills weren't good enough for her to join her grandparents' Magiccarat troupe. One day she sees a light enter a strange heart-shaped mirror. The light is actually a mirror fairy named Topo, who takes over her favourite stuffed toy, a flying squirrel and gives her a bracelet with the 4 card suits. The bracelet can turn into a bubble wand which transforms Mai into the 18 year old magician Magical Emi, who uses her magic to help people and participate in her grandparents' shows.",
+    "popularity": 6.96,
+    "poster_path": "/fiKw4w9rqhEXpfQ1hnl8iFIY8Zp.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1985-06-07",
+            "episode_count": 38,
+            "id": 111582,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bHRVCJ7W50wUaWpevnIwqOkMuzr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 3
+}

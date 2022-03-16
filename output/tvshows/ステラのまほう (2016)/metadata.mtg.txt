@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/n0IOHaC5sfM86IxNhcjCkNy3Fip.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://magicofstella.com",
+    "id": 68399,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-19",
+    "last_episode_to_air": {
+        "air_date": "2016-12-19",
+        "episode_number": 12,
+        "id": 1249478,
+        "name": "Back to the Starting Line",
+        "overview": "It's summer, but the SNS Club is hard at work on their new game. At last, it's the day of the Summer Comiket, and the girls head for the hall to sell their new work, \"Stardust Intenzione\"!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3Cpho8XeWlKihqRBVW5PIdsMgvs.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magic of Stella",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ステラのまほう",
+    "overview": "First-year high school student Tamaki Honda and her SNS club as they work together to create a self-published game. With Tamaki as the project’s illustrator, she works alongside the club’s other (rather peculiar) members, including Shiina (the club president and game programmer), Ayame (the scenario writer), Kayo (their music composer), and Yumine (the club’s boys’ love expert).",
+    "popularity": 9.73,
+    "poster_path": "/qPvpMx2GFEMpH6y4neoUrMgXdDZ.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-02-24",
+            "episode_count": 2,
+            "id": 114146,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/murfYkvH8bBRk9y4llKHMHTkBua.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-10-03",
+            "episode_count": 12,
+            "id": 81392,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kQ6C078hjIQ4f9OMYZ7NoVaCwBU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

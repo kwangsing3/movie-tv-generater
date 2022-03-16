@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/qqekWYZCrQXpo274QVtCJdgaFGP.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://insect-land.com/anime/",
+    "id": 194481,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Insect Land",
+    "next_episode_to_air": {
+        "air_date": "2022-04-04",
+        "episode_number": 1,
+        "id": 3577568,
+        "name": "",
+        "overview": "Episode 1 of Insect Land",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "NHK Educational TV",
+            "id": 622,
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "インセクトランド",
+    "overview": "Anime based on \"nature learning picture books\" which explore the lives of insects, while also celebrating the themes of ecology and diversity.",
+    "popularity": 2.326,
+    "poster_path": "/pQzaOca93F7oi4MUH3MipQRXbA.jpg",
+    "production_companies": [
+        {
+            "id": 92436,
+            "logo_path": null,
+            "name": "Jinni's Animation Studios",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-04",
+            "episode_count": 1,
+            "id": 282193,
+            "name": "Season 1",
+            "overview": "Season 1 of Insect Land is set to premiere on 4 April 2022.",
+            "poster_path": "/pQzaOca93F7oi4MUH3MipQRXbA.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

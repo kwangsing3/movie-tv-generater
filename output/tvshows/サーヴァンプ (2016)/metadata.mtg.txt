@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/Fnh761DcUeN63mtyiJdKzW9uQu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-05",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.servamp.jp",
+    "id": 67710,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-20",
+    "last_episode_to_air": {
+        "air_date": "2016-09-20",
+        "episode_number": 12,
+        "id": 1223655,
+        "name": "Thinking Simply",
+        "overview": "The final battle is here and Mahiru struggles to get to Kuro as he steps forward and tries to face it all. Kuro faces his past, his neglected little brother Tsubaki, and his own actions which may have led to who Tsubaki is now.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xOQ1dQtGQg2h9NroQbBUBx2ZKEH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Servamp",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サーヴァンプ",
+    "overview": "When a stray black cat named Kuro crosses Mahiru Shirota's path, the high school freshman's life will never be the same again. Kuro is, in fact, no ordinary feline, but a servamp: a servant vampire. While Mahiru's personal philosophy is one of non-intervention, he soon becomes embroiled in an ancient, altogether surreal conflict between vampires and humans.",
+    "popularity": 16.472,
+    "poster_path": "/ws1dZfIaptH3A6zeWC7ANIXDcLl.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        },
+        {
+            "id": 92088,
+            "logo_path": null,
+            "name": "Platinum Vision",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-11-25",
+            "episode_count": 4,
+            "id": 149766,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/jzDBMINVVBBEDDwE6RPXBX3cv8Q.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-07-05",
+            "episode_count": 12,
+            "id": 79910,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vC8LvmWkqzWVzKhiISmNgYlSDSk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 109
+}

@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/mwlLVKxzpl5gUh19nDlf9OQyylZ.jpg",
+    "created_by": [
+        {
+            "id": 2574299,
+            "credit_id": "620fef13151c5c00435e2060",
+            "name": "Keiichiro Saito",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://bocchi.rocks/",
+    "id": 119100,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Bocchi the Rock!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぼっち・ざ・ろっく！",
+    "overview": "",
+    "popularity": 0.851,
+    "poster_path": "/mQ74kyaGVHzbyiguJ1VRZI6ejF.jpg",
+    "production_companies": [
+        {
+            "id": 121589,
+            "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+            "name": "CloverWorks",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 182218,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mQ74kyaGVHzbyiguJ1VRZI6ejF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

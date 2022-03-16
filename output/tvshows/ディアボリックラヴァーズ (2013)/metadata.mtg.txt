@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/mAs8HQdoxJbMuXxgoSgDoX5apJd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        14
+    ],
+    "first_air_date": "2013-09-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://anime-dialover.com/",
+    "id": 61512,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-12-10",
+    "last_episode_to_air": {
+        "air_date": "2015-12-10",
+        "episode_number": 12,
+        "id": 1259510,
+        "name": "",
+        "overview": "After the Mukami brothers were attacked by wolves, the Sakamaki brothers are attacked as well. They fight off the wolves. The Sakamaki brothers reach a conclusion that the Founders are behind the attacks and they're after Yui Komori.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Diabolik Lovers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ディアボリックラヴァーズ",
+    "overview": "Based on a visual novel of the same name by Rejet and Otomate, for the female market.\n\nKomori Yui is a positive-thinking girl who nevertheless is troubled by seeing spirits and experiencing poltergeist phenomena. In her second year in high school, she transfers to a new school — a night school for entertainers and celebrities — due to her father's work. There are rumours that vampires exist among the student body, and Yui ends up living with the six sadistic Sakamaki vampire brothers.",
+    "popularity": 28.357,
+    "poster_path": "/s47IdJi9JSvrOSr1fbswI9EUSEE.jpg",
+    "production_companies": [
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-10-28",
+            "episode_count": 2,
+            "id": 102608,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-09-16",
+            "episode_count": 12,
+            "id": 63037,
+            "name": "Diabolik Lovers",
+            "overview": "Komori Yui is a positive-thinking girl who nevertheless is troubled by seeing spirits and experiencing poltergeist phenomena. In her second year in high school, she transfers to a new school — a night school for entertainers and celebrities — due to her father's work. There are rumours that vampires exist among the student body, and Yui ends up living with the six sadistic Sakamaki vampire brothers.",
+            "poster_path": "/7Xh8p4MBVzYDlvqzbOdUYcUOoZb.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2015-09-24",
+            "episode_count": 12,
+            "id": 70984,
+            "name": "Diabolik Lovers More,Blood",
+            "overview": "",
+            "poster_path": "/55PvSA5DgJQ1C8RWZtupxdd1dxX.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.1,
+    "vote_count": 21
+}

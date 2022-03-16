@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/uAHdxUYPDYbt8ibxRTJZpDmzN8r.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        }
+    ],
+    "homepage": "http://www.macross.co.jp/zero/",
+    "id": 16381,
+    "imdb_id": "tt0353685",
+    "original_language": "ja",
+    "original_title": "マクロス ゼロ",
+    "overview": "Taking place one year before the events of the original Macross series, Macross Zero chronicles the final days of the war between the U.N. Spacy and anti-U.N. factions. After being shot down by the anti-U.N.'s newest fighter plane, ace pilot Shin Kudo finds himself on the remote island of Mayan, where technology is almost non-existent. While Shin stays on the island to heal his wounds, the tranquility of the island is shattered by a battle that involves the UN's newest fighter - the VF-0.",
+    "popularity": 4.024,
+    "poster_path": "/lbaxpSTyLJfH6rgPX35TFj83zj5.jpg",
+    "production_companies": [
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2869,
+            "logo_path": null,
+            "name": "Big West",
+            "origin_country": ""
+        },
+        {
+            "id": 134154,
+            "logo_path": null,
+            "name": "Macross Zero Project",
+            "origin_country": ""
+        },
+        {
+            "id": 30293,
+            "logo_path": null,
+            "name": "SATELIGHT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2002-12-21",
+    "revenue": 0,
+    "runtime": 159,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Macross Zero",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 17
+}

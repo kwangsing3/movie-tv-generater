@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2014-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.ntv.co.jp/corda/",
+    "id": 45274,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-22",
+    "last_episode_to_air": {
+        "air_date": "2014-06-22",
+        "episode_number": 12,
+        "id": 3149989,
+        "name": "Blue Sky Grand Finale",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "La corda d'oro: Blue♪Sky",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "金色のコルダ Blue♪Sky",
+    "overview": "8 years after the adventures of Hino Kahoko, it is now time for Koihinata Kanade to step on the stage.\n\nSoon after transferring to Seiso Gakuen, Kanade finds the orchestra club in the middle of preparing for the National concur. Teaming up with the other members, she will improve her skills, meet new rivals and create memories for what will become an unforgettable summer...",
+    "popularity": 1.4,
+    "poster_path": "/lgwqnIDB6enJPqQyesRxMdMHAJb.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2014-04-06",
+            "episode_count": 12,
+            "id": 207333,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kAekWGvR1HPBBq1WCmpqWVCnctM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

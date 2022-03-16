@@ -1,0 +1,179 @@
+{
+    "adult": false,
+    "backdrop_path": "/ypxQFuwYXa0yDBvl3zjwh8dY7Ie.jpg",
+    "created_by": [
+        {
+            "id": 1646980,
+            "credit_id": "6055feab6e3deb0054e65d4f",
+            "name": "Kazuya Minekura",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2000-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://saiyuki-rb.jp/",
+    "id": 34660,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-10",
+    "last_episode_to_air": {
+        "air_date": "2022-03-10",
+        "episode_number": 10,
+        "id": 3447467,
+        "name": "Atonement",
+        "overview": "",
+        "production_code": "",
+        "season_number": 5,
+        "still_path": "/62gL4dAYgHVrrM20aKGIxa25HxP.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Saiyuki",
+    "next_episode_to_air": {
+        "air_date": "2022-03-17",
+        "episode_number": 11,
+        "id": 3447468,
+        "name": "The Next Sunrise",
+        "overview": "",
+        "production_code": "",
+        "season_number": 5,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 125,
+    "number_of_seasons": 5,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "最遊記",
+    "overview": "Many years ago, humans and demons lived in harmony. But that unity  ended when demons started attacking humans and plotted a mission to  unleash Gyumao - an evil demon imprisoned for thousands of years. Now,  Genjo Sanzo, a rogue priest, must team up with three demons - Sha Gojyo,  Son Goku, and Cho Hakkai - and embark on a perilous journey to the west  to stop these demons from resurrecting Gyumao and restore the balance  between humans and demons on Earth.",
+    "popularity": 52.745,
+    "poster_path": "/czfeacdv9n4Hlf64rbtoea1oij8.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-08-18",
+            "episode_count": 11,
+            "id": 186939,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2000-04-05",
+            "episode_count": 50,
+            "id": 45393,
+            "name": "Gensomaden Saiyuki",
+            "overview": "",
+            "poster_path": "/feLLs99jHzTGwdZJbpgUQoEYRgQ.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2003-10-03",
+            "episode_count": 25,
+            "id": 181327,
+            "name": "Saiyuki Reload",
+            "overview": "Priest Genjo Sanzo and companions Cho Hakkai, Sha Gojyo, and Son Goku maintain their westward journey to stop the resurrection of the demon Gyoumao. As the reputation of the Sanzo Ikkou precedes them, they continue to fight demon assassins at every turn, but they must also deal with increasing tensions within their group in order to defeat a powerful enemy.",
+            "poster_path": "/w07CLXaoF7ehrnZVHBiXfy4iolO.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2004-04-03",
+            "episode_count": 26,
+            "id": 181328,
+            "name": "Saiyuki Reload Gunlock",
+            "overview": "The Sanzo Ikkou continues its westward journey, on a mission to prevent a demonic resurrection. As Genjo Sanzo, Cho Hakkai, Sha Gojyo, and Son Goku fight their way to their goal, their path is fraught with internal strife. When they encounter a formidable pair of adversaries from the west, the cohesion of the group -- and the fate of the mission -- may be at stake.",
+            "poster_path": "/dat30cJISxYRrBopNkyr8APg1nd.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2017-07-05",
+            "episode_count": 12,
+            "id": 181331,
+            "name": "Saiyuki Reload Blast",
+            "overview": "Humans and yokai, science and magic... all exist side-by-side on a peaceful continent free of all order and regulation, widely known as \"Shangri-La.\" The balance there was shattered when the Minus Wave caused all the yokai on the continent to rampage, an event known as the \"Calamity.\" Continuing their journey west to stop Gyumaoh's resurrection experiments, the root of all the evil on the continent, the Three Aspects are finally drawing closer to India. But the closer they get, the more pronounced the influence of the Calamity becomes, and the more intense their battles become.",
+            "poster_path": "/dEiCgAlVBpaEBbSmnXHSt1RVjoB.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2022-01-06",
+            "episode_count": 12,
+            "id": 238699,
+            "name": "Saiyuuki Reload - Zeroin",
+            "overview": "Once, the land of Togenkyo was a peaceful land, where humans and yokai lived together. Then, however, men appeared who tried to revive Gyumaoh, the Great Yokai who was slain by the war god Nataku Taishi and buried in Houtou Castle 500 years ago, by using a forbidden combination of chemistry and magic\n\nThe negative energy waves this created spread across Togenkyo, causing the yokai to go insane and attack humanity. To save the land, Kanzeon bosatsu orders Son Goku, Genjyo Sazno, Sha Gojyo, and Cho Hakkai to go west. The four set out on a journey to stop the experiment to revive Gyumaoh.\n\nOn the way, they meet Hazel Grouse, who employs strange magic that uses yokai souls to revive the dead, and his follower Gato. The two of them join the party. And Ukoku Sanzo, a man they have a long history with, approaches in the shadows...\n\nUnforgettable characters, intense personal drama, and awesome action in a story about the bonds between four men!",
+            "poster_path": "/grQ02QLNpSjxywcpR26l16xKZUV.jpg",
+            "season_number": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 5
+}

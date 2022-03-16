@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/bnfJiGUox06uHQDoq7NLxyaSQFb.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://studio4c.co.jp/works/en/pages/04.htmlv",
+    "id": 73713,
+    "imdb_id": "tt0380887",
+    "original_language": "ja",
+    "original_title": "永久家族",
+    "overview": "Six men and women who are completely underground to one another have been given false memories and are living together as a family in a capsule hall. They know nothing about the outside world, and that they are broadcasted as a real-life soap opera in the imaginary community of Champon City.",
+    "popularity": 1.305,
+    "poster_path": "/q3iEjy2clmcjBux63ci8TvB67ll.jpg",
+    "production_companies": [
+        {
+            "id": 11671,
+            "logo_path": "/iRdYQdn1eunwV3qAs6RK5Mqwn8Z.png",
+            "name": "Studio 4°C",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1997-04-01",
+    "revenue": 0,
+    "runtime": 29,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Eternal Family",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1
+}

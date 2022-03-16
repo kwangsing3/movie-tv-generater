@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/qODR3gZVdmkSeBfr17ph28rn0J0.jpg",
+    "created_by": [
+        {
+            "id": 2936823,
+            "credit_id": "6000f797ad59b5003dff90af",
+            "name": "Neco Kanai",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "2021-01-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://bungo-stray-dogs-wan.com",
+    "id": 110837,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-31",
+    "last_episode_to_air": {
+        "air_date": "2021-03-31",
+        "episode_number": 12,
+        "id": 2696435,
+        "name": "Swap Theater / My Treasure / Nakajima Atsushi's Plan",
+        "overview": "Dazai and Atsushi swap minds when they bonk heads. Datsushi doesn’t mind, but Azai wants him to stay out of trouble. Atsushi tries to get back at Dazai for all the times he’d surprised him.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4rR9llxpSfQ4cXs0WfmGG7XnK0Y.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bungo Stray Dogs Wan!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "文豪ストレイドッグス わん!",
+    "overview": "The peaceful days of the very popular work Bungou Stray Dogs are here. The characters of the Armed Detective Agency and the Mafia are in miniature form?! Due to Atsushi and co. becoming cute, this is a different experience to the original work—a pleasant gag manga!",
+    "popularity": 36.721,
+    "poster_path": "/5X3Pz5BCjlrt7X5fzQWWZVLfvku.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        },
+        {
+            "id": 35911,
+            "logo_path": null,
+            "name": "Nomad",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-13",
+            "episode_count": 12,
+            "id": 164394,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5X3Pz5BCjlrt7X5fzQWWZVLfvku.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 8
+}

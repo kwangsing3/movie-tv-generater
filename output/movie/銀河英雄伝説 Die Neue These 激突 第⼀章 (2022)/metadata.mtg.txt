@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://gineiden-anime.com/",
+    "id": 918427,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "銀河英雄伝説 Die Neue These 激突 第⼀章",
+    "overview": "",
+    "popularity": 3.447,
+    "poster_path": "/uu0inpGyMY2VEucQTZZmupugvKJ.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-03-04",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Legend of the Galactic Heroes: Die Neue These Gekitotsu 1",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

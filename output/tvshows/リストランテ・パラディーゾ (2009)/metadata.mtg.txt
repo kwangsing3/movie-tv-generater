@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/tBwSh6XbxjE9LQzFNsKooMSrahD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 34855,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-06-25",
+    "last_episode_to_air": {
+        "air_date": "2009-06-25",
+        "episode_number": 11,
+        "id": 793890,
+        "name": "The People of the Ristorante",
+        "overview": "Nicoletta receives an unexpected invitation to her mother's birthday party, and Claudio wonders if it's finally time to take off his wedding band.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uCOodbdbSOlw490hEXHmKOunrte.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ristorante Paradiso",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "リストランテ・パラディーゾ",
+    "overview": "When she was a child, Nicoletta was taken in by her grandmother so that her mother could remarry. Now grown up, she leaves everything in the countryside behind to visit her mother and her mother's second husband, a ristorante owner. To her surprise, her stepfather did not know his wife had a daughter! Delicious food and dreamy gentlemen await at the ristorante, casetta dell'orso. For everyone who works there, a tender connection to the hearts of each visitor is spun, and the curtain raises on a story about these first-rate Italian gentlemen in spectacles.",
+    "popularity": 6.389,
+    "poster_path": "/vB0geaRyL3Or4ereDl1VoJOxN9G.jpg",
+    "production_companies": [
+        {
+            "id": 45188,
+            "logo_path": "/aPH68PzQDtz7QorAU369IlxwgnU.png",
+            "name": "David Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-04-09",
+            "episode_count": 11,
+            "id": 45661,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cdd3n2jGtf4ztbLxfAvC7mYdWBs.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 3
+}

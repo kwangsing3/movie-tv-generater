@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/cqyjDJ5lGIgcd33Dx7gARsbpxyr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2001-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 56425,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2001-12-24",
+    "last_episode_to_air": {
+        "air_date": "2001-12-24",
+        "episode_number": 24,
+        "id": 1386729,
+        "name": "Rencounter",
+        "overview": "In flashback, the United States government sends its special forces to South America to kill a young Yujiro.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/pGOI69kbu01iyIwjnSzFe0j1KwV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Baki the Grappler",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 48,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "グラップラー刃牙",
+    "overview": "Baki Hanma is a young fighter who yearns to follow in the footsteps of his father, Yujiro, and become the strongest fighter in the world. Through that he trains tirelessly and fights constantly to hone his skills and develop his body to achieve these goals. Many intense battles lay ahead of Baki as he goes about his quest to be the best and ultimately take the title of \"King\" from his father.",
+    "popularity": 131.882,
+    "poster_path": "/9LqCt1xQb6yMyfxzBNKZGPZ4q9e.jpg",
+    "production_companies": [
+        {
+            "id": 5397,
+            "logo_path": null,
+            "name": "Group TAC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-01-08",
+            "episode_count": 24,
+            "id": 58207,
+            "name": "Childhood + Underground Arena Sagas",
+            "overview": "",
+            "poster_path": "/7r3jOr6ZJOWAhB5DrRWquUG55bv.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2001-07-23",
+            "episode_count": 24,
+            "id": 79844,
+            "name": "Maximum Tournament Saga",
+            "overview": "",
+            "poster_path": "/vUFWy2qibxFD7bKSI7RVJ73yn99.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 158
+}

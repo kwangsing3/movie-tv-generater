@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/haJT3icSa9buYdZYlbWZwPVOaeW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://s.mxtv.jp/witch_cw/",
+    "id": 65614,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-24",
+    "last_episode_to_air": {
+        "air_date": "2014-03-24",
+        "episode_number": 12,
+        "id": 1235821,
+        "name": "Takamiya-kun and Weekend, Part 3",
+        "overview": "Weekend has pushed the button to detonate the bombs she rigged up throughout the town. To save the town and its people, Takamiya makes the decision to summon Evermillion, but that would mean giving up his own life as well as Kagari's...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4m7ThzvA6mLGX0m4EKBw8G7Ad6x.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Witch Craft Works",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ウィッチクラフトワークス",
+    "overview": "Takamiya Honoka is a regular student whose only problem seems to be that he sits next to Kagari Ayaka, the school's #1 beauty. They have never spoken to each other before and any small interaction between them immediately results in her fanclub beating him. Yet when a falling part of the school's building is about to send him to the afterlife, it's Kagari that comes to his rescue. Only... she's dressed as a witch, carrying him in her arms and floating on a broom?! Kagari tells him it is her mission to protect him and that now she can finally protect him openly rather than undercover.",
+    "popularity": 19.443,
+    "poster_path": "/elt434eNLMhZQBM0tPu4mUkPqGo.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-01-07",
+            "episode_count": 7,
+            "id": 104207,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/3Wy3Q3rDP5tEtRoCRbwAWCYtDOi.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-01-05",
+            "episode_count": 12,
+            "id": 74617,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/80fkwDe5Ohg2t8kSWOphHgaIvfB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 88
+}

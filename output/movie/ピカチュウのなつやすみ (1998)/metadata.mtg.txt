@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/2QG62BwKwRPKvnMU9FrUDXiFhvd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 33376,
+    "imdb_id": "tt0210233",
+    "original_language": "ja",
+    "original_title": "ピカチュウのなつやすみ",
+    "overview": "Pikachu and the gang learn responsibility, teamwork as well as cooperation during their Summer vacation at Pokemon Island.",
+    "popularity": 15.333,
+    "poster_path": "/mrfP2kkfpNf0RXQktqj1pZHYZ5C.jpg",
+    "production_companies": [
+        {
+            "id": 12288,
+            "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+            "name": "Nintendo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12653,
+            "logo_path": null,
+            "name": "Pikachu Project",
+            "origin_country": "JP"
+        },
+        {
+            "id": 76468,
+            "logo_path": null,
+            "name": "Pikachu Project '98",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5261,
+            "logo_path": null,
+            "name": "Shogakukan Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1998-07-18",
+    "revenue": 0,
+    "runtime": 23,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pikachu's Vacation",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 46
+}

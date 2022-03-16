@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/tFUIwr64VZaRKbxrT1hVFfJIU3I.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2016-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 68224,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-25",
+    "last_episode_to_air": {
+        "air_date": "2016-12-25",
+        "episode_number": 12,
+        "id": 1250083,
+        "name": "Kakeudon",
+        "overview": "Excited by the festival fireworks display, Poco accidentally lets his tail out in the middle of the crowd, in full view of the cameras. Does this spell the end for Souta and Poco's little family...?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3g97KbkHCrHkrdezRxRgm6N0JuQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Poco's Udon World",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "うどんの国の金色毛鞠",
+    "overview": "On a visit to his hometown, Souta Tawara meets a strange child who loves udon and frogs... and has ears and a tail?! Although ordinary at first glance, it turns out that this little tyke is actually a tanuki in a human disguise! So begins the tale of a gentle, warm, and slightly weird family in Kagawa prefecture, better known as \"Udon Prefecture,\" where time passes at a less hurried pace than in the big city...",
+    "popularity": 13.704,
+    "poster_path": "/jLVmlYJI7peZ0uU8KHo5aBPTf3S.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-09",
+            "episode_count": 12,
+            "id": 80976,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jeGXbuBUrPl0ayjsZ2XC6BlEsC9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.9,
+    "vote_count": 59
+}

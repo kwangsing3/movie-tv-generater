@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/9UVE0WEYZTQEhDnGGfMshFKjTIs.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.marv.jp/special/oretsuba/",
+    "id": 45235,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-06-20",
+    "last_episode_to_air": {
+        "air_date": "2011-06-20",
+        "episode_number": 12,
+        "id": 898006,
+        "name": "We Don't Have...",
+        "overview": "Haneda releases his fantasy world, and discovers the reason behind his very existence before reaching out to everyone who helped him.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vKmTxhPZY0Gldnpzj89CYBR3g89.jpg",
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    "name": "We, Without Wings - Under the innocent sky",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "俺たちに翼はない -under the innocent sky.",
+    "overview": "In the big city of Yanagihara, the masses of people and buildings make it a bustling place to exist, and yet, people will meet and fall in love here in this city.",
+    "popularity": 11.822,
+    "poster_path": "/5B2B39zb2kRtUGQM7bm4mi0jeKi.jpg",
+    "production_companies": [
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 62696,
+            "logo_path": null,
+            "name": "Marvelous AQL",
+            "origin_country": ""
+        },
+        {
+            "id": 106459,
+            "logo_path": null,
+            "name": "Nomad",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-06-24",
+            "episode_count": 1,
+            "id": 53830,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-04-03",
+            "episode_count": 12,
+            "id": 53831,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/d0wI2kYizM79LN5UHx7PliONnXU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 4
+}

@@ -1,0 +1,191 @@
+{
+    "adult": false,
+    "backdrop_path": "/me7TQLf4qx8IW0CsvQCWYfmTdPk.jpg",
+    "created_by": [
+        {
+            "id": 83923,
+            "credit_id": "6085b3de33a533006f438a78",
+            "name": "Seiji Mizushima",
+            "gender": 2,
+            "profile_path": "/8ES2my8oFztmeFzuQyWBfCpYeuH.jpg"
+        },
+        {
+            "id": 79737,
+            "credit_id": "52586b22760ee346611b6760",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        },
+        {
+            "id": 1824441,
+            "credit_id": "6085b3d433a533002affc9c3",
+            "name": "Hajime Yadate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2007-10-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.gundam00.net/",
+    "id": 21732,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-03-29",
+    "last_episode_to_air": {
+        "air_date": "2009-03-29",
+        "episode_number": 25,
+        "id": 599670,
+        "name": "Rebirth",
+        "overview": "Setsuna begins a final decisive duel. Lyle's intentions, Allelujah's hopes, and Tieria's thoughts flow through the darkness of space. The particles from the 00 Raiser envelop the area around them.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/mlr2xuVleTnzoUJqM7Fb9CAkqgo.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam 00",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tys",
+            "id": 2461,
+            "logo_path": "/b4Ivxqz6UY0EogjYc09Y22ctC6F.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "HBC",
+            "id": 3658,
+            "logo_path": "/n77lM12X5dhGHb0I57RmbtqxFsd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "RSK Sanyo Broadcasting",
+            "id": 3977,
+            "logo_path": null,
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士ガンダム00",
+    "overview": "The year is 2307 A.D. Although fossil fuels have been depleted, humanity has obtained a new source of energy to replace them, in the form of a large-scale solar power generation system based on three huge orbital elevators. However, the benefits of this system are available only to a handful of major powers and their allies. In this world of never-ending conflict, a private armed organization appears, dedicated to the elimination of war through armed force. Its name is Celestial Being, and it is in possession of \"Gundam\" mobile suits.",
+    "popularity": 34.803,
+    "poster_path": "/puMDGbGRKwfvRNTxPLNedXRJ0X5.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4720,
+            "logo_path": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+            "name": "Asatsu-DK",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4719,
+            "logo_path": "/b3smsDQQ2UEwqToJbVTlT4kgXBk.png",
+            "name": "Sotsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-07-25",
+            "episode_count": 8,
+            "id": 31516,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/rwf70IdH5haAWFG6ED4K9dR4LZy.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-10-06",
+            "episode_count": 25,
+            "id": 31514,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wj5b9jh0g9jPTyUXcqvAV0Fyubz.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-10-05",
+            "episode_count": 25,
+            "id": 31515,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/p4H4X1oDklxpNOEsj0LDcWhNK0J.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 23
+}

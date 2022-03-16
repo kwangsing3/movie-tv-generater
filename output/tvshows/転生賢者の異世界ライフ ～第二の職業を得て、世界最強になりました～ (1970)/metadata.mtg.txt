@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://tenseikenja.com/",
+    "id": 117889,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～",
+    "overview": "",
+    "popularity": 9.249,
+    "poster_path": "/3Yrc4HybEkVaryH6fEpefwczK6m.jpg",
+    "production_companies": [
+        {
+            "id": 105259,
+            "logo_path": "/67VoQg4RJe786AOULP426rEfXew.png",
+            "name": "REVOROOT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 179266,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3Yrc4HybEkVaryH6fEpefwczK6m.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

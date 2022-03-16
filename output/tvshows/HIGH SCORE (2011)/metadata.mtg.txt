@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/seMabE6MOM4ADBFFsKELLVkzCqC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2011-11-28",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://ribon.shueisha.co.jp/anime_highscore",
+    "id": 79033,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-01-16",
+    "last_episode_to_air": {
+        "air_date": "2012-01-16",
+        "episode_number": 8,
+        "id": 1476962,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "High Score",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "HIGH SCORE",
+    "overview": "",
+    "popularity": 3.163,
+    "poster_path": "/wBYXnIlqMBji2dUrz4lwcObRQd1.jpg",
+    "production_companies": [
+        {
+            "id": 71369,
+            "logo_path": "/gsHQTAMMRAlqYIWdN6rcSKSHRqT.png",
+            "name": "DLE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-11-28",
+            "episode_count": 8,
+            "id": 102889,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5NYXyNKU9GyyTCsY7qIPSeeW0FH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/zsBnRVthjKXgZaXSCPohR6JefP0.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://web.archive.org/web/20151201184122/http://www.amnesia-tv.com/",
+    "id": 54930,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-06-25",
+    "last_episode_to_air": {
+        "air_date": "2012-06-25",
+        "episode_number": 12,
+        "id": 927276,
+        "name": "The Dusk Maiden",
+        "overview": "All the mystery have been solved, Yuuko is whole once again. But now that she has no regrets anymore, can she still remain a ghost?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ntMpPE9ZIxmg3sCNwl41eshy8q7.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Dusk Maiden of Amnesia",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "黄昏乙女×アムネジア",
+    "overview": "The story revolves around a first-year high school student, Teiichi Niiya who had just enrolled at Seikyou Private Academy. When he gets lost in one of the school's old building, he meets a girl named Yuuko Kanoe who reveals herself as a ghost with no memories. Teiichi then decides to investigate her death by delving deep into the infamous Seven Mysteries of the storied school along with Kirie Kanoe, Yuuko's relative, and the oblivious second year Momoe Okonogi.  Throughout the story, Teiichi and Yuuko discover the truth about these ghost stories and help those who are troubled all the while inching closer to the truth behind Yuuko's death.",
+    "popularity": 24.93,
+    "poster_path": "/yC0Ia6TukxzsEe0dtwjbn24a2Jp.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-11-28",
+            "episode_count": 1,
+            "id": 56740,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/a9DVFGX4a3aIV6wowhrCiyLplrw.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-04-09",
+            "episode_count": 12,
+            "id": 56739,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oW1tQfJZQcahZeYRU2Y2M88POqM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 74
+}

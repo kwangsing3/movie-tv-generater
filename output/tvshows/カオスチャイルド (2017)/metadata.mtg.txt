@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/xzsnNLDqqZNkGqTwVrVWH99eCxn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-01-11",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://chaoschildanime.com/",
+    "id": 69239,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-29",
+    "last_episode_to_air": {
+        "air_date": "2017-03-29",
+        "episode_number": 12,
+        "id": 1296798,
+        "name": "Serika Onoe",
+        "overview": "The final battle takes place in the Hikariwo theater, where Takuru is trapped in a sightless and soundless prison in his own mind. He'll need Onoe's help to break free, but after what he knows about her, can he bring himself to ask for it?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lz2h6puMG0oBHbCYXMtqU1bfjhl.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Chaos;Child",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カオスチャイルド",
+    "overview": "ChäoS;Child takes place in October 2015, six years after the events of ChäoS;HEAd. Abnormal events begin to occur in Shibuya district, including mysterious deaths.",
+    "popularity": 12.936,
+    "poster_path": "/4W5BII4aoGtHEXqRb0sF3aQo0VB.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-01-11",
+            "episode_count": 3,
+            "id": 83991,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9ZycoRedJzl4buEx70MCpineQXR.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-01-11",
+            "episode_count": 12,
+            "id": 83102,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/f0cjopMieKHBBarNjxDoiVtDhzC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 8
+}

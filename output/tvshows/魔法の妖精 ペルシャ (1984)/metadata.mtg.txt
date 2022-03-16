@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/sU3IrMttwdP5fg0KBGfW4HSc71J.jpg",
+    "created_by": [
+        {
+            "id": 1659450,
+            "credit_id": "579eaa2c92514177f5005c2b",
+            "name": "Aonuma Takako",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1984-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://pierrot.jp/title/perusha/",
+    "id": 35678,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1985-05-31",
+    "last_episode_to_air": {
+        "air_date": "1985-05-31",
+        "episode_number": 48,
+        "id": 2245441,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ypFPcfLSgxsGJ9OEbj81VMI1Hyy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Persia, the Magic Fairy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 48,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法の妖精 ペルシャ",
+    "overview": "11-year old Persia is an energetic, loyal and happy young girl who has grown up alongside the animals on the Serengeti plains of Africa. Twins Riki and Gaku Muroi and their grandfather, Gōken, bring Persia to Japan with them in Minato-machi, where she lives with a couple who own a grocery store. During an incident during the return flight to Japan, Persia finds herself in the \"Lovely Dream\", the land where dreams are born and grow. The Fairy Queen appears before Persia in the form of a butterfly, and explains that the Lovely Dream is in danger, requesting Persia's help. She gives Persia a magical golden headband with a star which reacts to the word \"Papurikko\". With it, Persia can conjure a magic baton which bridges her world and Lovely Dream, as well as transform into an older self by saying \"Perukko Raburin Kurukuru Rinkuru\". She is sent with three kappa back into the regular world with the mission of collecting love energy to thaw the frozen Lovely Dream.",
+    "popularity": 8.948,
+    "poster_path": "/aUn72xiBADHReeJx3Tz8QAiKHZF.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1984-07-06",
+            "episode_count": 48,
+            "id": 46436,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bcquYsUrFFfOUwT7ug3S7TaiP56.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

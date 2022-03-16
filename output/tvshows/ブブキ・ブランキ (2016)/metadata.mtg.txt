@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/2fs9w915mmNAtAoYeS9XpWaz048.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://bbkbrnk.com/",
+    "id": 65210,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-17",
+    "last_episode_to_air": {
+        "air_date": "2016-12-17",
+        "episode_number": 24,
+        "id": 1431947,
+        "name": "The Adventurers",
+        "overview": "It's been a year. Peace has returned, and everyone is back to living their old lives again. Azuma has started living on his own and now attends the same high school as Kogane. All Buranki controlled by Guy's Demokratia have been handed over to government-managed companies. As he watches the news over breakfast and opens a letter from Epizo, Azuma can't help but feel how much quieter his life is now.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "BBK/BRNK",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブブキ・ブランキ",
+    "overview": "It’s been ten years since Azuma Kazuki has been in Japan, and upon his arrival he is taken prisoner by a group of armed men. Azuma is saved by his childhood friend, Kogane Asabuki, thanks to a living weapon she wields on her right hand, known as a Bubuki. Learning about these weapons, Azuma becomes a Bubuki wielder himself and sets out on a journey.",
+    "popularity": 13.382,
+    "poster_path": "/3Mi3N7l5X9Rm5U1lUzC4vD526zG.jpg",
+    "production_companies": [
+        {
+            "id": 43363,
+            "logo_path": null,
+            "name": "Sanzigen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-01-02",
+            "episode_count": 1,
+            "id": 99275,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-01-09",
+            "episode_count": 24,
+            "id": 73700,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dorJyCYaVRjwtHYA3ikMihlMCP7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 12
+}

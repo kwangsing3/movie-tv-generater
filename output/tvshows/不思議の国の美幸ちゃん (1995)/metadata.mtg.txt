@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/XMNz9qXYx28Exmcs2tT24Ovp7s.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1995-06-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 67042,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-06-21",
+    "last_episode_to_air": {
+        "air_date": "1995-06-21",
+        "episode_number": 2,
+        "id": 1204749,
+        "name": "Miyuki-chan in Mirrorland",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/z3N1qsHqfTH9hAvl89vJom2JmCL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Miyuki-chan in Wonderland",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "不思議の国の美幸ちゃん",
+    "overview": "Miyuki, a cute girl, is in over her head. When late for school, she is suddenly transported to another world (Alice In Wonderland style), except that all the inhabitants of the other world are female...and they all seem to be in love with Miyuki. And the world behind her mirror is even weirder.",
+    "popularity": 4.791,
+    "poster_path": "/1RTC7vgIf9iueCN3oZFSyIPghEl.jpg",
+    "production_companies": [
+        {
+            "id": 648,
+            "logo_path": "/nCIeUG7ntLvo8aMXIkldyCy8g5G.png",
+            "name": "Sony Music Entertainment (Japan)",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13064,
+            "logo_path": null,
+            "name": "Animate Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1194,
+            "logo_path": null,
+            "name": "Kadokawa Shoten",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-06-21",
+            "episode_count": 2,
+            "id": 78361,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.2,
+    "vote_count": 5
+}

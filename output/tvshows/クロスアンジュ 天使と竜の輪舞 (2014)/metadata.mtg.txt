@@ -1,0 +1,171 @@
+{
+    "adult": false,
+    "backdrop_path": "/8hKHGQCGXyeFu7jjYNq90fB9LG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://crossange.com/",
+    "id": 61425,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-29",
+    "last_episode_to_air": {
+        "air_date": "2015-03-29",
+        "episode_number": 25,
+        "id": 1046183,
+        "name": "Beyond Time",
+        "overview": "Tusk, Hilda, and Salia must unlock the power inside the Vilkiss to rescue Ange from Embryo before the convergence is completed.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/t7FdLYlqd6vq8AHiskuxH7QHxn0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cross Ange: Rondo of Angels and Dragons",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "d Anime Store",
+            "id": 3685,
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クロスアンジュ 天使と竜の輪舞",
+    "overview": "Humanity has advanced to great heights since it obtained the information technology known as \"Mana.\" With that nearly magical power, problems like war, food shortages, and pollution have been eliminated. This age of peace and freedom, the Empress Angelese of the Misurugi Empire is a privileged girl with no disabilities. She learns, however, that she is a \"Norma,\" a kind of human who cannot use Mana and are outcasts of society. Having lost everything, she is sent to an isolated island. There she meets other Normas who ride in humanoid weapons called Para-mails, protecting the world from dragons invaders from another dimension.",
+    "popularity": 29.748,
+    "poster_path": "/wUSu7WKW4KfNARFL0eEmdXdqbpn.jpg",
+    "production_companies": [
+        {
+            "id": 14899,
+            "logo_path": null,
+            "name": "Starchild Records",
+            "origin_country": ""
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 23399,
+            "logo_path": "/tXMheRYcKXCK1a90NRESqO1ibhQ.png",
+            "name": "King Records",
+            "origin_country": "JP"
+        },
+        {
+            "id": 27721,
+            "logo_path": null,
+            "name": "Bandai Channel",
+            "origin_country": "JP"
+        },
+        {
+            "id": 60194,
+            "logo_path": null,
+            "name": "Bandai Namco Live Creative",
+            "origin_country": ""
+        },
+        {
+            "id": 60195,
+            "logo_path": null,
+            "name": "Docomo Anime Store",
+            "origin_country": "JP"
+        },
+        {
+            "id": 60196,
+            "logo_path": null,
+            "name": "Fields Corporation",
+            "origin_country": ""
+        },
+        {
+            "id": 12502,
+            "logo_path": "/aDcFy26DtVbyZIFOZNTLsooWH5X.png",
+            "name": "Bandai Namco Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-10-05",
+            "episode_count": 25,
+            "id": 62896,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zQg8nid5p1khSQGKZBvmMWbtVyj.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 92
+}

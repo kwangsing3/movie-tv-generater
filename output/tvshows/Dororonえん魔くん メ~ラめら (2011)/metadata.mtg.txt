@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/eSRzChRdg57Mcapf1YKUQ2bXFTl.jpg",
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "61d70e62b0040a001de33250",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-04-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://king-cr.jp/special/dororon-enmakun/",
+    "id": 55013,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-06-23",
+    "last_episode_to_air": {
+        "air_date": "2011-06-23",
+        "episode_number": 12,
+        "id": 927438,
+        "name": "Until We Meet Again",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/arSjDoza9rnp1FTTjKt3NQvHPIL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ghastly Prince Enma Burning Up",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Dororonえん魔くん メ~ラめら",
+    "overview": "Tokyo in the 1970s. Evil spirits are threatening the human world and the only ones who can stop them are a group known as the Spirit Patrol. Sent from the underworld the team consists of the hot-headed Enma, the stuck-up Yukiko, the half-water sprite Kapael and Chapeau-jii — the old man spirit in the form of a hat, who guides the group. This may not bode well... though.",
+    "popularity": 9.931,
+    "poster_path": "/gfk71ua2ntncDjiHqWv7JDLQIHc.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-04-07",
+            "episode_count": 12,
+            "id": 56754,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7asU0jqWEmT1hBFrrxtk4aUXAaW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.3,
+    "vote_count": 6
+}

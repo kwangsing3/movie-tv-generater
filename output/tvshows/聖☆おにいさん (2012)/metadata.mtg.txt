@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/qqGvJWr3aLl8BuTDga5fmzEAjc4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        20
+    ],
+    "first_air_date": "2012-12-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 102500,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-08-23",
+    "last_episode_to_air": {
+        "air_date": "2013-08-23",
+        "episode_number": 2,
+        "id": 2238988,
+        "name": "OVA 2",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Saint☆Young Men",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "聖☆おにいさん",
+    "overview": "Jesus Christ and Gautama Buddha, the founders of Christianity and Buddhism, are living together as roommates in a Tokyo apartment while taking a vacation on Earth. The comedy often involves jokes about Christianity, Buddhism, and all things related, as well as the main characters' attempts to hide their identities and understand modern society in Japan.\n\nThis is a 2 episode OVA preceding the movie of the same name.",
+    "popularity": 1.876,
+    "poster_path": "/18170ZwMkvMaZtlSYDmBjP4GDhd.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2012-12-03",
+            "episode_count": 2,
+            "id": 148956,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/d7RLZqZdWxKR4Uc3AqxKz1CfDyf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 3
+}

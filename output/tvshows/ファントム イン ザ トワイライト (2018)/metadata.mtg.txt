@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/nXL2w7Lvd4fCseWwN46oiO2disF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-07-09",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://phantowa.com/index.html",
+    "id": 80561,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-24",
+    "last_episode_to_air": {
+        "air_date": "2018-09-24",
+        "episode_number": 12,
+        "id": 1525950,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mlcA9BLWdT7WFB7HCs2GR6APaWt.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Phantom in the Twilight",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ファントム イン ザ トワイライト",
+    "overview": "The reverie of a girl who fights her destiny and the \"Shadow Guardians.\" The stage is modern-day London, in a world where the fears and anxieties of people give birth to inhuman shadows. A foreign student gets embroiled in an outlandish incident as soon as she sets foot on English soil. Seeking help in a city where she knows no one, she wanders into a quaint cafe that has quietly remained open in the dead of night: Cafe Forbidden. It is a place where the guardians of the border between human and shadow gather.",
+    "popularity": 11.36,
+    "poster_path": "/svQgyQM9mnEeQC8KtbNvU6Bhs76.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-09",
+            "episode_count": 12,
+            "id": 105819,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nuNAQlnZK2zZA2pZDgaVK8hz1WY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.8,
+    "vote_count": 4
+}

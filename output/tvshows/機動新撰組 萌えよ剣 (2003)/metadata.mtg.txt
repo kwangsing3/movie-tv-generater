@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/xKIHMtfa2ZRI422fZljUTHC2VS7.jpg",
+    "created_by": [
+        {
+            "id": 1454394,
+            "credit_id": "620d4690c048a90068a71d43",
+            "name": "Oji Hiroi",
+            "gender": 2,
+            "profile_path": "/2en6214YCy2azlkCvl3Ao2dU3a8.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2003-11-19",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 111235,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2004-02-18",
+    "last_episode_to_air": {
+        "air_date": "2004-02-18",
+        "episode_number": 4,
+        "id": 2457396,
+        "name": "Resurrection! The Capital of a Hundred Demons!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Moeyo Ken",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動新撰組 萌えよ剣",
+    "overview": "The Mobile Shinsengumi was organized for the specific reason of keeping Kyouto safe from influences which would hinder Japan's efforts towards westernization, be those demons and monsters of every shape and size or a band of misanthropes bent on turning the clock back for the city of Kyou.\n\nYuuko Kondou, Toshie Hijikata, and Kaoru Okita are daughters of the reknowned Isamu Kondou, Toshizou Hijikata, and Soushi Okita, leaders of the feared, original Shinsengumi. They have come together under the banner of \"Truth\" as their fathers once had and under the guidance of Ms. Oryou.\n\nWith the help of Oryou's son Ryuunosuke, Shintarou, Gennai, and the cat monster Nekomaru, they protect Kyouto from the evil that lurks in the shadows. But, who protects the people of Kyouto from the Mobile Shinsegumi?",
+    "popularity": 2.568,
+    "poster_path": "/qDFS5aPbh67UKPCBdeGMJoGDf0a.jpg",
+    "production_companies": [
+        {
+            "id": 75930,
+            "logo_path": null,
+            "name": "Marvelous Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 123188,
+            "logo_path": null,
+            "name": "Red Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-11-19",
+            "episode_count": 4,
+            "id": 165192,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/95N9MrIDvr0IGQpeRISlAuFD36x.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "A Clash from the Past!",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

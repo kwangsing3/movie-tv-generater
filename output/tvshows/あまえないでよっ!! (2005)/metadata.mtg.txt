@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/iqnABigSHUyoPECXjBpYC3R4OtV.jpg",
+    "created_by": [
+        {
+            "id": 1957081,
+            "credit_id": "5a557b12c3a3685ecd01b799",
+            "name": "Toshinori Sogabe",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-07-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.vap.co.jp/amae/",
+    "id": 42786,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-06-21",
+    "last_episode_to_air": {
+        "air_date": "2006-06-21",
+        "episode_number": 13,
+        "id": 882649,
+        "name": "Don't be fooled!! [OVA]",
+        "overview": "An interview episode with the Amaenaideyo gang.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ah My Buddha!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あまえないでよっ!!",
+    "overview": "Sixteen-year-old Ikkou Satonaka has raging hormones that make every other boy's look simply weak in comparison. When he gets turned on, he's literally turned into a super-powerful Buddhist monk capable of vanquishing the most evil of spirits! Ikkou's parents send him to the Saienji Temple to train to become a proper monk under the watchful eye of his grandmother. One of his first challenges is to learn to control his lusty desires - but that's easier said than done when he's surrounded by a bevy of beautiful nun trainees who keep losing their clothes!",
+    "popularity": 11.346,
+    "poster_path": "/fNT2SVbYfHQ1UyRIrHqbOUuXEWF.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-12-21",
+            "episode_count": 2,
+            "id": 52354,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-07-01",
+            "episode_count": 13,
+            "id": 52355,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fNT2SVbYfHQ1UyRIrHqbOUuXEWF.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2006-01-04",
+            "episode_count": 13,
+            "id": 52356,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/hQt7ygUDOFQRCmmwCAXUKDVwZKv.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 7
+}

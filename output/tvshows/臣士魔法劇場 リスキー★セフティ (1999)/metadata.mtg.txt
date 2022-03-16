@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 2574694,
+            "credit_id": "5e772d09cabfe40013231681",
+            "name": "Omishi Rei",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        10
+    ],
+    "first_air_date": "1999-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.pc-moe.com/risky/",
+    "id": 21289,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-04-04",
+    "last_episode_to_air": {
+        "air_date": "2000-04-04",
+        "episode_number": 24,
+        "id": 594773,
+        "name": "The Most Joyful Unhappiness",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Omishi Magical Theater Risky Safety",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "臣士魔法劇場 リスキー★セフティ",
+    "overview": "Omishi Magical Theater: Risky Safety is an anime created by Rei Omishi, and it follows the journeys of an apprentice shinigami, or death god, named Risky and an apprentice angel named Safety who have been trapped in the same body. Whoever is in charge of the body depends on the emotions of those around them; if people are happy, then Safety appears, but if people are upset, then Risky takes charge.",
+    "popularity": 5.101,
+    "poster_path": "/aADZLLEqfQq1oSwfVTCaL6NmP05.jpg",
+    "production_companies": [
+        {
+            "id": 124419,
+            "logo_path": null,
+            "name": "APPP",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-10-05",
+            "episode_count": 24,
+            "id": 31165,
+            "name": "Omishi magical theater risky safety season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

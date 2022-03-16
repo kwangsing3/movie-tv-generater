@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/vzs8xMjBMzsBbenMla41KS43Jqh.jpg",
+    "created_by": [
+        {
+            "id": 1540426,
+            "credit_id": "59a2ba86925141775b04056c",
+            "name": "Mitsuru Kaneko",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1975-04-04",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 19869,
+    "in_production": false,
+    "languages": [
+        "en",
+        "it",
+        "ja"
+    ],
+    "last_air_date": "1975-12-26",
+    "last_episode_to_air": {
+        "air_date": "1975-12-26",
+        "episode_number": 39,
+        "id": 578686,
+        "name": "Goodbye Paris",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/p7aZjm5FteTUzJ75Ie96GsoWdVS.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Star of the Seine",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラ・セーヌの星",
+    "overview": "La Seine no Hoshi is an anime series by Sunrise, which premiered in Japan on Fuji TV from April 4, 1975 and finished its run on December 26, 1975, spanning a total of 39 episodes. The title translates to English as \"Star of the Seine\" or \"The Seine's Stars.\" It is based on Alain Delon's 1963 movie La Tulipe noire.\n\nIt was created by Mitsuru Kaneko, and was directed by Masaaki Ōsumi and Yoshiyuki Tomino. It was written by Sōji Yoshikawa, while the character designer was Akio Sugino. The music for the series was composed by Shunsuke Kikuchi.",
+    "popularity": 6.954,
+    "poster_path": "/A2yziLYXv9BZWRJUFKkveQsjiuH.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1975-04-04",
+            "episode_count": 39,
+            "id": 30109,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nWlDpFZugBaRbpFOYnEwBwePaPA.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

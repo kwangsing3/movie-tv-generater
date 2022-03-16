@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/wPTZtm8hFLBtqFqru4j2amsY9L9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.servantservice.org",
+    "id": 75986,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-09-27",
+    "last_episode_to_air": {
+        "air_date": "2013-09-27",
+        "episode_number": 13,
+        "id": 1494009,
+        "name": "Now We’re Set, a Fun Workplace Leading to Tomorrow",
+        "overview": "We finally find out who approved Lucy’s name, but Hasebe is too scared to tell Lucy, fearing that she will hate him. Meanwhile, Lucy is concerned about the fact that Hasebe seems distant ever since their date.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nUwqapFVQCgW7jmtZrD0mg7kOn9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Servant x Service",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tochigi TV",
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サーバント×サービス",
+    "overview": "Imagine if three people suddenly found themselves as civil servants of the city Mitsuba. What sort of personalities and drives would they have to push them to seek out such careers? Lucy Yamagami, a serious young woman assigned to the Welfare Administrative Section, intends to use the job as a means of settling a vendetta against another civil servant. Yutaka Hasebe, a flirtatious young man assigned to the First Section of the Welfare Department, intends to slack off whenever he can and have a good time. And Saya Miyoshi, a college graduate assigned to the Second Section of the Welfare Department, intends to simply get through the first job she's had in her life as best she can.\n\nServant x Service follows these three newcomers starting their jobs as government employees under their supervisor, Taishi Ichimiya, who is utterly clueless about how to direct them—despite having worked there for the last eight years. Nevertheless, he welcomes them as fellow civil servants and encourages them to work themselves like dogs for the sake of the citizens. We follow their day-to-day lives as they experience the rigors of government employment, including dealing with regulations, office romances, paperwork, and being the nearest punching bags when citizens need something to complain about.",
+    "popularity": 18.05,
+    "poster_path": "/o8xU2PnuJlNJlo7krWgLMEVCF3y.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-07-05",
+            "episode_count": 13,
+            "id": 97137,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/etqNjVOqHJYLQnmsbPkKWQuJyuA.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 9
+}

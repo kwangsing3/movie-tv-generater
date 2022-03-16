@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/3t4wPVdWuPt27HzEcsjXPpmINMD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://bakuon-anime.com/",
+    "id": 65926,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-21",
+    "last_episode_to_air": {
+        "air_date": "2016-06-21",
+        "episode_number": 12,
+        "id": 1246235,
+        "name": "A World of What-ifs!!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tDEziNnrkBgjsF0mqPlUQ6Mom6v.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bakuon!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ばくおん！！",
+    "overview": "The story revolves around high school girls who discover the appeal of motorcycles. Sakura Hane is a high school student who looks a little bit like an airhead. On the way to her all-female high school one day, she is worn-out climbing a hilly road with a bicycle, but she sees a girl named Onsa Amano who is riding a motorcycle. Sakura immediately becomes interested in motorcycles, and she and Onsa join the motorcycle club at the school. Then, Sakura sets out to get her license.",
+    "popularity": 6.891,
+    "poster_path": "/4rcmdpZNN7lVKC1YBJR6F4HvuQp.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-03-18",
+            "episode_count": 6,
+            "id": 151368,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-05",
+            "episode_count": 12,
+            "id": 75435,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zlXmZfNjD5kDFUPEUPct0uFAKio.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.1,
+    "vote_count": 9
+}

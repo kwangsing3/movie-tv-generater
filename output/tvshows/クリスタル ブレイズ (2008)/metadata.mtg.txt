@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/3LkQHuuCQciqrnxhMXZxkAjgsEn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-04-08",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 35126,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-06-24",
+    "last_episode_to_air": {
+        "air_date": "2008-06-24",
+        "episode_number": 12,
+        "id": 797483,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/egZ12zbI61T1Sjkv40CUFENKU2y.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Crystal Blaze",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クリスタル ブレイズ",
+    "overview": "In Rags Town, a city full of scum,  a carefree detective named Shun is living in this city, doing what he pleases. But one day he meets a beautiful girl who's lost her memory, and he tries to solve her mystery without knowing that this would change his life and make him face a powerful enemy.",
+    "popularity": 3.605,
+    "poster_path": "/zRNhXozBENybyhY0nH5VkxyHYBe.jpg",
+    "production_companies": [
+        {
+            "id": 13023,
+            "logo_path": null,
+            "name": "Studio Fantasia",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-04-08",
+            "episode_count": 12,
+            "id": 45878,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uFSiLNFRPSGU3xmrh6VJC1LlP2H.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

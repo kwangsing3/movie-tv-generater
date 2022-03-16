@@ -1,0 +1,153 @@
+{
+    "adult": false,
+    "backdrop_path": "/cHrRSB5cfAvadLpS1zte2fn1DRr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2015-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://junketsu-maria.tv/",
+    "id": 62157,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-29",
+    "last_episode_to_air": {
+        "air_date": "2015-03-29",
+        "episode_number": 12,
+        "id": 1050471,
+        "name": "Love Conquers All",
+        "overview": "Amid a tense showdown against Archangel Michael, the final judgment of Maria’s actions is passed and her ultimate fate revealed.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/95HVZ9YFkAN0Pxgae29RVQfuMTc.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Maria the Virgin Witch",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "純潔のマリア Sorcière de gré, pucelle de force",
+    "overview": "Takes place during the Hundred Years War in France. Maria, a powerful young witch who cannot tolerate war, uses her powers to intervene and keep the factions at bay. Assisted by her succubus and incubus familiars, they are mostly successful until the Archangel Michael takes notice and decides to put a stop to her interference. He tells Maria that her powers will be stripped away if she loses her virginity, and also forbids her from using magic publicly. To ensure this, he posts the angel Ezekiel to watch over her.",
+    "popularity": 13.677,
+    "poster_path": "/qib7imjr306Y4iUWFBSOcZGcDIR.jpg",
+    "production_companies": [
+        {
+            "id": 12541,
+            "logo_path": null,
+            "name": "Q-Tec",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-01-11",
+            "episode_count": 12,
+            "id": 65295,
+            "name": "Season 1",
+            "overview": " During the Hundred Year's War between England and France in the Middle Ages, a powerful witch named Maria lives in a secret forest with her familiars. She hates the war around her, and will sometimes stir up trouble against the church that does nothing to stop it. Her interventions into the world, however, run against the plans of heaven, earning her the attention of the Archangel Michael.",
+            "poster_path": "/lzot2j0Hq7THS9daM7VKz4wHngC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 7
+}

@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/s6HhBZC9OZiknLLfHGuVEBKWJqi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2013-09-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 58381,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-12-11",
+    "last_episode_to_air": {
+        "air_date": "2013-12-11",
+        "episode_number": 14,
+        "id": 1472103,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Super Seisyun Brothers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Super Seisyun Brothers -超青春姉弟s-",
+    "overview": "The story involves two pairs of teenage elder sister and younger brother, the Shinmoto's who are a bit narcissistic and the Saitou's who look a bit mysterious. It follows their everyday life in school and at home.",
+    "popularity": 2.947,
+    "poster_path": "/xOKT0CiBH65RAiSENe0PTynsWD3.jpg",
+    "production_companies": [
+        {
+            "id": 26262,
+            "logo_path": null,
+            "name": "AIC PLUS+",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-09-14",
+            "episode_count": 14,
+            "id": 59163,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qaxpnYJxZ5WuIn7edhU2NxfRWcS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.3,
+    "vote_count": 3
+}

@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/bJcGUt44iOURpOzVTTFOBgT3mQY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2020-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://pet-anime.com",
+    "id": 93593,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-30",
+    "last_episode_to_air": {
+        "air_date": "2020-03-30",
+        "episode_number": 13,
+        "id": 2040425,
+        "name": "Rainbow",
+        "overview": "Satoru read Hayashi’s message and learned the truth about everything, but was then shot by Long. Tsukasa thinks this signals the completion of his plans and goes to be with Hiroki. However, Hiroki has a question for Tsukasa and the pair must find an answer between them.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/wdgxd2nmgspA6BUUFMHHqpLJrAq.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pet",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ペット",
+    "overview": "The psychic suspense story revolves around people who possess the ability to infiltrate people's minds and manipulate memories. Their powers have been used in the underworld for covering up incidents, assassinations, and other deeds. These powers can not only destroy other people's spirits, but also corrupt the users' own hearts at the same time. The users had to protect their fragile and insecure hearts, as if chained to each other. They are called \"pets\" out of fear and despising.",
+    "popularity": 7.746,
+    "poster_path": "/3V7XVYjB13iufST1R6Kdfd03Xfv.jpg",
+    "production_companies": [
+        {
+            "id": 104682,
+            "logo_path": "/i87rCY8dRbWWgW3o9jnwWE5qa3Z.png",
+            "name": "Geno Studio",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-06",
+            "episode_count": 13,
+            "id": 132310,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ptinPCfiWdbon1poPwcALrsWXTu.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 10
+}

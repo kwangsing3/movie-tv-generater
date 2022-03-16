@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/xIYUHL2KEYNMAsjFuUCQQZsH7D1.jpg",
+    "created_by": [
+        {
+            "id": 932979,
+            "credit_id": "5fa69497a579f9003c76ebe3",
+            "name": "Fujiko F. Fujio",
+            "gender": 2,
+            "profile_path": "/gRJZtARGLTh0tU1ZGPuJhrHiHWJ.jpg"
+        }
+    ],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "1985-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 112527,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1985-04-20",
+    "last_episode_to_air": {
+        "air_date": "1985-04-20",
+        "episode_number": 20,
+        "id": 3393929,
+        "name": "Q-Taro Is A Star Singer",
+        "overview": "Q-Taro tries to sing, but his singing is horrid. After countless times, he manages to get a gig on TV, but the result is not what he envisioned.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Obake no Q-tarō",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "オバケのQ太郎",
+    "overview": "Q-taro, a monster, is living with the Ohara family. He can fly and make his body transparent, but he cannot turn his body into other things like other monsters do. He is a scattered mind, and he always makes mistakes and causes trouble.\n\nSequel of Shin Obake no Q-tarou.",
+    "popularity": 1.21,
+    "poster_path": "/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1985-04-01",
+            "episode_count": 20,
+            "id": 167521,
+            "name": "Obake no Q-tarō",
+            "overview": "Watch the many Adventures of Q-Taro and his Friends!",
+            "poster_path": "/gHlssO5W7AmDEymxTnDHwaGk5Jb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Little Ghost Q-Taro",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

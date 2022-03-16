@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/q5rJomk2giO7hElCRLxoNyI1cen.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-10-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 44310,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-12-22",
+    "last_episode_to_air": {
+        "air_date": "2009-12-22",
+        "episode_number": 12,
+        "id": 892695,
+        "name": "Dawning of the Dark Night",
+        "overview": "A little dive into the past and a salvation.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/oF6UXlRtvEODNy6AtzpgbpSwnnK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "11eyes",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "イレブンアイズ",
+    "overview": "Satsuki Kakeru lost his sister by suicide and has been living a dull life ever since then. One day, he is transported into a bizarre world \"Red Night\" along with his friend Minase Yuka. In order to survive and escape from Red Night, he fights against Dark Spirits (Ralva) and Black Nights.",
+    "popularity": 16.706,
+    "poster_path": "/vL3Q1ID5EiYH5UcT8ArYZgZORPm.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-06-25",
+            "episode_count": 1,
+            "id": 53369,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/AiGnd1jJDUI7dUnXy5D40M93Kj0.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-10-07",
+            "episode_count": 12,
+            "id": 53370,
+            "name": "11eyes",
+            "overview": "",
+            "poster_path": "/5WrDPKO5Lfp8eAP4uJOw5o4mEsL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 35
+}

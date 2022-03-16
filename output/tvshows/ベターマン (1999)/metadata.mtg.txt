@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/i7azILCNAHeGgOjUNDW1TJldhBk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1999-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 34833,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1999-10-01",
+    "last_episode_to_air": {
+        "air_date": "1999-10-01",
+        "episode_number": 26,
+        "id": 793209,
+        "name": "Nothingness",
+        "overview": "KEITA AND HINOKI BATTLE TO THE BITTER END.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Betterman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ベターマン",
+    "overview": "A deadly virus known as \"Algernon\" has attacked humanity. At the forefront of the battle is the mysterious Akamatsu Industries, this undercover organization uses enhanced weapons known as NeuroNoids to battle Algernon. Also helping with their secret efforts is the mysterious mutant who is known as \"Betterman.\"",
+    "popularity": 9.869,
+    "poster_path": "/vCmkrVJAfOj9wLDUZVYdqAJnXhd.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1999-04-02",
+            "episode_count": 26,
+            "id": 45621,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gtlrgfL209sg3WnG8QtIjuAqHrV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.5,
+    "vote_count": 2
+}

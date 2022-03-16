@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/xGS2YmACt4aHWNOBWB9QfBvnRvr.jpg",
+    "created_by": [
+        {
+            "id": 1210632,
+            "credit_id": "60a5391acb75d1006c619fa8",
+            "name": "Seiji Kishi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2006-01-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.gonzo.co.jp/archives/majikano/",
+    "id": 34191,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-28",
+    "last_episode_to_air": {
+        "air_date": "2006-03-28",
+        "episode_number": 13,
+        "id": 785327,
+        "name": "Is It Really The Last Episode?!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 5,
+        "vote_count": 1
+    },
+    "name": "Magikano",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マジカノ",
+    "overview": "Magikano is a manga series by Takeaki Momose, which was later adapted into an anime series, directed by Seiji Kishi and written by Hideki Mitsui.\n\nThe anime series was also broadcast by Animax, who adapted and dubbed the series into English for broadcast across its English language networks in Southeast Asia and South Asia from February 2007, where the series received its English language premiere.\n\nADV Films has licensed the rights for the North American release of Magikano on DVD for $65,000, and released the first volume on December 4, 2007. ADV Films' Anime Network began airing the anime on January 3, 2008 on their Subscription On Demand platform. On March 6, 2008 the anime began airing on their Free On Demand platform. In July 2008, the series became one of over 30 ADV titles to be transferred to Funimation.",
+    "popularity": 3.155,
+    "poster_path": "/xlqOHVoZPm8RVRXCYQOtbtsMEXA.jpg",
+    "production_companies": [
+        {
+            "id": 78440,
+            "logo_path": null,
+            "name": "Tokyo Kids",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-01-01",
+            "episode_count": 13,
+            "id": 45060,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/byaoLBsuyrTfEa0V3YkUDlCPwDM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.3,
+    "vote_count": 3
+}

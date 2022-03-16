@@ -1,0 +1,142 @@
+{
+    "adult": false,
+    "backdrop_path": "/2w8FaLwwJTWr6ExUMeVgT2Th5YT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2000-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.vap.co.jp/ippo3/",
+    "id": 42705,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-29",
+    "last_episode_to_air": {
+        "air_date": "2014-03-29",
+        "episode_number": 25,
+        "id": 993387,
+        "name": "A Vow",
+        "overview": "Kamogawa resorts to pounding a log with his bare fists as he trains to face Anderson and avenge Nekota. Anderson rediscovers his pride as a boxer and brings Miguel along as his cornerman. Everything comes down to this!",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/wdUlvMixwd1aJJ68eKUewqTycHV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fighting Spirit",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 126,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はじめの一歩",
+    "overview": "Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his younger years like most teenagers. Always a target for bullying at school (the family fishing business grants him a distinct odor), Ippo's life is one of hardship. One of these after-school bullying sessions turns Ippo's life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura's footsteps and train to become a boxer, giving his life direction and purpose. Ippo's path to perfecting his pugilistic prowess is just beginning...",
+    "popularity": 228.36,
+    "poster_path": "/i3U3J2MWovIBZBnZYYiOLBXqNJZ.jpg",
+    "production_companies": [
+        {
+            "id": 13067,
+            "logo_path": null,
+            "name": "Studio Live",
+            "origin_country": ""
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-03-21",
+            "episode_count": 3,
+            "id": 52312,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/gjDkE5Oa707LaDWDihh8G3B9gHI.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2000-10-03",
+            "episode_count": 75,
+            "id": 52311,
+            "name": "The First Step",
+            "overview": "",
+            "poster_path": "/oG4xyOhHfNpsYXQysE7bYh3FBtX.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2009-01-06",
+            "episode_count": 26,
+            "id": 52313,
+            "name": "New Challenger",
+            "overview": "Ippo Makunouchi continues his boxing career and his goal on knowing the meaning of being strong, and the desire on fighting his idol Ichiro Miyata once again. Along him are pro boxers Takamura, Aoki and Kimura that each one of them aspire to their own dreams. the continuation after Ippo won his Japan Championship match.",
+            "poster_path": "/5PSYvbA1LXueNyDDPIwL11372VQ.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2013-10-06",
+            "episode_count": 25,
+            "id": 59715,
+            "name": "Rising",
+            "overview": "Hajime no Ippo: Rising continues Ippo's quest to become stronger, featuring the same cast of loveable dimwits from Kamogawa Gym, as they put their bodies and hearts on the line to make their way in the harsh world of professional boxing. With a will of iron, Ippo steps into the ring once again.",
+            "poster_path": "/vvj28BXa350Ft7DArhKKtk2yvhu.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "the moment you back down is the moment you lose!",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 612
+}

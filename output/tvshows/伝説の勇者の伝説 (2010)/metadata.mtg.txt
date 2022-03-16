@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/yOYsxTl6XW15BXLojRA68OlOMfF.jpg",
+    "created_by": [
+        {
+            "id": 570259,
+            "credit_id": "5f97f555a294f000397de14a",
+            "name": "Itsuro Kawasaki",
+            "gender": 2,
+            "profile_path": "/xJmtsKNL4QhelmEif9Jn0yBLWQj.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-06-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.denyuden.jp/index2.html",
+    "id": 36089,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-12-17",
+    "last_episode_to_air": {
+        "air_date": "2010-12-17",
+        "episode_number": 24,
+        "id": 2479237,
+        "name": "A Distant Day's Promise",
+        "overview": "Sion is consumed by the spirit of the mad hero, as he nearly takes Ryner's life. Iluna comes out of Ryner, who has the spirit of the lonely demon within him, to prevent Sion from killing Ryner out of selfish ambition, but Lucile puts Ryner to sleep after Iluna disappears. Sion hesitates to kill Ryner when confronting the mad hero. When Ryner then finds himself in prison, Ferris helps him narrowly escape peril.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dM4k8itk4ZvMi9oGGXC7Ax1FkrI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Legend of the Legendary Heroes",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "伝説の勇者の伝説",
+    "overview": "\"Alpha Stigma\" are known to be eyes that can analyze all types of magic. However, they are more infamously known as cursed eyes that can only bring destruction and death to others.\n\nRyner Lute, a talented mage and also an Alpha Stigma bearer, was once a student of the Roland Empire's Magician Academy, an elite school dedicated to training magicians for military purposes. However, after many of his classmates died in a war, he makes an oath to make the nation a more orderly and peaceful place, with fellow survivor and best friend, Sion Astal.\n\nNow that Sion is the the king of Roland, he orders Ryner to search for useful relics that will aid the nation. Together with Ferris Eris, a beautiful and highly skilled swordswoman, Ryner goes on a journey to search for relics of legendary heroes from the past, and also uncover the secrets behind his cursed eyes.",
+    "popularity": 10.052,
+    "poster_path": "/eYoWjQceJGSndCgOpuEqJmAAQxb.jpg",
+    "production_companies": [
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-10-14",
+            "episode_count": 1,
+            "id": 166890,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/r0et6fB8I9cCTYUqfr9DnQg1OOF.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-06-26",
+            "episode_count": 24,
+            "id": 46917,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vauIjapyb5btFTr7quI3nAZ5ECr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 36
+}

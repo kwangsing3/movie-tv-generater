@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/yOh5kMtrVAVcxHABWq0blIHR4lG.jpg",
+    "created_by": [
+        {
+            "id": 1872463,
+            "credit_id": "5e773326cabfe400152133a5",
+            "name": "Akimine Kamijyo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2002-07-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 34814,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-12-23",
+    "last_episode_to_air": {
+        "air_date": "2002-12-23",
+        "episode_number": 26,
+        "id": 792937,
+        "name": "The Samurai Sings A Ballad",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Samurai Deeper Kyo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サムライ ディーパー キョウ",
+    "overview": "Demon Eyes Kyo, a feared samurai seeking to regain his body after his soul is sealed inside the body of his rival, Mibu Kyoshiro. Kyo is joined in his search by the bounty-hunter Shiina Yuya, the heir to the Tokugawa shogunate Benitora; and Sanada Yukimura, a known rival of the Tokugawa.",
+    "popularity": 10.41,
+    "poster_path": "/hbRde6KK3gomky0nhIhjiIq0UAM.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2002-07-02",
+            "episode_count": 26,
+            "id": 45601,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 3
+}

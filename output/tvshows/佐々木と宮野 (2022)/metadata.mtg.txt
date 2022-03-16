@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/e0R425jmKYUYqN0lZsvVqHHAu9z.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://sasamiya.com/",
+    "id": 127549,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-14",
+    "last_episode_to_air": {
+        "air_date": "2022-03-14",
+        "episode_number": 10,
+        "id": 3416187,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/v1NnBCyhCVGSd6X7cIvcygtpgNH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sasaki and Miyano",
+    "next_episode_to_air": {
+        "air_date": "2022-03-21",
+        "episode_number": 11,
+        "id": 3416188,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "佐々木と宮野",
+    "overview": "It all started like a typical old-school boys' love plotline—bad-boy senior meets adorably awkward underclassman, one of them falls in love, and so on and so forth. But although Miyano is a self-proclaimed boys' love expert, he hasn't quite realized…he's in one himself. Which means it's up to Sasaki to make sure their story has a happily ever after…!",
+    "popularity": 115.831,
+    "poster_path": "/4qeH1hCzrPMIoZwXvro1dHEwYy2.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-10",
+            "episode_count": 12,
+            "id": 199222,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9NWybOBNprzwkeHEP5X2tV4rTAu.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 4
+}

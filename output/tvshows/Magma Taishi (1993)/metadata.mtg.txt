@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 58160,
+            "credit_id": "6189f2652f266b0093d13c7f",
+            "name": "Osamu Tezuka",
+            "gender": 2,
+            "profile_path": "/4xOgZySBani7h7xkFwK4Rf0MqNg.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1993-02-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 60286,
+    "in_production": false,
+    "languages": [
+        "nl",
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1993-06-21",
+    "last_episode_to_air": {
+        "air_date": "1993-06-21",
+        "episode_number": 13,
+        "id": 949058,
+        "name": "Planet of Love",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ambassador Magma",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Magma Taishi",
+    "overview": "The alien invader Goa plots to conquer planet Earth. He first warns the Murakami family (father Atsushi, mother Tomoko, and son Mamoru) of their invasion, and demonstrates his powers by transporting them to a prehistoric jungle and destroying a giant dinosaur before their very eyes. But they will not agree to surrender to Goa, so hope comes in the form of Magma, an armored, golden giant with long hair and antennae. He and his human-sized wife Mol — both created by the wizard Earth — are sent to defend our world against Goa. They befriend Atsushi and Mamoru, the latter has Magma emotionally touched since he wanted to have a child with Mol, so Earth creates a duplicate of Mamoru, named Gam Earth, and gives Mamoru a whistle, with which he can call Gam, Mol, and Magma in times of crisis. So when Goa unleashes his various daikaiju, chances are, Magma, Mol, and Gam will fly to the rescue.",
+    "popularity": 0.804,
+    "poster_path": "/fB0cp9A6LCVma8XdHqunOfP30LG.jpg",
+    "production_companies": [
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1993-02-21",
+            "episode_count": 13,
+            "id": 59442,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Dutch",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

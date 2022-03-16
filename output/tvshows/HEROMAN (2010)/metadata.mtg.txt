@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/w1VM5d1PvrSSUjNLMsBMUYZdV5C.jpg",
+    "created_by": [
+        {
+            "id": 1715773,
+            "credit_id": "60b1b197a80236004024c85b",
+            "name": "Namimi Sanjo",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2010-04-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/heroman/",
+    "id": 42412,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-09-23",
+    "last_episode_to_air": {
+        "air_date": "2010-09-23",
+        "episode_number": 26,
+        "id": 879995,
+        "name": "Faith",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/wvNQdvZMVKS8lkcW9SpGIhGynl2.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Heroman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "HEROMAN",
+    "overview": "Heroman is a manga and anime produced by Bones and created by Marvel's Stan Lee. The manga is published in Monthly Shōnen Gangan and began serialization in September 2009, while the anime series premiered on April 1, 2010, on TV Tokyo and related stations. Stan Lee came up with the series' basic plot, referring to the series and character as \"a new hero for the 21st century\".\n\nBroadcast of Heroman in the United States is currently being planned by Lee and producer Masahiko Minami.",
+    "popularity": 23.843,
+    "poster_path": "/bOSK96t6la9dn8Yutm8Pr8OdlKF.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-09-22",
+            "episode_count": 3,
+            "id": 52160,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-04-01",
+            "episode_count": 26,
+            "id": 52161,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/musWkEjstndARit7JDOBgQO42Hb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 30
+}

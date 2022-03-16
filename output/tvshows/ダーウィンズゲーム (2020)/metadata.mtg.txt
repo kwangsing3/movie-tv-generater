@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/8xH4GUHWyOnDRv3TUlt7jBKTnHd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-01-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://darwins-game.com/",
+    "id": 85942,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-21",
+    "last_episode_to_air": {
+        "air_date": "2020-03-21",
+        "episode_number": 11,
+        "id": 2037697,
+        "name": "Sunset Ravens",
+        "overview": "Kaname challenges Wang to a clan battle to settle things once and for all. What is the fate of the battle between Kaname and Wang, as well as the Sunset Ravens and the Eighth Clan?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bveboaifc5KkD7KqlpSkuLdBxOW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Darwin's Game",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ダーウィンズゲーム",
+    "overview": "Sudou Kaname, an ordinary high school student, receives an invitation email to try a mysterious app called \"Darwin's Game.\" Kaname, upon launching the app, is drawn into a game where players fight one another using superpowers called Sigils. Without knowing the reason for all this, can Kaname survive furious battles against the powerful players who attack him?",
+    "popularity": 23.576,
+    "poster_path": "/dk5QFqxVt6WnTWTiK6hHdkL2SMz.jpg",
+    "production_companies": [
+        {
+            "id": 104535,
+            "logo_path": "/aYbbEOunHzKXBFMwm14E7bINvbg.png",
+            "name": "Nexus",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-02-01",
+            "episode_count": 1,
+            "id": 142442,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/kDc6SonrIOhgqOpbOIT1BGZjzno.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-01-04",
+            "episode_count": 11,
+            "id": 116889,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fue9DW4Z63maRgcY2b4ATxDTx9B.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 88
+}

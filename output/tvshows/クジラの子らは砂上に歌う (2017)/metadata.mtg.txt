@@ -1,0 +1,140 @@
+{
+    "adult": false,
+    "backdrop_path": "/1EcKzdQXrofasR2ifI2MX7zKj5V.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://kujisuna-anime.com/",
+    "id": 73017,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-24",
+    "last_episode_to_air": {
+        "air_date": "2017-12-24",
+        "episode_number": 12,
+        "id": 1411055,
+        "name": "Glad to Be Born Here",
+        "overview": "Now that they know the truth, the Mud Whale's residents face a decision. Meanwhile, Orca carries out his own plans in the empire.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sDNHaJROUnlTHGevV2Yw34sjn5T.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Children of the Whales",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クジラの子らは砂上に歌う",
+    "overview": "Chakuro is the 14-year-old archivist of the Mud Whale, a nigh-utopian island that floats across the surface of an endless sea of sand. Nine in ten of the inhabitants of the Mud Whale have been blessed and cursed with the ability to use saimia, special powers that doom them to an early death. Chakuro and his friends have stumbled across other islands, but they have never met, seen, or even heard of a human who wasn't from their own. One day, Chakuro visits an island as large as the Mud Whale and meets a girl who will change his destiny.",
+    "popularity": 27.593,
+    "poster_path": "/u6VJUUDb4aRzEpJWay7gvEiLc6U.jpg",
+    "production_companies": [
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-01-26",
+            "episode_count": 2,
+            "id": 103687,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-10-08",
+            "episode_count": 12,
+            "id": 90817,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/v6EUPaQ5Y0x6MpIW6ssmi5kZ2wT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 40
+}

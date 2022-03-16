@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1997-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 34094,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "1997-12-19",
+    "last_episode_to_air": {
+        "air_date": "1997-12-19",
+        "episode_number": 12,
+        "id": 781706,
+        "name": "To Have and to Hold",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Virus: Virus Buster Serge",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "VIRUS -VIRUS BUSTER SERGE-",
+    "overview": "In the year 2097 in the city of Neo Hong Kong, man and machine have melded nicely and the city has been blooming with technological advances. However, an entity that takes over the machines called the Virus is becoming a problem. For this problem, there exists the organization STAND equipped with their Gears led by the mysterious Raven. The latest member of the team is Serge, a man who cannot remember his past and thought joining STAND and confronting Raven would help him better understand. Little does he know how important he will become to the whole Virus conflict.",
+    "popularity": 4.515,
+    "poster_path": "/5DrAYbnIppJ1wI34gSOMBONRxy0.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1997-10-02",
+            "episode_count": 12,
+            "id": 44889,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

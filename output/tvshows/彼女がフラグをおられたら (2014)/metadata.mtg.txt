@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/4gxDm7pR8uIfQIhlc3Cndo1yVSA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2014-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 60835,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-29",
+    "last_episode_to_air": {
+        "air_date": "2014-06-29",
+        "episode_number": 13,
+        "id": 985049,
+        "name": "If His Flag Breaks",
+        "overview": "Souta regains his memory and learns he knew the girls once before, but had Laplace's Demon save them. Souta and the girls fight the Premium Ambriel, but his death flag breaks and he awakes in the real world where he learns more about his past.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/651RGCDAUd8rvOP9xgQUkATGJzb.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "If Her Flag Breaks",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "彼女がフラグをおられたら",
+    "overview": "Sota Hatate is a boy who has the unique ability to see \"Flags\" above the heads of other people. The \"Flags\" mark critical crossroads in people's lives — when the choices they make will determine love, friendship, victory, and even death. He transfers into Tokyo's elite Hatagaya Academy, but instead of living by himself in the boys' dormitory, he ends up living with many beautiful girls under one roof.",
+    "popularity": 11.351,
+    "poster_path": "/i79igYeMCZ6UZsNFNBe3w2ms7sp.jpg",
+    "production_companies": [
+        {
+            "id": 25697,
+            "logo_path": "/u0AlLAjKiCI42ZeRUIuI8ARuosr.png",
+            "name": "Hoods Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-12-02",
+            "episode_count": 1,
+            "id": 157010,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/aSfT4jCmNYla7FvQW9Y6KJEA0TD.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-04-06",
+            "episode_count": 13,
+            "id": 60838,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/chTvJfVTrJH8dFJwEO89iNaTSqg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.3,
+    "vote_count": 3
+}

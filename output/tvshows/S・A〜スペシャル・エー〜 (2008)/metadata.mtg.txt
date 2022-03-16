@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/vw5SEngkJvSTXbr1A5QXCr4rWIA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 37195,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-09-14",
+    "last_episode_to_air": {
+        "air_date": "2008-09-14",
+        "episode_number": 24,
+        "id": 842473,
+        "name": "Hanazono Hikari・Takishima Kei",
+        "overview": "Hikari and S.A head to London to find Kei and bring him back to Japan while Kei resigns himself to not seeing Hikari and his friends again. Everyone, including Yahiro and Sakura, overcome the obstacles standing in the way of reaching their friend. When Hikari meets with Kei at last, they finish the challenge he issued her and express their true feelings for one another.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tOsUjGmF75eWVInGT5dU35dybsT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Special A",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "S・A〜スペシャル・エー〜",
+    "overview": "Based on a shoujo manga by Maki Minami serialised in Hana to Yume. When Hikari was little, she and her father liked to watch pro wrestling, and she became very good at it. She was the pride of her family until one day she was introduced to Kei, the son of her father's friend. He instantly defeated her in wrestling, and started what would become Hikari's major ambition to one day beat him. To do this she enrolled in Kei's school, an ultra elite school that costs her father a lot of money. This unusual school created classes according to grades, and the top seven students become members of the \"SA\". They have their own building, and can optionally attend class. Hikari is usually the only one who does so, since she desperately wants to beat Kei with test scores. The members of the \"SA\" have been close friends since their first year.",
+    "popularity": 6.471,
+    "poster_path": "/bE2O4KaqlaBT6cLkHLOHrViijj.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-04-06",
+            "episode_count": 24,
+            "id": 48410,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/b10fqlK5ZwoeMcTqGaRIoWbkYqc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

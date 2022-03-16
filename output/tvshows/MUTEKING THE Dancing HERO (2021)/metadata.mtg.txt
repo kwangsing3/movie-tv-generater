@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/38IHZ6GQLcY4Uft7AUtyU9TsCC0.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://muteking.jp/",
+    "id": 121947,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-19",
+    "last_episode_to_air": {
+        "air_date": "2021-12-19",
+        "episode_number": 12,
+        "id": 3256375,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jSrtBXktd4G7dPBg5blWzTI3aah.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Muteking the Dancing Hero",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "MUTEKING THE Dancing HERO",
+    "overview": "This action comedy reimagines the iconic Muteking, The Dashing Warrior for a new generation, as our hero, Muteki, arrives in Neo San Francisco from the country and meets DJ. When monsters suddenly attack, DJ’s music transforms Muteki into Muteking, as the two team up to save the city…with dance!",
+    "popularity": 13.506,
+    "poster_path": "/jQHd8uHiFaqh0hBwVqcnyapujz3.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-03",
+            "episode_count": 12,
+            "id": 188160,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4DoMAlKh15jsKhB1N6fO1Mn6jUh.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

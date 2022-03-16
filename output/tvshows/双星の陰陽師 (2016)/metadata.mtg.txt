@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/x9zv7iB75isTzAx0W6Mr7w2F4t6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.sousei-anime.jp/",
+    "id": 66078,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-29",
+    "last_episode_to_air": {
+        "air_date": "2017-03-29",
+        "episode_number": 50,
+        "id": 1263020,
+        "name": "Twin Stars - Twins",
+        "overview": "The greatest Exorcist of all time intends to wipe humanity's yin away in order to create a world where there will be no more free will, or individuality. Can the Twin Star Exorcists stop him?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zBkFbt2GfEiNhOlsVPahvrhO7KF.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Twin Star Exorcists",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "双星の陰陽師",
+    "overview": "Rokuro is from a family of exorcists, but he'd rather be a singer, a soccer player or anything but an exorcist! He's forced to own up to his own incredible potential when new arrival Benio stirs his competitive spirit. But their rivalry gets a twist when they earn the prestigious title of \"Twin Star Exorcists\"—two supreme fighters fated to marry and birth the ultimate spiritual warrior!",
+    "popularity": 53.617,
+    "poster_path": "/dbGtsHEuV8zREyMEXmf5YFtUZyL.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-06",
+            "episode_count": 50,
+            "id": 75929,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6HypEkdCNOkwksKpVfnoMoGRkW4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 296
+}

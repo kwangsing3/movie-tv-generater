@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/m1r1DMioCyjKdacWqvzb8bLWAsh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-04-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://jcstaff.co.jp/sakuhin/nenpyo/2009/04_hatsukoi/hatsukoi.htm",
+    "id": 34744,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-06-28",
+    "last_episode_to_air": {
+        "air_date": "2009-06-28",
+        "episode_number": 12,
+        "id": 791354,
+        "name": "First Love Limited",
+        "overview": "The boys finally get the courage to shout out their feelings, and fate has an interesting trick up its sleeve.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6BL8UOzadl8J8tvbhBWDvhXTh8N.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hatsukoi Limited.",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "初恋限定。",
+    "overview": "Ayumi and her friends are all just entering the eighth grade, as, one by one, they discover that love is infectious and you can catch it from anyone! Now Ayumi's torn between two brothers, Koyoi has an altogether different kind of brother issue and budding theatrical impresario Sumire seems ready to do anything to land her leading man. Then there's tom-boy Rika, aspiring artist Nao, Kei, who's very 'mature' for her age and older girl Misaki who really IS more mature.",
+    "popularity": 18.747,
+    "poster_path": "/uvd1gNT9ew2kJ6BiJKyprpuLXWO.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-07-24",
+            "episode_count": 6,
+            "id": 45509,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-04-11",
+            "episode_count": 12,
+            "id": 45508,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/72tMXTzeNg5jLJGYu8paRWsNz9n.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 5
+}

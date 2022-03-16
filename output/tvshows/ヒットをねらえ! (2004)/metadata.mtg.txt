@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/2wO3yUpyDucXqqPQJww6XyJl3E1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2004-03-09",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 34089,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-04-27",
+    "last_episode_to_air": {
+        "air_date": "2004-04-27",
+        "episode_number": 8,
+        "id": 781556,
+        "name": "\"Everybody-!\"",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Smash Hit!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヒットをねらえ!",
+    "overview": "Mitsuki Ikuta works for the Houchiku Corporation, making movies. To all who know her, she is perceived as being a very infantile woman, still wearing childish fashions. A fan of the detective movie genre, she suddenly finds herself chosen to be the main producer of a new film—but it's a \"hero movie\" (a genre generally considered childish). Determined to succeed, regardless, she takes on the job.",
+    "popularity": 3.498,
+    "poster_path": "/yXyKMfZkgShQTTToGoOP5QjtYea.jpg",
+    "production_companies": [
+        {
+            "id": 89318,
+            "logo_path": null,
+            "name": "IMAGIN",
+            "origin_country": ""
+        },
+        {
+            "id": 13067,
+            "logo_path": null,
+            "name": "Studio Live",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 4,
+            "id": 243913,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-03-09",
+            "episode_count": 8,
+            "id": 44880,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bla3Wzx70IyB6ZRsC7PjfDiUfUw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

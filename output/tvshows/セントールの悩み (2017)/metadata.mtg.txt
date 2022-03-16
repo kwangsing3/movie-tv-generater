@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/gPf5EiSL6Cbx1qKCf0vLPBHgsWG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://centaur-anime.com/",
+    "id": 72506,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-25",
+    "last_episode_to_air": {
+        "air_date": "2017-09-25",
+        "episode_number": 12,
+        "id": 1370935,
+        "name": "We Tried Making a Fantasy Story in RPG Style/Fierce Fights! Arm Wrestling! How Will the Battle of the Heroines End?",
+        "overview": "The girls participate in an RPG fantasy setting, fighting against monsters in a dungeon labyrinth, which turns out to be a story written by Mitsuyo.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1ZB4jAdg8oBOgCAMk4Px1uAtA1b.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "A Centaur's Life",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "セントールの悩み",
+    "overview": "Kimihara Himeno, also known as \"Hime,\" goes about her life, love, and studies just like any ordinary high school girl. The only difference is that she's a centaur. She enjoys her school life along with classmates of many unique shapes, including Nozomi the draconid, Kyoko the goatfolk, an angelfolk class representative, and Sassas-chan the Antarctican. Hime's younger cousin Shino-chan, her friend Maki-chan, and the class representative's four younger sisters also join the cast in this very cute slice-of-life story about girls who are human, yet aren't!",
+    "popularity": 13.728,
+    "poster_path": "/m3WqZmeXgdjTu6ZieU4wFGjmjR8.jpg",
+    "production_companies": [
+        {
+            "id": 80544,
+            "logo_path": "/e0ZP8J5XRH2WfcSPRz3GcqSdMfz.png",
+            "name": "Emon Animation Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-09",
+            "episode_count": 12,
+            "id": 89810,
+            "name": "Season 1",
+            "overview": "The series takes place in a world that took a different path of evolution from the world we know resulting in mythological creatures, such as centaurs, satyrs, mermaids, and demons, taking the palce of humans in today's society. The story focuses around a centaur girl name Himeno Kimihara, as she goes about her daily life with her friends and family.\n\n** Known in Japanese as \"Centaur's Worries\" (Japanese \"セントールの悩み\" Hepburn: Sentouru no Nayami)  Base on Japanese Manga series by Kei Murayama. Direct by Fumitoshi Oizaki.\n\n** Opening Theme \"Oshiete Darwin\" song by a group idol \"Purely Monster\". and Ending Theme \"Edelweiss\" song by Asaka.",
+            "poster_path": "/oaKcCDJwFLW1D9TbngTXXjMjbfb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 13
+}

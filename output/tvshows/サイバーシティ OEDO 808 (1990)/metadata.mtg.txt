@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/a8grrhoCHVj0tXL7LiE8fVEDsTr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        43
+    ],
+    "first_air_date": "1990-06-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 64210,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1991-10-04",
+    "last_episode_to_air": {
+        "air_date": "1991-10-04",
+        "episode_number": 3,
+        "id": 1131762,
+        "name": "Data 3: Crimson Media",
+        "overview": "The freak murder of three geneticists leads Benten to investigate one man's quest for immortality, as well as finding a young woman transformed into a vampire with telekinesis because of this quest.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cyber City Oedo 808",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サイバーシティ OEDO 808",
+    "overview": "In the city of Oedo 2808 A.D., three Cyber criminals are given two choices, to either rot in jail or to join a special force of the Cyber Police to get possibly one more chance at freedom ever again. For each criminal apprehended, and for each successful mission done, the state will agree to reduce their sentences. Lead by Hasegawa, the new recruits: Sengoku, Gogul, and Benton will bring some hard justice to Oedo and possibly taste freedom again.",
+    "popularity": 7.24,
+    "poster_path": "/9TaiOqFMxVPEBGwpdRZbskRgCtY.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1990-06-21",
+            "episode_count": 3,
+            "id": 71528,
+            "name": "Season 1",
+            "overview": "It is the year 2808. Three convicts are recruited as members of the Cyber Police to keep major criminal activity in Oedo (formerly Tokyo) in check. In return, their life sentences will be reduced by a few years for every mission accomplished. However, to ensure that these convicts are doing their job, the police have secured special collars around their necks. If they attempt to remove their collars or fail to meet the time limit of their mission, the collars will self-destruct.",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

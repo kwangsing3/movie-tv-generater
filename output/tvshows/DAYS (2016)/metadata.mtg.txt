@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/wCeWkBwNUgLAKsUCDO1eXQGPjEX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://days-project.jp/",
+    "id": 66979,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-18",
+    "last_episode_to_air": {
+        "air_date": "2016-12-18",
+        "episode_number": 24,
+        "id": 1248324,
+        "name": "I Want to Play More Soccer with This Team",
+        "overview": "After the fierce battle, Seiseki is the team that stands victorious. Kimishita scored three goals from the free kicks, but it was Tsukushi who secured those free kicks.\n\nThus, even without the \"Three Arrows\", Seiseki was able to put on a performance worthy of their reputation. While everybody is celebrating their advancement to the finals, only Tsukushi looks glum. After the match, Kurusu and the others who brought the equipment back to the club room see a crying Tsukushi kicking the ball by himself.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vk6ZVrRM21sTWxjc84fy6GoyaGJ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Days",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "DAYS",
+    "overview": "The series is about two boys named Tsukushi and Jin. Tsukushi is a boy with no special talent or traits while Jin is considered a soccer genius. On one stormy night, Jin meets Tsukushi, and they get dragged into the world of soccer.",
+    "popularity": 15.651,
+    "poster_path": "/27n0VxP9UpRaYfhZB2JINps98Xl.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-03-17",
+            "episode_count": 5,
+            "id": 118790,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/d9LudpjHNOzgmQbYkZjWVyJU1HE.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-07-03",
+            "episode_count": 24,
+            "id": 78240,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sWteK01AcWEo8nsRoBJAFCYDyzY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 8
+}

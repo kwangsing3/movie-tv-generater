@@ -1,0 +1,139 @@
+{
+    "adult": false,
+    "backdrop_path": "/nQM2y7Wa698jh2gYCLpR2pAPa0f.jpg",
+    "created_by": [
+        {
+            "id": 1634720,
+            "credit_id": "61bd52fe13af5f0042041845",
+            "name": "Takara Tomy",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.takaratomy.co.jp/products/tomica/earthgranner/",
+    "id": 97941,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-21",
+    "last_episode_to_air": {
+        "air_date": "2021-03-21",
+        "episode_number": 51,
+        "id": 3047954,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tomica Bond Combination Earth Granner",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tooniverse",
+            "id": 2498,
+            "logo_path": "/cY1GK5jpiV4GmgSzMdQaW3vFJkc.png",
+            "origin_country": "KR"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "トミカ絆合体 アースグランナー",
+    "overview": "The anime centers on the battles between the mysterious alien enemy Dark Spinner and the secret defense unit Earth Granner over Earth Energy, the energy generated from the Earth's rotation.",
+    "popularity": 4.511,
+    "poster_path": "/nEUx2kuz9dKSQWX5yuxfxdNHcgw.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11644,
+            "logo_path": null,
+            "name": "TakaraTomy",
+            "origin_country": ""
+        },
+        {
+            "id": 122616,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "name": "TV Osaka",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-05",
+            "episode_count": 51,
+            "id": 140981,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nEUx2kuz9dKSQWX5yuxfxdNHcgw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 1,
+    "vote_count": 1
+}

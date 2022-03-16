@@ -1,0 +1,149 @@
+{
+    "adult": false,
+    "backdrop_path": "/yVFNlxLkp6S6vUfNNpEisYbnm6C.jpg",
+    "created_by": [
+        {
+            "id": 78373,
+            "credit_id": "607f04e3160e730040df28ab",
+            "name": "Reiko Yoshida",
+            "gender": 1,
+            "profile_path": "/5LUxL8rdUtMdqxx8pnWp6PM0wKp.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-07-03",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/dande/",
+    "id": 66083,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-18",
+    "last_episode_to_air": {
+        "air_date": "2015-09-18",
+        "episode_number": 12,
+        "id": 1182996,
+        "name": "Who Will the Crown Shine Upon",
+        "overview": "The elections are finally here and the siblings are preparing for their final speeches. Who will be crowned as the successor to the throne?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5YSQpHb8ohO0r8z7alLzpbs6XEB.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Castle Town Dandelion",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "GyaO!",
+            "id": 2819,
+            "logo_path": "/wD1kyr8RuPYSWfqHiswhMBpE2kf.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "d Anime Store",
+            "id": 3685,
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "城下町のダンデライオン",
+    "overview": "The everyday lives of the nine super-powered siblings of the royal family are monitored by more than 200 surveillance cameras and broadcast nationwide. The people of the nation who are watching the broadcast will have the ability to elect the next monarch. Akane is the third-oldest sister who can manipulate gravity. She is shy and desperately does not want to be caught on camera.",
+    "popularity": 10.354,
+    "poster_path": "/wwqbqd7YGTOvIeZsMHNjEZrpFIs.jpg",
+    "production_companies": [
+        {
+            "id": 65500,
+            "logo_path": null,
+            "name": "Production IMS",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-07-03",
+            "episode_count": 12,
+            "id": 75940,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tNNKQLu48f8nJqKLngN1oqmOETo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 30
+}

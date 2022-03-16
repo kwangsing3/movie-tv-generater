@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/561sUvxTj7TjlosxgrmamhLqhhX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-12",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://guruguru-anime.jp",
+    "id": 72788,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-20",
+    "last_episode_to_air": {
+        "air_date": "2017-12-20",
+        "episode_number": 24,
+        "id": 1415561,
+        "name": "Engaged! A Heart in Love!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zJWLhokH42ghlEPxuxcCPtK4N0F.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magical Circle Guruguru",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法陣グルグル",
+    "overview": "The seal that for hundreds of years had confined the demon king Giri has worn off. A young boy named Nike is chosen (against his will) as the hero. Together with Kukuri, a girl who is the lone survivor of the tribe that had used black magic to seal Giri, they set off to save the world, RPG style.",
+    "popularity": 6.892,
+    "poster_path": "/jV4fLfsMfXZ4IpaxGO4UWtqa0zj.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-14",
+            "episode_count": 25,
+            "id": 102517,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-07-12",
+            "episode_count": 24,
+            "id": 90372,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/55n8Xct59kbtK9MPKrstmmN7j5j.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/74LzMCGRHPepU1EaCg06hxrcp00.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.megalobox.com/",
+    "id": 77939,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-27",
+    "last_episode_to_air": {
+        "air_date": "2021-06-27",
+        "episode_number": 13,
+        "id": 2852258,
+        "name": "El con alas lleva al sin alas, y el sin alas bendice al con alas",
+        "overview": "Joe and Mac head into the ring to have their legendary match.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/bemql9pD8E1Oere1ttJNxXLGXcH.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "MEGALOBOX",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "メガロボクス",
+    "overview": "A desolate land stretches out from the city of poverty. A motorcycle speeds recklessly, blowing clouds of sand and dust. The rider is the protagonist of this story – he has neither a name nor a past. All he has is his ring name, “Junk Dog” and a technique for rigging MEGALOBOX matches with his pal Gansaku Nanbu, which they use to support their hand-to-mouth lives. JD is bored, resigned, and unfulfilled. Yuri has been the reigning champion of MEGALOBOX for the past few years. He has the skills and presence of a true champion. This is a story of JD and his rival, Yuri.",
+    "popularity": 42.737,
+    "poster_path": "/OdNvZeDY1ruodyH51XsJKWgQIc.jpg",
+    "production_companies": [
+        {
+            "id": 1393,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "name": "TBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-07",
+            "episode_count": 13,
+            "id": 100653,
+            "name": "Season 1",
+            "overview": "\r\n",
+            "poster_path": "/mfXCEFdiMMWEUCGcCbdEo7bfhKK.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-04-04",
+            "episode_count": 13,
+            "id": 136148,
+            "name": "Nomad",
+            "overview": "",
+            "poster_path": "/nJqB67lP40LIeqOgCH0HXoZmivm.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 160
+}

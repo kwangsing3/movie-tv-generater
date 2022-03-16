@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/5rfyCvaUtIozhdi9t7HkosJ11tk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2018-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://hashiyoka.com/",
+    "id": 82974,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-10-30",
+    "last_episode_to_air": {
+        "air_date": "2018-10-30",
+        "episode_number": 4,
+        "id": 1609676,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nExj9MoZZDh505gn3ytNwjIvD6o.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "I'm glad I could keep running.",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "走り続けてよかったって。",
+    "overview": "The story centers on Minato, who goes to an anime event that has a voice acting recital with a friend. He is fascinated by the talent of the voice actors, and he meets Chikako, who studies at the Suidoubashi Animation Academy. The series follows the trials and tribulations of those who aim to become voice actors.",
+    "popularity": 3.919,
+    "poster_path": "/ff60Ia74ZHg4t0uy7IEj6PkZ3Jx.jpg",
+    "production_companies": [
+        {
+            "id": 88373,
+            "logo_path": "/aUJ6Xd89l0jXiybnaD7KZPWSUgS.png",
+            "name": "Signal.MD",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-09",
+            "episode_count": 4,
+            "id": 110554,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6sIWb5CmkFVtTbQowNzSLykjxPj.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

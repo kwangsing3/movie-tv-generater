@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/esBYtd4HLuEd5E1vlbTdBdgcdfe.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://1000000-lives.com",
+    "id": 99995,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-25",
+    "last_episode_to_air": {
+        "air_date": "2021-09-25",
+        "episode_number": 12,
+        "id": 3236038,
+        "name": "On a Million Lives",
+        "overview": "Glenda has figured out the identity of the Dragon Bishop who's been secretly at work in the area. With her identity exposed, the Dragon Bishop confesses that she was behind everything that's happened since they began the current quest, and explains that she approached Yotsuya's party while searching for a hidden village in order to complete her ritual. Thus begins the battle between the Dragon Bishop and the party of heroes.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/jmUkdl1fSxXCbIPcdhpagTrh0mu.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "I'm Standing on a Million Lives",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "100万の命の上に俺は立っている",
+    "overview": "Ninth grader Yotsuya Yuusuke is practical, friendless, and not active in any clubs. Then one day, he and two female classmates are suddenly sent to another world where they must work together to battle for their lives. Yotsuya is a lone wolf and has always lived his life according to his wants, but how will that work out now that he’s supposed to be a hero?!",
+    "popularity": 41.336,
+    "poster_path": "/fsTPaGmiYVfl6KLxnDGDDpaqnJM.jpg",
+    "production_companies": [
+        {
+            "id": 120332,
+            "logo_path": "/yH2UqiQ77X4BkEsl1TdlLknzmrm.png",
+            "name": "MAHO FILM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-02",
+            "episode_count": 2,
+            "id": 173970,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/xatXrMToAVuAXkBmIEWGj9mogkK.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-10-02",
+            "episode_count": 12,
+            "id": 144406,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/c6zSIVMAKdaVrpIYAg70xPAhrMk.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-07-10",
+            "episode_count": 12,
+            "id": 190738,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/d3V3aEIuQnyfimJwzqp0e3MWk8.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 22
+}

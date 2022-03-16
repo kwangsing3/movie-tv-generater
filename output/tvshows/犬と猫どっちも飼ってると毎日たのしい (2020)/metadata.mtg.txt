@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/gTZE94NgC8Bm2DySiKtoEYk7HUM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2020-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://dog-and-cat.com/",
+    "id": 108954,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-27",
+    "last_episode_to_air": {
+        "air_date": "2021-03-27",
+        "episode_number": 24,
+        "id": 2415652,
+        "name": "Dog and Cat",
+        "overview": "Sensei's mother reads the first volume of the Dog and Cat manga, and it prompts her to reflect on how much Dog and Cat have aged since it was written.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "With a Dog AND a Cat, Every Day Is Fun",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "犬と猫どっちも飼ってると毎日たのしい",
+    "overview": "Matsumoto's daily life while raising both a sweet, innocent dog and a \"devilishly vicious yet adorable\" cat. Everyday, there is laughter and even a tear or two.",
+    "popularity": 12.194,
+    "poster_path": "/gqmlFUpoQTQ8H6W9ipaCvI3Hv1e.jpg",
+    "production_companies": [
+        {
+            "id": 139660,
+            "logo_path": null,
+            "name": "Team Till Dawn",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-03",
+            "episode_count": 24,
+            "id": 161534,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zAwkoCCdozwF6v9dVSPanUl3d4f.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2
+}

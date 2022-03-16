@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/4lUajA6cE1GdsZ1FuKFM8vo5DS7.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2002-12-21",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "",
+    "id": 60682,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-10-22",
+    "last_episode_to_air": {
+        "air_date": "2004-10-22",
+        "episode_number": 5,
+        "id": 975153,
+        "name": "Birdman",
+        "overview": "In the South Pacific, two military forces prepare to fight a nuclear war. In desperation, Shin and Sara decide to sacrifice themselves . . . in order to protect the Mayan people.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sNh3nD1zLLKhbsXFxa5nnJpyPgd.jpg",
+        "vote_average": 8.5,
+        "vote_count": 1
+    },
+    "name": "Macross Zero",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マクロス ゼロ",
+    "overview": "Taking place one year before the events of the original Macross series, Macross Zero chronicles the final days of the war between the U.N. Spacy and anti-U.N. factions. After being shot down by the anti-U.N.'s newest fighter plane, ace pilot Shin Kudo finds himself on the remote island of Mayan, where technology is almost non-existent. While Shin stays on the island to heal his wounds, the tranquility of the island is shattered by a battle that involves the UN's newest fighter - the VF-0.",
+    "popularity": 4.886,
+    "poster_path": "/33L8S88iEZaXZhAMtfWOFnBQI5D.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2002-12-21",
+            "episode_count": 5,
+            "id": 60311,
+            "name": "Season 1",
+            "overview": "Taking place one year before the events of the original Macross series, Macross Zero chronicles the final days of the war between the U.N. Spacy and anti-U.N. factions. After being shot down by the anti-U.N.'s newest fighter plane, ace pilot Shin Kudo finds himself on the remote island of Mayan, where technology is almost non-existent. While Shin stays on the island to heal his wounds, the tranquility of the island is shattered by a battle that involves the UN's newest fighter - the VF-0.",
+            "poster_path": "/tpNiSAebosQ18m9T4ZEst35Ax4l.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 3
+}

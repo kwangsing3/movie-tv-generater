@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 2167603,
+            "credit_id": "61d97e2b9e4012006c87ebb1",
+            "name": "Hajime Kurihara",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2004-04-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34702,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-07-05",
+    "last_episode_to_air": {
+        "air_date": "2004-07-05",
+        "episode_number": 13,
+        "id": 790346,
+        "name": "Cheko-Chan and the Experiment",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pugyuru",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぷぎゅる",
+    "overview": "Pugyuru is a Japanese four-panel comic strip by Tohiro Konno. The manga was first serialized in the Japanese manga magazine Monthly Magazine Z in June, 2001. Pugyuru was adapted into an anime series that was broadcast on April 12, 2004 on the television station Kids Station. The initial broadcast lasted for thirteen episodes and ended on July 5, 2004.",
+    "popularity": 1.317,
+    "poster_path": "/9o8rHCMDRgC2tkqTirIt1Eqvrp.jpg",
+    "production_companies": [
+        {
+            "id": 124902,
+            "logo_path": null,
+            "name": "Creators Dot Com",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-04-12",
+            "episode_count": 13,
+            "id": 45447,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 2
+}

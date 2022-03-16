@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/aOSGOT5wkhkrmGTGdnWX9PjhTca.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        49
+    ],
+    "first_air_date": "1991-09-27",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 80226,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1991-12-20",
+    "last_episode_to_air": {
+        "air_date": "1991-12-20",
+        "episode_number": 2,
+        "id": 1506846,
+        "name": "More Otaku no Video (1985)",
+        "overview": "Otaku no Video stars a young man named Kubo, who starts off as an average citizen, engrossed in the school tennis club, and happy with his girlfriend. Un/fortunately for him, his life is entirely changed by a chance meeting with an old high school classmate by the name of Tanaka (their full names don't matter, as it's their feats as Otaku that earn them my admiration and respect). After being introduced to Tanaka's circle of pop culture aficionados, Kubo is slowly inoculated with the first seeds of Otakudom, transforming into the stereotypic fanboy that the fellows at Gainax mock, and yet can probably identify with. Kubo spends his time and money on anime, letting it take over his life, until even his girlfriend is fed up with his new self. Distraught and angered by her and society's misunderstanding of anime Otaku, he vows to dedicate his life to becoming the Otaking, expanding anime to such an extent that it can no longer be made fun of.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Otaku no Video",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おたくのビデオ",
+    "overview": "A mockumentary featuring an animated tale of an average person who slowly becomes an otaku (obsessive fanatic) and eventually becomes the \"Otaking\"! Between story segments, live action interviews with fictional die-hard otakus take place.",
+    "popularity": 4.834,
+    "poster_path": "/bKYxDaMxOcZMb0dzuAUKAqUy7wX.jpg",
+    "production_companies": [
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1991-09-27",
+            "episode_count": 2,
+            "id": 105218,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 6.7,
+    "vote_count": 3
+}

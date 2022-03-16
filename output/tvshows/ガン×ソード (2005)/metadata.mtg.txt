@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/o35RSnP5a7271obaa2uA5eNPCH3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 37,
+            "name": "Western"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 31706,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2005-12-27",
+    "last_episode_to_air": {
+        "air_date": "2005-12-27",
+        "episode_number": 26,
+        "id": 758648,
+        "name": "Tuxedo Blowing in Tomorrow",
+        "overview": "The villain with the clawed-hand killed Van’s one true love, sparking a quest for vengeance that could only end in death. Now, it’s time for Van to return the favor by destroying the villain’s murderous dream.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sD3Xn6QVK6xQ1Lmocy6dpC4jNd5.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gun x Sword",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガン×ソード",
+    "overview": "There’s a claw-fisted, genocidal maniac terrorizing the planet of endless illusion, and only Van, a tight-lipped loner in a jet black tuxedo, can bring the scoundrel to justice. Armed with his shape-shifting sword and a mechanized suit of armor, Van hunts the villain who murdered his one true love. With any luck, he’ll find the man he seeks before the sun sets on civilization.",
+    "popularity": 17.941,
+    "poster_path": "/rHTw06fSEBXFOXSILep4KIKEY9a.jpg",
+    "production_companies": [
+        {
+            "id": 46652,
+            "logo_path": null,
+            "name": "AIC A.S.T.A.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 13,
+            "id": 43199,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-07-05",
+            "episode_count": 26,
+            "id": 43200,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hVWJSloGDqLbnGxw2SMeq0lQBql.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 7
+}

@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": "/7UM7DjoQSR6HxfDUb1SVZIuIOx6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://primadoll.jp/",
+    "id": 156450,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Prima Doll",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プリマドール",
+    "overview": "",
+    "popularity": 1.693,
+    "poster_path": "/7XI3dH8WAPnkaM6Ax1HfcYHOJfO.jpg",
+    "production_companies": [
+        {
+            "id": 118286,
+            "logo_path": null,
+            "name": "Bibury Animation Studios",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 241644,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7XI3dH8WAPnkaM6Ax1HfcYHOJfO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

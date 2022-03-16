@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/t8wOHDJiyXp77KWMXx4qavA2YfO.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 55296,
+    "imdb_id": "tt2304710",
+    "original_language": "ja",
+    "original_title": "からくりの君",
+    "overview": "Princess Rangiku lost her entire family to Lord Karimata, who invaded her home seeking her father's life work, puppets with unique capabilities. As her duty, Rangiku sets out with three of her father's greatest puppet warriors to seek revenge. She can manipulate these to battle the strongest of warriors, however manipulating the puppets leaves her own self vulnerable to direct attacks, so she seeks a ninja warrior named Manajiri to aid and protect her in her quest.",
+    "popularity": 2.194,
+    "poster_path": "/lX1DgiXVwFSA7vjdomtVNjwe4Hl.jpg",
+    "production_companies": [
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12655,
+            "logo_path": "/7Rt8txBx60jJ0jjtOibGWmP22vo.png",
+            "name": "Shogakukan-Shueisha Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2000-03-24",
+    "revenue": 0,
+    "runtime": 42,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "When the Princess makes her puppets dance, bodies will fly like broken toys.",
+    "title": "Puppet Princess",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 4
+}

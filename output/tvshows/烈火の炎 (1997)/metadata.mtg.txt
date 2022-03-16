@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/61QNPdtnF7j2NYZBNW7EuOjtaoV.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1997-07-19",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 42692,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-07-10",
+    "last_episode_to_air": {
+        "air_date": "1998-07-10",
+        "episode_number": 42,
+        "id": 1344457,
+        "name": "Battle of Death! Until Life Is Burned Out!!",
+        "overview": "It's the final show down between Kurei and Recca. Flame versus flame, dragon versus phoenix. But Koran Mori still desires immortality, and nothing will stop him from obtaining it!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5oTT7V04Sutg1q2OLGpXyeWuJnY.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Flame of Recca",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 42,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "烈火の炎",
+    "overview": "Recca was an average ordinary boy, who happened to like ninjas. One day as an dark and mysterious women enters his life, Recca finds that he has some extraordinary powers. Now he must use these powers to protect his friends and himself from a long lost brother, who holds a hatred against him.",
+    "popularity": 9.039,
+    "poster_path": "/vywtHxLB4CnB2hVrevZ9eEqh33s.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1997-07-19",
+            "episode_count": 42,
+            "id": 80209,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/84XdE9nk7rh06yWranC60cMG9Mf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 6
+}

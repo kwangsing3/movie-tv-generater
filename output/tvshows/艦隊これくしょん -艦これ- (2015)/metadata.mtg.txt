@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/q4tOiQCx0w6jcY2MuSj6EWFXEeQ.jpg",
+    "created_by": [
+        {
+            "id": 1845198,
+            "credit_id": "5ee48f2dcb71b8001eb3a3a1",
+            "name": "Kensuke Tanaka",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2015-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://kancolle-anime.jp/",
+    "id": 65711,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-25",
+    "last_episode_to_air": {
+        "air_date": "2015-03-25",
+        "episode_number": 12,
+        "id": 1169475,
+        "name": "Enemy Planes Dive-Bombing From Above!",
+        "overview": "\"You let your guard down. My next torpedo is already loaded.\" The fleet attacks Abyssal base MI. Despite their strength the forces seem unkillable. When they sink an enemy it just comes right back up again. Is there any way to win the fight?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lpEdJw5zv9FXVO72uk8sR8UoJkp.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "KanColle: Kantai Collection",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "艦隊これくしょん -艦これ-",
+    "overview": "Set in a world where humanity has lost control of the oceans to the “deep sea fleet,” the only hope to counter this threat are the Kanmusu, a group of girls who possess the spirit of Japanese warships. The story revolves around Fubuki, a destroyer who comes to the Chinjufu base to train with other Kanmusu. Watch as their stories unfold!",
+    "popularity": 10.954,
+    "poster_path": "/uaAFhipjK5NTukVZdBEpynGXopn.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 121246,
+            "logo_path": "/jt7YfHwB5k0bGVMsSy1WwJhI2hM.png",
+            "name": "ENGI",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-01-08",
+            "episode_count": 12,
+            "id": 74912,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/u9qIEJKiDzAJlvZDO5VQLAylwqv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.9,
+    "vote_count": 14
+}

@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/8Ep5ppQvqFvaMQrX3ENmM4jpNPI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 10926,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-04-18",
+    "last_episode_to_air": {
+        "air_date": "2005-04-18",
+        "episode_number": 26,
+        "id": 440633,
+        "name": "So Long Sonic",
+        "overview": "After the galaxy is saved, Sonic and his friends recalls memorable moments and anticipate their future.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/jhNUxBYRGo0FGo6ioCG44FZcbWN.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sonic X",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Jetix",
+            "id": 2445,
+            "logo_path": "/et3ZqCUvzqGVFIs6OiPlw2rxRbc.png",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 78,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ソニックX",
+    "overview": "Sonic and his friends team up with 12 year old Christopher to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.",
+    "popularity": 57.783,
+    "poster_path": "/707XPXlM71VOwXJLW3nuf8EELvt.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 31029,
+            "logo_path": "/hJBg4AKIAV0FdP6dFt4akwvOysY.png",
+            "name": "Sonic Team (JP)",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 17,
+            "id": 21315,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-04-06",
+            "episode_count": 26,
+            "id": 21312,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kP6kmJgy2hPDdAEasvIdFh6okXH.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2003-10-05",
+            "episode_count": 26,
+            "id": 21313,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/s6SPXKslkbQE3iBWyWdNQLVuAyR.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2005-03-12",
+            "episode_count": 26,
+            "id": 21314,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/sZe6IQ8dhe7bcDxcExaUzbfpAcc.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 193
+}

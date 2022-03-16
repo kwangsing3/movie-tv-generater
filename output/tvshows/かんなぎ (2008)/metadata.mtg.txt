@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/3fKOySzTgO17K3baMBguWV7fFbx.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2008-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.nagisama-fc.com/anime/index.html",
+    "id": 34714,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-12-27",
+    "last_episode_to_air": {
+        "air_date": "2008-12-27",
+        "episode_number": 13,
+        "id": 790625,
+        "name": "Jin, Lovestruck",
+        "overview": "Tsugumi persuades Jin to search for Nagi again with the help of the school's blog.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gQiYdUhD58TVx6xAk7MsDbNdLHn.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kannagi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "かんなぎ",
+    "overview": "An art student named Jin Mikuriya carves a statue from the wood of the Kannagi tree only to have the statue come to life in the form of a goddess, who has now taken over the statue. He and \"Nagi\" work together to destroy the impurities that are gathering in the town.",
+    "popularity": 11.164,
+    "poster_path": "/1if3gNQW5X9k8ne4j8ToGBZMGtp.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-05-27",
+            "episode_count": 1,
+            "id": 64215,
+            "name": "Specials",
+            "overview": "Unaired episode included in DVD Volume 7.",
+            "poster_path": "/20fdgQPkjmRyoqgqIbFNMaz8kIU.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-10-04",
+            "episode_count": 13,
+            "id": 45465,
+            "name": "Season 1",
+            "overview": "Nagi is the local deity spirit of the town of Kannagi and she was able to take a physical form when Jin Mikuriya carved a wooden statue of her out of a block of wood from the sacred tree of his family shrine. Nagi's mission is to cleanse the impurities that plague the land, but since her sacred tree has been cut down, she can only do this with Jin's help. While pursuing an impurity, Nagi is reunited with her sister, Zange, who happens to have converted to Catholicism. Zange's power is greater than Nagi's due to her sacred tree still being in tact and becoming a local celebrity taking confessions on the street at night. The only way for Nagi to regain her power is to gather her own followers and gain popularity.",
+            "poster_path": "/q28LzNlSt04POEdaVKkx4PMT2AJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 8
+}

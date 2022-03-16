@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/z3R9w9E4iQFtxw2FEhD9bH9adB4.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.arete.jp/index.html",
+    "id": 59297,
+    "imdb_id": "tt0306474",
+    "original_language": "ja",
+    "original_title": "アリーテ姫",
+    "overview": "Imprisoned by a sorcerer who fears she will rob him of eternal life, guileless young Princess Arete befriends a villager who helps her plan an escape.",
+    "popularity": 3.612,
+    "poster_path": "/9CwWnrUhK1MURz6mrpcvgIJQHMK.jpg",
+    "production_companies": [
+        {
+            "id": 12655,
+            "logo_path": "/7Rt8txBx60jJ0jjtOibGWmP22vo.png",
+            "name": "Shogakukan-Shueisha Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11671,
+            "logo_path": "/iRdYQdn1eunwV3qAs6RK5Mqwn8Z.png",
+            "name": "Studio 4°C",
+            "origin_country": "JP"
+        },
+        {
+            "id": 29177,
+            "logo_path": null,
+            "name": "Beyond C.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13412,
+            "logo_path": "/jLBwPLrniN24UV46WMtNTCTyd8c.png",
+            "name": "Imagica Lab.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1195,
+            "logo_path": null,
+            "name": "Omega Project",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2001-08-01",
+    "revenue": 0,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Princess Arete",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 28
+}

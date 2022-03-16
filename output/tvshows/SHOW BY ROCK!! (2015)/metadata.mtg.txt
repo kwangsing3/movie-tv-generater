@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/aam90rvNplzurTcClnETrs0o8x6.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2015-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://showbyrock-anime.com",
+    "id": 65036,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-18",
+    "last_episode_to_air": {
+        "air_date": "2016-12-18",
+        "episode_number": 12,
+        "id": 1432801,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/fFipt9ECAuwJsnDs5777Qg8IET9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Show by Rock!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "SHOW BY ROCK!!",
+    "overview": "Set in the glamorous metropolis Tokyo Midi City, where music—and the dream of musical superstardom—is everything. Here, “battle of the bands” is more than just a teen rivalry: Dozens of ensembles compete for the honor of playing atop the city’s highest tower.",
+    "popularity": 15.773,
+    "poster_path": "/mNruuU5nlxzf5XG0jfsJkWg94Ow.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-05",
+            "episode_count": 12,
+            "id": 97194,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/lfIpj5XC7Du681cWECxvipQNrBI.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-04-05",
+            "episode_count": 12,
+            "id": 73338,
+            "name": "Show by Rock!!",
+            "overview": "When a Gothic Lolita-clad catgirl cutie named Cyan stumbles into the music world, she too is swept up by the dream of fame. After joining forces with three other colourful characters – bunnygirl honour student Chuchu, shy doggirl Retoree, and adorable sheepgirl Moa—the quartet becomes Plasmagica, the freshest band on the scene. Armed with special instruments, the girls face off with other bands striving for stardom. Will the band find celebrity? Or are they doomed to be one-hit-wonders...",
+            "poster_path": "/qoXwF9BVjGTW7ArtykbUwmpcVR0.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2016-10-02",
+            "episode_count": 12,
+            "id": 99372,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/hA6YdI56OtNvL6e8vuA8keJVzo9.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.5,
+    "vote_count": 2
+}

@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/60qwrmzBoud1NlpqS78pVAQZsP7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "1999-10-05",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 34751,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2001-06-28",
+    "last_episode_to_air": {
+        "air_date": "2001-06-28",
+        "episode_number": 12,
+        "id": 791477,
+        "name": "Beyond the Clear Blue Sky",
+        "overview": "Can Kurumi keep Karinka and the battle-suit-equipped Uruka at bay and make it to the cello contest before Nako's turn comes up?",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Steel Angel Kurumi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 40,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "鋼鉄天使くるみ",
+    "overview": "A boisterous comedy starring the perfectly invincible \"Maidroid\" Kurumi, a product of science and magic and boy named Nakahito, they manage to get into all sorts of trouble.",
+    "popularity": 9.991,
+    "poster_path": "/h1Y5z4cofUU07pbrC2UxtEv3InF.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2001-04-12",
+            "episode_count": 12,
+            "id": 45520,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1999-10-05",
+            "episode_count": 28,
+            "id": 45517,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2001-04-12",
+            "episode_count": 12,
+            "id": 45518,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 3
+}

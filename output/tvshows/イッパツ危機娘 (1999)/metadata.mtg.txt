@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 2740371,
+            "credit_id": "6189fed239549a0043e0addc",
+            "name": "Shigemitsu Harada",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "1999-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 21985,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-10-28",
+    "last_episode_to_air": {
+        "air_date": "1999-10-28",
+        "episode_number": 16,
+        "id": 603777,
+        "name": "Deathmatch in the Electric Current Bath",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vbN1K9whXlLWqEWkEhrgJ4gk8uL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Miss Critical Moment",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "イッパツ危機娘",
+    "overview": "Kunyan lives her crazy life of misadventures from episode to episode. This comedy series is accompanied by a narrator who scientifically explains all that happens to her.",
+    "popularity": 2.548,
+    "poster_path": "/4FYHES0NVvoUyNIZcIc9ea5sJri.jpg",
+    "production_companies": [
+        {
+            "id": 1393,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "name": "TBS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1999-10-04",
+            "episode_count": 16,
+            "id": 31833,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

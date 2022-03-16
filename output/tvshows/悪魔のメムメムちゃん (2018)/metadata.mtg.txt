@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 2444972,
+            "credit_id": "5dba33b889d97f0011bf6565",
+            "name": "Keitarou Yotsuya",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2018-01-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.shonenjump.com/p/sp/1801/memumemu_anime/",
+    "id": 95034,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-01-23",
+    "last_episode_to_air": {
+        "air_date": "2018-01-23",
+        "episode_number": 1,
+        "id": 1971617,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bocA49DD9yF5YexQCliWCTN7TSM.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Akuma no Memumemu-chan",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "悪魔のメムメムちゃん",
+    "overview": "",
+    "popularity": 2.611,
+    "poster_path": "/fFAwGJbCx3AZJ3QyWhU7LElKISU.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-01-23",
+            "episode_count": 1,
+            "id": 135009,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fFAwGJbCx3AZJ3QyWhU7LElKISU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 2
+}

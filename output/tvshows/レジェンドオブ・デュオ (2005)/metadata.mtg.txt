@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2005-04-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 95135,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-07-07",
+    "last_episode_to_air": {
+        "air_date": "2005-07-07",
+        "episode_number": 12,
+        "id": 2356557,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Legend of Duo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "レジェンドオブ・デュオ",
+    "overview": "The fate of mankind is doomed in the early 21st century due to losing \"purana,\" an essence of living force supporting all life forms. Not willing to witness the extinction of mankind, a vampire named Duo disclosed the secret of purana to humans, saving the latter from destruction. However, just like Prometheus in Greek mythology got punished for bringing fire to mankind, Duo is punished for breaking the taboo. The vampire sent to punish him is Zieg, Duo's best friend, or, more than the best friend.",
+    "popularity": 3.486,
+    "poster_path": "/zXorgKIrDe8xg8YcmXak6pUYht0.jpg",
+    "production_companies": [
+        {
+            "id": 34894,
+            "logo_path": null,
+            "name": "Radix Ace Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-04-21",
+            "episode_count": 12,
+            "id": 135219,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4,
+    "vote_count": 2
+}

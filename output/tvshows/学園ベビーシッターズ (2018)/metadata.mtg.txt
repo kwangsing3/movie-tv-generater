@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/cldvWPSKtsFO4pWAk8q83AFnFcu.jpg",
+    "created_by": [
+        {
+            "id": 2269636,
+            "credit_id": "5c92a0c79251413bfd5da21e",
+            "name": "Hari Tokeino",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "http://gakubaby-anime.com/",
+    "id": 76124,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-25",
+    "last_episode_to_air": {
+        "air_date": "2018-03-25",
+        "episode_number": 12,
+        "id": 1434805,
+        "name": "",
+        "overview": "On a Sunday, Ryuichi heads out to hang out with his classmates, leaving Kotaro behind for the first time. Kotaro is sad about having to stay home with Saikawa, but things pick up when he finds the family library. Later, around Christmas, the kids are all waiting for Santa to come. Ryuichi wants to dress up as Santa to make Kotaro happy, but a few obstacles present themselves...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/oVNSsAtB3cQC9r83uojylT1fyRj.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "School Babysitters",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "学園ベビーシッターズ",
+    "overview": "After losing both parents in a fatal plane crash, teenager Ryuuichi Kashima must adjust to his new life as the guardian of his younger brother Kotarou. Although Ryuuichi is able to maintain a friendly and kindhearted demeanor, Kotarou is a reserved toddler still too young to understand the reality of the situation. At their parents' funeral, they are approached by Youko Morinomiya, the stern chairman of an elite academy, who decides to take them under her care.\n\nHowever, there is one condition Ryuuichi must fulfill in exchange for a roof over their heads and enrolment in the school—he must become the school's babysitter. In an effort to support the female teachers at the academy, a babysitter's club was established to look after their infant children; unfortunately, the club is severely short-staffed, so now not only is Ryuuichi responsible for his little brother, but also a handful of toddlers who possess dynamic personalities.",
+    "popularity": 25.508,
+    "poster_path": "/q7CVITR2Ca8kg54hZPGIEoctsrf.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-09-26",
+            "episode_count": 1,
+            "id": 118272,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/7QaXiSBn4IlWcVK3tkU62bPfel5.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-01-07",
+            "episode_count": 12,
+            "id": 97442,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/21E4GbPr6fV9m6JuUPh34lJFeCI.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 16
+}

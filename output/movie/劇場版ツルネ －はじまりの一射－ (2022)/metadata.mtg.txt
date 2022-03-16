@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 756234,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "劇場版ツルネ －はじまりの一射－",
+    "overview": "",
+    "popularity": 1.573,
+    "poster_path": "/xcLYr9sUqFS3XPcUk8WQdlPVfB8.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 192,
+            "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+            "name": "Shochiku",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-08-19",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Tsurune the Movie: The Beginning Arrow",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

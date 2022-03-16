@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1842931,
+            "credit_id": "59589a95c3a3682750019180",
+            "name": "Atsushi Tomioka",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1985-10-19",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 72638,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1986-04-19",
+    "last_episode_to_air": {
+        "air_date": "1986-04-19",
+        "episode_number": 26,
+        "id": 1333269,
+        "name": "SEE YOU AGAIN",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dream Star Button Nose",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "夢の星のボタンノーズ",
+    "overview": "Button Nose is a little girl who is home alone for a few days when a robot comes to gather strawberries. She is so excited by his spaceship she accidentally starts it, and goes on a voyage to his planet. When she lands she is brought before the king, who is a distant relative of hers and invites her to spend some time on the planet.",
+    "popularity": 2.036,
+    "poster_path": "/dAliWVczNZgvuyaYAuciCfN9HV4.jpg",
+    "production_companies": [
+        {
+            "id": 9300,
+            "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+            "name": "TV Asahi",
+            "origin_country": "JP"
+        },
+        {
+            "id": 8487,
+            "logo_path": "/bXWVZmW3RD6SAk0lFahPxNbp541.png",
+            "name": "Sanrio",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1985-10-19",
+            "episode_count": 26,
+            "id": 90057,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/l0h1DX5gL1l6Bj8qW8r8G2vrpQs.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

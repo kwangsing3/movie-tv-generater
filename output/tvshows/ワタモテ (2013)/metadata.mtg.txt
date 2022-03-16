@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/b4nrBmsf1Kc8KCJVe9BwSD8hVOL.jpg",
+    "created_by": [
+        {
+            "id": 1247470,
+            "credit_id": "5b2a9e6792514170af000334",
+            "name": "Shin Oonuma",
+            "gender": 2,
+            "profile_path": "/jj7DtwEIubS0vpqEh7zQ4f2Cnvl.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://watamote.jp/",
+    "id": 61755,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-09-24",
+    "last_episode_to_air": {
+        "air_date": "2013-09-24",
+        "episode_number": 12,
+        "id": 1027595,
+        "name": "Since I'm Not Popular, I'll Think About the Future",
+        "overview": "The culture festival is over, and it's back to life as usual. As fall sets in, Tomoko asks herself what exactly she's been doing all this time, and begins to feel like her life is flashing before her eyes... Making the decision to focus on the future instead of regretting the past, Tomoko finds a future plans questionnaire in her school bag. She decides to call Yuu-chan to see what she thinks, but is reminded of a past she'd have just as soon forgotten...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6xNiog1zDRwUvIoFye7dHx8dMol.jpg",
+        "vote_average": 9,
+        "vote_count": 2
+    },
+    "name": "WATAMOTE",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ワタモテ",
+    "overview": "At the tender age of 15, Kuroki Tomoko has already dated dozens and dozens of boys and she's easily the most popular girl around! The only problem is that absolutely none of that is real, and her perfect world exists only via dating games and romance shows. In fact, the sad truth is that she gets tongue tied just talking to people, and throughout middle school she's only had one actual friend. All of which makes Kuroki's entrance into the social pressure cooker of high school a new and special kind of hell. Because while Kuroki desperately wants to be popular, she's actually worse off than she would be if she was completely clueless as to how to go about it. After all, the things that work in \"otome\" games rarely play out the same way in reality, especially when the self-appointed \"leading lady\" isn't the paragon she thinks she is. There's not much gain and plenty of pain ahead, but even if it happens again and again, there's always someone else to blame in WATAMOTE ~ No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+    "popularity": 16.418,
+    "poster_path": "/ykhZOdUjdpFuQZqnN4QVWlTjX6o.jpg",
+    "production_companies": [
+        {
+            "id": 33751,
+            "logo_path": "/2caA5Y2tdgi69L61uQnrpCIjwde.png",
+            "name": "Sentai Filmworks",
+            "origin_country": "US"
+        },
+        {
+            "id": 18391,
+            "logo_path": null,
+            "name": "Daxa Production",
+            "origin_country": ""
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-10-22",
+            "episode_count": 1,
+            "id": 133547,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9NsRyX0HyECRplEawUH1qQzZmbT.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-07-09",
+            "episode_count": 12,
+            "id": 63937,
+            "name": "Season 1",
+            "overview": "Tomoko Kuroki is about as socially dysfunctional as it is possible for a first year high school girl to be. We start the story when she realizes she has attended high school for three months without even talking to anyone at all. Not all is lost, however, since she is irrepressibly optimistic about her chances to turn it around and live a fulfilling high school life.",
+            "poster_path": "/ykhZOdUjdpFuQZqnN4QVWlTjX6o.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 274
+}

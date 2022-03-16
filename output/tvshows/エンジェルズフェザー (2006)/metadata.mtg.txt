@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/pLqE93WnqFVd9iIrVAlPhXIzUhM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2006-04-28",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 94930,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-05-26",
+    "last_episode_to_air": {
+        "air_date": "2006-05-26",
+        "episode_number": 2,
+        "id": 2874133,
+        "name": "Seeking the Dawn's Light",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Angel's Feather",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エンジェルズフェザー",
+    "overview": "Hamura Shou, winner of the national kendo championship, is transferred to an only boys private school. He there thinks he meets his lost younger twin brother Kai, who strongly denies this. Strange things happen at the school somehow referring to a magical world called Winfield. After re-encountering his best friend Naoto and while meeting many new friends, which each have specific abilities, he soon discovers his own inheritance and the difficult tasks ahead.",
+    "popularity": 1.319,
+    "poster_path": "/mqmOwnLiHH3xl2nRqbgNXNpDGdM.jpg",
+    "production_companies": [
+        {
+            "id": 91747,
+            "logo_path": null,
+            "name": "VENET",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-04-28",
+            "episode_count": 2,
+            "id": 134797,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 5,
+    "vote_count": 1
+}

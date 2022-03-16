@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/iBvyAXiz01i8WmzI0XIvdRlqXP3.jpg",
+    "created_by": [
+        {
+            "id": 2636961,
+            "credit_id": "5ebc081caad9c2001f240f30",
+            "name": "Nozomi Watase",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2000-07-21",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 9297,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2001-02-09",
+    "last_episode_to_air": {
+        "air_date": "2001-02-09",
+        "episode_number": 26,
+        "id": 405997,
+        "name": "Goodbye, Melan Blue",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Brigadoon: Marin & Melan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BRIGADOON まりんとメラン",
+    "overview": "When the planet Brigadoon appears in the sky, Marin is attacked by weird mecha called Monomakia. In an old shrine, she finds an ampoule that contains Melan, an angular blue mecha who swears to defend her.",
+    "popularity": 7.89,
+    "poster_path": "/d6W819JW082nNYd8PeRMK3d8gT7.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2000-07-21",
+            "episode_count": 26,
+            "id": 19203,
+            "name": "Brigadoon season 1",
+            "overview": "",
+            "poster_path": "/mdGH8DfpBmuiJ4PhCpNv3UquFIn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 2
+}

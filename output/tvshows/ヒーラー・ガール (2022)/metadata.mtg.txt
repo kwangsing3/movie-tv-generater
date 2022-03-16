@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/fys5CoU54VbiRwygYDw3yUQmegK.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://healer-girl.jp/",
+    "id": 124572,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Healer Girl",
+    "next_episode_to_air": {
+        "air_date": "2022-04-04",
+        "episode_number": 1,
+        "id": 2916022,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヒーラー・ガール",
+    "overview": "",
+    "popularity": 2.512,
+    "poster_path": "/nh5bXwHeKPeNAMYaNlMgM79vxBg.jpg",
+    "production_companies": [
+        {
+            "id": 77832,
+            "logo_path": "/4qKMYPaifBLGWQq7mQYQBw40W1.png",
+            "name": "Studio 3Hz",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-04",
+            "episode_count": 1,
+            "id": 192979,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nh5bXwHeKPeNAMYaNlMgM79vxBg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/82hAXKATyuldbt4PxSNnHHy2BVO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/toradora/",
+    "id": 42916,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-03-26",
+    "last_episode_to_air": {
+        "air_date": "2009-03-26",
+        "episode_number": 25,
+        "id": 883637,
+        "name": "Toradora!",
+        "overview": "When Yasuko reconciles with her parents, the truth about Ryūji's father is revealed, inspiring him to have a traditional wedding with Taiga.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2dQMy6gJ8qcAouRm1UwbSu20ub8.jpg",
+        "vote_average": 8,
+        "vote_count": 3
+    },
+    "name": "Toradora!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "とらドラ！",
+    "overview": "Ryūji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\" One day, an embarrassing mistake causes the two students to cross paths. Ryūji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yūsaku Kitamura, who happens to be his best friend. But things only get crazier when Ryūji reveals that he has a crush on Minori Kushieda—Taiga's best friend! Toradora! is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.",
+    "popularity": 38.066,
+    "poster_path": "/2Z52nZaAQt1P7XJtu8fNlMXgdps.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-02-22",
+            "episode_count": 6,
+            "id": 52420,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/15ubTz61uJNh1TdB2wUwWaLtOxf.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-10-02",
+            "episode_count": 25,
+            "id": 52421,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jgLSYTAgjQgwBqLEw1bgr8vNxeK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 411
+}

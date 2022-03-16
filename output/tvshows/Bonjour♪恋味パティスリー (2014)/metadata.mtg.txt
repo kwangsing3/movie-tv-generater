@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/aYT5B45G1TDXol9umTve1xSkjAA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2014-10-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 84158,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-21",
+    "last_episode_to_air": {
+        "air_date": "2015-03-21",
+        "episode_number": 24,
+        "id": 1623071,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "BONJOUR♪Sweet Love Patisserie",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "Bonjour♪恋味パティスリー",
+    "overview": "Sayuri Haruno dreams of becoming a pastry chef and enrolls in Fleurir Confectionary Academy, an elite school located in Tokyo’s trendy Aoyama district. At Fleurir, she finds herself surrounded by charming boys, each one distinctly unique... As Sayuri pours her heart and soul into making her dream a reality, she encounters many happenings…",
+    "popularity": 4.254,
+    "poster_path": "/b0mVGaEbTQGQUMKNbXPEnMLvelK.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 56949,
+            "logo_path": null,
+            "name": "CONNECT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2014-10-11",
+            "episode_count": 24,
+            "id": 112852,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/b0mVGaEbTQGQUMKNbXPEnMLvelK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 5
+}

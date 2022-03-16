@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/eqcxXr69vrydzYuvNW7HHw9f2zz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://sakura-taisen-theanimation.com",
+    "id": 96371,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-19",
+    "last_episode_to_air": {
+        "air_date": "2020-06-19",
+        "episode_number": 12,
+        "id": 2200167,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mRgWet1zQRgZrvdmypPHxKPBxJI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sakura Wars the Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "新サクラ大戦 the Animation",
+    "overview": "In 1930, two years after the events of So Long, My Love, the Great Demon War results in the annihilation of the Imperial, Paris and New York Combat Revues' Flower Divisions. With Earth at peace and the revues' actions becoming public, the World Combat Revue Organization is formed with several international divisions; a biennial international Combat Revue tournament has been organized. Ten years later in 1940, Imperial Japanese Navy captain Kamiyama Seijuurou is assigned as the captain of the new Imperial Combat Revue's Flower Division in Tokyo, which consists of: Amamiya Sakura, a swordswoman and new recruit; Shinonome Hatsuho, a shrine maiden and the most popular actress; Anastasia Palma, a newly-transferred Greek actress; Mochizuki Azami, a ninja prodigy from the Mochizuki clan; and Claris, a Luxembourgian noblewoman. The division once again faces a new demon invasion and participates in the upcoming tournament–while trying to keep their home at the Imperial Theater open.",
+    "popularity": 6.649,
+    "poster_path": "/eUUZykrRKOmRW9PJR7Tj1U8rVra.jpg",
+    "production_companies": [
+        {
+            "id": 113750,
+            "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+            "name": "SEGA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 87079,
+            "logo_path": null,
+            "name": "Tencent",
+            "origin_country": ""
+        },
+        {
+            "id": 43363,
+            "logo_path": null,
+            "name": "Sanzigen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-03",
+            "episode_count": 12,
+            "id": 137897,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tUUC6pPLZfJWzfVGtd8B8yUaWSJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 5
+}

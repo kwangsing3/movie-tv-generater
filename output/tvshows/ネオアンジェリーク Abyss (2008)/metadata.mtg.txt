@@ -1,0 +1,137 @@
+{
+    "adult": false,
+    "backdrop_path": "/2JuREEIuLMapjtE8qRb9FE1NICU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-04-06",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.gamecity.ne.jp/neoromance/tv/neo/index.htm",
+    "id": 35154,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-09-28",
+    "last_episode_to_air": {
+        "air_date": "2008-09-28",
+        "episode_number": 13,
+        "id": 797973,
+        "name": "An Eternal Arcadia",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Neo Angelique Abyss",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVQ",
+            "id": 822,
+            "logo_path": "/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVh",
+            "id": 938,
+            "logo_path": "/vEUZNYjuSn0iTQyZ3SLNfVgI9Z8.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ネオアンジェリーク Abyss",
+    "overview": "Arcadia is plagued with evil, life-draining demons called Thanatos  and a vast lack of Purifiers to exterminate them all. While attending  school, Angelique attracts the eye of a man who intends to turn the  tides to the people's favor. What lies within her is the key to  Arcadia's survival.",
+    "popularity": 5.127,
+    "poster_path": "/5IkPBvZkdG7lw3HI6QheR0quAiI.jpg",
+    "production_companies": [
+        {
+            "id": 10804,
+            "logo_path": "/f1mRiEP0loBe1n4FqmAeUiC68kI.png",
+            "name": "Yumeta Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2008-04-06",
+            "episode_count": 13,
+            "id": 45923,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5IkPBvZkdG7lw3HI6QheR0quAiI.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-07-07",
+            "episode_count": 13,
+            "id": 45924,
+            "name": "Second Age",
+            "overview": "",
+            "poster_path": "/9WGuIzw6Fo3cjTjWN9fz402LDkY.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

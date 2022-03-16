@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/12LtsRwhb6XJC0BXEVSNKTkYnQG.jpg",
+    "created_by": [
+        {
+            "id": 1683570,
+            "credit_id": "5dc4dea68d22fc00143f27fc",
+            "name": "Yuki Suetsugu",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2011-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.ntv.co.jp/chihayafuru/",
+    "id": 45247,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-24",
+    "last_episode_to_air": {
+        "air_date": "2020-03-24",
+        "episode_number": 24,
+        "id": 2193918,
+        "name": "When Winds Send Waves Crashing",
+        "overview": "Taichi has told Chihaya about the feelings he had kept secret for so long. Now he's left the karuta club, and Chihaya's regret over failing to notice how he felt leaves her unable to play. But some new members have joined Mizusawa's karuta club, and among them is Tamaru Midori, a Class A player. She is a promising new member, but also a troublemaker.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/lqxPZ3ZLYjK5tbdCLF1q4UT7Oms.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Chihayafuru",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 74,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ちはやふる",
+    "overview": "6th-year grade-schooler Ayase Chihaya's dream is for her sister to be Japan's top model. However, transfer student Wataya Arata admonishes her that a dream must be about one's own self. Thus, she takes up karuta, a Japanese card game, competitively. Together with Arata and Mashima Taichi, Chihaya's childhood friend, they have great fun playing each other, but separate after graduation.\n\n4 years later, Chihaya returns to town. Although Arata no longer plays the game, she believes that they will eventually reunite as long as she continues karuta. Together with Taichi, she establishes the Mizusawa High-school Karuta Club.",
+    "popularity": 32.55,
+    "poster_path": "/rVZipy8jfpH4BUnnv6O5n0alNK1.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-09-13",
+            "episode_count": 2,
+            "id": 53846,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9BNowBgco3CNPBukJEWMuyXpm4O.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-10-05",
+            "episode_count": 25,
+            "id": 53844,
+            "name": "Chihayafuru",
+            "overview": "",
+            "poster_path": "/jHV4XWxr437uINl00pbCXM486Lr.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2013-01-12",
+            "episode_count": 25,
+            "id": 53845,
+            "name": "Chihayafuru 2",
+            "overview": "",
+            "poster_path": "/h3jmLJbg2To62sIAMFv95BAf658.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2019-10-22",
+            "episode_count": 24,
+            "id": 117027,
+            "name": "Chihayafuru 3",
+            "overview": "",
+            "poster_path": "/5vuTIKiPX8NtHOoKFILgCW9AvLH.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 27
+}

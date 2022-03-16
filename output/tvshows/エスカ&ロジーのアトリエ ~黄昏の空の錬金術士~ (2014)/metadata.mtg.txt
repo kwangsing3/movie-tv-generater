@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/Aohmg3ECsjJlcWV4bjFNjJZv9bN.jpg",
+    "created_by": [
+        {
+            "id": 116750,
+            "credit_id": "5383c1450e0a2657cd006055",
+            "name": "Yoshiaki Iwasaki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2014-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://atelier-ps3.jp/escha-logy/anime/",
+    "id": 60819,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-26",
+    "last_episode_to_air": {
+        "air_date": "2014-06-26",
+        "episode_number": 12,
+        "id": 989329,
+        "name": "It’s Our Promise!",
+        "overview": "Escha and her friends return to the ruins to face Flameu. They attempt to free her from what binds her to the ruins, but in the end, it is up to Flameu.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cwiqYuVgE9a5QVvL9Z2LJdu0sHv.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Atelier Escha & Logy : Alchemists of the Dusk Sky",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エスカ&ロジーのアトリエ ~黄昏の空の錬金術士~",
+    "overview": "In order to survive the eventual arrival of the \"Dusk End,\" people of the western reaches of the \"Land of Dusk\" devoted their efforts to rediscover and recreate lost alchemic technologies. Those technologies were then gathered in the alchemy city known as \"Central,\" where research was conducted on how to halt the advance of the twilight. Having learned the newest alchemic techniques in Central, young alchemist Logy requested a transfer to an understaffed town of Colseit on the frontier to make use of his abilities. There he meets Escha, an apprentice girl assigned to the Development Department. Together, the two make a promise to use their alchemic techniques to bring success to the Development Department.",
+    "popularity": 5.216,
+    "poster_path": "/pShJY1Ex8r8RkmPSgPrdTDBdXJa.jpg",
+    "production_companies": [
+        {
+            "id": 25504,
+            "logo_path": null,
+            "name": "Studio Gokumi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-10",
+            "episode_count": 12,
+            "id": 60802,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wRVkIZibvJLw2KsjPm9WbpkHpdY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 24
+}

@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/oid51idba72DqvuyqGfXqxMZfz8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://king-cr.jp/special/joshiraku/",
+    "id": 79040,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-28",
+    "last_episode_to_air": {
+        "air_date": "2012-09-28",
+        "episode_number": 13,
+        "id": 1477141,
+        "name": "Character Guts / Might Akiba / Extra Lectures",
+        "overview": "As the girls come to terms that the show has reached its last episode, a new character appears: an exasperating girl named Uzannu Uzattei. While discussing whether or not \"once\" is truly enough, Uzannu's personality irritates everyone and threatens the character balance of the show. After the girls drive her away, they visit Akihabara. Later, the girls debate about how some things should be left as they are. Finally, the show ends with one last rakugo performance by Marii.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qq5ng36fTv6XchzBzgpuBNQKbR3.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Joshiraku",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "じょしらく",
+    "overview": "Joshiraku, abbreviation of joshi rakugo, is a satirical comedy that follows the everyday life of a group of rakugoka girls. A group of girls discuss random things and usually reach an unusual or humorous conclusion that's far from the initial discussion topic.",
+    "popularity": 8.271,
+    "poster_path": "/67zsN2RRa187v8fwYxlN8c8T19X.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-02-08",
+            "episode_count": 1,
+            "id": 174365,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/fRr3zz0q0soELqSjMrcNHkTJg9S.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-07-06",
+            "episode_count": 13,
+            "id": 102906,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fRr3zz0q0soELqSjMrcNHkTJg9S.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 5
+}

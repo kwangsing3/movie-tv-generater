@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/wfesjHF7JEsJ0dQVqPwydm3T2r.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 57757,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-09-17",
+    "last_episode_to_air": {
+        "air_date": "2013-09-17",
+        "episode_number": 12,
+        "id": 944719,
+        "name": "Romance",
+        "overview": "Now that the college entrance exams are over, Ema thinks carefully about what her brothers mean to her and goes through with her earlier decision to be more open with them.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Brothers Conflict",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブラザーズ コンフリクト",
+    "overview": "Imagine being the only child your whole life, and then suddenly finding yourself gaining 13 step-brothers!\n\nEma Hinata's lonely life takes a new and exciting turn when her single father Rintarou Hinata, a famous adventurer, falls in love and marries Miwa Asahina, an apparel maker. In order to give the newly-wed couple space, Ema starts living with her new step-brothers in a mansion called Sunrise Residence and for the first time, experiences being part of a lively and big family. She finally feels safe and content.\n\nEach brother has his own unique personality, and Ema soon realizes that it is not only family love that grows between them, but romance as well. Which brother will be the one to steal her heart in the end?",
+    "popularity": 11.119,
+    "poster_path": "/bkngCjl9v9ierjyuGcPI1Ubp20m.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-02-26",
+            "episode_count": 3,
+            "id": 91357,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-07-02",
+            "episode_count": 12,
+            "id": 58917,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hv4U7coBEby904vgCMUs9YpiTa6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 50
+}

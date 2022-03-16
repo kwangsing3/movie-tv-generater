@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/jw8CN2hgq3ckvHxgKTqhFwEBBcl.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2015-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://etotama.com",
+    "id": 76494,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-25",
+    "last_episode_to_air": {
+        "air_date": "2015-06-25",
+        "episode_number": 12,
+        "id": 1420884,
+        "name": "",
+        "overview": "After receiving the last Sol/Lull Seal she needed, Nya-tan challenges Chu-tan to battle. What was the technique Nya-tan came up with to help Chu-tan long ago? After two thousand years of passing each other by, the two of their hearts will come face-to-face once more!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fYBNfEkF7brbPCyHK35OfLq2DS.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "ETOTAMA",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "えとたま 干支魂",
+    "overview": "Since ancient times, Japan has upheld the tradition of the 12 Zodiac signs. Eto-musumes (Zodiac girls), who have the appearance and behavior of the animals of the Zodiac, are pure hearted messengers who act as a bridge between humans and the gods. Every 60 years, the “ETM 12” tournament takes place in Tokyo’s Akihabara district, where aspiring girls from all over Japan gather for the chance to become the next zodiac sign.",
+    "popularity": 11.698,
+    "poster_path": "/xhl5Igq6fl5eqm5W9ByxRHOkl5L.jpg",
+    "production_companies": [
+        {
+            "id": 109576,
+            "logo_path": "/sOIxEPrn2MMo74YP03XlYh41v0V.png",
+            "name": "Encourage Films",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-04-09",
+            "episode_count": 12,
+            "id": 98113,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/an2HbTC3Xe8kTywUfpIfjkTcwt8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 3
+}

@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/7QCAeg4BPXyBqwdCCVu9Y8rBQlA.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-09-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80992784",
+    "id": 99769,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-09-17",
+    "last_episode_to_air": {
+        "air_date": "2020-09-17",
+        "episode_number": 7,
+        "id": 2401970,
+        "name": "Pride",
+        "overview": "Ethan makes his way to the Tainted Mountain to face the dragon and reclaim his stolen heart, or die trying.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/v4W4lM6BsFXFRsHNWQUhVUraqqv.jpg",
+        "vote_average": 1,
+        "vote_count": 1
+    },
+    "name": "Dragon's Dogma",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラゴンズドグマ",
+    "overview": "Ethan sets out to vanquish the Dragon that took his heart, but with every demon he battles, the more he loses his humanity.",
+    "popularity": 15.57,
+    "poster_path": "/m8VA5fudLl3jXywxxSsE4g5ltYS.jpg",
+    "production_companies": [
+        {
+            "id": 124255,
+            "logo_path": null,
+            "name": "Sublimation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-09-17",
+            "episode_count": 7,
+            "id": 143978,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/h74S7GZigNGo8QaTVPcObHc4sY6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 131
+}

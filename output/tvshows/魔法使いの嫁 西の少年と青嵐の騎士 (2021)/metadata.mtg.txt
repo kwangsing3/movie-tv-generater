@@ -1,0 +1,133 @@
+{
+    "adult": false,
+    "backdrop_path": "/wsaiduIOtyhlySRp3tg5tCYcw3m.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2021-09-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://magus-bride.jp/wildhunt/",
+    "id": 120471,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-10",
+    "last_episode_to_air": {
+        "air_date": "2022-03-10",
+        "episode_number": 2,
+        "id": 2783713,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dTcjsyTAi2FUH4w1tRiZjAkqj8j.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm",
+    "next_episode_to_air": {
+        "air_date": "2022-09-10",
+        "episode_number": 3,
+        "id": 2783714,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法使いの嫁 西の少年と青嵐の騎士",
+    "overview": "Gabriel, an ordinary boy who just moved from London, was bored with his surrounding, until one day he saw a wisp of purple smoke from the window of his house. At that time, he hurriedly chased the smoke, looking for any kind of freedom and fun. Though they should not, the world of boys and wizards soon intersect...",
+    "popularity": 21.546,
+    "poster_path": "/dVBxPJVLLcYOKVdHWYj5lPsKrGv.jpg",
+    "production_companies": [
+        {
+            "id": 150577,
+            "logo_path": "/vN9g5ueeV4c8NnCJIprQAldLFsN.png",
+            "name": "Studio Kafka",
+            "origin_country": "JP"
+        },
+        {
+            "id": 161320,
+            "logo_path": "/itvRP61jpTifMztVZt7Zr0EDbR9.png",
+            "name": "MAG Garden",
+            "origin_country": "JP"
+        },
+        {
+            "id": 120469,
+            "logo_path": "/tyNprnyeLLQuNfdqhFf4UEiPayF.png",
+            "name": "Twin Engine",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21346,
+            "logo_path": "/zFOXiwgrIakUsgWqbsDGgo6JEiw.png",
+            "name": "FlyingDog",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150372,
+            "logo_path": null,
+            "name": "Sound Team・Don Juan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 155361,
+            "logo_path": null,
+            "name": "The Ancient Magus' Bride OAD Production Committee",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-09-10",
+            "episode_count": 3,
+            "id": 185279,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7hGQZyoJxxeuLnfHsSWCJGc1hh.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

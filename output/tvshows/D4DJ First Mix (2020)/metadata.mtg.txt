@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/A7RG8rubACNoU30AO0I9fr5JN36.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://anime.d4dj-pj.com",
+    "id": 102655,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-01-29",
+    "last_episode_to_air": {
+        "air_date": "2021-01-29",
+        "episode_number": 13,
+        "id": 2670139,
+        "name": "Groovy Mix",
+        "overview": "Sunset Stage, the stage of their dreams. Rinku and her fellow Happy Around! members challenge the undisputed champions!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/krQnbuEoBmD1HT0XLO794Zdlxls.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "D4DJ First Mix",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "D4DJ First Mix",
+    "overview": "Rinku Aimoto, who has a habit of saying \"Happy Around!\", has returned to Japan from abroad and enrolls at Yoba Academy where DJing is popular. She is deeply moved by a DJ concert she sees there and decides to form a unit of her own with DJ Maho Akashi, VJ Muni Ohnaruto and keyboardist Rei Togetsu. While interacting with other DJ units like Peaky P-key and Photon Maiden, Rinku and her friends aim for the high stage!",
+    "popularity": 15.439,
+    "poster_path": "/stpFNjCgjyQsUeYDmqAagmx6Iia.jpg",
+    "production_companies": [
+        {
+            "id": 43363,
+            "logo_path": null,
+            "name": "Sanzigen",
+            "origin_country": "JP"
+        },
+        {
+            "id": 42196,
+            "logo_path": "/nQNmHvcmaT0zk1Rf0TYtLYO5MpI.png",
+            "name": "Bushiroad",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-30",
+            "episode_count": 13,
+            "id": 149229,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cdwGRZbx3bf1HPGINlztepouVAV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 3
+}

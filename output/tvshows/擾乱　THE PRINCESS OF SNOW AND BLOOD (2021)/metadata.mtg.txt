@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/jyOLGAkO53ium777usyAmpJUe1E.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2021-03-31",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://joran.jp",
+    "id": 117945,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-16",
+    "last_episode_to_air": {
+        "air_date": "2021-06-16",
+        "episode_number": 12,
+        "id": 2845202,
+        "name": "Confidential File 707, The Land of Blessed Words",
+        "overview": "Asahi is alive, but Sawa has seen too much to ignore the crimes perpetrated by Jin Kuzuhara in the name of the Tokugawa regime. Hoping to secure a brighter future for the girl she has adopted as a sister, the assassin once known as Yukimura takes up her sword once again...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4GCnisRdIYycraKQIebKNetX4hD.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Joran: The Princess of Snow and Blood",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "擾乱　THE PRINCESS OF SNOW AND BLOOD",
+    "overview": "The year is 1931. Prince Tokugawa Yoshinobu holds absolute control over Japan. Remnants of the Meiji era’s culture can be seen around the city, but scientific technology and Japanese esoteric cosmology Onmyodo are also developing. Yet lurking behind the glitz is Kuchinawa, a dissident group planning the assassination of the prince. Tasked to extinguish these dissidents is Nue, the government’s secret executioner group. Sawa Yukimura, who works for this organization, suffered at the hands of the Kuchinawa boss. Her entire family was murdered and she dedicated her life to avenging their death.",
+    "popularity": 24.622,
+    "poster_path": "/tvM2DRD7QXMb15VM5HTcPj81o2C.jpg",
+    "production_companies": [
+        {
+            "id": 148988,
+            "logo_path": null,
+            "name": "Bakken Record",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-31",
+            "episode_count": 12,
+            "id": 179418,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gXrGwyldMJRslgk7mf3auqnnF0u.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 21
+}

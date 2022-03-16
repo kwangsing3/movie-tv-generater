@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/lA9Sr2EFarTCQ1rcdixbnpEU4If.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        7,
+        12
+    ],
+    "first_air_date": "2010-09-17",
+    "genres": [
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://puyukai.com/agukaru",
+    "id": 76704,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-21",
+    "last_episode_to_air": {
+        "air_date": "2015-03-21",
+        "episode_number": 20,
+        "id": 1425024,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/yroZeBLeHpDxa9hUCCvXIMAHIrs.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Agriculture Angel BARAKI",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 25,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あぐかる",
+    "overview": "Sanae Baraki is a farmer’s daughter who can see spirits. Every day she works on her field together with spirits to produce the best agricultural goods. However, there is a group that aims to stop her. With the blessing of the earth, she transforms into Agriculture Angel Baraki.",
+    "popularity": 2.058,
+    "poster_path": "/g9AhHcFMl0JDhLsfyTJXg3HyIFe.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-03-28",
+            "episode_count": 1,
+            "id": 98570,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-09-17",
+            "episode_count": 5,
+            "id": 98569,
+            "name": "Agriculture Angel BARAKI",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-06-06",
+            "episode_count": 20,
+            "id": 98571,
+            "name": "Agriculture Angel BARAKI: Play with Ibaraki",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

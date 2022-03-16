@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/ufv0MR6ghGbeM7ZAQbEE173WvWU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        10
+    ],
+    "first_air_date": "2021-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://space--academy.com/",
+    "id": 194876,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-02",
+    "last_episode_to_air": {
+        "air_date": "2022-03-02",
+        "episode_number": 32,
+        "id": 3589891,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xijClUGgWCNKBfXa9nz1xkcxzwT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Space Academy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK Educational TV",
+            "id": 622,
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 32,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "宇宙なんちゃら こてつくん",
+    "overview": "The story follows the daily life of Kotetsu-kun, who aspires to be an astronaut, and friends at the Animal Space Academy as they all pursue their dreams.",
+    "popularity": 1.771,
+    "poster_path": "/w9bXsTShZ4Fo4blHtdn8OPVd1MM.jpg",
+    "production_companies": [
+        {
+            "id": 103564,
+            "logo_path": "/t0dnUMFPjzPStIkEM3Pm1rGLIQ8.png",
+            "name": "Fanworks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-07",
+            "episode_count": 32,
+            "id": 282906,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/w9bXsTShZ4Fo4blHtdn8OPVd1MM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

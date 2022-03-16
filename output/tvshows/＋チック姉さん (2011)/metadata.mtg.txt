@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/vqZ8oWlr6Ufcn4T6A1kNj3roHMq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2011-05-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 54310,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-07-26",
+    "last_episode_to_air": {
+        "air_date": "2012-07-26",
+        "episode_number": 12,
+        "id": 925319,
+        "name": "Do Not Bother Me-tic",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2cmmiadNDgfJFGzro1QtQBQwBGW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Plastic Elder Sister",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "＋チック姉さん",
+    "overview": "Iroe Genma is a high school student often referred to as the \"Elder Sister\" despite her short height. She is the president of the school Model Club, which is dedicated to building plastic models of various things such as cars, boats, and robots.\n\nWith her two classmates, Hazuki \"Okappa\" Okamoto and Makina \"Makimaki\" Sakamaki, the small group are often sidetracked.",
+    "popularity": 10.178,
+    "poster_path": "/tqIztRVmeHz3PPs6eRvPuAo3kln.jpg",
+    "production_companies": [
+        {
+            "id": 71226,
+            "logo_path": null,
+            "name": "TYO Animations",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-08-22",
+            "episode_count": 1,
+            "id": 56486,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-05-16",
+            "episode_count": 12,
+            "id": 56487,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tqIztRVmeHz3PPs6eRvPuAo3kln.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 11
+}

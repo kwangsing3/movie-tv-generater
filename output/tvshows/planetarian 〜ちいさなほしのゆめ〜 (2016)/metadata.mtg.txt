@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/fvUqaKNw9pJGx5VmtLF4VQSp6eH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        18
+    ],
+    "first_air_date": "2016-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://planetarian-project.com/",
+    "id": 67078,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-08-04",
+    "last_episode_to_air": {
+        "air_date": "2016-08-04",
+        "episode_number": 5,
+        "id": 1205355,
+        "name": "Yumemi's Wish",
+        "overview": "Yumemi and the Junker finally reach the city exit, only to find it guarded by an autonomous killer robot. With the element of surprise lost, the Junker only has a few weapons left - two armor-piercing grenades, and hope for a new way of life.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uVPyPgGZCkcFUYeXHVLPtguXVuj.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Planetarian: The Reverie of a Little Planet",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "planetarian 〜ちいさなほしのゆめ〜",
+    "overview": "It is thirty years after the failure of the Space Colonization Program. Humanity is nearly extinct. A perpetual and deadly Rain falls on the Earth. Men known as \"Junkers\" plunder goods and artifacts from the ruins of civilization. One such Junker sneaks alone into the most dangerous of all ruins—a \"Sarcophagus City.\" In the center of this dead city, he discovers a pre-War planetarium. And as he enters he is greeted by Hoshino Yumemi, a companion robot. Without a single shred of doubt, she assumes he is the first customer she's had in 30 years. She attempts to show him the stars at once, but the planetarium projector is broken. Unable to make heads or tails of her conversation, he ends up agreeing to try and repair the projector...",
+    "popularity": 5.978,
+    "poster_path": "/A2s9ISKfIHzDN8pH3ZeqXdoX8LL.jpg",
+    "production_companies": [
+        {
+            "id": 45188,
+            "logo_path": "/aPH68PzQDtz7QorAU369IlxwgnU.png",
+            "name": "David Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 79196,
+            "logo_path": null,
+            "name": "Visual Art's",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-20",
+            "episode_count": 1,
+            "id": 78445,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/iOVrOPuwqE0ZU6eohHlaAJyqux1.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-07-07",
+            "episode_count": 5,
+            "id": 78432,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/25m8z3BaA8CD9qyAHiFrlPT8gIq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 16
+}

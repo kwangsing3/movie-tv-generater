@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/zKItfoF4uNsokHjQBCbRfccsDV0.jpg",
+    "created_by": [
+        {
+            "id": 1278991,
+            "credit_id": "584da2a592514118e9000d3b",
+            "name": "Masayuki Sakoi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.matoi-anime.com/",
+    "id": 68402,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-20",
+    "last_episode_to_air": {
+        "air_date": "2016-12-20",
+        "episode_number": 12,
+        "id": 1249475,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kPaEtQlb6ZJsFgomefpjN9Xfbqz.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Matoi the Sacred Slayer",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "装神少女まとい",
+    "overview": "There are two girls who are in training to become Miko at the Tema Shrine: Matoi Sumeragi and Yuma Kusanagi. Matoi Sumeragi lived with her grandparents on her father's side because her mother left her since she was young, until the second year of junior high school when she finally was able to live with her father since three months ago. Matoi yearns to live a simple life. Yuma Kusanagi is the daughter of a family who lives at the shrine and is expected to become the next Miko. She knows that her ancestor used Taimakou, a technique to exorcise evil spirits and invites Matoi to challenge the ritual called Kamikagari using the skill of Taimakou. One day after school on the way to the shrine, the two girls go to meet Yuma's parents, but discover that they have fallen in pain. Shingo, who is Matoi's father, and a police officer involved in investigating the case, discover a man giving off an unusual aura. To stop this man, Yuma calls out Kamikagari, but something happens to Matoi. The girl who yearns for a simple life has a power to exorcise evil spirits? In order to get her simple life back, she goes on a task to exorcise evil spirits.",
+    "popularity": 9.229,
+    "poster_path": "/n5d3V19lP8mqzwfQwtMYGcpPk9O.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-12-27",
+            "episode_count": 2,
+            "id": 159310,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/txfy9iTotnCSi2LiVctZFhRTht0.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-10-04",
+            "episode_count": 12,
+            "id": 81395,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/p5eSyrsO3UCx2VB5y00ZN4hgzSv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 4
+}

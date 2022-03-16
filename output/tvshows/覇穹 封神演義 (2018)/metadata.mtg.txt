@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/sg32NCV1quIGEDbw2SEG1VYGUp6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.tvhoushin-engi.com/",
+    "id": 75863,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-29",
+    "last_episode_to_air": {
+        "air_date": "2018-06-29",
+        "episode_number": 23,
+        "id": 1454899,
+        "name": "Aged Symbols and Diverging Winds",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qwrKunc4ZJhmzilQZ3doTk4jxdx.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "HAKYU HOSHIN ENGI",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 23,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "覇穹 封神演義",
+    "overview": "When his clan is wiped out by a beautiful demon, young Taikobo finds himself in charge of the mysterious Houshin Project. Its mission: find all immortals living in the human world and seal them away forever. But who do you trust—and whose side are you really on—when you've been trained to hunt demons by a demon?",
+    "popularity": 9.364,
+    "poster_path": "/hF5wnFp60yl4rHMOP3g0zVCakxh.jpg",
+    "production_companies": [
+        {
+            "id": 92992,
+            "logo_path": null,
+            "name": "C-Station",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-02-23",
+            "episode_count": 2,
+            "id": 142281,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/cwVpIiVpiRqLY5ONd6aQGFQM5yo.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-01-11",
+            "episode_count": 23,
+            "id": 96899,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zgFlYGGoFG34EL9kCWR6Nesdakt.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 4
+}

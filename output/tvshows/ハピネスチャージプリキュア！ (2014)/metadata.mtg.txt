@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/jjuGglIpsHFbtQm8c2qZnwCl2B.jpg",
+    "created_by": [
+        {
+            "id": 1057579,
+            "credit_id": "5efb58537b7b4d0036552255",
+            "name": "Tatsuya Nagamine",
+            "gender": 2,
+            "profile_path": "/hiSUYqVI52RDFyaUPzfR85fQKZg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-02-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/happinesscharge_precure/",
+    "id": 105468,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-01-25",
+    "last_episode_to_air": {
+        "air_date": "2015-01-25",
+        "episode_number": 49,
+        "id": 2331669,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tCHevG2xH6t3c67SCodkA6eX9BH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Happiness Charge Precure!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハピネスチャージプリキュア！",
+    "overview": "",
+    "popularity": 11.591,
+    "poster_path": "/tnxDY9eDM7GG0dN9KNCnlZYZgC2.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-02-02",
+            "episode_count": 49,
+            "id": 155090,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ldxwQdJAUSoQPMA9ViUuX7wKSQF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

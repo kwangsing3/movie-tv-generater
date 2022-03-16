@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/i1mNLSp7Xf0RRlKhdg0hzCaTog8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-07-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 42510,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-25",
+    "last_episode_to_air": {
+        "air_date": "2011-09-25",
+        "episode_number": 12,
+        "id": 880920,
+        "name": "I Love You!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/niBxikOTyzPKQVxrtSIQtZ6agpn.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "R-15",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "R-15",
+    "overview": "At a school full of geniuses from varying fields of study, Taketo Akutagawa has a special – albeit different – genius as well: writing harem novels. Now amongst the other geniuses, he aims win the interclass competition and be recognized as the world’s greatest harem writer.",
+    "popularity": 3.692,
+    "poster_path": "/5SjAtNsvP9U608YU8Yslo6Ezs0g.jpg",
+    "production_companies": [
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-12-15",
+            "episode_count": 1,
+            "id": 52238,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9UCsFksMAPtLnhaHSDYag4t4kFQ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-07-10",
+            "episode_count": 12,
+            "id": 52239,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4iyP3yI1WUVWzufI93ubg1N9QYl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 3
+}

@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/8F3SWO6YJiklaokJHxQgoOWK8TO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.emma-victorian.com",
+    "id": 29310,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-07-03",
+    "last_episode_to_air": {
+        "air_date": "2007-07-03",
+        "episode_number": 12,
+        "id": 1427357,
+        "name": "Flower",
+        "overview": "Fire breaks out at the Mölders’ home, and Emma rushes to help! Meanwhile, William has his hands tied trying to save the family business; today is the last day before the railway project is closed. But today is also the day when Emma and William must either meet at the fountain, or never again… When the appointed time comes, what will they choose?",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/uyIUIuOoAOQQUjpn5OMFZ0FLuuU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Emma: A Victorian Romance",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "英國戀物語エマ",
+    "overview": "In 19th-century London, class lines are sharply drawn, and the social standing to which people are born dictates the path their lives will follow. Emma, an honest and hardworking young maid, never felt her place in life to be a burden. But then she met William, a member of the gentry and the eldest son of a wealthy family. His warm smile and earnest affection threaten to capture her heart... but can love truly conquer all?",
+    "popularity": 9.131,
+    "poster_path": "/u43TPGInj6J6onUd415oATvoPgS.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-04-10",
+            "episode_count": 1,
+            "id": 112042,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-04-03",
+            "episode_count": 12,
+            "id": 40686,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/x3WOGDxQ4njgfvezHNIvjIhAmKM.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2007-04-17",
+            "episode_count": 12,
+            "id": 40687,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/okiRCDh6ieW3uqgw2qGPic1iqgW.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 5
+}

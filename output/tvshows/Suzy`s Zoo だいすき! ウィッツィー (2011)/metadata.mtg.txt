@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/ydhxSI5m207odJ06gy6cBIeYtoy.jpg",
+    "created_by": [
+        {
+            "id": 2985553,
+            "credit_id": "60323c620a517c0041944d16",
+            "name": "Suzy Spafford",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2011-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/suzyzoo/",
+    "id": 79147,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-18",
+    "last_episode_to_air": {
+        "air_date": "2011-09-18",
+        "episode_number": 25,
+        "id": 2745036,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Suzy's Zoo: Daisuki! Witzy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Suzy`s Zoo だいすき! ウィッツィー",
+    "overview": "",
+    "popularity": 1.4,
+    "poster_path": "/k3bE9s0hsV3pqZJDhmYQZBuIgHb.jpg",
+    "production_companies": [
+        {
+            "id": 149697,
+            "logo_path": null,
+            "name": "Digital Media Lab",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-12-02",
+            "episode_count": 1,
+            "id": 206169,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-04-03",
+            "episode_count": 25,
+            "id": 103100,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

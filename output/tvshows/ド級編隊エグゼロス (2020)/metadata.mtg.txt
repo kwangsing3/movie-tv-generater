@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/kDssH6sbp3cL3qogtTBLp7s9g63.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://hxeros.com/",
+    "id": 96120,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-09-26",
+    "last_episode_to_air": {
+        "air_date": "2020-09-26",
+        "episode_number": 12,
+        "id": 2335898,
+        "name": "HxEROS Showdown!",
+        "overview": "Due to the law passed by the new governor, Anno is arrested, and HxEROS is forced to disband temporarily. The Saitama Branch members have been working as heroes on their own, and they suspect that a Kiseichuu is masquerading as a human to take the position of governor. Chacha has the ability to tell whether or not a Kiseichuu has transformed itself, so she pretends to be a delivery person to investigate the identity of the governor. When Chacha rings the doorbell, the governor opens the door, but for some reason Chacha enters the residence. Retto and the team suspect that something is wrong and follow Chacha into the house, but they discover that…",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bLSS0OuOPixLAPbtOoq431U0iDT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "SUPER HxEROS",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ド級編隊エグゼロス",
+    "overview": "Earth faces an unprecedented threat from an invasion by the mysterious Kiseichuu. The Kiseichuu feed on human sexual energy, also known as “H-energy,” and weaken the human population.\n\nHigh school student Retto Enjo is a member of the hero group HxEROS, who fight together to save the earth from the Kiseichuu.",
+    "popularity": 55.466,
+    "poster_path": "/myqtIeEhLxtU5eOfv0tjRhoLod8.jpg",
+    "production_companies": [
+        {
+            "id": 126103,
+            "logo_path": null,
+            "name": "ProjectNo9",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-08-22",
+            "episode_count": 3,
+            "id": 159861,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/aKbyaS5M6MUVV5KpksB96utlLlY.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-07-04",
+            "episode_count": 12,
+            "id": 137339,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jwh8eRPJPhE6XXgwlkRf6RFoKUq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 18
+}

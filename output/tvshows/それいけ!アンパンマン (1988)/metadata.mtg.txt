@@ -1,0 +1,346 @@
+{
+    "adult": false,
+    "backdrop_path": "/c8db6dTAt0uLjYyQ4kyJrgZpmjQ.jpg",
+    "created_by": [
+        {
+            "id": 553297,
+            "credit_id": "5f023d1315959f00385b10d6",
+            "name": "Takashi Yanase",
+            "gender": 2,
+            "profile_path": "/cZkItyHKlRntw20zJzrqA2WeSut.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1988-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 56389,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-01-10",
+    "last_episode_to_air": {
+        "air_date": "2014-01-10",
+        "episode_number": 1,
+        "id": 1653083,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 27,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Go! Anpanman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 130,
+    "number_of_seasons": 27,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "それいけ!アンパンマン",
+    "overview": "Anpanman is a superhero who dedicates himself to the cause of justice, aiding the plight of unfortunate souls. Anpanman will go anywhere to help anyone in trouble, to drive away villains, and to save people from starvation by allowing them to eat his face. What? Let his face be eaten? No need to worry. His face is made with sweet anpan (bread filled with bean jam), hence the name Anpanman. Anpanman's very life depends on allowing others to eat, and once eaten, Anpanman can restore himself endlessly. He does not look handsome or strong, but he never fears any adventure and is continuously flying to aid the hungry people and the children with difficulties. Anpanman is the hero of the new age, glowing with friendship, endeavour and justice.",
+    "popularity": 10.855,
+    "poster_path": "/3LDFn6Y2U4leMY2epUGPqhpCRLS.jpg",
+    "production_companies": [
+        {
+            "id": 20868,
+            "logo_path": null,
+            "name": "Telecom Animation Film",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-11-21",
+            "episode_count": 51,
+            "id": 58200,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1988-10-03",
+            "episode_count": 52,
+            "id": 58182,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/p5gJa3Fs9MOI9qyShlgRb1RHl6W.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1989-01-09",
+            "episode_count": 50,
+            "id": 58191,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        },
+        {
+            "air_date": "1990-01-08",
+            "episode_count": 3,
+            "id": 58190,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3
+        },
+        {
+            "air_date": "1991-01-07",
+            "episode_count": 1,
+            "id": 58185,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 4
+        },
+        {
+            "air_date": "1992-01-13",
+            "episode_count": 1,
+            "id": 58196,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 5
+        },
+        {
+            "air_date": "1993-01-11",
+            "episode_count": 1,
+            "id": 58202,
+            "name": "Season 6",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 6
+        },
+        {
+            "air_date": "1994-01-10",
+            "episode_count": 1,
+            "id": 58198,
+            "name": "Season 7",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 7
+        },
+        {
+            "air_date": "1995-01-09",
+            "episode_count": 1,
+            "id": 58195,
+            "name": "Season 8",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 8
+        },
+        {
+            "air_date": "1996-01-08",
+            "episode_count": 1,
+            "id": 58192,
+            "name": "Season 9",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 9
+        },
+        {
+            "air_date": "1997-01-10",
+            "episode_count": 1,
+            "id": 58184,
+            "name": "Season 10",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 10
+        },
+        {
+            "air_date": "1998-01-23",
+            "episode_count": 1,
+            "id": 58201,
+            "name": "Season 11",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 11
+        },
+        {
+            "air_date": "1999-01-08",
+            "episode_count": 1,
+            "id": 58179,
+            "name": "Season 12",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 12
+        },
+        {
+            "air_date": "2000-01-07",
+            "episode_count": 1,
+            "id": 58187,
+            "name": "Season 13",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 13
+        },
+        {
+            "air_date": "2001-01-05",
+            "episode_count": 1,
+            "id": 58199,
+            "name": "Season 14",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 14
+        },
+        {
+            "air_date": "2002-01-04",
+            "episode_count": 1,
+            "id": 58180,
+            "name": "Season 15",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 15
+        },
+        {
+            "air_date": "2003-01-10",
+            "episode_count": 1,
+            "id": 58197,
+            "name": "Season 16",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 16
+        },
+        {
+            "air_date": "2004-01-09",
+            "episode_count": 1,
+            "id": 58189,
+            "name": "Season 17",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 17
+        },
+        {
+            "air_date": "2005-01-07",
+            "episode_count": 1,
+            "id": 58183,
+            "name": "Season 18",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 18
+        },
+        {
+            "air_date": "2006-01-06",
+            "episode_count": 1,
+            "id": 58181,
+            "name": "Season 19",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 19
+        },
+        {
+            "air_date": "2007-01-05",
+            "episode_count": 1,
+            "id": 58188,
+            "name": "Season 20",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 20
+        },
+        {
+            "air_date": "2008-01-04",
+            "episode_count": 1,
+            "id": 58186,
+            "name": "Season 21",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 21
+        },
+        {
+            "air_date": "2009-01-09",
+            "episode_count": 1,
+            "id": 58193,
+            "name": "Season 22",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 22
+        },
+        {
+            "air_date": "2010-01-08",
+            "episode_count": 1,
+            "id": 58194,
+            "name": "Season 23",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 23
+        },
+        {
+            "air_date": "2011-01-07",
+            "episode_count": 1,
+            "id": 76500,
+            "name": "Season 24",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 24
+        },
+        {
+            "air_date": "2012-01-13",
+            "episode_count": 1,
+            "id": 114952,
+            "name": "Season 25",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 25
+        },
+        {
+            "air_date": "2013-01-04",
+            "episode_count": 2,
+            "id": 114953,
+            "name": "Season 26",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 26
+        },
+        {
+            "air_date": "2014-01-10",
+            "episode_count": 1,
+            "id": 114951,
+            "name": "Season 27",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 27
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

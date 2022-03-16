@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/daLLxbBVt8S3j2vCLKFEzvkmIHm.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        9
+    ],
+    "first_air_date": "2017-07-05",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://netsuzoutrap.com",
+    "id": 72510,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-20",
+    "last_episode_to_air": {
+        "air_date": "2017-09-20",
+        "episode_number": 12,
+        "id": 1339699,
+        "name": "Why Did It Take Me This Long to Realize?",
+        "overview": "Yuma confronts Hotaru over her relationship with Fujiwara. Can she convince Hotaru to leave her abusive relationship?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/aDc2PrtBduCAmrpOX0lDyelgeyv.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Netsuzou Trap -NTR-",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "捏造トラップ―NTR―",
+    "overview": "Yuma, a high school second-year, is enjoying every day now that she has her first boyfriend. After she asks for relationship advice from Hotaru, her beautiful long-time friend who has had many boyfriends, Hotaru teases her for her inexperience and playfully does things to her that even her boyfriend doesn't do. Yuma and Hotaru's secret relationship continues to escalate, and Yuma finds herself unable to deny how it makes her feel. This school drama tells the story of the interwoven lives of these two girls with boyfriends.",
+    "popularity": 30.024,
+    "poster_path": "/1D8aOMUSoXxgHuk57v0WlO40hQz.jpg",
+    "production_companies": [
+        {
+            "id": 102803,
+            "logo_path": null,
+            "name": "Dynit",
+            "origin_country": ""
+        },
+        {
+            "id": 102804,
+            "logo_path": null,
+            "name": "Kazé Germany",
+            "origin_country": ""
+        },
+        {
+            "id": 89293,
+            "logo_path": "/66LF3OiMvsoHzgus6tZ49HntGiK.png",
+            "name": "Creators in Pack",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-05",
+            "episode_count": 12,
+            "id": 89814,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wmkfa6U6E9LUmsWPDxuREo0denW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 18
+}

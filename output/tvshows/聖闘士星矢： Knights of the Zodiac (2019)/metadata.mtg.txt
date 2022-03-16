@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/9c3MBr4wbfRoBvx5qjJRKocifB5.jpg",
+    "created_by": [
+        {
+            "id": 1237909,
+            "credit_id": "5e93ca9b7a97ab00170e2df7",
+            "name": "Eugene Son",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-07-19",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80186926",
+    "id": 90855,
+    "in_production": true,
+    "languages": [
+        "ja",
+        "es"
+    ],
+    "last_air_date": "2019-08-30",
+    "last_episode_to_air": {
+        "air_date": "2019-08-30",
+        "episode_number": 12,
+        "id": 2059967,
+        "name": "One War Ends, Another Begins",
+        "overview": "The Bronze Knights face Graad's upgraded Black Knights. Though Seiya and the others gain the upper hand, Graad proves to be a formidable foe.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4lWKXKN7QP11SoWRT5VgyghPTj3.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "SAINT SEIYA: Knights of the Zodiac",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "聖闘士星矢: Knights of the Zodiac",
+    "overview": "Seiya and the Knights of the Zodiac rise again to protect the reincarnation of the goddess Athena, but a dark prophecy hangs over them all.",
+    "popularity": 67.129,
+    "poster_path": "/il9scUkw3q8bs1HGFotJhcPNo1J.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-07-19",
+            "episode_count": 12,
+            "id": 127118,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wf51S3YCfMcijKftS7JifUpiuUG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 464
+}

@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/lg7Mc8pttvRTFX4MeVt9tQJuiH1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/miira/",
+    "id": 76132,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-30",
+    "last_episode_to_air": {
+        "air_date": "2018-03-30",
+        "episode_number": 12,
+        "id": 1423627,
+        "name": "Always Together",
+        "overview": "A collector has gotten a hold of Mii-kun. The gang works together to stop him.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5z0YknDt2oL2Ba4BermXn5VNEhX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "How to Keep a Mummy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ミイラの飼い方",
+    "overview": "Kashiwagi Sora is living a normal high school student life, when his \"adventurer\" father sends him a mummy from his travels in Egypt! Sora balks at the letter from his crazy dad (\"I found a cool mummy, so I decided to leave it with you, son!\") at first, but the mummy that emerges from inside the huge coffin is a mere 12 centimeters tall--small enough to fit in the palm of his hand... Not only that, it's shy, a crybaby, and most of all, heckin' cute. And so, Sora and ends up keeping the mummy, naming his new little buddy \"Mii-kun.\" But living with a mummy might be easier said than done...!",
+    "popularity": 29.008,
+    "poster_path": "/jMMiup5dkVbkhKpPBEVN9IwX9Kp.jpg",
+    "production_companies": [
+        {
+            "id": 30294,
+            "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+            "name": "8bit",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-01-12",
+            "episode_count": 12,
+            "id": 97455,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rDzCBpMVj2hAanlBYXGU2sVWPZL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 157
+}

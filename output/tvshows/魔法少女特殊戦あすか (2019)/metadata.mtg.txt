@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/gOwbUaolUnRyS2IOvtysc18Hqhb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2019-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://magical-five.jp/",
+    "id": 83104,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-21",
+    "last_episode_to_air": {
+        "air_date": "2019-03-21",
+        "episode_number": 12,
+        "id": 1659882,
+        "name": "If This Battle Ever Ends",
+        "overview": "The battle at 6th Naha is over, and Asuka remembers the words of the Magical Girls from the battle three years ago. \"When this attle is over...\" Magical Girl Asuka's answer is...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6NVzs6MFO9omQRcQDDykKDZ0mGO.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magical Girl Spec-Ops Asuka",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法少女特殊戦あすか",
+    "overview": "Due to the invasion of Disas—enigmatic creatures of soil from the land of the dead—mankind, who was on the verge of crisis, was saved by the efforts of magical girls who had obtained a mysterious magical power...\n\nThree years later, new incidents suddenly occur, tearing apart the normalcy of the girls who had each returned to their normal lives. The saviours of humanity, those magical girls called \"The Magical Five\" now live each day fighting for their lives, even as they are trifled with by fate...",
+    "popularity": 13.173,
+    "poster_path": "/kQdLe1kjvIBei1J4dt7XKYULBsX.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-11",
+            "episode_count": 12,
+            "id": 110823,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3aOiwlw4LhxLpcobld6DsIyXQRd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 10
+}

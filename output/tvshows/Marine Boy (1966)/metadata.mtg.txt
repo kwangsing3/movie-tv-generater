@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1966-10-06",
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 9283,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "1966-10-06",
+    "last_episode_to_air": {
+        "air_date": "1966-10-06",
+        "episode_number": 1,
+        "id": 405814,
+        "name": "The Green Monster",
+        "overview": "Marine Boy, suspecting sabotage, investigates when an \"unsinkable\" nuclear ship is lost during a tornado.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Marine Boy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NBC",
+            "id": 6,
+            "logo_path": "/nGRVQlfmPBmfkNgCFpx5m7luTxG.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 78,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US",
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "Marine Boy",
+    "overview": "Marine Boy was one of the first color anime cartoons to be shown in a dubbed form in the U.S., and later in Australia and the United Kingdom. It was originally produced in Japan as Undersea Boy Marine by Minoru Adachi and animation company Japan Tele-Cartoons. It was sold outside of Japan via K. Fujita Associates Inc., with Warner Bros / Seven Arts Television handling worldwide distribution of the English-language version.",
+    "popularity": 2.679,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1966-10-06",
+            "episode_count": 78,
+            "id": 19187,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

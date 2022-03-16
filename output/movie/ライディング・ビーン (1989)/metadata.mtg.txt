@@ -1,0 +1,55 @@
+{
+    "adult": false,
+    "backdrop_path": "/sDgxKTRwF3HEql9ySBmyXk2VDxU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 55374,
+    "imdb_id": "tt0098202",
+    "original_language": "ja",
+    "original_title": "ライディング・ビーン",
+    "overview": "Based on the manga of the same name, this OVA (Original Video Animation) is set in Chicago and follows the adventures of expert \"wheel man\" Bean Bandit and his girlfriend Rally as they become mixed up in an intricate kidnapping plot involving a millionaire and his daughter. Riding Bean's creator, Kenichi Sonada, was heavily influenced by the movie The Blues Brothers.",
+    "popularity": 4.227,
+    "poster_path": "/y5CeM4nExWNFk0gEdrNvSgIFMsH.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1989-02-22",
+    "revenue": 0,
+    "runtime": 46,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "He doesn't just break the traffic laws, He mangles them!",
+    "title": "Riding Bean",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 17
+}

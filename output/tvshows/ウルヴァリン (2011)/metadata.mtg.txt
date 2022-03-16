@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/t3H1tKS13b67WPGJeGYnDNfcLl9.jpg",
+    "created_by": [
+        {
+            "id": 58159,
+            "credit_id": "5aa96827c3a36840ae000c81",
+            "name": "Rintaro",
+            "gender": 2,
+            "profile_path": "/sXomLvqGT7SDHtu7j62R0l1AL2D.jpg"
+        },
+        {
+            "id": 1296175,
+            "credit_id": "5aa968110e0a266dac000c95",
+            "name": "Hiroshi Aoyama",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-01-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 38247,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-03-25",
+    "last_episode_to_air": {
+        "air_date": "2011-03-25",
+        "episode_number": 12,
+        "id": 858162,
+        "name": "Logan",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ae8nS8sKqtoJjLtYZo5f1pyoxPQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Wolverine",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ウルヴァリン",
+    "overview": "Wolverine is a mutant, possessing animal-keen senses, enhanced physical capabilities, three retracting bone claws on each hand and a healing factor that allows him to recover from virtually any wound, disease or toxin at a accelerated rate.",
+    "popularity": 7.789,
+    "poster_path": "/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 82346,
+            "logo_path": "/jqgK6CSkPrEsIv6Nk390JaBcXYF.png",
+            "name": "Sony Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7505,
+            "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+            "name": "Marvel Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-01-07",
+            "episode_count": 12,
+            "id": 49732,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yg3LKXbDG7Gc2jraSrc3OWRarKo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 47
+}

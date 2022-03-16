@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/uk6L7aiPEDGrQW83g1SjGkf5m8E.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2015-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://urawa-usagi.com/",
+    "id": 69605,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-26",
+    "last_episode_to_air": {
+        "air_date": "2015-06-26",
+        "episode_number": 12,
+        "id": 1435121,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1IZe27067ViMKFUCVcU2p6TKnqU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Urawa no Usagi-chan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "浦和の調ちゃん",
+    "overview": "An original anime to advertise Urawa City in Saitama, Japan.",
+    "popularity": 2.997,
+    "poster_path": "/35Pkj04kSeQqGpvodNzI5jQUwML.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-04-10",
+            "episode_count": 12,
+            "id": 83826,
+            "name": "Urawa no Usagi-chan",
+            "overview": "",
+            "poster_path": "/l9RmXBYpSSNGSoYCotvjarsUCm4.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 86928,
+            "name": "Musashino!",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 25
+}

@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/igc9fZkqE65teFzbQKFAtAy6G1B.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-10-05",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://sora-no-method.jp/",
+    "id": 66716,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-12-28",
+    "last_episode_to_air": {
+        "air_date": "2014-12-28",
+        "episode_number": 13,
+        "id": 1198323,
+        "name": "From the Starting Sky",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/geaY50xEByILRtF9MUMXw5kVr8H.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Celestial Method",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "天体のメソッド",
+    "overview": "The story begins one winter day when the wish of a few girls was realized with a miracle, changing the landscape of a town. \"In the skies above this town, a disc is always there.\"",
+    "popularity": 8.179,
+    "poster_path": "/4XuJtgmoIafSOjQY6ULswfwOoma.jpg",
+    "production_companies": [
+        {
+            "id": 77831,
+            "logo_path": null,
+            "name": "Cospa",
+            "origin_country": ""
+        },
+        {
+            "id": 77832,
+            "logo_path": "/4qKMYPaifBLGWQq7mQYQBw40W1.png",
+            "name": "Studio 3Hz",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 42196,
+            "logo_path": "/nQNmHvcmaT0zk1Rf0TYtLYO5MpI.png",
+            "name": "Bushiroad",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-07-24",
+            "episode_count": 2,
+            "id": 77636,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/tNWNYfc0o24DrNvaSiZNVPst9F6.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-10-05",
+            "episode_count": 13,
+            "id": 77635,
+            "name": "Season 1",
+            "overview": "It's been seven years since an unusual saucer mysteriously appeared in the sky above Kiriya Lake. With no one knowing what this strange object was or where it came from, concern and panic spread amongst the people. But as time went on this occurrence went from oddity to tourist attraction. Before long, the world lost interest entirely, and the saucer remained nearly forgotten in the sky. Now, former resident Nonoka Komiya returns to the small town after seven years in Tokyo. With only vague memories of her time in the town, the appearance of a spritely girl named Noel causes Nonoka to slowly remember wishes she and four of her friends made in an old observatory.",
+            "poster_path": "/bvMdpWvxBDN8slude8xk3MRHQq8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 4
+}

@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/661JMzrnTNlHsE99aCsmIYbcdCj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://kokkoku-anime.com/",
+    "id": 76131,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-26",
+    "last_episode_to_air": {
+        "air_date": "2018-03-26",
+        "episode_number": 12,
+        "id": 1456547,
+        "name": "The Twelfth Moment",
+        "overview": "Juri sends everyone but her grandfather back to the normal world, as he is opposed to leaving her alone in Stasis.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/h9YZLVEpH6PPlBaGfrzNMtHUhWU.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Kokkoku, Moment by Moment",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "刻刻",
+    "overview": "In order to save her brother and nephew who have been kidnapped by a mysterious religious group known as the Genuine Love Society, Juri and her family cast a spell using a stone hidden by her grandfather to enter the world of stopped time known as Stasis. However, when they infiltrate the kidnapper's base, they're met by other people who can also move about freely. With grotesque creatures lurking about, will they be able to escape the parallel world and return to their normal lives?!",
+    "popularity": 12.877,
+    "poster_path": "/dNqfchtJscTRd6Ar80zVHmIH4lI.jpg",
+    "production_companies": [
+        {
+            "id": 104682,
+            "logo_path": "/i87rCY8dRbWWgW3o9jnwWE5qa3Z.png",
+            "name": "Geno Studio",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-01-07",
+            "episode_count": 12,
+            "id": 97454,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dNqfchtJscTRd6Ar80zVHmIH4lI.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 26
+}

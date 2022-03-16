@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/gVDRFOeIsbxt6Axuoc1EHSMJTIe.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 839033,
+    "imdb_id": "tt14824600",
+    "original_language": "en",
+    "original_title": "The Lord of the Rings: The War of the Rohirrim",
+    "overview": "Focused on the mighty King of Rohan, Helm Hammerhand, and a legendary battle which helped shaped Middle Earth leading into the events of The Lord of The Rings.",
+    "popularity": 2.758,
+    "poster_path": "/lq7wL3Vcg4c6KkYzoPdOC46s4lT.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 2785,
+            "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+            "name": "Warner Bros. Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 169947,
+            "logo_path": "/z0p0fcv4oO6pl8DaCXFoBqERLF9.png",
+            "name": "Sola Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2024-04-12",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "The Lord of the Rings: The War of the Rohirrim",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

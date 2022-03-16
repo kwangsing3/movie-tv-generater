@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/moNxkq5yKDTYusfVzb4SNlaBltW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-07-01",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://never-island.com/",
+    "id": 80535,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-16",
+    "last_episode_to_air": {
+        "air_date": "2018-09-16",
+        "episode_number": 12,
+        "id": 1514124,
+        "name": "Holding Hands to Tomorrow",
+        "overview": "Rinne and Rinne - A truth about these two girls is brought to light by a photograph, and Setsuna makes a decision. Will it make everyone happy? A new future awaits once this great mystery is solved. No more hesitating. It's the eternal finale.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ax2FzrdVNAtgtGyJr6zmopBf3mP.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Island",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイランド",
+    "overview": "Urashima, an island far from the mainland. The people who live there lead carefree lives. But five years ago, the island's three great families suffered a series of misfortunes, and succumbed to suspicion. The people of the island cut off all contact with the mainland, and began a slow decline. The key to saving the island lies in three girls who belong to the three families. But they are bound by old traditions, and are conflicted. On that island, a lone man washes ashore. The man claims to be from the future, and he begins a solitary struggle to change the island's fate.",
+    "popularity": 8.184,
+    "poster_path": "/1jgcZ0GiHdxgokWY0GAA4PnFzrb.jpg",
+    "production_companies": [
+        {
+            "id": 17315,
+            "logo_path": "/8QPhCeRCNVa3jYCtDvThTlAGYSL.png",
+            "name": "feel.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-01",
+            "episode_count": 12,
+            "id": 105764,
+            "name": "Season 1",
+            "overview": "The tides are turning on the distant island of Urashima where a plague of misfortune has caused turmoil among its citizens. Facing decline, the island’s only hope lies in the hands of three girls, but old traditions stand firmly in their way. Their fate appears to be sealed until a mysterious man washes ashore claiming to be from the future.",
+            "poster_path": "/bqBcVz8kL1vJE8oKNWI7csjRUbt.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 5
+}

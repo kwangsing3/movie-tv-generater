@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/sXdKhp54z4qgMsOMoIyTglWsTPn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1999-06-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 43017,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-09-17",
+    "last_episode_to_air": {
+        "air_date": "2000-09-17",
+        "episode_number": 43,
+        "id": 957759,
+        "name": "Onizuka's Final Battle",
+        "overview": "　Without any solid evidence, the battle between Onizuka, the students of the 3rd grade and 4th grade, and the teachers of Seirin Gakuen began against the domineering board of education who decided that the criminal of the Saito teacher stab injury case was elegant. ..\n\n　Onizuka, who bets his life as a teacher and pursues the board of education with a flashy performance, makes a ridiculous remark about the incident this time.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/46phNPxKSCK240wZkBJWbdKmRjX.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Great Teacher Onizuka",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 43,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "グレート・ティーチャー・オニヅカ",
+    "overview": "Onizuka is an ex-biker and gang leader who has one goal, to become the greatest teacher. He learns of the power and respect possible as an intern teacher, using his strength and connections to get his students to respect him. Now, graduated, he gets a job at a prestigious private school to handle their 'problem class' that made the past few teachers quit. He must handle a different sort of trouble when the trouble makers include some of the smartest kids in Japan who prefer a more cerebral approach to torturing their teacher. Onizuka must slowly win his students over and deal with their mistrust of teachers while handling the distrust of his fellow teachers.",
+    "popularity": 36.401,
+    "poster_path": "/4rEvetd3kANyGSgXPF235kG0COW.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-01-21",
+            "episode_count": 5,
+            "id": 52480,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/A1YFJeHhgpdfhcm6SQqJLGUdCri.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1999-06-30",
+            "episode_count": 43,
+            "id": 52479,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qp5uTdL71z6YpCHXVtT0753TFCC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 90
+}

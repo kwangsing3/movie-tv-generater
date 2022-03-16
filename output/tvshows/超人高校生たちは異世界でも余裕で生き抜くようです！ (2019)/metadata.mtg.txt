@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/gK1TJ5zGSUVYeCpImJQvYasnJsT.jpg",
+    "created_by": [
+        {
+            "id": 1704170,
+            "credit_id": "608e1214221ba6002a0ca73b",
+            "name": "Shinsuke Yanagi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://choyoyu.com/",
+    "id": 91269,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-19",
+    "last_episode_to_air": {
+        "air_date": "2019-12-19",
+        "episode_number": 12,
+        "id": 1945032,
+        "name": "It Seems High School Prodigies Have It Easy Even In Another World!",
+        "overview": "Gustave is alive. All this time, he was hiding as Tanganika. In his fury, Gustave kills Conrad for destroying his golden statue. He then turns his attention to Jeanne and Shinobu, who were hiding in the same room. With all his might, Gustave destroys the castle killing everyone inside. Luckily Jeanne and Shinobu manage to escape.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xCf4ccLfVNOy4MPVJpKQ3dYGfWt.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "High School Prodigies Have It Easy Even in Another World!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "超人高校生たちは異世界でも余裕で生き抜くようです！",
+    "overview": "Seven high school students that got caught in an airplane accident wake up, in a middle age like fantasy different world where magic and beast-man (juujin) exist.\n\nBut they do not panic at their current situation!?\n\nThey build a nuclear plant in a world without electricity, they control the economy of a large city in a short work's trip, and finally for their benefactor's sake who are suffering from the misgoverment, they declare war on the evil nobles.\n\nSo... none of them is a normal high school student, each of them are super human high school students that stand at the top of politics, economics, science and medicine!\n\nThis is a story of a dream team that possess earth's greatest wisdom and technology, that without any self-restraining bring a revolution to a different world with over-technology",
+    "popularity": 26.198,
+    "poster_path": "/8uapInBBn7otCQRAbjkUJxniIp7.jpg",
+    "production_companies": [
+        {
+            "id": 74464,
+            "logo_path": null,
+            "name": "project No.9",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-03",
+            "episode_count": 12,
+            "id": 127966,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jQCTy0bCwTowg1WgOsSk36c2EFL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 22
+}

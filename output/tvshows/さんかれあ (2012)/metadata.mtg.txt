@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/zKnoPdFQZXuFvb6qzeAk5q6G6Ge.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.funimation.com/shows/sankarea/home",
+    "id": 62742,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-06-29",
+    "last_episode_to_air": {
+        "air_date": "2012-06-29",
+        "episode_number": 12,
+        "id": 1065606,
+        "name": "At That Moment… I…",
+        "overview": "Chihiro begins to have second thoughts about his duty in looking after Rea’s welfare, and how little he can do for her. When plans to watch a fireworks show that Rea has her heart set on seeing fall through, the group comes up with an alternative.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xewNt3OPMwpnSW87l3uYvzDA7vk.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Sankarea: Undying Love",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "さんかれあ",
+    "overview": "Zombie-obsessed Furuya is making a potion to reanimate his dead cat when he meets Rea. She’s about as miserable as a girl can get, thanks to her creepy, domineering father. When the pain becomes too much, she tries to commit suicide with a sip of Furuya’s weird elixir. The potion doesn’t kill her – but it does turn her into a zombie after she falls from a cliff.\n\nNow that Rea’s undead and ready to finally live, she hides out with Furuya, who’s always dreamed of having a zombie girlfriend. Their one-of-a-kind relationship comes with some challenges, like the fact that Rea is decomposing. Even worse, her freak-show dad is dangerously determined to get her back under his control. As Furuya fights to keep his ghoulfriend safe, Rea finds the secret to resurrecting her happiness: Live like you’re dying – even if you’re already dead.",
+    "popularity": 38.837,
+    "poster_path": "/9yhc0g2g0m8cFe6BhHPeU1XqVNc.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-06-08",
+            "episode_count": 3,
+            "id": 141114,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/aCq1WzZFyKeQrLNIWImmWsRTjvJ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-04-06",
+            "episode_count": 12,
+            "id": 66982,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/p8L5p77UOpsVBYdgDr5FB5a6jog.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 196
+}

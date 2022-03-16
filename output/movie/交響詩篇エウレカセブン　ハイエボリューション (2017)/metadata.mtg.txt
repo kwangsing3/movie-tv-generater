@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/pY6Cq1aXXLSAdcfR6pXMRIBbQGV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "http://eurekaseven.jp/",
+    "id": 467169,
+    "imdb_id": "tt7480958",
+    "original_language": "ja",
+    "original_title": "交響詩篇エウレカセブン　ハイエボリューション",
+    "overview": "The movies will tell the story of the phenomenon known as \"The First Summer of Love\" that took place ten years before the first Eureka Seven anime, but was never depicted in full. The movies will then follow the main storyline of the first TV anime and contain new dialogues and scenes, revised footage, as well as a new ending not present in the original series.",
+    "popularity": 2.616,
+    "poster_path": "/twDgeuiSxIWcNuPGvGOaLxv1mK0.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12502,
+            "logo_path": "/aDcFy26DtVbyZIFOZNTLsooWH5X.png",
+            "name": "Bandai Namco Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 142186,
+            "logo_path": "/fCsUYQacBylGp6M7Fafz9Aza9GE.png",
+            "name": "Hakuhodo DY Music & Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2017-09-16",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Eureka Seven Hi-Evolution",
+    "video": false,
+    "vote_average": 3.7,
+    "vote_count": 3
+}

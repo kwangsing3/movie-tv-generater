@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/11Pfh4yqjKbOgn5vY3AQD9VU4Vc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-10-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://bst-anime.com/",
+    "id": 90937,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-25",
+    "last_episode_to_air": {
+        "air_date": "2021-03-25",
+        "episode_number": 12,
+        "id": 2710648,
+        "name": "The Taste of Rebellion",
+        "overview": "While getting pummeled by Riz, Legoshi realizes that they’re not so different: he could easily have succumbed to his carnivorous instincts, too.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/5QdGLB6xPo1eelvAzyQfJ5b0E3L.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "BEASTARS",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ビースターズ",
+    "overview": "In a world where beasts of all kinds coexist, a gentle wolf awakens to his own predatory urges as his school deals with a murder within its midst.",
+    "popularity": 108.704,
+    "poster_path": "/zKEFedE4KEUWdfPvjVC9G1VyEoK.jpg",
+    "production_companies": [
+        {
+            "id": 61406,
+            "logo_path": "/cp27UOmwl39GhReASLlGOekc2OB.png",
+            "name": "Orange",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-10",
+            "episode_count": 12,
+            "id": 127365,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xWYdf9No0PIPoulEEEB8FaG2uC7.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-01-07",
+            "episode_count": 12,
+            "id": 171114,
+            "name": "Season 2",
+            "overview": "Accepting his predatory instincts, Legoshi vows to become stronger for Haru's sake. Meanwhile, the herbivore killer is still on the loose.",
+            "poster_path": "/68pGoBzmNZI3NXFIHH6Us9Eo3lA.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 885
+}

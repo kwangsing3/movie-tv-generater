@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/oEYvOKvy28kDa7jNYg2yLscZwFI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://tamayomi.com/",
+    "id": 93890,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-17",
+    "last_episode_to_air": {
+        "air_date": "2020-06-17",
+        "episode_number": 12,
+        "id": 2200098,
+        "name": "Pitch Without Regret",
+        "overview": "Yomi and the team take the former champs into the final innings and find out if they can compete with the best of the best.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gWGwchTaZIqc6mjX0mKHV4LM9GV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "TAMAYOMI: The Baseball Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Nagoya TV",
+            "id": 576,
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Kyushu Asahi Broadcasting",
+            "id": 1278,
+            "logo_path": "/zph6Ed1k57GnwNkwjKSLo6wh3uk.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Nagasaki Culture Telecasting Corporation",
+            "id": 3756,
+            "logo_path": "/qEIIHhehdHtTQ4fhuXrA29mbzmo.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "球詠",
+    "overview": "In her Junior High years, the pitcher Yomi Takeda was not able to get very far in a cross-school baseball tournament. Since the catcher on her team wasn't at her level, she couldn't use her signature move, the \"Magic Throw,\" and eventually regretted not being able to use it. After Junior High, she decided to stop playing baseball and went to Shin Koshigaya High School, a school without a baseball club. There, she found her long lost childhood friend, Tamaki Yamazaki, who used to play catchball with her when they were kids. Tamaki also played baseball during her Junior High years as a catcher, and could even catch Yomi's \"Magic Throw!\" Their promise with each other during their childhood could now be fulfilled! Walking together on the road of baseball once again... The story of the girls who love baseball will begin!",
+    "popularity": 6.733,
+    "poster_path": "/aoTY6IXfNYxWBJyNPI792y6CpYW.jpg",
+    "production_companies": [
+        {
+            "id": 95861,
+            "logo_path": "/zgASi8usQpL3nsYjGOywho0VSmM.png",
+            "name": "Studio A-CAT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-01",
+            "episode_count": 12,
+            "id": 132811,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rYHQv2HNJM42aaApfCdQh5h58Ym.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 3
+}

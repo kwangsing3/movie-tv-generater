@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/mrRfganilHnF6EL9vSURn2i1zSn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 44567,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-06-26",
+    "last_episode_to_air": {
+        "air_date": "2005-06-26",
+        "episode_number": 13,
+        "id": 894523,
+        "name": "Southern Island Paradise!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6yvSR4tA2DRfL64skjmPnXkuWx8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Koi Koi Seven",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "こいこい7",
+    "overview": "Tetsuro is excited at getting a full scholarship at a new high school, far away from his family. What he does not know is that he will be the only boy in an all girl school, and that there is a girl head-over-heels in love with him, waiting for his arrival. But his special friendship with the very cute and dynamic Asuka also causes him to get into a lot of trouble with the powerful student council leadership, as they are at open war with Asuka and her five friends, a group of super amazon warriors called the Koi Koi Seven.",
+    "popularity": 2.715,
+    "poster_path": "/yG8pzzL4WFW4ypWZwb7MHriHLPH.jpg",
+    "production_companies": [
+        {
+            "id": 104509,
+            "logo_path": null,
+            "name": "Studio Flag",
+            "origin_country": ""
+        },
+        {
+            "id": 19073,
+            "logo_path": null,
+            "name": "Trinet Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 2,
+            "id": 53520,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-04-04",
+            "episode_count": 13,
+            "id": 53521,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lVsvZ6zWJF7gFY82226pXHUxVAE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 5
+}

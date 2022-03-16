@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/1dTwfqxFGpCvUuemfyY2uXLZPyZ.jpg",
+    "created_by": [
+        {
+            "id": 1291930,
+            "credit_id": "5a8e727f0e0a263e7d00f080",
+            "name": "Tatsuya Egawa",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1996-03-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 77390,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-03-01",
+    "last_episode_to_air": {
+        "air_date": "1998-03-01",
+        "episode_number": 2,
+        "id": 1764872,
+        "name": "Detachment of Limited Line Service Project α",
+        "overview": "Lacking an established military or specialized weapons of warfare, the Omni rebellion seemed doomed to failure. However, by adapting the robotic Power Loaders used for unloading spaceships into man-like battle tanks, the Rebel forces instead introduced a whole new era of mechanized combat. Now, the future of the planet Omni rests upon a handful of young female pilots who serve in the special Detachment of Limited Line Service. Their code name: The Power Dolls!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Power Dolls",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "パワードール",
+    "overview": "In the 2535 war of secession between the planet Omni and Earth, the difference is often made by the Omni Elite Force, known as \"DoLLS.\" Pilots of the massive Power Loder weapons, the destruction they wield is unmatched.",
+    "popularity": 2.336,
+    "poster_path": "/4hWAwzc99JrErHndObXnGuYOMo4.jpg",
+    "production_companies": [
+        {
+            "id": 101240,
+            "logo_path": null,
+            "name": "Kogado Studio",
+            "origin_country": ""
+        },
+        {
+            "id": 11725,
+            "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+            "name": "VAP",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1996-03-01",
+            "episode_count": 2,
+            "id": 99811,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pGvVHCco5B5iYzsUGt4smhgNXWt.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1998-03-01",
+            "episode_count": 1,
+            "id": 99812,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0
+}

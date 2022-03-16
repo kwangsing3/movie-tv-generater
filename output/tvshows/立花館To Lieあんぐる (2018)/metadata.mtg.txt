@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/xOLh2GtY0IHaCbPFQ0C9HKnEbtp.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2018-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://tachibanakan-anime.com/",
+    "id": 77724,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-19",
+    "last_episode_to_air": {
+        "air_date": "2018-06-19",
+        "episode_number": 12,
+        "id": 1509100,
+        "name": "Here, at Tachibanakan",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mzyh4Q2NFI6v2BXMDwGaYP1URCc.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Love To-LIE-Angle",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "立花館To Lieあんぐる",
+    "overview": "When Natsuno Hanabi went back to her hometown to study in high school, she thought that she will have a new wonderful life. But Tachibanakan, the dormitory she was going to live in, was not what she expected.",
+    "popularity": 8.809,
+    "poster_path": "/3KTwDxD8jK2WHsO0sdcMiKkZ6qr.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-04-04",
+            "episode_count": 12,
+            "id": 100383,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/l5xY8KtWPrVno3Jh5NgjaLoGUAF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.4,
+    "vote_count": 7
+}

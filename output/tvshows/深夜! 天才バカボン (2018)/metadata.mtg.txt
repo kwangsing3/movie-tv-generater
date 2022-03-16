@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/qFH9S4BWTXnxP0AnRdZAlAqLSjL.jpg",
+    "created_by": [
+        {
+            "id": 1348036,
+            "credit_id": "5b4a34939251417d0d0102ae",
+            "name": "Toru Hosokawa",
+            "gender": 2,
+            "profile_path": "/n3UPEmFZIG8kuYd0Uovl3cO0Kv4.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2018-07-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://shinya-bakabon.com/",
+    "id": 80400,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-25",
+    "last_episode_to_air": {
+        "air_date": "2018-09-25",
+        "episode_number": 12,
+        "id": 1579145,
+        "name": "This is the Actual Final Episode",
+        "overview": "This is the actual final episode. We promise.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sbMF0876YW1s7fCZjnoucrpTNKG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Late Night! The Genius Bakabon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "深夜! 天才バカボン",
+    "overview": "The misadventures of a dim-witted boy and his insane father, the latter of whom eventually becomes the central character.",
+    "popularity": 5.467,
+    "poster_path": "/cUQ5vabTMiSSlhkgZ36Po72rLVf.jpg",
+    "production_companies": [
+        {
+            "id": 74476,
+            "logo_path": null,
+            "name": "Pierrot Plus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-11",
+            "episode_count": 12,
+            "id": 105531,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kJpLIYMFmKSA8De2SiNmubOhc5P.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4,
+    "vote_count": 1
+}

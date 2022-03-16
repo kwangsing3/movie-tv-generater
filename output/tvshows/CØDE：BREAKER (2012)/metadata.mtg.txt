@@ -1,0 +1,158 @@
+{
+    "adult": false,
+    "backdrop_path": "/eVjM8mP5sHXS4szDTnp6zdCPvbq.jpg",
+    "created_by": [
+        {
+            "id": 1722277,
+            "credit_id": "6079b9318566d20078b4c378",
+            "name": "Yasuhiro Irie",
+            "gender": 2,
+            "profile_path": "/yTSADxpMLq1QnDRYB209T1mOcl8.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-10-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.code-breaker.jp/",
+    "id": 57287,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-12-23",
+    "last_episode_to_air": {
+        "air_date": "2012-12-23",
+        "episode_number": 13,
+        "id": 1352380,
+        "name": "A Flower Blooming With God",
+        "overview": "Heike is astounded by the full extent of his Ogami's capabilities, as Ogami and Hitomi engage in a final showdown. Hitomi reveals why he had no choice but to carry out his plan, and swears vengeance against the Prime Minister. Sakura says her goodbyes.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/a3Q06Ff2QRjHXmRfBaR8ufg81lb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Code:Breaker",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVQ",
+            "id": 822,
+            "logo_path": "/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "CØDE:BREAKER",
+    "overview": "Sakurakouji Sakura is a girl who appears modest and graceful but in reality is skilled in martial arts. After witnessing a boy burning people with his blue flame, she is startled to see that the same boy is a transfer student, Oogami Rei. Oogami is a Code Breaker, one who does not exist. He is a seemingly cold-blooded killer who follows the principle of an eye for an eye, to use evil against evil. Convinced that killing is not right, Sakurakouji sets out to stop him and penetrate his icy heart.",
+    "popularity": 15.55,
+    "poster_path": "/rvsbOBVFDJl9VGef6BGW0MvCkFK.jpg",
+    "production_companies": [
+        {
+            "id": 16738,
+            "logo_path": "/Lf0udeB7OwHoFJ0XIxVwfyGOqE.png",
+            "name": "Kinema Citrus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-12-17",
+            "episode_count": 3,
+            "id": 91625,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-10-07",
+            "episode_count": 13,
+            "id": 87929,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rvsbOBVFDJl9VGef6BGW0MvCkFK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 21
+}

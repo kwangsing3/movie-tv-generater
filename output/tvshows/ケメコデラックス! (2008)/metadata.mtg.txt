@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/5LAvoDHGfIDypqufMd0cgIe2yvp.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-10-04",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://nbcuni.co.jp/rondorobe/anime/kemeko/",
+    "id": 46171,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-12-20",
+    "last_episode_to_air": {
+        "air_date": "2008-12-20",
+        "episode_number": 12,
+        "id": 907690,
+        "name": "Kemeko VS Kiriko",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/pu2XIFxAGVhv7xtjqvXGwVWSIka.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kemeko Deluxe!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chukyo TV",
+            "id": 2727,
+            "logo_path": "/KaIK93kJFD8WKH451owMdmNOSz.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ケメコデラックス!",
+    "overview": "M.M. pilots the mech known as Kemeko to protect her fiancé from the efforts of the elusive Mishima Corporation who is deeply interested in a mysterious power that is hidden within his body.",
+    "popularity": 5.936,
+    "poster_path": "/lUMWsoHaX27hHYpD4EzQLoZuIb5.jpg",
+    "production_companies": [
+        {
+            "id": 72652,
+            "logo_path": null,
+            "name": "Hal Film Maker",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-10-04",
+            "episode_count": 12,
+            "id": 54537,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vMkPIpqtZYWgAUsbavRZRV2CO84.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

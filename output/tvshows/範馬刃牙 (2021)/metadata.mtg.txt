@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/3Aj7j0xHXwGntChU1VaL9seBGIe.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-09-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://baki-anime.jp/",
+    "id": 129600,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-30",
+    "last_episode_to_air": {
+        "air_date": "2021-09-30",
+        "episode_number": 12,
+        "id": 3249498,
+        "name": "Beyond the Brawn",
+        "overview": "Baki learns the hard way that he might not be ready to fight the man known as “Mr. Unchained” — Oliva’s power and technique are on another level.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8i3KZeca73rrwfOzih5WdbKL3NS.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Baki Hanma",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "範馬刃牙",
+    "overview": "To gain the skills he needs to surpass his powerful father, Baki enters Arizona State Prison to take on the notorious inmate known as Mr. Unchained.",
+    "popularity": 181.3,
+    "poster_path": "/k3HCQALcUyxebVZcfy57BIDYXUz.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 161779,
+            "logo_path": null,
+            "name": "Baki Hanma Film Partners",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-09-30",
+            "episode_count": 12,
+            "id": 203208,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3APgvI8abO5Cn2Tdt6cDMYYa9eb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 173
+}

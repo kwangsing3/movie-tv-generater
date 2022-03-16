@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/nRIRh0TWFdjyeyY0ae6Uc6yuX9M.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-04-04",
+    "genres": [
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/yugioh-sevens/",
+    "id": 100368,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 38,
+        "id": 3584670,
+        "name": "To Space!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yu-Gi-Oh! SEVENS",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 90,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "遊☆戯☆王SEVENS",
+    "overview": "In the not-so-distant future, Goha City is governed by its largest corporation, \"Goha Corp\", everything from schooling, to Dueling rules, to much of daily life.\n\nYuga is a fifth-grader who attends Goha 7th Elementary and develops inventions every day that he calls \"Roads\". He thinks the way Duels are run by adults are way too rigid and uncool, decides to change this world which is too cramped for kids, and battles with his road \"Rush Duel\" while believing in his creations... In the days that follow, Luke from the next class over hears the rumor of a \"King of Duels\". Investigating this with Yuga, they run into a mysterious person standing before an important monument... in order to be recognized as a King of Duels, you've gotta win Duels within a limited time!\n\nThe story of Yuga and Luke, two young boys about to overturn the world of rigid unfun Duels with a new style is about to begin!!",
+    "popularity": 53.014,
+    "poster_path": "/zfEcbgVnUsnLbpbiEsyAP7vkVWV.jpg",
+    "production_companies": [
+        {
+            "id": 43693,
+            "logo_path": null,
+            "name": "Bridge",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-04",
+            "episode_count": 52,
+            "id": 145002,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2MvdZYmLpRqs5CaA5pct6FfsNLR.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-06-20",
+            "episode_count": 38,
+            "id": 199108,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/rbA65Rp0lWIlLsdspFQd0zYg8xc.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.8,
+    "vote_count": 8
+}

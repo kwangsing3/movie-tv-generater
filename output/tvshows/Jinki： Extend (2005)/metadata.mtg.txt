@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/iEYhNikHGWhBl67Nt9fnTFNJeMa.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.jinki.info/",
+    "id": 24856,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-03-30",
+    "last_episode_to_air": {
+        "air_date": "2005-03-30",
+        "episode_number": 13,
+        "id": 647482,
+        "name": "And Then",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5WyebHdlUFvFPyxyc1WxuS56yBa.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Jinki: Extend",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Jinki: Extend",
+    "overview": "In 13-year-old Aoba Tsuzaki's world, everything seems normal. An over-the-top modeling fanatic, she spends her days locked in her room, happily building plastic robots. But rumbling beneath the surface, an evil enemy of mankind (the Ancient Jinki) threatens to destroy the Earth.",
+    "popularity": 6.281,
+    "poster_path": "/pVvG79hkZp11aLgzoK5SRhv28Gx.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-01-05",
+            "episode_count": 13,
+            "id": 35069,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gfvZcjeAHDsAf5x59C0lvtp71Ob.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 6
+}

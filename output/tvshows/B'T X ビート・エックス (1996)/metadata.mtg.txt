@@ -1,0 +1,143 @@
+{
+    "adult": false,
+    "backdrop_path": "/6lJROHhUSRcNLqAKIPmIsbYW2Vl.jpg",
+    "created_by": [
+        {
+            "id": 1255673,
+            "credit_id": "613865f0b1f68d0062ca98ff",
+            "name": "Masami Kurumada",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1996-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://tmsanime.com/project/btx",
+    "id": 30386,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-01-21",
+    "last_episode_to_air": {
+        "air_date": "1998-01-21",
+        "episode_number": 14,
+        "id": 740099,
+        "name": "A Piece of the Sun!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "B'T X",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "B'T X ビート・エックス",
+    "overview": "Teppei is going to visit his older brother Kotaro Takamiya during a scientific conference after training with a mysterious woman named Karen for the past 11 years. However his plans for a family reunion become stalled when a woman named Aramis kills everyone in the conference to kidnap Kotaro. Teppei on the way to save his brother encounters a broken mechanical horse called B't X who revives thanks to Teppei's blood and is now his aide to save his brother from the mysterious Machine Empire.",
+    "popularity": 20.876,
+    "poster_path": "/qFVHkx0ORUD4HqRw0kqrQQA5Zsn.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 160519,
+            "logo_path": null,
+            "name": "Illumitoon Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 160520,
+            "logo_path": null,
+            "name": "TMS-Kyokuchi",
+            "origin_country": ""
+        },
+        {
+            "id": 3069,
+            "logo_path": null,
+            "name": "Tokyo Movie Shinsha",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 2,
+            "id": 41877,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1996-04-06",
+            "episode_count": 25,
+            "id": 41876,
+            "name": "B’T X",
+            "overview": "After years of absence, Teppei’s joyous reunion with his brother  is cut short when the two brothers are attacked.  When his brother is kidnapped, Teppei gives chase only to find himself cornered in a junkyard when a  miracle appears. His spilled blood awakens the legendary B’t X.",
+            "poster_path": "/r6qI64ekwLXmTMwynt7o2V9czb7.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1997-08-21",
+            "episode_count": 14,
+            "id": 41878,
+            "name": "B'T X Neo",
+            "overview": "Teppei have managed to defeat Machine Empire’s forces time and again,  escalating his rescue attempt of his brother into an all out war! His courage  has even earned the support of the Empire’s Spiritual  Guardians. Together with Teppei, they now seek to learn Machine Empire’s true motives and put  an end to their rampant destruction.",
+            "poster_path": "/i2VjGIS1qyUG3eV62sVCpqz5iH9.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 62
+}

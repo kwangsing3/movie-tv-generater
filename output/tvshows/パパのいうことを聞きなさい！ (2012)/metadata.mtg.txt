@@ -1,0 +1,139 @@
+{
+    "adult": false,
+    "backdrop_path": "/8SsiEhXKptoLCJFeZUT7fCCffIz.jpg",
+    "created_by": [
+        {
+            "id": 570259,
+            "credit_id": "608f862aa097dc003f9488fb",
+            "name": "Itsuro Kawasaki",
+            "gender": 2,
+            "profile_path": "/xJmtsKNL4QhelmEif9Jn0yBLWQj.jpg"
+        },
+        {
+            "id": 3077137,
+            "credit_id": "608f86673dd126005837f49e",
+            "name": "Tomohiro Matsu",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-01-11",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.starchild.co.jp/special/papakiki/",
+    "id": 46183,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-03-28",
+    "last_episode_to_air": {
+        "air_date": "2012-03-28",
+        "episode_number": 12,
+        "id": 907741,
+        "name": "I Love Daddy Most in the World",
+        "overview": "The end of the month is coming and Yuuta has thought he made his final decision, but after Hina’s outburst about her mama and papa, the decision has become even harder.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1BDk0LL5zqjEJNCQFqk8G774Jhr.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Listen to Me, Girls. I'm Your Father!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Anime Network",
+            "id": 4081,
+            "logo_path": "/5Jc6AwN606Yg3efvFTQddaHrdFg.png",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "パパのいうことを聞きなさい！",
+    "overview": "Segawa Yuta is a freshman of a university. He lost his parents when he was small and was raised by his sister Yuri. Yuta has been living alone since Yuri got married to a middle aged man when Yuta was a junior high student.   One day, Yuri visited Yuta's apartment and asked him to take care of her three daughters while Yuri and her husband were on a trip. He unwillingly accepted the job but the plane Yuri took went missing. In order to prevent the daughters from being adopted separately by relatives, Yuta decided to take in all three girls.   A life of a strange family in a tiny apartment begins.",
+    "popularity": 17.473,
+    "poster_path": "/m4LD5zdovH7WhqLWXRrTFNasV7t.jpg",
+    "production_companies": [
+        {
+            "id": 17315,
+            "logo_path": "/8QPhCeRCNVa3jYCtDvThTlAGYSL.png",
+            "name": "feel.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-07-11",
+            "episode_count": 3,
+            "id": 54544,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-01-11",
+            "episode_count": 12,
+            "id": 54543,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ayXCNnzfTtkVyAaYSXJCRFWb5MU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 8
+}

@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2012-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/poyo/",
+    "id": 45255,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-12-30",
+    "last_episode_to_air": {
+        "air_date": "2012-12-30",
+        "episode_number": 52,
+        "id": 900285,
+        "name": "Until We Come 'Round Again",
+        "overview": "So long, round cat.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Poyopoyo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ポヨポヨ観察日記",
+    "overview": "Seemingly too cute for many, this will be a comedy for all ages and types. Follow this unique family and its spherical cat, in a warm-hearted comedy for the winter!",
+    "popularity": 15.613,
+    "poster_path": "/9UNkk9EUg5CMmYQV5Bx1A7SiGoQ.jpg",
+    "production_companies": [
+        {
+            "id": 34659,
+            "logo_path": null,
+            "name": "Dream Creation",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-01-08",
+            "episode_count": 52,
+            "id": 53899,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

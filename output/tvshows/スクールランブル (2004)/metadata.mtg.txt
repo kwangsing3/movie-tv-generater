@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/fPrrD1fKNbwGN4at0EvajRhxtT2.jpg",
+    "created_by": [
+        {
+            "id": 1469240,
+            "credit_id": "555d6265c3a3686957000a96",
+            "name": "Jin Kobayashi",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.funimation.com/shows/school-rumble/home",
+    "id": 31665,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-25",
+    "last_episode_to_air": {
+        "air_date": "2006-09-25",
+        "episode_number": 26,
+        "id": 757968,
+        "name": "Period.",
+        "overview": "Harima has his best chance yet to confess to Tenma.\n\nThere are big news about Karasuma.\n\nYakumo is visited again by the ghost girl, who interrogates her about her feelings for Harima. Flashbacks reveal Yakumo's relationship with Tenma as children, when Yakumo's character was quite different. We learn the importance of the children's book.\n\nThe third term starts, and Harima has to decide whether to stay at school or not.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "School Rumble",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スクールランブル",
+    "overview": "While there is a decided lack of rumble in School Rumble, there’s more hilarious humdingers than any single dinger can hum… Look that one up! And while there is a truck full of pigs, a giraffe, flying saucers and crazy dream sequences, none of that’s even close to what this show’s about. (Though I would probably watch that show, too!)\n\nHere’s what you need to know: Sophomore cutie Tenma is completely crushed on classmate Karasuma past the point of freakin’ out. Tough guy Harima, with his own delinquent style of freak, has a long-standing crush on Tenma… And Karasuma? Can you say clueless? He’s pretty much all about the curry. Mmm… Curry!\n\nWith enough tangled triangles for an entire semester of geometry, just keep in mind… School Rumble – The absolutely funniest show you’ll ever see that’s not about anything that rumbles… Ever!",
+    "popularity": 11.462,
+    "poster_path": "/uuldZxy7SRvSvOfRBZObKTMfmtP.jpg",
+    "production_companies": [
+        {
+            "id": 69265,
+            "logo_path": null,
+            "name": "Studio Comet",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-12-22",
+            "episode_count": 4,
+            "id": 43154,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-10-05",
+            "episode_count": 26,
+            "id": 43155,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oBwAqer5k1yq5dwgwp8PFC2G2zI.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2006-04-03",
+            "episode_count": 26,
+            "id": 43156,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/w7whK2xpgrszw6KmUUpq6oKavNy.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 15
+}

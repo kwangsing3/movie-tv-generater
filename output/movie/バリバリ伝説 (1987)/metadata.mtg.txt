@@ -1,0 +1,47 @@
+{
+    "adult": false,
+    "backdrop_path": "/sMp4qcub42g4gygcnyH4EZWy1W.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 228940,
+    "imdb_id": "",
+    "original_language": "ja",
+    "original_title": "バリバリ伝説",
+    "overview": "The film is about 4 high-schoolers who are bike racers and illegally partake in races at night on public roads.",
+    "popularity": 0.6,
+    "poster_path": "/3mLYSSSiavnzRzggp9yGwrCP4cz.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1987-08-01",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Motorcycle Legend",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

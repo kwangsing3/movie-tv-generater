@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/iHSLkPqGmEc20DbygmjrNMivqEF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://working-www.com/",
+    "id": 68070,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-24",
+    "last_episode_to_air": {
+        "air_date": "2016-12-24",
+        "episode_number": 13,
+        "id": 1228360,
+        "name": "There's a Reason for Everything",
+        "overview": "Daisuke dismisses Miyakoshi’s worries about sex, assuring her they can continue trying to improve her cooking and nothing else. Miyakoshi becomes unexpectedly enthusiastic about cooking to make Daisuke happy but tries so hard her kitchen emits a disturbing miasma. Daisuke surprisingly orders her to make chocolate again, and while it is disgusting, he does not meet St. Valentine.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/raXDsDHeDpjAUR0FQ6OsGz38LAx.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "WWW.Working!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "WWW.WORKING!!",
+    "overview": "Daisuke Higashida gets a job at a restaurant because of family financial difficulties, but no one who works there is normal.",
+    "popularity": 5.181,
+    "poster_path": "/cUDruI1hqgQUYlwcJp2EmNtRJk3.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-01",
+            "episode_count": 13,
+            "id": 80690,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bWxXxQBrrpBIMoe4fW9oidHEutp.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.1,
+    "vote_count": 19
+}

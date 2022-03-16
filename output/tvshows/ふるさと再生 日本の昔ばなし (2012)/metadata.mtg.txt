@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/zdzZY2qSfHe5kPIH47vgCzms1Ta.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/mukashibanashi/",
+    "id": 157049,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-04-02",
+    "last_episode_to_air": {
+        "air_date": "2017-04-02",
+        "episode_number": 1,
+        "id": 3490058,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "ふるさと再生 日本の昔ばなし",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 163,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ふるさと再生 日本の昔ばなし",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/rIedQGGNMhhpyMpoYjtgmE2pGYG.jpg",
+    "production_companies": [
+        {
+            "id": 99196,
+            "logo_path": null,
+            "name": "Tomason",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-01",
+            "episode_count": 162,
+            "id": 242748,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-04-02",
+            "episode_count": 1,
+            "id": 242899,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

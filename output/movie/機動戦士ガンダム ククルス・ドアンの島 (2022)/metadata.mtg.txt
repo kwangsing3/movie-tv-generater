@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        }
+    ],
+    "homepage": "https://g-doan.net/",
+    "id": 883768,
+    "imdb_id": "tt15428330",
+    "original_language": "ja",
+    "original_title": "機動戦士ガンダム ククルス・ドアンの島",
+    "overview": "Retells the Cucuruz Doan’s Island episode from a new perspective with some additional details and information about the events that conspired.",
+    "popularity": 2.103,
+    "poster_path": "/eYYqxQhlL3o4Ca3nCn5qADagSUG.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-06-03",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Mobile Suit Gundam: Cucuruz Doan's Island",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

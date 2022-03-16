@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/yz2iLbcXjBTmgMKoulMNeqBgVgy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://killmebaby.tv/top.html",
+    "id": 73598,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-03-29",
+    "last_episode_to_air": {
+        "air_date": "2012-03-29",
+        "episode_number": 13,
+        "id": 1459198,
+        "name": "Make the Kill Me and Make Me Your Baby",
+        "overview": "Yasuna and Agiri hold a birthday party for Sonya without knowing her actual birthday. Later Yasuna admits to Sonya something that she worries about constantly.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vISq8RhkQQGnfUlFI9INZK5BfSX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kill Me Baby",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "d Anime Store",
+            "id": 3685,
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キルミーベイベー",
+    "overview": "Kill Me Baby is the touching story of Yasuna, a normal (?) high school girl, and Sonya, her best friend who happens to be an assassin. Unfortunately, little Sonya's trained assassin instincts often work against her and others in her daily high school life, as Yasuna's often-broken wrist can attest to. She just wanted a hug, but she ended up with a broken neck. Isn't it sad? No, it's hilarious.",
+    "popularity": 9.81,
+    "poster_path": "/roi29pllxcLud3wVAky4msljKE.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-10-16",
+            "episode_count": 1,
+            "id": 178136,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/hebZbR2Vas2l4HtHFB32f0pzeyf.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-01-05",
+            "episode_count": 13,
+            "id": 92132,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/A2IGGx3oFbuGw17K7E4Hyc7TMpJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.7,
+    "vote_count": 8
+}

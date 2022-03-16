@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/f1pEXLyl1Hp6oVqdhJu8uEFDcVg.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "52586172760ee3466112395a",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        },
+        {
+            "id": 3161832,
+            "credit_id": "61b9ae3c873f00008d459973",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2002-10-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.gundam-seed.net/",
+    "id": 20111,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-12-25",
+    "last_episode_to_air": {
+        "air_date": "2005-12-25",
+        "episode_number": 50,
+        "id": 580301,
+        "name": "The Chosen Future",
+        "overview": "Also known as an OVA episode. Includes an extended battle and several new and changed scenes. Also features a longer ending to the series which explains the ending of the war and shows the meeting between Kira Yamato and Shinn Asuka as the two decide to work together.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/q6WgCmfhfFC69FqTgS4boJYzvu7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam SEED",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 100,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士ガンダムSEED",
+    "overview": "In this era, mankind has developed into two subspecies: Naturals, who reside on Earth and Coordinators, genetically-enhanced humans capable of withstanding the rigors of space who inhabit orbital colonies. The story revolves around a young Coordinator Kira Yamato who becomes involved in the war between the two races after a neutral space colony is invaded by the Coordinators.",
+    "popularity": 28.683,
+    "poster_path": "/t2PKIjlaJhNLm0pxShQyYftF4XL.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-03-26",
+            "episode_count": 6,
+            "id": 30241,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/nS7G9OhMFFSyw3qPAf6CfLlIQtq.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2002-10-05",
+            "episode_count": 50,
+            "id": 30242,
+            "name": "Mobile Suit Gundam SEED",
+            "overview": "",
+            "poster_path": "/blIh4PwJIrKAfzmk5GOZo124oA6.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2004-10-09",
+            "episode_count": 50,
+            "id": 30243,
+            "name": "Mobile Suit Gundam SEED Destiny",
+            "overview": "Set two years after the original Mobile Suit Gundam SEED,  ZAFT is about to enter into another war against the regular human race, the Naturals, the series focuses on Shinn Asuka a soldier from ZAFT as well as various returning characters' involvement in the war.",
+            "poster_path": "/6hNFKLkl1uwy1urRHqyCTs49l0M.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 20
+}

@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/miRyNr2ZuFI8pLRn5uECwhhjg1U.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "https://www.sheltertheanimation.com/",
+    "id": 763762,
+    "imdb_id": "tt6443118",
+    "original_language": "ja",
+    "original_title": "Shelter",
+    "overview": "Shelter tells the story of Rin, a 17-year-old girl who lives her life inside of a futuristic simulation completely by herself in infinite, beautiful loneliness. Each day, Rin awakens in virtual reality and uses a tablet which controls the simulation to create a new, different, beautiful world for herself. Until one day, everything changes, and Rin comes to learn the true origins behind her life inside a simulation.",
+    "popularity": 1.826,
+    "poster_path": "/ggbDkNznCC4VMyDQwMwGSGeHOrI.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2016-10-18",
+    "revenue": 0,
+    "runtime": 6,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Shelter",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 16
+}

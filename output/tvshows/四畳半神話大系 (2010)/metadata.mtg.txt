@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/2di4qjgonKR1hzSJc9dS5fF4MSm.jpg",
+    "created_by": [
+        {
+            "id": 93107,
+            "credit_id": "5d5f372ba894d611c69b0f6c",
+            "name": "Masaaki Yuasa",
+            "gender": 2,
+            "profile_path": "/c8w5a2ExhnRPV3lN4D2CvOwGQJT.jpg"
+        },
+        {
+            "id": 1726974,
+            "credit_id": "5a97be65925141289d00d080",
+            "name": "Tomihiko Morimi",
+            "gender": 2,
+            "profile_path": "/9jMCd7Y5hLNVGTBgOH1Z1c19qMH.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2010-04-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://yojouhan.noitamina.tv",
+    "id": 36243,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-07-02",
+    "last_episode_to_air": {
+        "air_date": "2010-07-02",
+        "episode_number": 11,
+        "id": 1033047,
+        "name": "The End of the 4.5 Tatami Age",
+        "overview": "The angst-ridden narrator becomes lost in a maze of 4.5 Tatami rooms as he searches for what lingers just out of reach. Will he finally make the long-awaited, often-hinted-at love connection he’s sought for so long?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zclvv2c8M5TdS77jRKQamgy0PzI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Tatami Galaxy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "四畳半神話大系",
+    "overview": "When a college dropout stops for a late night bite at a mysterious ramen stand, he crosses paths with a self-proclaimed deity of matrimony. This bizarre meeting sends the young man hurtling through a horrifying flashback to his not-so-glorious college days when the influence of a cruel new friend turned him from a hopeless romantic into a mischievous “black cupid.”",
+    "popularity": 16.125,
+    "poster_path": "/3Ngmk2kNh6JTdqPwMdiZvDSdlGH.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-08-20",
+            "episode_count": 3,
+            "id": 64326,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/lAcC0Iyq8VVcheWHqU8RGkeRq7O.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-04-23",
+            "episode_count": 11,
+            "id": 64327,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zXt5EfnIdW140kubh3KGhW8JWoN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 45
+}

@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/e9skWU3OllcYjB7dCETV7JEva6u.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        8
+    ],
+    "first_air_date": "2015-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://hackadoll-anime.com",
+    "id": 73839,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-12-25",
+    "last_episode_to_air": {
+        "air_date": "2015-12-25",
+        "episode_number": 13,
+        "id": 1363573,
+        "name": "Hackadolls Can Handle Anything, Even Comiket",
+        "overview": "The Hackadolls return to Ayame (their subject from episode 1) to see how she's enjoying life as a born-again otaku. But Ayame's friend's upcoming marriage is making her rethink over her life's choices...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6dRspKinAxRDPbPDiAkJb6EbTj1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hacka Doll",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハッカドール",
+    "overview": "In 2xxx, amidst a highly-developed information society, human beings are drowning in a sea of information. This leads to a situation where people cannot find the necessary information. The only hope to solve this problem is a navigator program... Hacka Doll.",
+    "popularity": 7.48,
+    "poster_path": "/3Kgl1jFYTaYK3JcRo5ko7H8wPK8.jpg",
+    "production_companies": [
+        {
+            "id": 89293,
+            "logo_path": "/66LF3OiMvsoHzgus6tZ49HntGiK.png",
+            "name": "Creators in Pack",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-10-02",
+            "episode_count": 13,
+            "id": 92580,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bPBBaxWkrZKxFBhnK5G5C0uAjdm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.7,
+    "vote_count": 3
+}

@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/7e9AP5miLSjR5Vi5Ua5Adskp6A5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2022-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/oadekinai/",
+    "id": 137809,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 10,
+        "id": 3463202,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "On Air Dekinai!",
+    "next_episode_to_air": {
+        "air_date": "2022-03-20",
+        "episode_number": 11,
+        "id": 3463203,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS TV Tokyo",
+            "id": 3471,
+            "logo_path": "/lUEv1JU8b5UcZJ1XoJkAq8o6UVd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "オンエアできない！",
+    "overview": "Set in 2014, the anime follows the adventures of 23 years old Mafuneko, a newly minted assistant director who joins the TV production department at Tokyo Hajikko Television, only to discover that the glamorous and glitzy life of working behind-the-scenes making TV shows involves strange and inexplicable tasks such as \"gathering 300 acorns\" and \"making a mosaic out of the images reflected in the camera lens.\" Despite being surrounded by chaos, set-backs, and weirdos, Mafuneko struggles to become a fully-fledged TV producer.",
+    "popularity": 6.877,
+    "poster_path": "/pPY7jVIJa6XusaXchQ9MPwebS8R.jpg",
+    "production_companies": [
+        {
+            "id": 163691,
+            "logo_path": null,
+            "name": "Jinnan Studio",
+            "origin_country": ""
+        },
+        {
+            "id": 127397,
+            "logo_path": null,
+            "name": "Space Neko Company",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 12,
+            "id": 218112,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pPY7jVIJa6XusaXchQ9MPwebS8R.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

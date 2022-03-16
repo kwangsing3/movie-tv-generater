@@ -1,0 +1,133 @@
+{
+    "adult": false,
+    "backdrop_path": "/jbHdr7aXxdRboVmdIVkVv9mZeNZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://godzilla-sp.jp/",
+    "id": 111177,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-24",
+    "last_episode_to_air": {
+        "air_date": "2021-06-24",
+        "episode_number": 13,
+        "id": 2820900,
+        "name": "Together",
+        "overview": "Mei, BB and Pelops II attempt to prevent the Catastrophe, but Salunga ambushes them. Meanwhile, the Otaki crew make their final push toward Godzilla.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/hpxrWLOPcyuiMpF75JJCYQ1Xm7h.jpg",
+        "vote_average": 5.333,
+        "vote_count": 3
+    },
+    "name": "Godzilla Singular Point",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゴジラS.P＜シンギュラポイント＞",
+    "overview": "Brought together by a mysterious song, a grad student and an engineer lead the fight against an unimaginable force that may spell doom for the world.",
+    "popularity": 34.593,
+    "poster_path": "/Kb3E8h6acRUNMo9mWAkcC0m9B8.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        },
+        {
+            "id": 61406,
+            "logo_path": "/cp27UOmwl39GhReASLlGOekc2OB.png",
+            "name": "Orange",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 155588,
+            "logo_path": null,
+            "name": "Toho Music",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-01",
+            "episode_count": 13,
+            "id": 165074,
+            "name": "Season 1",
+            "overview": "Brought together by a mysterious song, a grad student and an engineer lead the fight against an unimaginable force that may spell doom for the world.",
+            "poster_path": "/1EbhtIvtcE54tnwSiLoifLRdQs2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Face down a hopeless future.",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 67
+}

@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/tKOEv4VdohSLMbTjw8szcfk9VI5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-10-09",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 67395,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-26",
+    "last_episode_to_air": {
+        "air_date": "2014-03-26",
+        "episode_number": 24,
+        "id": 1213594,
+        "name": "To the Dark Sky: Calling the Dead",
+        "overview": "Memories from the past mix with the present as Harutora tries to bring a beloved friend back from the dead.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tYICTxcqBD0uRolABySlTzeSs9j.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tokyo Ravens",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "東京レイヴンズ",
+    "overview": "Tsuchimikado Harutora was born into a prestigious Onmyoji family, but he can't see \"spirit energy\". Therefore, he's been enjoying a peaceful daily life with his friends at an Onmyo branch school. One day, his childhood friend Tsuchimikado Natsume, heir to the head family, suddenly appears. Will this cause his destiny spring into motion!?",
+    "popularity": 16.747,
+    "poster_path": "/zgCoBUFzK89BdWV3xh8oqw0PGGU.jpg",
+    "production_companies": [
+        {
+            "id": 30130,
+            "logo_path": null,
+            "name": "Korea Easter Studio",
+            "origin_country": ""
+        },
+        {
+            "id": 30294,
+            "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+            "name": "8bit",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-01-29",
+            "episode_count": 3,
+            "id": 151642,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/zFlWrvrc3CcxjCRC3QltR246uVr.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-10-09",
+            "episode_count": 24,
+            "id": 79201,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/80MATuc52vdQSPM1y9SwseMMa2c.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 18
+}

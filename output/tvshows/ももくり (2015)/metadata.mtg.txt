@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/uvmXhtSI1g3bQAyQqQRJKQah5uo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "2015-12-24",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://momokuri-anime.jp/index.html",
+    "id": 67034,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-02-04",
+    "last_episode_to_air": {
+        "air_date": "2016-02-04",
+        "episode_number": 26,
+        "id": 1204653,
+        "name": "Their Feelings",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Momokuri",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ももくり",
+    "overview": "The story revolves around Yuki Kurihara, a girl who has finally been granted her wish of dating her crush Momo. At first glance, she just looks like a normal but very cute girl. However, she is in fact a maniac over Momo, taking notes of his activities and never missing the chance to see him in a cute moment. Momo, on the other hand, is inexperienced in love, and just wants to make Yuki happy.",
+    "popularity": 26.224,
+    "poster_path": "/tEFAAlXtwL9a8UzCSG37LmwpU91.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-12-24",
+            "episode_count": 26,
+            "id": 78346,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pksu9ZfcfkQnbIYTuyC6SWW1Vkz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

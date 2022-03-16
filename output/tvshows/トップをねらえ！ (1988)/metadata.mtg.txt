@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/5cZsllpTpPUXwgVhJnEcmMy4eBu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        28
+    ],
+    "first_air_date": "1988-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 66931,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-08-25",
+    "last_episode_to_air": {
+        "air_date": "2006-08-25",
+        "episode_number": 6,
+        "id": 1579861,
+        "name": "The Story of Your Life",
+        "overview": "With the survival of humanity itself at stake, one desperate plan remains: the sacrifice of the Earth, to strike at the beast! But where is Buster Machine #7?",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/auk422FDrTgrbi7WbYkmQ6OqqVK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gunbuster",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "トップをねらえ！",
+    "overview": "In the near future, humanity has taken its first steps towards journeying into the far reaches of the galaxy. Upon doing so they discover a huge race of insectoid aliens known as \"Space Monsters.\" These aliens seem dedicated to the eradication of mankind as they near closer and closer to discovering Earth. In response, humanity develops giant fighting robots piloted by hand-picked youth from around the world. Shortly after the discovery of the aliens, Noriko Takaya, the daughter of a famous deceased space captain, enters a training school despite her questionable talents as a pilot. There, she meets her polar opposite, the beautiful and talented Kazumi Amano, and is unexpectedly made to work together with her as they attempt to overcome the trauma of war as well as their own emotions.",
+    "popularity": 19.682,
+    "poster_path": "/4WzCDZT7G2QMvF8JxxlYTG85hSp.jpg",
+    "production_companies": [
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1988-10-07",
+            "episode_count": 14,
+            "id": 171333,
+            "name": "Specials",
+            "overview": "Additional in-universe background short films.",
+            "poster_path": "/tqla215HDnlpAGFkKBteLyrE82B.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1988-10-07",
+            "episode_count": 6,
+            "id": 78126,
+            "name": "Gunbuster",
+            "overview": "",
+            "poster_path": "/kYOkpn4wjE3BlXbAh0eOa5R5dah.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2004-10-02",
+            "episode_count": 6,
+            "id": 109908,
+            "name": "Diebuster",
+            "overview": "",
+            "poster_path": "/4jMJmd21LQZKTZpyJZMWcKzEEHO.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8,
+    "vote_count": 33
+}

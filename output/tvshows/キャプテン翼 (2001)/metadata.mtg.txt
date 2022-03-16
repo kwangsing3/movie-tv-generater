@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/5tgfMPK4WGjGZ3mpVRjgScLmNCf.jpg",
+    "created_by": [
+        {
+            "id": 551543,
+            "credit_id": "59a1e795c3a368483002f607",
+            "name": "Yôichi Takahashi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2001-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/cap_tsuba/",
+    "id": 24106,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-10-06",
+    "last_episode_to_air": {
+        "air_date": "2002-10-06",
+        "episode_number": 52,
+        "id": 1545739,
+        "name": "Warriors in the Field",
+        "overview": "Rivaul is injured and Tsubasa gets his first chance to play in the top team of Catalunya. The opponent's Santana plays superbly but Tsubasa manages to score a goal to tie the game. Hyuga also gets the last 5 minutes of game time and shows off his training results by scoring a game-winning goal. Genzo also saves his rival, Schneider's shot in the last match of the German League. Japan team now gets together back in Japan to play the International Cup games of their dream.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5LfNaxKReOpAjXWQJoXOY0hLL87.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Captain Tsubasa: Road to 2002",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キャプテン翼",
+    "overview": "Tsubasa becomes a superstar amongst soccer players in Brazil. He is now planning to play in Europe. At an important must-win game, as the fans cheer him on, Tsubasa looks back at the days when he started his soccer life. His passion to make goals and win the game is as strong as it was during his childhood. He recalls the games and moments that had decisive impact on his life. He remembers Goalkeeper Wakabayashi, Genius striker Hyuga, tender-hearted Misaki and Coach Roberto. He was happy to meet them, enjoyed playing with them, and learned many things from them. The whistle sounds and the game begins. Tsubasa dashes for the ball!",
+    "popularity": 36.484,
+    "poster_path": "/p8OUrvhYp6IwwcsyCzpcAIE6DeX.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2001-10-07",
+            "episode_count": 52,
+            "id": 34251,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3F4SqQU45riBluglFgZRfdnq9wt.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 158
+}

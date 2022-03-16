@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/qz1opojKuy0HnsyRWvJC5vEJuSn.jpg",
+    "created_by": [
+        {
+            "id": 1067794,
+            "credit_id": "5ab1683dc3a36861b30135a8",
+            "name": "Hayato Date",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2002-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://pierrot.jp/title/tug/",
+    "id": 34834,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2002-09-24",
+    "last_episode_to_air": {
+        "air_date": "2002-09-24",
+        "episode_number": 26,
+        "id": 793235,
+        "name": "To the Light: Let Our Thoughts Become One",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uUdImWz67IV0iuMZlsFWOV13ZII.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tokyo Underground",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "東京アンダーグラウンド",
+    "overview": "Tokyo Underground is a manga series by Akinobu Uraka and published by Enix. It became an anime series, produced by Studio Pierrot and shown on the TV Tokyo Network from April 2 until September 24, 2002. The TV series was released on DVD by Geneon Entertainment in the US and Canada, released as a boxset by Manga Entertainment in the UK and by Tokyo Night Train in Australia. It also aired in Canada on the digital channel G4techTV Canada, starting on July 22, 2007 at 8:30 pm ET/PT.",
+    "popularity": 4.295,
+    "poster_path": "/uBljuPln0apzjxWfDEfmyPOPy1Q.jpg",
+    "production_companies": [
+        {
+            "id": 6801,
+            "logo_path": null,
+            "name": "Geneon Entertainment USA",
+            "origin_country": ""
+        },
+        {
+            "id": 90104,
+            "logo_path": null,
+            "name": "Discotek Media",
+            "origin_country": ""
+        },
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-04-02",
+            "episode_count": 26,
+            "id": 45622,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

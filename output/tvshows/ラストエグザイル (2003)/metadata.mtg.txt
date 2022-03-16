@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/lP6tdD2wOrPvUPnpfXtlktetSXO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        26
+    ],
+    "first_air_date": "2003-04-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.lastexile-fam.com/",
+    "id": 31679,
+    "in_production": false,
+    "languages": [
+        "it",
+        "ja"
+    ],
+    "last_air_date": "2012-03-24",
+    "last_episode_to_air": {
+        "air_date": "2012-03-24",
+        "episode_number": 21,
+        "id": 758344,
+        "name": "Grand Master",
+        "overview": "Fam and Giselle reach the furthest depths of the Grand Exile. There, they find Luscinia, holding a sleeping Sārā.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/rwT5jo29CcZV4iXVFgXAuqH7XWw.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Last Exile",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 47,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラストエグザイル",
+    "overview": "A richly romantic action-adventure fantasy, set in a world where retro-futuristic vehicles permeate the skies. Against this lavish background are the lives of young and heroic van ship sky porters - Claus and Lavie - who are forced to take on the mission to deliver a mysterious girl, Alvis, to the battle ship Silvana. Before they know it, they become entangled in an aerial adventure between two countries gripped in an eternal war of magnificent air battleships.",
+    "popularity": 23.282,
+    "poster_path": "/iWxUNQvO8m2mKOCxGymKCsHvOcF.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-10-08",
+            "episode_count": 4,
+            "id": 43180,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9z5hkxbLuUtssfXw2q4SSTuLvFT.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-04-07",
+            "episode_count": 26,
+            "id": 43179,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oTqVM0UyahDw6XZ7m2aTNuhjt8Y.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2011-10-15",
+            "episode_count": 21,
+            "id": 43181,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/ps5AgCsBHUimn6PWYuM9sxK0b4B.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 32
+}

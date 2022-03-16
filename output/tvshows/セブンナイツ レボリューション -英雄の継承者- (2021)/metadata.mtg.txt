@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/7QhJ9s0543p7ssTYAG6kKRrmj5F.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://sevenknights-anime.jp",
+    "id": 118151,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-21",
+    "last_episode_to_air": {
+        "air_date": "2021-06-21",
+        "episode_number": 12,
+        "id": 2851304,
+        "name": "Finale -Nemo-",
+        "overview": "Sophitia attempts to bestow her final \"salvation\" on the world, becoming an avatar of the god of destruction and wreathing Granseed in flames. But the Seven Knights won't let it happen!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3UwHAb11lSjVsECQeEIvCaeBupf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Seven Knights Revolution: Hero Successor",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "セブンナイツ レボリューション -英雄の継承者-",
+    "overview": "Long ago, Heroes had saved this world. Many Heroes fought against the powers of Destruction and protected the world. Years in the future… The Heroes had disappeared as the years passed and those possessing their powers called Successors now have the fate of the world in their hands. One of the elite Successors known as the Seven Knights is fighting an army of the Destruction when she saves a boy named Nemo. During the battle, Nemo awakens the powers of a Hero even he didn't know about and displays his powers as a Successor. But his Hero is someone who no one knew and no one ever spoke of.",
+    "popularity": 24.846,
+    "poster_path": "/dg5uxhusJlfJSq9ZtiPi4FRj0Gn.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        },
+        {
+            "id": 136705,
+            "logo_path": null,
+            "name": "DOMERICA",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-05",
+            "episode_count": 12,
+            "id": 179898,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eOow7BS0eETUI8LOGG0PmEXE9G5.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

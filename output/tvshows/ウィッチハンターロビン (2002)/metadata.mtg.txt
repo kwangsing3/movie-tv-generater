@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/y9ETqHxMWc8IrDtVvRGST3IxafB.jpg",
+    "created_by": [
+        {
+            "id": 1222157,
+            "credit_id": "5b6057b10e0a263fba00dab4",
+            "name": "Shuko Murase",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2002-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.bandaivisual.co.jp/robin/",
+    "id": 1098,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-12-24",
+    "last_episode_to_air": {
+        "air_date": "2002-12-24",
+        "episode_number": 26,
+        "id": 56642,
+        "name": "Time to Tell",
+        "overview": "Robin and Amon finally confront Zaizen and learn the truth about Robin's existence. To Zaizen's surprise, instead of being traumatized, Robin is instead strengthened with resolve. Now Robin and Amon must stop Zainzen's final solution for the sake of both Witches and Humans alike.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nUFRA7B0fkCRhRESTQFvytMUfdo.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Witch Hunter Robin",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ウィッチハンターロビン",
+    "overview": "Solomon fights the harmful use of witchcraft using a database of witches, which includes those who have obtained the power of witchcraft through genetics and others who carry the gene in order to arrest or eliminate them should their powers \"awaken\". The series focuses on one STN-J member, Robin Sena.",
+    "popularity": 12.123,
+    "poster_path": "/7fJaKBFdXS9ouUWVUMhp4aoe3rM.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 3092,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2002-07-03",
+            "episode_count": 26,
+            "id": 3093,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/raKMvNQP3Xb1vJaVyMcLSulP4zW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 11
+}

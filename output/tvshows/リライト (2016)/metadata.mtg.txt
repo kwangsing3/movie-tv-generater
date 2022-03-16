@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/9Otcgt1bULYSZl4Jhc1e95eh3io.jpg",
+    "created_by": [
+        {
+            "id": 1731232,
+            "credit_id": "60a2e550d4cc8e002a1697de",
+            "name": "Motoki Tanaka",
+            "gender": 2,
+            "profile_path": "/cIWxbhj76VLweQbWZpZT9ebLFXX.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.rewrite-anime.tv/",
+    "id": 66101,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2017-03-25",
+    "last_episode_to_air": {
+        "air_date": "2017-03-25",
+        "episode_number": 11,
+        "id": 1293745,
+        "name": "A Promise Fulfilled with You",
+        "overview": "In order to rewrite Kagari’s fate, Kotarou heads toward the final battle.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/i8PfLQKKGkzmmk26nhEje9GsGMq.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rewrite",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tochigi TV",
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "リライト",
+    "overview": "Green City Kazamatsuri is a city built on the ideal of a harmonious relationship between civilization and environment.. However, the peaceful Kazamatsuri will soon be faced with its annual commotion, the Harvest Festa at the turn of the year. It's an event that is much like a massive school festival, and Tennoji Kotaro decides to head out to research topics for his articles. It's an easy decision for him, because the town is filled with rumors about unidentified creature sightings and various other occult occurrences. At the same time, strange things start happening to Kotaro himself.",
+    "popularity": 18.147,
+    "poster_path": "/iyiLtuHFiehUASS5HEDJvUivLIG.jpg",
+    "production_companies": [
+        {
+            "id": 30294,
+            "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+            "name": "8bit",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-02",
+            "episode_count": 13,
+            "id": 75979,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eswWC9wh2mylfxtjFmDjdEP7BLG.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-01-14",
+            "episode_count": 11,
+            "id": 80531,
+            "name": "Moon and Terra",
+            "overview": "The second season of the Rewrite series which adapts Moon and Terra routes.",
+            "poster_path": "/nbBbrwqfDiUCd6hoEPRslxSBU7o.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 11
+}

@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/a75F7prY7RnACDonpUVjGTjoIKe.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/megamisama/",
+    "id": 912,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-14",
+    "last_episode_to_air": {
+        "air_date": "2006-09-14",
+        "episode_number": 22,
+        "id": 1860852,
+        "name": "Ah! The Goddess's Confession!",
+        "overview": "It is shown that Keiichi and Hild are lovers, confusing the three goddesses that Keiichi may be under demonic control.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/coVm3HUjZMK1K2tWCRpb7fajEcY.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ah! My Goddess",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 46,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ああっ女神さまっ",
+    "overview": "Keiichi Morisato is looking forward to university life. But in reality, he has no luck in anything, and he has trouble with clubs, love, etc. The truth is that he has an unlucky star above his head. One day, Keiichi is stuck watching the dorm while his sempai are away, and has a mountain of chores to do to boot. But Keiichi is a good-natured person, and is set about doing his duties. As he is about to finish his final chore, he makes a phone call to his sempai. But the words that came through the receiver are, 'Goddess Help Line.' Shortly afterwards, a beautiful goddess named Belldandy appears in front of him from the mirror of his room.",
+    "popularity": 27.212,
+    "poster_path": "/5sS5tAeGJNCcxaTSYZSrpEH5TUx.jpg",
+    "production_companies": [
+        {
+            "id": 104644,
+            "logo_path": null,
+            "name": "Mini Art",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-04-01",
+            "episode_count": 7,
+            "id": 2645,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/jkaaYYt5FxxiVsdxRdgNHA8relQ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-01-06",
+            "episode_count": 24,
+            "id": 2643,
+            "name": "Ah! My Goddess",
+            "overview": "",
+            "poster_path": "/x7uomlPWA8lQup4sQBuoRfYHVUK.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2006-04-06",
+            "episode_count": 22,
+            "id": 128275,
+            "name": "Ah! My Goddess: Flights of Fancy",
+            "overview": "",
+            "poster_path": "/pls8LeRE1BwOb7ZeSoZqCnYagah.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 16
+}

@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/uP2fFdBEuZEzzMRyH0l6TaBQoT3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.harukana-receive.jp",
+    "id": 80546,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-21",
+    "last_episode_to_air": {
+        "air_date": "2018-09-21",
+        "episode_number": 12,
+        "id": 1516219,
+        "name": "And That's Why We Choose Our Irreplaceable Partners",
+        "overview": "The final set of the finals. Haruka and Kanata are at match point and Haruka hits a jump topspin serve. Which pair will end up going to the nationals?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jfbrJ9le54RydqNBihaiBABKwVa.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Harukana Receive",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はるかなレシーブ",
+    "overview": "Oozora Haruka, who's just moved to Okinawa, is generally cheerful and optimistic, but there's one thing she feels insecure about: she's taller than most other girls. Her cousin Higa Kanata also has one hang-up: she had to quit her beach volleyball because she was too short. The mismatched cousins find themselves paired up as a beach volleyball team.",
+    "popularity": 13.559,
+    "poster_path": "/4HLvWlgTNLQMht1oOXAm9N6j5Rq.jpg",
+    "production_companies": [
+        {
+            "id": 87536,
+            "logo_path": null,
+            "name": "C2C",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-06",
+            "episode_count": 12,
+            "id": 105793,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4xKyzJslAOBwF9tx1NYHMOuLWUH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 169
+}

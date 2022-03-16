@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/ookZP5UVs1HSRggA2EPzBaKGGKZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2021-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://fitboxing.net/anime/",
+    "id": 132058,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-17",
+    "last_episode_to_air": {
+        "air_date": "2021-12-17",
+        "episode_number": 12,
+        "id": 3158260,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kimi to Fit Boxing",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キミとフィットボクシング",
+    "overview": "",
+    "popularity": 26.632,
+    "poster_path": "/8EGmc0ZXt4uXdIqNcLTGJyNzcsv.jpg",
+    "production_companies": [
+        {
+            "id": 110818,
+            "logo_path": null,
+            "name": "Imagineer",
+            "origin_country": ""
+        },
+        {
+            "id": 159748,
+            "logo_path": null,
+            "name": "Story Effect",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-01",
+            "episode_count": 12,
+            "id": 207665,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8EGmc0ZXt4uXdIqNcLTGJyNzcsv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

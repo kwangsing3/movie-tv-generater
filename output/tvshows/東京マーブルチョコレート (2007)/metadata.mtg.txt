@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/aj98x0JU96xz2rMPJ9E4b5pMrYL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        27
+    ],
+    "first_air_date": "2007-12-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.production-ig.co.jp/works/tokyo-marble-chocolate/",
+    "id": 88590,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-12-05",
+    "last_episode_to_air": {
+        "air_date": "2007-12-05",
+        "episode_number": 2,
+        "id": 2499635,
+        "name": "Full Power Boy",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tokyo Marble Chocolate",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "東京マーブルチョコレート",
+    "overview": "Chizuru loves Yuudai; Yuudai loves Chizuru. Yet neither of them can say it clearly because each is uncertain about the other’s feelings and is afraid of being hurt. Trapped by their insecurities in a relationship that’s going nowhere, they drift further and further apart. While Chizuru thinks this is the end of the road, Yuudai struggles desperately to overcome his cowardly nature before he loses what is most important to him. There are two stories to every relationship, but can love survive if they don’t meet halfway?",
+    "popularity": 3.913,
+    "poster_path": "/8DjqvWGZQ90oixPwJiipKDGEIEE.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-12-05",
+            "episode_count": 2,
+            "id": 122526,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

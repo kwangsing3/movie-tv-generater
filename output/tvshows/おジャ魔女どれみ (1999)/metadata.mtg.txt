@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/zJi8eaweBRbCjQU5C1HxucUCW6i.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1999-02-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.doremi-anniv.com/",
+    "id": 20353,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-12-11",
+    "last_episode_to_air": {
+        "air_date": "2004-12-11",
+        "episode_number": 13,
+        "id": 582656,
+        "name": "The Doll That Leapt Through Time ~Doremi's Secret~",
+        "overview": "Doremi meets a mysterious girl named Fami, who shares similar traits with her.",
+        "production_code": "",
+        "season_number": 5,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magical DoReMi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 214,
+    "number_of_seasons": 5,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おジャ魔女どれみ",
+    "overview": "Ojamajo Doremi, known as Magical DoReMi in the US, is a magical girl anime television series created by Toei Animation in 1999. It focuses on elementary school students who become witch apprentices. Led by Doremi Harukaze, the girls must maintain their double lives in secret.\n\nOjamajo Doremi has been followed up by three direct sequels, lasting until its end in 2003. During the television series' runtime, two companion films were released in theaters. The English dub, produced by 4Kids Entertainment, released a preview episode in the US airing on August 13, 2005, and the first episode on September 10, 2005.",
+    "popularity": 38.857,
+    "poster_path": "/yODQ7MDKMbvc9H7T06CCDTdzgeX.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2004-06-26",
+            "episode_count": 13,
+            "id": 30383,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/q8CjAvVJtjAzpVzhCBjcC3QhJxS.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1999-02-07",
+            "episode_count": 51,
+            "id": 30378,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3Hk6fRIUKzqxVfMq604I27rXkvT.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2000-02-06",
+            "episode_count": 49,
+            "id": 30379,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/cDRVMxq9LPQ5oH4cgaVngrM3tOA.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2001-02-04",
+            "episode_count": 50,
+            "id": 30380,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/y31vyAPBzEzU4mylNkI14L6vWQn.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2002-02-03",
+            "episode_count": 51,
+            "id": 30381,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/x8OFusrhfRUlckP8HLDRf6qvmqW.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2004-06-26",
+            "episode_count": 13,
+            "id": 30382,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/dkmpARsHhdEcPTCQJzWunNGNzS5.jpg",
+            "season_number": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.1,
+    "vote_count": 51
+}

@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/v28m6kOZQwzusrd9s0XPc8Q3HbJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.corda-primopasso.com/",
+    "id": 42952,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-26",
+    "last_episode_to_air": {
+        "air_date": "2017-03-26",
+        "episode_number": 1,
+        "id": 1332884,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "La Corda d'Oro: Primo Passo",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 28,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "金色のコルダ ～primo passo～",
+    "overview": "Hino goes to a school that specialises in music and has two streams: the normal stream and the music stream, where the music students are regarded as the more elite. She was running late for her class one day when she saw a tiny fairy, who seemed really excited that she could see it. The next day, the entrants in the music competition, who are decided by the school, are announced. Hino's name appears on the list - except she doesn't play an instrument. The fairy gives her a magical violin that can be played by anyone. Reluctantly, she enters into the competition and is forced to deal with the prejudices of her peers.",
+    "popularity": 9.83,
+    "poster_path": "/m5H8PpQ4HEDlNWuERST3NSdsCPx.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2009-03-26",
+            "episode_count": 0,
+            "id": 52446,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-10-01",
+            "episode_count": 26,
+            "id": 52445,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/m5H8PpQ4HEDlNWuERST3NSdsCPx.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-03-26",
+            "episode_count": 2,
+            "id": 52447,
+            "name": ": secondo passo",
+            "overview": "",
+            "poster_path": "/858B6kvAtVnidlh3LNjFxZSGNwh.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

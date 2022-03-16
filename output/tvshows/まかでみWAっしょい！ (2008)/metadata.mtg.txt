@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/1jIbmAt7FrMZyQtJHdtI3yH6I02.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.macademi.tv/",
+    "id": 29577,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-12-21",
+    "last_episode_to_air": {
+        "air_date": "2008-12-21",
+        "episode_number": 12,
+        "id": 727495,
+        "name": "It's Somehow a Rampage on the Holy Night",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/95iXjNb2rtzIYsgxwAIYonRopk7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magician's Academy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まかでみWAっしょい！",
+    "overview": "Magician's Academy revolves around Takuto Hasegawa, who attends a magic academy that is not marked on any map. During a summoning spell exam, he accidentally creates a girl named Tanarot, who happends to hold enough magical power to destroy his country, but fortunately Tanarot professes undying loyalty to her \"creator.\"",
+    "popularity": 5.24,
+    "poster_path": "/28z2e5zwM6g9B437fRh0FRS0PXI.jpg",
+    "production_companies": [
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-10-05",
+            "episode_count": 12,
+            "id": 40972,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nndt3y9b39j89v3yCJqXEco0Uaj.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 3
+}

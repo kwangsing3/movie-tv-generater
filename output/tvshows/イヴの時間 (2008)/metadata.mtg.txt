@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/lBNrI9aqQUZwAmHCsPQvE9MSKMG.jpg",
+    "created_by": [
+        {
+            "id": 131564,
+            "credit_id": "611010155c5cc8005ec466e5",
+            "name": "Yasuhiro Yoshiura",
+            "gender": 2,
+            "profile_path": "/4nkZ191IIryU84Ji741pgnrT1eJ.jpg"
+        }
+    ],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2008-08-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://studio-rikka.com/timeofeve/",
+    "id": 60937,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-09-18",
+    "last_episode_to_air": {
+        "air_date": "2009-09-18",
+        "episode_number": 6,
+        "id": 990334,
+        "name": "Masaki : Friendships Of Eve",
+        "overview": "In a flashback, Masaki's father overhears their android, THX, console Masaki about his parent's marital problems. In response, Masaki's father silences THX and lies to Masaki that he is broken. In the present, the Ethics Committee plans to crackdown on places that promote improper relations between humans and androids and plan to send out undercover androids for the initial investigation. Rikuo asks Masaki to come back to the cafe again but is rejected. Masaki decides to tell his father about the cafe, but comes home to find out that THX has left by itself. He receives a call from Rikuo and finds out that THX is at the cafe, warning them about the Ethics Committee, and Masaki goes to the cafe. The undercover android sent by the Ethics Committee enters the cafe and is recognized by THX. THX, recognizing danger to Masaki, goes against its order to not speak, and confronts the android, causing it to retreat. THX tells Masaki that it always wanted to be by his side, before becoming quiet once again. We see that the investigation of the cafe is put on hold. The episode ends with a new customer (not shown) entering the cafe.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/b8jD1gljBknQ9l4dEx7aCjWIG2D.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Time of Eve",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Yahoo! Dōga",
+            "id": 3046,
+            "logo_path": null,
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "イヴの時間",
+    "overview": "The future, probably Japan. Robots have long been put into practical use, and androids have just come into use. Influenced by the Robot Ethics Committee, it's become common sense for people to treat androids like household appliances. Their appearance – indistinguishable from humans except for the ring over each android's head – has led some people to empathize unnecessarily with androids. Known as \"android-holics\", such people have become a social problem. Rikuo, a high school student, has been taught from childhood that androids are not to be viewed as humans, and has always used them as convenient tools. One day, Rikuo discovers some strange data in the behavior records of his family's household android, Sammy. Rikuo and his friend Masaki trace Sammy's movements, only to discover a mysterious café that features a house rule that \"humans and robots are to be treated the same\".",
+    "popularity": 9.246,
+    "poster_path": "/gMnpu4BQheh1JvncOMp46jnyYM5.jpg",
+    "production_companies": [
+        {
+            "id": 21581,
+            "logo_path": null,
+            "name": "STUDIO RIKKA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 22701,
+            "logo_path": null,
+            "name": "DIRECTIONS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-08-01",
+            "episode_count": 6,
+            "id": 61288,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xbUmRfR3EA6llAvshLahGkZ40nm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Are you enjoying the time of EVE?",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 18
+}

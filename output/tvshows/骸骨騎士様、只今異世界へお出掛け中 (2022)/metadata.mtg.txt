@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/q96VKocz5HlymMvmQDNNS6FA9O0.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://skeleton-knight.com/",
+    "id": 123528,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Skeleton Knight in Another World",
+    "next_episode_to_air": {
+        "air_date": "2022-04-07",
+        "episode_number": 1,
+        "id": 2881687,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "骸骨騎士様、只今異世界へお出掛け中",
+    "overview": "",
+    "popularity": 8.548,
+    "poster_path": "/kztE76NfhDw1LFVyOHVp2a48czQ.jpg",
+    "production_companies": [
+        {
+            "id": 127236,
+            "logo_path": null,
+            "name": "HORNETS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 125523,
+            "logo_path": null,
+            "name": "Studio KAI",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-07",
+            "episode_count": 1,
+            "id": 190985,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dW2wXawLy0uwCHfakogAl2Vtwjk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/9uvwfu75VAyYz6pEd5m5X5t2vr3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "1992-11-25",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=672",
+    "id": 104332,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1992-12-09",
+    "last_episode_to_air": {
+        "air_date": "1992-12-09",
+        "episode_number": 3,
+        "id": 2294771,
+        "name": "Holy Green",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kNWUdiQyQtm2ypHKJpbYVkJfbne.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Green Legend Ran",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "グリーンレジェンド乱",
+    "overview": "Two youths fight for survival on our hostile planet and find hope. The sea, the sky and the land had been completely polluted by mankind when mysterious objects fall from the heavens.",
+    "popularity": 1.844,
+    "poster_path": "/5tJz732frQ1007woBGHAeYGjBCH.jpg",
+    "production_companies": [
+        {
+            "id": 7776,
+            "logo_path": null,
+            "name": "Pioneer LDC, Inc.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 69968,
+            "logo_path": "/cN8Qhl29ZrmWYgkYTS6CDhPK0A5.png",
+            "name": "NBCUniversal Entertainment Japan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6801,
+            "logo_path": null,
+            "name": "Geneon Entertainment USA",
+            "origin_country": ""
+        },
+        {
+            "id": 33751,
+            "logo_path": "/2caA5Y2tdgi69L61uQnrpCIjwde.png",
+            "name": "Sentai Filmworks",
+            "origin_country": "US"
+        },
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1992-11-25",
+            "episode_count": 3,
+            "id": 152606,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iiUomXJPFAYoI432EXYvxfhY3U2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 9,
+    "vote_count": 2
+}

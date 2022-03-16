@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/5sWH6EuRdmfr9TKY1HdxTphKLXr.jpg",
+    "created_by": [
+        {
+            "id": 1255731,
+            "credit_id": "608638a58d22fc003f1e17e7",
+            "name": "Junji Nishimura",
+            "gender": 2,
+            "profile_path": "/yKA8arBRTiCqV8MGXxr626f31Na.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-07-03",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://glasslip.jp/",
+    "id": 69606,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-25",
+    "last_episode_to_air": {
+        "air_date": "2014-09-25",
+        "episode_number": 13,
+        "id": 1273084,
+        "name": "Shooting Star",
+        "overview": "Touko is shocked by the world she saw, and loses consciousness at the end of Kakeru's mother's performance. At Touko's request, Kakeru's mother plays once more, as she wonders about Kakeru's future. Meanwhile, at Kazemichi, Yukinari, Yanagi, Hiro and Sachi arrive all by coincidence.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/hEfcFGsTXdiuYQQdqooh3IzpVVd.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Glasslip",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "グラスリップ",
+    "overview": "What if you hold the power to hear the voices or see fragments of images from the future? Would that be a good thing or a bad thing? Glasslip follows the life of Touko Fukami, an aspiring glass artist born from a glass artisan family. She enjoys her worry-free life in Fukui, save for the fragments of images that she sees on occasion.\n\nOn her 18th summer, she meets the transfer student Kakeru Okikura at her school, and then again at her favorite café called Kazemichi together with all four of her friends. The voices from the future lead Kakeru to Touko, and his arrival disrupts her mediocre existence. All six of the friends must face their most unforgettable summer full of hope, affection, and heartache.",
+    "popularity": 6.58,
+    "poster_path": "/kMvNqsr8OtrT0qE8LGsX6S3dCBD.jpg",
+    "production_companies": [
+        {
+            "id": 20867,
+            "logo_path": "/op3ROO9jB4KwLUZ16VAvuGasRRv.png",
+            "name": "P.A.Works",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-03",
+            "episode_count": 13,
+            "id": 83827,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tkvTuvDoAHmmrb40R8Ympx4aPch.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.3,
+    "vote_count": 4
+}

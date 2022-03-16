@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/ad8ofEMS0Cp6npmzkjK2011y7VM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2004-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.wonderfarm.co.jp/musume/",
+    "id": 94366,
+    "in_production": true,
+    "languages": [
+        "ja",
+        "pt"
+    ],
+    "last_air_date": "2004-12-27",
+    "last_episode_to_air": {
+        "air_date": "2004-12-27",
+        "episode_number": 13,
+        "id": 1947047,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shooting Starlets Musumet",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "流星戦隊ムスメット",
+    "overview": "Seven shooting stars from a distant galaxy have fallen to the Earth. Each of them has one of the rainbow colors and tremendous powers. Doctor Kishida and doctor Mishina got three of them, red, blue and green, in secret. After a long research, they control their powers using a helmet known as \"Musumet\". These helmets have special functions: they amplify their user's strenght and give him super powers. The two scientists create the secret organization \"MET\" to use the Musumet's power for world peace and protect the Earth from any posible damage caused by the remaining four stars. However, doctor Mishina and his wife die and their three daughters, Aoi, Midori and Kurenai make the decision to be the Musumets. The three sisters have to battle for the world peace, while the deal with common teenagers problems, like school, love or the three rich arrogant and plastic sisters Marcia, Kou and Shion Saotome.",
+    "popularity": 0.658,
+    "poster_path": "/4hg4Cg8pAGQMz0HqJPjNK89Nchp.jpg",
+    "production_companies": [
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 170262,
+            "logo_path": null,
+            "name": "Pony Canyon Enterprise",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-10-04",
+            "episode_count": 13,
+            "id": 133690,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

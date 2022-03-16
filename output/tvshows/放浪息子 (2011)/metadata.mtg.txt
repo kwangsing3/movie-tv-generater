@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/58qlFb33nyvXyJdghSC04NaSZTO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2011-01-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.houroumusuko.jp",
+    "id": 43926,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-04-01",
+    "last_episode_to_air": {
+        "air_date": "2011-04-01",
+        "episode_number": 11,
+        "id": 890757,
+        "name": "Forever A Wandering Son ~Wandering Son's Progress~",
+        "overview": "As each of the classes work on their projects for the upcoming festival, Shuichi reluctantly asks Doi to help him revise his script. Saori later invites Shuichi and Yoshino to try on some dresses, reminding them of the fun they had when they were younger. The festival soon arrives, with various attractions taking place. Shuichi runs into Anna, who apologizes for the mean things she said during their break up. As the play begins, Shuichi notices his voice has dropped, but he stays strong and steps onto the stage.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/GXOrPkEuocYMKr3wMFGwLR56b1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Wandering Son",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "放浪息子",
+    "overview": "Shuichi Nitori transfers to a new elementary school, and there, meets Yoshino Takatsuki. The two children discover they share a similar secret.",
+    "popularity": 22.014,
+    "poster_path": "/eh46V76Xn0aVJvc9i7l3ELSCQg1.jpg",
+    "production_companies": [
+        {
+            "id": 107336,
+            "logo_path": null,
+            "name": "AIC Classic",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-08-24",
+            "episode_count": 2,
+            "id": 53166,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/8iypOS1YTrQHoI8ajQRRuTAKzCs.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-01-14",
+            "episode_count": 11,
+            "id": 53167,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4HmdHwNkOTRKdV8dP8B9dv6rCHz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 8
+}

@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/bdD9jFiMJaGXOnfaEjgxrOcMN5X.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://superlovers-anime.com/",
+    "id": 66104,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-16",
+    "last_episode_to_air": {
+        "air_date": "2017-03-16",
+        "episode_number": 10,
+        "id": 1288604,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/pt2wpbBYDp2gBHkF1yAUTMksqH9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "SUPER LOVERS",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "SUPER LOVERS（スーパーラヴァーズ）",
+    "overview": "While spending summer with his mother, Haru meets Ren, a boy newly adopted by his mother. Getting along with Ren isn't easy as Haru's goal is to \"civilize\" him by the time summer ends. Their relationship slowly improves as Haru spends more time with Ren and in return Ren steadily warms up to him. Can they really become a \"family\" at the end of summer?!",
+    "popularity": 14.625,
+    "poster_path": "/p0mb4yh8gwm8L0rKRmUFVSKGArY.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-01-01",
+            "episode_count": 2,
+            "id": 174204,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/znEMnMAO2xqn7eLXRnfaIF8s1Pq.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-06",
+            "episode_count": 10,
+            "id": 75982,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/m0Xreuf2gf5jqDvaoq2HabpyNue.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-01-12",
+            "episode_count": 10,
+            "id": 83863,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/oY7vh70MVE1kehG1P8c4w5Kwt9k.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 22
+}

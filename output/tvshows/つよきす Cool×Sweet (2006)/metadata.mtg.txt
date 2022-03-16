@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/jy7lDgF4KyFyjorOL286VCmjM7b.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2006-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.mxtv.co.jp/tsuyokiss/",
+    "id": 36803,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-17",
+    "last_episode_to_air": {
+        "air_date": "2006-09-17",
+        "episode_number": 12,
+        "id": 832623,
+        "name": "Nice to Meet You Again! I'm Konoe Sunao!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tsuyokiss",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "つよきす Cool×Sweet",
+    "overview": "Sunao Konoe is very lively high school student who dreams of becoming a professional actress. After changing schools, she wants to establish a drama club in order to follow the path of acting, but she is constantly denied by the student council president.",
+    "popularity": 5.884,
+    "poster_path": "/cGJWARAUIrwKbJoblEF8iJMCRsn.jpg",
+    "production_companies": [
+        {
+            "id": 78802,
+            "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+            "name": "Studio Hibari",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-07-02",
+            "episode_count": 12,
+            "id": 47923,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/q17ypM6Cw4OYzaVbH28MJN7uinQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.1,
+    "vote_count": 8
+}

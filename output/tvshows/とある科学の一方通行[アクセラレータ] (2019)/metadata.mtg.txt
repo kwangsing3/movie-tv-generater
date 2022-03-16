@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/sop7SZnaT7Fmqp5xD3RZnfVlnX7.jpg",
+    "created_by": [
+        {
+            "id": 1251004,
+            "credit_id": "61ee5709e48860001e00910c",
+            "name": "Kazuma Kamachi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://toaru-project.com/accelerator/",
+    "id": 90546,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-09-27",
+    "last_episode_to_air": {
+        "air_date": "2019-09-27",
+        "episode_number": 12,
+        "id": 1850395,
+        "name": "Something to Protect",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/957zNXFrsUAlc97FngIc3Jkyy44.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "A Certain Scientific Accelerator",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "とある科学の一方通行[アクセラレータ]",
+    "overview": "After rescuing Last Order and subsequently taking a bullet to the head, Academy City’s top-ranked esper rests in the hospital. But Accelerator’s recovery is cut short when a mysterious girl carrying a photo of his little clone companion asks for help. Now they’re taking on Disciplinary Action—an anti-evil coalition whose sinister plans threaten Last Order, Academy City, and even the entire world!",
+    "popularity": 18.882,
+    "poster_path": "/10KGPY9ihuI5v9an0VF1eU5cxOs.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-30",
+            "episode_count": 1,
+            "id": 174767,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/s23XkMXFdTx7hO0Ol65LduGbpVS.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-07-12",
+            "episode_count": 12,
+            "id": 126340,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/s23XkMXFdTx7hO0Ol65LduGbpVS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 68
+}

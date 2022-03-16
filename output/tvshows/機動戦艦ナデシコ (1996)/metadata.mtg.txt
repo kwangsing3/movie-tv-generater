@@ -1,0 +1,133 @@
+{
+    "adult": false,
+    "backdrop_path": "/pPMoafI3yIXo0oC743sccsyAXpi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1996-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 35544,
+    "in_production": false,
+    "languages": [
+        "en",
+        "es",
+        "ja"
+    ],
+    "last_air_date": "1997-03-24",
+    "last_episode_to_air": {
+        "air_date": "1997-03-24",
+        "episode_number": 26,
+        "id": 802365,
+        "name": "For the Lady We Will Meet Someday",
+        "overview": "It's down to the Nadesico to keep the ancient Martian ruins out of enemy hands, but with the Jovian fleet closing in, it looks as if the only way to do that will be to destroy them! Meanwhile, a face from the past awaits Akito at the ruins, but will he arrive in time to meet her?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/oTXM04enrKAvt1SNoAnWvT25Nb8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Martian Successor Nadesico",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦艦ナデシコ",
+    "overview": "Only one ship stands between earth and total annihilation! The High Mobile Battleship Nadesico is the most formidable fighting machine ever conceived, but due to a shortage of trained soldiers, the crew is a little unorthodox. The poor Jovians don't stand a chance against the largest contingent of geeks and misfits ever sent into orbit!",
+    "popularity": 12.062,
+    "poster_path": "/iKd4q8iY1mcCCJ0GYBh9uJdlpUn.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 92860,
+            "logo_path": null,
+            "name": "Trans Arts",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104652,
+            "logo_path": "/uh7DFdoi7r7mg2JwfZewtNv96rc.png",
+            "name": "Fizz Sound Creation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1996-10-01",
+            "episode_count": 26,
+            "id": 46233,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 8
+}

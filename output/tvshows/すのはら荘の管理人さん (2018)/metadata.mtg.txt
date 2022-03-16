@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/b7iPfh85FVQ8YrgBB6Zf9IAJ9F9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://sunoharasou-anime.com/",
+    "id": 80662,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-20",
+    "last_episode_to_air": {
+        "air_date": "2018-09-20",
+        "episode_number": 12,
+        "id": 1516539,
+        "name": "Kotatsu, Year End, Santa",
+        "overview": "Aki and Ayaka stay warm under the kotatsu, Christmas comes to Sunohara House, and the residents welcome the new year together.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/68QCLOA7WgVsgfJQ0vcXjb6FbwT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Miss Caretaker of Sunohara-sou",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "bilibili",
+            "id": 1605,
+            "logo_path": "/mtmMg3PD4YGfrlmqpEiO6NL2ch9.png",
+            "origin_country": "CN"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "すのはら荘の管理人さん",
+    "overview": "Shiina Aki is constantly being treated like a girl due to his feminine looks so he decides to move to Tokyo to attend middle school in an attempt to change himself.\n\nHowever what awaits him in his new home, Sunohara-sou, is the kind-hearted caretaker, Sunohara Ayaka. Along with the three female members of Aki's new middle school's student council, Yukimoto Yuzu, Yamanashi Sumire & Kazami Yuri.\n\nAnd so begins Aki's new life in Tokyo living with 4 girls.",
+    "popularity": 25.469,
+    "poster_path": "/ie41ZWftn0TNgr83vQpqKEEsA9q.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-05",
+            "episode_count": 12,
+            "id": 106006,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vb8yiTgA9Ts9MN0knhCpJdl9IaJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 79
+}

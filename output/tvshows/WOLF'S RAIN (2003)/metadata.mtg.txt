@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/eOxpFvZkfecVVYsTj4DlCj8RzrY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2003-01-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.fujitv.co.jp/b_hp/wolfrain/index.html",
+    "id": 34801,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-07-29",
+    "last_episode_to_air": {
+        "air_date": "2003-07-29",
+        "episode_number": 26,
+        "id": 792592,
+        "name": "Moonlight Crucible",
+        "overview": "With the power in the city fluctuating because of Jaguara's ceremony Tsume and Toboe escape from their cells and meet up with Hige. They decide that they must find Kiba and stop Jaguara. Blue finds Quent and tells him that it wasn't wolves that destroyed his village. Meanwhile, Kiba breaks free of Jaguara machine and must stop her before she brings about the end of the world.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Wolf's Rain",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "WOLF'S RAIN",
+    "overview": "Paradise—a legend, a myth, and a hopeless dream in a world that has become a wasteland. It is not meant for everyone, only the wolves thought to be extinct yet still roam the lands. When the Flower Maiden awakens, the path to the end will open.\n\nKiba, a lone white wolf, wanders into a poverty stricken city on a quest. The scent of Lunar Flowers and the will to find Paradise is all he has. Along the way, he runs into other outcast wolves—Tsume, Hige, and Toboe, each with their own story and troubles. Fate bringing them together, they seek out the Flower Maiden, Cheza, and their way to Paradise. But, doing so is no simple matter. Up against a world that fears them and a man with mysterious abilities, their journey is overrun with challenges and worse—sacrifices. With limited time, they must fight to protect Cheza against everyone who seeks her and discover the hidden path to their destiny.",
+    "popularity": 32.319,
+    "poster_path": "/9FPi11HMGhrZs07IV2YkedoXJFm.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-01-23",
+            "episode_count": 4,
+            "id": 211721,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-01-07",
+            "episode_count": 26,
+            "id": 45582,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/w1Z5ItfNVVxl7HK6scnLaGSi8ze.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "The World is a Wasteland and Paradise is their Only Hope.",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 129
+}

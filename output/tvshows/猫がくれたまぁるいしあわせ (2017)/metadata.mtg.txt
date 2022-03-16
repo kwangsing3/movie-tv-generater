@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/GnIGBoBoniawSmEy4XWuzFwarO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        1
+    ],
+    "first_air_date": "2017-05-22",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.0101.co.jp/marui-shiawase",
+    "id": 76707,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-07-01",
+    "last_episode_to_air": {
+        "air_date": "2017-07-01",
+        "episode_number": 4,
+        "id": 1425046,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Neko ga Kureta Marui Shiawase",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "猫がくれたまぁるいしあわせ",
+    "overview": "Mari Hirakura is a 30 year old career woman who designs the packaging for a cosmetics company. She does her best every day but still wonders if she is okay the way she is.",
+    "popularity": 2.58,
+    "poster_path": "/rdTJ58X4Yl6ImUeb3r1RV8SKB8I.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-05-22",
+            "episode_count": 4,
+            "id": 98575,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

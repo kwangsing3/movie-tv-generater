@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/v4gs3NoRSoVWlS1kA0c9BqkTIJn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "2018-10-08",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://gaikotsu-honda-anime.com/",
+    "id": 82937,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-24",
+    "last_episode_to_air": {
+        "air_date": "2018-12-24",
+        "episode_number": 12,
+        "id": 1605029,
+        "name": "Merry Christmas, Mr. Bookstore / It's Time to Close",
+        "overview": "Christmas is a time of madness at the bookstore. Closing time is also a time of madness at the bookstore.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/puDrYF84hoVP8fpB4CFk9je8sGz.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Skull-face Bookseller Honda-san",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガイコツ書店員本田さん",
+    "overview": "Honda is a skeleton, but more importantly, he is a bookseller. And he'll tell you from firsthand experience that the job of a bookstore employee is more challenging than it may seem to the average customer.\n\nAlongside his equally eccentric coworkers, Honda constantly deals with the stressful requirements of the bookselling industry. From the drama of receiving new titles without their bonus material to the struggle of providing quality service to customers who speak a different language, the work of a skeleton bookseller never ends.\n\nNevertheless, despite the hardships he faces, Honda thoroughly enjoys his job and strives to bring the best book selections and service to his customers.",
+    "popularity": 5.608,
+    "poster_path": "/9aKzJUkC7r9UTlDpNjUnQh9CjPf.jpg",
+    "production_companies": [
+        {
+            "id": 71369,
+            "logo_path": "/gsHQTAMMRAlqYIWdN6rcSKSHRqT.png",
+            "name": "DLE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-02-27",
+            "episode_count": 1,
+            "id": 174795,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-10-08",
+            "episode_count": 12,
+            "id": 110487,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9aKzJUkC7r9UTlDpNjUnQh9CjPf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 11
+}

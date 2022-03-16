@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/gRYe3GjKWRbhRBcrSUJ0ARQe9gY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1995-01-15",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.nippon-animation.co.jp/work/1713/",
+    "id": 35832,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-12-17",
+    "last_episode_to_air": {
+        "air_date": "1995-12-17",
+        "episode_number": 33,
+        "id": 814813,
+        "name": "Skyward! On Wings of Freedom!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Romeo and the Black Brothers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 33,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ロミオの青い空",
+    "overview": "To get the money to pay for a doctor for his father, Romeo bravely sells himself as a chimney sweep. On the way to Milan he meets Alfredo, a mysterious boy on the run heading to the same fate. Upon being separated and sold to their new bosses, the two boys swear eternal friendship. Romeo has to learn the hardships of a chimney sweep's job.",
+    "popularity": 11.151,
+    "poster_path": "/r4HYMeXhK2Rx8tYVaF2xCfbVdhB.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-01-15",
+            "episode_count": 33,
+            "id": 46614,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.5,
+    "vote_count": 6
+}

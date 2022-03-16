@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": "/ixDRE0aAJgSUAPH65xd4ijNckoK.jpg",
+    "created_by": [
+        {
+            "id": 70100,
+            "credit_id": "58bc5eaa9251416084041906",
+            "name": "Shinji Aramaki",
+            "gender": 2,
+            "profile_path": "/wQRb6WeatX25rUjSSeLK31At4m4.jpg"
+        },
+        {
+            "id": 1123874,
+            "credit_id": "58bc5eccc3a368663003b565",
+            "name": "Hideki Kakinuma",
+            "gender": 2,
+            "profile_path": "/o47ewgHXooQPAP9HRrzZBSsCDKQ.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1983-10-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 13511,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1984-03-25",
+    "last_episode_to_air": {
+        "air_date": "1984-03-25",
+        "episode_number": 25,
+        "id": 500317,
+        "name": "Symphony of Light",
+        "overview": "The final episode of MOSPEADA picks up where the last left off. Stick is fighting Batra, and is shot down. Meanwhile, Houquet and Rey climb in their Legioss's, and decide to help Stick out. Jim and Mint vacate the battle scene, Jim is a ground fighter, and the ground attack is over.\n\nThe Refles decides to leave the Earth, and take her children with her. Yellow agrees to help Sorji fight off the attacks until the Refles can leave. Stick finds his TREAD Armo-Bomber, and destroys Batra.\n\nThe Refles leaves in a ball of fire, destroying the remaining Mars Base forces left in orbit. Yellow stages a concert, in which he reveals his true identity. Sorji was left behind, and she is at the concert to cheer Yellow on. Houquet and Rey leave to start their lives together. Jim, Mint, and Aisha drive off to start a farm. Stick flies back into space to return to Mars Base.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/c1v2PAr87pOpVpQGV6Vr3bSAHwS.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Genesis Climber MOSPEADA",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokai Television Broadcasting",
+            "id": 879,
+            "logo_path": "/pX3gDCsG8WcQvQbCNJ37t5w0HyG.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Hokkaido Cultural Broadcasting",
+            "id": 3721,
+            "logo_path": "/uKTzwez1p8tB4dnHMCeDjdN7xlR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機甲創世記モスピーダ",
+    "overview": "In the year 2050, an alien race, invade and successfully conquer the Earth. Years later the inhabitants of Mars Colony send out a desperate Liberation Force to try and reclaim their lost home world. Stig Bernard, finds himself on Earth, gathering a handful of resistance fighters and attempting to beat them.",
+    "popularity": 10.303,
+    "poster_path": "/qUIValr0RVGjKflidAN6W0X8WZU.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12302,
+            "logo_path": "/lkxJXc0o9M2vVoQOyWeZfiNAsXl.png",
+            "name": "ARTMIC Co., Ltd.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1985-09-01",
+            "episode_count": 5,
+            "id": 24533,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/gVCAl3qHmWFFI1WmsDjbhMVT3yN.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1983-10-02",
+            "episode_count": 25,
+            "id": 24532,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wOmmFPPtzS2OiZ3FpyvHFFBhUvK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 6
+}

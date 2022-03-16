@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/gpxz3UsJxbixhChEK13wolATKz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2018-03-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80175350",
+    "id": 78239,
+    "in_production": false,
+    "languages": [
+        "it"
+    ],
+    "last_air_date": "2018-07-30",
+    "last_episode_to_air": {
+        "air_date": "2018-07-30",
+        "episode_number": 12,
+        "id": 1546222,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/5tDEuoZd0h0uRuip1nhtJumHi9O.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "SWORD GAI: The Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ソードガイ",
+    "overview": "A young man becomes host to a legendary infernal sword and, with the fate of humanity now in his arm, wields its demonic power against his enemies.",
+    "popularity": 27.702,
+    "poster_path": "/zNUyiCEMDFXq1hYXZY2ERAwTv0V.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-03-23",
+            "episode_count": 12,
+            "id": 101203,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8A2Z8aeatocM8GYA7thVX1SigQG.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-07-30",
+            "episode_count": 12,
+            "id": 107111,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/l5SSQHcNE4uyVcxYMKIvY4jItRX.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 19
+}

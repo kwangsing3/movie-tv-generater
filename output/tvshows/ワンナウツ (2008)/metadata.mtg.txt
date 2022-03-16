@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/9ke0k95TohBkeNT2l2NHbgXFslM.jpg",
+    "created_by": [
+        {
+            "id": 1098265,
+            "credit_id": "581ea9afc3a36806ef013c3e",
+            "name": "Shinobu Kaitani",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2008-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 22366,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-04-01",
+    "last_episode_to_air": {
+        "air_date": "2009-04-01",
+        "episode_number": 25,
+        "id": 610258,
+        "name": "Beyond the Triumph...",
+        "overview": "The other team's attempt to sabotage Tokuchi is turned against them when Tokuchi and Ideguchi place the planted evidence on the batter instead. Forced to kneel down and apologize to Tokuchi to avoid exposing the team's cheating, the Lycaons are able to continue and win the game. However, the victory is just another step to achieve Kojima and the Lycaons' goal to win the championship.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yQm0MRoUjDrn1Cm0iA2DZLBsSXg.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "One Outs",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ワンナウツ",
+    "overview": "Hiromichi Kojima, the star batter of the Lycaons, heads to the southern Japanese island of Okinawa to train and find a new pitcher for the team. There, he meets Toa Tokuchi, a 134-kmph pitcher and the undisputed king of a gambling form of baseball called \"One Outs\". At Kojima's urging, Tokuchi signs up with the Lycaons under an unusual contract: he gets 5,000,000 yen for every out he pitches, but loses 50,000,000 yen for every point he gives up. A high-level psychological game of baseball, gambling and logic is about to begin..",
+    "popularity": 10.162,
+    "poster_path": "/d3WmETNNzsFrd8iHh6y75a1jgZN.jpg",
+    "production_companies": [
+        {
+            "id": 14789,
+            "logo_path": null,
+            "name": "D.N. Dream Partners",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6755,
+            "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11725,
+            "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+            "name": "VAP",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2008-10-07",
+            "episode_count": 25,
+            "id": 32289,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7WThn8wj7YPD05M57F7ZsHCABg8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Nobody wins, but I!",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 19
+}

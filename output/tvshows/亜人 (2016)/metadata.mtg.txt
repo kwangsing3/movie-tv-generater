@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/ciu9d680GxxyeDn3myMlG15qrOi.jpg",
+    "created_by": [
+        {
+            "id": 1503511,
+            "credit_id": "57fc5ccfc3a3683a8f00e64a",
+            "name": "Gamon Sakurai",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-01-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.ajin.net/",
+    "id": 65292,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-23",
+    "last_episode_to_air": {
+        "air_date": "2016-12-23",
+        "episode_number": 13,
+        "id": 1228372,
+        "name": "I Make Promises Too, Satō-san",
+        "overview": "Although he was caught off his guard, Sato has one last plan: to kill the rest of the team.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/nQCmwP5pVfpCqGOkhPwDNpfyQU8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ajin",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "亜人",
+    "overview": "17 years ago, immortals first appeared on the battlefields of Africa. Later, rare, unknown new immortal lifeforms began appearing among humans, and they became known as \"Ajin\" (demi-humans). Just before summer vacation, a Japanese high school student is instantly killed in a traffic accident on his way home from school. However, he is revived, and a price is placed on his head. Thus begins a boy's life on the run from all of humankind.",
+    "popularity": 47.805,
+    "poster_path": "/fnHBwIKxwrFleSzvHzTqcAzDRM.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2016-05-06",
+            "episode_count": 6,
+            "id": 102203,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/oMKFsynyw0wN89uPUi6bbpZcMEO.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-01-16",
+            "episode_count": 13,
+            "id": 73881,
+            "name": "Season 1",
+            "overview": "A Student named Kei Nagai, who discovers he is an \"Ajin\" when he is fatally wounded in a traffic accident.  In the world of Ajin, a small number of humans possess extreme regenerative abilities that trigger upon death or mortal infury, allow them to completely recover from their woulds in a matter of seconds. Kei, who wants no part in the emerging Ajin-human conflict.  Agree with Japanese govermental againts to fight against Satou in exchange for his freedom from government experimentation.",
+            "poster_path": "/eLzZWCSoR9YAHQ70pvy6Rvc4Xw7.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2016-10-07",
+            "episode_count": 13,
+            "id": 80691,
+            "name": "Season 2",
+            "overview": "The war betwen Ajin terrorist Satou and Ajin Administrative Committee has been escalating with Satou declaring a public assassination attempt on 15 Ajin-related VIP, an action Satou calls \"purging.\"  The final confrontations between Ajin and the Japanese goverment, as well as between Satou and Kei Nagai, are about to begin.",
+            "poster_path": "/3tZkiXgZx9yv92n8wFkqtuAAZBh.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 233
+}

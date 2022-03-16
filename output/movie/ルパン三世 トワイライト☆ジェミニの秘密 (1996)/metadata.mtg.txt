@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/dPMVrHgNIP4ZHySBn363atmifmz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10770,
+            "name": "TV Movie"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.lupin-3rd.net/anime/#!/special",
+    "id": 53894,
+    "imdb_id": "tt0363140",
+    "original_language": "ja",
+    "original_title": "ルパン三世 トワイライト☆ジェミニの秘密",
+    "overview": "Legend has it that the Twilight diamond is the key to a Moroccan treasure of immeasurable value. So, when the international thief Lupin is given the Twilight in an act of faith, it's off to Morocco! But what started out as a simple in and out job turns into chaos the moment Lupin steps off the train! Fighting factions, masked assassins, secret underground sects, a whip-yielding psychopath, corrupt cops, and the always determined Inspector Zenigata... they're all after Lupin. And they won't stop until he's caught or killed. Join Lupin, Jigen, Fujiko, and Goemon in another rousing adventure where nothing is what it seems to be... and the treasure is always just around the corner.",
+    "popularity": 6.256,
+    "poster_path": "/xen8rwhPrXRaurAl156gF6VNxL0.jpg",
+    "production_companies": [
+        {
+            "id": 6755,
+            "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11725,
+            "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+            "name": "VAP",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1780,
+            "logo_path": "/2KJ1cSBOGABQotDWSRPNY4C9amg.png",
+            "name": "Tohokushinsha Film Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1996-08-02",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lupin the Third: The Legend of Twilight Gemini",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 31
+}

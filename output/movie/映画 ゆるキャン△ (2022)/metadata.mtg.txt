@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/nBU9ZF7P397Xp7IlUfwbShigAcE.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://yurucamp.jp/cinema/",
+    "id": 566466,
+    "imdb_id": "tt14364238",
+    "original_language": "ja",
+    "original_title": "映画 ゆるキャン△",
+    "overview": "The Yuru Camp△ Secret Society Blanket Enrollment Briefing event announced an anime film of the series.",
+    "popularity": 4.363,
+    "poster_path": "/c7xL0SdXEcIOU0WMfxj6UQtYakH.jpg",
+    "production_companies": [
+        {
+            "id": 92992,
+            "logo_path": null,
+            "name": "C-Station",
+            "origin_country": "JP"
+        },
+        {
+            "id": 192,
+            "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+            "name": "Shochiku",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-07-01",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Laid-Back Camp Movie",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

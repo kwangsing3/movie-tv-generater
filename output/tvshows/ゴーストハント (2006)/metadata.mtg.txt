@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/5EhDY6z8R2ZJENDcnwvwGmFOZ56.jpg",
+    "created_by": [
+        {
+            "id": 1570047,
+            "credit_id": "60578bd18c44b9003f977cfd",
+            "name": "Fuyumi Ono",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 34809,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2007-03-27",
+    "last_episode_to_air": {
+        "air_date": "2007-03-27",
+        "episode_number": 25,
+        "id": 792856,
+        "name": "FILE 8: Cursed House #4",
+        "overview": "Bou-san manages to banish the drowned corpses attacking the base, allowing the team some respite. When the sun rises, Ayako volunteers to purify the spirits and performs a successful exorcism, surprising Bou-san and the other members of the team, but notes another force is still at work. Naru wakes up and the team moves to finish off the unseen force causing the disasters. After the team struggles to exorcise with the spirits involved, Naru uses his own psychokinetic powers and finishes the job, only to collapse afterward. He reawakens in the hospital with the rest of the team, cheerfully visiting him in his room.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "Ghost Hunt",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゴーストハント",
+    "overview": "Telling ghost stories is a favorite past time of Mai Taniyama and her friends—that is, until she meets 17-year-old Kazuya Shibuya, the man sent by Shibuya Psychic Research Center to investigate paranormal activity at a supposedly haunted school. When Mai gets caught in a dangerous situation, she is rescued by Kazuya's assistant. Saving her lands the assistant incapacitated, and Kazuya demands that Mai become his assistant, instead...",
+    "popularity": 10.999,
+    "poster_path": "/c6NdT9BDcEfIYtL0CmJEtjhVi4.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-10-03",
+            "episode_count": 25,
+            "id": 45595,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2aDuoncNLXj1yGoKjpkbTwtf9jL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 21
+}

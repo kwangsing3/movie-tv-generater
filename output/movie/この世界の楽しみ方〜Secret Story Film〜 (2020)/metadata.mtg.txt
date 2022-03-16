@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "https://honeyworks-anime.jp/",
+    "id": 737526,
+    "imdb_id": "tt13286746",
+    "original_language": "ja",
+    "original_title": "この世界の楽しみ方〜Secret Story Film〜",
+    "overview": "",
+    "popularity": 1.375,
+    "poster_path": "/hNxragxqBO6ZLsu4Uh8tPvA3zGp.jpg",
+    "production_companies": [
+        {
+            "id": 129814,
+            "logo_path": null,
+            "name": "CLAP",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2020-12-25",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "How to Enjoy This World: Secret Story Film",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/rEGAjeGb2gQAdvpMgsZCENaLDDm.jpg",
+    "created_by": [
+        {
+            "id": 101917,
+            "credit_id": "5ce35d859251414923b848d3",
+            "name": "Gōshō Aoyama",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1999-03-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 89579,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-12-29",
+    "last_episode_to_air": {
+        "air_date": "1999-12-29",
+        "episode_number": 7,
+        "id": 1794520,
+        "name": "Making of Detective Conan",
+        "overview": "Do you know how to make animation?\n\nEverybody wants to see the workings of an animation studio.\n\nBased on the concept of Detective Conan, the three sub-characters visit the animation studio of Detective Conan. This episode will surely catch the hearts of Detective Conan fans!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uDOojKrDSMGKXYX8CqVIxyjoeGc.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gosho Aoyama's Collection of Short Stories",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "青山剛昌短編集",
+    "overview": "",
+    "popularity": 0.732,
+    "poster_path": "/gq6lMid8uDWTxcVPRxQVbw1Ocs7.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-03-17",
+            "episode_count": 7,
+            "id": 124532,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ztC60sBfR7BS0v7wZRBiIbnA11L.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0
+}

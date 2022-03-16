@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/w65dy1StAVZO4PwdmnQc28OoWb5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-10-22",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://tsurune.com/",
+    "id": 83314,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-01-21",
+    "last_episode_to_air": {
+        "air_date": "2019-01-21",
+        "episode_number": 13,
+        "id": 1678302,
+        "name": "Irreplaceable",
+        "overview": "Having overcome various trials, the members of the reborn Kazemai Kyudo Club have deepened the bonds that they share. As the final match of the tournament approaches, what will the future hold for these young men who have grown together through kyudo?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/hJGGXYQxmnOBKdiV6sTUHF5BVEO.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tsurune",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK G\t",
+            "id": 469,
+            "logo_path": "/bH9mwMa64tQeVhmTmkC8Qn9Eoe.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ツルネ ―風舞高校弓道部―",
+    "overview": "When Minato Narumiya joins Prefectural Kazemai High School, he is quickly invited to join the archery club by the club's advisor, Tommy-sensei. His childhood friends Seiya Takehaya and Yamanouchi Ryohei swiftly agree to join, but Minato is hesitant at first. Because Minato is the rare student with experience in archery, Tommy-sensei orders him to give a demonstration, which Minato does... except his arrow doesn't hit the target. It is revealed that Minato has developed a terrible dysfunction regarding archery.",
+    "popularity": 15.996,
+    "poster_path": "/hD47Vc9hNlHx7ZPMolLfbfGJuWj.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-05-01",
+            "episode_count": 1,
+            "id": 199317,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-10-22",
+            "episode_count": 13,
+            "id": 111260,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/o9LKO9ZpYb83bSVYNrfLiPGQnVe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 8
+}

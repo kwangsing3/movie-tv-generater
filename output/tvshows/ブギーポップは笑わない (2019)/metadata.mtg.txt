@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/eJfxs907hFWBDtXNeARGex69lxw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-01-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://boogiepop-anime.com/",
+    "id": 84163,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-29",
+    "last_episode_to_air": {
+        "air_date": "2019-03-29",
+        "episode_number": 18,
+        "id": 1741601,
+        "name": "Overdrive: The King of Distortion 5",
+        "overview": "The truth that Teratsuki Kyouichirou just revealed in the video... He explains that what's happening in the Moon Temple right now is a collaboration between him and the King of Distortion. Niitoki Kei manages to make it to the top floor and she and Boogiepop encounter the actual King of Distortion. After seeing who the real King of Distortion is, Boogiepop realizes why he knew who Boogiepop was. The King of Distortion tells them that this is merely an experiment and that he doesn't mean to harm anyone, but...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qUM8SwFwfMKI8uDSUmuK05gJh0i.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Boogiepop and Others",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 18,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブギーポップは笑わない",
+    "overview": "There is an urban legend that tells of a shinigami that can release people from the pain they are suffering. This \"Angel of Death\" has a name—Boogiepop. And the legends are true. Boogiepop is real. When a rash of disappearances involving female students breaks out at Shinyo Academy, the police and faculty assume they just have a bunch of runaways on their hands. Yet some students know better. Something mysterious and foul is afoot. Is it Boogiepop or something even more sinister...?",
+    "popularity": 10.54,
+    "poster_path": "/lz95Bn85XN2pAXbHcSQreiUMv5b.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-04",
+            "episode_count": 18,
+            "id": 112860,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lz95Bn85XN2pAXbHcSQreiUMv5b.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 17
+}

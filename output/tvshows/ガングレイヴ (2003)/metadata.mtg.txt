@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/9tjJy6BLmeW7G4jx6vU3dcxBWT4.jpg",
+    "created_by": [
+        {
+            "id": 144768,
+            "credit_id": "526a603319c295714a2050d8",
+            "name": "Yasuhiro Nightow",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 5894,
+    "in_production": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "last_air_date": "2004-03-30",
+    "last_episode_to_air": {
+        "air_date": "2004-03-30",
+        "episode_number": 26,
+        "id": 367268,
+        "name": "Dusk of the Destroyers",
+        "overview": "At long last, Grave and Harry have come face to face. Will they fight to the death? Or will they join forces for one final run at glory?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yzockaZw38wpLPabGcGHsKEudhD.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Gungrave",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガングレイヴ",
+    "overview": "For Brandon Heat, death doesn't matter. Driven by his need for revenge, he returns from beyond the grave to cripple Milleneon, the huge mafia organization which uses undead monsters as its enforcers. His ultimate goal is to destroy Harry MacDowel, the leader of Milleneon and, at one time, Brandon's best friend...",
+    "popularity": 15.168,
+    "poster_path": "/4WdnoEFLhM70XSLlV1lkvCl56Ax.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-10-07",
+            "episode_count": 26,
+            "id": 15939,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bGRlzkndlkc3X5BykYfWaWoaEn3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 35
+}

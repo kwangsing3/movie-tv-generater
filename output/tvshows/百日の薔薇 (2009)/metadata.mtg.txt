@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/tjEb0L2LpWINuIWPmLcwOWQmNvt.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2009-05-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "",
+    "id": 44458,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-10-23",
+    "last_episode_to_air": {
+        "air_date": "2009-10-23",
+        "episode_number": 2,
+        "id": 893606,
+        "name": "The Flower of the Son of Heaven",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Maiden Rose",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "百日の薔薇",
+    "overview": "",
+    "popularity": 4.321,
+    "poster_path": "/5ylDwCXf7bNpu3OVSGwuuvOvCeh.jpg",
+    "production_companies": [
+        {
+            "id": 92065,
+            "logo_path": null,
+            "name": "PrimeTime",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-05-29",
+            "episode_count": 2,
+            "id": 53452,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kmpY9pHzExtfguUXxropcCMm2nu.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 4
+}

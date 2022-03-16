@@ -1,0 +1,142 @@
+{
+    "adult": false,
+    "backdrop_path": "/8CjiZYsE1B9UcGqElzDNxeNivXy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-01-12",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://rollinggirls.com/",
+    "id": 70634,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-29",
+    "last_episode_to_air": {
+        "air_date": "2015-03-29",
+        "episode_number": 12,
+        "id": 1284019,
+        "name": "The Future Is in Our Hands",
+        "overview": "What can four Rest girls do thrown in amongst Bests and robots and aliens? In the midst of all the fighting, can the girls bring peace?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vsHf8Ji81yLx2Ret1KLMvbO6sH6.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "The Rolling Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ローリング☆ガールズ",
+    "overview": "Ten years after the Great Tokyo War, each prefecture in Japan has split up into independent nations. Each nation is ruled by a prophet called \"Mosa\" and an army called \"Mob\" as they start to compete to take over other countries. Four \"Mob\" girls from the Saitama clan, Nozomi, Yukina, Ai, and Chiaya, are ordered by their \"Mosa\" to travel around Japan riding their motorcycles to mediate multiple battles between nations and clans as they emerge.",
+    "popularity": 8.307,
+    "poster_path": "/fZE3iT1FVIqBXAvWHgVj05UXb36.jpg",
+    "production_companies": [
+        {
+            "id": 31058,
+            "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+            "name": "Wit Studio",
+            "origin_country": "JP"
+        },
+        {
+            "id": 192,
+            "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+            "name": "Shochiku",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 6,
+            "id": 127671,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-01-12",
+            "episode_count": 12,
+            "id": 86004,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/faEvOOKLMC1zE1Xvaz2bbzVsWuh.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 9
+}

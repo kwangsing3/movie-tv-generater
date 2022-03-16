@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/29CKrUyTxES06KkLDDvHnZih60a.jpg",
+    "created_by": [
+        {
+            "id": 2486853,
+            "credit_id": "5dfcfe06d1a893001285391d",
+            "name": "Yasu Tora",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2013-03-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 49307,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-05-30",
+    "last_episode_to_air": {
+        "air_date": "2013-05-30",
+        "episode_number": 12,
+        "id": 916702,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cyclops Girl Cypu",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サイクロプス少女さいぷ～",
+    "overview": "When Fuuka hit her second year of middle school, puberty kicked in. Now she's really tall and has huge boobs. Due to her hairstyle, her classmates call her \"Saipu\", after the cyclops. Her affection for her older brother was cute when she was a little girl and said she wanted to marry him. Now it just freaks him out, since she's decided she's adult enough to follow through on her childish promises.",
+    "popularity": 6.024,
+    "poster_path": "/j9h1MKl8G2D88sX67xNoVaJe2e6.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-03-12",
+            "episode_count": 12,
+            "id": 55321,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/j9h1MKl8G2D88sX67xNoVaJe2e6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 42
+}

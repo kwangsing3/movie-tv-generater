@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/q2AAQdTJopOKjhoefLlmjzv4nSr.jpg",
+    "belongs_to_collection": {
+        "id": 661025,
+        "name": "Pokémon: Advanced Generation Collection",
+        "poster_path": "/fVqW8J9BWYKDg6L2fZyso47dqbD.jpg",
+        "backdrop_path": "/dsK9kYcQVxN2jtOlLlJDKn9yg6y.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 34065,
+    "imdb_id": "tt0435286",
+    "original_language": "ja",
+    "original_title": "劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス",
+    "overview": "A comet bearing a deadly Pokemon creature crash-lands onto Earth, terrorising a nearby high-tech city, where Ash, Pikachu and friends are currently visiting...",
+    "popularity": 19.069,
+    "poster_path": "/uEeLCGLIXH1ElS53hyUQInJB0Ub.jpg",
+    "production_companies": [
+        {
+            "id": 12653,
+            "logo_path": null,
+            "name": "Pikachu Project",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2004-07-22",
+    "revenue": 34300000,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pokémon: Destiny Deoxys",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 191
+}

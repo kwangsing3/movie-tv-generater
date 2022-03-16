@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2005-05-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.zettai-shonen.com/",
+    "id": 42914,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-11-12",
+    "last_episode_to_air": {
+        "air_date": "2005-11-12",
+        "episode_number": 26,
+        "id": 2794149,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Zettai Shonen",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Zettai Shonen",
+    "overview": "Ayumu Aizawa who can't recall his childhood. He doesn't suffer from amnesia but his younger days are a mystery to him.\n\nWhen asked to spend the summer with his father in Tana, a rural town two hours away from his home in Tokyo, Ayumu refuses as he has not seen his divorced father in four years. He gets bribed by his mother with a mountain bicycle and reluctantly agrees.\n\nUnbeknownst to him, this fateful trip will put together bits of his past. Soon after arriving at Tana, Ayumu encounters strange happenings such as meeting a mysterious boy called Wakkun, who lives in an enchanted forest, and floating orbs of lights appearing in the sky.",
+    "popularity": 8.109,
+    "poster_path": "/xHpnG2RElHktwO3CTIgBR89BkAg.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-05-21",
+            "episode_count": 26,
+            "id": 52419,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

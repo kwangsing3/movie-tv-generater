@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/jLmrfLLtWPFGR1HbUOfuNVLjK4G.jpg",
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "5934b0a3c3a36859de027e30",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1983-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 44648,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-12-28",
+    "last_episode_to_air": {
+        "air_date": "1983-12-28",
+        "episode_number": 26,
+        "id": 2309480,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Psycho Armor Govarian",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サイコアーマー ゴーバリアン",
+    "overview": "Psychic youths to use their talents to defend earth against the oncoming Garadian invasion. Of course, there will be robots.",
+    "popularity": 1.049,
+    "poster_path": "/hXn9WR9eqNKKysaoyDxXlU8dpFx.jpg",
+    "production_companies": [
+        {
+            "id": 82919,
+            "logo_path": null,
+            "name": "KnacK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1983-07-06",
+            "episode_count": 26,
+            "id": 88982,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

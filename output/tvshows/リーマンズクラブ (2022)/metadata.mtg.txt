@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/btGV4YEp8RaFs0K4u1FdLp547mN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2022-01-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://rymansclub.com/",
+    "id": 136841,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 7,
+        "id": 3416376,
+        "name": "Alternative",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jcexk6VpFDYklIy1Fe60VU3uN4r.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Salaryman's Club",
+    "next_episode_to_air": {
+        "air_date": "2022-03-20",
+        "episode_number": 8,
+        "id": 3416377,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "リーマンズクラブ",
+    "overview": "Salaryman's Club is set in a badminton business group, depicting the two different aspects of daily life as a salaryman, as well as growth and conflicts as players. The anime follows Mikoto Shiratori, a prodigy badminton player who suffers from a trauma following a loss at the inter-high tournament. He becomes a salaryman at the Sunlight Beverage company and befriends Tatsuru Miyazumi, the best performing player and salesman in the team.",
+    "popularity": 86.764,
+    "poster_path": "/ioJBOA9WycKCWRMlbW7BgZB4iOK.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9067,
+            "logo_path": null,
+            "name": "Glovision",
+            "origin_country": "JP"
+        },
+        {
+            "id": 106076,
+            "logo_path": "/5FHxgxvhqNC6aOVce3X9T2Wz426.png",
+            "name": "Felix Film",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-30",
+            "episode_count": 12,
+            "id": 216471,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/y6mkDew2hqO1Kb3SJrdu0j591fK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        100
+    ],
+    "first_air_date": "1996-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 43416,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1996-09-26",
+    "last_episode_to_air": {
+        "air_date": "1996-09-26",
+        "episode_number": 4,
+        "id": 887967,
+        "name": "Case 4: Policetown Assault - Act 2",
+        "overview": "Team Warrior must take back the police headquarters from the terrorists. Nanvel has some new toys that will help Rio and Maya, though. She gives Maya a new gun that's light, but more powerful than a tank gun. Rio gets a weapon called the \"Armored Knucklebuster\". She wears it on her forearm and it gives her greater strength when she punches. Rio, Maya and Lilica must all use their specialized skills to defeat this new enemy.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Burn-Up W",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BURN-UP W",
+    "overview": "Burn Up W is an anime OVA directed by Hiroshi Negishi and released in 1996. It was soon followed by a series version called Burn Up Excess though it occasionally lacks continuity with the series. The OVA consists of four episodes, chronicling Team Warrior through more missions. Like the original series, there is still a large amount of fan service.",
+    "popularity": 4.666,
+    "poster_path": "/2q4HCIUNhcrEobjNHp5CczChSZm.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1996-04-10",
+            "episode_count": 4,
+            "id": 52829,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9SVkLSNngem4aEtWSo8yN4vG2H7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.5,
+    "vote_count": 4
+}

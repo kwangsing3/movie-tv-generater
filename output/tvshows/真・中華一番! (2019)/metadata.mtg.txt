@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/glHLRL0zgKXKHwBm7NOD2jqNx9a.jpg",
+    "created_by": [
+        {
+            "id": 2410663,
+            "credit_id": "60171fb1d96c3c0040119c73",
+            "name": "Etsushi Ogawa",
+            "gender": 2,
+            "profile_path": "/hjRU9EjN36mDQZuaSaSgBniXRTd.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://cookingmaster-anime.jp/",
+    "id": 96196,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-30",
+    "last_episode_to_air": {
+        "air_date": "2021-03-30",
+        "episode_number": 12,
+        "id": 2684356,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/tRH18pSBNrPzWOGauJpOIr4pVpX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "True Cooking Master Boy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "bilibili",
+            "id": 1605,
+            "logo_path": "/mtmMg3PD4YGfrlmqpEiO6NL2ch9.png",
+            "origin_country": "CN"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "真・中華一番!",
+    "overview": "After the death of Mao's mother -  Pai -  who was called the Goddess of Cuisine,  Mao wants to be the Master Chef of his mother's restaurant. However, before Mao takes his mother's place as Master Chef, he travels to China in order to learn more of the many ways of cooking, in the hopes of becoming a legendary chef just like his mother.",
+    "popularity": 7.718,
+    "poster_path": "/mg2fUxfH3ktaWqbSq4oL3g3yyCm.jpg",
+    "production_companies": [
+        {
+            "id": 127609,
+            "logo_path": null,
+            "name": "杰外动漫",
+            "origin_country": ""
+        },
+        {
+            "id": 74838,
+            "logo_path": null,
+            "name": "NAS",
+            "origin_country": ""
+        },
+        {
+            "id": 123014,
+            "logo_path": null,
+            "name": "JY Animation",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-11",
+            "episode_count": 12,
+            "id": 137504,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mg2fUxfH3ktaWqbSq4oL3g3yyCm.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-01-12",
+            "episode_count": 12,
+            "id": 173457,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/3nfhqVlCYk9RU1dkpZbFdgV2Lm0.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.9,
+    "vote_count": 7
+}

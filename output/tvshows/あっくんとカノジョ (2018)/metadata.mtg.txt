@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/661Np9eUOWAtVx8jvowND9krp9j.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2018-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://akkun-kanojo.jp/",
+    "id": 77723,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-22",
+    "last_episode_to_air": {
+        "air_date": "2018-09-22",
+        "episode_number": 25,
+        "id": 1575748,
+        "name": "My Sweet Tyrant",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mKVOGECwFRdKtoFjav0lCRGZZXE.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "My Sweet Tyrant",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あっくんとカノジョ",
+    "overview": "The romantic comedy follows the everyday life of an extremely tsundere boy named Atsuhiro \"Akkun\" Kagari and his girlfriend Non \"Nontan\" Katagiri. Akkun's behavior is harsh towards Nontan with verbal abuse and neglect, but he actually is head-over-heels for her and habitually acts like a stalker by tailing her or eavesdropping. Nontan is oblivious to Akkun's stalker ways, and thinks his actions are cute.",
+    "popularity": 17.555,
+    "poster_path": "/eG8r71D9CfRvHCVick2HObofIxn.jpg",
+    "production_companies": [
+        {
+            "id": 10804,
+            "logo_path": "/f1mRiEP0loBe1n4FqmAeUiC68kI.png",
+            "name": "Yumeta Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-06",
+            "episode_count": 25,
+            "id": 100382,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/24jlt7a1rbZnG7IGJClAVUlRJdw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 10
+}

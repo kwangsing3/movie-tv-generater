@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/cxKFeDXnTuLBvY2pANWLOGzn5JB.jpg",
+    "created_by": [
+        {
+            "id": 3161832,
+            "credit_id": "621940428d2f8d006a708514",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-02-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=158",
+    "id": 45012,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-01-25",
+    "last_episode_to_air": {
+        "air_date": "2004-01-25",
+        "episode_number": 50,
+        "id": 3529436,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Crush Gear Nitro",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クラッシュギアNitro",
+    "overview": "Crush Gear Nitro is an anime series produced by Sunrise, spanning 50 episodes. It is aired on TV Asahi from February 2, 2003 to January 25, 2004. It is a sequel to Crush Gear Turbo with entirely new characters, Crush Gears and storyline.",
+    "popularity": 0.6,
+    "poster_path": "/kMkuNeDCzsNfDwSG3kg3SzLnuCJ.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-02-02",
+            "episode_count": 50,
+            "id": 244380,
+            "name": "Season 1",
+            "overview": "Here comes a new Crush Gear story! Masaru is 5th Grade boy who loves Crush Gear very much. But he does not have his own original Gear. One day he and his family move to a new town where Masaru meets a hero called “Crush Kid.” “Crush Kid” is a well-known Gear Fighter who uses a gear called “Garuda Phoenix.” Masaru accidentally participates in the Gear fight using “Garuda Phoenix” and wins the game. This was the beginning of his life as a Gear Fighter.",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/3t77iT4neKIZktuwwNhaIdT8NB8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://arte-anime.com/",
+    "id": 95697,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-20",
+    "last_episode_to_air": {
+        "air_date": "2020-06-20",
+        "episode_number": 12,
+        "id": 2181128,
+        "name": "Apprentice",
+        "overview": "Arte finishes the Falier portraits and returns to Florence, reuniting with her friends and family there.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jbG92M1W79QW22lrwSQBPYLs0VR.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Arte",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アルテ",
+    "overview": "In the 16th century, Arte, a delightful young lady from an aristocratic family, dreams of being an artist and contributing to the renewal of civilization. However, with her father's death, she ends up losing the only person who believed in her passion for art. Now she is expected to marry a nobleman and live as a refined housewife without disgracing her family name. Reluctant to accept her fate, the headstrong Arte steps into the streets in search of a master artisan to take her on as an apprentice.\n\nBut no one believes that women are capable of fine craftsmanship, so none are willing to accept her. Luckily, a renowned artisan by the name of Leo is persuaded to take her as his disciple since he has none anyway. And thus, Arte's new life begins, far from the comfort of her noble upbringing. As an apprentice, she must earn her keep while tackling various challenges along the difficult path to becoming a full-fledged, master artisan.",
+    "popularity": 21.771,
+    "poster_path": "/vtlujR0LEjyBTT5s0CEtYdqeCaw.jpg",
+    "production_companies": [
+        {
+            "id": 34767,
+            "logo_path": "/bwQwcvERESoieoPksEq1iZsRW0J.png",
+            "name": "Seven Arcs",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-04",
+            "episode_count": 12,
+            "id": 136283,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mQMdfZXswhavz9lz4Ydq9qC7IeE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 59
+}

@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/gUorGKMU5VTBGHYPb7kVt8UfEG4.jpg",
+    "created_by": [
+        {
+            "id": 1250472,
+            "credit_id": "5446824c0e0a26633600b31e",
+            "name": "Kenichi Kasai",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-07-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://lovestage-tv.jp/",
+    "id": 61534,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-11",
+    "last_episode_to_air": {
+        "air_date": "2014-09-11",
+        "episode_number": 10,
+        "id": 1012638,
+        "name": "Love Isn't Enough",
+        "overview": "Izumi here. I’d never realized before just how hard Ryouma has worked for my sake… how many things he’s done for me, and how much I mean to him. Sorry it took me so long, Ryouma. But now, I finally know what my honest feelings are. So now it’s my turn to tell you how I feel! Wait for me, Ryouma. \"I need to see Ryouma right now! I want to hold him in my arms right now!!\"",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/n3w5GYOqfHw9qmMDgdtJzZqYGhG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love Stage!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "LOVE STAGE!!",
+    "overview": "Izumi was born in a family of celebrities. His father is a singer, his mother an artist, his older brother the lead vocalist for the popular band Crashers. Izumi himself, however, is just a nerdy college student. He loves the manga \"Magical Girl Lala Lulu\" and dreams of becoming a manga writer himself. One day he is roped into filming a commercial where he wears a dress. Another actor on the set, Ryoma Ichijo, mistakes him for a woman and falls in love at first sight. As it turns out, though, they met ten years in the past. And Ryoma feelings don't change when he finds out Izumi is a boy.",
+    "popularity": 22.203,
+    "poster_path": "/ow7Yq9zcrWOPD06A624uDhI4ytD.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-10",
+            "episode_count": 10,
+            "id": 63145,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fIb1TnlfP8P0FBnVegXCxzLafwO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 14
+}

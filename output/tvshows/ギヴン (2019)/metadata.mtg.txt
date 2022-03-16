@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/7gbmM2NWcqZONbp65HUWDf4wr0Q.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://given-anime.com/",
+    "id": 88040,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-09-20",
+    "last_episode_to_air": {
+        "air_date": "2019-09-20",
+        "episode_number": 11,
+        "id": 1821974,
+        "name": "Song2",
+        "overview": "Mafuyu tells Ritsuka that he likes him and Ritsuka is ecstatic to find out that they both like each other but at the same time, he remembers himself saying that band members should never bring relationships into the band. However, they both decide to talk to Haruki and Akihiko about it. Haruki gives them a lecture and Akihiko congratulates them. Meanwhile, Haruki, who likes Akihiko...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jCVp3AgKkPlfrTSeajv6T1WDc2I.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Given",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ギヴン",
+    "overview": "Tightly clutching his Gibson guitar, Mafuyu Satou steps out of his dark apartment to begin another day of his high school life. While taking a nap in a quiet spot on the gymnasium staircase, he has a chance encounter with fellow student Ritsuka Uenoyama, who berates him for letting his guitar's strings rust and break. Noticing Uenoyama's knowledge of the instrument, Satou pleads for him to fix it and to teach him how to play. Uenoyama eventually agrees and invites him to sit in on a jam session with his two band mates: bassist Haruki Nakayama and drummer Akihiko Kaji.",
+    "popularity": 43.68,
+    "poster_path": "/pdDCcAq8RNSZNk81PXYoHNUPHjn.jpg",
+    "production_companies": [
+        {
+            "id": 42811,
+            "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
+            "name": "Lerche",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-12-01",
+            "episode_count": 1,
+            "id": 197057,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/uX0XLiZpA1tuyobSMb38HyGv5xR.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-07-12",
+            "episode_count": 11,
+            "id": 121356,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vmuzyiHZv3JNRVUOEAEy0YqJKsO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Can't say goodbye, I'm still drifting with your echoes.",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 590
+}

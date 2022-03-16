@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/ywbU0XaDH4glEkzeYKMmQLQWAfX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.vap.co.jp/jinsei/",
+    "id": 60993,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-28",
+    "last_episode_to_air": {
+        "air_date": "2014-09-28",
+        "episode_number": 13,
+        "id": 1506910,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yci8EYgELRbhfTODSCoYZACf5Ch.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "JINSEI - Life Consulting",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "人生相談テレビアニメーション「人生」",
+    "overview": "When bespectacled Yuki Akamatsu joins his school’s 2nd Newspaper Club, he finds himself caught in the crossfire between three pretty panelists assigned to the Life Advice column. Rino Endo has a mind for science, Fumi Kujo loves literature, and Izumi Suzuki covers the world of sports. If students have questions that need answers, these are the girls to ask, but cute as they may be, these panelists never seem to agree on anything! Needless to say, navigating life in the 2nd Newspaper Club is gonna be more than poor Yuki bargained for!",
+    "popularity": 6.114,
+    "poster_path": "/tbr9UB78TYrfa0eGlsGk5dp28Fe.jpg",
+    "production_companies": [
+        {
+            "id": 17315,
+            "logo_path": "/8QPhCeRCNVa3jYCtDvThTlAGYSL.png",
+            "name": "feel.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-06",
+            "episode_count": 13,
+            "id": 61676,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eGlSHEAbjvS0u30LPWPla8SKDZ6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 3
+}

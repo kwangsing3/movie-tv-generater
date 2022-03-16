@@ -1,0 +1,138 @@
+{
+    "adult": false,
+    "backdrop_path": "/4XhCA0UoGMz6RJw6LBwwGeNgwQ0.jpg",
+    "created_by": [
+        {
+            "id": 1461946,
+            "credit_id": "55442c25c3a3680cd7003271",
+            "name": "Hajime Taguchi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-07-06",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "https://www.tbs.co.jp/anime/nakaimo/",
+    "id": 45277,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-28",
+    "last_episode_to_air": {
+        "air_date": "2012-09-28",
+        "episode_number": 12,
+        "id": 900376,
+        "name": "My Sister Was Always Beside Me",
+        "overview": "With the help of Ikusu, Shogo has finally put the clues together on who his real sister is.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5IgxwtlHAf8klm5OViCumqHr2vk.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Nakaimo: My Little Sister Is Among Them!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "この中に１人、妹がいる！",
+    "overview": "Is insanity hereditary? Shougo Mikadono's beginning to think so, because the terms of his late father's will seem crazy and following them may drive Shougo bonkers as well. Oh, it sounds simple at first: before Shougo can claim his VERY large inheritance, he just has to start attending a certain new school and find a nice girl to marry.\n\nIt's a little unromantic, but perfectly do-able, right? After all, all the girls seem quite friendly, so all Shougo has to do is find one he has something in common with. Except, and here's the kicker, it turns out that Shougo has WAY too much in common with one of them, because she's actually his long-lost sister! And he has no idea which one she is!\n\nWill Shougo meet and court his Miss Right without committing something very morally wrong? Can he find his future bride without slipping into the wrong set of genes? And if his little sister does reveal herself, just how much will be revealed and under what circumstances?",
+    "popularity": 15.112,
+    "poster_path": "/y7U5YwTl88pUb5lr9xecPfPIc1S.jpg",
+    "production_companies": [
+        {
+            "id": 25504,
+            "logo_path": null,
+            "name": "Studio Gokumi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-03-27",
+            "episode_count": 1,
+            "id": 53911,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/q4Riv96KTwXbZkjDVz1HbgAopWI.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-07-06",
+            "episode_count": 12,
+            "id": 53910,
+            "name": "Season 1",
+            "overview": "Shogo Mikadono is the son of an industrial magnate named Kumagoro Mikadono who passed away. As a final wish, Kumagoro imposed a condition Shogo must meet before he can inherit the family legacy—find a female mate at school. Shogo transfers into a school to fulfill that condition. However, he learns that he has a younger sister from whom he was separated at birth. He does not know what his long-lost sister looks like, but she happens to be one of the students at his new school.",
+            "poster_path": "/mdb0iArH2aKgXo19SPztMkXnyRN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 12
+}

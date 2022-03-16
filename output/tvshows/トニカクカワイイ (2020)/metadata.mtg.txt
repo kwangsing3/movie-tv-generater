@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/bumV92xTI3R5Zd5X6biUy4rXbS4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://tonikawa.com",
+    "id": 100049,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-19",
+    "last_episode_to_air": {
+        "air_date": "2020-12-19",
+        "episode_number": 12,
+        "id": 2466621,
+        "name": "Husband and Wife",
+        "overview": "Nasa comes down with a fever while at work. Despite his claims of being fine, Tsukasa takes him to the hospital and starts to nurse him back to health. After recovering, the two of them head to a summer festival. When Nasa begins to wonder about how many people out there worry about him, Tsukasa has something to say.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fYHRzanxdqD1rZq8N2WFJUX64cm.jpg",
+        "vote_average": 7.3,
+        "vote_count": 3
+    },
+    "name": "TONIKAWA: Over the Moon for You",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "トニカクカワイイ",
+    "overview": "First comes marriage, then comes an earthbound love that is out of this world!\n\nFrom the day his parents named him, Nasa Yuzaki has been destined for outer space...or so he believes. But while trying to join the space program, he is thrown for a loop when an accident introduces him to Tsukasa, a mysterious girl with strange powers. Is she an alien, a moon goddess or something else? Since she insists on marrying him, Nasa has plenty of chances to find out!",
+    "popularity": 158.042,
+    "poster_path": "/jJKTrIfZKoFV66HGMzSa4tkObK0.jpg",
+    "production_companies": [
+        {
+            "id": 34767,
+            "logo_path": "/bwQwcvERESoieoPksEq1iZsRW0J.png",
+            "name": "Seven Arcs",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-08",
+            "episode_count": 14,
+            "id": 168612,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/qUXMHx9BRKTx604Uc0E4j9DxCC5.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-10-03",
+            "episode_count": 12,
+            "id": 144509,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qUXMHx9BRKTx604Uc0E4j9DxCC5.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 1054
+}

@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/kmOkE1nG7Yu4r57xMjulAod5gk3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-02-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/hugtto_precure/",
+    "id": 76866,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-01-27",
+    "last_episode_to_air": {
+        "air_date": "2019-01-27",
+        "episode_number": 49,
+        "id": 2371370,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hugtto! Precure",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "HUGっと!プリキュア",
+    "overview": "Nono Hana is an 8th grade student who wants to be a stylish and mature big sister like figure. She always puts on a lovely smile and loves to search for exciting things. One day, Hana meets a baby named Hug-tan and her guardian fairy named Harry who had fallen from the sky. At that exact moment, an evil organisation called Dark Tomorrow suddenly appeared! They're trying to forcefully take Hug-tan's Mirai Crystal! In order to protect Hug-tan, Hana wishes to do something to help her, and her wish is granted, as she gains a Mirai Crystal and transforms into Cure Yell. The world is overflowed with Tomorrow Powerer, which is the power to create a brilliant tomorrow, which is crystalized into the Mirai Crystals. If it's stolen, everyone's future will not exist. To protect Hug-tan and everyone's future, Cure Yell will do her best!",
+    "popularity": 6.957,
+    "poster_path": "/vfu6I5rTX6UOVcxfyn5mDDe6QFF.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-02-04",
+            "episode_count": 49,
+            "id": 98878,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/x1iqw2dKs7KtK7VQ76DkfgHsCs1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Mecchoku!",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 3
+}

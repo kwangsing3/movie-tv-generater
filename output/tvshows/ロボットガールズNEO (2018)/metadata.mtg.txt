@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/s6a9eWhIzGFmXghkvQDv9vVSM25.jpg",
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "60b531a9ec0c5800406e7dcc",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2018-08-18",
+    "genres": [],
+    "homepage": "https://www.toei-anim.co.jp/sp/robot-girlsz/index.php",
+    "id": 126706,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-01",
+    "last_episode_to_air": {
+        "air_date": "2018-09-01",
+        "episode_number": 3,
+        "id": 2991280,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fDG9NgRqRJPaW7EtTMUnDATpXzG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Robot Girls NEO",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ロボットガールズNEO",
+    "overview": "",
+    "popularity": 1.195,
+    "poster_path": "/8N5RPE7JofLAKMdfzSwfRIX7QWT.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-08-18",
+            "episode_count": 3,
+            "id": 197547,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8N5RPE7JofLAKMdfzSwfRIX7QWT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 9,
+    "vote_count": 1
+}

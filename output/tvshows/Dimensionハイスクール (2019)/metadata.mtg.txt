@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/hmMPTi0lcE7DFeahK7j6UiECeQR.jpg",
+    "created_by": [
+        {
+            "id": 127295,
+            "credit_id": "5c2f75a2c3a3682919a6f9a2",
+            "name": "Yuichi Abe",
+            "gender": 2,
+            "profile_path": "/b9WERnD0Ud2hgvjnj07CYAjdTiQ.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2019-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://dimension-hs.com/",
+    "id": 84662,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-04-04",
+    "last_episode_to_air": {
+        "air_date": "2019-04-04",
+        "episode_number": 12,
+        "id": 2934104,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dimension High School",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Dimensionハイスクール",
+    "overview": "One day, on his way to high school, student Junpei picks up an unusual looking rock. Thinking nothing of it, he heads to class. While in the middle of a session, the rock comes to life and transports him and four others to an animated world! To make matters more interesting, the group is introduced to a giant sphinx who is determined to take over the world! Now, to protect their world from invasion, the group must work together as anime characters and real-world humans!",
+    "popularity": 1.669,
+    "poster_path": "/aMHuMNqpRViOnj8IJENDRAZDDJg.jpg",
+    "production_companies": [
+        {
+            "id": 3033,
+            "logo_path": "/AwgX2FHGJd54aSWfWJqptFvT1h.png",
+            "name": "Asmik Ace",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-10",
+            "episode_count": 12,
+            "id": 113760,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/jxHJMlaRpB6CwMgfLleHPQ1EsEN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-09-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/beet/",
+    "id": 43276,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-30",
+    "last_episode_to_air": {
+        "air_date": "2006-03-30",
+        "episode_number": 25,
+        "id": 887331,
+        "name": "Farewell Shantigo!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Beet the Vandel Buster",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 77,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "冒険王ビィト",
+    "overview": "The story takes place in a fantasy world where humans have been suffering from the attacks of the demon-like Vandels. Humans can fight back by becoming a Vandel Buster, a paid monster and Vandel assassin. The protagonist of the story, Beet, is a young boy who becomes a Vandel Buster to be like his heroes, the Zenon Warriors.",
+    "popularity": 28.204,
+    "poster_path": "/z8b4duKsLjnk5oKR5DfFmNYjH1V.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-09-30",
+            "episode_count": 52,
+            "id": 52757,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2005-10-06",
+            "episode_count": 25,
+            "id": 52758,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

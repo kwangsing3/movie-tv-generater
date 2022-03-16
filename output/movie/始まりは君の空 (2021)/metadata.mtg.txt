@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/81AId1foK4vEf7Tj80uE62D1n6E.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "",
+    "id": 926048,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "始まりは君の空",
+    "overview": "Hajimari wa Kimi no Sora (始まりは君の空 lit. The Beginning Is Your Sky) is Liella!'s first single, that was released on April 7, 2021.",
+    "popularity": 0.924,
+    "poster_path": "/zcO612ks2lrVsLPK9oRaEGc4P9I.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-04-07",
+    "revenue": 0,
+    "runtime": 6,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hajimari wa Kimi no Sora",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1
+}

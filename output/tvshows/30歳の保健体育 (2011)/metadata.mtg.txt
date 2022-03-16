@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/3jDhbBpJSh85uHsuSt6VLIp3cj9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "2011-05-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 67922,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-04-27",
+    "last_episode_to_air": {
+        "air_date": "2014-04-27",
+        "episode_number": 4,
+        "id": 1224719,
+        "name": "The First Miss Bulgaria",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qsfI5tF0kkb5aaair6gS5EOcpkz.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "A Thirty-Year Old's Health and Physical Education",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "30歳の保健体育",
+    "overview": "Hayao Imagawa is a 30 year-old virgin bachelor. One day, a cupid descends from heaven with the express purpose of forcing him to graduate from virginity. Thus unfolds a pure love story between a 30 year-old bachelor and a 30 year-old bachelorette.",
+    "popularity": 8.37,
+    "poster_path": "/izvmVfsgwUjxbEBLhM4UL5agJSZ.jpg",
+    "production_companies": [
+        {
+            "id": 99170,
+            "logo_path": "/4Ao5ZncaRPpYtP6JH7TkMxxkPW0.png",
+            "name": "Gathering",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150372,
+            "logo_path": null,
+            "name": "Sound Team・Don Juan",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-07-22",
+            "episode_count": 3,
+            "id": 283054,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-05-06",
+            "episode_count": 12,
+            "id": 80320,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jS9devjgpFWxSH0G8JtQjIoWzmG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 23
+}

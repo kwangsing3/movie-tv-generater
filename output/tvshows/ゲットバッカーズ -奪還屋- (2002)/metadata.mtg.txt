@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/m1J74KGf3zPuCSbOnfRg5zOFys9.jpg",
+    "created_by": [
+        {
+            "id": 1895540,
+            "credit_id": "5f3a59fc22df2e00365e3d7f",
+            "name": "Shin Kibayashi",
+            "gender": 2,
+            "profile_path": "/yptzCwsIZ71q0MnY3DVz8W0a7PA.jpg"
+        },
+        {
+            "id": 2745203,
+            "credit_id": "5f3a57137390c00037633ca3",
+            "name": "Rando Ayamine",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2002-10-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 62883,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-09-20",
+    "last_episode_to_air": {
+        "air_date": "2003-09-20",
+        "episode_number": 24,
+        "id": 1074437,
+        "name": "GetBackers",
+        "overview": "Ginji defeats Masaki, and then questions his actions. Kanou interrogates Ren, realizing than she is assisting in rescuing Makubex. Kanou, however, is stopped by Shido and Emishi. Masaki says to Ginji that he was sent by The Brain Trust to erase the existence of Makubex, noting that he is an illusion, but he was against it. Masaki goes with Ginji and Ban to the Archive, only to find out that Makubex himself is erasing his own existence. Ginji uses his lightning to destroy the Archive, creating a power outage in the Limitless Fortress. After the emergency power activates, Makubex is restored. It is revealed that all of the data of Makubex was transferred out of the Archive before Ginji restored him. Therefore, the residents of Lower Town will be free from the experiments of The Brain Trust. Teshimine returns, bringing gladness to Ginji. Back at the Honky Tonk cafe, Kaoru appears and removes the seal from Sakura's arm, rejuvenating her. Ren returns to Gen in the pharmacy. In the Honky Tonk cafe, Ban and Ginji continue on with their lives as a recovery service.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/nsCQOde9jSVRMRrlvUpPL2qy1Vn.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "GetBackers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゲットバッカーズ -奪還屋-",
+    "overview": "They're the Get Backers, and they live by a simple motto: If it was taken, we'll get it back. Their success rate is 100%. They may have no luck with money, but they always come through on a job, no matter how small. Ban and Ginji are no ordinary retrieval service though. With Ginji's ability to generate lightning and Ban's Jagan Eye and 200kg force grip, they'll take on any job, from retrieving stuffed toys to fine art to lost memories. If the GetBackers say they'll get it back, they will!",
+    "popularity": 25.056,
+    "poster_path": "/d0Ce4UnaJ4PKmcjyziFJjrpUsD0.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-10-05",
+            "episode_count": 25,
+            "id": 67428,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tHKB6hngk7NVOQFogWGict6Caqi.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2003-04-12",
+            "episode_count": 24,
+            "id": 67529,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/pZgZ7PeAy3jX0AGvKd8f6ANf7nL.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Get Backers",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 11
+}

@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/q3Q17ursfzuBYS5b6J8BG9ucjis.jpg",
+    "created_by": [
+        {
+            "id": 554868,
+            "credit_id": "5cd68b2d92514106f6ce39d0",
+            "name": "Masaki Kajishima",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        32
+    ],
+    "first_air_date": "1997-11-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 39383,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-02-18",
+    "last_episode_to_air": {
+        "air_date": "1999-02-18",
+        "episode_number": 6,
+        "id": 867786,
+        "name": "Photon of the Green Planet",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/w7QP4aSEdR2THUPqdjN0bhkti9t.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Photon: The Idiot Adventures",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "フォトン",
+    "overview": "Photon, a young man with a kind heart and superhuman strength, leaves his village on Sandy Planet (a desert world) in search of a runaway friend. During this heroic quest, he is accidentally engaged to a renegade space pilot! Now they're on the run from the evil emperor of the galaxy and his bumbling henchmen. But even worse than the incompetent bad guys are the disastrous cooking contests, exploding spas and cheer-leading aliens!",
+    "popularity": 2.91,
+    "poster_path": "/nrm9qOsbKByi7VWVX6bq5NShT2w.jpg",
+    "production_companies": [
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1997-11-21",
+            "episode_count": 6,
+            "id": 50811,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/adE8lIK5mE6Etc1qHK7R4VxBtDJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 3
+}

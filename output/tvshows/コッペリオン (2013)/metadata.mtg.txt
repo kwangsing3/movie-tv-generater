@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/rpqZ0W5FOJx6H1967bEb0x5x9CA.jpg",
+    "created_by": [
+        {
+            "id": 1136052,
+            "credit_id": "5496636892514130fc0042a2",
+            "name": "Shingo Suzuki",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2013-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 60659,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-12-25",
+    "last_episode_to_air": {
+        "air_date": "2013-12-25",
+        "episode_number": 13,
+        "id": 974171,
+        "name": "Angel",
+        "overview": "Ibara and the other passengers rejoice after their train has successfully escaped from the Zone. But their celebration is cut short when they see a vengeful Kanon chasing after them in the Iron Spider, which they thought had been destroyed.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3Z2DIMTWSLrEbp7I68KcgotBLXL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Coppelion",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "コッペリオン",
+    "overview": "Many years after a great tragedy killed 90% of the people in Japan, three girls arrive in the ruins of Tokyo. In the devastated capital, their unusually clean clothes set them apart. But that's not the only strange thing about them - they also each wield supernatural powers. They call themselves “Coppelion,” and are on a mission to save the people of Tokyo.",
+    "popularity": 10.513,
+    "poster_path": "/mPQuea0bhoh4oV9nRmJpisHUiZ0.jpg",
+    "production_companies": [
+        {
+            "id": 7759,
+            "logo_path": null,
+            "name": "GoHands",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-10-02",
+            "episode_count": 13,
+            "id": 60200,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/x8GLHobth5tYY8PRAKTMdYtVrS8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 25
+}

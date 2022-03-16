@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/b8lcISvAlFL2nMWwQm486053rXV.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "5258ac74760ee34661706df5",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1983-02-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.dunbine.net/",
+    "id": 34190,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1984-01-07",
+    "last_episode_to_air": {
+        "air_date": "1984-01-07",
+        "episode_number": 49,
+        "id": 785314,
+        "name": "Chum Huau",
+        "overview": "There is only one way the war can end, and there can be no victory without sacrifice.  When the dust finally settles, who will remain standing?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Aura Battler Dunbine",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nagoya TV",
+            "id": 576,
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "聖戦士ダンバイン",
+    "overview": "After a motocross accident, Show Zama was pulled from Japan into the mystical world of Byston Well, where he and others from Earth were reicruited by Lord Drake Luft to pilot his newest weapons, the Aura Battlers, a combination of Byston Well magic and Earthien technology. However, in the heat of battle, Show is approached by Marvel, a woman from Earth, who convinces him of Luft's sinister intentions.",
+    "popularity": 10.837,
+    "poster_path": "/5PtPwM1r86RoBCCyHfpPCKdOtPt.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 81418,
+            "logo_path": null,
+            "name": "Nagoya Broadcasting Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4719,
+            "logo_path": "/b3smsDQQ2UEwqToJbVTlT4kgXBk.png",
+            "name": "Sotsu",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1983-02-05",
+            "episode_count": 49,
+            "id": 45059,
+            "name": "TV Series",
+            "overview": "The series followed Shō Zama, as he suddenly finds himself pulled to the world of Byston Well during a vehicular incident with one of his rivals. Byston Well is located in another dimension located between the sea and the land, and is populated with dragons, castles, knights, and powerful robots known as Aura Battlers. Once Shō is discovered to possess a very powerful \"aura\", he is drafted into the Byston Well conflict as the pilot of the lavender-colored Dunbine.\n\nAs in other Tomino creations, Dunbine's cast is populated by Nordic-looking military types in elaborate costumes on one side, a young Japanese hero caught in the middle, and freedom fighters on the other side. Beautiful female warriors abound on both sides, and the hero falls for the main female lead. There are romances that cut across battle lines, and the non-stop battles between elaborate fighting craft on land and on the air. Most of the cast pilot Aura Battlers, although there are lots of standard airships, smaller fighters, and large warships as well.",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

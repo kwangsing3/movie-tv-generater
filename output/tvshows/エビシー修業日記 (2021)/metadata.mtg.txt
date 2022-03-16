@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/u14zAwrAppObw9Aw0D7KKGVOH9c.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2021-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://abciee.abc-anime.co.jp/",
+    "id": 112895,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-24",
+    "last_episode_to_air": {
+        "air_date": "2021-03-24",
+        "episode_number": 12,
+        "id": 2721570,
+        "name": "Smiles and Tears, Ciee, at the Wrap Party!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "ABCiee Working Diary",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エビシー修業日記",
+    "overview": "ABCiee is a bit klutzy and ditsy, but he's full of spunk and he starts his dream job at a TV station! This is a work comedy filled with all kinds of hijinks! \"I never knew it was so hard working at a TV station, ciee!\" Despite having to face the unknown rules of the TV business, unique coworkers, and guest stars who have very particular quirks, ABCiee takes them head on with his positivity. Work, love, family, whatever goes!! Please watch over ABCiee as he takes on the TV business.",
+    "popularity": 11.731,
+    "poster_path": "/hRzs8jgXDxvxq6YZtsD8WjNRExW.jpg",
+    "production_companies": [
+        {
+            "id": 103564,
+            "logo_path": "/t0dnUMFPjzPStIkEM3Pm1rGLIQ8.png",
+            "name": "Fanworks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-07",
+            "episode_count": 12,
+            "id": 168326,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hRzs8jgXDxvxq6YZtsD8WjNRExW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

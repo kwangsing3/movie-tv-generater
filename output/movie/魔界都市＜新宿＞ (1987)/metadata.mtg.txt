@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/p5m1w0ylQtf4Yr2F8xcmanHxs2G.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 10770,
+            "name": "TV Movie"
+        }
+    ],
+    "homepage": "",
+    "id": 44179,
+    "imdb_id": "tt0094995",
+    "original_language": "ja",
+    "original_title": "魔界都市＜新宿＞",
+    "overview": "Kyoya's father was a great warrior, killed at the hands of the diabolical psychic, Rebi Ra, who has now opened a portal to hell in the city of Shinjuku. It falls to Kyoya to finish what his father started and battle his way through demons, while protecting a young woman from harm. The only problem is that he's not exactly your classic hero type, and his powers are still latent.",
+    "popularity": 9.105,
+    "poster_path": "/htCzmp0gEvUCc2jfQMzfbwSGN4L.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12267,
+            "logo_path": null,
+            "name": "Japan Home Video",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1987-04-25",
+    "revenue": 0,
+    "runtime": 80,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Demon City Shinjuku",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 51
+}

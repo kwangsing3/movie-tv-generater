@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/rGLryYBlfPR0UbQBtWAsYjJwDWE.jpg",
+    "created_by": [
+        {
+            "id": 1957082,
+            "credit_id": "5a557c5d0e0a2607ec01b864",
+            "name": "Enterbrain",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/amagami/1st/index-j.html",
+    "id": 52083,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-03-30",
+    "last_episode_to_air": {
+        "air_date": "2012-03-30",
+        "episode_number": 13,
+        "id": 921484,
+        "name": "Tachibana Miya: Hot Springs",
+        "overview": "In the episode, Junichi hasn't gone around with any girls yet. Miya goes to a hot spring with Sae and Ai. There she meets Tsukasa, Rihoko, Kaoru and Haruka. The main characters except Junichi enjoy girls' talk in the hot spring.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/4hVOZkZ0jINyzJ85heU5Ex160Kz.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Amagami SS",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アマガミSS",
+    "overview": "A second-year high school boy finds himself uneasy during Christmas time due to an experience in the past. However, this year at Christmas, he gets his last chance to ask out a graduating female senior named Haruka Morishima — or one of several other classmates. The story of the anime will be arranged in an omnibus format, with each heroine getting her own version of the story animated. Each heroine will sing her own version of the ending theme song.",
+    "popularity": 36.605,
+    "poster_path": "/khvbE5GgAnEd9AmmkDkKDIO4kym.jpg",
+    "production_companies": [
+        {
+            "id": 152301,
+            "logo_path": null,
+            "name": "AIC",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-06-11",
+            "episode_count": 17,
+            "id": 56027,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/eAtO9zwjLI1Du0HPcyZhE80uuBu.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-07-02",
+            "episode_count": 26,
+            "id": 56026,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jCfRJWiLPvOrZO0f7emXDxiRkBK.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2012-01-06",
+            "episode_count": 13,
+            "id": 56028,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 20
+}

@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/r2FXILO1vUKXGS9xnPva4kkjdHo.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 475215,
+    "imdb_id": "tt6900448",
+    "original_language": "ja",
+    "original_title": "未来のミライ",
+    "overview": "The movie follows a 4-year old boy who is struggling to cope with the arrival of a little sister in the family until things turn magical. A mysterious garden in the backyard of the boy's home becomes a gateway allowing the child to travel back in time and encounter his mother as a little girl and his great-grandfather as a young man. These fantasy-filled adventures allow the child to change his perspective and help him become the big brother he was meant to be.",
+    "popularity": 55.291,
+    "poster_path": "/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg",
+    "production_companies": [
+        {
+            "id": 15662,
+            "logo_path": "/onTO8FymA6J6puYznAjZDsXvHYf.png",
+            "name": "Studio Chizu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 14789,
+            "logo_path": null,
+            "name": "D.N. Dream Partners",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9070,
+            "logo_path": "/hF6wiZa36H54RtJC2O4P1bdyGEW.png",
+            "name": "NTT Docomo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6755,
+            "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2018-06-16",
+    "revenue": 27526961,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A daringly original story of love passed down through generations.",
+    "title": "Mirai",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 568
+}

@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/yqYcI8Es2egQIIcrujhrmT2P1Eu.jpg",
+    "created_by": [
+        {
+            "id": 120905,
+            "credit_id": "608a031c2dc44e0058472f21",
+            "name": "Yoshikatsu Kimura",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.exarm-anime.com/",
+    "id": 92401,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-29",
+    "last_episode_to_air": {
+        "air_date": "2021-03-29",
+        "episode_number": 12,
+        "id": 2614508,
+        "name": "A Giant Leap",
+        "overview": "Akira has returned alive after defeating Beta, but soon Tokyo is targeted by a large-scale hacking attack. He dives into the network along with Ygg’s clones to figure out the cause, and fights the enemies within, but in the meantime the hacking spreads to the entire world. It takes over military bases and fires a volley of ICBMs, seeking to destroy the entire world. In order to save humanity, Akira makes a decision born of love.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dR3ayHOxCEdzjlHC64NMTvjV46g.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ex-Arm",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エクスアーム",
+    "overview": "2014: Akira Natsume seems to almost have a phobia of electrical devices while also being very good at diagnosing them. He resolves to change himself for the better and get a girlfriend like his older brother did. …But then Akira suddenly dies in an accident. 16 years later a special policewoman and her android partner retrieve and activate a highly advanced AI and superweapon called EX-ARM and put it into full control of their ship as a last resort. Turns out the AI is actually just Akira’s brain!",
+    "popularity": 26.169,
+    "poster_path": "/cjsebpk01OZBGuVKhJm68oYxM4t.jpg",
+    "production_companies": [
+        {
+            "id": 139616,
+            "logo_path": null,
+            "name": "Visual Flight",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-11",
+            "episode_count": 12,
+            "id": 130011,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5GL5sdV6hZOcfXzwYH5ALYl537O.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 5
+}

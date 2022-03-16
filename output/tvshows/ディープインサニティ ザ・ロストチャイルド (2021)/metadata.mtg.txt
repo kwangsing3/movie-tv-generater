@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/mIMROFnmaBl4P4419jTzqbLK4fD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.jp.square-enix.com/deepinsanity/anime/",
+    "id": 128118,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-29",
+    "last_episode_to_air": {
+        "air_date": "2021-12-29",
+        "episode_number": 12,
+        "id": 3281782,
+        "name": "Resolution",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5KLRO2B2E2eM08RAyGZrEnDZJ71.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Deep Insanity: The Lost Child",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ディープインサニティ ザ・ロストチャイルド",
+    "overview": "A mysterious illness. An underground realm at its origin. Gifted with immunity, one young man enters to find a cure.",
+    "popularity": 40.112,
+    "poster_path": "/msYpjVD5wLRfZDdBTbnSej4tvTC.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-13",
+            "episode_count": 12,
+            "id": 200266,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/msYpjVD5wLRfZDdBTbnSej4tvTC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 2
+}

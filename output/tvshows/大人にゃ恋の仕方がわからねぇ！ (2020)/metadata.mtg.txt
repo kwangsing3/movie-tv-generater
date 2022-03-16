@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/fY2XGjOdnrz9kUjObQIwsBS6TFj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        7
+    ],
+    "first_air_date": "2020-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://otokoi.cf-anime.com",
+    "id": 107840,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-11-22",
+    "last_episode_to_air": {
+        "air_date": "2020-11-22",
+        "episode_number": 8,
+        "id": 2552077,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5oa2bENOPTykqDw5swIlT0ojurF.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Otona nya Koi no Shikata ga Wakaranee!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "大人にゃ恋の仕方がわからねぇ！",
+    "overview": "Mio Sudou, a 30-year-old office lady has gone five years without a boyfriend and has forgotten all about love. Shuuji Mashima, a foreign-affiliated consultant has not had a girlfriend in seven years and has lost almost all interest in women. Meeting at a matchmaking party, Mio is disgusted by Shuuji as he states, \"I am not into women.\" However, when Mio makes a provocative comment toward Shuuji, things take an unexpected direction.",
+    "popularity": 10.41,
+    "poster_path": "/wx2HeVJCwtNZoRL8E6Cfj86HDzT.jpg",
+    "production_companies": [
+        {
+            "id": 138871,
+            "logo_path": null,
+            "name": "Ether Kitten",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-04",
+            "episode_count": 8,
+            "id": 159796,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wx2HeVJCwtNZoRL8E6Cfj86HDzT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4,
+    "vote_count": 1
+}

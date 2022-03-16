@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1998-11-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 99093,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-03-25",
+    "last_episode_to_air": {
+        "air_date": "1999-03-25",
+        "episode_number": 2,
+        "id": 2071849,
+        "name": "Final Battle of Jig Road",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Spectral Force",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スペクトラルフォース",
+    "overview": "In a time when demons rule the world and mankind seeks freedom, human rebels gain control of the demon-slaying sword Tenmaken and attempt to assassinate the Demon King Janus. To preserve the sovereignty of her homeland, the half-human, half-demon Princess Hiro must overcome her deep hatred of the humans or face a war that will ravage the entire world!",
+    "popularity": 0.6,
+    "poster_path": "/boYGYADLwvbHGivano7qde4tXPB.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1998-11-25",
+            "episode_count": 2,
+            "id": 142831,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

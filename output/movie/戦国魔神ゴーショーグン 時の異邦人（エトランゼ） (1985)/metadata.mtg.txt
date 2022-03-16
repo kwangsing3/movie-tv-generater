@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/6EyH2C2zFW0PQkEanNpFmjRaydE.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 117347,
+    "imdb_id": "tt0295594",
+    "original_language": "ja",
+    "original_title": "戦国魔神ゴーショーグン 時の異邦人（エトランゼ）",
+    "overview": "Remi, on the verge of death, is a member of the GoShogun team who once saved the world several times. Now an old woman who has retreated from the world, her former team mates gather at her deathbed trying to save her life. At the same time, time goes back to when she was but a small child when she was buried alive and nearly died and when she was still with the rest of her team on a dangerous suicidal mission. As we see her older self strugling to hold on to life, we see that she has done the same thing her whole life through and her former team mates watches helplessly as her hold on life loosens slowly right before their eyes.",
+    "popularity": 1.621,
+    "poster_path": "/lagA3onAPD40aRBwJhA23eJnBqg.jpg",
+    "production_companies": [
+        {
+            "id": 39020,
+            "logo_path": null,
+            "name": "production reed",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1985-04-27",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "GoShogun: The Time Étranger",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 4
+}

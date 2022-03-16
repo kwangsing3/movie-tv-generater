@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/x9VeHGJ1Hv7RbbPDAJsxsK0o2QS.jpg",
+    "created_by": [
+        {
+            "id": 1387538,
+            "credit_id": "5fed7fb7e004a6004029d61c",
+            "name": "Kia Asamiya",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1998-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 46338,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-09-29",
+    "last_episode_to_air": {
+        "air_date": "1998-09-29",
+        "episode_number": 26,
+        "id": 908987,
+        "name": "Tomorrow",
+        "overview": "Katsumi is horrified by what she finds after breaking out of Medium's control. At a press conference, the government comes clean about the existence of Lucifer Hawks and AMP. The AMP crew takes stock and vows to continue onwards to total victory over the Hawks.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Silent Möbius",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サイレントメビウス",
+    "overview": "The year is 2023 and Alien Beings known as \"Lucifer Hawks\" have begun invading earth from another dimension. All that stands between them and the enslavement of the human race is the Attacked Mystification Police Department - a special division of the Tokyo Police staffed by women with amazing paranormal abilities.",
+    "popularity": 5.356,
+    "poster_path": "/9mgfANk8SEZuJ1BTfY8zs4bRUvV.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1998-04-07",
+            "episode_count": 26,
+            "id": 54626,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xtL20avsCJQrqg8h1KxXcYYswVt.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/cz7kzp4jfWh3Ac4K8GztqKaxX8j.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://hatenaillusion-anime.com/",
+    "id": 95346,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-03",
+    "last_episode_to_air": {
+        "air_date": "2020-06-03",
+        "episode_number": 12,
+        "id": 2043584,
+        "name": "",
+        "overview": "As the standoff against Michelle continues, Makoto makes a last-ditch effort to salvage the situation by using his sleight-of-hand skills. A message from the village dictates that one more Artifact must be recovered before Maeve can return.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/iO12hdCc8CRjMSFIYMJ2mTIZ9SP.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hatena Illusion",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS4",
+            "id": 3220,
+            "logo_path": "/naTpOY8AjRtgBw0JXafrhAD8ZBT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はてな☆イリュージョン",
+    "overview": "Years ago, many magical \"Artifacts\" were stolen and scattered throughout the world. They fell into the hands of people who were not supposed to know of their existence. The Hoshisato family of magicians has special access to the Artifacts, and they take it upon themselves to return them to their rightful place.\n\nDespite her inexperience, Kana wishes to aid her parents, doing her best to improve. Meanwhile, her childhood friend Makoto has come to their mansion to study magic under her father's tutelage. Hatena is excited to see her friend again, only to be utterly disappointed when the person she thought to be a girl all these years turns out to be a boy.\n\nBefore long, Makoto comes to know of the Artifacts. Unfazed, he continues to strive to fulfill his promises and stay true to why he learns magic - to ease the sadness of people around him and, most importantly, to become a person worthy of being Hatena's partner.",
+    "popularity": 12.458,
+    "poster_path": "/sO8BQN76Y3EzynrOWGquyHrQjMc.jpg",
+    "production_companies": [
+        {
+            "id": 125443,
+            "logo_path": null,
+            "name": "Children's Playground Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-02-20",
+            "episode_count": 1,
+            "id": 143279,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/tQe0CNqMRStr9h2z1WgULBXJEyl.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-01-09",
+            "episode_count": 12,
+            "id": 135660,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/k0Sifs62NvShbX4LMH0l8IydtOW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 4
+}

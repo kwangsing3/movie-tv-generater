@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/jcT8CUqhV72z7HvLRlJTk8WFlGd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        8
+    ],
+    "first_air_date": "2016-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://sekkoboys.com/",
+    "id": 65774,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-03-25",
+    "last_episode_to_air": {
+        "air_date": "2016-03-25",
+        "episode_number": 12,
+        "id": 1432702,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sekko Boys",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "石膏ボーイズ",
+    "overview": "Miki Ishimoto, a recent college graduate, is so excited to have landed her first job! Although she's inexperienced, she's to be the manager for a new boy band. Miki thinks life couldn't be going more smoothly, until she finds out that her new boy band members are all... Greco-Roman stone busts?",
+    "popularity": 15.968,
+    "poster_path": "/ruQvcCxapfJ4hcL56eFmq1UdAyb.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-01-09",
+            "episode_count": 12,
+            "id": 151630,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-01-08",
+            "episode_count": 12,
+            "id": 99362,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jLIzVlSbmFMp2vUsIrIlMGmr8cY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 4
+}

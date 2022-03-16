@@ -1,0 +1,144 @@
+{
+    "adult": false,
+    "backdrop_path": "/drYqIJgwAB6QS2N7DhSBXNdTUgo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2021-10-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://osama-ranking.com",
+    "id": 112613,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-11",
+    "last_episode_to_air": {
+        "air_date": "2022-03-11",
+        "episode_number": 21,
+        "id": 3281835,
+        "name": "The Swordsmanship of a King",
+        "overview": "Realizing that Bosse did not wish to be brought back to life, Miranjo apologizes. Bosse issues an ultimatum to the others present to either side with him or be killed. Despa fears that Bojji may not measure up as his showdown with Bosse gets underway.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xqquy2l9f9GTIJKWkP5ZP2gjBTv.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Ranking of Kings",
+    "next_episode_to_air": {
+        "air_date": "2022-03-18",
+        "episode_number": 22,
+        "id": 3281837,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 23,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "王様ランキング",
+    "overview": "Unable to hear, speak, or wield a sword, Prince Bojji doesn’t seem like a typical heir to the throne—and his kingdom agrees. But his fateful encounter with Kage, a shadow on the ground, gives him his first true friend. The two set off on a grand adventure and, together, form a bond that can overcome any obstacle...even being king.",
+    "popularity": 208.936,
+    "poster_path": "/t72c8zeba9J6QLPLixtEkWyMj5T.jpg",
+    "production_companies": [
+        {
+            "id": 31058,
+            "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+            "name": "Wit Studio",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 152836,
+            "logo_path": "/2Nw5F2Mv4at3Sm6ldwTKK3XYuLK.png",
+            "name": "Bandai Spirits",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-15",
+            "episode_count": 23,
+            "id": 167699,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xN3RABgGy26CnD3LQDTRlOAHzwW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 24
+}

@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/iJTxtVkDcZG7EUFyzcqlgZV8hgW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-06-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 1096,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-29",
+    "last_episode_to_air": {
+        "air_date": "2006-03-29",
+        "episode_number": 16,
+        "id": 1367402,
+        "name": "Take a Look, Spring Has Come",
+        "overview": "Yurie and Mitsue help Matsuri and Miko clean the shrine storage rooms. As she spends the night there, Yurie tells her friends that Kenji is her boyfriend.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/k7cMe9oNL1rKHHJHNNZrK7Yo8hA.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kamichu!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "かみちゅ！",
+    "overview": "Kamichu! is a Japanese anime television series, strongly influenced by the Shinto religion, that follows the adventures of teenage goddess Yurie Hitotsubashi and her friends. The title is short for Kamisama de Chūgakusei. The series was created by Besame Mucho, which is the joint pen name of Tomonori Ochikoshi, Koji Masunari, and Hideyuki Kurata. It was broadcast by the anime television network Animax on its respective networks worldwide, including Japan, East Asia, South Asia, Southeast Asia, where it received its first English-language broadcast.\n\nThe series was adapted as a manga serialized in Dengeki Daioh, a shōnen manga magazine, and collected in two tankōbon volumes.\n\nAt the 2005 Japan Media Arts Festival, Kamichu! received an Excellence Prize for animation.\n\nOn July 3, 2008, Geneon Entertainment and Funimation Entertainment announced an agreement to distribute select titles in North America. While Geneon Entertainment will still retain the license, Funimation Entertainment will assume exclusive rights to the manufacturing, marketing, sales and distribution of select titles. Kamichu! was one of several titles involved in the deal. However, as of August 2011, the rights to the series had expired.",
+    "popularity": 5.293,
+    "poster_path": "/eUUcjUWDuyir0rsOH2cLD9N0HZF.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-06-29",
+            "episode_count": 16,
+            "id": 79348,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7Lu3pef0RtacqrOkFTsUO3Qivbs.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

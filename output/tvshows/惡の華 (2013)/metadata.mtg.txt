@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/l2FjEsiOTEvTZcvW8pDs07X5Q2x.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2013-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://akunohana-anime.jp",
+    "id": 55006,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-06-29",
+    "last_episode_to_air": {
+        "air_date": "2013-06-29",
+        "episode_number": 13,
+        "id": 927310,
+        "name": "Flowers of Evil 13 of 13",
+        "overview": "Kasuga enters Nakamura's room. He finds her diary and starts reading it. He recalls what had happened. Nakamura comes back, seizes the diary and runs away. He follows her and catches up to her. This time, he asks her to make a contract with him: they'll do what they can in order to leave for good someday.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jJTwhIyQSCIKgzKTusNAjSoAJ5h.jpg",
+        "vote_average": 2,
+        "vote_count": 1
+    },
+    "name": "Flowers of Evil",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "惡の華",
+    "overview": "The corrupt pure-love story revolves around Kasuga Takao, a bookish boy who loves the poems of Charles Baudelaire (the original author of the poetry collection \"Les Fleurs du mal\" or \"Flowers of Evil\"). One day after school, he discovers and steals the gym clothes of Saeki Nanako, the girl he has a crush on. However, he learns that Nakamura Sawa, a girl he loathes, happens to catch him in the act. Nakamura blackmails Kasuga into a contract, or else she will reveal his secret.",
+    "popularity": 19.273,
+    "poster_path": "/5P9YPFvwSlj73TH8t38jeOB9nWV.jpg",
+    "production_companies": [
+        {
+            "id": 6681,
+            "logo_path": "/s4RElEnQyM2VrHZCQ3jYemPdxML.png",
+            "name": "THE KLOCKWORX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 100589,
+            "logo_path": null,
+            "name": "Aku No Hana Production Committee",
+            "origin_country": ""
+        },
+        {
+            "id": 28045,
+            "logo_path": null,
+            "name": "GANSIS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 14899,
+            "logo_path": null,
+            "name": "Starchild Records",
+            "origin_country": ""
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-04-05",
+            "episode_count": 13,
+            "id": 56747,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4RsLvxekEHDVxNc12HjNTXuBDNA.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 23
+}

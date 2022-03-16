@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/chY93NxVc5VIA9BV6aU1a3UYzJQ.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2018-01-10",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://damepri-anime.jp/",
+    "id": 76120,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-28",
+    "last_episode_to_air": {
+        "air_date": "2018-03-28",
+        "episode_number": 12,
+        "id": 1448857,
+        "name": "Finale! × Dame Prince",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4jmpanDPOpBxRyJJVflQMUFBbtK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dame×Prince Anime Caravan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS Fuji",
+            "id": 1136,
+            "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ダメプリ ANIME CARAVAN",
+    "overview": "The story follows Ani, a princess from the minor nation of Inako. Ani is sent to the signing ceremony that will bring peace to the rival nations of Mildonia, a mighty military country, and Selenfaren, a powerful theocracy. Ani is supposed to help steer the signing ceremony along, but she runs into trouble when she encounters a handful of obstinate princes.",
+    "popularity": 6.92,
+    "poster_path": "/6OaqJemoz2j1nmuVATxr638xNyJ.jpg",
+    "production_companies": [
+        {
+            "id": 147690,
+            "logo_path": null,
+            "name": "Studio Flad",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-01-10",
+            "episode_count": 12,
+            "id": 97438,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rTSr7atCsodrXSShjAcey2RDmOc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 3
+}

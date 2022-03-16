@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/egu6ZjXNsneZleBF2wEFKOfdXBY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        27
+    ],
+    "first_air_date": "2001-06-15",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 43033,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-02-24",
+    "last_episode_to_air": {
+        "air_date": "2002-02-24",
+        "episode_number": 4,
+        "id": 1290450,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ajimu: Beach Story",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nifty-Serve",
+            "id": 1842,
+            "logo_path": null,
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あじむ ～海岸物語～",
+    "overview": "One morning as he arrives at the train station on his way to school, 17-year-old Nakaido Hirosuke catches sight of a beautiful girl, Ajimu Yasuna, and immediately falls for her. The two of them get to know each other and become friends. As events and other people present obstacles for the potential couple to clear, their relationship begins to develop and their feelings become clear.",
+    "popularity": 3.392,
+    "poster_path": "/semx3ZWINETi3HWB5MSTeC8EKFm.jpg",
+    "production_companies": [
+        {
+            "id": 30125,
+            "logo_path": "/idI9yjIWXWgLLdWqUbBpWzmTW9t.png",
+            "name": "Actas",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-06-15",
+            "episode_count": 4,
+            "id": 86425,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fVm7S2UubWhyr7i6cdVakLDBYfq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 2
+}

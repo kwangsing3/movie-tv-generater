@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/1t40UzovxlUzwLFQN9oaATit0fT.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2001-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 42930,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2001-06-27",
+    "last_episode_to_air": {
+        "air_date": "2001-06-27",
+        "episode_number": 13,
+        "id": 1475220,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Prétear",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "新白雪姫伝説プリーティア",
+    "overview": "Prétear, also called Prétear - The New Legend of Snow White, is a manga series written by Junichi Sato and illustrated by Kaori Naruse. Spanning four volumes, the manga series was originally published in Japan by Kadokawa Shoten from May 2000 through July 2001. It was published in English in North America by ADV Manga.\n\nThe series was adapted into a thirteen episode anime series by Hal Film Maker, Kadokawa Shoten, and Rondo Robe. It aired in Japan on WOWOW from April 4, 2001 until June 27, 2001. Geneon released the series episodes across four volumes in Japan in both VHS video and DVD forms. ADV Films had licensed and released the anime series.",
+    "popularity": 4.63,
+    "poster_path": "/95BlaW0VQXCxj04zOBbzdjlf4eU.jpg",
+    "production_companies": [
+        {
+            "id": 72652,
+            "logo_path": null,
+            "name": "Hal Film Maker",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1194,
+            "logo_path": null,
+            "name": "Kadokawa Shoten",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-04-04",
+            "episode_count": 13,
+            "id": 71972,
+            "name": "Prétear",
+            "overview": "",
+            "poster_path": "/v1zeAxJX2Peajze8GYLIlViVje6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.3,
+    "vote_count": 4
+}

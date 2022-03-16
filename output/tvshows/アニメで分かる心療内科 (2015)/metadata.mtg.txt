@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/bu0Vp94FZL1M9LpD71zZexp0GeG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        6
+    ],
+    "first_air_date": "2015-02-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://mental-anime.jp",
+    "id": 74251,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-26",
+    "last_episode_to_air": {
+        "air_date": "2015-06-26",
+        "episode_number": 20,
+        "id": 1373771,
+        "name": "What Kind of Place Is a Mental Clinic?",
+        "overview": "Today's theme is \"What is a mental clinic like?\" We'll explain in easy-to-understand detail what a mental clinic is actually like!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1HIovLzTBgFcB6I91fuEAwAFjSG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Comical Psychosomatic Medicine",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アニメで分かる心療内科",
+    "overview": "Have issues with depression, erectile disfunction, dementia, or even with your love life? Don't worry, as the psychologist Ryou and his nurse Asuna will seriously try to help you understand these mental disorders all while laughing!",
+    "popularity": 5.358,
+    "poster_path": "/rF6Mtwjpd4gtPTpNfw3ha9B7f0N.jpg",
+    "production_companies": [
+        {
+            "id": 95641,
+            "logo_path": null,
+            "name": "Shōnen Gahōsha",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-02-13",
+            "episode_count": 20,
+            "id": 93495,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rF6Mtwjpd4gtPTpNfw3ha9B7f0N.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

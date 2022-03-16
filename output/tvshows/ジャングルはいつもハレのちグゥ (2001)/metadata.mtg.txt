@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/ir3FgE1siodL2DuPaWlUVYJisza.jpg",
+    "created_by": [
+        {
+            "id": 1951761,
+            "credit_id": "5a4aa9e49251415c9e018f19",
+            "name": "Renjuro Kindaichi",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 2646002,
+            "credit_id": "60213aa59979d2003fe2ba14",
+            "name": "Tsutomu Mizushima",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2001-04-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34812,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-12-28",
+    "last_episode_to_air": {
+        "air_date": "2003-12-28",
+        "episode_number": 2,
+        "id": 792893,
+        "name": "School Heaven / A School Hell",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Haré+Guu",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 52,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ジャングルはいつもハレのちグゥ",
+    "overview": "Haré was a happy boy living in the jungle with his mother, but then one day Guu showed up.",
+    "popularity": 14.274,
+    "poster_path": "/wtO541BFRT6jp7MShlZNIOAnX9g.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-04-02",
+            "episode_count": 26,
+            "id": 45597,
+            "name": "Haré+Guu",
+            "overview": "",
+            "poster_path": "/uEBDmOqg6hDexBBgnyKCD9wgojg.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2002-08-24",
+            "episode_count": 12,
+            "id": 45598,
+            "name": "Haré+Guu DELUXE",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        },
+        {
+            "air_date": "2003-12-20",
+            "episode_count": 14,
+            "id": 45599,
+            "name": "Haré+Guu FINAL",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 5
+}

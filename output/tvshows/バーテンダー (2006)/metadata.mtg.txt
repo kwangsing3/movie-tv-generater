@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/dVWr0KiW3Q3LK2wK4ladsLoRvzb.jpg",
+    "created_by": [
+        {
+            "id": 2218498,
+            "credit_id": "5c3e698cc3a36824ea3d8092",
+            "name": "Kenji Nagatomo",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 2218501,
+            "credit_id": "5c3e69a2c3a368638a3f9e8a",
+            "name": "Araki Jo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-10-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 42860,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-12-30",
+    "last_episode_to_air": {
+        "air_date": "2006-12-30",
+        "episode_number": 11,
+        "id": 882887,
+        "name": "Water of Life",
+        "overview": "Ryuu finally decides to end his apprenticeship at Eden Hall in this final chapter. The episode revolves mostly on the life of a bartender. A few cocktails are featured in the episode, such as the Red Eye, No Name and Rob Roy. \"The Macallan 1946\" is referred to by Ryuu and his senior bartenders as \"The Water of Life\", and it is mentioned that its bottle is passed through every generation of bartenders who has completed their time at Eden Hall. The main narrator of the series makes an appearance in this episode and visits Eden Hall and sat down by the counter to have a talk with Ryuu, although the rest of the episode is told from Ryuu and both his senior bartenders' perspective. Ryuu mentions that he feels fortunate to be able to live through his job, choosing not the craft of bartending, rather the life of a bartender. Therefore, the final featured drink is \"Bartender\".",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bartender",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バーテンダー",
+    "overview": "A genius bartender uses his talents to ease the worries and soothe the souls of troubled customers.",
+    "popularity": 4.283,
+    "poster_path": "/3K7ZmbngHmOOtndH44jslnxk3co.jpg",
+    "production_companies": [
+        {
+            "id": 30127,
+            "logo_path": null,
+            "name": "Palm Studio",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-10-15",
+            "episode_count": 11,
+            "id": 52381,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3K7ZmbngHmOOtndH44jslnxk3co.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 3
+}

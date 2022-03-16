@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/klJeQYZ0Wo0PZrXodQaQt81Onby.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1986-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 22835,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1986-12-28",
+    "last_episode_to_air": {
+        "air_date": "1986-12-28",
+        "episode_number": 51,
+        "id": 1318241,
+        "name": "Happiness nearby",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Story of Pollyanna, Girl of Love",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "愛少女ポリアンナ物語",
+    "overview": "The Story of Pollyanna, Girl of Love (愛少女ポリアンナ物語) is a Japanese anime series by Nippon Animation, and part of the World Masterpiece Theater series. It consists of 51 episodes. Premiering across Fuji TV between January 12 and December 28, 1986, it has rerun across Japan on Animax from February 2007.\n\nIt was based on the 1913 novel Pollyanna and following 1915 sequel Pollyanna Grows Up by Eleanor H. Porter.",
+    "popularity": 4.347,
+    "poster_path": "/rkFmCGBVNHIT4jCB1wH4YBYQzzG.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1986-01-05",
+            "episode_count": 51,
+            "id": 88463,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aI3qQHUn43g3ck4uWQfTX5aCyt1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 3
+}

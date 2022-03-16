@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/cw7UKVTl019BfOQ18GlHiqsz53T.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://genesis-horizon.net/",
+    "id": 57528,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-30",
+    "last_episode_to_air": {
+        "air_date": "2012-09-30",
+        "episode_number": 13,
+        "id": 958320,
+        "name": "The Greedy Ones who Cross Borders",
+        "overview": "Spain and Musashi are going for broke with Spain gaining the upper hand. But when England relinquishes its Armor of Deadly Sins, Musashi finally gains the upper hand.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/oqNqW5LOPN65MTEVbm8skk1t2zJ.jpg",
+        "vote_average": 5,
+        "vote_count": 1
+    },
+    "name": "Horizon in the Middle of Nowhere",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "境界線上のホライゾン",
+    "overview": "History is coming to an end. When humans came down from the sky they brought with them the Testament, the guide to the path they must follow if they wish to return to the skies again.",
+    "popularity": 22.772,
+    "poster_path": "/alHwzhOHP9xyQOonGljEPUeIPF8.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-06-24",
+            "episode_count": 9,
+            "id": 58652,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/7KYojI9yLbsfnQteCxMdFfbFhrE.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-10-01",
+            "episode_count": 13,
+            "id": 58650,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6VGCCiqPewJ1dAj0mV8TpNh5iwX.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2012-07-08",
+            "episode_count": 13,
+            "id": 58651,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/m0BCGbzCji0KEq0BboQ5c0msBTD.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.3,
+    "vote_count": 8
+}

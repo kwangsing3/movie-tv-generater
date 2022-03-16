@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/n9r1REVgB5KAq10vXzVeyfceRG0.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://trinity-7.com/",
+    "id": 61460,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2014-12-23",
+    "last_episode_to_air": {
+        "air_date": "2014-12-23",
+        "episode_number": 12,
+        "id": 1028990,
+        "name": "Criminal Girl and His World",
+        "overview": "It's the last episode, and Hijiri and Arata have their final showdown. Lugh joins in the fight, along with the Trinity Seven--Lilith, Levi, Arin, Mira, Akio, Yui, and Liese. Why is she attacking Arata? And what secret does Arata hold?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uSmY02akZIscHQx6k8K9IoNiuHJ.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Trinity Seven",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "トリニティセブン",
+    "overview": "In this \"romantic comedy but sometime serious magical school story,\" life as Arata Kasuga knows it is wiped out by a bizarre incident known as \"Collapse Phenomenon,\" which causes worldwide destruction and takes his cousin Hijiri Kasuga to the next world. To resolve the \"Collapse Phenomenon\" and bring back Hijiri, Arata enrolls in the Royal Biblia Academy. Waiting in the school are seven beautiful female magic users — the Trinity Seven.",
+    "popularity": 30.227,
+    "poster_path": "/spklcFiiHyIbkAzhKw88Epp25Z0.jpg",
+    "production_companies": [
+        {
+            "id": 34767,
+            "logo_path": "/bwQwcvERESoieoPksEq1iZsRW0J.png",
+            "name": "Seven Arcs",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-03-25",
+            "episode_count": 1,
+            "id": 64071,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/skh6ABNTy6Uj8RKJG2egocZpFN8.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-10-08",
+            "episode_count": 12,
+            "id": 62947,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9iAVwMqI1pNAyN9I0UyJC5qyImU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 31
+}

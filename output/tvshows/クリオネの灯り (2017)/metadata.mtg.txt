@@ -1,0 +1,89 @@
+{
+    "adult": false,
+    "backdrop_path": "/e7h8edNU4OP2ZBO9eHSb7e7bMff.jpg",
+    "created_by": [
+        {
+            "id": 1678168,
+            "credit_id": "594e86729251413127038f86",
+            "name": "Naoya Ishikawa",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        9
+    ],
+    "first_air_date": "2017-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://clionenoakari.com/",
+    "id": 72501,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-27",
+    "last_episode_to_air": {
+        "air_date": "2017-09-27",
+        "episode_number": 12,
+        "id": 1372455,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6Nsbtim1jwGgiO3t2hopsqqwoz0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Lights of the Clione",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クリオネの灯り",
+    "overview": "",
+    "popularity": 3.732,
+    "poster_path": "/7zs3VArqVERJVfbiQpCBxxMiloa.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-12",
+            "episode_count": 12,
+            "id": 89805,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7CJPRR6HdjJHTZXBjVLrbn8t2I0.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

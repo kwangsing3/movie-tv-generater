@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/oO1ZOYYkc5BM6LatmXY62vAxjSc.jpg",
+    "created_by": [
+        {
+            "id": 931555,
+            "credit_id": "5ab7a758c3a3680a2401cca0",
+            "name": "Hiroyuki Yamaga",
+            "gender": 2,
+            "profile_path": "/vfBpk3r8ilW72sKJlO12R2K8Mgs.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2002-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 12144,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-06-27",
+    "last_episode_to_air": {
+        "air_date": "2002-06-27",
+        "episode_number": 13,
+        "id": 472800,
+        "name": "Return to Life! The Legendary Omnyou Mystic",
+        "overview": "Arumi and Sasshi have finally made there way home. But Arumi's grandfather will still be dead. Sasshi refuses to let that happen, so he jumps again into another world. But in the end he cannot dream away reality.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bseDZcWJcbsFECThKvAEpLCugr1.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Magical Shopping Arcade Abenobashi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アベノ橋魔法☆商店街",
+    "overview": "Two kids whose families own businesses in a shopping arcade that's scheduled to shut down are thrown into a series of dimensions, each one a parody of some form of anime or video game, and try to find their way home.",
+    "popularity": 9.47,
+    "poster_path": "/Ahw2UR7BOasYPbsWA55t07tnFoJ.jpg",
+    "production_companies": [
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 3,
+            "id": 22819,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2002-04-04",
+            "episode_count": 13,
+            "id": 22820,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mMRK9oEz1Zn3TUnDHezKHdhJx51.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 23
+}

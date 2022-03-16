@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/u9SzgSQtZRKhsPtyqK3oFICgP2c.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www6.nhk.or.jp/anime/program/detail.html?i=hyouge",
+    "id": 77401,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-01-26",
+    "last_episode_to_air": {
+        "air_date": "2012-01-26",
+        "episode_number": 39,
+        "id": 1437574,
+        "name": "",
+        "overview": "Hideyoshi orders Rikyû to commit seppuku, and appoints an executioner: Furuta Oribe.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/78IqdO6V1WifAopHUhPAhjWwBuW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hyouge Mono",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK BS Premium",
+            "id": 2306,
+            "logo_path": "/2XZ8Azne0EKsypd6I3PQ2x1maVu.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "へうげもの",
+    "overview": "Sasuke Furuta is a vassal of the great warlord Nobunaga Oda and a man obsessed with tea ceremony and material desires in his pursuit of a fortuitous life. Having learned from Nobunaga and the legendary tea master Soueki Senne, Sasuke walks the way of the Hyouge Mono.",
+    "popularity": 4.33,
+    "poster_path": "/mPoPwLY1HPFMr4FBIKMsj2uK4w5.jpg",
+    "production_companies": [
+        {
+            "id": 4289,
+            "logo_path": null,
+            "name": "BeeTrain",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-04-07",
+            "episode_count": 39,
+            "id": 99828,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

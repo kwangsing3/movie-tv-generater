@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/v1v5I41QF00EKzGE5GElegIdadj.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 64809,
+    "imdb_id": "tt1517216",
+    "original_language": "ja",
+    "original_title": "マイマイ新子と千年の魔法",
+    "overview": "In 1955 in western Japan, nine-year-old Shinko knows she comes from a family that dates back to over a thousand years. This long genealogy and stories about it feed her daydreams: she invents an imaginary friendship with a young girl in the Japan of a thousand years ago. One day, Kiiko, a timid child from Tokyo, is transferred into Shinko's class at school. Struggling to fit in, she finds a friend in Shinko. They set off together on a magical adventure into a story from ancient history.Adapted from the Takagi Nobuko novel Mai Mai Shinko — winner of the prestigious Akutagawa Prize —, this animated feature film portrays the relationship of two children linked not only by friendship, but also by that power that transcends eras: imagination. And perhaps it might become reality?",
+    "popularity": 7.134,
+    "poster_path": "/9E1muIHzVoml9wwuVc6KJmO7MSw.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2009-11-21",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mai Mai Miracle",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 61
+}

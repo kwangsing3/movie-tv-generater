@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/fMaL9LD8jV8wj92yFZ7NGJSbN2t.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "5258daea760ee34661740772",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2002-09-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "http://www.king-gainer.net",
+    "id": 34784,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-03-22",
+    "last_episode_to_air": {
+        "air_date": "2003-03-22",
+        "episode_number": 26,
+        "id": 792221,
+        "name": "Gain Over",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Overman King Gainer",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "OVERMANキングゲイナー",
+    "overview": "Overman King Gainer is an anime TV series, created by Sunrise. Directed by longtime animator Yoshiyuki Tomino, the creator of the Gundam series, written by Ichirō Ōkouchi, and featuring character designs by Yoshihiro Nakamura, Kinu Nishimura and Ken'ichi Yoshida, the series ran from September 7, 2002 to March 22, 2003 on Japan's WOWOW network, spanning a total of 26 episodes.",
+    "popularity": 5.682,
+    "poster_path": "/lGKc00Lkx7lPTARUO7E3pD1BsUh.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-09-07",
+            "episode_count": 26,
+            "id": 45561,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6p55xbMIENPpYoUqx6UY7MvYrgm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

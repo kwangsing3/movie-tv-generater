@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/5uAptC91ZTbJAsCFYYj7lErIe0A.jpg",
+    "belongs_to_collection": {
+        "id": 34055,
+        "name": "Pokémon Collection",
+        "poster_path": "/oUdOt0VbJQnkLwOiQLPJLxH8oCA.jpg",
+        "backdrop_path": "/xQM02GXLgC0HxMHOCUIxTsjzi1O.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "http://p2kmovie.warnerbros.com/index2.html",
+    "id": 12599,
+    "imdb_id": "tt0210234",
+    "original_language": "ja",
+    "original_title": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕",
+    "overview": "Satoshi must put his skill to the test when he attempts to save the world from destruction. The Greedy Pokemon collector Gelardan throws the universe into chaos after disrupting the balance of nature by capturing one of the Pokemon birds that rule the elements of fire, lightning and ice. Will Satoshi have what it takes to save the world?",
+    "popularity": 34.724,
+    "poster_path": "/6u65C8aG4krAVyHsTjAMF7ucTDH.jpg",
+    "production_companies": [
+        {
+            "id": 76467,
+            "logo_path": null,
+            "name": "GAME FREAK",
+            "origin_country": "JP"
+        },
+        {
+            "id": 76469,
+            "logo_path": null,
+            "name": "JR Kikaku",
+            "origin_country": ""
+        },
+        {
+            "id": 12288,
+            "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+            "name": "Nintendo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 143374,
+            "logo_path": null,
+            "name": "Pikachu Project '99",
+            "origin_country": ""
+        },
+        {
+            "id": 12653,
+            "logo_path": null,
+            "name": "Pikachu Project",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9149,
+            "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+            "name": "Shogakukan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12655,
+            "logo_path": "/7Rt8txBx60jJ0jjtOibGWmP22vo.png",
+            "name": "Shogakukan-Shueisha Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13070,
+            "logo_path": null,
+            "name": "Tomy",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1999-07-17",
+    "revenue": 163649270,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "One Person Can Make All The Difference!",
+    "title": "Pokémon: The Movie 2000",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 656
+}

@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/eH2E2Lq6vy0oVMDOR2IdpnRP9kK.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://maken-ki-two.com/",
+    "id": 60732,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-20",
+    "last_episode_to_air": {
+        "air_date": "2014-03-20",
+        "episode_number": 10,
+        "id": 976914,
+        "name": "And So, Toward Makenki",
+        "overview": "Someone's broken into the principal�۪s room in search of files that could put the whole school at risk. In order to track down the culprit, the Leadership Committee will use all their resources-including a new student, fireworks, and skimpy costumes!",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/31d2FM5vNkSlDsqKC3JxqZC53Yb.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Maken-Ki! Battling Venus",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マケン姫っ！",
+    "overview": "This romantic comedy is about Takeru Ohyama, a typical perverted teenage boy. His new school doesn't require entrance exams, and it just turned co-ed! Unfortunately, his dreams of a happy high school life are dashed when he finds out the school is much more than it seems. All of the students wield a special item—a Maken—to unleash their magical abilities in duels! Can Takeru find a Maken that works for him? Even while trying to fit in at a new school and dealing with all kinds of girl problems?",
+    "popularity": 30.699,
+    "poster_path": "/wQub2j7xzXxjtjELPqDYgDmru4r.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-12-22",
+            "episode_count": 13,
+            "id": 89754,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/81QVJxWwhTdHep4azueJklztDGM.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-10-05",
+            "episode_count": 12,
+            "id": 60518,
+            "name": "Maken-Ki! Battling Venus",
+            "overview": "",
+            "poster_path": "/qGD0tjGLblNs86D7QWSHFKXEo10.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-01-16",
+            "episode_count": 10,
+            "id": 60519,
+            "name": "Maken-Ki! Two",
+            "overview": "Takeru continues his education at Tenbi Academy as part of the newly formed Security Committee. As a team with the other members they battle unscrupulous individuals who use their Maken for evil purposes. In the meantime, his libido and the conflicting romantic interests of the girls surrounding him complicate matters considerably.",
+            "poster_path": "/qGD0tjGLblNs86D7QWSHFKXEo10.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 12
+}

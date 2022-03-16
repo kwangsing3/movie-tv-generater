@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/yraQslMjq7n6fb046MNFODbcoHu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/grimmsnotes/",
+    "id": 84665,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-29",
+    "last_episode_to_air": {
+        "air_date": "2019-03-29",
+        "episode_number": 12,
+        "id": 1659778,
+        "name": "A Fairy Tale Nobody Knows",
+        "overview": "The enemy summons a terrible Jabberwock to defeat the Tao Family. Can they overpower this awesome enemy?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/iEQpHamp8ICEESJgiFlOHvm13TD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Grimms Notes: The Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "グリムノーツ The Animation",
+    "overview": "The story takes place in a world created by a beings known as \"Story Tellers.\" At birth, all inhabitants of this world are bestowed with a \"book of fate\" where all their lives are written in advance. However, rogue Story Tellers known as Chaos Tellers are writing bad events into people's books without them knowing. It is up to the holders of blank books of fate to seek out the Chaos Tellers and restore the world.",
+    "popularity": 8.838,
+    "poster_path": "/2maz7RReUStEmwXV1svJhCwd8MW.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-11",
+            "episode_count": 12,
+            "id": 113767,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aduXo3ZzY8TzhXKnrOzxKn1Z4sD.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 5
+}

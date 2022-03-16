@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/eKgbzuMVitCbNS3PwFB7ihSRls1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2018-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://chiochan.jp",
+    "id": 80462,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-21",
+    "last_episode_to_air": {
+        "air_date": "2018-09-21",
+        "episode_number": 29,
+        "id": 2359543,
+        "name": "Yuki-chan Bares It All",
+        "overview": "Yuki-chan does some e outlandish things at times, but the girls find out she actually spends most of her time naked at home.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2IKPFUgAlbjh05zR7ZRAsnaDTPy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Chio's School Road",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 29,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ちおちゃんの通学路",
+    "overview": "This is a story of a nerdy bookworm girl on her way to school, and yes, that's the entire premise, as she's not getting to school any time soon. Taking her \"usual\" route to school, it becomes an increasingly unusual adventure, and all the more ridiculous as it carries on. It takes an unpleasant sentiment many can empathize with, the feeling of tardiness, and brings humor to it—making it a hilarious situation to look back upon.",
+    "popularity": 7.879,
+    "poster_path": "/akBhifidISuKild0to95A6Savkx.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-06",
+            "episode_count": 29,
+            "id": 105633,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/loVF2OXsbqckeQ4wHW320resRyb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 19
+}

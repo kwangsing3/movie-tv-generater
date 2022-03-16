@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/9KrIho4nmVipSTcoycVp8YbhVej.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34206,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-25",
+    "last_episode_to_air": {
+        "air_date": "2006-03-25",
+        "episode_number": 12,
+        "id": 785493,
+        "name": "Kage Kara Mamoru!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Guardian Ninja Mamoru",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "陰からマモル！",
+    "overview": "Behind the frail, hapless and nerdy Kagemori's thick glasses and unkempt hair lies a master in the ways of the ninja, he secretly watches over and is in service to his “neighbors”, the Konnyaku family, who have been under his family's protection for the past 400 years! Yuuna, the young daughter of the Konnyaku family is Mamoru's responsibility and has been since they were both in kindergarten. Luckily for Yuuna, whenever she finds herself in trouble, her secret savior is never too far away!",
+    "popularity": 2.609,
+    "poster_path": "/og8HedVF2JQD08UgRF2cWlwizFw.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2006-01-07",
+            "episode_count": 12,
+            "id": 45072,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qLprbXPDdk82RVBbX4xCMA8KpW6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

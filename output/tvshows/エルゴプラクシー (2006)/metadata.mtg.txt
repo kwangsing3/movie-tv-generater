@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/pocqO2L8PW9xh1oA7ZG3iXh62FL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-02-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 1097,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-08-12",
+    "last_episode_to_air": {
+        "air_date": "2006-08-12",
+        "episode_number": 23,
+        "id": 56616,
+        "name": "Deus Ex Machina",
+        "overview": "Pieces are played and revelations uncovered as the final fight commences. Monad makes her return and tries to convince Vincent to join her.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/Aripp1ilOqzCLcO7wSJaHuLdY14.jpg",
+        "vote_average": 8,
+        "vote_count": 4
+    },
+    "name": "Ergo Proxy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 23,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エルゴプラクシー",
+    "overview": "In a futuristic world almost barren of life, mankind is confined to mechanized domed cities where A.I.’s control all aspects of life. In this world, humans are no longer born, they are manufactured in a production line; and alongside them live androids known as autoreivs. Within one of these domed sanctuaries named Romdeau lives Re-l Mayer, one of a few citizens who aren’t entirely prevented from thinking. Her grandfather's prominent position and the affection of the scientist Daedalus have left her more free will than is normally allowed, but Re-l has started to question the sanctity of the city and the citizens' perfect way of life. With mysterious beings known as proxies causing havoc and a man named Vincent causing great influence on her life, Re-l must travel outside of the city to find the answers she seeks and discover the mystery behind \"the awakening\".",
+    "popularity": 21.117,
+    "poster_path": "/qolcK1gqok7Gfx08sQdvxsXuac8.jpg",
+    "production_companies": [
+        {
+            "id": 33347,
+            "logo_path": null,
+            "name": "Manglobe",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3362,
+            "logo_path": null,
+            "name": "Geneon Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 5073,
+            "logo_path": null,
+            "name": "Wowow Films",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-02-25",
+            "episode_count": 23,
+            "id": 3091,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/e9Jw4g2tfCgOUEEeL4ME0AByLLe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 182
+}

@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/sUduZFZfExYQE2WQFtFN8EdDPEy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2009-02-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 53297,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-05-08",
+    "last_episode_to_air": {
+        "air_date": "2009-05-08",
+        "episode_number": 13,
+        "id": 923873,
+        "name": "Sleds are so fun!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fQSytH621S1qroxouqcOJXvvxtI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nyoron! Churuya-san",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "にょろーん☆ちゅるやさん",
+    "overview": "Churuya is a girl with a strong passion for smoked cheese. But Kyon and the rest of the crew know this, and they make use of the weakness. They make her do all kinds of things with smoked cheese as a possible reward. But Churuya isn't aware of this evil plot, thus she maintains the effort for the sake of cheese. Each day is a struggle to get the beloved smoked cheese, but it's much harder than she could ever imagine!",
+    "popularity": 4.332,
+    "poster_path": "/85BghSKcTxWPlyXPjmEHatVxG4r.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-02-14",
+            "episode_count": 13,
+            "id": 56340,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qe64DzE1t3Cal14YnzWYxLMUbFm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.4,
+    "vote_count": 5
+}

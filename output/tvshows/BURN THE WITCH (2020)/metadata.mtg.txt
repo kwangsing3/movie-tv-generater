@@ -1,0 +1,135 @@
+{
+    "adult": false,
+    "backdrop_path": "/7R7BxbHz4RMId5YHEA3NqgZWXde.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        21
+    ],
+    "first_air_date": "2020-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://burn-the-witch-anime.com/",
+    "id": 110911,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-10-02",
+    "last_episode_to_air": {
+        "air_date": "2020-10-02",
+        "episode_number": 3,
+        "id": 2450928,
+        "name": "If a lion could speak, we couldn't understand",
+        "overview": "Ninny and Noel try to fight the Märchen that appeared before it destroys all of London.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kpovrjP6ZbtTno0AUzaQ5zVyAkm.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Burn the Witch",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Amazon",
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "origin_country": ""
+        },
+        {
+            "name": "Hikari TV",
+            "id": 3418,
+            "logo_path": "/1hWkGw1Srw74dFzIYDgssn6OoR6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BURN THE WITCH",
+    "overview": "Historically 72% of all the deaths in London are related to dragons, fantastical beings invisible to the majority of the people.\n\nWhile unknown to most, some people have been standing up to these dragons.\n\nOnly inhabitants of Reverse London who live in the hidden “reverse” side of London can see the dragons. Even then, only a selected few become qualified enough as witches or wizards to make direct contact with them.\n\nThe protagonists of the story are witch duo Noel Niihashi and Ninny Spangcole. They are protection agents for Wing Bind (WB), an organization for dragon conservation and management. Their mission is to protect and manage the dragons within London on behalf of the people.",
+    "popularity": 9.754,
+    "poster_path": "/eNq68NjT1KOdorphIqYeZF0BM9b.jpg",
+    "production_companies": [
+        {
+            "id": 20556,
+            "logo_path": "/vtDnd97vIv35YpJzQ5k2H4LP0uv.png",
+            "name": "Studio Colorido",
+            "origin_country": "JP"
+        },
+        {
+            "id": 130893,
+            "logo_path": null,
+            "name": "team Yamahitsuji",
+            "origin_country": "JP"
+        },
+        {
+            "id": 136217,
+            "logo_path": "/dBYuplhBgeOsGPQOI0LukWNbFWE.png",
+            "name": "Bandai Namco Arts",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 120469,
+            "logo_path": "/tyNprnyeLLQuNfdqhFf4UEiPayF.png",
+            "name": "Twin Engine",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1780,
+            "logo_path": "/2KJ1cSBOGABQotDWSRPNY4C9amg.png",
+            "name": "Tohokushinsha Film Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-02",
+            "episode_count": 3,
+            "id": 164536,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6MXeXBuGXS78KMD0ftfd4uuDJBO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 17
+}

@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/5QCwAW4eaydHCfOYQKBE4a9NmxS.jpg",
+    "created_by": [
+        {
+            "id": 1252645,
+            "credit_id": "5258ab61760ee346616f09e7",
+            "name": "Takami Akai",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2002-09-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 34106,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-03-24",
+    "last_episode_to_air": {
+        "air_date": "2003-03-24",
+        "episode_number": 26,
+        "id": 781926,
+        "name": "To Me, the Day I Become an Adult",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Petite Princess Yucie",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK BS1",
+            "id": 219,
+            "logo_path": "/8fr5rRhr3avyMYDDl4b3ePardYc.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぷちぷり＊ユーシィ",
+    "overview": "Yucie, is a 17-year-old who is trapped in a 10-year-old's body, her and her friends are all designated as Platinum Princess candidates and compete to receive the Eternal Tiara which grants any wish.",
+    "popularity": 6.25,
+    "poster_path": "/64MGDzxzF7AKrKtIn2seCLX1Jcj.jpg",
+    "production_companies": [
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-09-30",
+            "episode_count": 26,
+            "id": 44900,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 3
+}

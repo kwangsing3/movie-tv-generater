@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/lpiXgj9fWz75RsarxiGwcUURLzH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.bluereflection-ray.com",
+    "id": 118610,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-25",
+    "last_episode_to_air": {
+        "air_date": "2021-09-25",
+        "episode_number": 24,
+        "id": 2861769,
+        "name": "Blue Reflection",
+        "overview": "Hiori and the others try to save Shino and the world once and for all.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/g9gqUc8xsr2ZlXQmCPg6elDDxQd.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Blue Reflection Ray",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BLUE REFLECTION RAY/澪",
+    "overview": "Optimistic Hiori can’t turn away anyone in need. Awkward Ruka can’t make friends, even when she tries. But they have one thing in common: they’re magical girls, Reflectors! Now this pair will use powers to help resolve emotional struggles and protect Fragments of people’s hearts.",
+    "popularity": 18.448,
+    "poster_path": "/e8prrax8LxG2EqBV8mS2ewuJkBx.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-03",
+            "episode_count": 1,
+            "id": 201054,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/sz1LensklFPuVOHVCofBqEtokb0.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-04-10",
+            "episode_count": 24,
+            "id": 181040,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/e8prrax8LxG2EqBV8mS2ewuJkBx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

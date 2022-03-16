@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/ykpqMl0L2lz1tExrI257GugMh0K.jpg",
+    "created_by": [
+        {
+            "id": 2993929,
+            "credit_id": "622d40f8f90b190047f4fe93",
+            "name": "Joel Bergen",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 2993930,
+            "credit_id": "622d4105501cf2001db676ab",
+            "name": "Jared Hedges",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 2993931,
+            "credit_id": "622d410e350398004532860b",
+            "name": "Alex Muniz",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2006-08-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 194939,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2011-10-04",
+    "last_episode_to_air": {
+        "air_date": "2011-10-04",
+        "episode_number": 17,
+        "id": 3591262,
+        "name": "Bind, Torture, Make Into Apple Dumplings",
+        "overview": "It's Snot Boo, It's an Alien! The Rear End of the Affair! Kindergarten Chops!",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/qki1JuuMizISd4whLWPdfEmP4d8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Crayon Shin-chan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Adult Swim",
+            "id": 80,
+            "logo_path": "/2ezVEkNx1tvBLONzDcViyfovWBH.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 78,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "クレヨンしんちゃん",
+    "overview": "Crayon Shin-chan is a popular yet controversial Japanese anime series. FUNimation made their dub more mature in content compared to the original. Shin is a 5-year-old boy who is constantly doing and saying inappropriate things, much to the dismay and annoyance of those around him, with hilarious results. Shin along with his family including his little sister Himawari and his dog Shiro, as well as his friends from kindergarten, ends up turning everyday situations into funny adventures.",
+    "popularity": 2.744,
+    "poster_path": "/aGdiyKJqXTSmAdyHoCqDGw2ohG.jpg",
+    "production_companies": [
+        {
+            "id": 3964,
+            "logo_path": "/l7MfzbsazzcSoefr8hUkrX2HArm.png",
+            "name": "Funimation Global Group",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2006-08-21",
+            "episode_count": 26,
+            "id": 283005,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cYNqUhznSTIAuxCQNEeFbtG3fJz.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-04-12",
+            "episode_count": 26,
+            "id": 283010,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/3LV5pXO1LwPoQGDKx2vVPWmYYkP.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2011-07-26",
+            "episode_count": 26,
+            "id": 283011,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/9lpbrwFjJY0RaaKz3ynggCOo7Nv.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Crayon Shin-chan",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

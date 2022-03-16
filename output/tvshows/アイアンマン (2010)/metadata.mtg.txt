@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/9v7pbENY2tQ8uohTPBwI62tSsj9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 45418,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-12-17",
+    "last_episode_to_air": {
+        "air_date": "2010-12-17",
+        "episode_number": 12,
+        "id": 902222,
+        "name": "The Light in the Darkness",
+        "overview": "Kuroda enacts a coup d'etat and declares martial law over Japan. Meanwhile, Chika admits to Tony that she's been having blackouts and has been controlled into altering the arc reactor, wanting to commit suicide for causing Tony's suffering. Just then, Kuroda approaches them in his Retetsu armor and takes control of Chika, who had really been a Zodiac warrior, and has her attack Tony. As Tony tries to get Chika to believe in herself, she stabs herself to break free from Kuroda's control. Tony leaves Chika in Nanami's care whilst he goes to fight Kuroda, who was resentful due to his grandparents being killed in the Nagasaki bombing. Meanwhile, Chika decides to transfer her consciousness into the arc reactor program in order to take control of it and transfer its energy over to Iron Man. Iron Man manages to defeat Kuroda with the power provided, but Chika dies as a result of the transfer. A month later, the Arc Station is finally activated, providing clean energy for Japan.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qKAZXN9FXP4a8dUH6gNdVk3bfrC.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Iron Man",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイアンマン",
+    "overview": "When Tony Stark branches his company into Japan, he is opposed by the nefarious Zodiac organization. It's up to Stark's Iron Man to defeat the Zodiac, and defend Japan.",
+    "popularity": 10.083,
+    "poster_path": "/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
+    "production_companies": [
+        {
+            "id": 7505,
+            "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+            "name": "Marvel Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 82346,
+            "logo_path": "/jqgK6CSkPrEsIv6Nk390JaBcXYF.png",
+            "name": "Sony Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-10-01",
+            "episode_count": 12,
+            "id": 54073,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 55
+}

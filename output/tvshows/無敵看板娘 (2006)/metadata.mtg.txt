@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/ryzfXLoc2CY7mATVI3IkXe4e9Xx.jpg",
+    "created_by": [
+        {
+            "id": 1581145,
+            "credit_id": "56ca36aec3a36840950093ce",
+            "name": "Jun Sadogawa",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.onimaru.net/",
+    "id": 34843,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-19",
+    "last_episode_to_air": {
+        "air_date": "2006-09-19",
+        "episode_number": 12,
+        "id": 793474,
+        "name": "When You Were Smashed / The Buried Party",
+        "overview": "Miki drinks beer and gets drunk. In her drunk personality, she is very cute, shy and husband looking girl. In the other episode, Megumi is also drunk, and becomes an abusive and violent tomboy. But after while, they (literally) knock the alcohol out of each other, and are back to their normal (but still violent) selves again.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ramen Fighter Miki",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無敵看板娘",
+    "overview": "Miki works at her mother's ramen restaurant. She appears normal, but she can become violent when provoked causing issues in their otherwise peaceful lives.",
+    "popularity": 4.588,
+    "poster_path": "/93akbE963mIiGJ5XQ6fHqnJyFQA.jpg",
+    "production_companies": [
+        {
+            "id": 20868,
+            "logo_path": null,
+            "name": "Telecom Animation Film",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-07-04",
+            "episode_count": 12,
+            "id": 45641,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

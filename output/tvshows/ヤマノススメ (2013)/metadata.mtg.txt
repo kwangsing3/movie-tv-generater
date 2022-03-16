@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/fUBkTktI1QAPQBcVgAtXGqmbCXq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        11
+    ],
+    "first_air_date": "2013-01-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.yamanosusume.com",
+    "id": 53918,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-24",
+    "last_episode_to_air": {
+        "air_date": "2018-09-24",
+        "episode_number": 13,
+        "id": 1578241,
+        "name": "It's a Secret",
+        "overview": "It’s November, and Hinata’s birthday is coming up. Aoi tries to choose a gift for her, but nothing seems right.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/dnkkLespBtd4K4GogRMX70oe66I.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Encouragement of Climb",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヤマノススメ",
+    "overview": "Aoi prefers indoor hobbies and is afraid of heights, but her childhood friend Hinata loves to show off her passion for mountain climbing. As young children they once watched the sunrise from the top of a mountain, and now they've decided to take up mountain climbing in hopes of seeing that sunrise again. They have cooking battles with mountaineering gear, climb small hills in their neighborhood, and meet new mountaineering friends as they learn the ropes of the hobby. When will they finally see that sunrise again?",
+    "popularity": 28.41,
+    "poster_path": "/4Of4kzRyYlzImnFm75o4JVw7uz6.jpg",
+    "production_companies": [
+        {
+            "id": 30294,
+            "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+            "name": "8bit",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-05-24",
+            "episode_count": 4,
+            "id": 56467,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/vIrOMECO0K9amCfAUXmMdkWq7an.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-01-03",
+            "episode_count": 12,
+            "id": 56468,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ayz0JOIsE82B5fevTgFD9xbadn0.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-07-09",
+            "episode_count": 24,
+            "id": 99666,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/hMD4O83D7amoPbauT1uUaGxC14A.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2018-07-02",
+            "episode_count": 13,
+            "id": 105826,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/dNqYkN0Ck9NW3PKlDHnALoyzd9Z.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 7
+}

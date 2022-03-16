@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/kCQXUzThgvRtoyFNdjwXBH21a9r.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-04-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://caroleandtuesday.com/",
+    "id": 83962,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-10-03",
+    "last_episode_to_air": {
+        "air_date": "2019-10-03",
+        "episode_number": 24,
+        "id": 1838729,
+        "name": "A Change is Gonna Come",
+        "overview": "Appearing before Angela, Tao reveals a secret that he has long kept hidden. Meanwhile, Carole & Tuesday finally complete their new song titled “Mother”. On New Year’s Eve, artists from all over Mars secretly gather in the Mars Immigration Memorial Hall, the place where Carole & Tuesday first became known to the public. A little while later, the Miraculous 7 Minutes, an event that would go down in Martian history, begins.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/aL9AyDLPGLtxdS5Mru3XH41jeNU.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Carole & Tuesday",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キャロル＆チューズデイ",
+    "overview": "Fifty years have passed since mankind began migrating to the new frontier: Mars. It's an age where most culture is produced by AI, and people are content to be passive consumers.  There's a girl. Scrapping a living in the metropolis of Alba City, she's working part time while trying to become a musician. She's always felt like something is missing. Her name is Carole.There's a girl. Born to a wealthy family in the provincial town of Herschel City, she dreams of becoming a musician, but nobody around her understands. She feels like the loneliest person in the world. Her name is Tuesday.\n\nA chance meeting brings them together. They want to sing. They want to make music. Together, they feel like they just might have a chance. The two of them may only create a tiny wave. But that wave will eventually grow into something larger...",
+    "popularity": 20.351,
+    "poster_path": "/1NtxJItCNV9B36FpttUumGvdzSG.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150545,
+            "logo_path": "/df2KyiUSCxpoQxV88AI3zxu8kbD.png",
+            "name": "dugout",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-07-04",
+            "episode_count": 10,
+            "id": 130534,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/a2eT3H3dFuGQJ4cPZ5scuN5ZFTu.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-04-11",
+            "episode_count": 24,
+            "id": 112483,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hqcC6kxYiH6Cth2rCwrYjsOw6Cr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 26
+}

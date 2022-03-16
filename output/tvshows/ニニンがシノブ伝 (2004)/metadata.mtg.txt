@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/2Jow5XKQSsSV235JTOQQHpwxZ97.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 28326,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-09-23",
+    "last_episode_to_air": {
+        "air_date": "2004-09-23",
+        "episode_number": 24,
+        "id": 1997921,
+        "name": "Farewell, 2x2=Shinobuden",
+        "overview": "Shinobu's goal of becoming a full-fledged ninja is finally within her grasp! Now she just has to pass the dreaded Ninja Graduation Exam! She'll need to use every technique that Onsokumaru's ever taught her! Her chances don't exactly look promising, do they?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ninja Nonsense",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ニニンがシノブ伝",
+    "overview": "Shinobu is a naive ninja-in-training. In order to test her ninja abilites, she must steal the panties of all the high school girls. The first house she stops at is the abode of one Kaede Shiranui, who happens to catch Shinobu in the act. Kaeda is the voice of reason and the two girls become quick friends, despite a round yellow ball-thing who claims to be a ninja master and tries to get in the way of their friendship.",
+    "popularity": 15.3,
+    "poster_path": "/tBKUGyqiHC5dRwMxVQgqUHkmuJT.jpg",
+    "production_companies": [
+        {
+            "id": 5887,
+            "logo_path": "/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png",
+            "name": "ufotable",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-07-08",
+            "episode_count": 24,
+            "id": 39529,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lu2MimyPJz44iEB0DKAHa6YnHQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.9,
+    "vote_count": 13
+}

@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/reKIbMr7sgC4pHRcApJS7PAO1c0.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://shadowshouse-anime.com",
+    "id": 111576,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-07-04",
+    "last_episode_to_air": {
+        "air_date": "2021-07-04",
+        "episode_number": 13,
+        "id": 2864374,
+        "name": "For the Sake of the Shadows Family",
+        "overview": "Kate searches for Emilico in Lord Grandfather's wing. John springs into action, and Kate gets some help from the other children and a strange new friend. As Edward's plan nears fruition, will the children of Shadows House be able to stop him?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qLkiEy6mqmyi1n4DyByOIwNIfye.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Shadows House",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tochigi TV",
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シャドーハウス",
+    "overview": "A faceless clan lives in a large mansion, masquerading as nobles. Their caretakers are living dolls who spend their days cleaning up the dirt the tenants leave behind. But there’s a deeper mystery at play… and the secret of the house will be unveiled.",
+    "popularity": 21.32,
+    "poster_path": "/lyB5T6lWA4yCPZxolZ2KuVm8YV3.jpg",
+    "production_companies": [
+        {
+            "id": 121589,
+            "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+            "name": "CloverWorks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-27",
+            "episode_count": 1,
+            "id": 213224,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/8JKfoUtp1nVytp0RYxVTzugueij.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-04-11",
+            "episode_count": 13,
+            "id": 165826,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lyB5T6lWA4yCPZxolZ2KuVm8YV3.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 238554,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/tZ57kYjdgrOfVrvz0rELkc4yXGH.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 29
+}

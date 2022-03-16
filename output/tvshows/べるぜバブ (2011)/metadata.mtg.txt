@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/dkq4GO8Ubcu6ketU6MZNmc4Eksi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 38603,
+    "in_production": false,
+    "languages": [
+        "cn"
+    ],
+    "last_air_date": "2012-03-25",
+    "last_episode_to_air": {
+        "air_date": "2012-03-25",
+        "episode_number": 60,
+        "id": 861259,
+        "name": "I Won't Say Goodbye",
+        "overview": "It begins with a bunch of Ishiyama delinquents crying and mourning over the loss of Oga and Baby Beel. Their tears stop short by the river when Alaindelon cruises like a speedboat and Oga and Beel pop out of the man.\n\nAt Oga's house, Hilda explains that the Great Demon Lord has no interest in destroying humanity which means the goal of raising Beel to destroy all humanity is no more. Beel and his gang will have to go home, and mass hysteria follows.\n\nWill Oga, Beel, and the gang part ways forever?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/u0HD0zVfXacft28FKnt7XAF6Bki.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Beelzebub",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chukyo TV",
+            "id": 2727,
+            "logo_path": "/KaIK93kJFD8WKH451owMdmNOSz.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "RNB",
+            "id": 2728,
+            "logo_path": "/kwC7bfbGknKuL7uxKahk6paamlp.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 60,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "べるぜバブ",
+    "overview": "Violent delinquent Oga encounters a baby one day, which crawls onto his back and immediately forms an attachment to him. Though he doesn't know it yet, this baby is named Kaiser de Emperana Beelzebub IV, or \"Baby Beel\" for short—the son of the Demon Lord!",
+    "popularity": 36.789,
+    "poster_path": "/h6INRqObg9TphXXtNJaUIkAQMkP.jpg",
+    "production_companies": [
+        {
+            "id": 74476,
+            "logo_path": null,
+            "name": "Pierrot Plus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-10-23",
+            "episode_count": 1,
+            "id": 50167,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-01-09",
+            "episode_count": 60,
+            "id": 50166,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1Cedo17xCeBjh4aTOyVKE1M0lk9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 175
+}

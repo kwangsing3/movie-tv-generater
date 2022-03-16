@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/ohSfUU5cnYyLSLOY4BGcEOgJn1q.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.fagirl.com/",
+    "id": 71001,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-06-20",
+    "last_episode_to_air": {
+        "air_date": "2017-06-20",
+        "episode_number": 12,
+        "id": 1365191,
+        "name": "Last Battle / That Which I Give to You",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3OWLGrTszqyBWB6nJK24s1j4gjn.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Frame Arms Girl",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "フレームアームズ・ガール",
+    "overview": "Based on Kotobukiya's Frame Arms Girl model kit line. The anime will focus on Gourai, the first model released for the line, as well as Stylet and Baselard.",
+    "popularity": 5.399,
+    "poster_path": "/3AfO1jD6Ahignxzgvfy0NzxInU9.jpg",
+    "production_companies": [
+        {
+            "id": 84826,
+            "logo_path": null,
+            "name": "Catville Animation Studios",
+            "origin_country": ""
+        },
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-06-29",
+            "episode_count": 1,
+            "id": 212278,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/3Pzxgdz97YOkwvte4GUYSGlhEe5.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-04-03",
+            "episode_count": 12,
+            "id": 86819,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wY2jZLi9vA4HsRptNKHgEO1o1K7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2
+}

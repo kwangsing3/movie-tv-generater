@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 34691,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-03-26",
+    "last_episode_to_air": {
+        "air_date": "2009-03-26",
+        "episode_number": 26,
+        "id": 790184,
+        "name": "End of the Song of the Souls` Repose (Requiem)",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tytania",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK BS1",
+            "id": 219,
+            "logo_path": "/8fr5rRhr3avyMYDDl4b3ePardYc.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "タイタニア",
+    "overview": "The capital of the empire of Euria is attacked by the empire of Titania, a much more powerful enemy that controls a large part of the galaxy. The story follows a soldier who flees the Titania empire and seeks refuge with the rebellion force, that rose up since the battle.",
+    "popularity": 3.806,
+    "poster_path": "/gbzdH6vCbifAmVSfhyz5J5Y3TJP.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2008-10-09",
+            "episode_count": 26,
+            "id": 45435,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.5,
+    "vote_count": 2
+}

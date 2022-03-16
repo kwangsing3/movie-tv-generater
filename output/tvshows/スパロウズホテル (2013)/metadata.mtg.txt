@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/hOEPbORV28KVJ1w2Q1tcOndhkgE.jpg",
+    "created_by": [
+        {
+            "id": 2155025,
+            "credit_id": "5bcab17ac3a36840780069d4",
+            "name": "Yuka Santou",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2013-04-09",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.takeshobo.co.jp/sp/tv_sparrows/",
+    "id": 53035,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-06-25",
+    "last_episode_to_air": {
+        "air_date": "2013-06-25",
+        "episode_number": 12,
+        "id": 922778,
+        "name": "Wish Upon a Star",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sparrow's Hotel",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スパロウズホテル",
+    "overview": "The comedy revolves around Sayuri Satou, the new front desk worker at the Sparrow's Hotel—\"the closest hotel to Heaven\". Her special features are her large breasts and her skills of assassination. She takes down people who cause trouble in the business hotel with those skills, but she is in fact very unskilled when talking to the male hotel manager, and often bites her tongue.",
+    "popularity": 1.855,
+    "poster_path": "/ooHssyMS2SQB8rV7knAsKDjcoi1.jpg",
+    "production_companies": [
+        {
+            "id": 125580,
+            "logo_path": null,
+            "name": "Hotline",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-04-09",
+            "episode_count": 12,
+            "id": 56195,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ooHssyMS2SQB8rV7knAsKDjcoi1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.3,
+    "vote_count": 3
+}

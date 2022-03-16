@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/a0QongjOG6ZTvZ8Ily7Dk6BjxXJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2016-08-28",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.ooyasan-anime.com/",
+    "id": 68055,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-11-13",
+    "last_episode_to_air": {
+        "air_date": "2016-11-13",
+        "episode_number": 12,
+        "id": 1475159,
+        "name": "The Landlord is Just So…!",
+        "overview": "Summer festival. Chie in a yukata meets her friends. I decided to go out with Maeda who was asked to play the role of bodyguard. Chie called out to Maeda, who had become like a venue organizer, protecting Chie who was confused by the crowd from the crowd.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6puRQVzpNYg2ZnGEhyJPuYl2hvm.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Landlord Is in Puberty!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "大家さんは思春期！",
+    "overview": "Maeda-san is living alone in rented accommodations for the first time after finding employment. In his tiny, no-bath apartment he is visited by Chie Satonaka, who looks like the little sister he never had, but turns out to be the landlord of this apartment building. Chie's high degree of competence when it comes to cooking and housework, sometimes makes her appear very much older than the middle school girl she actually is. Maeda-san's other neighbour, Reiko Shirai, quite jealously tries to guard the cute landlord for herself though. And so Maeda-san's otherwise uneventful life, supposedly living alone, suddenly becomes quite lively...",
+    "popularity": 3.662,
+    "poster_path": "/z7GMEG7c6kbT9IvkKG9s7ve59DG.jpg",
+    "production_companies": [
+        {
+            "id": 72552,
+            "logo_path": null,
+            "name": "Seven Arcs Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-08-28",
+            "episode_count": 12,
+            "id": 80656,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cIBTQ1uZrEpkBzzp3mUSU0gWrXs.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 6
+}

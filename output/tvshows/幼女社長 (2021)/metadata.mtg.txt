@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/43c7wtzF4TWELDSCET9PT3I2IYc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2021-01-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.mujina-company.com/",
+    "id": 112501,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-01-01",
+    "last_episode_to_air": {
+        "air_date": "2021-01-01",
+        "episode_number": 13,
+        "id": 2603767,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/AltpJb7ByK90zGDkc1mAq0sPNZT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cute Executive Officer",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "pt",
+    "original_name": "幼女社長",
+    "overview": "She’s not a genius. She’s not a prodigy. Heck, she’s not even old enough to vote! But somehow Najimu Mujina scored a totally above-average job as the president and “CEO” of the Mujina Company, where she navigates the world of adults with infectious, bright-eyed charm and enthusiasm. Whether it’s golfing with colleagues, negotiating contracts or pestering her executive assistant, Yuki, her hilarious antics are sure to captivate audiences of all ages.",
+    "popularity": 14.21,
+    "poster_path": "/mX0fLGEzjqkAAC6kL34d0n1JFnY.jpg",
+    "production_companies": [
+        {
+            "id": 74464,
+            "logo_path": null,
+            "name": "project No.9",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-01",
+            "episode_count": 13,
+            "id": 167460,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mX0fLGEzjqkAAC6kL34d0n1JFnY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/sWDC5IWXWLLYwZtkqAzCBUhboyl.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/heine-royal/onair/",
+    "id": 71008,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-06-21",
+    "last_episode_to_air": {
+        "air_date": "2017-06-21",
+        "episode_number": 12,
+        "id": 1330700,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xQeoMEePPbEQXDyIDry6tqu0tog.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "The Royal Tutor",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "王室教師ハイネ",
+    "overview": "Heine Wittgenstein is a pint-sized man given a monumental task. He's recently hired by the King of Grannzreich to whip four of his five sons into royalty material as their tutor. At first glance, the princes have all the allure and refinement Heine would expect but underneath their manicured exteriors are four potentially terrible tyrants.",
+    "popularity": 7.711,
+    "poster_path": "/9kcVETClEE295oZu5bDsQrB6Ou7.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2019-02-16",
+            "episode_count": 1,
+            "id": 157526,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-04-05",
+            "episode_count": 12,
+            "id": 86827,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3cIxUPSLh3UIXWWqwfAxohdlU7I.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 16
+}

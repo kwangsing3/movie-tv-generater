@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/coaDC10hvXSvj3eZ8RKp27nemUU.jpg",
+    "created_by": [
+        {
+            "id": 115936,
+            "credit_id": "60a578b46636270029293e1d",
+            "name": "Naoki Urasawa",
+            "gender": 2,
+            "profile_path": "/xpXOtyO3gvJZbnRfwhXDBeeVwEP.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1998-10-06",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 34674,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-06-21",
+    "last_episode_to_air": {
+        "air_date": "2000-06-21",
+        "episode_number": 38,
+        "id": 789842,
+        "name": "Hunting Season Part 1",
+        "overview": "Two knife murders in London drags Keaton into a chase tying the SAS to a vicious drug ring.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Master Keaton",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK BS1",
+            "id": 219,
+            "logo_path": "/8fr5rRhr3avyMYDDl4b3ePardYc.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マスターキートン",
+    "overview": "Master Keaton is a Japanese manga series created by Hokusei Katsushika and Naoki Urasawa. It was serialized in Big Comic Original between 1988 and 1994 and ran for 144 chapters. The chapters were combined into 18 tankōbon volumes. An anime adaptation was created, with 24 episodes airing between 1998 and 1999 in Japan on Nippon Television. An additional 15 episodes were created and released as OVAs, bringing the total to 39 episodes. The manga's target audience was Japanese men in their 20's and 30's, a comparatively older target audience than is common for most anime series.\n\nThough the manga series has not been translated into English, the anime and OVA series were dubbed into English and released by Pioneer Entertainment.\n\nNaoki Urasawa will be writing a sequel to the series, titled Master Keaton Remaster, with writer Takashi Nagasaki. Beginning in the March 2012 issue of Big Comic Original, it will take place 20 years after the original series ended.",
+    "popularity": 19.883,
+    "poster_path": "/5oMdGZa54VbeLVMed4CioWTVjQJ.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-12-22",
+            "episode_count": 15,
+            "id": 45417,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1998-10-06",
+            "episode_count": 39,
+            "id": 45416,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xfNmMrg6UWSjkLLn19FPU6BveoU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 3
+}

@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/8CFHavHjShaMDUMtI7fjhhzCjuN.jpg",
+    "created_by": [
+        {
+            "id": 2002151,
+            "credit_id": "5aafad9c92514116bd0352bf",
+            "name": "Ken'ichi Ishikura",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-01-10",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/sakura/",
+    "id": 61462,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2014-03-28",
+    "last_episode_to_air": {
+        "air_date": "2014-03-28",
+        "episode_number": 12,
+        "id": 1011058,
+        "name": "Pudding and Mitsuki's Decision / Sakura Trick",
+        "overview": "The graduation party for Mitsuki and Rina gets underway, with everyone giving them presents. During the party, as Yuu gets into an argument with Mitsuki over her kissing relationship with Haruka, Mitsuki, upon hearing that their kissing is part of a 'special friendship', confesses her love to Haruka. Following the graduation ceremony, Haruka is called about Mitsuki, who discovers Haruka knows nothing about love or dating and misinterpreted Mitsuki's confession. Haruka ends up rejecting Mitsuki, who leaves her with just a kiss on the forehead. Yuu, who had been watching them, bring Haruka to the old classroom, where they kiss whilst telling each other they love each other. With their feelings stronger than ever, Haruka and Yuu begin their second year of school.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ovefmROvmECb2aiAyzrwQcU3ypx.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sakura Trick",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "桜Trick",
+    "overview": "Haruka Takayama and Yū Sonoda were inseparable during middle school, but upon entering high school, they end up being seated on opposite sides of the classroom. Having to spend time with more friends, the two decide to make their relationship special by kissing each other in secret.",
+    "popularity": 11.814,
+    "poster_path": "/kkqlvcXmNKRcWXK9Io87igmaM0c.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-01-10",
+            "episode_count": 12,
+            "id": 62949,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wjQsod2tCdDxhB36Zi34zYfJqEW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.3,
+    "vote_count": 15
+}

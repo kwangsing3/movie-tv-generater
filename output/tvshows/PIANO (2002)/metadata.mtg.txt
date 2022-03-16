@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2002-11-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.marine-e.co.jp/sakuhin/piano/p_index.htm",
+    "id": 25297,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-01-13",
+    "last_episode_to_air": {
+        "air_date": "2003-01-13",
+        "episode_number": 10,
+        "id": 654777,
+        "name": "With Compassion - Con Grazia",
+        "overview": "The day of the recital approaches, but there's still one person Miu has to invite: Takahashi. Will she be able to do it?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Piano: The Melody of a Young Girl's Heart",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "PIANO",
+    "overview": "Miu Nomura is a 14-year-old 8th-grader who has been playing piano since early childhood. She grows up gradually while her friendship, kinship, and love affairs evolve around her, but those relationships inevitably affect her piano performance.",
+    "popularity": 5.374,
+    "poster_path": "/s1aZ1IaXoa4LgbC2sT8cLd6qKpW.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-01-24",
+            "episode_count": 4,
+            "id": 112326,
+            "name": "Specials",
+            "overview": "Visual monologues from the DVD release, in which Miu discussing recent events and her interpretation of them. While talking, there is some random footage from episodes interspersed with live footage of Ayako Kawasumi wandering around various parks and looking introspective.",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2002-11-11",
+            "episode_count": 10,
+            "id": 35604,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/t85JgYJiOCuRU9Cy86vSijh9YD6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

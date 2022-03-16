@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/ytTgTcy42U4yZ7KcnKBVNJgGbRk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.classicaloid.net/",
+    "id": 68271,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-24",
+    "last_episode_to_air": {
+        "air_date": "2018-03-24",
+        "episode_number": 25,
+        "id": 1493452,
+        "name": "The Last ClassicaLoid",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/iDSe16tLlAy20LNiOTcjvPUd7W5.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "ClassicaLoid",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK",
+            "id": 2334,
+            "logo_path": "/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クラシカロイド",
+    "overview": "In a rural town undergoing revival through music, high school students Kanae and Sousuke meet none other than Beethoven and Mozart! Calling themselves \"ClassicaLoids,\" this mysterious duo creates a strange power through the \"music\" they play.  One night, stars fall from the sky and gigantic robots appear, causing trouble every single day! Bach, Chopin, Schubert also appear as ClassicaLoids. What is the mystery behind the powers they possess? Are they humanity's friend or foe?",
+    "popularity": 16.829,
+    "poster_path": "/yOlTZfo3psgInNh0chhl50aH6Tf.jpg",
+    "production_companies": [
+        {
+            "id": 15505,
+            "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+            "name": "NHK",
+            "origin_country": "JP"
+        },
+        {
+            "id": 74440,
+            "logo_path": "/mf1nS1bfySc1XM5EmPZp4qsAOoy.png",
+            "name": "Bandai Namco Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 33751,
+            "logo_path": "/2caA5Y2tdgi69L61uQnrpCIjwde.png",
+            "name": "Sentai Filmworks",
+            "origin_country": "US"
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-08",
+            "episode_count": 25,
+            "id": 81068,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oz6ZDGAKfTarIezKaHDjT8dlN11.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-10-07",
+            "episode_count": 25,
+            "id": 93123,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/2BWuUOo9J6UBW5rfGQ3JFTsvXuK.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

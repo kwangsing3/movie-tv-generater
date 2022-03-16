@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/x4iwdo1BZU7OAi6bf8Ri2TGoADz.jpg",
+    "created_by": [
+        {
+            "id": 1501327,
+            "credit_id": "6146e2b7c2823a006438e3bf",
+            "name": "Erick Oh",
+            "gender": 2,
+            "profile_path": "/uLieUqOKolSuVaznQFxHnGV0BUf.jpg"
+        }
+    ],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2017-08-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://www.tonkohouse.com/projects/the-dam-keeper-poems/",
+    "id": 88291,
+    "in_production": false,
+    "languages": [
+        "xx"
+    ],
+    "last_air_date": "2017-10-06",
+    "last_episode_to_air": {
+        "air_date": "2017-10-06",
+        "episode_number": 10,
+        "id": 1754267,
+        "name": "Dam Keeper",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kAlfc1K9EznPfGDhO2XK2zSvP9y.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pig: The Dam Keeper Poems",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Hulu",
+            "id": 1772,
+            "logo_path": "/5EbNwVlVEHGOkSJFw9cjhaHJOhY.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "Pig: The Dam Keeper Poems",
+    "overview": "Pig lives at the top of a hill in a town surrounded by a destructive, dark cloud. Before Pig's father leaves to find a solution to the cloud, he builds Pig a small wooden dam to protect him and the town. The dam's windmill keeps the cloud at bay, and Pig now has the responsibility to care for the dam. Young and alone, Pig finds love and family through his friendship with Fox, and continues to care for the townsfolk in a variety of ways. However, Pig struggles with the absence of his father, and his desire to search for his father competes with his need to keep the town safe.",
+    "popularity": 0.615,
+    "poster_path": "/eST6Y9NJpTwNbzpbAHeOt2G3BDz.jpg",
+    "production_companies": [
+        {
+            "id": 107169,
+            "logo_path": null,
+            "name": "Tonko House",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-08-04",
+            "episode_count": 10,
+            "id": 121932,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eST6Y9NJpTwNbzpbAHeOt2G3BDz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "No Language",
+            "iso_639_1": "xx",
+            "name": "No Language"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 4
+}

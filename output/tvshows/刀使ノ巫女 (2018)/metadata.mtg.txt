@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/kzWs6c4kEMEto1EXAb9s66i43vX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-01-05",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://tojinomiko.jp/",
+    "id": 75864,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-22",
+    "last_episode_to_air": {
+        "air_date": "2018-06-22",
+        "episode_number": 24,
+        "id": 1454838,
+        "name": "The United Maidens",
+        "overview": "Kanami and Hiyori seal Princess Tagitsu in the netherworld along with themselves, closing the portal and saving the world.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qVbxOzahurNfIAI8V97tilXscB4.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Katana Maidens: Toji no Miko",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "刀使ノ巫女",
+    "overview": "There's an evil creature called Aratama that attacks people, and a group of Miko has been exorcising those creatures using swords since olden times. Those who wear uniforms and swords are called Toji, who are officially called Tokubetsu Saishi Kitoutai (Special Ritual Maneuver Team) in the police association. They are officially approved to wield the swords by the government officials. The government has established five training schools consisting of junior and senior high levels for the female students to attend. They spend their student life normally, and use special skills with the swords when they're doing missions to protect people. In the spring, these five schools are to take part in a competition. Among the girls who train for the competition, there's a girl who's a bit more passionate than any other girls. Where would the girl with the sword aim?",
+    "popularity": 15.318,
+    "poster_path": "/9y7K58aKhAj8KWWqwRWm03oEeBA.jpg",
+    "production_companies": [
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-03-30",
+            "episode_count": 3,
+            "id": 142978,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/hLZl4hEziXKraMOBgPAKz2Vp8tz.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-01-05",
+            "episode_count": 24,
+            "id": 96900,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2sunQKGwH6SUS0EUJ4oJYveDLxs.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

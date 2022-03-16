@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/umSMlEN5RIYzlLvSFI2nfme1W02.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://aharen-pr.com/",
+    "id": 130237,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Aharen Is Indecipherable",
+    "next_episode_to_air": {
+        "air_date": "2022-04-02",
+        "episode_number": 1,
+        "id": 3100810,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "阿波連さんははかれない",
+    "overview": "",
+    "popularity": 10.567,
+    "poster_path": "/beOg9VYiv8UxVzF10r7Ig9SJlhp.jpg",
+    "production_companies": [
+        {
+            "id": 106076,
+            "logo_path": "/5FHxgxvhqNC6aOVce3X9T2Wz426.png",
+            "name": "Felix Film",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-03-12",
+            "episode_count": 2,
+            "id": 283065,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2022-04-02",
+            "episode_count": 1,
+            "id": 204237,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3Pqe5r4THECyIsJ58C4YLFZD6nj.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

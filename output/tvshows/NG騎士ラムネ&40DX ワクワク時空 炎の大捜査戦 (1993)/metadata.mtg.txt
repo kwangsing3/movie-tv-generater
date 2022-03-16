@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/5q81WlEhw6xMR4kBtOSGU9Nrivz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1993-06-23",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 128940,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1993-09-22",
+    "last_episode_to_air": {
+        "air_date": "1993-09-22",
+        "episode_number": 3,
+        "id": 3066540,
+        "name": "Passionate Pursuit in Wakuwaku Space-time - Warriors of Love, Be Eternal!",
+        "overview": "Returning to their normal time, Lamune and Da Cider finally complete their quest. But all that glitters may not be Gold or Silver!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "NG Knight Lamune & 40 DX",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "NG騎士ラムネ&40DX ワクワク時空 炎の大捜査戦",
+    "overview": "Lamune and Da Cider head off to Puff-Puff Palace to rescue two beautiful barely clothed maidens, Gold Mountain and Silver Mountain- the Mountain Duo. This of course infuriates Milk and Leska, who with a rather confused and unwilling Cocoa \"transform\" into \"Seinaru Milky\", \"Seinaru Cacao\", and \"Seinaru Lemon\". The three then head after their would-be boyfriends to extract their revenge.",
+    "popularity": 1.209,
+    "poster_path": "/omgxd6oo0czp5m1SPFLbB8pgNWq.jpg",
+    "production_companies": [
+        {
+            "id": 39020,
+            "logo_path": null,
+            "name": "production reed",
+            "origin_country": ""
+        },
+        {
+            "id": 108661,
+            "logo_path": null,
+            "name": "Studio Jack",
+            "origin_country": "JP"
+        },
+        {
+            "id": 90104,
+            "logo_path": null,
+            "name": "Discotek Media",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1993-06-23",
+            "episode_count": 3,
+            "id": 201828,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

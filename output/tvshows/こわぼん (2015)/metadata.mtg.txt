@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/7G4Gu8G3hbvgjltXmhJ9R1MJATc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2015-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.kbc.co.jp/kowabon/",
+    "id": 64754,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-12-27",
+    "last_episode_to_air": {
+        "air_date": "2015-12-27",
+        "episode_number": 13,
+        "id": 1470151,
+        "name": "Movie",
+        "overview": "Keita goes to a certain park to find out the truth behind a peculiar event.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kowabon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kyushu Asahi Broadcasting",
+            "id": 1278,
+            "logo_path": "/zph6Ed1k57GnwNkwjKSLo6wh3uk.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "こわぼん",
+    "overview": "Kowabon, a horror story, will be animated using a technique called rotoscoping. Animators will trace live-action footage frame-by-frame to recreate it as animation.",
+    "popularity": 3.541,
+    "poster_path": "/3DIrluWxqfiIAiF9wq2gMcDyMQy.jpg",
+    "production_companies": [
+        {
+            "id": 70498,
+            "logo_path": null,
+            "name": "ILCA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-10-04",
+            "episode_count": 13,
+            "id": 72890,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3DIrluWxqfiIAiF9wq2gMcDyMQy.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 4
+}

@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/hbpjaXKt68manSH8EQjCVXSjWaU.jpg",
+    "created_by": [
+        {
+            "id": 1255027,
+            "credit_id": "52595c4b760ee3466192689f",
+            "name": "Yom",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2001-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.nbcuni.co.jp/rondorobe/anime/imm-egg/",
+    "id": 40178,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2001-09-26",
+    "last_episode_to_air": {
+        "air_date": "2001-09-26",
+        "episode_number": 13,
+        "id": 1475014,
+        "name": "Someday, Without Make-up As Promised",
+        "overview": "Reiko Mukogawa exposes Hibiki's identity with photographs from her visit to the hospital. With this evidence she calls upon the parents and students of the school to promote its change to an all-girls institution. Fūko takes a stand against this and rushes after Hibiki who is shamefully departing from the city. The finale hinted that Akira is starting to accept Fujio as a friend, besides Hibiki promising that he'll return for Fūko.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cCiiG890o6RGHfIFijTkYXWcRVk.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "I My Me! Strawberry Eggs",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あぃまぃみぃ！ストロベリー・エッグ",
+    "overview": "I My Me! Strawberry Eggs, occasionally shortened to Strawberry Eggs, is a 2001 Japanese anime television series animated by TNK with co-production by Pioneer, LDC. The series aired from July 4 to September 26, 2001 by WOWOW and in August 2002 was licensed by Geneon Entertainment.",
+    "popularity": 2.583,
+    "poster_path": "/96Vj4M1Kiz8lDqoC1UbRvYsWJR5.jpg",
+    "production_companies": [
+        {
+            "id": 23917,
+            "logo_path": null,
+            "name": "TNK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-07-04",
+            "episode_count": 13,
+            "id": 51211,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wJgWumDxqVXKbzPiY0JeCm5VV88.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3,
+    "vote_count": 1
+}

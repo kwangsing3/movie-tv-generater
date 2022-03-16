@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/aCLTXSF8MvRzmJkjJYGnFe8pAHf.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://anime-platinumend.com",
+    "id": 114892,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-11",
+    "last_episode_to_air": {
+        "air_date": "2022-03-11",
+        "episode_number": 22,
+        "id": 3051945,
+        "name": "Wings of Determination",
+        "overview": "The new national stadium is chosen as the location for their final showdown. After describing his theory on the future of humanity, Yoneda requests a one on one conversation with Mirai. Mirai agrees, and Saki, Temari, Nakaumi, and Yumiki depart... leaving Mirai, Yoneda, and only Hoshi to observe the events. Yoneda is attempting to prevent the birth of the next God for the sake of the future he imagines for humanity. With the whole world watching, in order to defeat Yoneda, Mirai demonstrates his resolve.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dcKMcyafMlE6y5iKxic7rnx8vBG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Platinum End",
+    "next_episode_to_air": {
+        "air_date": "2022-03-18",
+        "episode_number": 23,
+        "id": 3051946,
+        "name": "At the End of Thought",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9xwt1niOFiuXYv0L2JyBGMlDcg2.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プラチナエンド",
+    "overview": "As his classmates celebrate their middle school graduation, troubled Mirai is mired in darkness. But his battle is just beginning when he receives some salvation from above in the form of an angel. Now Mirai is pitted against 12 other chosen humans in a battle in which the winner becomes the next god of the world. Mirai has an angel in his corner, but he may need to become a devil to survive.",
+    "popularity": 106.519,
+    "poster_path": "/hxL3ZYeS1GYORKGHG9FI0l6QXQF.jpg",
+    "production_companies": [
+        {
+            "id": 88373,
+            "logo_path": "/aUJ6Xd89l0jXiybnaD7KZPWSUgS.png",
+            "name": "Signal.MD",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-04",
+            "episode_count": 24,
+            "id": 244517,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/dBO71H9yAei7gWp241qNiMO6oor.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-10-08",
+            "episode_count": 24,
+            "id": 172739,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kfUjWTpKU4DadC0C52eM3gDto04.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 120
+}

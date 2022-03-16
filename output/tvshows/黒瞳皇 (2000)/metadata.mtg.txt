@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2000-11-28",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 91366,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-02-18",
+    "last_episode_to_air": {
+        "air_date": "2002-02-18",
+        "episode_number": 5,
+        "id": 1857725,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kokudoh Oh - The Black Eye King",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "黒瞳皇",
+    "overview": "Isheildo is a young prince from the small country of Bosarre. Two larger nations that border Bosarre have sent their princesses to stay with Isheildo for one and a half months, hoping to gain more political power by having him marry one of them. Both are desperate for some kind of alliance and have to allow Isheildo one and a half months to decide whether he will marry Bellshil (of the east country of Rohan) or Ariel (of the West country of Gerod). Both princesses are desperate to win him over, and of course, will go to any lengths to ensure that the diplomatic relationship can be formed.\n\n(Source: ANN)",
+    "popularity": 0.841,
+    "poster_path": "/i2uFMVIAIeaoBo4xj7FNraZ9b7p.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-11-28",
+            "episode_count": 5,
+            "id": 128105,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

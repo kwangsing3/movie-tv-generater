@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/cmNAFjphBvOHVXRgke1LX6QqGEV.jpg",
+    "belongs_to_collection": {
+        "id": 357402,
+        "name": "Digimon Adventure tri. Collection",
+        "poster_path": "/4ziocAQIyRNJFfiKOWvGA7OzVJk.jpg",
+        "backdrop_path": "/97ldEnqZmfLoc1Oh7nj2FT01bHg.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://digimon-adventure.net/",
+    "id": 372752,
+    "imdb_id": "tt5216534",
+    "original_language": "ja",
+    "original_title": "デジモンアドベンチャー tri. 第2章「決意」",
+    "overview": "The DigiDestined go to a nearby hot springs theme park and everyone has a good time, but Joe doesn't show up because he wants to study for his exams. Another infected Digimon, Ogremon, attacks Odaiba. Gomamon runs away from home while Mimi faces problems with the other DigiDestined and her classmates because of her selfish ideas.",
+    "popularity": 10.499,
+    "poster_path": "/bHWbJxybcWXgtGL5K4HKEelrXW0.jpg",
+    "production_companies": [
+        {
+            "id": 126,
+            "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
+            "name": "Lakeshore Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5822,
+            "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+            "name": "Toei Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2016-03-12",
+    "revenue": 1476624,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Digimon Adventure tri. Part 2: Determination",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 37
+}

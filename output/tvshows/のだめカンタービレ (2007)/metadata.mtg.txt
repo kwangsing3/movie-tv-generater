@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/heO0fDQB2EgHKTUvErj74ohM6Fz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2007-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 45527,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-03-26",
+    "last_episode_to_air": {
+        "air_date": "2010-03-26",
+        "episode_number": 11,
+        "id": 903083,
+        "name": "La Dernière Leçon",
+        "overview": "Back in Paris, Nodame spends her days quietly playing for children while her friends wonder if she will ever resume her studies or her career. Determined to put Nodame back on track, Chiaki asks her to play with him-- the same piece they played together when they first met. This episode also tells us what has happened to some of the characters they met in Paris. Piece Featured: Sonata for Two Pianos in D major by Mozart.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/xKQ7cQUm4KzCIfyj0UgD1Rgu4iy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nodame Cantabile",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 45,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "のだめカンタービレ",
+    "overview": "Shinichi Chiaki is a first class musician whose dream is to play among the elites in Europe. Coming from a distinguished family, he is an infamous perfectionist; not only is he highly critical of himself, but of others as well. The only thing stopping Chiaki from leaving for Europe is his fear of flying. As a result, he's grounded in Japan.\n\nDuring his 4th year at Japan's top music university, Chiaki happens to meet Noda Megumi—or as she refers to herself, Nodame. On the surface, she seems to be an unkempt girl with no direction in life. However, when Chiaki hears Nodame play the piano for the first time, he is in awe at the kind of music she plays. To Chiaki's dismay, Nodame moves into the apartment next to his and finds out that she is head-over-heels in love with him.",
+    "popularity": 33.433,
+    "poster_path": "/cMhcTPgU2493A3akpBXbzDO0dxl.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-06-08",
+            "episode_count": 5,
+            "id": 54148,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-01-11",
+            "episode_count": 23,
+            "id": 54150,
+            "name": "Nodame Cantabile",
+            "overview": "",
+            "poster_path": "/tVAhwTl0PZXe08YTlDEJPd2XzzD.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-10-10",
+            "episode_count": 11,
+            "id": 54149,
+            "name": "Nodame Cantabile: Paris",
+            "overview": "",
+            "poster_path": "/vClpUTBnNHcaIIdTMVbCFZyXbQa.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2010-01-15",
+            "episode_count": 11,
+            "id": 54151,
+            "name": "Nodame Cantabile: Finale",
+            "overview": "",
+            "poster_path": "/gTLfV5cuxaIIOVmkFd6hGKSWT0Y.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 16
+}

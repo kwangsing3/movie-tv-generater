@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/nTVlXbjbSsnazWB0mClz2Np14jg.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2017-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://nyanko-days.com/",
+    "id": 69297,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-26",
+    "last_episode_to_air": {
+        "air_date": "2017-03-26",
+        "episode_number": 12,
+        "id": 1296231,
+        "name": "With My Cats",
+        "overview": "At the festival, Yuuko and Azumi walk along a street lined with food stalls, accompanied by Shii and Rou. They're looking for Maa and Elsa, who have strayed from the group, when Ran shows up...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3StIHk9MvuvdbAzdnJCMZsv96Sg.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nyanko Days",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "にゃんこデイズ",
+    "overview": "Tomoko Konagai is a first-year in high school and a shy girl. Tomoko owns three cats. The cheerful and live Munchkin Maa, the smart and responsible Russian Blue Rou, and the gentle crybaby Singapura Shii. Tomoko, whose only friends were her cats, one day becomes friends with Azumi Shiratori, who also loves cats.",
+    "popularity": 12.433,
+    "poster_path": "/rSW9hSkVvhUSxe8okCO7Vm2wD0p.jpg",
+    "production_companies": [
+        {
+            "id": 72366,
+            "logo_path": null,
+            "name": "EMT²",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-01-08",
+            "episode_count": 12,
+            "id": 83203,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/u1ip0kJVVpH6mkft3WBcggJOFou.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 7
+}

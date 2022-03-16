@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/aCkiZprGykxenOqXVceUUUOgMfP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 67253,
+    "imdb_id": "tt0093420",
+    "original_language": "ja",
+    "original_title": "LILY-C.A.T.",
+    "overview": "A captain and his crew travel across the universe in a ship that can travel for 20 years while the crew will age only 1 year. Soon the crew realizes that a criminal is onboard who is hoping to escape civilization. The crew must find who the criminal is, and find the source of a deadly virus that is destroying them one by one",
+    "popularity": 4.326,
+    "poster_path": "/rYMLtyVyPnLm1u6zHEMbq9piLjK.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1987-09-01",
+    "revenue": 0,
+    "runtime": 67,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lily C.A.T.",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 18
+}

@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/grQ1rFm6QWYClrJxNxk3fJlpUWr.jpg",
+    "created_by": [
+        {
+            "id": 237074,
+            "credit_id": "5e88932724f2ce001166fa34",
+            "name": "Tetsuo Hara",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 571269,
+            "credit_id": "5e889340b84f940014ca07aa",
+            "name": "Buronson",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1955475,
+            "credit_id": "5e88933524f2ce001666d8d2",
+            "name": "Yūkō Osada",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 23436,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-12-25",
+    "last_episode_to_air": {
+        "air_date": "2008-12-25",
+        "episode_number": 13,
+        "id": 624688,
+        "name": "I Walk the Path of the Heavens!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6p8GaEn8eXs5O0wUWZPImkO9ftg.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Legends of the Dark King: A Fist of the North Star Story",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "北斗の拳 ラオウ外伝 天の覇王",
+    "overview": "The world has been reduced to a wasteland, populated by desperate villagers, marauding bandits, and ruthless warriors. One such warrior, Raoh, dares to challenge the Demon King.",
+    "popularity": 11.253,
+    "poster_path": "/qdMuK4tcJ3iKbYS3THyqtFh0fxC.jpg",
+    "production_companies": [
+        {
+            "id": 30293,
+            "logo_path": null,
+            "name": "SATELIGHT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-10-02",
+            "episode_count": 13,
+            "id": 33434,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/orShBwBCjQPhj7lOq93cUr87xRn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 4
+}

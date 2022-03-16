@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/sUrr1YravLW6ALqPGR7ASK5Q2aL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://10th.cf-vanguard.com/anime/",
+    "id": 106301,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-28",
+    "last_episode_to_air": {
+        "air_date": "2021-12-28",
+        "episode_number": 25,
+        "id": 3443774,
+        "name": "overDress \\ Showdown",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6bTpreJt7c76VTZqbHmfy4x1btD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "CARDFIGHT!! VANGUARD overDress",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カードファイト!! ヴァンガード overDress",
+    "overview": "Third-year middle school student Yu-yu Kondo lives in Kanazawa city of the country of Kaga. Being unable to reject requests, Yu-yu often gets caught up in his sister's hobbies. When Yu-yu could no longer bear it and ran away from home, he was saved by Megumi Okura. Megumi invites Yu-yu to the Night Amusement Park \"Wonder Hill\" where her friends gather. The amusement park is where many youths of the Vanguard-centric group \"Team Blackout\" gather. And this is how Yu-yu encounters Vanguard and was drawn in by the appeal of Vanguard and the world and friends he had never seen before.",
+    "popularity": 13.764,
+    "poster_path": "/yOIWtLLMSFZkKizXXweTxEEQj6i.jpg",
+    "production_companies": [
+        {
+            "id": 16738,
+            "logo_path": "/Lf0udeB7OwHoFJ0XIxVwfyGOqE.png",
+            "name": "Kinema Citrus",
+            "origin_country": "JP"
+        },
+        {
+            "id": 161603,
+            "logo_path": null,
+            "name": "GIFTanimation",
+            "origin_country": ""
+        },
+        {
+            "id": 161604,
+            "logo_path": null,
+            "name": "Studio Jemi",
+            "origin_country": ""
+        },
+        {
+            "id": 161605,
+            "logo_path": null,
+            "name": "Gift-o`-Animation",
+            "origin_country": ""
+        },
+        {
+            "id": 33751,
+            "logo_path": "/2caA5Y2tdgi69L61uQnrpCIjwde.png",
+            "name": "Sentai Filmworks",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-03",
+            "episode_count": 25,
+            "id": 156980,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yOIWtLLMSFZkKizXXweTxEEQj6i.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/oxMLKe2mlxCcKBgZPaLEXWI9Ha7.jpg",
+    "created_by": [
+        {
+            "id": 1412098,
+            "credit_id": "6096a4019bcd0f003b75f21c",
+            "name": "Shin Itagaki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://copcraft.tv/",
+    "id": 88050,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-10-01",
+    "last_episode_to_air": {
+        "air_date": "2019-10-01",
+        "episode_number": 12,
+        "id": 1814502,
+        "name": "TWO WORLDS, TWO JUSTICES",
+        "overview": "Zelada is revealed to be alive, and the person behind the murders. Tilarna and Kei face him in a final showdown.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/loS5u4SlrgZLRhtm8clHVlirY70.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cop Craft",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "コップクラフト",
+    "overview": "15 years ago, an unknown hyperspace gate opened over the Pacific. Beyond this gate lies Reto Semaani, a strange alternate world where fairies and monsters live.\n\nSan Teresa City—a city where over two million immigrants live from both worlds. As a result, there are the haves and the have-nots. Here is the world's newest \"city of dreams.\" But in the shadow of the chaos, crime is rampant: drugs, prostitution, and weapon trafficking. The detectives who stand up to these heinous crimes are in the San Teresa City Police. When the detective Kei Matoba and the alternate-world knight Tirana—two individuals who differ in gender, personality, and even world of origin—meet, an incident erupts. Two worlds. Two justices. From this, the curtain rises on a buddy police action story!",
+    "popularity": 21.139,
+    "poster_path": "/7oWFujqWhPOGdUg4zseZfnAsNXv.jpg",
+    "production_companies": [
+        {
+            "id": 109567,
+            "logo_path": null,
+            "name": "millepensee",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-09-09",
+            "episode_count": 9,
+            "id": 132033,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/5VeOelYtDpXCtCY1HCIjaCBeQl0.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-07-09",
+            "episode_count": 12,
+            "id": 121373,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mUffhEQzUqZiVdYpzIdqvXoAjuq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 15
+}

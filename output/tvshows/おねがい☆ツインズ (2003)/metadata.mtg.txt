@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/k6XP3ITZ7TwoY2jcPflUTKiGFyw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-07-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 20177,
+    "in_production": false,
+    "languages": [
+        "ko",
+        "ja"
+    ],
+    "last_air_date": "2003-10-14",
+    "last_episode_to_air": {
+        "air_date": "2003-10-14",
+        "episode_number": 12,
+        "id": 581142,
+        "name": "Three People Twins",
+        "overview": "Miina runs away, but returns to the school without a word. After Karen talks to her, Miina goes to the train station. Maiku runs over there and they let their feelings out with a climactic kiss. In the end the episode shows that their relationship with each other remains the same.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Please Twins",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おねがい☆ツインズ",
+    "overview": "Maiku Kamishiro grew up in an orphanage with no history of his family or of his past. Left with only a childhood picture of himself and another person in front of a house, he believes that the other person in the picture is his long lost twin sister. Upon discovering his old home, two young girls show up on his doorstep one day both claiming to be his long lost sister.",
+    "popularity": 8.371,
+    "poster_path": "/ckOdowbVOcmP1TuGBWvBwmONfAD.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2004-04-26",
+            "episode_count": 1,
+            "id": 30299,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-07-15",
+            "episode_count": 13,
+            "id": 30298,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ofQY1V4hBHSt3ADNjIEhu9ppvsR.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 34
+}

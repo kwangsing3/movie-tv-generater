@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/8KRNqUMTEDXl2lpWBIwo9ni2rq7.jpg",
+    "created_by": [
+        {
+            "id": 1492495,
+            "credit_id": "61814139c7c22400939168b1",
+            "name": "Noriyasu Agematsu",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://techno-roid.com/",
+    "id": 137811,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Technoroid Overmind",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "テクノロイド オーバーマインド",
+    "overview": "",
+    "popularity": 1.4,
+    "poster_path": "/27w0Lgu8MAaaOIod1tE0HLKrEzn.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 218116,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6B7cZizQFMB3X2wubMy89bm2NiY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

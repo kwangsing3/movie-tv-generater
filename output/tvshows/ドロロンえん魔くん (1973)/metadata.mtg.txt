@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "595a9721c3a36828a104aebe",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1973-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/lineup/tv/emma/",
+    "id": 20502,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1974-03-28",
+    "last_episode_to_air": {
+        "air_date": "1974-03-28",
+        "episode_number": 25,
+        "id": 1333806,
+        "name": "Decisive Yokai Battle",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Little Judge from Hell",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドロロンえん魔くん",
+    "overview": "Dororon Enma-kun, also known as Satanikus!, is a Japanese horror-comedy anime and manga series created by Go Nagai. It's one of Nagai's most famous works in Japan, although not very well known in the rest of the world. In 2006, it would get a sequel/remake in Demon Prince Enma, which drops the comedy and becomes a full-fledged suspense-horror series. After the OVA was released, another manga version was released called Satanikus ENMA Kerberos by Eiji Toriyama. A remake entitled Dororon Enma-kun MeeraMera began airing in Japan in April 2011.",
+    "popularity": 5.956,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1973-10-04",
+            "episode_count": 25,
+            "id": 80967,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

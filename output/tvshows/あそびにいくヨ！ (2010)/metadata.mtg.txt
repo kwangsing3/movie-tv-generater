@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/mMB1vCASCuOek3F8jQDEPRU9mr1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2010-07-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 37806,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-09-25",
+    "last_episode_to_air": {
+        "air_date": "2010-09-25",
+        "episode_number": 12,
+        "id": 851628,
+        "name": "We've Come To Find",
+        "overview": "While struggling to save the Catian ship, Manami and Aoi finally manage to convey their feelings to Kio while Elis states that according to Catians' law, all three can be his lovers. After solving their situation in space, the Catians finally unveil their Christmas present to mankind; a fully functional space elevator.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rHebaBENiMyy80Yxcie9TMTu93L.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Cat Planet Cuties",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あそびにいくヨ！",
+    "overview": "Nice guy Kio’s normal life gets turned upside down when he meets a friendly, sexy cat-alien named Eris. She’s on a peaceful mission—and she’s ready to play. Things get even friskier when her fellow felines set up base in Kio’s house. It’s not all fun and games, though. Danger is afoot, thanks to several secret agencies and enemy dog-aliens on Eris’s tail.",
+    "popularity": 11.433,
+    "poster_path": "/jvZjKDbideM1HpAeF9THXthxT3A.jpg",
+    "production_companies": [
+        {
+            "id": 26262,
+            "logo_path": null,
+            "name": "AIC PLUS+",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-06-15",
+            "episode_count": 3,
+            "id": 49119,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/syfwq7Ee2YqqCdi7nmTKrtVjqoy.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-07-10",
+            "episode_count": 12,
+            "id": 49118,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nodQXXRGUsm7lXNpSp7VlKoKo6m.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 45
+}

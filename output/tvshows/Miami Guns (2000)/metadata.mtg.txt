@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/iFziXhHmrfrzDeh44pKB9GheBOe.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2000-02-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://mbs.jp/miami/",
+    "id": 11856,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-05-20",
+    "last_episode_to_air": {
+        "air_date": "2000-05-20",
+        "episode_number": 13,
+        "id": 466785,
+        "name": "Goodbye, Miami Guns?!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jglsYHZHAtaK3oNyGY08jPmAL3d.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Miami Guns",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Miami Guns",
+    "overview": "Miami Guns is a manga and anime series. The anime takes place in Miami City, which is similar to Miami, Florida, except for several locale changes. It's mainly about the life of two female Miami City police officers having to stop crimes before they get worse. The setting thus has some similarities to that of the popular TV show Miami Vice.",
+    "popularity": 3.818,
+    "poster_path": "/rlD9RCK5wh9sxaqPRmOynAYSE1X.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2000-02-05",
+            "episode_count": 13,
+            "id": 22479,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 3
+}

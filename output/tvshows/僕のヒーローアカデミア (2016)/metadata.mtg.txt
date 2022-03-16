@@ -1,0 +1,199 @@
+{
+    "adult": false,
+    "backdrop_path": "/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+    "created_by": [
+        {
+            "id": 1307036,
+            "credit_id": "6230b64f63aad200731f7b88",
+            "name": "Kenji Nagasaki",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-04-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.heroaca.com/",
+    "id": 65930,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-25",
+    "last_episode_to_air": {
+        "air_date": "2021-09-25",
+        "episode_number": 25,
+        "id": 2846968,
+        "name": "The High, Deep Blue Sky",
+        "overview": "Both sides prepare for the confrontation between the heroes and the Paranormal Liberation Front as Class 1-A finishes their first year of high school.",
+        "production_code": "",
+        "season_number": 5,
+        "still_path": "/iioHq03hpqtrqdwO9HEKDxEHtXF.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "My Hero Academia",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 113,
+    "number_of_seasons": 6,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "僕のヒーローアカデミア",
+    "overview": "In a world where eighty percent of the population has some kind of super-powered Quirk, Izuku was unlucky enough to be born completely normal. But that won't stop him from enrolling in a prestigious hero academy. Now, he'll get his first taste of brutal rivalry from other schools as he braves the cutthroat, no-holds-barred provisional license exam.",
+    "popularity": 87.742,
+    "poster_path": "/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11727,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "name": "Yomiuri Telecasting Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 648,
+            "logo_path": "/nCIeUG7ntLvo8aMXIkldyCy8g5G.png",
+            "name": "Sony Music Entertainment (Japan)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-11-27",
+            "episode_count": 8,
+            "id": 88919,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/jEoUOaOzdf00lsTV7EW2ARcB9Pb.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-03",
+            "episode_count": 13,
+            "id": 75441,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6TKenGHaTGMvlMMKfMBoFHU2mVj.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-04-01",
+            "episode_count": 25,
+            "id": 86525,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/bLggKZhdEHhvax9jeT95MDxM6CA.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2018-04-07",
+            "episode_count": 25,
+            "id": 100397,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/1VVJgXpSDI2uMHnlzI9Eg0zF7pw.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2019-10-12",
+            "episode_count": 25,
+            "id": 125861,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/YCI5ADVr0JBboX0V3C3apAOtNH.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2021-03-27",
+            "episode_count": 25,
+            "id": 149686,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/gUXTRYHVOYSLXqz20kyV7OXoH7F.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 236472,
+            "name": "Season 6",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 6
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 3605
+}

@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/d6gnJNnev8Wop9388tD2vvylFLT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-07-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://dctm-pj.com/",
+    "id": 120968,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-10-02",
+    "last_episode_to_air": {
+        "air_date": "2021-10-02",
+        "episode_number": 13,
+        "id": 3240684,
+        "name": "The Light of Dawn",
+        "overview": "Weirded Reina makes a wish, and Desaria appears in the city of Shibuya. The time of the Star Dragon has come, and the evil god Kutrowag has returned. Rando and Eru rush to the scene of the greatest crisis, but their feelings about what to protect intersect, and Ryuhei, who wants to protect Reina, is unexpectedly seriously injured.\n\nWill Ryuhei, Reina, Airi, Jessica, and Nukuto wake up from this nightmare, as they awaken as Knocker Up and continue to fight Weird in secret?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/y9U9Se0eQMtz2XtcTYDfTAyWJT0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "D_Cide Traumerei the Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ディーサイドトロイメライ",
+    "overview": "The story takes place in Shibuya. Ryuhei had always looked up to his older brother as a child. Even after witnessing his mysterious death, Ryuhei grows up to be a cheerful high school student. One day after his daily kickboxing practice, he is bitten by a strange creature calling itself Tris. That night, an unusual dream bothers his sleep. As the rumored \"Drops\" circulate around the city, Ryuhei is confronted with a force of twisted desire. What is it that awaits him beyond that?",
+    "popularity": 26.711,
+    "poster_path": "/qLRVeEZrjd966Vxh7W7mXwgXp5u.jpg",
+    "production_companies": [
+        {
+            "id": 43363,
+            "logo_path": null,
+            "name": "Sanzigen",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156047,
+            "logo_path": "/bR1IGv2EUNaLGPIA3jRgbATUaX8.png",
+            "name": "Bit grooove promotion",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-10",
+            "episode_count": 13,
+            "id": 186349,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qLRVeEZrjd966Vxh7W7mXwgXp5u.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 31
+}

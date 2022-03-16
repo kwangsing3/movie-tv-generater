@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        29
+    ],
+    "first_air_date": "1990-02-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 44230,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1990-04-27",
+    "last_episode_to_air": {
+        "air_date": "1990-04-27",
+        "episode_number": 2,
+        "id": 1205941,
+        "name": "Showdown! Pink Sisters vs. Lusty Queenbee",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "1+2=Paradise",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "１＋２＝パラダイス",
+    "overview": "A strange relationship develops between college-boy Yūsuke and the  beautiful twins, Yuka and Rika, he saves from a wild dog. The girls  falls for their dauntless hero, but Yūsuke is pathologically scared of  women",
+    "popularity": 3.186,
+    "poster_path": "/5ahACPqIqgvewilLAMhStltRfaR.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1990-02-23",
+            "episode_count": 2,
+            "id": 78491,
+            "name": "1+2=Paradise",
+            "overview": "",
+            "poster_path": "/5ahACPqIqgvewilLAMhStltRfaR.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 4.8,
+    "vote_count": 6
+}

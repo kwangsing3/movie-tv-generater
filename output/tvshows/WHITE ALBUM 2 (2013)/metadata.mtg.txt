@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/8zpgSUqiYbMP3UPMKBnNbiB32c5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2013-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://whitealbum2.jp/",
+    "id": 70072,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-12-29",
+    "last_episode_to_air": {
+        "air_date": "2013-12-29",
+        "episode_number": 13,
+        "id": 1264801,
+        "name": "A Love That Cannot Be",
+        "overview": "At last, Haruki sleeps with Kazusa. Her wish finally comes true, and she prepares to leave for Europe. Haruki takes Setsuna to the airport, hoping that they can all be together once again. When the three are reunited, everyone remembers the best moment of their lives: the last song they sang at the school concert. The title of the song was...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8gJQRSm0Aaj7ihUnAgX7XnsLqHJ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "White Album 2",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "WHITE ALBUM 2",
+    "overview": "One evening in fall, with one month left before the school festival, the last member of the ruined light music club, Haruki Kitahara, looks out the window and plays his guitar in the direction of the festival stage set up outside. This was the simple little adventure that the conscientious honor student had hoped for two and a half years to achieve before his graduation in half a year. But then, when a flowing piano melody and a bell-like singing voice joined the clumsy sound of his guitar...",
+    "popularity": 11.939,
+    "poster_path": "/lwRNHfZyPWOI2oFNfIoaXsiwGJB.jpg",
+    "production_companies": [
+        {
+            "id": 30293,
+            "logo_path": null,
+            "name": "SATELIGHT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2014-05-28",
+            "episode_count": 2,
+            "id": 151373,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/2MvLsrl7bmQqwHxQy8wLSi2YApt.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-10-06",
+            "episode_count": 13,
+            "id": 84675,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/y7nbZzyWOb695D45i5M287mWsSs.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 12
+}

@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/k1XzsP9SaLTLW7aTfIfup2Ffeug.jpg",
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "5faaed051c0435003e385e69",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        }
+    ],
+    "episode_run_time": [
+        41
+    ],
+    "first_air_date": "2006-08-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.k-enma.com/",
+    "id": 67580,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-03-23",
+    "last_episode_to_air": {
+        "air_date": "2007-03-23",
+        "episode_number": 4,
+        "id": 1217516,
+        "name": "Enma",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Demon Prince Enma",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "鬼公子炎魔",
+    "overview": "A remake of Go Nagai’s 1973 lighthearted horror anime TV series Dororon Enma-kun. Enma, Yuki-hime and Kapaeru are demon hunters from another plane who have come to present day Japan to exterminate demons who possess humans and cause them to commit murder.",
+    "popularity": 6.639,
+    "poster_path": "/2yPItZXRAqvGUIlKtVdUgvtX7d.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-08-25",
+            "episode_count": 4,
+            "id": 79572,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jN6NybH1viWBB8uLgP8oQmcBIkE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8.3,
+    "vote_count": 8
+}

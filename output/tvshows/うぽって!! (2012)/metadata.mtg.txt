@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/rEVIaM7FzHSIMJdUDIYisfJ7Wrp.jpg",
+    "created_by": [
+        {
+            "id": 2874230,
+            "credit_id": "5fc3411ba88587003f0760ce",
+            "name": "Kitsune Tennouji",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://ch.nicovideo.jp/upotte",
+    "id": 45190,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-06-09",
+    "last_episode_to_air": {
+        "air_date": "2012-06-09",
+        "episode_number": 10,
+        "id": 897297,
+        "name": "And Then! Upotte!",
+        "overview": "The girls have split up into two teams, Ichiroku/Shigu and Funco/Eru. The goal is to flank the attackers in the train station. Ichiroku gets hit by a shotgun blast and Eru’s magazine catch is damaged. What is the attacker’s endgame?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Upotte!!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "うぽって!!",
+    "overview": "At Seishou Academy, girls don’t just wield guns— they ARE guns! In a school where every girl is a lethal weapon gunning for the chance to get their own personal serviceman, more than a few shots are about to be fired between Funko and her classmates. And when their newly recruited human instructor, Genkoku, arrives, he’ll have to learn how to deal with this living arsenal of high caliber cuties if he doesn’t want to get caught in the crossfire of their hair trigger tempers!",
+    "popularity": 4.528,
+    "poster_path": "/lSRFvh4bMg4B9X2GaPPJIumBJsF.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-10-13",
+            "episode_count": 1,
+            "id": 53780,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/zD0VsirfGKxdcxuk2te8pJsemIA.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-04-07",
+            "episode_count": 10,
+            "id": 53781,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zbViFjgkxYDohHdW8ysmNJajW0v.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Forget about girls with guns. These girls ARE guns!",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

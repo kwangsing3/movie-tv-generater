@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/8CIEPTNY3YtwbN2WlNLEPqkHCEQ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2015-10-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 64078,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-12-17",
+    "last_episode_to_air": {
+        "air_date": "2015-12-17",
+        "episode_number": 12,
+        "id": 1147769,
+        "name": "That's Why I am a Knight",
+        "overview": "Yotaro's duels his father, Shin.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3MshNKAXK4Xl7rEys6kFkRYs21f.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Lance N' Masques",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ランス・アンド・マスクス",
+    "overview": "Yotaro Hanafusa is a descendent of the “Knights of the World.” With the Knight’s Code of Chivalry hammered into him since childhood, Yotaro cannot stop himself from saving damsels in distress. He wears a mask, and is known on the street as “Knight Lancer” but he has always kept his identity a secret. While on an outing, Yotaro saves a 6-year-old girl, Makio Kidoin, the only child of a powerful business tycoon. When Yotaro discovers that Makio leads a lonely life in a huge estate, he resolves to protect her. He and his friends disguise themselves as lodgers and move into her mansion.",
+    "popularity": 2.421,
+    "poster_path": "/gJFb6xycMqqNkCThIT52fTA0db2.jpg",
+    "production_companies": [
+        {
+            "id": 25504,
+            "logo_path": null,
+            "name": "Studio Gokumi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-10-01",
+            "episode_count": 12,
+            "id": 71131,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wGzGu2aLu0iMHJZnrca2vLb4CJf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 2
+}

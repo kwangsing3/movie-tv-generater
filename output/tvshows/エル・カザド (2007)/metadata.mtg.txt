@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/3vP7KmYQNMwcFWWdYLFf6Q47dtO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2007-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 37,
+            "name": "Western"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.elcazador.tv/",
+    "id": 31682,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-09-24",
+    "last_episode_to_air": {
+        "air_date": "2007-09-24",
+        "episode_number": 26,
+        "id": 758379,
+        "name": "Shining Woman",
+        "overview": "Some time after Rosenberg's death, Ellis and Nadie find themselves living with and working for a middle-aged husband and wife who run a small café, not knowing of the two girls' previous adventures. Having become accustomed to the lifestyle, Nadie finds herself as happy as ever, though Ellis senses that she misses life on the road. After an unexpected visit from Blue Eyes, the two girls find themselves along with Blue Eyes and the middle-aged couple being held up by the two transvestites (now quite obese) from earlier episodes seeking revenge. After dispatching the thugs, despite an offer to stay where they are, Ellis and Nadie decide that their place is on the road and the two drive off seeking their next adventure.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "El Cazador de la Bruja",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エル・カザド",
+    "overview": "Nadie is a bounty hunter targeting Ellis, a young amnesiac girl who is a suspect in the murder of a famous scientist. Nadie manages to apprehend Ellis, but on a whim, decides to help unlock Ellis's memories.",
+    "popularity": 13.153,
+    "poster_path": "/oSXss9t1LucDtcnctL24xULJ5n3.jpg",
+    "production_companies": [
+        {
+            "id": 4289,
+            "logo_path": null,
+            "name": "BeeTrain",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-04-02",
+            "episode_count": 26,
+            "id": 43183,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8ZOrFYPtk5ibxOPnlRFBb3SGrNa.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 8
+}

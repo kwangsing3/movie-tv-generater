@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/2xoU87ChStyNSMizbMW9ePcRXOe.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5,
+        4,
+        6
+    ],
+    "first_air_date": "2016-09-16",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.pokemon.com/us/",
+    "id": 67882,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-23",
+    "last_episode_to_air": {
+        "air_date": "2016-12-23",
+        "episode_number": 18,
+        "id": 1266944,
+        "name": "The Redemption",
+        "overview": "A new champion rises. An ancient king returns. A sorrow that has lasted 3,000 years is brought to an end.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3Ufbtm8kB4ZcyKMJ10vmqDkkZx3.jpg",
+        "vote_average": 8.5,
+        "vote_count": 4
+    },
+    "name": "Pokémon Generations",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 18,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "ja",
+    "original_name": "ポケモンジェネレーションズ",
+    "overview": "The miniseries revisits each generation of the Pokémon video game series to shed new light on some timeless moments. From the earliest days in the Kanto region to the splendor of the Kalos region, go behind the scenes and witness Pokémon history with new eyes!",
+    "popularity": 33.295,
+    "poster_path": "/4aRQRC16sFFOzoPWQju0OKHJrd5.jpg",
+    "production_companies": [
+        {
+            "id": 12654,
+            "logo_path": "/sFftxQv68oHFEX1GUsnsgsP8IQf.png",
+            "name": "The Pokémon Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-09-16",
+            "episode_count": 18,
+            "id": 80250,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kPcXr6U0Em7Kl9JUKQ01fcG64o2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 24
+}

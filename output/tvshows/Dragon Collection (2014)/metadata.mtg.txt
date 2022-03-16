@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/cCk7YPiVRzJ6mw180xnZWf4xk96.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "2014-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/oreca_dracolle/dracolle/",
+    "id": 156331,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-23",
+    "last_episode_to_air": {
+        "air_date": "2015-03-23",
+        "episode_number": 51,
+        "id": 3469370,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dragon Collection",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Dragon Collection",
+    "overview": "Through an unexpected turn of events, an ordinary elementary school student, Hiro Enryu, finds himself in the world of the \"Dragon Collection\" game. This is a world called Dragon Earth, where gods, humans, and monsters exist side by side. Those who roam this world using a magic book, called a Grimoire, and cards to summon monsters and search for treasures that bear the powers of dragons are called Dracolle Battlers. Despite his bewilderment, Hiro becomes a Dracolle Battler and, together with the friends he meets there, begins his adventure to become a legendary Dragon Master!",
+    "popularity": 5.253,
+    "poster_path": "/sYdZfzTn0iG3XHIJpI8t7gD0ytK.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 55914,
+            "logo_path": "/fLZm5yRhOmaYb82wvCMOPiClMMB.png",
+            "name": "Konami",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-07",
+            "episode_count": 51,
+            "id": 241458,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/48Em5nxKs0JpSpkJsZMIzks5Il5.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

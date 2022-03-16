@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/ddQvVy7ctSHx7cbtXDvFg0NgiAT.jpg",
+    "created_by": [
+        {
+            "id": 1503517,
+            "credit_id": "57d25034c3a3685d490007a2",
+            "name": "Touko Machida",
+            "gender": 1,
+            "profile_path": "/pJxbw4BzmGRdiFKRJTTQaONtCvn.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 46342,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-03-25",
+    "last_episode_to_air": {
+        "air_date": "2010-03-25",
+        "episode_number": 12,
+        "id": 908997,
+        "name": "The Mysterious Tale of Joga Town",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/wPJMhy3FHrXv4524KsldllaX5hj.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Okamikakushi: Masque of the Wolf",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おおかみかくし",
+    "overview": "Kuzumi Hiroshi moves with his crippled sister and his father to  the remote city of Jouga, which is famous for its hassaku citrus and the  rumors that a species of enormous wolves once lived in the area. While  some of the residents are more than friendly, when people begin to  vanish suddenly, it becomes apparent that something sinister is afoot...",
+    "popularity": 8.085,
+    "poster_path": "/9yKUtFvletRqoGqKfplaryU4ipx.jpg",
+    "production_companies": [
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-01-07",
+            "episode_count": 12,
+            "id": 54628,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/s0ZnZ5UuFiI2FcMeRCke0gYx2Zm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

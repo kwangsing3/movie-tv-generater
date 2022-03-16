@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/fNOXo7aYTXkFp2erAo9XgBgORux.jpg",
+    "created_by": [
+        {
+            "id": 1772785,
+            "credit_id": "58c12058c3a368263d0064ba",
+            "name": "Ayano Yamane",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        28
+    ],
+    "first_air_date": "2007-12-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 70643,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-10-24",
+    "last_episode_to_air": {
+        "air_date": "2008-10-24",
+        "episode_number": 2,
+        "id": 1284735,
+        "name": "Roman Holiday",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "A Foreign Love Affair",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "異国色恋浪漫譚",
+    "overview": "The young leader of the Oomi group, Ranmaru, was forced to marry Kaoru, the daughter from another group. The couple went to Italy, and had their wedding on a ship. However, neither of them actually liked the marriage, and Ranmaru was kicked out by his newlywed wife Kaoru on their first night. Al (Alberto), an Italian man on the ship, took an interest in Ranmaru, and the story revolves around the romance between the two men, Ranmaru and Al.",
+    "popularity": 6.168,
+    "poster_path": "/tM0Pb9Xb7Sqa7IgyXvJBJaqgqVd.jpg",
+    "production_companies": [
+        {
+            "id": 92065,
+            "logo_path": null,
+            "name": "PrimeTime",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-12-21",
+            "episode_count": 2,
+            "id": 86025,
+            "name": "Season 1",
+            "overview": "A Foreign Love Affair is about Ranmaru, the son of a yakuza mob. He marries yakuza daughter Kaoru on an Italian cruise ship. Because they are Japanese, they are the center of attention on the boat. On their wedding night, the couple fight, and Kaoru kicks him out of their room. Ranmaru goes to the boat's bar and fights with some yakuza. He is assisted by Alberto, an Italian man who happens to be fluent in Japanese. To show his gratitude, Ranmaru invites Alberto to have a drink with him, which leads to the two of them having sex. The next morning, Ranmaru finds out that Alberto is the ship's captain.",
+            "poster_path": "/l0wHzrjpW09Dj0Po6uDXDlpohSm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.2,
+    "vote_count": 5
+}

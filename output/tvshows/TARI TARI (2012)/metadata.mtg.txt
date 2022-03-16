@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/nEOitxxWkx27tZRejfF76ariypu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2012-07-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.taritari.jp/",
+    "id": 45211,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-23",
+    "last_episode_to_air": {
+        "air_date": "2012-09-23",
+        "episode_number": 13,
+        "id": 897877,
+        "name": "Sunny Days and Crying and Sometimes Singing",
+        "overview": "As the gang and their families prepare for the festival, they discover the school gates are closed and the gym has been locked up. As the chairman confronts them, Tayoru decides to stand up to him and allow the festival to be held, with Naoko also offering her support by enlisting the help of the vocal group and wind instrument club to help perform Wakana's song. The festival soon gets on the way and the gang perform their musical in front of many guests. After the festival, Wien finally receives a postcard from Jan, whilst Sawa goes abroad to attend an equestrian school, much to the dismay of Taichi who had developed feelings for her. Later, Wakana and Naoko get together to reminisce about Mahiru, with Wakana asking Naoko to teach her more about music. Soon after, everyone graduates and start moving towards their futures.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/63dN5IijN178x1uc48pFle5bh20.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tari Tari",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "TARI TARI",
+    "overview": "At Shirahamazaka High School, a special recital is held every year in which music students are able to showcase their talents in front of professionals and prestigious guests. A student, Konatsu Miyamoto desperately wants to sing in her last year of high school.",
+    "popularity": 10.26,
+    "poster_path": "/aUSLnRqn4cMS5QWguG7sJv37Csp.jpg",
+    "production_companies": [
+        {
+            "id": 20867,
+            "logo_path": "/op3ROO9jB4KwLUZ16VAvuGasRRv.png",
+            "name": "P.A.Works",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-12-17",
+            "episode_count": 1,
+            "id": 156592,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/roIAgAeUNjUWrLapnnnnGD2w9c3.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-07-01",
+            "episode_count": 13,
+            "id": 53820,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3r7sv9NB0Lvg19DY9qxUkO0OtGR.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 6
+}

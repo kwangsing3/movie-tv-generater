@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/hF0PGI1ugVbkybTxAR7WWQzB5tZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2000-07-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 37181,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-08-29",
+    "last_episode_to_air": {
+        "air_date": "2000-08-29",
+        "episode_number": 6,
+        "id": 842111,
+        "name": "The Last Mile",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "éX-Driver",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エクスドライバー",
+    "overview": "éX-Driver is a manga series by Kōsuke Fujishima, which was adapted into an anime series, produced by Bandai Visual and Actas. The anime series spanned 6 episodes, as well as a feature movie, entitled éX-Driver: The Movie. The complete anime series, including the movie, were broadcast by the anime television network, Animax, across its respective networks around the world, including East Asia, Southeast Asia, South Asia and other regions.",
+    "popularity": 2.03,
+    "poster_path": "/k9qEVKbErYztICUYPdZo7TJ1ZPm.jpg",
+    "production_companies": [
+        {
+            "id": 30125,
+            "logo_path": "/idI9yjIWXWgLLdWqUbBpWzmTW9t.png",
+            "name": "Actas",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-07-25",
+            "episode_count": 6,
+            "id": 48393,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/v0FxjuBiuiQwb5eaBsU5QAGdtR6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

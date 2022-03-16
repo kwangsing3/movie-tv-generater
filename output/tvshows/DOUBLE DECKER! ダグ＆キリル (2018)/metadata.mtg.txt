@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/sqibls26idKSMvMscEBYfDSbIno.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-09-30",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://dabudeka.com/",
+    "id": 82046,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-23",
+    "last_episode_to_air": {
+        "air_date": "2018-12-23",
+        "episode_number": 13,
+        "id": 1604946,
+        "name": "And Then There Weren't None!",
+        "overview": "Sometimes a detective must take great risks to fight a great evil, for the sake of their friends and the things they believe in. This is the story of those detectives who put their lives on the line for their job!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gApnAH27B4kITXLahW9gjgd6DI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Double Decker! Doug & Kirill",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "DOUBLE DECKER! ダグ＆キリル",
+    "overview": "The city state of Lisvalletta. Two suns rise above this city, and the people here live peaceful lives, but in the shadows, crime and illegal drugs run rampant. Among them is the dangerous, highly lethal drug \"Anthem\" which casts a dark shadow over the city. The SEVEN-O Special Crime Investigation Unit specializes in cracking down on Anthem. This unit operates in two-man \"buddy\" teams in what's called the \"Double Decker System\" to tackle the problem. Doug Billingham is a seasoned investigator, and joining him is Kirill Vrubel, whose abilities are mysterious and unknown.",
+    "popularity": 3.071,
+    "poster_path": "/xmxJB180s5BZms2oCrx9C6iHYlW.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 3,
+            "id": 144580,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-09-30",
+            "episode_count": 13,
+            "id": 108727,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6kklcYkMBHt0tlyMpXCZoWmCbYJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 4
+}

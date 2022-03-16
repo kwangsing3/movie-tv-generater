@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/udCwCPDlWTfKDxXIqMNqxXcibfu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-04-12",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.yamajo-anime.com",
+    "id": 62568,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-28",
+    "last_episode_to_air": {
+        "air_date": "2015-06-28",
+        "episode_number": 12,
+        "id": 1057813,
+        "name": "I Love You, Shiraishi",
+        "overview": "Yamada must get all the witches together to conduct the seven witches' ceremony, and the last three needed are Urara, Mikoto, and Rika. Hoping to at least save Urara, Yamada heads for Mikoto's house along with the student council president Miyamura, but they're stopped by Miyamura's sister Leona.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/k1N6gp0carCSMWpVdAky8KLDTSm.jpg",
+        "vote_average": 9,
+        "vote_count": 2
+    },
+    "name": "Yamada-kun and the Seven Witches",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "山田くんと7人の魔女",
+    "overview": "One day, high-school boy Yamada bumps into the beautiful girl Shiraishi on the stairs (literally), and their lips touch as they fall. When they regain their wits, they realize that they have swapped bodies. As time progresses, the two realize that this is not the only mysterious happening in the school.",
+    "popularity": 33.094,
+    "poster_path": "/duNjXCTArkT7dbHDNR5dD8ElLHI.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2014-12-17",
+            "episode_count": 4,
+            "id": 97161,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/xwOkhOBTTY5iooGGdw18ur1j7cj.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-04-12",
+            "episode_count": 12,
+            "id": 66358,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eYMCvZyWdwjX4PHoIh5YhxPQ0qC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 168
+}

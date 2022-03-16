@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/f7gbmB2akgl5hywUTsWDRW5PfRj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2008-07-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.starchild.co.jp/special/yakushijiryouko/",
+    "id": 26233,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-09-28",
+    "last_episode_to_air": {
+        "air_date": "2008-09-28",
+        "episode_number": 13,
+        "id": 667227,
+        "name": "Tokyo Dead or Love (Last Part)",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ryoko's Case File",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "薬師寺涼子の怪奇事件簿",
+    "overview": "Based on a series of light novels written by Tanaka Yoshiki. The story revolves around Ryōko Yakushiji, a brilliant 27-year-old elite investigator with the Tokyo Metropolitan Police. Together with her subordinate Junichirō Izumida, the two often investigate bizzare and supernatural cases. In addition with the paranormal, Ryōko also has a longstanding rivalry with Yukiko Muromachi, another talented police investigator.",
+    "popularity": 5.675,
+    "poster_path": "/5GMNryDTNvhR1h8Rr5ofhOhgflf.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2008-07-06",
+            "episode_count": 13,
+            "id": 36693,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5GMNryDTNvhR1h8Rr5ofhOhgflf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

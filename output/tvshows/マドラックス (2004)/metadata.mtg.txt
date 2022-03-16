@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/6TKSH3AdqdbEQCx640pJO61FurE.jpg",
+    "created_by": [
+        {
+            "id": 123193,
+            "credit_id": "60a55ae02476f200794cb5c2",
+            "name": "Kouichi Mashimo",
+            "gender": 2,
+            "profile_path": "/rOuhlDgTCBhLoe9OXbVKh9MAjBE.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/madlax/",
+    "id": 11284,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2004-09-27",
+    "last_episode_to_air": {
+        "air_date": "2004-09-27",
+        "episode_number": 26,
+        "id": 448510,
+        "name": "Broken Pieces -pupil-",
+        "overview": "The Absolute Truth lies before Margaret, the full knowledge of her past, her sins, and the lives of Madlax, Friday Monday, Carrossea Doon... the truth about the world, the humanity, and herself. And it is she, the girl who has the Gift, who must make a decision on how to deal with all of it.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/g4nK7eYHef9vs2w6Xfsu5xevQEl.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Madlax",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マドラックス",
+    "overview": "In the country of Gazth-Sonika, civil war rages. There, a mercenary called Madlax plies her trade, with almost supernatural skill. In the seemingly peaceful country of Nafrece, Margaret Burton lives a tranquil life. As separate as their lives may seem, the two are connected by ties of mystery, and by a holy book that is also sought by the shadowy organisation, Enfant. As Margaret and Madlax follow the path of their destiny, they come ever closer to uncovering the truth - with no guarantee that it is a truth they can bear to learn.",
+    "popularity": 11.601,
+    "poster_path": "/5ldVRnsD5coV2x2l5ycpZ8IeFoZ.jpg",
+    "production_companies": [
+        {
+            "id": 4289,
+            "logo_path": null,
+            "name": "BeeTrain",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 11,
+            "id": 21778,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-04-05",
+            "episode_count": 26,
+            "id": 21777,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4hdZyC45gPLst9mlIfKMjOcKZbM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.7,
+    "vote_count": 3
+}

@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/ss7OPdYqxLM7jH1LlonfxZ3xXKi.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 96926,
+    "imdb_id": "tt0167006",
+    "original_language": "ja",
+    "original_title": "バトルスピリッツ　龍虎の拳",
+    "overview": "After events involving a home invasion, a house cat, an ancient artifact, and an unpaid electrical bill, martial artist Ryo Sakazaki and his best friend Robert Garcia must fight their way into the Southtown underworld to save Ryo's sister Yuri from the crimelord known as Mr. Big.",
+    "popularity": 1.226,
+    "poster_path": "/kHvssPfCSUCs2QGjZvkrPUFbXd4.jpg",
+    "production_companies": [
+        {
+            "id": 13053,
+            "logo_path": null,
+            "name": "SNK",
+            "origin_country": ""
+        },
+        {
+            "id": 69265,
+            "logo_path": null,
+            "name": "Studio Comet",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1993-12-23",
+    "revenue": 0,
+    "runtime": 75,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Art of Fighting",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 6
+}

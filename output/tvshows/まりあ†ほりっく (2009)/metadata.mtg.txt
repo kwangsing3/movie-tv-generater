@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/iKLE0OifOUB6kcGTffiEvg3b4dJ.jpg",
+    "created_by": [
+        {
+            "id": 555094,
+            "credit_id": "5ab8fec29251413961032b1e",
+            "name": "Akiyuki Simbo",
+            "gender": 2,
+            "profile_path": "/mvPWp5BWl51aqLRyib5eoEw4fHT.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2009-01-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34667,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-06-24",
+    "last_episode_to_air": {
+        "air_date": "2011-06-24",
+        "episode_number": 12,
+        "id": 789715,
+        "name": "Kanako's Birthday",
+        "overview": "It's August 31st, Kanako's birthday. Her classmates, Ryuken and the seniors, Shizu and father Kanae plan to make different parties for her, but at her birthday, she doesn't find anyone. Trying to run away from the expanding seaweed, she ends up at the church, where everyone has made a party for her.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/5ZlLF6Er2loMDnONa9sbdGfkdR1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Maria Holic",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まりあ†ほりっく",
+    "overview": "Maria†Holic is a Japanese manga series written and illustrated by Minari Endō, the author of Dazzle. The manga was first serialized in the Japanese seinen manga magazine Monthly Comic Alive on June 27, 2006, and is published by Media Factory. The manga was licensed by Tokyopop with the first volume in English being released in September 2009. The first anime adaptation animated by Shaft aired in Japan between January and March 2009. A second anime season, Maria†Holic: Alive, premiered on April 8, 2011. Both seasons of the anime series have been licensed by Sentai Filmworks, and the first season is being distributed by Section23 Films.",
+    "popularity": 9.573,
+    "poster_path": "/oGKBhwYLkgMVHc7rI4FPDg0ueUY.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-12-25",
+            "episode_count": 2,
+            "id": 45406,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-01-04",
+            "episode_count": 12,
+            "id": 45405,
+            "name": "Maria Holic",
+            "overview": "",
+            "poster_path": "/j2EPJVjDNnM7PUrdI9QxIhJG8gl.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2011-04-07",
+            "episode_count": 12,
+            "id": 45407,
+            "name": "Maria Holic Alive",
+            "overview": "",
+            "poster_path": "/mcvu9Z78MYB4bMvaWAHpIHegKoT.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 9
+}

@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/ftpjln5qa8xAqnDGamIHtYweRHY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-07-11",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://kanokari-official.com",
+    "id": 96316,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-09-26",
+    "last_episode_to_air": {
+        "air_date": "2020-09-26",
+        "episode_number": 12,
+        "id": 2307886,
+        "name": "Confession and Girlfriend",
+        "overview": "Chizuru and Mami go on an awkward rental date unaware that Kazuya has seen them together. How can Chizuru handle this situation?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dt7KZQtDPUUeB2XmR7ujmp3RRGW.jpg",
+        "vote_average": 8,
+        "vote_count": 3
+    },
+    "name": "Rent-a-Girlfriend",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "彼女、お借りします",
+    "overview": "In today’s Japan, \"rental\" services can deliver an afternoon with a \"friend,\" a \"parent,\" even a fake girlfriend! Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month.  Completely spiteful, Kazuya gets just desperate enough to give it a try. But he quickly discovers how complicated it can be to \"rent\" an emotional connection… and his new \"girlfriend,\" Mizuhara Chizuru, who’s trying to keep her side hustle secret, will panic when she finds out her real life and Kazuya’s are intertwined in surprising ways! A reckless rom-com filled with love and excitement is about to begin!",
+    "popularity": 90.597,
+    "poster_path": "/4rqyyM0R3a0EeSlEvdpxDKbjiKB.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-07-17",
+            "episode_count": 36,
+            "id": 165447,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/zCSvzIcVlciDCqgIRvnpNVb9LhU.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-07-11",
+            "episode_count": 12,
+            "id": 137788,
+            "name": "Season 1",
+            "overview": "Kazuya Kinoshita is a college student who's girlfriend suddenly breaks up with him, leaving him heartbroken. Seeking to soothe the pain, he hires a rental girlfriend. His partner is Chizuru Mizuhara, who through her beauty, manages to gain Kazuya's affection.\n\nBut after reading similar experiences other customers had had with Chizuru, Kazuya believes her caring personality was all just an act to toy with him, and he rates her poorly. Aggravated, Chizuru lambastes him for his shameless hypocrisy, revealing her true pert self. This one-sided exchange is cut short, when Kazuya finds out that his grandmother has collapsed. They dash towards the hospital to find his grandmother in good condition. Baffled by Chizuru's presence, she asks who this girl might be. On impulse, Kazuya declares that they are lovers, forcing Chizuru to play the part. But with Kazuya still hung up on his previous relationship, how long can this difficult client and reluctant rental girlfriend keep up their act?",
+            "poster_path": "/AbKcbPKKokeOhDqlzYqOTG0JS3H.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 240043,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 670
+}

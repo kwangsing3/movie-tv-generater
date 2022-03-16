@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/wrcFv22sV4W3khBTluQOkogsEKc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2015-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.dreamcreation.co.jp/danchigai/",
+    "id": 71386,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-24",
+    "last_episode_to_air": {
+        "air_date": "2015-09-24",
+        "episode_number": 12,
+        "id": 1306234,
+        "name": "Building Twelve: The Bond Between Haruki and His Sisters",
+        "overview": "The sisters get unusually close.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uCQbIJaoVXDrfh1qplAYbWys6IA.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Danchigai",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "だんちがい",
+    "overview": "Based on a four-panel manga by Kazusa Yoneda, Danchigai focuses on the life of Haruki Nakano and his four sisters, all of whom live together in the same apartment complex. The only boy of five siblings, Haruki lives with his older sister Mutsuki, difficult younger sister Yayoi, and mischievous twins Uzuki and Satsuki.",
+    "popularity": 10.366,
+    "poster_path": "/upCe1lboYysrt8SANIhaHjuEtXQ.jpg",
+    "production_companies": [
+        {
+            "id": 89293,
+            "logo_path": "/66LF3OiMvsoHzgus6tZ49HntGiK.png",
+            "name": "Creators in Pack",
+            "origin_country": "JP"
+        },
+        {
+            "id": 34659,
+            "logo_path": null,
+            "name": "Dream Creation",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-09-18",
+            "episode_count": 1,
+            "id": 103550,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-07-09",
+            "episode_count": 12,
+            "id": 87652,
+            "name": "Season 1",
+            "overview": "Based on a four-panel manga by Kazusa Yoneda, Danchigai focuses on the life of Haruki Nakano and his four sisters, all of whom live together in the same apartment complex. The only boy of five siblings, Haruki lives with his older sister Mutsuki, difficult younger sister Yayoi, and mischievous twins Uzuki and Satsuki",
+            "poster_path": "/u5jqBIGk05eVyCHhfJfEYUCyyIq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 31
+}

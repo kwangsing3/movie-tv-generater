@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1994-02-20",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 158869,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "1994-03-06",
+    "last_episode_to_air": {
+        "air_date": "1994-03-06",
+        "episode_number": 3,
+        "id": 3535269,
+        "name": "Gin Rei's Blue Eyes",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "GinRei",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ジャイアントロボ外伝 GinRei 銀鈴",
+    "overview": "Ginrei's dress is stolen, only to be used to fool the enemy.",
+    "popularity": 0.6,
+    "poster_path": "/16g0Llbqk52VvwWFyILgV8grjjd.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1994-02-20",
+            "episode_count": 3,
+            "id": 246340,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

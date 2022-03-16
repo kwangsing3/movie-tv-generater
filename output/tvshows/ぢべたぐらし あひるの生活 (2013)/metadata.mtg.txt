@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2013-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.ahiru-anime.com/",
+    "id": 132567,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-16",
+    "last_episode_to_air": {
+        "air_date": "2014-03-16",
+        "episode_number": 39,
+        "id": 3175177,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "A Duck's Life",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK",
+            "id": 2334,
+            "logo_path": "/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "ぢべたぐらし あひるの生活",
+    "overview": "The story follows the daily life of a group of birds, including a duck, an old nihilistic great grey owl, and a gluttonous Caique parrot.",
+    "popularity": 0.6,
+    "poster_path": "/covmsRdlnlLonpLWpytKrWX3T6x.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2013-04-07",
+            "episode_count": 39,
+            "id": 208775,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

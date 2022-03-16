@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 3135076,
+            "credit_id": "622b72a2a579f9006f1e06cd",
+            "name": "Rion Kujo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-05-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.ikkitousen.com/",
+    "id": 128510,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "New Battle Vixens",
+    "next_episode_to_air": {
+        "air_date": "2022-05-17",
+        "episode_number": 1,
+        "id": 3053033,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "真・一騎当千",
+    "overview": "",
+    "popularity": 5.589,
+    "poster_path": "/xDcjHWwtKrus96DYggZSANq14Vn.jpg",
+    "production_companies": [
+        {
+            "id": 12083,
+            "logo_path": "/jlk2Htq5C5ToDiIoM353xwpWwO6.png",
+            "name": "ARMS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-17",
+            "episode_count": 3,
+            "id": 201036,
+            "name": "Season 1",
+            "overview": "The magical hand of Himiko, the strongest in the Kanto region, approaches Kanto! \"Magatama\" is an accessory that contains the souls of heroes who lived in the Three Kingdoms of China and were scattered with the aim of unifying China.",
+            "poster_path": "/2NqW4iJ6hPy9pES503F9ceVE7UI.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

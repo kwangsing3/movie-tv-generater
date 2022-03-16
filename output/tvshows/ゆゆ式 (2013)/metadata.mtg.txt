@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/sVlPLYx4tXII8VXajxhnJu779ee.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2013-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.yuyushiki.net/",
+    "id": 52890,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-06-25",
+    "last_episode_to_air": {
+        "air_date": "2013-06-25",
+        "episode_number": 12,
+        "id": 922361,
+        "name": "Uneventful Good Life",
+        "overview": "As summer vacation begins again, the girls spend most of their days at Yui's house, before later going to the beach.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gp3GfM3hlgFRJcsGXgr9eyEMPu4.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yuyushiki",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゆゆ式",
+    "overview": "The daily school life of three girls, Yuzuko, Yukari, and Yui, who join their high school's Data Processing Club. The odd friendship between the three make for wacky humor in even the most mundane of events.",
+    "popularity": 12.494,
+    "poster_path": "/7ET1aeziApwAzeT7JG4mGAGaKEQ.jpg",
+    "production_companies": [
+        {
+            "id": 16738,
+            "logo_path": "/Lf0udeB7OwHoFJ0XIxVwfyGOqE.png",
+            "name": "Kinema Citrus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-05-29",
+            "episode_count": 7,
+            "id": 56126,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-04-09",
+            "episode_count": 12,
+            "id": 56125,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7ET1aeziApwAzeT7JG4mGAGaKEQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 27
+}

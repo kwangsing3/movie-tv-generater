@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/xfc83Nk5Fl4Tc2t47VwDl65aWvk.jpg",
+    "created_by": [
+        {
+            "id": 2590243,
+            "credit_id": "61647acc1ad93b008cc513ef",
+            "name": "李旎",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.bilibili.com/bangumi/media/md28230743/",
+    "id": 135691,
+    "in_production": false,
+    "languages": [
+        "ja",
+        "zh"
+    ],
+    "last_air_date": "2021-12-20",
+    "last_episode_to_air": {
+        "air_date": "2021-12-20",
+        "episode_number": 12,
+        "id": 3400991,
+        "name": "Human’s Decision",
+        "overview": "Earth is safe thanks to the DGI, but it will only last a few minutes. With no other options, the Astra-Hasis begins its final mission to save the Earth. G’s Frames join the battle, including the White Giant and Asena, who was thought lost.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uPz3S5TDNheoou3RZs0Ssrt4Swz.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ancient Girl's Frame",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "bilibili",
+            "id": 1605,
+            "logo_path": "/mtmMg3PD4YGfrlmqpEiO6NL2ch9.png",
+            "origin_country": "CN"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP",
+        "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "闘神機ジーズフレーム",
+    "overview": "",
+    "popularity": 1.332,
+    "poster_path": "/7Qc3ZwxbQ5sVT4yw2BmqgTmQhsL.jpg",
+    "production_companies": [
+        {
+            "id": 117213,
+            "logo_path": null,
+            "name": "Seven Stone Entertainment",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-11",
+            "episode_count": 12,
+            "id": 214424,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rstIInUe88xcQukJHqAtYNdBxdw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

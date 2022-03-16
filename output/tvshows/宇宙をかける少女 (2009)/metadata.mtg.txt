@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/2aGM8ecfrWgyhcKvJmlvES2hZbC.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2009-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.sorakake.net/",
+    "id": 42903,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-06-30",
+    "last_episode_to_air": {
+        "air_date": "2009-06-30",
+        "episode_number": 26,
+        "id": 883306,
+        "name": "The Universe At Your Feet",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Girl Who Leapt Through Space",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "宇宙をかける少女",
+    "overview": "In the year 311 of the Orbital Calendar, humanity has migrated to countless colony clusters in space. A space colony girl named Akiha Shishidou encounters a malevolent artificial intelligence named Leopard that has been installed on a colony.",
+    "popularity": 6.212,
+    "poster_path": "/lACcvPSqM32keQiljf281y7fXXy.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 9,
+            "id": 52409,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-01-05",
+            "episode_count": 26,
+            "id": 52410,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/arsUGmyMYCyQ0SecBF1QlghatfV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.3,
+    "vote_count": 4
+}

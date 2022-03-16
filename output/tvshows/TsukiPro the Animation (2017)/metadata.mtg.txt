@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/90bnoxj31efCJivpi9TEdUFnApI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://tsukipro-anime.com/",
+    "id": 74187,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-30",
+    "last_episode_to_air": {
+        "air_date": "2021-09-30",
+        "episode_number": 13,
+        "id": 3104005,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/3c3iVSAEmCk0dQiVMuIDkacmhf3.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "TsukiPro the Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "TsukiPro the Animation",
+    "overview": "SOARA, Growth, SolidS, and QUELL are four groups belonging to Tsukino Entertainment Production (AKA TSUKIPRO). The slice of life music anime \"PRO ANI\" depicting their music overflowing with uniqueness and the drama surrounding their lives begins now! Will you open this glittering treasure box of music?",
+    "popularity": 13.788,
+    "poster_path": "/v3l4ulbOLhZ238QmmY7E39LL08.jpg",
+    "production_companies": [
+        {
+            "id": 109571,
+            "logo_path": "/oVUwZ8k1AhClFFjnooKF7lVI1Jl.png",
+            "name": "PRA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-10-04",
+            "episode_count": 13,
+            "id": 93358,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/p9MZ9XNri7sxRPbt2xgGecsKX4d.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-07-07",
+            "episode_count": 13,
+            "id": 190737,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/3OqiKu0GQSSfNF9XPj10C4AFH2a.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 2
+}

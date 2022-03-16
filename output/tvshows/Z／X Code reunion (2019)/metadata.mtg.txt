@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": "/uJ0JV4VYTT23MFkvABb0VYAjOMb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.zxtcg.com/animation/",
+    "id": 91765,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-24",
+    "last_episode_to_air": {
+        "air_date": "2019-12-24",
+        "episode_number": 12,
+        "id": 1948769,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/p8dwZZBCrrVZP3DH02UMznOZlys.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Z/X: Code Reunion",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Z/X Code reunion",
+    "overview": "The story is set in the future where humanity and the Z/X have entered a treaty and headed towards a moment of peace. Azumi Kagamihara—a girl affiliated with the Blue World—is chosen together with her Partner Z/X Rigel to enroll in Fujimisaki Academy, a school established to gather girls that are partnered with Z/X from all over Japan.",
+    "popularity": 9.549,
+    "poster_path": "/aCdWXEDbwc7DWEPRarDJnE9votv.jpg",
+    "production_companies": [
+        {
+            "id": 58035,
+            "logo_path": "/rtFGLtHkjVqq042Ky5gbOEnXFlN.png",
+            "name": "Passione",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-08",
+            "episode_count": 12,
+            "id": 128735,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dn1nxQ86nCskrSdoq4TzZU79NQB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.5,
+    "vote_count": 2
+}

@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/17skijhH4yQuhvkoaxpFCM4IL6R.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1994-10-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "",
+    "id": 128948,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-08-01",
+    "last_episode_to_air": {
+        "air_date": "1996-08-01",
+        "episode_number": 10,
+        "id": 3067682,
+        "name": "From Here To Eternity (Part 2)",
+        "overview": "All the pieces of the puzzle begin to fall into place. It appears that the war is going to restart, but it is all being controlled by a third party behind the scenes. Can Tylor or his former crew mates find the solution in time?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Irresponsible Captain Tylor  OVA",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無責任艦長タイラー OVA",
+    "overview": "Six long months have passed. The Raalgon Empire has developed a horrible new type of weapon, and Tylor has been charged with the duty of intercepting it as it is being transported. But when all that could go wrong does go wrong, the crew members of the Soyokaze find themselves at the mercy of their enemies. As the hours tick down toward their execution, the crew wonders: has their irresponsible captain misled them? Or is this all a part of some greater strategy?",
+    "popularity": 2.048,
+    "poster_path": "/agCbY5OpyKw2p3gAZRASl5cqTlA.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104393,
+            "logo_path": null,
+            "name": "Bihou. Incorporated",
+            "origin_country": ""
+        },
+        {
+            "id": 139764,
+            "logo_path": null,
+            "name": "Nozomi Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-10-01",
+            "episode_count": 10,
+            "id": 201843,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

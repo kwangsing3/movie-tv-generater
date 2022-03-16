@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/yjmqROw9fa9GahuUxvBFnoVYYMG.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 719088,
+    "imdb_id": "tt12105596",
+    "original_language": "ja",
+    "original_title": "イエスかノーか半分か",
+    "overview": "Kunieda Kei is a popular, young TV announcer whose public and private personas are so different, they might be called extreme. On the outside, he is the picture of perfection, affectionately nicknamed \"The Prince,\" while on the inside he is constantly cursing at all of the incompetence around him. Of course, no one knows this secret of his.  One day, Kei meets animation artist Tsuzuki Ushio for a work assignment. While Kei is in \"inside mode,\" he later runs into Tsuzuki, who doesn't recognize him in his worn-out sweats and a facemask, but as compensation for injuring Tsuzuki's arm, Kei gets roped into helping out with his work.",
+    "popularity": 181.993,
+    "poster_path": "/sH8xCXLEbihNNVDbewddzkYnNPF.jpg",
+    "production_companies": [
+        {
+            "id": 113161,
+            "logo_path": "/tY06cHth3hQbs483trFSbVYLubI.png",
+            "name": "Lesprit Inc.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2020-12-11",
+    "revenue": 0,
+    "runtime": 53,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Yes, No, or Maybe Half?",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 17
+}

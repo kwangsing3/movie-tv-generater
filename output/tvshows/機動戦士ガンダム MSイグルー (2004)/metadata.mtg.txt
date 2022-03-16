@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/2YWYNmdZmhyP1ecviUMAraJtqD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        28
+    ],
+    "first_air_date": "2004-07-19",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "",
+    "id": 44919,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-04-24",
+    "last_episode_to_air": {
+        "air_date": "2009-04-24",
+        "episode_number": 3,
+        "id": 895900,
+        "name": "The Gravity Front: Odessa, Iron Storm!",
+        "overview": "(U.C. 0079.11.08 - 0079.11.09) Though Operation Odessa is proceeding, the 44th Hybrid Brigade suffers setback after its advance is bombarded by artillery from Zeon's Dobday-class land battleships. They are reinforced by three Guntanks piloted by a trio of convicts led by Lt. Arleen Nazon, a technical officer blamed and condemned to rot in jail after her lover defected to Zeon with information of the RTX-440 project. Bearing deep hatred to the man who betrayed her, Clyde Bettany, Arleen vows revenge for destroying her future. The offensive resumes on the second day and the Federation forces again suffering casualty from the well dug Zeon defence. Arleen's team penetrates enemy lines to provide artillery reconnaissance, before storming and breaking into the Zeon forward base. In the mist of battle, Arleen's two teammates self-detonate their Guntanks, taking out one Dobday.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/6puxix1S8sVAQ1SXpaCLDB5tysN.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam MS IGLOO",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士ガンダム MSイグルー",
+    "overview": "The year is Universal Century 0079. Oliver May is a technical officer in the Zeon 603rd Technical Evaluation Unit , in charge of testing new military technology. Stationed in the Jotunheim, a civilian transport ship that was converted into military use, Oliver must head into battle and experience the One Year War, only this time from the perspective of a weapon tester who struggles to make an impact on an evolving war during changing times.",
+    "popularity": 8.124,
+    "poster_path": "/ehQjQzdiJMbosm4OzOY4p22DXQk.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 182,
+            "logo_path": null,
+            "name": "JVC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-07-19",
+            "episode_count": 3,
+            "id": 53665,
+            "name": "The Hidden One-Year War",
+            "overview": "",
+            "poster_path": "/8nV8FNnM8HxU8bjQjlVS0wTgo1z.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2006-04-26",
+            "episode_count": 3,
+            "id": 53663,
+            "name": "Apocalypse 0079",
+            "overview": "",
+            "poster_path": "/4asvcUbGoBgP2ajPg7wMSs74jc4.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2008-10-24",
+            "episode_count": 3,
+            "id": 53664,
+            "name": "The Gravity Front",
+            "overview": "",
+            "poster_path": "/4sRJp76EUzOjb2JUOhS04YpSU6y.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 5
+}

@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/2KudiO1hPYRkzgl50339u0vKabx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://summerghost.jp/",
+    "id": 798544,
+    "imdb_id": "tt15052770",
+    "original_language": "ja",
+    "original_title": "サマーゴースト",
+    "overview": "Tomoya, Aoi, and Ryo are high school students who met online. An urban legend speaks of a \"summer ghost,\" a spirit girl who appears when fireworks are set off. Tomoya cannot live the life he envisioned for himself. Aoi cannot find her place in the world. Ryo has his once shining future suddenly pulled away. Each has their own reason for needing to meet the summer ghost. On a summer night when life and death cross paths, where will each of their emotions take them?",
+    "popularity": 2.493,
+    "poster_path": "/dH1GfhaaBCftL7CenrIG2OjsLxX.jpg",
+    "production_companies": [
+        {
+            "id": 128576,
+            "logo_path": "/60cKNuBo5QCjevKf23eP6GXo8Yi.png",
+            "name": "FLAT STUDIO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 55938,
+            "logo_path": null,
+            "name": "avex pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-11-12",
+    "revenue": 0,
+    "runtime": 40,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Summer Ghost",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

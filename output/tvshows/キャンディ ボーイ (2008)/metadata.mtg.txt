@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/eHHGmLjYrWPDVRnFlu9qVzhQcNq.jpg",
+    "created_by": [
+        {
+            "id": 1608431,
+            "credit_id": "5b7d3b6f0e0a263bcd00c4fa",
+            "name": "Takafumi Hoshikawa",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        105
+    ],
+    "first_air_date": "2008-05-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "https://web.archive.org/web/20080311195101/http://candyboy.jp/",
+    "id": 61439,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-06-24",
+    "last_episode_to_air": {
+        "air_date": "2009-06-24",
+        "episode_number": 9,
+        "id": 1772748,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/u8rj7WqKOWhtchZGnI0oU2VyD87.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Candy Boy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キャンディ ボーイ",
+    "overview": "Yukino and Kanade Sakurai live together as high school students enjoying their daily life; until one day Sakuya Kamiyama confess her love for Kanade to Yukino, asking for her support. This makes Yukino to release her true feelings for her sister.",
+    "popularity": 4.784,
+    "poster_path": "/y43ZIAJEUaVPzzTe9QWQsVRJyFV.jpg",
+    "production_companies": [
+        {
+            "id": 108026,
+            "logo_path": null,
+            "name": "Studio RUFUS",
+            "origin_country": ""
+        },
+        {
+            "id": 108027,
+            "logo_path": "/rRi6UiDltJSyW6srgOmC7LH3pO2.png",
+            "name": "Studio T&T",
+            "origin_country": "JP"
+        },
+        {
+            "id": 108028,
+            "logo_path": "/5cmP4aDWS5XTpf0iq8EE3inrPcs.png",
+            "name": "HALF H·P STUDIO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-05-02",
+            "episode_count": 9,
+            "id": 62915,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/n5VSuM0aaYMkXR3p6OdRcVOZ3Mr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2.7,
+    "vote_count": 9
+}

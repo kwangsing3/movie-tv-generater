@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/l8z3xdD8hHDh2KPJhCVCrn2wLQF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        13
+    ],
+    "first_air_date": "2014-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://mangakasan.tv",
+    "id": 69217,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-24",
+    "last_episode_to_air": {
+        "air_date": "2014-06-24",
+        "episode_number": 12,
+        "id": 1250005,
+        "name": "Progress \\ End of Summer \\ Panty Personality Test",
+        "overview": "Sahoto hopes to make her debut with a new author award. The end of the summer has the group analyzing their true nature through particular clothing choices.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ePzoUKOSZTC6ZUYiJSDQXizCII9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Comic Artist and His Assistants",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マンガ家さんとアシスタントさんと",
+    "overview": "The life of an artist can be hard: Long, arduous hours working with only your thoughts and assistants to keep you company. In the case of overworked mangaka Aito, his attempts to merge the two are so far unsuccessful. His priorities are askew and subjecting his assistants to his fantasies has taken precedent over work. Despite his abuse of power, his assistants are willing to play along. Thankfully, editor Mihari is there to keep him in line, from threatening to fire him to physical punishment.",
+    "popularity": 18.331,
+    "poster_path": "/hVpdJnlz5sCcq0gIUdIfbuHJ4CY.jpg",
+    "production_companies": [
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-06-25",
+            "episode_count": 6,
+            "id": 94380,
+            "name": "Specials",
+            "overview": "Specials released with the Blu-ray/DVD volumes.",
+            "poster_path": "/bl8UU3EFrZT8gaLZcFCRyw1BCGX.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-04-08",
+            "episode_count": 12,
+            "id": 83062,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2D9H94Xw9mcfq90lku0di1nL6EB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 58
+}

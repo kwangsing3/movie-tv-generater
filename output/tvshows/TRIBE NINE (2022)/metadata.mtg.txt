@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/mKyXodwDqGpslT1h1v1AuKpjgg2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://tribenine.tokyo/anime/",
+    "id": 135292,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-14",
+    "last_episode_to_air": {
+        "air_date": "2022-03-14",
+        "episode_number": 10,
+        "id": 3416365,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4dHVNLtnfyMYseySwQ0pZoReokO.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tribe Nine",
+    "next_episode_to_air": {
+        "air_date": "2022-03-21",
+        "episode_number": 11,
+        "id": 3416366,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "TRIBE NINE",
+    "overview": "In Neo Tokyo, disillusioned youth form tribes that battle each other in an intense game called Extreme Baseball. One night, two kids – Haru Shirogane and Taiga – meet the strongest XB Player Shun Kamiya. Haru and Taiga join Shun's group, the Minato Tribe, to play this cutthroat game against a mysterious man who has begun taking control of all the tribes. Can they defeat him before it’s too late?",
+    "popularity": 62.094,
+    "poster_path": "/fH9wo23VGzWIK0rHkEEbidWpK12.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-10",
+            "episode_count": 12,
+            "id": 213720,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nq8FBqo27ukvaAOY8xjKouAnEQv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2.5,
+    "vote_count": 2
+}

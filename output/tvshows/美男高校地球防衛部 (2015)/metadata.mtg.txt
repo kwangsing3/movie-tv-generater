@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/2C9dc5S3b8bUhcncAkEpgdyn52D.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2015-01-07",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://boueibu.com",
+    "id": 61930,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-07-02",
+    "last_episode_to_air": {
+        "air_date": "2018-07-02",
+        "episode_number": 12,
+        "id": 1508922,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/j0nsOi2ngeQZURmi6MfC9fpacvs.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cute High Earth Defense Club LOVE!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 36,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "美男高校地球防衛部",
+    "overview": "The Earth Defense Club at Binan High School are a group of boys that do nothing, but be lazy. One day when two of the club members, Atsushi and En, are taking a bath in a bathhouse, a talking pink Wombat appears out of nowhere and requests the two boys to help save the Earth with the power of love. Unfortunately, the bathhouse owner's son, Yumoto sees the wombat and chases after it while saying \"Let me fluff you up!\". The next day, the two boys and the other two club members, Io and Ryu are met with the pink wombat and suddenly, bracelets appears and clasp onto each of the four members' wrists, as well as Yumoto (who just happened to be nearby) and they are transformed into the Battle Lovers.",
+    "popularity": 8.467,
+    "poster_path": "/9F3VNRHeHAz4TR6jIFER339UveS.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-01-07",
+            "episode_count": 12,
+            "id": 64693,
+            "name": "Cute High Earth Defense Club LOVE!",
+            "overview": "",
+            "poster_path": "/iT30nyH7OJtXxoLk1lJtLimVQu.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2016-07-08",
+            "episode_count": 12,
+            "id": 101714,
+            "name": "Cute High Earth Defense Club LOVE! LOVE!",
+            "overview": "",
+            "poster_path": "/2u9eLHnaciPisSJCs6NWizALuOB.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2018-04-09",
+            "episode_count": 12,
+            "id": 104642,
+            "name": "Cute High Earth Defense Club Happy Kiss!",
+            "overview": "",
+            "poster_path": "/8NfRaAcT3cAOvW6CpbBqy3Iz8rX.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 3
+}

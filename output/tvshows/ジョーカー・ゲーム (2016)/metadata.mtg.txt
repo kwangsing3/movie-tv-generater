@@ -1,0 +1,156 @@
+{
+    "adult": false,
+    "backdrop_path": "/fMT0SK0KCTIbHfwik8T67G0kC89.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-05",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://jokergame.jp/",
+    "id": 65949,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-21",
+    "last_episode_to_air": {
+        "air_date": "2016-06-21",
+        "episode_number": 12,
+        "id": 1219196,
+        "name": "XX Double Cross",
+        "overview": "Karl Schneider, writer for the Berlin Allgemeine, is suspected of being a German/Soviet double agent. While D-Agency searches for proof of his espionage activities, Schneider suddenly dies under mysterious circumstances. Lieutenant Colonel Yuuki sends his men on individual missions in order to uncover the truth.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5Fezi5UVyJIVJps73HLGflaO1R9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Joker Game",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ジョーカー・ゲーム",
+    "overview": "Taking place in the year 1937 on the eve of World War II, the story involves a mysterious spy training organization known as the \"D Agency.\" The organization is established by Lieutenant Colonel Yuuki from the Imperial Japanese Army. His ideals lead him to recruit people beyond military academy graduates and personnel, while training them to become skilled agents in arts of manipulation. These agents would become a specialized team to conduct operations. One such antihero agent, under the name Jirou Gamou, goes on a harrowing mission to uncover secret documents titled \"Black Notes,\" while battling forces from within and without his own ranks.",
+    "popularity": 19.032,
+    "poster_path": "/4li82SvY2zhc2PsvmHU07C30dtv.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9067,
+            "logo_path": null,
+            "name": "Glovision",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 142186,
+            "logo_path": "/fCsUYQacBylGp6M7Fafz9Aza9GE.png",
+            "name": "Hakuhodo DY Music & Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        },
+        {
+            "id": 648,
+            "logo_path": "/nCIeUG7ntLvo8aMXIkldyCy8g5G.png",
+            "name": "Sony Music Entertainment (Japan)",
+            "origin_country": "JP"
+        },
+        {
+            "id": 36342,
+            "logo_path": "/3xYrMZn6SrupK4R83EUgNPjzqj4.png",
+            "name": "Sammy",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5809,
+            "logo_path": "/aqc1Sj5nfPWb9rjf1TSayKBPlno.png",
+            "name": "Frontier Works",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-27",
+            "episode_count": 2,
+            "id": 142898,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-05",
+            "episode_count": 12,
+            "id": 75480,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bvIBBPIxjJvjsrOzGk8y0b6mZHG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 23
+}

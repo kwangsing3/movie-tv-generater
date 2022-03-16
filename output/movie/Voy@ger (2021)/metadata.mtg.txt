@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/elL2k88SPUcqSqvH0glmW7EdLck.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.youtube.com/watch?v=HJKqSYK_z0w",
+    "id": 936511,
+    "imdb_id": "tt15332594",
+    "original_language": "ja",
+    "original_title": "Voy@ger",
+    "overview": "Voy@ger is conceptual movie produced in commemoration of the 16th anniversary of the iDOLM@STER franchise. It features an image song of the same name, gathering 15 different idols from 5 different sub-franchises.  (Source: ANN)",
+    "popularity": 0.694,
+    "poster_path": "/wxrgtMJSmxYLVxfusktyKP8M3X5.jpg",
+    "production_companies": [
+        {
+            "id": 94267,
+            "logo_path": null,
+            "name": "Half H.P Studio",
+            "origin_country": ""
+        },
+        {
+            "id": 13066,
+            "logo_path": "/2fgqTGBeaKaGer4vDUXmYaUIR5o.png",
+            "name": "Nippon Columbia",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12502,
+            "logo_path": "/aDcFy26DtVbyZIFOZNTLsooWH5X.png",
+            "name": "Bandai Namco Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4145,
+            "logo_path": "/suAlQoj04ozLC0WbfI5qEMahVwv.png",
+            "name": "khara",
+            "origin_country": "JP"
+        },
+        {
+            "id": 121589,
+            "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+            "name": "CloverWorks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-08-25",
+    "revenue": 0,
+    "runtime": 8,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Voy@ger",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

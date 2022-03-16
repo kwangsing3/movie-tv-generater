@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/uiBb01nmHwyVTSILSMKJ4WIvijc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2000-04-26",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://flcl-anime.com/",
+    "id": 5895,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-10-13",
+    "last_episode_to_air": {
+        "air_date": "2018-10-13",
+        "episode_number": 6,
+        "id": 1594811,
+        "name": "Full Flat",
+        "overview": "Depressed, Kana flips over the collection of photos she took with her besties. The next day, the 3 girls gather by the beach as they watch the rocket Pets is supposed to be on.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/gpZBNUuJPmwL5EuMfQtFP0DlpeU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "FLCL",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 18,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "フリクリ",
+    "overview": "A 12-year old boy named Naota one day meets a strange woman, riding a Vespa and wielding a big guitar. As soon as she appears, mysterious things start happening.",
+    "popularity": 31.76,
+    "poster_path": "/FkgA8CcmiLJGVCRYRQ2g2UfVtF.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6760,
+            "logo_path": "/qKLBuZa4Z4fKH8xHvCUsb5EIDx3.png",
+            "name": "Williams Street",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-04-26",
+            "episode_count": 6,
+            "id": 15941,
+            "name": "Season 1",
+            "overview": "A 12-year-old boy named Naota is hanging out with 17-year-old Mamimi, the girlfriend of Naota's absentee brother. Their relationship is an uneasy one, since Mamimi seems to enjoy teasing Naota quite a bit. Suddenly, their time together is interrupted by the arrival of Haruhara Haruko, a seemingly insane girl on a motor scooter. She runs over Naota and then whacks him in the head with her guitar...",
+            "poster_path": "/lh3KJQTflPHkJHxwmz85kralU6x.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-06-02",
+            "episode_count": 6,
+            "id": 101154,
+            "name": "FLCL Progressive",
+            "overview": "Many years have passed since Naota and Haruhara Haruko shared their adventure together. Meanwhile, the war between the two entities known as Medical Mechanica and Fraternity rages across the galaxy. Enter Hidomi, a young teenaged girl who believes there is nothing amazing to expect from her average life, until one day when a new teacher named Haruko arrives at her school. Soon enough, Medical Mechanica is attacking her town and Hidomi discovers a secret within her that could save everyone, a secret that only Haruko can unlock.\n\nBut why did Haruko return to Earth? What happened to her Rickenbacker 4001 she left with Naota? And where did the human-type robot \"Canti\" go?",
+            "poster_path": "/5W1ASsg4Mvd0TJUf6CsIm7RPEg3.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2018-09-08",
+            "episode_count": 6,
+            "id": 101155,
+            "name": "FLCL Alternative",
+            "overview": "The series centers on the misadventures of 17-year-old Kana, a high school junior who spends her days hanging out with her besties, Mossan, Hijiri, and Pets. They live unremarkable lives, until the day a Mecha falls out of the sky, along with a strange woman named “Haruko.” Her plans for Kana and her friends involve the force known as “ATOMSK.” Kana will have to risk everything to decide whether or not to help… like she really has a choice!",
+            "poster_path": "/kQDyd7MQ6qCaJU46rBNBecjZufT.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 209
+}

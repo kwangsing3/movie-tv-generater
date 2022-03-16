@@ -1,0 +1,135 @@
+{
+    "adult": false,
+    "backdrop_path": "/eW2vlxPGdtF5ZAjPW2h16jKMpqi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-01-10",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.hozukino-reitetsu.com/",
+    "id": 61529,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-07-01",
+    "last_episode_to_air": {
+        "air_date": "2018-07-01",
+        "episode_number": 26,
+        "id": 1511811,
+        "name": "Unrivaled at Poker / Is Hell Your Intended Destination?",
+        "overview": "Hozuki uses the apathetic nature of the Zashiki Warashi twins to wrangle a newcomer to Hell. Later, Hozuki settles a disagreement between different departments.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/i7wWnztI0OXbPcdqtFlTpUxh1jU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hozuki's Coolheadedness",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "鬼灯の冷徹",
+    "overview": "Hōzuki is the aide to the great king of Hell, King Enma. Calm and super-sadistic, Hōzuki tries to resolve the various problems in Hell, including a rampaging Momotarō and his companions. However, he also likes spending his free time on his hobbies, such as fawning over cute animals and raising \"Goldfish Flowers.\"",
+    "popularity": 28.349,
+    "poster_path": "/1XmkSuWuERuUsyxzXQ02kMWvKjq.jpg",
+    "production_companies": [
+        {
+            "id": 31058,
+            "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+            "name": "Wit Studio",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-02-23",
+            "episode_count": 5,
+            "id": 136213,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-01-10",
+            "episode_count": 13,
+            "id": 63137,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tcQ5hROigKwFuM5ezhDAwjEa6WR.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-10-08",
+            "episode_count": 26,
+            "id": 93136,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/vTXapLb7odsvRDzeetXU8ubZmGc.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 17
+}

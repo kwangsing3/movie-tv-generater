@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/mJHSbFtVwYafbGYOuGueFrIqXYl.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://fulldive-rpg.com",
+    "id": 114198,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-23",
+    "last_episode_to_air": {
+        "air_date": "2021-06-23",
+        "episode_number": 12,
+        "id": 2841103,
+        "name": "Reality⨯VR",
+        "overview": "Hiro has learned the true nature of the City of Ted, and now he has to die. Can Hiro save his console from nearly certain destruction?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/d01yrk8gAA3YNh9rnTotdCpHrYF.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier Than Real Life!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "究極進化したフルダイブRPGが現実よりもクソゲーだったら",
+    "overview": "In an unexpected turn of events, dull high school student Hiro Yuuki obtains the full dive role-playing game Kiwame Quest. Created by the best of technology, the game claims to take \"reality to its extremes,\" from stunning graphics, NPCs' behavior, to the scent of vegetation, and even the sensation of wind brushing against the skin—everything was the result of an ultimate workmanship.\n\nExcept, the game is a little too realistic and messy to clear. Kiwame Quest features over ten quadrillion flags and reflects the players' real-life physical abilities in the game. Being hit in the game also hurts in real life and slash wounds take days to heal.\n\nThe only reward here is the sense of accomplishment. Conquer the most stressful game in history that can't be played casually!",
+    "popularity": 38.555,
+    "poster_path": "/6pRbPIGuBAZDjblqhDl6U4CUQxI.jpg",
+    "production_companies": [
+        {
+            "id": 121246,
+            "logo_path": "/jt7YfHwB5k0bGVMsSy1WwJhI2hM.png",
+            "name": "ENGI",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-07",
+            "episode_count": 12,
+            "id": 171077,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rtN5Fq6I8HTjp3JwuaikwgdOhIh.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 56
+}

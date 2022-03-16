@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/qUyQMM1dGA1Px08zS7aCOoyFjpP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        8
+    ],
+    "first_air_date": "2021-09-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://watch.pokemon.com/en-us/#/season?id=pokemon-evolutions",
+    "id": 132636,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-23",
+    "last_episode_to_air": {
+        "air_date": "2021-12-23",
+        "episode_number": 8,
+        "id": 3177964,
+        "name": "The Discovery",
+        "overview": "Did you hear the rumor? What might be the most powerful Pokémon ever has been discovered in Kanto!  Green has begun her search for this elusive Pokémon...but she’s not the only one racing to catch it!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qxut9uBYg0ve4NEQc1kXMog0yqV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pokémon Evolutions",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Pokémon Evolutions",
+    "overview": "Follow different Trainers around the Pokémon world as they grow and evolve with their Pokémon.",
+    "popularity": 40.435,
+    "poster_path": "/6aEFDKdQItpRwwrjZtKUSAlxjO9.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 161390,
+            "logo_path": "/bYuvc3mREL38gAD5qTT14Q5Pgg1.png",
+            "name": "The Pokémon Company International",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-09-09",
+            "episode_count": 8,
+            "id": 208872,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.9,
+    "vote_count": 5
+}

@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/l6RfOuLU8HdRn7V3kSMlsNJH3Pq.jpg",
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "5806ffbc9251415a7a0109c5",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1976-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 43979,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-10-28",
+    "last_episode_to_air": {
+        "air_date": "2016-10-28",
+        "episode_number": 31,
+        "id": 1209429,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dino Mech Gaiking",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 44,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "大空魔竜ガイキング",
+    "overview": "This story chronicles the crew of the transformable carrier Daikū Maryū and the Super Robot Gaiking's battle against an invading race of aliens called the Dark Horror Army, whose home planet is facing destruction by a black hole. Notable aspects of the series include the dinosaur-based designs of the Daikū Maryū and its support machines and the use of part of the carrier to form the main robot. The Gaiking robot is helmed by former baseball star Sanshiro Tsuwabuki, whose latent psychic powers make him the only one capable of piloting the giant robot.",
+    "popularity": 8.642,
+    "poster_path": "/cFYefUBBP9PnuVZvQdWJ8312oW7.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-01-15",
+            "episode_count": 3,
+            "id": 142515,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/guA1XDjmTfLcN8P6pGXsCttsoWj.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1976-04-01",
+            "episode_count": 44,
+            "id": 78739,
+            "name": "Season 1",
+            "overview": "Earth's transforming giant robot Gaiking must be used to stop evil alien invaders and their monster robots!",
+            "poster_path": "/wJZOWkC459ZuKjHU9Eo5l0IKcaT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 20
+}

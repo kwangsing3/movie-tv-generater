@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/muDbxqoMoyeePjm5gTXt3LXNE1W.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://acca-anime.com",
+    "id": 69225,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-28",
+    "last_episode_to_air": {
+        "air_date": "2017-03-28",
+        "episode_number": 12,
+        "id": 1296550,
+        "name": "Where the Bird Flies",
+        "overview": "With preparations for the ACCA centennial anniversary cereonomy underway, Prince Schwan goes to Badon to represent the Dowa royal family in his father's stead. Meanwhile, the five chief officers, senior officials, and district representatives secretly gather in ACCA headquarters' central meeting room to make their own final preparations for the coup. The day of the ceremony, the district office plaza is full of citizens. The future of the kingdom is about to be decided...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/eD7E5Y9nVm7S61mgvnu3dqLsw38.jpg",
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    "name": "ACCA: 13-Territory Inspection Dept.",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ACCA13区監察課",
+    "overview": "\"ACCA\" is a giant unified syndicate residing in a kingdom split into 13 autonomous regions. ACCA was formed back when there was threat of a coup d'etat, and has continued to protect the peace for almost one hundred years. Jean Otus, vice-chairman of the inspections department at ACCA headquarters, wanders through the 13 districts, checking to see if there is any foul play afoot. His quiet everyday life slowly gets swallowed up into the world's conspiracies!",
+    "popularity": 17.047,
+    "poster_path": "/bEqDCv7IZBfM5mLMeAObvfKxJ9l.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-04-21",
+            "episode_count": 6,
+            "id": 100763,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9z6N5XpDBGMYUSHxQHlzJ6XpyhN.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-01-10",
+            "episode_count": 12,
+            "id": 83077,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xcYWXDnYP9vGlOkrQNA76wyJiAo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 37
+}

@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/cDFQjyp2rnX184Q7nKoKgyGlNwr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://sigururi.com/",
+    "id": 99910,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-26",
+    "last_episode_to_air": {
+        "air_date": "2020-12-26",
+        "episode_number": 12,
+        "id": 2452518,
+        "name": "Welcome to Tateyama Base!!",
+        "overview": "In the climactic battle between humanity and god, Odin himself enters the fray. Both sides pull out all the stops as they struggle for survival.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/eb5RRBLtQIiXRNpY59pelLsfMPn.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Warlords of Sigrdrifa",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "戦翼のシグルドリーヴァ",
+    "overview": "When the Pillars suddenly appear on Earth, threatening all life, it's only the act of the god Odin that offers humanity salvation. Providing a means of fighting back, he gives Earth the Valkyries, young female pilots with supernatural powers and spirit fighter planes. These skilled troublemakers, all young, risk their lives in a long-running war—but the final battle is fast approaching!",
+    "popularity": 17.59,
+    "poster_path": "/uDeQsdZji4O6fGv3OJP00BI6AP9.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-11-28",
+            "episode_count": 1,
+            "id": 170431,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/5PbrE4ymOldEpSWBP3NPI5RJdhY.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-10-03",
+            "episode_count": 12,
+            "id": 144255,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nBZK6EOKB6gC9fza0VzYUpyIZVi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1
+}

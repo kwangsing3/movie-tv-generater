@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/jvS8EVq8Dm78KmRzah4DeBFMkOh.jpg",
+    "created_by": [
+        {
+            "id": 555347,
+            "credit_id": "5a8878b7c3a36862a705028e",
+            "name": "Mami Watanabe",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1996-06-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.shamanicprincess.com/",
+    "id": 42778,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1998-06-09",
+    "last_episode_to_air": {
+        "air_date": "1998-06-09",
+        "episode_number": 6,
+        "id": 882576,
+        "name": "The Festival of Wind",
+        "overview": "Sarah is offered as sacrifice to the Throne of Yord. Kagetsu is torned apart from the lost of his sister. Tiara is sent on a mission but something goes wrong. She can't control Graham, so she is punished.Lena summones her partner Leon. Later, Lena visits Tiara in  prison and introduce Leon and ask her to take care of Sarah. Kagetsu finally decides to take the Throne of Yord in order to save his sister Sarah. Graham is the only one that stands in Kagetsu's way when he steals the throne of Yord and tries to escape the Guardian World.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shamanic Princess",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シャーマニックプリンセス",
+    "overview": "Tiara, an agent from the Guardian World, who has been sent to Earth to recover the Throne of Yord, a mystical object which is the source of magical energy in the Guardian World.",
+    "popularity": 4.238,
+    "poster_path": "/y6uf1chqFXdZbJtsZacUG8cP2PT.jpg",
+    "production_companies": [
+        {
+            "id": 13064,
+            "logo_path": null,
+            "name": "Animate Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1996-06-07",
+            "episode_count": 6,
+            "id": 52349,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 6.5,
+    "vote_count": 2
+}

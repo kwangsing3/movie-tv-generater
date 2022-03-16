@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/tHRpjcU7xwtmoG2lqOugPZt46PS.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/meido/",
+    "id": 66112,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-07-01",
+    "last_episode_to_air": {
+        "air_date": "2016-07-01",
+        "episode_number": 12,
+        "id": 1216082,
+        "name": "All's Well That Ends Well",
+        "overview": "Madoka gets sick during the busy wedding season, and Chihiro is visited by a strange girl…",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Shonen Maid",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "少年メイド",
+    "overview": "After the loss of his mother, Chihiro is left alone. With no known family left, he has to find a way to move on. Things aren’t looking good until a chance encounter with the young and handsome Madoka—who turns out to be his wealthy uncle! Madoka offers him his home and all Chihiro has to do is clean up after the messy, irresponsible man. The problem? This job requires a uniform—a maid outfit!",
+    "popularity": 11.292,
+    "poster_path": "/aq8sasxas00O4MOgvF99DTIFt6Y.jpg",
+    "production_companies": [
+        {
+            "id": 30294,
+            "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+            "name": "8bit",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-06-24",
+            "episode_count": 1,
+            "id": 103549,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-08",
+            "episode_count": 12,
+            "id": 75990,
+            "name": "Season 1",
+            "overview": "Despite the oddities of his uncle and the many people who come to visit them, Chihiro finds himself connecting to a family he never even knew existed, and even finds himself connected to his mother more than he could ever imagine. A clean home is a happy home, but a home filled with love, laughter, and family is an even better one.",
+            "poster_path": "/wTpjftKMnVtEshOuPtryp3nUULx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 9
+}

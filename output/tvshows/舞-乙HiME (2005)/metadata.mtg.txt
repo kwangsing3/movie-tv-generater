@@ -1,0 +1,89 @@
+{
+    "adult": false,
+    "backdrop_path": "/5xluokTgSt2Pk4bc34wiDzMymFY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.my-zhime.net/",
+    "id": 42716,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-30",
+    "last_episode_to_air": {
+        "air_date": "2006-03-30",
+        "episode_number": 26,
+        "id": 1428413,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/wwxregSj7vxuZL0RE6sdTfoMyeB.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "My-Otome",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "舞-乙HiME",
+    "overview": "In the distant future on the planet Earl, colonized by immigrants from Earth centuries ago. \"Old technology\" has survived in the form of nanomachines that allow female virgins wield Highly-advanced Materializing Equipment (HiME) and become Meister Otomes - bodyguards and warriors that serve the royalty of various kingdoms.\n\nArika Yumemiya has come to Windbloom Kingdom in search of her mother, whom Arika knows was an Otome. On her arrival she meets the top Coral Otome student, Nina Wáng, and Windbloom's heir to the throne, Mashiro Blan de Windbloom. The series follows Arika's progress as a student at Garderobe Academy and the machinations of those desiring the destructive power of the old technology for themselves.",
+    "popularity": 8.935,
+    "poster_path": "/uSAZrDrR8sySebreeK4FPfjyL0i.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2006-01-27",
+            "episode_count": 17,
+            "id": 166443,
+            "name": "Specials",
+            "overview": "DVD Omakes, My-Otome Zwei, and My-Otome 0: S.ifr specials.",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-10-06",
+            "episode_count": 26,
+            "id": 98853,
+            "name": "My-Otome",
+            "overview": "Yumemiya Arika has travelled far in search of her goal — the prestigious Garderobe Academy. This is the school where young girls are trained to become Otome, protectors of royal leaders throughout the lands.",
+            "poster_path": "/ml0AsVB0uGbfI5wmCMsgjRaK9kz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 6
+}

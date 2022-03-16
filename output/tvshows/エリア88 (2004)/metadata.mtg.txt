@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/bKVBvSyvLNoQRePgnKIVmFDhF12.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 34823,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-03-26",
+    "last_episode_to_air": {
+        "air_date": "2004-03-26",
+        "episode_number": 12,
+        "id": 793118,
+        "name": "Lock On - Wings of the Wind",
+        "overview": "Because of expenses related to his crash, Shin can't buy his freedom. Shinjou is expelled from the Area. Shin finds out Kanzaki and Ryoko are getting married, so he buys a new plane and attempts to desert.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Area 88",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エリア88",
+    "overview": "The adventures of a young pilot in a war torn country. Shin Kazama was duped into singing a three-year contract at Area 88, a secluded mercenary air force base. Determined to earn $1.5 million to buy his way out of the obligation and return home, killing becomes second nature to Shin as he quickly rises to the top rank at Area 88. He begins to question whether he is still fighting for survival, or like his fellow mercenaries, for the sheer excitement and camaraderie of battle.",
+    "popularity": 4.965,
+    "poster_path": "/3p4mr3LiiYUhMhfgljZZcQaW8LQ.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-01-09",
+            "episode_count": 12,
+            "id": 45614,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1
+}

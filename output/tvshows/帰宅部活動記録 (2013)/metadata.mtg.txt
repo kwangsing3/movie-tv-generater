@@ -1,0 +1,133 @@
+{
+    "adult": false,
+    "backdrop_path": "/8s5VjPODuoqatCnclMROBCAHbTg.jpg",
+    "created_by": [
+        {
+            "id": 1376333,
+            "credit_id": "54a62133c3a3684d8f008fcc",
+            "name": "Hikaru Sato",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 54950,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-09-27",
+    "last_episode_to_air": {
+        "air_date": "2013-09-27",
+        "episode_number": 12,
+        "id": 927308,
+        "name": "Record 37 - 57",
+        "overview": "Misreading / What's Tap-oom? / I Hate Bugs / Conserving Water / Antonyms / Debut!! Aikarin / Aikarin Strikes Back / Complacency / The Perfect Equal / Animal Sounds / Map / Taste of the Commoners / Heroic Tale / What if the Person Inside the Four Bear Kings / A Song That's Not Even Vaguely Remembered / You Fed the Cute Girls Too Much / The \"How to Draw\" Song / Cute / The \"How to Draw Sakura-chan\" Song / The Retorters' Pit / Important Announcement",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mBDiplOT1rPkxtLcCZXC7uO36Pc.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Chronicles of the Going Home Club",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "帰宅部活動記録",
+    "overview": "The story follows a group of high school girls who are in the 'Going-Home Club'. Instead of doing regular club activities, the 'Going-Home Club' is dedicated to having as much fun as possible, by doing such things as playing video games or even simply feeding pigeons in the park.",
+    "popularity": 3.23,
+    "poster_path": "/rxLnba90CV8nwh9sXQaWlpzL6Xn.jpg",
+    "production_companies": [
+        {
+            "id": 35911,
+            "logo_path": null,
+            "name": "Nomad",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-07-05",
+            "episode_count": 12,
+            "id": 56742,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/i2asq3YOwjyT4hh7fixqOEkW4cn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

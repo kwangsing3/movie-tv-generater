@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/pjXffujvrhSYvoZcdV7RbeklxwL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2016-08-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://magus-bride.jp/",
+    "id": 67800,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-08-19",
+    "last_episode_to_air": {
+        "air_date": "2017-08-19",
+        "episode_number": 3,
+        "id": 1364756,
+        "name": "Those Awaiting a Star (3)",
+        "overview": "Chise continues her story. When Chise left the cottage, she saw Miura's spirit who told her about Niikura Mayumi, a young woman whom he was attracted to, but their relationship could not progress because of their different positions.  Back in the present, Chise finds Niikura Mayumi who is now an old woman in hospital, and gives her the book for which she is very grateful.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/Ar2KpG4M7uSQWvrM2KDjygJsi8d.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Ancient Magus' Bride: Those Awaiting a Star",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法使いの嫁 星待つひと",
+    "overview": "A prequel to the manga The Ancient Magus' Bride, this movie tells the story of how the dispossessed 15 year old girl Chise Hatori is bought by a monstrous sorcerer named Elias. However, things are not as dire as they seem. Elias informs Chise that she has a rare magical talent, and that he will therefor take her on as his apprentice... and in the future, as his bride.",
+    "popularity": 8.416,
+    "poster_path": "/p97sk6cMD9yfzBz6bdxsO4ZuIQw.jpg",
+    "production_companies": [
+        {
+            "id": 31058,
+            "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+            "name": "Wit Studio",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21346,
+            "logo_path": "/zFOXiwgrIakUsgWqbsDGgo6JEiw.png",
+            "name": "FlyingDog",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-08-13",
+            "episode_count": 3,
+            "id": 80093,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eqUKRXzoLvP5sYOyknAHa2dfeTq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 7.3,
+    "vote_count": 24
+}

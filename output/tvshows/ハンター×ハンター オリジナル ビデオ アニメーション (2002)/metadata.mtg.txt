@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/62oiad9XONjeRpoitW81lqOPoJj.jpg",
+    "created_by": [
+        {
+            "id": 555545,
+            "credit_id": "60958dbbb7abb5004258e598",
+            "name": "Yoshihiro Togashi",
+            "gender": 2,
+            "profile_path": "/ezo23XxtcICR5yRYhuq7gfKOTk3.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2002-01-17",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.nipponanimation.com/program/action/hunter-x-hunter-ova.html",
+    "id": 125074,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-04-17",
+    "last_episode_to_air": {
+        "air_date": "2002-04-17",
+        "episode_number": 8,
+        "id": 2935338,
+        "name": "Thoughtfulness x Hopelessness x The Spider`s Downfall",
+        "overview": "Since Chrollo's Nen ability was sealed, Hisoka looses interest in the battle with him and revealed that the tattoo of his spider status was fake. Pakunoda transfers her memories to six Phantom Troupe members and as a result dies for not obeying the chain's rules.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/w3TdFyeJKCsIh6hsajypjEBNxiP.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Hunter x Hunter: Original Video Animation",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハンター×ハンター オリジナル ビデオ アニメーション",
+    "overview": "After reuniting with Gon and his friends, Kurapika explained to them the risks he bears because of his abilities. Believing that his target of revenge is no longer alive and the search for his fallen comrade's eyes could truly begin, Kurapika soon after receives a message informing him that all the Spiders still lived. After much discussion between his friends, Gon, Kurapika and company decided to hunt after the one Spider member who's ability could ultimately result in Kurapika's defeat and death",
+    "popularity": 9.786,
+    "poster_path": "/4y9knvT7PtOEol1OPtqEAgjngAx.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-01-17",
+            "episode_count": 8,
+            "id": 194015,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.9,
+    "vote_count": 25
+}

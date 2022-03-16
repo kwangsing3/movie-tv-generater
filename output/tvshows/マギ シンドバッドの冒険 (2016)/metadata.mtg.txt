@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/kLx1IuDOeAK6MhNAD7lUPdkhw2G.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-04-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.project-magi.com/sinbad/",
+    "id": 66870,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-07-02",
+    "last_episode_to_air": {
+        "air_date": "2016-07-02",
+        "episode_number": 13,
+        "id": 1201603,
+        "name": "Magi",
+        "overview": "Sinbad defeats the Queen with his superior usage of Djinn Equips. The Queen agrees to form an alliance and trading agreement with Sinbad. She also makes Sinbad realize there is much more to the world than just the Metal Vessels -- there are Magi as well. Sinbad sets forth on the next step of his journey!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/iGb1VwZOTwAg6WddnkKCRqNAPtb.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Magi: Adventure of Sinbad",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マギ シンドバッドの冒険",
+    "overview": "Thirty years before the events of Magi, a brave and  handsome young man named Sinbad set sail and started his adventure. The  future High King of Seven Seas gradually matured through various  encounters and farewells, taking him towards kingship step by step.",
+    "popularity": 18.819,
+    "poster_path": "/7yE2vCroqyu6uudSUdwWKGN1tO4.jpg",
+    "production_companies": [
+        {
+            "id": 59988,
+            "logo_path": null,
+            "name": "Lay-duce",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-16",
+            "episode_count": 13,
+            "id": 78000,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kpltIj9WRKt9STucieIi1KTDuGk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 97
+}

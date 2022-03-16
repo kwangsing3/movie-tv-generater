@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/ohS7woESHDOw58gXqSLJhKiHdHs.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2014-02-26",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 94927,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-25",
+    "last_episode_to_air": {
+        "air_date": "2014-06-25",
+        "episode_number": 2,
+        "id": 2651322,
+        "name": "Welcome to Our Dream!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Amazing Twins",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "絶滅危愚少女 Amazing Twins",
+    "overview": "Amane Todoroki is a young girl who is straightforward but also unthinking. She will try her very best in everything and say, \"I don't know how to answer you if you ask me whether this can be done. I just believe it can. If not, then nothing will get started!\" She easily gets stuck in her thinking, but she can also get easily moved at something small and start crying.",
+    "popularity": 3.132,
+    "poster_path": "/mFd24yUGBkLG9c8C0uv4tkqpH1C.jpg",
+    "production_companies": [
+        {
+            "id": 109576,
+            "logo_path": "/sOIxEPrn2MMo74YP03XlYh41v0V.png",
+            "name": "Encourage Films",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-02-26",
+            "episode_count": 2,
+            "id": 134793,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

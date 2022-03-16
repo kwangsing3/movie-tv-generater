@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": "/qRzl8DYICpUuZadfXTv116UHd84.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        90
+    ],
+    "first_air_date": "2014-09-20",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://w-witch.jp/sw_ova/",
+    "id": 67020,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-07-31",
+    "last_episode_to_air": {
+        "air_date": "2015-07-31",
+        "episode_number": 3,
+        "id": 1204316,
+        "name": "The Bridge of Arnhem",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tcrRkWoPKLi7ZZORiBaxawlvezL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Strike Witches: Operation Victory Arrow",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ストライクウィッチーズ Operation Victory Arrow",
+    "overview": "Operation Victory Arrow takes place in the time between the end of Operation Mars in the second season and the movie. Their are three 30-minute short stories that show the lives of some of the members who returned to their homes after season 2.",
+    "popularity": 1.059,
+    "poster_path": "/r5zb0jYAjcSNESIZ2olWwbKSIBk.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-09-20",
+            "episode_count": 3,
+            "id": 78316,
+            "name": "Season 1",
+            "overview": "Operation Victory Arrow is set in the  period between the end of Operation Mars in the second television series  and the 2012 Strike Witches movie. The three 30-minute short stories  depict the lives of the members who returned to their respective homes.",
+            "poster_path": "/5jnrvi47ytlo4PLJtSJigHVA5Ho.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

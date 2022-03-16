@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/62wRuujkJl95pggW6647DrMC6uE.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-07-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.bandaivisual.co.jp/popotan/",
+    "id": 35129,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-10-02",
+    "last_episode_to_air": {
+        "air_date": "2003-10-02",
+        "episode_number": 12,
+        "id": 797529,
+        "name": "Popotan",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Popotan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぽぽたん",
+    "overview": "Beautiful sisters Ai, Mai, Mii, their android maid Mea and slippery pet ferret Unagi make an amazing journey together through time and space without ever leaving their beloved mansion behind! Following the clues of the strange dandelion-like \"Popotan,\" the girls are theoretically seeking the person who has the answers to their most personal questions, but they seem to have more than enough time to take side trips, meet new friends, visit hot springs and occasionally operate the X-mas shop they keep in the house along the way!\n\nYet, the girls' ultimate destiny holds more than a few surprises of its own, and not every moment is filled with hilarity, as moving through time means having to leave friends behind as well.",
+    "popularity": 4.302,
+    "poster_path": "/jD0P5NmedXCT9mODoICKW32ugzu.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-07-17",
+            "episode_count": 12,
+            "id": 45884,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 3
+}

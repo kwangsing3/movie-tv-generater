@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/iLR6tKvMu67oSK0DIgDutkPBaiy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-07-08",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://asobiasobase.com",
+    "id": 80539,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-23",
+    "last_episode_to_air": {
+        "air_date": "2018-09-23",
+        "episode_number": 12,
+        "id": 1516913,
+        "name": "Daniel | Bra Meeting | Fairy Tale Battle Royale | Paper Wars",
+        "overview": "The trio is left to take care of a baby. The baby tries to take care of the trio. Hanako is struck down by the boob gods. Olivia takes Hanako and Kasumi to Fairy Tale Hell. They play a game that never ends. It just goes on and on, my friends.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/apLYCkuMUUG3qMgO49pvZF2b4xb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Asobi Asobase - workshop of fun -",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あそびあそばせ",
+    "overview": "During recess, Olivia, a foreign transfer student who doesn't know English, plays a game of \"look-the-other-way\" with Hanako Honda, a loud-mouthed airhead. Their rowdy behavior spurs the ire of Kasumi Nomura, a deadpan loner constantly teased by her older sister for her tendency to lose games. Not willing to compete, Kasumi declines Olivia's offer to join the fun, but eventually gets involved anyway and dispenses her own brand of mischief. Soon, a strange friendship blossoms between the peculiar trio, and they decide to form the \"Pastime Club,\" where they are free to resume their daily hijinks.\n\nWhether it be failing to learn English, trying desperately to become popular, or getting caught by teachers at the wrong time, school life will never be boring when these girls are up to their hilarious antics.",
+    "popularity": 30.97,
+    "poster_path": "/zWE3bnCILcRpfQCsxBkMsgcEjOE.jpg",
+    "production_companies": [
+        {
+            "id": 42811,
+            "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
+            "name": "Lerche",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-11-28",
+            "episode_count": 3,
+            "id": 113542,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/aXfGqb68bGjNACqyIer5NCucKGs.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-07-08",
+            "episode_count": 12,
+            "id": 105768,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zWE3bnCILcRpfQCsxBkMsgcEjOE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.9,
+    "vote_count": 97
+}

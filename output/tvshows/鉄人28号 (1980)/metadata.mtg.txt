@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/hWZmtqpuFWd8tmo0S9yv4sa3YSs.jpg",
+    "created_by": [
+        {
+            "id": 582431,
+            "credit_id": "5f9d9905028f140031d056a1",
+            "name": "Mitsuteru Yokoyama",
+            "gender": 2,
+            "profile_path": "/jrUA4NCmiBrIRd756yzsYGL5XXR.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1980-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 44461,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1981-09-25",
+    "last_episode_to_air": {
+        "air_date": "1981-09-25",
+        "episode_number": 51,
+        "id": 1423896,
+        "name": "The Sun That Never Shines",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3Mq3Ti9GxrMaNUlMROeYvlRNhtq.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "New Tetsujin-28",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "鉄人28号",
+    "overview": "Shotaro Kaneda is a young boy whose dead scientist father created the giant robot Tetsujin 28 after realizing the chances of attacks from outer galaxies. Shotaro has possession of the only controller, kept in an attached case, which enables him to have direct command of the all mighty Tetsujin 28. If the controller goes into the hands of the enemy, this could lead Tetsujin 28 to fight for villains who want to destroy The Earth. Whenever peace in this world is threaten, Shotaro together with his friends, Dr. Shikishima, Detective Otsuka, must unleash the power of our metallic super hero.",
+    "popularity": 12.655,
+    "poster_path": "/9iTxdm5XUZ346whDHQQD4O5MaRZ.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1980-10-03",
+            "episode_count": 51,
+            "id": 98444,
+            "name": "Season 1",
+            "overview": "Shotaro had become an Interpol agent, working with Branch Robo, the antirobot crime unit of that organization. He still employs Tetsujin.",
+            "poster_path": "/pXsWy3UYvkfN7i9vdwPtJt2x5RY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

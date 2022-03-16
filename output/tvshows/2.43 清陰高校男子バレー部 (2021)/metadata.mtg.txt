@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/7JYzurxoUeJ8Lh7l7tq2EBoQseV.jpg",
+    "created_by": [
+        {
+            "id": 1923284,
+            "credit_id": "6000fc067390c0003ef73cb3",
+            "name": "Yukako Kabei",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2021-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://243anime.com/",
+    "id": 105004,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-26",
+    "last_episode_to_air": {
+        "air_date": "2021-03-26",
+        "episode_number": 12,
+        "id": 2614542,
+        "name": "Runway",
+        "overview": "Seiin is going to head to the Spring Tournament, but what lies ahead for them beyond that?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kmkEfpQHfc4UeXPJrFmHILsf9Q4.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "2.43: Seiin High School Boys Volleyball Team",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "2.43 清陰高校男子バレー部",
+    "overview": "Kimichika Haijima was a strong junior high school volleyball team member. After getting into trouble with the team, he moved to his mother's hometown and reunites with his childhood friend, Yuni Kuroba. The two become an ace pair at volleyball, but in their last tournament, get into a big fight. Will they ever play volleyball together again?",
+    "popularity": 33.631,
+    "poster_path": "/utYAqKUQdUOVVQlM2FJBTWdONf9.jpg",
+    "production_companies": [
+        {
+            "id": 45188,
+            "logo_path": "/aPH68PzQDtz7QorAU369IlxwgnU.png",
+            "name": "David Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-08",
+            "episode_count": 12,
+            "id": 153964,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/t8sj7idnAbneqwJUuUueQFmR4Qm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 6
+}

@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/2YdtMNrgBNzAowkePoilGLrZxYN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 27213,
+    "imdb_id": "tt0106421",
+    "original_language": "ja",
+    "original_title": "ブラック・ジャック",
+    "overview": "Black Jack is a master surgeon who possesses impeccable skills, enabling him to perform operations that are impossible for even the finest surgeons. He now is faced with his most difficult task to date and must challenge the limits of medical science...before it's too late!",
+    "popularity": 3.656,
+    "poster_path": "/cdttZmhBCI4gqho4tjXEzygXk6e.jpg",
+    "production_companies": [
+        {
+            "id": 4640,
+            "logo_path": null,
+            "name": "Akita Publishing",
+            "origin_country": ""
+        },
+        {
+            "id": 54028,
+            "logo_path": "/uIzflxmFCyHNlu1nPDuCp3vmyTA.png",
+            "name": "Akita Shoten",
+            "origin_country": "JP"
+        },
+        {
+            "id": 192,
+            "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+            "name": "Shochiku",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1996-11-29",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Black Jack: The Movie",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 27
+}

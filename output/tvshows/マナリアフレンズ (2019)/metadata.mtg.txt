@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/9wYNwSWofFQ5UtFvL7koDgETugX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        14
+    ],
+    "first_air_date": "2019-01-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://manaria.jp",
+    "id": 84869,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-25",
+    "last_episode_to_air": {
+        "air_date": "2019-03-25",
+        "episode_number": 10,
+        "id": 1660211,
+        "name": "The Pair's Promise",
+        "overview": "It’s the end of the school term, and everyone is heading home. Parting is such sweet sorrow — especially for Grea and Anne.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jYyp6T6EkspDk4EMcaSwYIWkfQL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mysteria Friends",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マナリアフレンズ",
+    "overview": "Anne, the honor student princess, and Grea, a princess born from a dragon and a human are students at the Mysteria Academy, a prestigious magic school that teaches magic without discrimination to the three factions (men, gods, demons), who usually are engaged in battle with each other.",
+    "popularity": 15.761,
+    "poster_path": "/nmiwfWF2Vc5ALcibb7G09VIBe8d.jpg",
+    "production_companies": [
+        {
+            "id": 78802,
+            "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+            "name": "Studio Hibari",
+            "origin_country": "JP"
+        },
+        {
+            "id": 39181,
+            "logo_path": "/3jDDMqYfDO8r30PiXplFoDu1ORi.png",
+            "name": "Cygames Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-21",
+            "episode_count": 10,
+            "id": 114204,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lgFG4KKIdnhIvej3zUrvwnwH3Ex.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 10
+}

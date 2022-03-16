@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/rPaTUktWhUG6MaraQL7rAkWYofL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://aikatsu.net",
+    "id": 107315,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-27",
+    "last_episode_to_air": {
+        "air_date": "2021-06-27",
+        "episode_number": 25,
+        "id": 2900878,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xgD5MG5DBshrYbzfWJtLkAkYcYd.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Aikatsu Planet!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイカツプラネット！",
+    "overview": "Its story is set in Aikatsu Planet, a world where everyone can become cute idols using an avatar. While spending school life, the main characters are aiming to become top idols. Everyday parts such as the main character's school life will be filmed in live-action, and the Aikatsu Planet! world will be drawn in anime and 3DCG (like the previous series). The live-action part's cast members will form a unit \"STARRY PLANET*\" and perform as idols at events and on YouTube. A new Data Carddass game linked to the TV series, \"Data Carddass Aikatsu Planet!\" is also scheduled to begin its service this winter.",
+    "popularity": 8.931,
+    "poster_path": "/sqV6odZ8PRnxPBLCaiIceghUp6q.jpg",
+    "production_companies": [
+        {
+            "id": 121510,
+            "logo_path": null,
+            "name": "BN Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 1780,
+            "logo_path": "/2KJ1cSBOGABQotDWSRPNY4C9amg.png",
+            "name": "Tohokushinsha Film Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-10",
+            "episode_count": 25,
+            "id": 158697,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sqV6odZ8PRnxPBLCaiIceghUp6q.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

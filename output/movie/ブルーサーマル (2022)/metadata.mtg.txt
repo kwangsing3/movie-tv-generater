@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/nlTqPDbkfbWbqmLAsUPniKerUXW.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://blue-thermal.jp",
+    "id": 865767,
+    "imdb_id": "tt15304756",
+    "original_language": "ja",
+    "original_title": "ブルーサーマル",
+    "overview": "",
+    "popularity": 3.616,
+    "poster_path": "/33qpY87zNjvjxo6CdSC19aMu9u6.jpg",
+    "production_companies": [
+        {
+            "id": 20868,
+            "logo_path": null,
+            "name": "Telecom Animation Film",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-03-04",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Blue Thermal",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

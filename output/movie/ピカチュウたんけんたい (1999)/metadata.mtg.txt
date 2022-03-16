@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/fd2Cs6nwDXwCAORYOWnGDm039x9.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 36756,
+    "imdb_id": "tt0210235",
+    "original_language": "ja",
+    "original_title": "ピカチュウたんけんたい",
+    "overview": "One day, Pikachu and its friends are walking along when they suddenly fall through a Diglett hole and into Pokémon Valley, a secret location that no one knows about. Pikachu and its buddies tell the Pokémon that they could use some help looking for Togepi, who fell through the hole first. The group sets off and eventually finds Togepi in the Exeggcute nest—but one of the Exeggcute is missing. That leads the group on another hunt; this time, though, Pikachu and its friends come back to the nest empty-handed. That’s when a storm begins to brew, filling Pokémon valley with roaring thunder and gusts of wind that almost blow the friends—and the Exeggcute nest—away! Are the friends going to be able to keep the nest safe and reunite the Exeggcute?",
+    "popularity": 9.09,
+    "poster_path": "/9a8JRJZpL05vdaALhzE21e79Ccb.jpg",
+    "production_companies": [
+        {
+            "id": 5261,
+            "logo_path": null,
+            "name": "Shogakukan Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12288,
+            "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+            "name": "Nintendo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12653,
+            "logo_path": null,
+            "name": "Pikachu Project",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1999-07-17",
+    "revenue": 0,
+    "runtime": 21,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pokemon: Pikachu's Rescue Adventure",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 23
+}

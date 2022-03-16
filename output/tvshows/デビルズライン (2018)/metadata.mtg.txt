@@ -1,0 +1,140 @@
+{
+    "adult": false,
+    "backdrop_path": "/5DrgqIPVeXAUjBgPe10DGuwohZP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://devilsline.jp/",
+    "id": 78462,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-23",
+    "last_episode_to_air": {
+        "air_date": "2018-06-23",
+        "episode_number": 12,
+        "id": 1510526,
+        "name": "Devil's Line",
+        "overview": "Tsukasa is willing to risk everything to rescue Anzai. Anzai learns about his past as he recovers from his injuries.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cQdOCfGvcXO15FZTaFiRNmkdNq2.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Devils' Line",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デビルズライン",
+    "overview": "Tsukasa, a college student, is rescued from an attack by a devil, one of many vampires that can blend in among the human population. Anzai, her savior, is a half-devil who exploits his supernatural gifts as a member of a shadowy police task force that specializes in devil-related crime in Tokyo. As Anzai continues to keep guard over Tsukasa, the two quickly forge a tentative bond—one that Anzai fears will test his iron-clad rule of never drinking human blood...",
+    "popularity": 16.694,
+    "poster_path": "/2tz6rfssj7rGmveOaPshPLd20VS.jpg",
+    "production_companies": [
+        {
+            "id": 92088,
+            "logo_path": null,
+            "name": "Platinum Vision",
+            "origin_country": "JP"
+        },
+        {
+            "id": 23399,
+            "logo_path": "/tXMheRYcKXCK1a90NRESqO1ibhQ.png",
+            "name": "King Records",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-08-23",
+            "episode_count": 1,
+            "id": 112438,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/1dovEgaTt4CCXJOOOa9Kqx8hD2j.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-04-07",
+            "episode_count": 12,
+            "id": 101720,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eHusR1tIFSQwx0rGRVvpHm8s56e.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 130
+}

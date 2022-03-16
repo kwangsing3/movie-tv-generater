@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/dRop2xNwtHKsKmUAXIzi6h49B3c.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2022-01-12",
+    "genres": [
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://s.mxtv.jp/anime/baby-hamitang",
+    "id": 158908,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-02-16",
+    "last_episode_to_air": {
+        "air_date": "2022-02-16",
+        "episode_number": 6,
+        "id": 3536338,
+        "name": "What's Peace?",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nUwViLfMbtyeh6a553GUpTKRaMT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "BABY-HAMITANG",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ベイビーハミタン",
+    "overview": "The episodes will present topics from the list of 17 Sustainable Development Goals (SDG) such as global warming, food waste, and gender equality, in an easy-to-understand manner. Baby Hamitang will then solve the issues.",
+    "popularity": 1.311,
+    "poster_path": "/sh8mnzLoi4KLIQBjZkYwP16jGHh.jpg",
+    "production_companies": [
+        {
+            "id": 12386,
+            "logo_path": null,
+            "name": "Robot Communications",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-12",
+            "episode_count": 6,
+            "id": 246410,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sh8mnzLoi4KLIQBjZkYwP16jGHh.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

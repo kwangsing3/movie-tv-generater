@@ -1,0 +1,72 @@
+{
+    "adult": false,
+    "backdrop_path": "/xvuD9B7dyA7foqSxEe70kOemYx1.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://penguindrum-movie.jp/",
+    "id": 813707,
+    "imdb_id": "tt14702778",
+    "original_language": "ja",
+    "original_title": "劇場版 RE:cycle of the PENGUINDRUM ［前編］君の列車は生存戦略",
+    "overview": "\"Mawaru Penguindrum\" 10th anniversary project. A compilation of the series, including new scenes.",
+    "popularity": 1.146,
+    "poster_path": "/qy1sMqmXpb4YTQYb9TRFmuOoxmE.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        },
+        {
+            "id": 128785,
+            "logo_path": "/tmlV71dSJ2GIGj4VhVT0DzYDac7.png",
+            "name": "Lapin Track",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-04-29",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "RE:cycle of the PENGUINDRUM Part 1: Your Train Is the Survival Strategy",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

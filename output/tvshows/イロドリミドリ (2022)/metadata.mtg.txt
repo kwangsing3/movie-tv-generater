@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/nCUmfAEzINEtf8SEM5lpxd8S7aw.jpg",
+    "created_by": [
+        {
+            "id": 2382442,
+            "credit_id": "6185d26cbf09d1008d7dbc3d",
+            "name": "Hisasi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2022-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://chunithm.sega.jp/irodorimidori/anime/",
+    "id": 137643,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-02-23",
+    "last_episode_to_air": {
+        "air_date": "2022-02-23",
+        "episode_number": 8,
+        "id": 3441391,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5SwSUADNjkJrClmyrJkZ8tE8e2m.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Irodorimidori",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "イロドリミドリ",
+    "overview": "Maigahara Music College Affiliate School Maigahara Senior High (abbreviated as MaiMai). At this academy that gathers the most promising musical talents, there's a rumor circulating among students. \"If you give an amazing performance at the school festival, you get special extra credit (or so they say).\" Serina's grades are not very good, so she immediately believes the rumor and decides to form a band!\n\nRehearsals, sleepovers... even cosplay? Everything they can imagine will become part of their colorful daily life. But will they really be able to give an amazing performance and get the rumored credit!? The curtain rises on the story of the daily, funny lives of these girls!",
+    "popularity": 10.608,
+    "poster_path": "/tfFP39HB9T7RvSiGIdLFYIIVcwe.jpg",
+    "production_companies": [
+        {
+            "id": 166077,
+            "logo_path": null,
+            "name": "Akatsuki",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-05",
+            "episode_count": 8,
+            "id": 217796,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tfFP39HB9T7RvSiGIdLFYIIVcwe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

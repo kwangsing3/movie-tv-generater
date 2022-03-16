@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/Au2YWLSMfgLtdHHtDN8dpOM0yP2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-07-05",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://jyoshimuda.com/",
+    "id": 88062,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-09-20",
+    "last_episode_to_air": {
+        "air_date": "2019-09-20",
+        "episode_number": 12,
+        "id": 1822043,
+        "name": "Friends",
+        "overview": "Baka's grades are REALLY BAD. She might not get to advance a grade if she fails a single test. Is studying even worth it? Eh, probably not. Time to run away to a pig farm…",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4FIgI3xkRcWMuXy1ePtASagKv1D.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Wasteful Days of High School Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "女子高生の無駄づかい",
+    "overview": "One day out of boredom, Tanaka decided to give her classmates nicknames based on their quirks. Her friend Sakuchi became \"Ota\" for her nerdy interests, and her other friend Saginomiya became \"Robo\" because of her expressionless personality. In retaliation, her friends decided to name Tanaka \"Baka.\" These are the ridiculous days of three high school friends claiming (or not) the height of their youth.",
+    "popularity": 13.054,
+    "poster_path": "/qdtjnnXXeQXKipJTccu7w8Nua1w.jpg",
+    "production_companies": [
+        {
+            "id": 58035,
+            "logo_path": "/rtFGLtHkjVqq042Ky5gbOEnXFlN.png",
+            "name": "Passione",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-07-05",
+            "episode_count": 12,
+            "id": 121395,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1hgXIKAoUjkT5v6Rklx5GNIIvh9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 10
+}

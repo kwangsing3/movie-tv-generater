@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/hD9npV3TY5KgvPlFzPCvlA30XZa.jpg",
+    "created_by": [
+        {
+            "id": 1123874,
+            "credit_id": "5c731d230e0a262c1f7f2a40",
+            "name": "Hideki Kakinuma",
+            "gender": 2,
+            "profile_path": "/o47ewgHXooQPAP9HRrzZBSsCDKQ.jpg"
+        }
+    ],
+    "episode_run_time": [
+        52
+    ],
+    "first_air_date": "1991-08-25",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 80239,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1992-04-25",
+    "last_episode_to_air": {
+        "air_date": "1992-04-25",
+        "episode_number": 3,
+        "id": 1507027,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8mCuIfTmCZcjabskuHDPR4ehOTi.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Detonator Orgun",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デトネイター・オーガン",
+    "overview": "Fleeing from his own race, Orgun—an alien being with superhuman abilities and unearthly weapons—travels to Earth to find an answer to his origin. There, he bonds with a young man named Tomoru to defend Earth against the Evoluders, who seek nothing but destruction of other civilizations.",
+    "popularity": 3.866,
+    "poster_path": "/ewwTQqCVhpNpH3qBaTs9Sh1MfGY.jpg",
+    "production_companies": [
+        {
+            "id": 10135,
+            "logo_path": null,
+            "name": "Dart Enterprises",
+            "origin_country": ""
+        },
+        {
+            "id": 84078,
+            "logo_path": null,
+            "name": "Polydor Records",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1991-08-25",
+            "episode_count": 3,
+            "id": 105243,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 9,
+    "vote_count": 1
+}

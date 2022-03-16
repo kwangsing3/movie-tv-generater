@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 570259,
+            "credit_id": "5837d837925141319801df19",
+            "name": "Itsuro Kawasaki",
+            "gender": 2,
+            "profile_path": "/xJmtsKNL4QhelmEif9Jn0yBLWQj.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2003-01-09",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 42787,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-03-27",
+    "last_episode_to_air": {
+        "air_date": "2003-03-27",
+        "episode_number": 12,
+        "id": 2970504,
+        "name": "Two of us",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Licensed by Royalty",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エルアール ライセンスド バイ ロイアル",
+    "overview": "Jack Hofner and Rowe Rikenbacker are Cloud 7's L/R. Their job is to protect the Royal family of Ishtar, their treasures, and their reputation. Jack & Rowe face one of the toughest missions of their career when they are assigned to protect Noelle, a candidate for the 15 Year Princess contest. It starts out simple, but soon all of Cloud 7 are involved in a web of intrigue that includes bombings, corruption and murder.",
+    "popularity": 2.783,
+    "poster_path": "/tSHJyH0zgvhQcHni9nKhGnMWpIo.jpg",
+    "production_companies": [
+        {
+            "id": 23917,
+            "logo_path": null,
+            "name": "TNK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-04-25",
+            "episode_count": 1,
+            "id": 52358,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-01-09",
+            "episode_count": 12,
+            "id": 52357,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

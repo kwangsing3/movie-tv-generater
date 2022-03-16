@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/3ZBg54UPaa2UoCKDRBn8FfxZO9r.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 111608,
+    "imdb_id": "tt2087896",
+    "original_language": "ja",
+    "original_title": "ノラゲキ！",
+    "overview": "The story is set in a strangely streamlined isolated prison with unusual inmates — a seemingly honest and good young man, a sensual woman, a former military middle-aged man, a young female otaku, a mysterious old man, and a cat. One day, a sudden power outage opens the locks to all the cells, and everyone is set free. However, all of the guards are missing, and the prisoners cannot find any exits. When the old man performs a bizarre act, an unusual phenomenon befalls the prison and the prisoners within. (Source: AnimeNewsNetwork)",
+    "popularity": 1.474,
+    "poster_path": "/4nde0bsrTiShcTz1QZYbA4WCVEP.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2011-04-07",
+    "revenue": 0,
+    "runtime": 24,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Five Numbers!",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 3
+}

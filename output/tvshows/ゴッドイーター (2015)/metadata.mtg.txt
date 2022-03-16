@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/ptiSlEK0UhqUGQxeOlS3rn5FBSn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://anime.godeater.jp/en/",
+    "id": 62773,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-03-26",
+    "last_episode_to_air": {
+        "air_date": "2016-03-26",
+        "episode_number": 13,
+        "id": 1179104,
+        "name": "LOTUS",
+        "overview": "Leaving Lindow to deal with Deus Pita, Lenka and the others rush to Asyl to rescue the people there. But Pita catches up to them, with Lindow's bracelet hanging from its mouth... The 1st Unit is in shock, but they have no time to waste. Suddenly, Pita threatens the safety of Asyl. Lenka beseeches the members of the 1st Unit to remember Lindow's wish and his orders, and inspires the team with his words, \"Believe in your friends! Destroy it!\"",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mzdf8BxI0wsTxwzVx2C0CMj8Tm2.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "God Eater",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゴッドイーター",
+    "overview": "In the early 2050s, unknown life forms called “Oracle cells” begin their uncontrolled consumption of all life on Earth. Their ravenous appetite and remarkable adaptability earn them first dread, then awe, and finally the name “aragami”. In the face of an enemy completely immune to conventional weapons, urban civilization collapses, and each day humanity is driven further and further toward extinction. One single ray of hope remains for humanity. Following the development of “God Arcs”—living weapons which incorporate Oracle cells—their wielders are organized into an elite force.",
+    "popularity": 18.147,
+    "poster_path": "/5H2XJUqkuLdhoYAxUOpa3NYLo8T.jpg",
+    "production_companies": [
+        {
+            "id": 5887,
+            "logo_path": "/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png",
+            "name": "ufotable",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-07-05",
+            "episode_count": 4,
+            "id": 142200,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/p8IpM9kO7zVqVrNQ3ay9Jy3yK5W.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-07-12",
+            "episode_count": 13,
+            "id": 67067,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hBEui0fHkgLxr4EGZcMaqTDtZIH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 82
+}

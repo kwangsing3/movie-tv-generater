@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/pewUZkIqYqTRNn9wHCA47CDSkyc.jpg",
+    "created_by": [
+        {
+            "id": 1253059,
+            "credit_id": "5ec8f176a35c8e0020e22447",
+            "name": "Kentaro Yabuki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-10-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/blackcat/",
+    "id": 34065,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-31",
+    "last_episode_to_air": {
+        "air_date": "2006-03-31",
+        "episode_number": 23,
+        "id": 781204,
+        "name": "The Carefree Cat",
+        "overview": "As Chronos and remaining members of the Apostles of the Stars fight the monsters outside Eden, Train and Sven go inside to rescue Eve, determined to save her even if it would cost them their lives. While Sven tries to get close to Eve, Train has to face off against his own inner demons first.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cbGVhG4Y7tsY5uTOEfZgaWp0KRq.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Black Cat",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 23,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブラックキャット",
+    "overview": "The bounty hunter Sven is barely scraping by when he crosses paths with the Black Cat (a.k.a. Train Heartnet) and the young bio-weapon Eve. The three new companions will need more than luck to survive when they find themselves sought by both the Chronos Numbers and a Taoist revolutionary group called the Apostles of the Star.",
+    "popularity": 15.494,
+    "poster_path": "/1GpXrmDmQmRrsXLbMY8y0YaxHLL.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-07-26",
+            "episode_count": 1,
+            "id": 107421,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-10-07",
+            "episode_count": 23,
+            "id": 44856,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1WYk7BrqqyjwOgsShvo1angq6VQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 11
+}

@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/aDCBY105u0uB277xSE32Luxz36I.jpg",
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "5934ae54c3a36859b30285d7",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1975-10-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://lineup.toei-anim.co.jp/ja/tv/grendaizer/",
+    "id": 46252,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1977-02-27",
+    "last_episode_to_air": {
+        "air_date": "1977-02-27",
+        "episode_number": 74,
+        "id": 907902,
+        "name": "This Is Not Goodbye",
+        "overview": "Duke finally destroys King Vega but he and Maria must return to planet Fleed.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/b3JCf2Rp6LrAPSeh9CCPT4IDV6u.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "UFO Robot Grendizer",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 74,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ＵＦＯロボグレンダイザー",
+    "overview": "The story revolves around Duke Fleed who is a survivor of the Vega Star, raised by Dr. Umon as his adoptive son, and known as Daisuke Umon on Earth. Years after his arrival, he's faced with the threat of King Vega and his army, who want to conquer the Earth. With his friends Koji and Hikaru (and later his kid sister Maria Grace), Duke decides to fight back using his best weapon, the almighty Grendizer.",
+    "popularity": 30.787,
+    "poster_path": "/6GWA8o7UGohFroJcEG7f2ZhYqHN.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12268,
+            "logo_path": null,
+            "name": "Dynamic Planning",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4720,
+            "logo_path": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+            "name": "Asatsu-DK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1975-07-26",
+            "episode_count": 9,
+            "id": 54561,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/jiV4sIjNVn0qON8xfdU8ZWYJJSZ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1975-10-05",
+            "episode_count": 74,
+            "id": 54562,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7v3XbYF8weG9OJ2G5s1xQeWig8L.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 34
+}

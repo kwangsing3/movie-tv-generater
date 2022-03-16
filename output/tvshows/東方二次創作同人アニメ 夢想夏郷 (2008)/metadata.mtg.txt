@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2008-11-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://maikaze.com/musoukakyo",
+    "id": 73361,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-10-24",
+    "last_episode_to_air": {
+        "air_date": "2021-10-24",
+        "episode_number": 4,
+        "id": 3449069,
+        "name": "Beginning of Summer",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "東方二次創作同人アニメ 夢想夏郷",
+    "overview": "Welcome to the fascinating world of Gensokyo, in which youkai, animals and some humans live, completely separated from our world by a magical barrier. The only gateway between the two worlds is the Hakurei shrine. Reimu Hakurei is the maiden working at said shrine. Whenever problems of supernatural causes occur, Reimu goes out with her friends to investigate, eliminate the cause and hopefully restore Gensokyo to its equilibrium.",
+    "popularity": 1.333,
+    "poster_path": "/ggieuy9kdXskNSKmysnsPP7uO1r.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-05-11",
+            "episode_count": 1,
+            "id": 240110,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/o6yW0pnGmVKM0Z4KWMBgygtmAlC.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-11-29",
+            "episode_count": 4,
+            "id": 91553,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

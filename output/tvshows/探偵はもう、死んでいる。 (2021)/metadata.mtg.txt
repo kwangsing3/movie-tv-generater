@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        47,
+        24
+    ],
+    "first_air_date": "2021-07-04",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://tanmoshi-anime.jp",
+    "id": 117061,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-19",
+    "last_episode_to_air": {
+        "air_date": "2021-09-19",
+        "episode_number": 12,
+        "id": 3034546,
+        "name": "Those Dizzying Three Years I Spent with You",
+        "overview": "Siesta, returned in spirit, partners with Kimizuka in a desperate battle against an ever-changing and resilient foe. In the aftermath of this battle, the survivors carry lingering questions and doubts, and must try to find closure amongst themselves.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ylhT0Q7wjlnmNHTOVHOBA23AGXA.jpg",
+        "vote_average": 7.7,
+        "vote_count": 3
+    },
+    "name": "The Detective Is Already Dead",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "探偵はもう、死んでいる。",
+    "overview": "Kimizuka Kimihiko is a crisis-magnet. So it is no surprise when his rather mundane flight suddenly enters a state of emergency with a dire need of a detective onboard. Unfortunately, his attempt at avoiding trouble is foiled by a beautiful girl with silver hair who goes by the codename Siesta. Declaring herself a detective, she unceremoniously drags Kimizuka into the case as her assistant. That incident spelled the beginning of an adventure around the globe that went beyond his wildest imagination. Putting their lives on the line, the two took down criminal organizations, prevented disasters, and saved thousands. But the curtain closed to their epic journey with Siesta's untimely death three years later. Resolving to live an ordinary high school life this time, Kimizuka spends a year maintaining a low profile. However, as fate would have it, a girl with an uncanny resemblance to Siesta comes crashing into his life, threatening to throw his peaceful days into disarray.",
+    "popularity": 25.453,
+    "poster_path": "/8gCOlj0bXa2cQnXSl4wRX5tVIA0.jpg",
+    "production_companies": [
+        {
+            "id": 121246,
+            "logo_path": "/jt7YfHwB5k0bGVMsSy1WwJhI2hM.png",
+            "name": "ENGI",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-04",
+            "episode_count": 12,
+            "id": 177393,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8gCOlj0bXa2cQnXSl4wRX5tVIA0.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 23
+}

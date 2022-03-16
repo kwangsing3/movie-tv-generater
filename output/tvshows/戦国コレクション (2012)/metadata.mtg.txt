@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/kcVKxfgjBENnmQBtvekDfYjpm3P.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-04-06",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/sencolle/",
+    "id": 45179,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-28",
+    "last_episode_to_air": {
+        "air_date": "2012-09-28",
+        "episode_number": 26,
+        "id": 897140,
+        "name": "Sengoku Collection",
+        "overview": "Nobunaga receives a letter from Ageha and deduces that it is a fake set up by Yoshimoto to lure her out. Nobunaga soon engages in battle with Yoshimoto, who uses the river to her advantage, and is also confronted by Soun. As Nobunaga is outnumbered, Mitsuhide arrives to even up the odds and the two team up to defeat Yoshimoto and Soun. As Nobunaga claims Yoshimoto, Soun and Sessai's secret treasures, Mitsuhide steals them from her, stating she plans to collect the other remaining secret treasures to prevent Nobunaga from leaving her alone. As Nobunaga happily gives chase after Mitsuhide, Soun reunites with Jun whilst the other generals have fun enjoying their new lives.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sengoku Collection",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "戦国コレクション",
+    "overview": "Sengoku Collection revolves around many samurai who are accidentally removed from a parallel universe inhabited by well-known historic characters. Unlike the historical war period known to us, all inhabitants in this unique world look like high school girls. Coming from the medieval era and finding themselves totally amazed by everything they encounter in modern day Tokyo, the girls become best friends through their adventures.",
+    "popularity": 1.364,
+    "poster_path": "/frNYLbXfhBUr8lliTFh164tlS8K.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-06",
+            "episode_count": 26,
+            "id": 53770,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kaBUQpww7qIxLF0JxrWkUk5Iihf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1
+}

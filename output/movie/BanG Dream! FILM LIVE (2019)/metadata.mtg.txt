@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/jRPHqlX3R416dadVHS5pH9Jnhuf.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "https://anime.bang-dream.com/filmlive/",
+    "id": 613199,
+    "imdb_id": "tt11056458",
+    "original_language": "ja",
+    "original_title": "BanG Dream! FILM LIVE",
+    "overview": "Five bands all have their sights set on stardom as they take the stage in the first theatrical film of the Bang Dream series.",
+    "popularity": 2.513,
+    "poster_path": "/1dhZvH7jBy1qGZx0ZXS82wfeceK.jpg",
+    "production_companies": [
+        {
+            "id": 42196,
+            "logo_path": "/nQNmHvcmaT0zk1Rf0TYtLYO5MpI.png",
+            "name": "Bushiroad",
+            "origin_country": "JP"
+        },
+        {
+            "id": 43363,
+            "logo_path": null,
+            "name": "Sanzigen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2019-09-13",
+    "revenue": 0,
+    "runtime": 72,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "BanG Dream! FILM LIVE",
+    "video": false,
+    "vote_average": 3.5,
+    "vote_count": 4
+}

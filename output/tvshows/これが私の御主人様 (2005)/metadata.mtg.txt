@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/pbpYvpDG8EyEgPqlyt7EuhV7BAA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 24411,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-06-30",
+    "last_episode_to_air": {
+        "air_date": "2005-06-30",
+        "episode_number": 12,
+        "id": 641482,
+        "name": "He is My Master!!",
+        "overview": "The final showdown between Takami and Izumi!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9EHRW1CNiSnBU0MZAvPvCbc1kMi.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "He Is My Master",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "これが私の御主人様",
+    "overview": "A 14-year-old millionaire named Yoshitaka receives an enormous inheritance as a result of his parents’ death in an accident. Later, after firing the original maids, he needs to be looked after—so he decides to hire new live-in maids. Though he originally expects an elderly woman to take the job, two runaway girls, Izumi, 14, and Mitsuki, 13, end up accepting the job in exchange for a home and income. Another girl, Anna, later becomes a maid as well, and all three live in the mansion with Yoshitaka.",
+    "popularity": 5.324,
+    "poster_path": "/i1R4F4XOY8Tyu2r4kfzZXNSgRdR.jpg",
+    "production_companies": [
+        {
+            "id": 98179,
+            "logo_path": null,
+            "name": "Kazé Deutschland",
+            "origin_country": ""
+        },
+        {
+            "id": 3465,
+            "logo_path": "/x8my1WrmOQa8P68XrZPixPBnSkm.png",
+            "name": "ADV Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 33751,
+            "logo_path": "/2caA5Y2tdgi69L61uQnrpCIjwde.png",
+            "name": "Sentai Filmworks",
+            "origin_country": "US"
+        },
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-04-07",
+            "episode_count": 12,
+            "id": 34589,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hiqUjXRZEHENWOUf48eCLhTE9BV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

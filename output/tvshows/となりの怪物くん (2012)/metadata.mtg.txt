@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/zHQ2ntgjx2xHMkyXFgI1tjcoHST.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tk-anime.info/",
+    "id": 46041,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-12-25",
+    "last_episode_to_air": {
+        "air_date": "2012-12-25",
+        "episode_number": 13,
+        "id": 906353,
+        "name": "Spring Is Near",
+        "overview": "Many things were left unsaid in the passing year, but before anybody can say what they are feeling Haru has been visiting each of his friends looking for something.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/iS2ILV0lEbmcDjRN9UWSKi4TBL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "My Little Monster",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVQ",
+            "id": 822,
+            "logo_path": "/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVh",
+            "id": 938,
+            "logo_path": "/vEUZNYjuSn0iTQyZ3SLNfVgI9Z8.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "となりの怪物くん",
+    "overview": "Mizutani Shizuku finds peace in her studies.  Working hard to stay at the top of the class, alone but focused.  When she is tasked with delivering class materials to Yoshida Haru, her world starts to rapidly expand.  With some new friends and feelings, will she be able to stay focused on her studies?",
+    "popularity": 25.212,
+    "poster_path": "/qmGAYDNuENa94kGV56Oe0Kwm3dX.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-08-12",
+            "episode_count": 3,
+            "id": 54418,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/kdUAn6oegHWnOf7aixCvYxTuoRo.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-10-02",
+            "episode_count": 13,
+            "id": 54417,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lYwzeovL7Ae6vY67eldcL9JWn5Q.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 273
+}

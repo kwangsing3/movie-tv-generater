@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/jfO2pBpARfE7xjALilxUcIHcrcX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://bocchan-anime.com",
+    "id": 117992,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-19",
+    "last_episode_to_air": {
+        "air_date": "2021-09-19",
+        "episode_number": 12,
+        "id": 3012362,
+        "name": "Together with the Duke...",
+        "overview": "The Duke's mother summons him to the main residence and gives him an ultimatum. But the Duke has something to tell her as well…",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/iUraugIKx7j3tiR2mzxcCpPKK4W.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "The Duke of Death and His Maid",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "死神坊ちゃんと黒メイド",
+    "overview": "Due to a childhood curse, anything that the Duke touches will die - which makes his flirty maid’s behavior all the more shocking! Can the Duke and his companions break the curse, or is he doomed to a life where love is forever out of his reach?",
+    "popularity": 42.961,
+    "poster_path": "/l61yXOVHyGhhB8LIxwjawy5Zbxg.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-04",
+            "episode_count": 12,
+            "id": 179529,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/l61yXOVHyGhhB8LIxwjawy5Zbxg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 13
+}

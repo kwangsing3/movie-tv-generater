@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/rJH73mBI5s7HWVba2ZfHD1ZI3We.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2007-03-28",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://mv.avex.jp/murderprincess/index.html",
+    "id": 95039,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-08-29",
+    "last_episode_to_air": {
+        "air_date": "2007-08-29",
+        "episode_number": 6,
+        "id": 1971735,
+        "name": "Determination's End",
+        "overview": "Alita, Falis, and their cyborg comrades return to Forland Castle to stop Kaito from abusing the awesome power of Te Oria. In the midst of a bloody battle, the bounty hunter realizes that destroying such a power is not without sacrifice.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/izNvGgIrsFLXFaFwXReXKtgg0rj.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Murder Princess",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "MURDER PRINCESS",
+    "overview": "* Based on a manga by Inui Sekihiko, serialised in Dengeki Teioh.\n\nOn the 4th day of the Month of Jade, Cyndina Era 672, a coup d'état in Forland forces Princess Alita to flee her father's castle, when she encounters Falis, the strongest bounty hunter in history. It is rumoured that Falis killed a dragon and is accompanied by Dominikov.\n\nAn accident sends Alita and Falis falling off a cliff. In this near-death experience a light engulfs them, exchanging their souls. Falis, now in Alita's body, is asked to protect the country as \"princess\". And so Falis becomes the world's fiercest ruler, the Murder Princess.",
+    "popularity": 4.835,
+    "poster_path": "/naWuPWHyYBej13W9eljZ5QxdDMA.jpg",
+    "production_companies": [
+        {
+            "id": 4289,
+            "logo_path": null,
+            "name": "BeeTrain",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2788,
+            "logo_path": null,
+            "name": "Avex Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-03-28",
+            "episode_count": 6,
+            "id": 135020,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7bpul59ntK3jOx3O1P0nxzoaMvY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

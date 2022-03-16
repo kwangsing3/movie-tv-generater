@@ -1,0 +1,138 @@
+{
+    "adult": false,
+    "backdrop_path": "/iLYTu5wAuCyH2Gn6lFwWB7W48pB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://dq-dai.com/",
+    "id": 96884,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-05",
+    "last_episode_to_air": {
+        "air_date": "2022-03-05",
+        "episode_number": 72,
+        "id": 3526755,
+        "name": "THE LAST ATTACK",
+        "overview": "Hadlar rises again out of sheer force of will to face his true final battle. Dai accepts this challenge and chooses his Magic Sword. Though weaker than his Avan Strash Cross, Dai still has one ace up his sleeve...!? Their final attacks clash...!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xXDgnfhkSScMoiTsNRiGtNF245f.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dragon Quest: The Adventure of Dai",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVQ",
+            "id": 822,
+            "logo_path": "/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Setouchi",
+            "id": 2064,
+            "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Hokkaido",
+            "id": 3202,
+            "logo_path": "/g1jerEP7O2rIYd83AaLKXeZlbpI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 73,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラゴンクエスト ダイの大冒険",
+    "overview": "A long time ago, there was a valiant swordsman who came to be known simply as \"the hero.\" There was a demon who has caused people suffering. The hero and his companions arrived to challenge the demon to a battle and by combining their powers, the battle was brought swift conclusion. With no one around to cause trouble, the island became a quiet place where everyone could live together in peace. Several years later, the demon is revived. Our present-day protagonist, Dai, lives on a remote island in the southern seas and dreams of becoming a great hero. When he hears about the demon's revival, Dai and his friends take it upon themselves to stop him and the evil force that revived him. Along the way, Dai discovers the identity of \"the hero,\" the truth behind the evil force who revived the demon, and Dai's own hidden powers that surface in times of peril.",
+    "popularity": 84.21,
+    "poster_path": "/i28TVlLozR09hqkGsSlu5wa1X2J.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-06-25",
+            "episode_count": 1,
+            "id": 200359,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/vfjZd1geuSs8oLUequIpgpryiPs.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-10-02",
+            "episode_count": 73,
+            "id": 139139,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sW62IBQlPjfFTO7W2o3ROwHRtj9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 78
+}

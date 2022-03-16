@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/wx61HU6fCEgz33Rt7dzPGTmkraI.jpg",
+    "created_by": [
+        {
+            "id": 1607435,
+            "credit_id": "61d5ccef9defda0066630e0c",
+            "name": "Shinobu Otaka",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://orient-anime.jp/",
+    "id": 115911,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-10",
+    "last_episode_to_air": {
+        "air_date": "2022-03-10",
+        "episode_number": 10,
+        "id": 3416219,
+        "name": "The Goddess's Power",
+        "overview": "Musashi, Kojiro, and Tsugumi face off against Nanao and Shiro, and their only hope for victory might be the mysterious entity inside of Musashi.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5arLfYS6XrWqdkKtD3Hy2GeRHqr.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Orient",
+    "next_episode_to_air": {
+        "air_date": "2022-03-17",
+        "episode_number": 11,
+        "id": 3416220,
+        "name": "What's in a Katana",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fpxckwc8xy3pbItgey5IfM3FSbc.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "オリエント",
+    "overview": "During the Warring States era, the feuding generals were suddenly struck down one after another by the demonic Kishin. In the 150 years since, groups of individuals have continued to resist Kishin control. They are called Bushi bands. When they were young, Musashi and Kojiro would hear tales about the Bushi from Kojiro's father, and the two of them dream to form the strongest Bushi band. One day, as Musashi struggles with his choices, he witnesses humans being torn apart by oni. Forced to face the truth, Musashi rises up against the powerful oni to make his dream with Kojiro come true!",
+    "popularity": 105.591,
+    "poster_path": "/jE5cgpooUbp8XJK7tPlJxjz5kp5.jpg",
+    "production_companies": [
+        {
+            "id": 5451,
+            "logo_path": "/xeHQM5AsvHwo4Ublp4MetaEfsVf.png",
+            "name": "ACGT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-06",
+            "episode_count": 12,
+            "id": 174934,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jg8ZsGC56DslZyHs8SOuY7Bg1P7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 3
+}

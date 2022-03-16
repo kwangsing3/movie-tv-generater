@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/srNNP3nBFDLPLFAII4aOy1VaQUR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        13
+    ],
+    "first_air_date": "2017-07-04",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://ahogirl.jp/",
+    "id": 72502,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-19",
+    "last_episode_to_air": {
+        "air_date": "2017-09-19",
+        "episode_number": 12,
+        "id": 1355017,
+        "name": "Meeting... And! Aho Girl",
+        "overview": "Ten years ago, Yoshiko met Akuru. Childhood friends, the kid next door, the old cliché story, shattered into a million pieces with the tragedy which unfolds. Young Akuru seeks the power to defeat Yoshiko, surpassing his limits out of fear. What is born in the young Akuru's heart?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/wsdQRwf5arjVuNmlWUVkjVKszT8.jpg",
+        "vote_average": 9.5,
+        "vote_count": 2
+    },
+    "name": "AHO-GIRL",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アホガール",
+    "overview": "She is Yoshiko Hanabatake, and she's an idiot through and through. She loves bananas, and she loves her childhood friend Akkun. That is all!",
+    "popularity": 25.841,
+    "poster_path": "/tXFDfWANzdaPTYFk3AY5PKWeF6N.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-04",
+            "episode_count": 12,
+            "id": 89806,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tEvfJ9eZhRfW8B178ZhhmwUetS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 135
+}

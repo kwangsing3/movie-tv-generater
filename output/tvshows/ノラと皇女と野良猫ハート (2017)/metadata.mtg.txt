@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/laFmgcfVaoG3p22bkWvkaTTTFHR.jpg",
+    "created_by": [
+        {
+            "id": 1838404,
+            "credit_id": "594e8fc3c3a3683232037779",
+            "name": "Kenshirou Morii",
+            "gender": 2,
+            "profile_path": "/kQ4m81HPW8cbeyYwgqbo17DJiOa.jpg"
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2017-07-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://nora-anime.net/",
+    "id": 72513,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-27",
+    "last_episode_to_air": {
+        "air_date": "2017-09-27",
+        "episode_number": 12,
+        "id": 1372454,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/AtN1Xxv4saIqVLjSfyq1GH4i7Kp.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nora, Princess, and Stray Cat",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ノラと皇女と野良猫ハート",
+    "overview": "Nora Handa is a high school boy who meets a girl named Patricia in a park who claims to be a princess of the underworld. Patricia and Nora accidentally kiss, and this act turns Nora into a black cat. Patricia takes Nora to her home, and a few days later Nora turns back into a human. However, Nora keeps turning into a cat and back into a human. (Source: ANN)",
+    "popularity": 4.753,
+    "poster_path": "/7fK3dvyThmMfNc5QrcydSKJOq8C.jpg",
+    "production_companies": [
+        {
+            "id": 92406,
+            "logo_path": null,
+            "name": "W-Toon Studio",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-01",
+            "episode_count": 12,
+            "id": 89817,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fYgXxdZ0rsTbjhy9V6GLXuuROM6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 4
+}

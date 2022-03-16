@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/nfZLQSZZNS2tRz0yp1xN5RJGpCu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://fate-apocrypha.com/",
+    "id": 72304,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-31",
+    "last_episode_to_air": {
+        "air_date": "2017-12-31",
+        "episode_number": 25,
+        "id": 1412630,
+        "name": "Apocrypha",
+        "overview": "Shiro and Semiramis make peace with themselves as their world crumbles around them. Young Sieg makes a shattering choice in an attempt to change fate.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dP67Q2rqGuqc9qZak24jNaJjOtm.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fate/Apocrypha",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Fate/Apocrypha",
+    "overview": "The theft of the Greater Grail from Fuyuki City leads to a splintered timeline in which the Great Holy Grail War is waged on an unprecedented scale.",
+    "popularity": 38.792,
+    "poster_path": "/6z5fvOImqH7WsPHOJIyxEJFRwX6.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-09-24",
+            "episode_count": 2,
+            "id": 151369,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/1NQj7z34Rg5GyVVARt9Kp38DBe0.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-07-02",
+            "episode_count": 25,
+            "id": 89430,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/r9SbsbkKQa2nQmPVtsRx76uTFio.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 100
+}

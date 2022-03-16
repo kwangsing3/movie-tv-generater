@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/lnaf631YKNrH5I5rAC9Bxeo0U5j.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2018-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://devilman-crybaby.com",
+    "id": 75208,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-01-05",
+    "last_episode_to_air": {
+        "air_date": "2018-01-05",
+        "episode_number": 10,
+        "id": 1415486,
+        "name": "Crybaby",
+        "overview": "Confronted by Akira, Ryo reveals the truth about demonkind and himself. Humans, demons and devilmen gather for an ultimate battle for the world.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vkuvHjPelJegMv22AeNT2npB5qC.jpg",
+        "vote_average": 7.7,
+        "vote_count": 3
+    },
+    "name": "Devilman Crybaby",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "DEVILMAN crybaby",
+    "overview": "Akira Fudo learns from his best friend Ryo Asuka that demons will revive and reclaim the world from humans. With humans hopeless against this threat, Ryo suggests combining with a demon. With this, Akira becomes Devilman, a being with the power of demon but with a human heart.",
+    "popularity": 43.719,
+    "poster_path": "/lNXoTtfBlgijQ9pfZCwisYkPiTc.jpg",
+    "production_companies": [
+        {
+            "id": 99494,
+            "logo_path": "/qkHfgTmVRgYOyX0d4EivIDFFKMz.png",
+            "name": "Science SARU",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12268,
+            "logo_path": null,
+            "name": "Dynamic Planning",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-03-24",
+            "episode_count": 2,
+            "id": 111230,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/7PPPgyX832seJjSv4hQnxwtlWqY.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-01-05",
+            "episode_count": 10,
+            "id": 95585,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": "/kYN3OVYf6oRghokjOHGlKwqDA16.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.9,
+    "vote_count": 288
+}

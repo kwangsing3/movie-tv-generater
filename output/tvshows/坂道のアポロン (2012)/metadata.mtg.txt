@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/veLDNOr8omsQN6hX3HWgq5PVD1P.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-04-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.noitamina-apollon.com/",
+    "id": 42557,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-06-29",
+    "last_episode_to_air": {
+        "air_date": "2012-06-29",
+        "episode_number": 12,
+        "id": 979007,
+        "name": "All Blues",
+        "overview": "It's graduation day at East High and Sen still hasn't returned. Will Kaoru and Ritsuko stay together or go their separate ways? And will Kaoru ever play jazz with his best friend again?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fMIpnIMJrzOwWmKMkU0KSQzzMUi.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Kids on the Slope",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "坂道のアポロン",
+    "overview": "Two different students - a successful but aloof academic and a rebellious but kindhearted delinquent - form a friendship through their love for music.",
+    "popularity": 11.56,
+    "poster_path": "/dFwBvUhtV8ynSLaSXfRUYInlTFk.jpg",
+    "production_companies": [
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-13",
+            "episode_count": 12,
+            "id": 52271,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fZMMJJwQBL7UCMiMSdz256qAh7g.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 27
+}

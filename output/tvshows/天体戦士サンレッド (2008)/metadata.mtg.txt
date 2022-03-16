@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/vk22mRjiEXWSEFrQEKRviKlSi0J.jpg",
+    "created_by": [
+        {
+            "id": 1427717,
+            "credit_id": "54e14f53c3a3684541007328",
+            "name": "Makoto Kubota",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2008-10-03",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 34755,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-03-27",
+    "last_episode_to_air": {
+        "air_date": "2010-03-27",
+        "episode_number": 26,
+        "id": 791617,
+        "name": "FIGHT.52",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/7sW1u5Hf6GXuq1n1uTBsAePjHzt.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Astro Fighter Sunred",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "天体戦士サンレッド",
+    "overview": "Astro Fighter Sunred is a Japanese manga created by Makoto Kubota. It started serialization on Square Enix's seinen manga magazine Young Gangan on August 25, 2005. An anime adaptation produced by AIC A.S.T.A. aired from October 3, 2008 to March 27, 2009 in Japan. The second season of the anime started airing on October 3, 2009. Each manga chapter and anime episode is referred to as a FIGHT.",
+    "popularity": 7.308,
+    "poster_path": "/mmOzCQQrGw84pf26oRGO4uQTB6x.jpg",
+    "production_companies": [
+        {
+            "id": 46652,
+            "logo_path": null,
+            "name": "AIC A.S.T.A.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 45530,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-10-03",
+            "episode_count": 26,
+            "id": 45528,
+            "name": "Tentai senshi sunred season 1",
+            "overview": "",
+            "poster_path": "/y2yMg98JZrtF4GZjFsTP4Jfh5fj.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2009-10-03",
+            "episode_count": 26,
+            "id": 45529,
+            "name": "Tentai senshi sunred season 2",
+            "overview": "",
+            "poster_path": "/zNwYsCpggNHDbkUSwbvHsf3mpBG.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

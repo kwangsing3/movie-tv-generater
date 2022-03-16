@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/AtMxZ0Vx9Sx2c5nfDNYGvyX5lpJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 36753,
+    "imdb_id": "tt0235680",
+    "original_language": "ja",
+    "original_title": "ピチューとピカチュウ",
+    "overview": "While visiting a big city with Ash, Pikachu meets the Pichu Brothers—Pichu Little, the rambunctious younger half, and Pichu Big, the reserved older half. Pikachu does its best to keep Pichu Little from falling off a building, but it ends up falling off itself! The adventures continue as Pikachu and the Pichu Brothers roll off the top of a bus, fall into a river, and then fly into the air and onto the back of a Houndour! With the angry Houndour in hot pursuit, the trio makes its way to a pile of tires that serves as a “secret fort.” All the hustle and bustle, though, sends the fort tumbling down. With the help of some Pokémon, the group works together to rebuild the fort—but Pikachu remembers that it has to get back to Ash. The Pichu Brothers whisk Pikachu away and head for the building where Ash is waiting, but will they manage to get there in time?",
+    "popularity": 8.76,
+    "poster_path": "/aryBRxcEG8q5aA8UnGwZmjt7do0.jpg",
+    "production_companies": [
+        {
+            "id": 12288,
+            "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+            "name": "Nintendo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12653,
+            "logo_path": null,
+            "name": "Pikachu Project",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5261,
+            "logo_path": null,
+            "name": "Shogakukan Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2000-07-08",
+    "revenue": 0,
+    "runtime": 17,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pikachu and Pichu",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 22
+}

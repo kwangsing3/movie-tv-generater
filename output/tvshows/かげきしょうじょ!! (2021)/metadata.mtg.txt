@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/1l8H5a9ffXmYGC9EZbb9IKgi7nn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kageki-anime.com",
+    "id": 112138,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-26",
+    "last_episode_to_air": {
+        "air_date": "2021-09-26",
+        "episode_number": 13,
+        "id": 3046630,
+        "name": "Kageki Shojo!!",
+        "overview": "Sarasa takes the stage as Tybalt. Sugimoto struggles with a crisis of self-worth. The cast list for the Culture Festival performance is revealed.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kHxbNHaZ2McUR0BD02vTQnsxIEK.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Opera Girl!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "かげきしょうじょ!!",
+    "overview": "The curtain rises on Sarasa Watanabe, a starry-eyed 5'10\" student who hopes to perform as a male lead role in the all-female Kouka Acting Troupe. She forms a friendship with her new roommate, a former idol. Together, they’re in for the role of a lifetime.",
+    "popularity": 21.365,
+    "poster_path": "/9PBHtRI3ZFdE3UkxsHBxbkzF3pl.jpg",
+    "production_companies": [
+        {
+            "id": 91510,
+            "logo_path": "/1eYmEppUaIhXUhejVYPJQhwx4JP.png",
+            "name": "Pine Jam",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-04",
+            "episode_count": 13,
+            "id": 166836,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9PBHtRI3ZFdE3UkxsHBxbkzF3pl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 30
+}

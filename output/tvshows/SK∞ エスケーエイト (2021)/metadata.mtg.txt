@@ -1,0 +1,140 @@
+{
+    "adult": false,
+    "backdrop_path": "/ohOrfdh80HVY5QBD8kV2FYYSVwF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://sk8-project.com",
+    "id": 110309,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-04-04",
+    "last_episode_to_air": {
+        "air_date": "2021-04-04",
+        "episode_number": 12,
+        "id": 2631171,
+        "name": "Our Infinity!",
+        "overview": "The stormy battle between Reki and Adam was won by Adam. However, Reki was the one who was enjoying the beef. Seeing him, Kikuchi realizes that Langa is the only one who can give Adam salvation, and drops out from his race against Langa. As Reki and Langa head into the beef against Adam, they make a certain promise. The finals between Adam and Langa will now begin!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sRCNtT7CyEGIZhQKmogUxZhWEQv.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "SK8 the Infinity",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Nagoya TV",
+            "id": 576,
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "SK∞ エスケーエイト",
+    "overview": "\"S\" is a dangerous, top secret, no-holds-barred downhill skateboarding race down an abandoned mine. When avid skateboarder Reki takes Langa to the mountain where \"S\" is held, Langa, who's never been on a skateboard in his life, finds himself sucked into the world of \"S\", and…?!",
+    "popularity": 71.278,
+    "poster_path": "/ksb6QlSCsRLr3MNmxc8ojOOLK6V.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86839,
+            "logo_path": "/4gMnTQACykjt0KSRV1N8vSKpkVt.png",
+            "name": "ABC Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-14",
+            "episode_count": 1,
+            "id": 185913,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-01-10",
+            "episode_count": 12,
+            "id": 163445,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9eJ9RhdXqrkWURK8j3pTDOBMVqc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.9,
+    "vote_count": 194
+}

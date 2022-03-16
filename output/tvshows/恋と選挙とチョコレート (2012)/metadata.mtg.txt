@@ -1,0 +1,142 @@
+{
+    "adult": false,
+    "backdrop_path": "/yjPXdokLCiGFS0QXtgbeUL0GKGM.jpg",
+    "created_by": [
+        {
+            "id": 1319787,
+            "credit_id": "5ab102a70e0a2676d000c479",
+            "name": "Tooru Kitahata",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 46093,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-28",
+    "last_episode_to_air": {
+        "air_date": "2012-09-28",
+        "episode_number": 12,
+        "id": 907143,
+        "name": "Voting!",
+        "overview": "Ōsawa made her move and kidnapped Chisato. She will only let her go if Ōjima drops out of the election. With Election Day coming up, the Food Club and Yakumo decide to put a plan into action. At the end, Ōjima became the President and Satsuki became the Vice President.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/77qMrreH584tMmYpLJHubBF1ibT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love, Election, & Chocolate",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "恋と選挙とチョコレート",
+    "overview": "Love, Elections & Chocolate, is a Japanese adult visual novel developed by Sprite, and it was released in Japan on October 29, 2010 for Windows PCs. The gameplay in Love, Elections & Chocolate follows a branching plot line, which offers pre-determined scenarios with courses of interaction, and focuses on the appeal of the five female main characters by the player character. There have been two manga adaptations based on the game: one each serialized in ASCII Media Works' Dengeki G's Magazine and Dengeki Daioh. A 12-episode anime TV series adaptation produced by AIC Build and directed by Tōru Kitahata aired between July and September 2012. An additional episode was released on the series' final Blu-ray Disc and DVD volume in March 2013.",
+    "popularity": 7.194,
+    "poster_path": "/zTA8r6GcibORfwOfArSBmkSdp5m.jpg",
+    "production_companies": [
+        {
+            "id": 94689,
+            "logo_path": null,
+            "name": "AIC Build",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-09-26",
+            "episode_count": 2,
+            "id": 54473,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/mfhyUQPNvSttP7T0HJpjKlBC9W3.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-07-06",
+            "episode_count": 12,
+            "id": 54474,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mfhyUQPNvSttP7T0HJpjKlBC9W3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 3
+}

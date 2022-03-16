@@ -1,0 +1,84 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1990-07-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 83539,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1991-04-21",
+    "last_episode_to_air": {
+        "air_date": "1991-04-21",
+        "episode_number": 39,
+        "id": 1760005,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Karasu Tengu Kabuto",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カラス天狗カブト",
+    "overview": "",
+    "popularity": 1.758,
+    "poster_path": "/xHWq3hErcNJoeayyeP3G1DyhCmH.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1991-06-23",
+            "episode_count": 3,
+            "id": 194142,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1990-07-29",
+            "episode_count": 39,
+            "id": 111671,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kwYOW0q5dzY3oymreH5GLRwHQ9c.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

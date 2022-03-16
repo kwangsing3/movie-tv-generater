@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/pv9NEBhMKWaKC29TczNJjGj0A0g.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2010-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.okiagari.net/",
+    "id": 36581,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-12-31",
+    "last_episode_to_air": {
+        "air_date": "2010-12-31",
+        "episode_number": 22,
+        "id": 828651,
+        "name": "The Final Hunt",
+        "overview": "The mountain is on fire and threatens to engulf the entire town.  At the same time the final Shiki make their final effort to escape.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/paFsgFneSR4XybQL5nxvqDSdRty.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shiki",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "屍鬼",
+    "overview": "Sotobamura is a small village with around 1300 residents; so small the village isn't even connected to a single highway. An isolated village in which old customs, such as the burial of the dead, are still practiced. One day, the bodies of three people are found dead. Although Ozaki Toshio, the village's lone doctor, feels uncertain, he treats the deaths as a normal occurrence. However, in the days following, the villagers start to die one after the other.",
+    "popularity": 24.856,
+    "poster_path": "/zsWbTnNwNjqWvgZ9gqTcK9WLoWy.jpg",
+    "production_companies": [
+        {
+            "id": 88185,
+            "logo_path": "/7KGVmlLGv6hoon8UkqE7ls7z4op.png",
+            "name": "Daume",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-05-25",
+            "episode_count": 11,
+            "id": 47604,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9KvayaTkwnPxYBU9U4fxPz7DLUV.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-07-09",
+            "episode_count": 22,
+            "id": 47603,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jHOsSh6S0wkgrghAJZmEZN64BSo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 108
+}

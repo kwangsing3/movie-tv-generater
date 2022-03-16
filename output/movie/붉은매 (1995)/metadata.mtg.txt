@@ -1,0 +1,47 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 82586,
+    "imdb_id": "tt0469168",
+    "original_language": "en",
+    "original_title": "붉은매",
+    "overview": "The land of Chungwon is in a state of chaos – the government is all but powerless to stop the many rival gangs that each want to carve a kingdom for themselves, the Camillia Blossoms being the most powerful of them. Having seen what terror his fellows are unleashing, Danyoung, a highly skilled martial artist of The Five Dragons, sets out to fight for the people of Chungwon.",
+    "popularity": 1.113,
+    "poster_path": "/1Vtob80wAOFGvGjClFTcVlOkXOZ.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1995-08-05",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Red Hawk: Weapon of Death",
+    "video": false,
+    "vote_average": 3.3,
+    "vote_count": 3
+}

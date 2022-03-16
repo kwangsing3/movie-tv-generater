@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/uIKgryoY2lEdmgy52rDESr2cyC4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2021-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://yakumo-project.com",
+    "id": 106611,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-18",
+    "last_episode_to_air": {
+        "air_date": "2021-12-18",
+        "episode_number": 12,
+        "id": 3247561,
+        "name": "I'm Making a Mug!",
+        "overview": "It's finally time for the firing, meaning the pieces will be completed in just a little bit. Tokishirou is excited when he hears that Himeno might reveal the item she'll put onto the shelf. After all this waiting, what's the piece that Himeno unveils?!",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/6HmrAlAdeJI9eITeBvMtaBoCaxh.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Let's Make a Mug Too",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "やくならマグカップも",
+    "overview": "Together with her father, who had quit his salaryman job, Toyokawa Himeno moves to Gifu prefecture's Tajimi city. That's the city where her mother is from, whom she had lost when she was still young. Himeno is now attending her mother's alma mater, where her classmate Kukuri Mika invites her to tag along to a special place. That place turns out to be the pottery club! There, she learns for the first time that her mother was a legendary potter, and is consequently pulled into the world of pottery.",
+    "popularity": 18.597,
+    "poster_path": "/nNnyQoWgTPlKfAFLEjIci9ug1z7.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-03",
+            "episode_count": 25,
+            "id": 189266,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/nNnyQoWgTPlKfAFLEjIci9ug1z7.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-04-03",
+            "episode_count": 12,
+            "id": 157561,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nNnyQoWgTPlKfAFLEjIci9ug1z7.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-10-02",
+            "episode_count": 12,
+            "id": 200431,
+            "name": "Second Kiln",
+            "overview": "Himeno and the Tajimi City pottery club set out to make even more fantastic pottery in new episodes of Let's Make a Mug Too!",
+            "poster_path": "/rS5rXwePJZvkY3jTWzIFbu0W8p8.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 4
+}

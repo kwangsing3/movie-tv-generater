@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/1vPx7JOzDcWs3kDrrqRdEgqEWOa.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://iwakakeru-anime.com/",
+    "id": 102518,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-20",
+    "last_episode_to_air": {
+        "air_date": "2020-12-20",
+        "episode_number": 12,
+        "id": 2452618,
+        "name": "The Road to Best in Japan",
+        "overview": "At the Combined Cup, Anne breezes through the preliminaries. Once the preliminaries are over with, it is revealed that the Hanamiya girls have made it to the finals. However, they notice that they are second in the team rankings behind Anne's team. Anne is confident the Hanamiya girls will not beat her.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dpvQzpboQyDVwKUAGGEPpGraNwV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Iwa Kakeru! Sport Climbing Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "HTB",
+            "id": 12,
+            "logo_path": "/eJSYeF1YIyQbZdTRNxuvVKaZOIK.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Nagoya TV",
+            "id": 576,
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "いわかける！ - Sport Climbing Girls -",
+    "overview": "Sport climbing is a sport that makes use of both the body and the brain to climb walls. Kasahara Konomi, a master at puzzles, just happens to discover her school’s climbing wall, and it looks almost like a colorful sort of puzzle in her eyes. This fateful encounter brings big changes to Konomi’s life! With her teammates in the Hanamiya Girls’ High School Climbing Club, Konomi races for the top in this passionate climbing story!",
+    "popularity": 20.797,
+    "poster_path": "/afeKKe8KPYDg7DyVtbfqSzh63NY.jpg",
+    "production_companies": [
+        {
+            "id": 132732,
+            "logo_path": "/2EjSQXmUMKu697cIhWosbgo7lEA.png",
+            "name": "BLADE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-04",
+            "episode_count": 12,
+            "id": 148986,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9X4ubebN3m53E672kpufos4IBz4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 130
+}

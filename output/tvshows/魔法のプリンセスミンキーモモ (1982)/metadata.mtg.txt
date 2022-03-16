@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 65429,
+            "credit_id": "579e041f92514110ac0001f9",
+            "name": "Kunihiko Yuyama",
+            "gender": 2,
+            "profile_path": "/m9TuHUsVZXwacadFyDIZ7BKFkrM.jpg"
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "1982-03-18",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "http://www.pro-reed.com/works/tv_series/w009.html",
+    "id": 35871,
+    "in_production": false,
+    "languages": [
+        "it",
+        "ja"
+    ],
+    "last_air_date": "1991-10-02",
+    "last_episode_to_air": {
+        "air_date": "1991-10-02",
+        "episode_number": 1,
+        "id": 815502,
+        "name": "Hello, Minky Momo",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magical Princess Minky Momo",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 125,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法のプリンセスミンキーモモ",
+    "overview": "",
+    "popularity": 15.604,
+    "poster_path": "/38xHF2AkmEMT4qkAuWeXXCZXqCX.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1985-08-03",
+            "episode_count": 3,
+            "id": 139586,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/A3i8tNt0CgDbAbtpcJxrNowB8JR.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1982-03-18",
+            "episode_count": 63,
+            "id": 46667,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ylnr8yYytYYybAcr5RdGAVruZKu.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1991-10-02",
+            "episode_count": 62,
+            "id": 46668,
+            "name": "Magical Princess Minky Momo: Hold on to Your Dreams",
+            "overview": "",
+            "poster_path": "/zGhhWznYixH5m5Q7cjb6Dn8kfRK.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 4
+}

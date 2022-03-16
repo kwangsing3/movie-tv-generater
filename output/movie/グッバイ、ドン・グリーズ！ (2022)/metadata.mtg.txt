@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/5vqfq31yqFRZZ84yk0Epeix6JHY.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://donglees.com/",
+    "id": 846993,
+    "imdb_id": "tt14967958",
+    "original_language": "ja",
+    "original_title": "グッバイ、ドン・グリーズ！",
+    "overview": "The story centers on two boys named Roma and Toto. The boys meet when Roma moves from Tokyo to the countryside, which he cannot grow accustomed to. But when he meets Toto, they become a duo, naming themselves \"DonGlees.\" Eventually, Toto was supposed to move out to Tokyo for school, but on the summer of their first year of high school, they meet Drop, a new addition to DonGlees, who invites them to \"view the world from above.\" When Roma and Toto follow Drop, they become involved in a forest fire that gets blamed on them, and go off in search of a missing drone that has evidence of their innocence. A small incident becomes an important, life-changing journey that culminates in Iceland.",
+    "popularity": 2.583,
+    "poster_path": "/p1myUka0HPSIog6ofMo9YTmrurh.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-02-18",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Goodbye, DonGlees!",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/eXmKJKs54vLQYPRflO8Fqbue3e4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2006-10-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 115109,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-12-22",
+    "last_episode_to_air": {
+        "air_date": "2006-12-22",
+        "episode_number": 11,
+        "id": 2581047,
+        "name": "Nevertheless, Hataraki Man",
+        "overview": "Hiroko and Shinji both consistently choose their careers over their relationship, which is now at a breaking point. Can things really continue as they are now?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hataraki Man",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "働きマン",
+    "overview": "Hiroko Matsukata’s determined to work her way to the top, and at only 28, she’s now an editor at Jidai Weekly. But she’s had to dedicate her life to work while suppressing her feminine character traits to blend in with her uncouth male coworkers.",
+    "popularity": 3.804,
+    "poster_path": "/mvcuYiEgYWMmHzGpS2xm7oz1MEy.jpg",
+    "production_companies": [
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 648,
+            "logo_path": "/nCIeUG7ntLvo8aMXIkldyCy8g5G.png",
+            "name": "Sony Music Entertainment (Japan)",
+            "origin_country": "JP"
+        },
+        {
+            "id": 50879,
+            "logo_path": null,
+            "name": "Studio Gallop",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-10-13",
+            "episode_count": 11,
+            "id": 173226,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/l6i6tgOw9med7rUh18RIbvAJLjV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

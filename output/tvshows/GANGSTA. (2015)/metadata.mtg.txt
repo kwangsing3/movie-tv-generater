@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/xJEy0a85P65hU7KgtksqahdPdWf.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2015-07-02",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "http://gangsta-project.com/",
+    "id": 66390,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-24",
+    "last_episode_to_air": {
+        "air_date": "2015-09-24",
+        "episode_number": 12,
+        "id": 1190090,
+        "name": "Odds and Ends",
+        "overview": "The peace of Ergastulum will be broken by the attacks of the radicalizing enemies. The enemies called “Esminets,” what’s their purpose?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/oV4SSYWMDNvwd57c0o8DrRF78I.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Gangsta.",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "GANGSTA.",
+    "overview": "In the crime-ridden, mafia-governed city of Ergastulum, Worick and Nicolas are two “handymen” known as “Benriya” who would take any dirty job from either police or mafia — for a good price. After an assignment from police the two met and later joined by Alex, a former prostitute who got interested in the mysterious background of the team, in particular of Nicolas’ abilities.",
+    "popularity": 24.714,
+    "poster_path": "/3HagxW9ZHDN6IHU4fUuZp6N9ZL1.jpg",
+    "production_companies": [
+        {
+            "id": 33347,
+            "logo_path": null,
+            "name": "Manglobe",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-09-06",
+            "episode_count": 1,
+            "id": 142124,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/puhoTEQ5S0k9mk5GFncQXpPm6VT.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-07-02",
+            "episode_count": 12,
+            "id": 76797,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qHYb0gatA7ktQzD09Xe9ryZnFJD.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 44
+}

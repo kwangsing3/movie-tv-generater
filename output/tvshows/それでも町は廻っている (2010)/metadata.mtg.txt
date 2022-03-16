@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/ukJC9ibBu3e26fzjQz5GFyVyZ9w.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2010-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 37102,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-12-24",
+    "last_episode_to_air": {
+        "air_date": "2010-12-24",
+        "episode_number": 12,
+        "id": 840420,
+        "name": "Sore Machi...",
+        "overview": "Futaba & Toshiko aren't on speaking terms because Toshiko refuses to join the table tennis club. Hotori ruins an expensive pen and dreams about being judged in the afterlife.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2a5Cwpvgj79NVTZdP2DJwKZsHtV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "And Yet the Town Moves",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "それでも町は廻っている",
+    "overview": "Clumsy Arashiyama is a girl with a love for mysteries and a knack for getting into trouble. She works for an old lady’s lackluster maid café in a small shopping district. The cafe is largely unsuccessful in attracting customers aside from Sanada, a regular and one of Arashiyama's classmates (who has a secret crush on her). One day Arashiyama’s clever friend Tatsuno is invited to the café, and, upon seeing the miserable state of things (and Sanada, whom she has a secret crush on), decides to work there. Don’t miss the crazy antics of Arashiyama and friends, mismatched love stories, and all the hilarity that is created as a result, in Sore Machi.",
+    "popularity": 7.867,
+    "poster_path": "/tg4mQy65ll9VpPKR8BGCVVljwlB.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-10-08",
+            "episode_count": 12,
+            "id": 48274,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kyqWQPCotYxGG0fd8B3z6tjeXBf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

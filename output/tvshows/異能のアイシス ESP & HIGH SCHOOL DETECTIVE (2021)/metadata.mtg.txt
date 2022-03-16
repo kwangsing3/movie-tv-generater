@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/l8KRyjkWl4s2C8Oz7W4ADSaNg9q.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-02-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.projectaicis.com/nonocis/",
+    "id": 118465,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-04-17",
+    "last_episode_to_air": {
+        "air_date": "2021-04-17",
+        "episode_number": 2,
+        "id": 2845389,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Inou no AICis: ESP & High School Detective",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "異能のアイシス ESP & HIGH SCHOOL DETECTIVE",
+    "overview": "",
+    "popularity": 4.509,
+    "poster_path": "/mEa0xdAd1wGNaAQOoTscVayfiwo.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-02-13",
+            "episode_count": 6,
+            "id": 180724,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mEa0xdAd1wGNaAQOoTscVayfiwo.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-04-10",
+            "episode_count": 2,
+            "id": 188902,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/h0WX6Grph1r3rV1671Z7rBbDiyC.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

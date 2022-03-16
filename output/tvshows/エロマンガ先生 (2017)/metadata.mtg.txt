@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/2qTzKd8hawspTsh83HMCKdMFFJW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2017-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://eromanga-sensei.com/",
+    "id": 70878,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-06-25",
+    "last_episode_to_air": {
+        "air_date": "2017-06-25",
+        "episode_number": 12,
+        "id": 1331558,
+        "name": "Eromanga Festival",
+        "overview": "Masamune and Sagiri’s new work, \"Sekaimo: The World’s Cutest Little Sister\" is now on sale. Sagiri continues to stream from her room wearing a mask as always, and declares the curtain rising on a \"Festival\".",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yqZMZkLgY9Qwnu68Qu9ecPr80xM.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Eromanga Sensei",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tochigi TV",
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エロマンガ先生",
+    "overview": "This \"sibling romantic comedy\" revolves around Masamune Izumi, a light novel author in high school. Masamune's little sister is Sagiri, a shut-in girl who hasn't left her room for an entire year. She even forces her brother to make and bring her meals when she stomps the floor. Masamune wants his sister to leave her room, because the two of them are each other's only family.\n\nMasamune's novel illustrator, pen name \"Eromanga,\" draws extremely perverted drawings, and is very reliable. Masamune had never met his illustrator, and figured he was just a disgusting, perverted otaku. However, the truth is revealed… that his \"Eromanga-sensei\" is his own younger sister! To add to the chaos that erupts between the siblings, a beautiful, female, best-selling shoujo manga creator becomes their rival!",
+    "popularity": 33.393,
+    "poster_path": "/vR6rPnVyWUSU7im2QcKXwSjjCXM.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-16",
+            "episode_count": 2,
+            "id": 116872,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/mzUlRnWKDjYu2DrXyUlSVl6KbVN.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-04-09",
+            "episode_count": 12,
+            "id": 86517,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vR6rPnVyWUSU7im2QcKXwSjjCXM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 50
+}

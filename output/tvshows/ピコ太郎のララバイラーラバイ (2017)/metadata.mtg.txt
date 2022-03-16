@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/ib683eXGiHGFUpNgc5cQ9vlGgwV.jpg",
+    "created_by": [
+        {
+            "id": 1868777,
+            "credit_id": "59e380db9251410810013ab4",
+            "name": "Daimaou Kosaka",
+            "gender": 2,
+            "profile_path": "/6OgmAomD0dmXCJtzOaQCjJ8L9QW.jpg"
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2017-08-02",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://avex.jp/piko-lullaby/",
+    "id": 73217,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-27",
+    "last_episode_to_air": {
+        "air_date": "2017-09-27",
+        "episode_number": 9,
+        "id": 1380213,
+        "name": "Little Red Riding Hood",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pikotaro's Lullaby La La By",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "dTV",
+            "id": 2137,
+            "logo_path": "/4pgrhONIKQAu0V11Mt4qECC3NO3.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ピコ太郎のララバイラーラバイ",
+    "overview": "Drawing inspiration from illustrations, Pikotaro does the unthinkable: three-minute, scriptless fairy tale anime. Pikotaro is presented with classics loved around the world, including The Little Match Girl and Little Red Riding-Hood. The mad genius who took the world by storm returns to bring you unique bedtime stories certain to rock you into absurd sleep.",
+    "popularity": 2.007,
+    "poster_path": "/rylxaDqjl3M1M6Vb1UaOzbTRlxv.jpg",
+    "production_companies": [
+        {
+            "id": 71369,
+            "logo_path": "/gsHQTAMMRAlqYIWdN6rcSKSHRqT.png",
+            "name": "DLE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-17",
+            "episode_count": 3,
+            "id": 94039,
+            "name": "Specials",
+            "overview": "Prior to the television broadcast, three episodes were released to online audiences.",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-08-02",
+            "episode_count": 9,
+            "id": 91265,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/n8mpBjoMplJIb4PpxilIsxSNRgW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

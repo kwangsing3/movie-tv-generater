@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/tQ5ALXHauRXhXh6t8l4kMvM5Wsg.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 80863,
+    "imdb_id": "tt1068848",
+    "original_language": "ja",
+    "original_title": "ルパン三世 霧のエリューシヴ",
+    "overview": "On the ocean floor, Lupin is once again seeking a treasure hoping to get on Fujiko's good side. As Zenigata chases them on sea and land, people around the gang begin to vanish mysteriously. The fog rolls in and Mamo Kyosuke appears in a burst of light; he claims to be from the future and seeks revenge on Lupin III for what Lupin XIII has done to him. Mamo hurls Lupin, Jigen, Goemon, and Zenigata 500 years into the past; as two warring factions fight over a legendary shrine dedicated to time travel, Lupin must find a way to survive the past to ensure his future.",
+    "popularity": 5.518,
+    "poster_path": "/jKGIOXsIQbMNRlNb7aabbMdl2r.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2007-07-27",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lupin the Third: The Elusiveness of the Fog",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 16
+}

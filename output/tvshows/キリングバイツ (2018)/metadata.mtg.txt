@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/aiyDtDAHvtNfQQZGxcuVgSybcXL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2018-01-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "http://killingbites-anime.com/",
+    "id": 76130,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-31",
+    "last_episode_to_air": {
+        "air_date": "2018-03-31",
+        "episode_number": 12,
+        "id": 1454875,
+        "name": "Thanks for Everything",
+        "overview": "The Destroyal finally came to an end. However, the live feed got cut off immediately. It was because of a scheme to invalidate the Destroyal by killing all the Therianthropes and crew. The evil clutches approaches Hitomi and the others whom fought through the games. And the political war over theriomorphosis surgeries that used Killing Bites as a proxy war developed rapidly, and a new age begins.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kUGXZoUA94keQUDf3jKOaJqm5e5.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Killing Bites",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "HERO'S",
+            "id": 2788,
+            "logo_path": null,
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キリングバイツ",
+    "overview": "",
+    "popularity": 21.422,
+    "poster_path": "/uyIowoKd2SGu3ahUs669QuLFHbF.jpg",
+    "production_companies": [
+        {
+            "id": 111065,
+            "logo_path": null,
+            "name": "HERO'S",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-01-07",
+            "episode_count": 1,
+            "id": 213212,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-01-13",
+            "episode_count": 12,
+            "id": 97453,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/141aC5Zzjt9O44lMATyeFNt0VdN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 108
+}

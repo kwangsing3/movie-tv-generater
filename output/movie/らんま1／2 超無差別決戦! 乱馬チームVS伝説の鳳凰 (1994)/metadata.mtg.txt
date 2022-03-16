@@ -1,0 +1,65 @@
+{
+    "adult": false,
+    "backdrop_path": "/j26C3RvvebeuTMfJvWR85Q9dqwX.jpg",
+    "belongs_to_collection": {
+        "id": 165743,
+        "name": "Ranma Collection",
+        "poster_path": "/h4uDxHV6CLShclZM5OQF1nc2tf6.jpg",
+        "backdrop_path": "/fcpBLElwWilu6a0AZ0VbekMr2S2.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 82386,
+    "imdb_id": "tt0109422",
+    "original_language": "ja",
+    "original_title": "らんま1/2 超無差別決戦! 乱馬チームVS伝説の鳳凰",
+    "overview": "In this animated short, poetry-spouting high-school swordsman Tatewaki Kuno comes into possession of the egg of the legendary phoenix, which is said to grant its owner incredible powers. A shopkeeper sells the egg to Kuno on one condition: \"Never, never, in any circumstance, put the darn thing on your head.\"",
+    "popularity": 7.58,
+    "poster_path": "/cEMYFKZdLMNlYoGixnCzFsDsW3d.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4766,
+            "logo_path": null,
+            "name": "Kitty Films",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1994-08-20",
+    "revenue": 0,
+    "runtime": 35,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ranma ½: The Movie 3 — The Super Non-Discriminatory Showdown: Team Ranma vs. the Legendary Phoenix",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 24
+}

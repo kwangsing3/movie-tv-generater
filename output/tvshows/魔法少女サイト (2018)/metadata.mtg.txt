@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/5WzVWccAxJrziHgs6IbB769Cua5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://mahoushoujyo-anime.com/",
+    "id": 77702,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-23",
+    "last_episode_to_air": {
+        "air_date": "2018-06-23",
+        "episode_number": 12,
+        "id": 1510399,
+        "name": "We Are...",
+        "overview": "It seems the administrator's identity is a human girl. Tsuyuno dies protecting Aya and her friends, but she is brought back to life as a new administrator candidate. Tsuyuno is ordered to kill Aya so she can become an official administrator. Having lost her old memories, Tsuyuno attacks Aya with supernatural strength.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bjSd3wWHVMLmCeIeF6kTI87YTfY.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magical Girl Site",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法少女サイト",
+    "overview": "Aya Asagiri is a middle school girl who has problems both at school with bullying and at home from physical abuse by her brother. While browsing online, a website pops up on her computer featuring a creepy looking person. This person appears to take pity on her, and announces that she has granted Asagiri magical powers.",
+    "popularity": 23.377,
+    "poster_path": "/tNVxRfjHcFSkciIHXMPdjXwZAqg.jpg",
+    "production_companies": [
+        {
+            "id": 103101,
+            "logo_path": null,
+            "name": "production doA",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-07",
+            "episode_count": 12,
+            "id": 100353,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/A7R8YaqncF37rM3JNaARjLsivV7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 152
+}

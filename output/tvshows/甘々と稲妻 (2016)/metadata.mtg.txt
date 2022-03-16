@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/yvYCPVyGMjoJX758WDbH2Lx2yUK.jpg",
+    "created_by": [
+        {
+            "id": 1325032,
+            "credit_id": "608e0d1dd7107e002448b3f1",
+            "name": "Tarou Iwasaki",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1661872,
+            "credit_id": "57a46105c3a3685dee001d86",
+            "name": "Gido Amagakure",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.amaama.jp/",
+    "id": 66990,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-20",
+    "last_episode_to_air": {
+        "air_date": "2016-09-20",
+        "episode_number": 12,
+        "id": 1416733,
+        "name": "Okonomiyaki Filled With Affection",
+        "overview": "It's the one-year anniversary of Tsumugi's mother's death, and she and Kouhei go to the countryside to attend the funeral. On the night after they get back, Kouhei is too tired to cook, so they go to an okonomiyaki restaraunt. But Tsumugi throws a fit when she finds out it's not what she thought. Kotori offers to make her real okonomiyaki to make her feel better. This time the whole gang drops in, even Kotori's mom!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mlwfOXqUi2GFwu9sxebWyXmCKA4.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sweetness & Lightning",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "甘々と稲妻",
+    "overview": "Kouhei Inuzuka is a teacher who has been caring for his little daughter on his own since his wife's death. He's no good at cooking, so he and his daughter Tsumugi have been eating packaged meals from the convenience store. A series of events lead him one evening to a restaurant run by the mother of one of his students, Kotori. Her mother isn't there, but Kotori does her best to feed them both. It turns out Kotori is often alone since her parents are divorced and her mother is frequently not around. The three of them begin to meet and cook tasty food together.",
+    "popularity": 19.038,
+    "poster_path": "/p7fkGhOSAyXbPJBhggR6xcuNtP0.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-05",
+            "episode_count": 12,
+            "id": 78256,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/Aekkl7tIjpC3x4apxvMupqGdvl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 25
+}

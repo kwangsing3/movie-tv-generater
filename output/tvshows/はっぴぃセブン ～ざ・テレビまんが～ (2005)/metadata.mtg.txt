@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/t9AZWqX71UGaKOcACVot5IBNwAo.jpg",
+    "created_by": [
+        {
+            "id": 1598713,
+            "credit_id": "5ade3d4a0e0a264bac0047ac",
+            "name": "Tsutomu Yabuki",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 37574,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-12-25",
+    "last_episode_to_air": {
+        "air_date": "2005-12-25",
+        "episode_number": 13,
+        "id": 1476941,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Happy Seven",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はっぴぃセブン ～ざ・テレビまんが～",
+    "overview": "Amano Sakogami is a girl who has an unnatural amount of bad luck. One day, she stumbles into the clubroom of the Better Fortune Research Organization, which consists of a boy and seven other girls who secretly use the power of the luck deities to fight against the Magatsugami, monsters who can affect a person's luck & well-being.",
+    "popularity": 5.195,
+    "poster_path": "/xbXlUpbNwfRR0fMQmCES05IDx15.jpg",
+    "production_companies": [
+        {
+            "id": 19073,
+            "logo_path": null,
+            "name": "Trinet Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 78802,
+            "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+            "name": "Studio Hibari",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-10-02",
+            "episode_count": 13,
+            "id": 48946,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

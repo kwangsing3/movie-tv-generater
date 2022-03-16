@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/4JosOdpZT05v8lA12vLCV7G4P56.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.ytv.co.jp/timebokan24/",
+    "id": 70208,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-27",
+    "last_episode_to_air": {
+        "air_date": "2018-03-27",
+        "episode_number": 23,
+        "id": 1457150,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Time Bokan 24",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 48,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "タイムボカン24",
+    "overview": "The history in our textbooks are all wrong?! In the 24th century, humankind accomplished the invention of a time machine, “Time Bokan”. As they discover the truth about history, they realize that the history written in their textbooks are all wrong! To correct their knowledge of history, the government developed an organization called JKK. Our hero Tokio is recruited by Karen, a girl from the future to join the JKK. Together they travel through time to discover the true history, along with fighting the “Akudarma” a villainous group whose goal is to prevent the discovery of the truth!",
+    "popularity": 7.192,
+    "poster_path": "/cZogex8fOTrVNE7bTvulCdo7xRr.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-01",
+            "episode_count": 24,
+            "id": 84946,
+            "name": "24",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-10-07",
+            "episode_count": 24,
+            "id": 93357,
+            "name": "The Villains' Strike Back",
+            "overview": "",
+            "poster_path": "/9RYwlknz1Qm6ua8vyTpD3imoeaL.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 2
+}

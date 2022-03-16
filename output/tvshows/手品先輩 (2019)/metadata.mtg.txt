@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/1YYChqnNrr2xhtifWxRbfbAMuz8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2019-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tejina-senpai.jp/",
+    "id": 88043,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-09-17",
+    "last_episode_to_air": {
+        "air_date": "2019-09-17",
+        "episode_number": 12,
+        "id": 1814352,
+        "name": "Growing Sempai | Unfailing Sempai | Competitive Sempai | Silent Sempai | Bunny Sempai",
+        "overview": "Growing Sempai: Sempai's balloon art is a little bit lewd\n\nUnfailing Sempai: Sempai's first success!\n\nCompetitive Sempai: Sempai and Madara compete over Assistant!\n\nSilent Sempai: Keep it quiet so Assistant doesn't see!\n\nBunny Sempai: Magnificent misdirection!!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rIQbLshHNQvlyNs67OIfJiUwISL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magical Sempai",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "手品先輩",
+    "overview": "Our MC finds out that his school requires him to join a club and during his reluctant search he stumbles upon Tejina-senpai attempting magic tricks in her clubroom. Tejina-senpai has massive stage fright however and so now that she has an audience her attempts are simply comedic.",
+    "popularity": 44.736,
+    "poster_path": "/l4FJaBZ7QB4VQ2qVxwp0AxVRLOi.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-07-02",
+            "episode_count": 12,
+            "id": 121360,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/22puuulgdghIymBM4KwiZAPmZV8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 271
+}

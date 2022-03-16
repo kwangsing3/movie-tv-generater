@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/z8zsrSjpCuvQSxWSkLJsJUk51t6.jpg",
+    "created_by": [
+        {
+            "id": 1841969,
+            "credit_id": "59569be49251411d9804c23f",
+            "name": "Shiro Jumbo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1979-02-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 68343,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1980-02-08",
+    "last_episode_to_air": {
+        "air_date": "1980-02-08",
+        "episode_number": 50,
+        "id": 1232842,
+        "name": "The Happiness full of Flowers",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Angel",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "花の子ルンルン",
+    "overview": "The King of the Flower Planet is dying, but his heir can't take up the throne until the legendary Seven Color Flower, symbol of the King's power, is found. The Angels Cateau and Noveau are sent to Earth to find the Flower Girl, a young female who descends from both humans and Flower Angels (who once inhabited Earth, long ago) - and they find Lunlun in France. They convince her to go in a long journey to find the Flower - she'll know the good and bad sides of humans and Flower Angels (incarnated in the ambitious Togenishia and her sidekick Boris), and will fall in love with Serge Flora, a man who holds a great secret.",
+    "popularity": 27.867,
+    "poster_path": "/3xZdfWQ7b4vseRjCAuq9USFPc2I.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1979-02-09",
+            "episode_count": 50,
+            "id": 81219,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/18hum1Ro5deevWLF0FrUB4NByiE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 64
+}

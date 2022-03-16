@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/sQNFi3hZ5EjxEmp7AQwpQJuesOq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-01-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://yurucamp.jp/",
+    "id": 76075,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-04-01",
+    "last_episode_to_air": {
+        "air_date": "2021-04-01",
+        "episode_number": 13,
+        "id": 2696427,
+        "name": "I'm Home",
+        "overview": "It’s the last day of the Izu trip. The group visit the Iidas, who had helped them on their Izu trip and say hi to the hot spring capybaras.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/zidwcHhGsTX8WNpQHZClofdh6if.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Laid-Back Camp",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゆるキャン△",
+    "overview": "Nadeshiko, a high school student who had moved from Shizuoka to Yamanashi, decides to see the famous, 1000 yen-bill-featured Mount Fuji. Even though she manages to bike all the way to Motosu, she's forced to turn back because of worsening weather. Unable to set her eyes on her goal, she faints partway to her destination. When she wakes up, it's night, in a place she's never been before, with no way of knowing how to get home. Nadeshiko is saved when she encounters Rin, a girl who is out camping by herself. This outdoorsy girls story begins with this first encounter between Nadeshiko and Rin.",
+    "popularity": 40.576,
+    "poster_path": "/fsTqmos9zikrNJfP0uwFsmuZOh.jpg",
+    "production_companies": [
+        {
+            "id": 92992,
+            "logo_path": null,
+            "name": "C-Station",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-03-27",
+            "episode_count": 5,
+            "id": 103438,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ys9Q6stx4uxpAmgxvG5SiaG85Z0.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-01-04",
+            "episode_count": 12,
+            "id": 97338,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fsTqmos9zikrNJfP0uwFsmuZOh.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-01-07",
+            "episode_count": 13,
+            "id": 130271,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/94HE1N28eFEHqRDsmujMtW96R3v.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 42
+}

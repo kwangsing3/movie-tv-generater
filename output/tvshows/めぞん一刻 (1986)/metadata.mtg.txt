@@ -1,0 +1,143 @@
+{
+    "adult": false,
+    "backdrop_path": "/jZWjMz1ltf32tV42T41s1LtyHvC.jpg",
+    "created_by": [
+        {
+            "id": 585763,
+            "credit_id": "57e4abfcc3a3684ea0000279",
+            "name": "Rumiko Takahashi",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1986-03-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 43018,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1988-03-02",
+    "last_episode_to_air": {
+        "air_date": "1988-03-02",
+        "episode_number": 20,
+        "id": 884585,
+        "name": "As long as this love lasts! Ikkoku-kan is forever...!!",
+        "overview": "With their wedding fast approaching Kyoko and Godai are both cleaning out their rooms in preparation for moving in together. Kyoko finds an old box of Soichiro's personal items and Akemi and Mrs. Ichinose share it with Godai. Kyoko is embarrassed but Godai smiles politely and admits he has never seen a picture of Kyoko's late husband before and that he looks like a very kind man. That night both Kyoko and he are thinking about Soichiro. Kyoko decides that she is going to return Soichiro's belongings to his father, and Godai begins to wonder if he can measure up to the memory of her beloved first husband. The next day, Kyoko visits Soichiro's grave to pay her final respects and finds Godai there, praying. Yusaku tells Soichiro that he hopes to have his blessing for their marriage. Kyoko is moved to tears, and the couple stand before Soichiro's graves holding hands, ready to move ahead with their new life together. No one can contain their excitement as Yusaku and Kyoko's wedding day has arrived. Everyone comes to pay their respects and to get a look at the happy couple. Kyoko is beautiful in her wedding dress, and both Mr. Chigusa and Mr. Otonashi are in tears just from looking at her. Ikuko and Kentaro meet again after not seeing each other for a long time, and Sakamoto even cuts out of work to attend. Later at the reception Mitaka and Asuna arrive after a visit to the hospital. Asuna is very pregnant, and she and Shun are extremely happy together. Godai gives a speech thanking everyone for taking care of him all these years and asks for their continued support. The story flashes forward as Yusaku reveals the fates of Kozue, Ibuki, Shun and Asuna, Master and Akemi. Finally everyone arrives back at Maison Ikkoku anxiously awaiting Yusaku and Kyoko's return from the hospital. As the taxi pulls up the happy couple steps out with their new baby, Haruka. Everyone welcomes her to her new home as the series ends.",
+        "production_code": "",
+        "season_number": 4,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Maison Ikkoku",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 96,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "めぞん一刻",
+    "overview": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison Ikkoku. Among the other residents are the nosy Ichinose, the sexy Akemi Roppongi, and the mysterious Yotsuya. The others are given to having wild parties which makes it difficult for Godai to study. Into this mayhem comes the recently widowed Kyoko as the new live-in manager. Godai falls for her, but doesn't have the nerve to tell her. As time passes, their relationship slowly develops amid life at Maison Ikkoku, despite all sorts of romantic hurdles.",
+    "popularity": 28.667,
+    "poster_path": "/fdFSi4bhlB7sDukhny6IR81wIIf.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1988-02-06",
+            "episode_count": 6,
+            "id": 52485,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/3TIn9hdk3aRuN2xU2YB6nAfftb8.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1986-03-26",
+            "episode_count": 26,
+            "id": 52482,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/Ai2bRDxLTwfWwMPaxLmQFd6KXoL.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1986-09-24",
+            "episode_count": 26,
+            "id": 52483,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/f5AHsnPNgSPKV3FJWQHh6jne7YF.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "1987-04-08",
+            "episode_count": 24,
+            "id": 52481,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/9AiFDtnP4ob9yytptHa1RRTIzVR.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "1987-10-14",
+            "episode_count": 20,
+            "id": 52484,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/5vo1RsX3ZBtVypDzxFAzCHdgVkS.jpg",
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 15
+}

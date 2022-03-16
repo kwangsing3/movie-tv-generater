@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/eOVfklmUzGdYB18XwMVXXxiqpFX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2013-10-09",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://blazblue-am.jp/",
+    "id": 68485,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-12-25",
+    "last_episode_to_air": {
+        "air_date": "2013-12-25",
+        "episode_number": 12,
+        "id": 1429124,
+        "name": "The Price for the Future",
+        "overview": "Kokonoe and Rachel believe that Noel's transformation into Mu is irreversible, but Ragna refuses to give up on Noel.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mYVW7pIOlTlSaLcnGkYTEgUabRb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "BlazBlue Alter Memory",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブレイブルー オルターメモリー",
+    "overview": "In the year 2199, humanity eagerly waits for the dawn of the new century, following the end of a series of devastating magic wars. When the world's most wanted man, Ragna the Bloodedge (also known as the Grim Reaper) make a move to destroy society, a group of ragtag fighters come together to stop him.",
+    "popularity": 4.563,
+    "poster_path": "/z7c0u3685hh5ESCTrZZNkATqYm5.jpg",
+    "production_companies": [
+        {
+            "id": 25697,
+            "logo_path": "/u0AlLAjKiCI42ZeRUIuI8ARuosr.png",
+            "name": "Hoods Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-10-09",
+            "episode_count": 12,
+            "id": 81570,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/INETfeSopi6PMTEybF3W9dZiKk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 14
+}

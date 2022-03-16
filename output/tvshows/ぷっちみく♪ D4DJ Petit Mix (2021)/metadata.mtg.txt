@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/vuwkBgbUruA102M1nTOEtNWFuy2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2021-02-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://anime.d4dj-pj.com/petit-mix/",
+    "id": 120165,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-07-30",
+    "last_episode_to_air": {
+        "air_date": "2021-07-30",
+        "episode_number": 26,
+        "id": 3063650,
+        "name": "Digglers Forever",
+        "overview": "Rinku continues to run towards the finish line.\n\nFor all her friends waiting for her there...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/h61RKy8iswdB179yITbqsgfLu66.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "D4DJ Petit Mix",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぷっちみく♪ D4DJ Petit Mix",
+    "overview": "A mini-anime series featuring characters from the D4DJ Groovy Mix mobile game.",
+    "popularity": 4.073,
+    "poster_path": "/e2efesBZoIvtCT5d8xF45I8ukDd.jpg",
+    "production_companies": [
+        {
+            "id": 123172,
+            "logo_path": "/52z6trsASwSR0hVhwgNJ4KkmOd2.png",
+            "name": "DMM.futureworks",
+            "origin_country": "JP"
+        },
+        {
+            "id": 92406,
+            "logo_path": null,
+            "name": "W-Toon Studio",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-02-05",
+            "episode_count": 26,
+            "id": 184553,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/e2efesBZoIvtCT5d8xF45I8ukDd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

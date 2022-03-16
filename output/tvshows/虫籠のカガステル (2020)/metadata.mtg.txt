@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/rr9y35QCgeucPiFAraJvink5iWJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        26
+    ],
+    "first_air_date": "2020-02-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://cagaster.com/",
+    "id": 94795,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-02-06",
+    "last_episode_to_air": {
+        "air_date": "2020-02-06",
+        "episode_number": 12,
+        "id": 2072165,
+        "name": "Finally, For You",
+        "overview": "As the battle between Salif’s forces and the defenders of E-05 come to an end, the survivors inside E-07's main tower confront their futures.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/umQqKcI4XziqK0nxAG9UGQZZ0VE.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Cagaster of an Insect Cage",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "虫籠のカガステル",
+    "overview": "Thirty years after a disease that turns the infected into carnivorous insects emerged, a young exterminator and a teenage girl search for her mother.",
+    "popularity": 18.627,
+    "poster_path": "/yOIixxFPbfcGytrcYdRrC9Y1bT5.jpg",
+    "production_companies": [
+        {
+            "id": 125523,
+            "logo_path": null,
+            "name": "Studio KAI",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-02-06",
+            "episode_count": 12,
+            "id": 134584,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8TvtVqeYsO7ED5dOHoZzSO1BbK7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 166
+}

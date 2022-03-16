@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/xa1Km6WccUOTpEXVjwvRn6B0AFr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        26
+    ],
+    "first_air_date": "2003-05-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.kids-station.com/minisite/tokushu/saintbeast/index.html",
+    "id": 117595,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-06-13",
+    "last_episode_to_air": {
+        "air_date": "2003-06-13",
+        "episode_number": 6,
+        "id": 2682410,
+        "name": "For Whose Sake",
+        "overview": "Maya, Kira, and Ayumi, and the other guardian angels, start to fall into hell, and the Four Saint Beasts find themselves falling along with them.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Saint Beast: Seijuu Kourin Hen",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "セイント・ビースト～聖獣降臨編～",
+    "overview": "In the ancient past, the Highest level of angels, the Six Saintly Beasts reigned supreme as the beast kings. Two of the Saint Beasts disobeyed Gods order and was sealed away in a Hellish place. Now after thousands of days and nights, the barrier has weakened and they escape. So the remaining four must go to Earth and stop them from causing trouble.",
+    "popularity": 1.361,
+    "poster_path": "/bc1M1nOkoaI8ojfeLeEEtgtooYc.jpg",
+    "production_companies": [
+        {
+            "id": 78440,
+            "logo_path": null,
+            "name": "Tokyo Kids",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-05-09",
+            "episode_count": 6,
+            "id": 178555,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bc1M1nOkoaI8ojfeLeEEtgtooYc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

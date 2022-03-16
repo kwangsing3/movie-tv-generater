@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/kbFbNzt4kvcWxO1Ul0GHjE8skty.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1998-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 8908,
+    "in_production": false,
+    "languages": [
+        "de"
+    ],
+    "last_air_date": "2000-12-17",
+    "last_episode_to_air": {
+        "air_date": "2000-12-17",
+        "episode_number": 39,
+        "id": 402002,
+        "name": "Cavemen's Christmas",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Flint: The Time Detective",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "時空探偵ゲンシクン",
+    "overview": "Flint the Time Detective, known in Japan as Space-Time Detective Genshi-kun, is an animated Japanese television series directed by Hiroshi Fukutomi. It was based on a manga by Hideki Sonoda and Akira Yamauchi and was published by Kodansha in Japan. The anime aired from 1998 to 1999 in Japan and ran for 39 episodes. In USA Flint the Time Detective airs from March 5, 2000 until November 5, 2000. The series also aired in the Philippines via GMA 7 and dubbed in Filipino language which runs from late 2000 until mid-2001.\n\nEnoki Films and Sanrio hold the license to Flint the Time Detective.",
+    "popularity": 8.891,
+    "poster_path": "/t0F6ZlpTicFY44uFYzc5vNGw2rH.jpg",
+    "production_companies": [
+        {
+            "id": 5397,
+            "logo_path": null,
+            "name": "Group TAC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 140664,
+            "logo_path": null,
+            "name": "Fox Kids Network",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1998-10-01",
+            "episode_count": 39,
+            "id": 18848,
+            "name": "Season 1",
+            "overview": "Flint the Time Detective, known in Japan as Jikū Tantei Genshi-kun (時空探偵ゲンシクン, Space-Time Detective Genshi-kun), is an animated Japanese television series directed by Hiroshi Fukutomi. It was based on a manga by Hideki Sonoda and Akira Yamauchi and was published by Bros. Comics in Japan. A second manga by Bom Bom Comics was also produced and was released as a special promo for the anime. The anime aired from 1998 to 1999 in Japan and ran for 39 episodes.",
+            "poster_path": "/t0F6ZlpTicFY44uFYzc5vNGw2rH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

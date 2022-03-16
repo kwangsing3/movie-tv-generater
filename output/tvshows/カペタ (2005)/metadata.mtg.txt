@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 34803,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-26",
+    "last_episode_to_air": {
+        "air_date": "2006-09-26",
+        "episode_number": 52,
+        "id": 792672,
+        "name": "Chequered Flag!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Capeta",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カペタ",
+    "overview": "Capeta is a Japanese sports manga and anime about kart racing by Masahito Soda. The manga won the Kodansha Manga Award for shōnen in 2005.\n\nThe series consists of three separate arcs. The first is about Capeta's first experiences with kart racing at the age of 10. The next arc, which starts four years later, deals with Capeta trying to handle his growing financial issues due to the high cost involved in kart racing. The third is about Capeta trying to realize his dream of beating his rival and becoming a professional racer, venturing through into a more senior category: Formula Three. Both the anime and manga features numerous references and homages to Initial D and Best Motoring International references, as well as Formula One. In addition to this, there are many karting and racing references that not only add flesh to the story, but are also factual.",
+    "popularity": 11.447,
+    "poster_path": "/A6tucT7siPnRuJwkY3eudkbRV6N.jpg",
+    "production_companies": [
+        {
+            "id": 69265,
+            "logo_path": null,
+            "name": "Studio Comet",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-10-04",
+            "episode_count": 52,
+            "id": 45584,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3mkT3khroEAizWIhUDxoxmO6IZL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

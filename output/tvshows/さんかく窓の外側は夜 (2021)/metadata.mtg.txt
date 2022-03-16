@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/d4M8nLmwz9T9k4lyNKeESyHvAYi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://sankakumado-anime.com/",
+    "id": 114307,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-19",
+    "last_episode_to_air": {
+        "air_date": "2021-12-19",
+        "episode_number": 12,
+        "id": 3198679,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qXAfyxZyHgu6FHVbrmQM2NAMHCm.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Night Beyond the Tricornered Window",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "さんかく窓の外側は夜",
+    "overview": "Shy bookstore clerk Kosuke Mikado has the ability to see ghosts and spirits, an ability he wishes he didn't have, since what he sees usually terrifies him. Rihito Hiyakawa, an exorcist whose supernatural powers are as strong as his social graces are weak, doesn't seem to fear anything, mortal or otherwise. When this odd couple gets together to solve the bizarre cases that come their way, their work methods may not be entirely safe for work!",
+    "popularity": 29.266,
+    "poster_path": "/yY4Vb61W30ToltsgVJdCIszg5tJ.jpg",
+    "production_companies": [
+        {
+            "id": 109854,
+            "logo_path": null,
+            "name": "Zero-G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-03",
+            "episode_count": 12,
+            "id": 171337,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xWCMR9Rdj5RHe4YyRFmUethPoy0.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

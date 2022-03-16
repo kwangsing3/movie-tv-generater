@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/1vnEDrx70B3IwYNqKzUipuyJalL.jpg",
+    "created_by": [
+        {
+            "id": 219647,
+            "credit_id": "62249e3b481382001bd29eaa",
+            "name": "Yasuhiro Takemoto",
+            "gender": 2,
+            "profile_path": "/zQEmmJrtMq1Sdnl3TUeoGYreqZH.jpg"
+        }
+    ],
+    "episode_run_time": [
+        26
+    ],
+    "first_air_date": "2012-04-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.kyotoanimation.co.jp/kotenbu/",
+    "id": 65329,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-17",
+    "last_episode_to_air": {
+        "air_date": "2012-09-17",
+        "episode_number": 22,
+        "id": 1158931,
+        "name": "The Doll That Took a Detour",
+        "overview": "Hotaro is enlisted by Eru to appear in a Dolls' Festival parade that her local shrine holds every year. When construction work unexpectedly causes a last-minute detour, it leaves the participants wondering what went awry.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cxd2WbPg01dVPOD0C3pYCgAGq85.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hyouka",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "氷菓",
+    "overview": "Oreki Houtarou is a minimalistic high school boy. One day, he joins the Classic Literature Club at his elder sister's request. There he meets Chitanda Eru, Fukube Satoshi, and Ibara Mayaka. Chitanda is a calm beautiful girl but she turns into an embodiment of curiosity once she says, \"I'm curious.\" Fukube is a smiling boy with a fantastic memory who calls himself a database. Ibara is a short girl and is strict with others and herself. They begin to investigate a case that occurred 45 years ago. Hints of the mystery are buried in an old collection of works of the former members of Classics Club. The collection is titled \"Hyouka.\"",
+    "popularity": 38.898,
+    "poster_path": "/dnYx8jtn2JzAMkVYRG9mFZMJoDc.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-07-08",
+            "episode_count": 1,
+            "id": 78987,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/nOU5CEPQwPBCJRJVyzhe4rVaHmR.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-04-23",
+            "episode_count": 22,
+            "id": 73963,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sbzohx0WHmpzFvzDuxaryvf8NX4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 233
+}

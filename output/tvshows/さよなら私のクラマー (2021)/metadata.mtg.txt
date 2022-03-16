@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/pnHSFYcfp25gRaPILbAiXj3X3Dv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://sayonara-cramer.com/tv/",
+    "id": 108478,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-27",
+    "last_episode_to_air": {
+        "air_date": "2021-06-27",
+        "episode_number": 13,
+        "id": 2849591,
+        "name": "Those Who Form the Backbone",
+        "overview": "The Warabis are defeated by Urawa Hosei in the first round of the knockout stages. The next day, Nozomi finds herself unable to sort out her feelings, so she heads to the goal by herself. When Fukatsu stops by, she shares her feelings with him. Even after he tells her that she doesn't need to change, she still has doubts. The Warabis gather at the practice pitch one by one, and together they attempt to make a fresh start with the desire to become stronger in their hearts.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4n0xaBYPG3ExjTI4nEI0C58F6Rq.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Farewell, My Dear Cramer",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "さよなら私のクラマー",
+    "overview": "With no soccer accomplishments to speak of during the entirety of Suou Sumire's junior high school years, the young wing gets an odd offer. Suou's main rival, Soshizaki Midori, invites her to join up on the same team in high school, with a promise that she'll never let Suou \"play alone.\" It's an earnest offer, but the question is whether Suou will take her up on it. Thus the curtain opens on a story that collects an enormous cast of individual soccer-playing personalities!",
+    "popularity": 24.503,
+    "poster_path": "/iunaQYinM0b7gyfUuqLzhLyMWXb.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        },
+        {
+            "id": 31364,
+            "logo_path": null,
+            "name": "Rakuonsha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-16",
+            "episode_count": 24,
+            "id": 189038,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/wPSwdxPWRK6bNPGg48nE2UJynxk.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-04-04",
+            "episode_count": 13,
+            "id": 160834,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iunaQYinM0b7gyfUuqLzhLyMWXb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.6,
+    "vote_count": 5
+}

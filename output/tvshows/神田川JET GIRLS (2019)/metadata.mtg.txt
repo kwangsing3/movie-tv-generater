@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": "/fwAAVtwCr6UPKlVBBlSbvvtBbHW.jpg",
+    "created_by": [
+        {
+            "id": 1319859,
+            "credit_id": "60759be41b1f3c006ea8a7c9",
+            "name": "Hiraku Kaneko",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://kjganime.com/",
+    "id": 93495,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-01-08",
+    "last_episode_to_air": {
+        "air_date": "2020-01-08",
+        "episode_number": 12,
+        "id": 1948781,
+        "name": "Our Jet Race",
+        "overview": "Win or lose, Rin and Misa now race as one. Will their teamwork hold in the most important Jet Race of their lives and against the ultimate enemy, Kaguya Shijyuin?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ckUwCaxD43h3umOZu4s2GpMdpUW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kandagawa Jet Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "d Anime Store",
+            "id": 3685,
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "神田川JET GIRLS",
+    "overview": "Jet Racing's wet-n-wild combo of PWC racing and watergun sharpshooting has become mega-popular across the world. Rin Namiki wants in on the action, and after meeting the cool and gorgeous Misa Aoi, it looks like Rin's dreams are finally in reach!",
+    "popularity": 11.888,
+    "poster_path": "/qVUjq1VlKfZQPZMaSZnmPgkoRKG.jpg",
+    "production_companies": [
+        {
+            "id": 95809,
+            "logo_path": "/5ac8LhghlxYKbPSwbXJkgrNfjGF.png",
+            "name": "EGG FIRM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 23917,
+            "logo_path": null,
+            "name": "TNK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-11-05",
+            "episode_count": 2,
+            "id": 135375,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/j66otDUg0jnGI2Nsbp2XFYn0Cgs.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-10-08",
+            "episode_count": 12,
+            "id": 132135,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hQro8165pe0dGaTLtWSGda3vYQd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 5
+}

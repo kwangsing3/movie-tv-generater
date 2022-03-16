@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/3NWbcAKi0vBMWm1UlBAULd8eZSs.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2013-04-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 51550,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-07-01",
+    "last_episode_to_air": {
+        "air_date": "2013-07-01",
+        "episode_number": 10,
+        "id": 920149,
+        "name": "Episode 10",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/syTZ0MXVgv13IIkDQJU1OHtThA8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Miyakawa-ke no Kuufuku",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Ustream",
+            "id": 2729,
+            "logo_path": "/pRc6dPI8TIaZ61bF24bh6Zwk6QS.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "宮河家の空腹",
+    "overview": "",
+    "popularity": 1,
+    "poster_path": "/8cOO5NyBT68nNsUe9YgfJ0be6gC.jpg",
+    "production_companies": [
+        {
+            "id": 109576,
+            "logo_path": "/sOIxEPrn2MMo74YP03XlYh41v0V.png",
+            "name": "Encourage Films",
+            "origin_country": "JP"
+        },
+        {
+            "id": 32384,
+            "logo_path": null,
+            "name": "Ordet",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-04-29",
+            "episode_count": 10,
+            "id": 55835,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/osYdGMYGqeBULsMw6Tj2y9AXhay.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

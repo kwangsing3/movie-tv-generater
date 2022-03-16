@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/c6WE7PWioZYqyl0UbGBbCF4E8Jz.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2004-05-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.ponycanyon.co.jp/pc-moe/love/",
+    "id": 44530,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-06-29",
+    "last_episode_to_air": {
+        "air_date": "2004-06-29",
+        "episode_number": 9,
+        "id": 1971726,
+        "name": "Shine Amidst the Tempest",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love Love?",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "UHF Station",
+            "id": 3293,
+            "logo_path": null,
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "LOVE♥LOVE?",
+    "overview": "Naoto is the writer of the CosPrayers TV show and he has a crush on one of the actresses, Natsumi Yagami.",
+    "popularity": 1.664,
+    "poster_path": "/yK1KZAkc28JJQiNFQLpS12PNkEB.jpg",
+    "production_companies": [
+        {
+            "id": 147256,
+            "logo_path": null,
+            "name": "IMAGIN",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-07-14",
+            "episode_count": 4,
+            "id": 194676,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-05-04",
+            "episode_count": 9,
+            "id": 135019,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

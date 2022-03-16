@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/tmUbD5YkBarXBmJqfLC3v8zeWUq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "http://www.tokunana.jp",
+    "id": 93647,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-29",
+    "last_episode_to_air": {
+        "air_date": "2019-12-29",
+        "episode_number": 12,
+        "id": 1947180,
+        "name": "From Zero to Seven",
+        "overview": "Warlock has unleashed his dragon powers and is preparing to destroy the final seal! Will Nanatsuki's powers be enough to stop him, even with the rest of Special 7 backing him up? The fate of the world is riding on the answer!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9GCkyRxwvKj8xjoIpW5kz30ejcH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Special 7: Special Crime Investigation Unit",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS Fuji",
+            "id": 1136,
+            "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-",
+    "overview": "Set in a different Tokyo on a different world than ours, the story follows Tokunana, a unit of assembled misfits in the Metropolitan Police Department. Tokunana battles against \"Nine\" — an organization commiting crimes in their zealous worship of the dragons that once roamed the world.",
+    "popularity": 8.178,
+    "poster_path": "/9mOQ5aM5tLHJcszNcuwBQXHOiSq.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-12-01",
+            "episode_count": 2,
+            "id": 136965,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-10-06",
+            "episode_count": 12,
+            "id": 132396,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jFRL99eGNl9ygXgt3aJbiTXexo5.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 5
+}

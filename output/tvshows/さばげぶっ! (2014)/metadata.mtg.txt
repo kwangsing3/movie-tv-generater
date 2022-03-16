@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/i4MY5XFo7d1MheYtMpvtQnRFzb7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2014-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://sabagebu.com/",
+    "id": 61424,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-21",
+    "last_episode_to_air": {
+        "air_date": "2016-09-21",
+        "episode_number": 12,
+        "id": 1213034,
+        "name": "Farewell, Friends! The Last Day of the Survival Game Club! / With Love From the Survival Game Club",
+        "overview": "When Momoka appears to have caught an unknown virus, the others vow to protect her from becoming a medical test subject, coming up against the National Survival Game Club. After an intense battle filled with many sacrifices, Momoka prepares to give herself up, only to learn they have found a simple cure. Later, at Christmas, the group attempts to plan a surprise birthday party for Urara, whose birthday is on Christmas Day, but nothing seems to go according to plan.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4CPg2wUjeGT45aLoI0Mtyo4tpDZ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Survival Game Club",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "さばげぶっ!",
+    "overview": "Momoka is a high school student who's mastered the art of blending in after transferring from one school to another several times. Despite her ability to fly under the radar, she finds herself recruited by her new school's survival game club. Most of the other girls in the club are a bit eccentric in one way or another: there's the wealthy gun nut, the cosplaying otaku, and the seemingly cute girl with a terrifying dark side. Momoka, however, is just as eccentric herself. (Source: ANN)",
+    "popularity": 4.857,
+    "poster_path": "/bqibFFJFY9KAyA3VUHvjE7A0Ehm.jpg",
+    "production_companies": [
+        {
+            "id": 116825,
+            "logo_path": null,
+            "name": "Studio Pierrot",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-09-24",
+            "episode_count": 6,
+            "id": 123877,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/gOwtLOIv68cfJ8rv3jpeMA0vTLK.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-07-06",
+            "episode_count": 12,
+            "id": 62895,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gOwtLOIv68cfJ8rv3jpeMA0vTLK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 16
+}

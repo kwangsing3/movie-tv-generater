@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/rl3cHVMuHXr6XJ7jKDoXJamoqPI.jpg",
+    "created_by": [
+        {
+            "id": 1144162,
+            "credit_id": "5dc8844a470ead0015976bf9",
+            "name": "Ichirō Ōkouchi",
+            "gender": 2,
+            "profile_path": "/bOACJgaqncJOSukAAErIlxBOor8.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2016-04-08",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://kabaneri.com",
+    "id": 65945,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-07-01",
+    "last_episode_to_air": {
+        "air_date": "2016-07-01",
+        "episode_number": 12,
+        "id": 1185903,
+        "name": "Iron Fortress",
+        "overview": "Biba's plan, Mumei's Nue transformation, and the influx of Kabane were all too much for Kongokaku to withstand. That is when Ikoma arrives. Having modified his body once again, Ikoma enters Kongokaku in order to rescue Mumei, despite the danger he will have to face.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/e0YbwsYoHKuIRcZ2FwAQNV8JOq1.jpg",
+        "vote_average": 9.5,
+        "vote_count": 2
+    },
+    "name": "Kabaneri of the Iron Fortress",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "甲鉄城のカバネリ",
+    "overview": "As the world is in the middle of an industrial revolution, a monster appears that cannot be defeated unless its heart, which is protected by a layer of iron, is pierced. By infecting humans with its bite, the monster can create aggressive and undead creatures known as Kabane. On the island Hinomoto, located in the far east, people have built stations to shelter themselves from these creatures. People access the station, as well as transport wares between them, with the help of a locomotive running on steam, called Hayajiro. Ikoma, a boy who lives in the Aragane station and helps to build Hayajiro, creates his own weapon called Tsuranukizutsu in order to defeat the creatures. One day, as he waits for an opportunity to use his weapon, he meets a girl named Mumei, who is excused from the mandatory Kabane inspection. During the night, Ikuma meets Mumei again as he sees Hayajiro going out of control. The staff on the locomotive has turned into the creatures. The station, now under attack by Kabane, is the opportunity Ikoma has been looking for.",
+    "popularity": 38.922,
+    "poster_path": "/a9lY3DCLU3DWvUshho6hAX2hKKh.jpg",
+    "production_companies": [
+        {
+            "id": 31058,
+            "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+            "name": "Wit Studio",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-08",
+            "episode_count": 12,
+            "id": 75475,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/b0tqO2ZmAoVN1edaUig0i7UHQRt.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 77
+}

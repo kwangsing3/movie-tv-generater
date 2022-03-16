@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/rAaSeGLqLTjaUn7oGCVqfQBTX4p.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        29
+    ],
+    "first_air_date": "1996-06-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.jcstaff.co.jp/sakuhin/nenpyo/1996/03_toushinden/toushinden.htm",
+    "id": 117012,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-08-21",
+    "last_episode_to_air": {
+        "air_date": "1996-08-21",
+        "episode_number": 2,
+        "id": 2659866,
+        "name": "",
+        "overview": "Eiji and Kayin meet up with another competitor, Ellis, and warn her of the danger. Believing she may be slain, Eiji and Kayin set a trap for Chaos and surprise him when he arrives.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uWkSZpGesTZ2zq6wwa2yu1Bs9rr.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Battle Arena Toshinden",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "闘神伝",
+    "overview": "For one year, Master Swordsman Eiji Shinjo has been haunted by the memory of his battle with the renegade champion, Gaia - a battle that was cut short by the forces of the malevolent syndicate known as \"the organization.\"\n\nDenied victory, Eiji left the tournament followed by his opponents mocking laughter. Worse still, Eiji walked away no closer to finding his long lost brother, Sho. But now, a mysterious warrior is hunting down the champions of the previous tournament and using their own moves against them - and it looks like that person may be Sho. Who is this powerful new foe and who is his next target?\n\nEiji and Kayin, his closest friend and greatest rival, struggle to unravel the mystery before they, too, join the ranks of the defeated. The answer lies at the heart of the Organization and its plans for world domination. At last, the ultimate battle between the greatest fighters in the world will be decided. But if Eiji loses, his friends - Ellis - may Die...",
+    "popularity": 4.404,
+    "poster_path": "/aCHJbUHwhO7wUnPf7xf6r3M6KiV.jpg",
+    "production_companies": [
+        {
+            "id": 13064,
+            "logo_path": null,
+            "name": "Animate Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1996-06-21",
+            "episode_count": 2,
+            "id": 177243,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3TuAKCA5lqjhyWVep1a1GNu7jxf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

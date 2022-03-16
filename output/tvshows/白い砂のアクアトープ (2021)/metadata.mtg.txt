@@ -1,0 +1,168 @@
+{
+    "adult": false,
+    "backdrop_path": "/5ryyuEncPn7hBW4YvTT9EZ4KWSG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://aquatope-anime.com",
+    "id": 116724,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-17",
+    "last_episode_to_air": {
+        "air_date": "2021-12-17",
+        "episode_number": 24,
+        "id": 3060675,
+        "name": "The Aquatope on White Sand",
+        "overview": "Aquarium Tingarla is hard at work preparing to carry out the aquarium wedding project that Kukuru spearheaded.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yl2LVsyfWzC0jqcckckzk5w8wZC.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "The Aquatope on White Sand",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "白い砂のアクアトープ",
+    "overview": "Kukuru Misakino, an 18-year-old high school girl working in an aquarium, meets Fuuka Miyazawa, a former idol who lost her place in Tokyo and escaped. Fuuka will spend her days in the aquarium with her own thoughts in mind. However, the crisis of closing is approaching for the aquarium, as the girls explore their dreams and reality, loneliness and friends, bonds and conflicts.",
+    "popularity": 32.398,
+    "poster_path": "/86dxo38ksU7hnCpbfYgIJ3jA6kJ.jpg",
+    "production_companies": [
+        {
+            "id": 20867,
+            "logo_path": "/op3ROO9jB4KwLUZ16VAvuGasRRv.png",
+            "name": "P.A.Works",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156999,
+            "logo_path": "/yOPNMsW68we3cA9XNPsZsmZtVOj.png",
+            "name": "DMM pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157000,
+            "logo_path": null,
+            "name": "Forecast Communications",
+            "origin_country": "JP"
+        },
+        {
+            "id": 136217,
+            "logo_path": "/dBYuplhBgeOsGPQOI0LukWNbFWE.png",
+            "name": "Bandai Namco Arts",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157001,
+            "logo_path": "/vDBycpPRLKBf7T0RQbQtU49BQO6.png",
+            "name": "Kadokawa Media House",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157002,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "name": "Tokyo MX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157003,
+            "logo_path": null,
+            "name": "AQUA ARIS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59206,
+            "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+            "name": "BS Fuji",
+            "origin_country": "JP"
+        },
+        {
+            "id": 99359,
+            "logo_path": "/qaUZJIED95Hz91EezYVkdzF931b.png",
+            "name": "infinite",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-06-13",
+            "episode_count": 9,
+            "id": 202909,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/thP9839EAm9jhIUUJW6W2oAQuhy.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-07-09",
+            "episode_count": 24,
+            "id": 176613,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/86dxo38ksU7hnCpbfYgIJ3jA6kJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "The two girls met in the ruins of damaged dream",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 3
+}

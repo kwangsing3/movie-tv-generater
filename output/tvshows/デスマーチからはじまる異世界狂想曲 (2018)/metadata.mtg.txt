@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/pv7CjeqAsN1fH5k8oUxs3lJUorJ.jpg",
+    "created_by": [
+        {
+            "id": 1247470,
+            "credit_id": "5a58020e0e0a2634f80008b6",
+            "name": "Shin Oonuma",
+            "gender": 2,
+            "profile_path": "/jj7DtwEIubS0vpqEh7zQ4f2Cnvl.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2018-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://deathma-anime.com/",
+    "id": 76122,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-29",
+    "last_episode_to_air": {
+        "air_date": "2018-03-29",
+        "episode_number": 12,
+        "id": 1449441,
+        "name": "A Trip to the Underworld That Started With a Death March",
+        "overview": "Satou has to deliver on an arrangement where countless factors have been twisted against him, but will that be enough to keep him from pulling through?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7EUCgEtWifpxRCU47UDLNRpArFJ.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Death March to the Parallel World Rhapsody",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デスマーチからはじまる異世界狂想曲",
+    "overview": "29-year-old programmer Suzuki Ichirou finds himself transported into a fantasy RPG. Within the game, he's a 15-year-old named Satou. At first he thinks he's dreaming, but his experiences seem very real. Due to a powerful ability he possesses with limited use, he ends up wiping out an army of lizard men and becomes a high leveled adventurer. Satou decides to hide his level, and plans to live peacefully and meet new people. However, developments in the game's story, such as the return of a demon king, may cause a nuisance to Satou's plans.",
+    "popularity": 29.854,
+    "poster_path": "/aVJUCmI7s22BtolCd0QoAztaGU1.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-01-11",
+            "episode_count": 12,
+            "id": 97440,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5e99lDMqd0dVG97t00jDG4yZbUj.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 185
+}

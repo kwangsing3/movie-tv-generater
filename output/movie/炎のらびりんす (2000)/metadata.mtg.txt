@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/7DhvFdnb4n4nYvxodWRv2Xuhncy.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 203071,
+    "imdb_id": "",
+    "original_language": "ja",
+    "original_title": "炎のらびりんす",
+    "overview": "When Galan's princess girlfriend gives him the gift of an ancient sword, strange events unfold, and even stranger people drop out of the sky to attack. Now Galan must overcome his ineptitude and join a bunch of beautiful women in a wacky romp through a kingdom that time forgot.",
+    "popularity": 1.171,
+    "poster_path": "/3qXlFMoWkEFQ86BnfML8MMjrj2K.jpg",
+    "production_companies": [
+        {
+            "id": 13023,
+            "logo_path": null,
+            "name": "Studio Fantasia",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2000-09-25",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Tales of a wannabe samurai.",
+    "title": "Labyrinth of Flames",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 3
+}

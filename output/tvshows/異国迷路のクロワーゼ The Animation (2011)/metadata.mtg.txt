@@ -1,0 +1,142 @@
+{
+    "adult": false,
+    "backdrop_path": "/y35lIRnGc38H76nhuPEkbgSrhLE.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 72919,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-19",
+    "last_episode_to_air": {
+        "air_date": "2011-09-19",
+        "episode_number": 12,
+        "id": 1474087,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tbrYebjiUf4BN3ALHuCiYImypjo.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Croisée in a Foreign Labyrinth",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "異国迷路のクロワーゼ The Animation",
+    "overview": "The story takes place in the second half of the 19th century, as Japanese culture gains popularity in the West. A young Japanese girl, Yune, accompanies a French traveler, Oscar, on his journey back to France, and offers to help at the family's ironwork shop in Paris. Oscar's nephew and shop-owner Claude reluctantly accepts to take care of Yune, and we learn how those two, who have so little in common, get to understand each other and live together in the Paris of the 1800s.",
+    "popularity": 3.93,
+    "poster_path": "/wIDf4vPBb77HzFlTy6wMKX0qSvP.jpg",
+    "production_companies": [
+        {
+            "id": 30293,
+            "logo_path": null,
+            "name": "SATELIGHT",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21346,
+            "logo_path": "/zFOXiwgrIakUsgWqbsDGgo6JEiw.png",
+            "name": "FlyingDog",
+            "origin_country": "JP"
+        },
+        {
+            "id": 648,
+            "logo_path": "/nCIeUG7ntLvo8aMXIkldyCy8g5G.png",
+            "name": "Sony Music Entertainment (Japan)",
+            "origin_country": "JP"
+        },
+        {
+            "id": 171261,
+            "logo_path": null,
+            "name": "Aoni Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        },
+        {
+            "id": 42196,
+            "logo_path": "/nQNmHvcmaT0zk1Rf0TYtLYO5MpI.png",
+            "name": "Bushiroad",
+            "origin_country": "JP"
+        },
+        {
+            "id": 60197,
+            "logo_path": null,
+            "name": "Good Smile Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-07-29",
+            "episode_count": 1,
+            "id": 175125,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/g2NCDsUv1XCHciiAmrCAutTOjuq.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-07-04",
+            "episode_count": 12,
+            "id": 90632,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2RsgJZFyyDAqfeJ2FrYLHUSyPcr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 3
+}

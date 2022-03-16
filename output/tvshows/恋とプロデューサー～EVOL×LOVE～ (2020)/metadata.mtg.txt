@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/oRcTMUWf7sua2C3Ruj78NZd0dKM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2020-07-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://koipro-anime.love/",
+    "id": 102285,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-10-01",
+    "last_episode_to_air": {
+        "air_date": "2020-10-01",
+        "episode_number": 12,
+        "id": 2336337,
+        "name": "Bonds",
+        "overview": "\"It takes all the running you can do, to keep in the same place.\" Black Swan is using sleeping gas and electromagnetic waves to force people to become Evolvers. The success rate is 0.01%. To protect everyone's future, I head to the luxury liner where I'll find Hades. Will it be a future of destruction that I choose, or will it be...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nq9DQsdnZSTEugLcKfsYuYkCpk7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mr Love: Queen's Choice",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS4",
+            "id": 3220,
+            "logo_path": "/naTpOY8AjRtgBw0JXafrhAD8ZBT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "恋とプロデューサー～EVOL×LOVE～",
+    "overview": "A girl inherits a company that is almost bankrupt from her late father. Lacking the funds, she must now become the producer herself in order to save the company from collapse. During her work, she meets four boys—financial expert Zen, the idol Kira, police officer Haku, and leading neuroscientist Simon—and is suddenly involved with the conspiracies and mysteries over the existence of special powers known as \"Evol.\"",
+    "popularity": 5.9,
+    "poster_path": "/yD5qZROewqdFDD38y9wJrLbJjYU.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150545,
+            "logo_path": "/df2KyiUSCxpoQxV88AI3zxu8kbD.png",
+            "name": "dugout",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-07-16",
+            "episode_count": 12,
+            "id": 148575,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xCfJvTs6mDqLG8oYNUuvjLEdEeK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 3
+}

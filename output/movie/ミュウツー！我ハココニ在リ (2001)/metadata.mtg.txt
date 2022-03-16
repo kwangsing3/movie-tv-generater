@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/pJszL2mPl084IDSzLDPH8NqIq0r.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 36897,
+    "imdb_id": "tt0304564",
+    "original_language": "ja",
+    "original_title": "ミュウツー！我ハココニ在リ",
+    "overview": "Satoshi, Kasumi, and Takeshi continue exploring the Johto region, then have to rescue Pikachu after Musashi and Kojiro kidnap him. The search leads them to the hidden plateau where Mewtwo has established a haven for the cloned Pokémon from the previous film. The evil Sakaki is plotting to recapture Mewtwo and renew his efforts to create an army of bio-engineered Pokémon. Aided by the reluctant Nyarth, Ash and his friends defeat Sakaki and his henchman.",
+    "popularity": 22.239,
+    "poster_path": "/zIYljUBF2rXzB0yYZVEPY1l8zHp.jpg",
+    "production_companies": [
+        {
+            "id": 138859,
+            "logo_path": null,
+            "name": "Anime World Osaka",
+            "origin_country": ""
+        },
+        {
+            "id": 76469,
+            "logo_path": null,
+            "name": "JR Kikaku",
+            "origin_country": ""
+        },
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5261,
+            "logo_path": null,
+            "name": "Shogakukan Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 138860,
+            "logo_path": null,
+            "name": "Snow Light Staff",
+            "origin_country": ""
+        },
+        {
+            "id": 108661,
+            "logo_path": null,
+            "name": "Studio Jack",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2001-08-17",
+    "revenue": 0,
+    "runtime": 63,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pokémon: Mewtwo Returns",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 261
+}

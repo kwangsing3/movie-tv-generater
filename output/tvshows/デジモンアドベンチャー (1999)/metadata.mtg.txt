@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/2PFu1IarPnkM2y1RXrb0TiWYhM3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        20
+    ],
+    "first_air_date": "1999-03-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 31654,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2001-03-25",
+    "last_episode_to_air": {
+        "air_date": "2001-03-25",
+        "episode_number": 50,
+        "id": 1164340,
+        "name": "A Million Points of Light",
+        "overview": "Assisted by DigiDestined all over the world and the kidnapped children, the DigiDestined weaken MaloMyotismon with their dreams and Imperialdramon destroys him, ending Myotismon’s reign of terror for good. Oikawa sacrifices himself by using the power of the Dream World dimension to become data and restoring the Digital World. Twenty-five years later, everyone in the Real World has a Digimon partner, and the DigiDestined's children hold the responsibility of protecting the worlds.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/hahAzeuE7XgWcoWL0srnI9jMPL1.jpg",
+        "vote_average": 9,
+        "vote_count": 2
+    },
+    "name": "Digimon Adventure",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 104,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デジモンアドベンチャー",
+    "overview": "While at summer camp, seven kids are transported to a strange digital world. In this new world they make friends with creatures that call themselves Digimon who were born to defend their world from various evil forces.",
+    "popularity": 104.889,
+    "poster_path": "/Av8PwfWlos6hkwJEoegvLrkhSg4.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-03-06",
+            "episode_count": 9,
+            "id": 43146,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/7crdTPgViDowEc3Ju7psMtzUbSU.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1999-03-07",
+            "episode_count": 54,
+            "id": 43147,
+            "name": "Digimon Adventure",
+            "overview": "While at summer camp, seven kids - Tai, Matt, Sora, Izzy, Mimi, Joe, and T.K. - come across seven Digivices and are transported to a strange digital world. In this new world they make friends with creatures that call themselves Digimon - short for Digital Monsters - who were born to defend their world from various evil forces. The children learn they have the ability to help their new Digimon friends digivolve into different Digital Monsters and fight as a team to defend enemies and ultimately find their way home.",
+            "poster_path": "/a1LlYnJC5Khp2cNihSG1EkhE7hg.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2000-04-02",
+            "episode_count": 50,
+            "id": 43148,
+            "name": "Digimon Adventure 02",
+            "overview": "With most of the original characters now in junior high school, the Digital World was supposedly secure and peaceful. However, a new evil has appeared in the form of the Digimon Emperor, a human just like the DigiDestined, who has been enslaving all Digimon. Three new children are chosen to save the Digital World and, along with T.K. and Kari, make up the new generation of DigiDestined.",
+            "poster_path": "/tQ1aZWH5YIr4rRRY8niYIhEa1J0.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 531
+}

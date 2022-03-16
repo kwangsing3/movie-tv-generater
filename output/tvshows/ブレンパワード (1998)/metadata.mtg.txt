@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/uHqbHcxbbWG8wv6HNmNWUlRO5pl.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "5d7a10530d5d850011dd7639",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1998-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.brainpowered.jp/",
+    "id": 20112,
+    "in_production": false,
+    "languages": [
+        "es",
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1998-11-11",
+    "last_episode_to_air": {
+        "air_date": "1998-11-11",
+        "episode_number": 26,
+        "id": 580378,
+        "name": "Flight",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Brain Powerd",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブレンパワード",
+    "overview": "In a future, decimated Earth after the discovery of a mysterious, alien spacecraft dubbed \"Orphan\". A group of researchers scour the planet for Orphan's disc plates using mecha called \"Antibodies\" in order to revive the craft, an event that would result in the utter destruction of all lifeforms on Earth. The protagonists Yu Isami and Hime Utsumiya must utilize a special Antibody called \"Brain Powerd\" to counter the Orphan plans and save humanity.",
+    "popularity": 8.33,
+    "poster_path": "/dGBQVJch6BrEG3LOnWvR0qjgJ2A.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1998-04-08",
+            "episode_count": 26,
+            "id": 30244,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8v230Oy8Y0KqoFLMvX1JZWYHjai.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 5
+}

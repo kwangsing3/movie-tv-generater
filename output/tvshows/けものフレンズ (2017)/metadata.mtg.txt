@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/9e1KtWeZ8tRjjoxdRxIkNXCI5dD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kemono-friends-20170110.jp",
+    "id": 69288,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-17",
+    "last_episode_to_air": {
+        "air_date": "2019-03-17",
+        "episode_number": 12,
+        "id": 1659576,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/7qZOo4yeSY0stQFdpIdxpLRCHNi.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kemono Friends",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "けものフレンズ",
+    "overview": "Japari Park is an enormous integrated zoo built somewhere in this world. A mysterious substance found there, called \"Sand Star,\" causes the animals to turn into humanoid beings called \"Animal Girls\"! These new creatures spend every day peacefully with the zoo's visitors... but after some time, a lost child turns up in the park. The child's attempt to find the way home turns into a great adventure with the Animal Girls!",
+    "popularity": 13.773,
+    "poster_path": "/2TQq8uiRob7nboF7UBVKBach88N.jpg",
+    "production_companies": [
+        {
+            "id": 108687,
+            "logo_path": "/9z0oIAtkaTFSSbGvSpTEmyq4xxS.png",
+            "name": "Yaoyorozu",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-16",
+            "episode_count": 6,
+            "id": 109051,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/uVymCUHAn7euW51abX346qsGoWo.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-01-11",
+            "episode_count": 12,
+            "id": 83191,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uVymCUHAn7euW51abX346qsGoWo.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-01-07",
+            "episode_count": 12,
+            "id": 112814,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/cMViwDnS3FY7VGxXUUuSmRip4YT.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.5,
+    "vote_count": 12
+}

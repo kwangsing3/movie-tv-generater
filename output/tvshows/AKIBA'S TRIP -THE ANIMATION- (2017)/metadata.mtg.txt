@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/tCuUmmiSRl1Hoo1GRBpuDmghvBW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-01-04",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://akibastrip-anime.com",
+    "id": 69230,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-29",
+    "last_episode_to_air": {
+        "air_date": "2017-03-29",
+        "episode_number": 13,
+        "id": 1284730,
+        "name": "Akiba's Last Trip",
+        "overview": "The cultural cleansing of Akiba is turning into something more closely resembling an ethnic cleansing operation, and Akiba residents are being rounded up by the police. Can Matome and Tamotsu defeat the mastermind and save the day?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nTjTmRSLns5q1MpRyVrKX9Y94LN.jpg",
+        "vote_average": 9,
+        "vote_count": 2
+    },
+    "name": "Akiba's Trip The Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "AKIBA'S TRIP -THE ANIMATION-",
+    "overview": "Set in Akihabara, the shopping area has been invaded by creatures known as \"Synthisters\" who prey on the patrons of Akihabara, feasting on their social energy and will to live. These enemies can only be stopped by direct exposure to sunlight, meaning to defeat these synthisters their clothes need to be ripped off exposing them to sunlight.",
+    "popularity": 9.04,
+    "poster_path": "/vHba6T5GKimojrXTLvEETDdFSr7.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-01-04",
+            "episode_count": 13,
+            "id": 83092,
+            "name": "Season 1",
+            "overview": "An Urban Legend describes monsters known as \"bagurimono\" lurk in dark corners of Akihabara, the paradise of anime.  When Tomotsu Denkigai encounters one, he is almost killed but saved at the last moment by a girl name Matome Mayonaka, who repells the attack and later revives him.",
+            "poster_path": "/unp41bKYxpBeFNzow7OsmolsdxX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 16
+}

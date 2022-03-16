@@ -1,0 +1,140 @@
+{
+    "adult": false,
+    "backdrop_path": "/vL1wyNIdO0yzPktTjNvmQbhijzU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-02-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://shenmue-anime.jp",
+    "id": 108891,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 6,
+        "id": 3489755,
+        "name": "Dignified",
+        "overview": "To unveil the truth behind his Father's death, Ryo heads to Hong Kong, looking for a person named \"Lishao Tao\". His bags are taken as many thugs and thieves walk the streets of Hong Kong since everyone is desperate to survive day by day.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/za91LvhcxrKv42vSo5yojgGarDU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shenmue the Animation",
+    "next_episode_to_air": {
+        "air_date": "2022-03-20",
+        "episode_number": 7,
+        "id": 3489756,
+        "name": "Future",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Adult Swim",
+            "id": 80,
+            "logo_path": "/2ezVEkNx1tvBLONzDcViyfovWBH.png",
+            "origin_country": "US"
+        },
+        {
+            "name": "Crunchyroll",
+            "id": 1112,
+            "logo_path": "/81QfupgVijSH5v1H3VUbdlPm2r8.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "ja",
+    "original_name": "Shenmue the Animation",
+    "overview": "After he witnesses his father’s murder at the family dojo, Ryo Hazuki dedicates his life to finding the man responsible — a mission that takes him from the streets of Yokosuka, Japan to the sprawling metropolis of Hong Kong, and beyond. Soon he’ll learn that larger, mystical forces are at play as he trains to become the ultimate martial artist in his quest for revenge.",
+    "popularity": 19.501,
+    "poster_path": "/owwTW4OVSG1IbU9gpVgRHbD6Dgz.jpg",
+    "production_companies": [
+        {
+            "id": 20868,
+            "logo_path": null,
+            "name": "Telecom Animation Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 169947,
+            "logo_path": "/z0p0fcv4oO6pl8DaCXFoBqERLF9.png",
+            "name": "Sola Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 118044,
+            "logo_path": null,
+            "name": "WAVE MASTER",
+            "origin_country": ""
+        },
+        {
+            "id": 113750,
+            "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+            "name": "SEGA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-02-06",
+            "episode_count": 13,
+            "id": 161393,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yF25bmrwTs4NDuKTqXQ1HHg7N9V.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.6,
+    "vote_count": 5
+}

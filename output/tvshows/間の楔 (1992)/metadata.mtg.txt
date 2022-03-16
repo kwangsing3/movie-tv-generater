@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/4AJ2vhy0FfVOHXq613oEBMWT2n.jpg",
+    "created_by": [
+        {
+            "id": 1661048,
+            "credit_id": "57a2773d925141577e0007d1",
+            "name": "Rieko Yoshihara",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        54
+    ],
+    "first_air_date": "1992-08-31",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 67325,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1994-05-21",
+    "last_episode_to_air": {
+        "air_date": "1994-05-21",
+        "episode_number": 2,
+        "id": 1211713,
+        "name": "Episode 2",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bJsjvpWICCvMKgjeCRH3Gcgfby7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ai no Kusabi",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "間の楔",
+    "overview": "On planet Amoi, a great society has developed, creating a computerized city called Tanagura, ruled by supercomputer Jupiter. The populace is almost entirely male and is based on hair color; silver and/or blonds are the elitist, ending with dark/black haired as the bottom of society, often known as \"mongrels\". Blondies keep \"pets\", young boys kept for a few years, especially made for performing sexual actions for the Blondie's voyeurism entertainment. Blondies aren't suppose to keep pets for long or interact sexually with pets, but one blondie named Iason Mink has kept a pet named Rikki, for years and is rumored to sleep with him. Iason refuses to let go of Rikki, even with Jupiter's disapproval. Rikki fights with his emotions and society problems, unable to decide what to do about his old friend/lover Gai (Guy) and their gang. Iason is obsessed with keeping Rikki, and Rikki doesn't know what to do; fight against him or surrender to him.",
+    "popularity": 8.988,
+    "poster_path": "/7bgjkq3YWITMRICcZ8AtRavTBLE.jpg",
+    "production_companies": [
+        {
+            "id": 90221,
+            "logo_path": null,
+            "name": "On-LEAD",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1992-08-31",
+            "episode_count": 2,
+            "id": 79002,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ljow4ETL61Qj1jBnTszmSy4ThPi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 6.9,
+    "vote_count": 8
+}

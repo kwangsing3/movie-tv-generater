@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/koSeb5M7gk1dHmWZ3J7CuTi0S84.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://mazicaparty.com/",
+    "id": 119977,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-05-02",
+    "last_episode_to_air": {
+        "air_date": "2021-05-02",
+        "episode_number": 5,
+        "id": 2905234,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mazica Party",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マジカパーティ",
+    "overview": "The franchise's story centers on wizards who gather mazica in order to save the world. Junior high school student Kezuru wakes up after a strange dream featuring himself as a wizard, a creature called \"mazin,\" and a mysterious girl. The next day, his friend Kuracchi proudly shows off the newly launched Mazica Party card game. To Kezuru's shock, all the characters drawn in the game's cards are just like the ones in his dream.",
+    "popularity": 0.989,
+    "poster_path": "/o4lGSU1VsV3n7rXKmMHJ1lkwYyW.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-04",
+            "episode_count": 5,
+            "id": 184221,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

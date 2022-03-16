@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/eS2l3eyXgiKhROChTwwWXMFctM3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "2019-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.miss-ueno.com/",
+    "id": 83116,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-25",
+    "last_episode_to_air": {
+        "air_date": "2019-03-25",
+        "episode_number": 12,
+        "id": 1659376,
+        "name": "GAN-Q / Ballet-tan",
+        "overview": "Tanaka, you really need to stop and think about what comes out of your mouth. Later, Ueno creates a device that shares sensory experiences? ...It's gonna backfire, isn't it?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rx9ejSGpS9BpOi3hUaUGsheqJc.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "How Clumsy you are, Miss Ueno.",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "上野さんは不器用",
+    "overview": "Ueno may be the president of the science club at her junior high and a genius inventor, but she still can’t figure out how to confess to her crush, Tanaka! Can she find a way to give her heart what it truly yearns for?",
+    "popularity": 12.436,
+    "poster_path": "/4vrvWEbyHi4ruuQ07nJnnwBBGIR.jpg",
+    "production_companies": [
+        {
+            "id": 113161,
+            "logo_path": "/tY06cHth3hQbs483trFSbVYLubI.png",
+            "name": "Lesprit Inc.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-12-27",
+            "episode_count": 3,
+            "id": 115572,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-01-07",
+            "episode_count": 12,
+            "id": 110889,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dismmkKW8HQqThYUbpHgyogRX60.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.9,
+    "vote_count": 7
+}

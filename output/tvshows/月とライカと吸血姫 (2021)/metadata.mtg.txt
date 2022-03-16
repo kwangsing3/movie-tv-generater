@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/9m0lzt1J0CPC5RVhtUK5JiWuEjo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://tsuki-laika-nosferatu.com",
+    "id": 121017,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-20",
+    "last_episode_to_air": {
+        "air_date": "2021-12-20",
+        "episode_number": 12,
+        "id": 3253019,
+        "name": "To the New World",
+        "overview": "With the whole world listening, Lev wants to make sure Irina isn't forgotten. But the Delivery Crew has their own plans for Irina and plots to seize her during the ceremony.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jQW0DoUgfiad8AGLF6ZPjxYySG0.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Irina: The Vampire Cosmonaut",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "月とライカと吸血姫",
+    "overview": "The first astronaut in human history was a vampire girl.\n\nFollowing the end of World War II, the world-dividing superpowers, Federal Republic of Zirnitra in the East and United Kingdom of Arnack in the West, turned their territorial ambitions toward space. Both countries have been competing fiercely for development.\n\nEast history 1960. Gergiev, the chief leader of the Republic, announces the manned space flight program Project Mechtat (Dream), which, if successful, would be the first feat for humankind. At that time, Lev Leps, a substitute astronaut candidate, is ordered to perform a top secret mission. The \"Nosferatu Project\"—a program that experiments with vampires prior to manned missions—will use Irina Luminesk as a test subject, and Lev is to monitor and train her.\n\nEven while trifled by the walls of the race and ego of the nations, Lev and Irina share a genuine sentiment as they aim for the universe.",
+    "popularity": 29.874,
+    "poster_path": "/a5SstgQQ9XmIRrYR0HL95sPpGAQ.jpg",
+    "production_companies": [
+        {
+            "id": 116766,
+            "logo_path": "/6P2DnCakufsQBNFRJQQKMPmcrb.png",
+            "name": "ARVO ANIMATION",
+            "origin_country": "JP"
+        },
+        {
+            "id": 136217,
+            "logo_path": "/dBYuplhBgeOsGPQOI0LukWNbFWE.png",
+            "name": "Bandai Namco Arts",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9149,
+            "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+            "name": "Shogakukan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 162019,
+            "logo_path": "/inMGZK76HIbFhTnCGzVx39BMGzr.png",
+            "name": "ADK Marketing Solutions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 162012,
+            "logo_path": null,
+            "name": "BS Nippon Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-04",
+            "episode_count": 12,
+            "id": 186475,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kM7vM7n3VfEYiTJCW43gSHTcaV1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 9
+}

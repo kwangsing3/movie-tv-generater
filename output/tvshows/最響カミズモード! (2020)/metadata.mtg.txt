@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/vMuLhIRu0GMOrCJ76x9Q8GXFdxw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2020-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://kamizmode-anime.com",
+    "id": 107309,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-11-27",
+    "last_episode_to_air": {
+        "air_date": "2020-11-27",
+        "episode_number": 8,
+        "id": 2531648,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Saikyou Kamizmode!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "最響カミズモード!",
+    "overview": "Saikyo Kamizmode! (最響カミズモード) is a Japanese trading card game developed by Data Cardass themed through music, taiko and sumo. An anime series produced by Bandai Namco Pictures was announced on August 10, 2020 where it first premiered as an ONA on Bandai Namco's Youtube channel on September 28, 2020 before its actual TV premiere on Tokyo MX on October 9, 2020.",
+    "popularity": 1.189,
+    "poster_path": "/8HbIoRtkSRpbNB4hiCi9GKZ0qb4.jpg",
+    "production_companies": [
+        {
+            "id": 74440,
+            "logo_path": "/mf1nS1bfySc1XM5EmPZp4qsAOoy.png",
+            "name": "Bandai Namco Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 166791,
+            "logo_path": null,
+            "name": "Data Cardass",
+            "origin_country": ""
+        },
+        {
+            "id": 12502,
+            "logo_path": "/aDcFy26DtVbyZIFOZNTLsooWH5X.png",
+            "name": "Bandai Namco Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-09",
+            "episode_count": 8,
+            "id": 158688,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8HbIoRtkSRpbNB4hiCi9GKZ0qb4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

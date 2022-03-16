@@ -1,0 +1,71 @@
+{
+    "adult": false,
+    "backdrop_path": "/hAM2H2PzcGS7bdbU3CKLgynP6nS.jpg",
+    "belongs_to_collection": {
+        "id": 148065,
+        "name": "Doraemon Collection",
+        "poster_path": "/4TLSP1KD1uAlp2q1rTrc6SFlktX.jpg",
+        "backdrop_path": "/rc6OFcSasL5YxBRPUQVwxmVF6h5.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 88625,
+    "imdb_id": "tt1147528",
+    "original_language": "ja",
+    "original_title": "映画ドラえもん のび太と鉄人兵団",
+    "overview": "The story begins with Nobita and Shizuka sitting on the pipes in the yard they hang out at while Suneo showed off his robot. Nobita grew jealous and asked Doraemon to build him a giant robot. Coincidently, robot parts began to fall from the sky. Then Nobita and Doraemon began to assemble the robot. As soon as they finished, Nobita, Doraemon, and Shizuka realized that the robot (Zanda Clause) was a war machine in an incident. After that Nobita met a girl name Riruru, she told Nobita that the robot was her's. Nobita gave her the robot and the entrance to mirror world. Doraemon and Nobita followed Riruru and recognized that she was a spy from Metropolis and built a base to welcome the army.",
+    "popularity": 8.013,
+    "poster_path": "/q7tqrZ3nsNUywMTqzPo5t534afF.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1986-03-15",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Doraemon: Nobita and the Steel Troops",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 16
+}

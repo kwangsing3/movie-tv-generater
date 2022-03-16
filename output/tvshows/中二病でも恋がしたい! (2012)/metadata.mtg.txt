@@ -1,0 +1,138 @@
+{
+    "adult": false,
+    "backdrop_path": "/vxZ3DV05A7vuarYjneANzwVvdf0.jpg",
+    "created_by": [
+        {
+            "id": 186342,
+            "credit_id": "613f773056b9f7008b982323",
+            "name": "Jukki Hanada",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 3217722,
+            "credit_id": "613f7764efca000088fecc57",
+            "name": "Torako",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.anime-chu-2.com/",
+    "id": 45501,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-27",
+    "last_episode_to_air": {
+        "air_date": "2014-03-27",
+        "episode_number": 12,
+        "id": 1026774,
+        "name": "The Superior Contract... of Twilight",
+        "overview": "Rikka is acting strangely around Yuta, and it takes all of her courage to confess her true feelings to him.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/fOmX2jxqCRXO0yz9gPnQGOylosx.jpg",
+        "vote_average": 9.3,
+        "vote_count": 3
+    },
+    "name": "Love, Chunibyo & Other Delusions!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "中二病でも恋がしたい!",
+    "overview": "As one of the thousands of Japanese students afflicted with \"chunibyo,\" a state where they're so desperate to stand out that they've convinced themselves that they have secret knowledge and hidden powers, Yuta spent most of his middle school years living in a complete fantasy world. He's finally managing to overcome his delusions but his chunibyo have attracted the attentions of another sufferer, and she's decided that this makes him her soul mate.",
+    "popularity": 65.202,
+    "poster_path": "/1IapEqydEiGO0gCgBPVexTFbUCS.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-06-13",
+            "episode_count": 36,
+            "id": 80980,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/wX2Bk1IGBRhAxRpppX9YNJzxyql.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-10-04",
+            "episode_count": 12,
+            "id": 60484,
+            "name": "Love, Chunibyo & Other Delusions!",
+            "overview": "Yuta has a problem. He used to be a “chunibyo,” one of the thousands of Japanese students so desperate to stand out that they’ve convinced themselves that they have secret knowledge and hidden powers. Now that he’s starting high school, he’s determined to put aside his delusions. The trouble is that Rikka, his upstairs neighbor, is delusional herself. And she knows all about his past indiscretions. “Crazy in love” is redefined as fantasy worlds collide in Love, Chunibyo & Other Delusions!",
+            "poster_path": "/2eKpiIE7Qxc3nnCECIQ0eOk7gxe.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-01-09",
+            "episode_count": 12,
+            "id": 60485,
+            "name": "Love, Chunibyo & Other Delusions! Heart Throb",
+            "overview": "Yuta and Rikka may finally be together, but things haven’t settled down just yet! The arrival of Yuta’s childhood friend, the extra-eccentric Satone Shichimiya, is about to take this couple’s relationship from delusional to downright crazy. Not only is Satone a full-time chunibyo sufferer herself, but now she’s claiming to be Yuta’s one and only soul mate. If Yuta and Rikka want to make their relationship a reality, they’ll have to break through Satone’s fantasies first!",
+            "poster_path": "/anw0BBKyYQsLtTltDO4xMmpiCW6.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 284
+}

@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/vcTnsyruvtsgjf2kv38tu4nDCa9.jpg",
+    "created_by": [
+        {
+            "id": 1254093,
+            "credit_id": "618e7c0acb6db5002c3e11ad",
+            "name": "Izumi Todo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-02-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/startwinkle_precure/",
+    "id": 85322,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-01-26",
+    "last_episode_to_air": {
+        "air_date": "2020-01-26",
+        "episode_number": 49,
+        "id": 2528017,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Star☆Twinkle Precure",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 49,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スター☆トゥインクルプリキュア",
+    "overview": "When Hoshina Hikaru transforms into Cure Star, she embarks on an outer space adventure to find the rest of the Star Twinkle Cures and save the universe!",
+    "popularity": 9.37,
+    "poster_path": "/7TBZ8ZfnL9mvH5j1U8FE12gzh6m.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-02-03",
+            "episode_count": 49,
+            "id": 115087,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2VfZhLURRb0USRz3ff4j7rbnS4N.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

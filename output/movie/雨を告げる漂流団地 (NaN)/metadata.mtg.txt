@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/7id7oE3gqZuO0piWN20Ev7V90wl.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.hyoryu-danchi.com/",
+    "id": 877957,
+    "imdb_id": "tt15494038",
+    "original_language": "ja",
+    "original_title": "雨を告げる漂流団地",
+    "overview": "One summer day, Kosuke and his friends visit an apartment building that is set to be demolished, and suddenly find themselves caught in a strange phenomenon. All they can see around them is a vast sea.",
+    "popularity": 0.6,
+    "poster_path": "/bdNxLyZZ0w7MoNPHipts5HnRvgy.jpg",
+    "production_companies": [
+        {
+            "id": 20556,
+            "logo_path": "/vtDnd97vIv35YpJzQ5k2H4LP0uv.png",
+            "name": "Studio Colorido",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Drifting Home",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

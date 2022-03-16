@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/1AoAZNXlzgAnyWkwX9wESHRgRgD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://mashironooto-official.com",
+    "id": 106782,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-19",
+    "last_episode_to_air": {
+        "air_date": "2021-06-19",
+        "episode_number": 12,
+        "id": 2844845,
+        "name": "Those Snow White Notes",
+        "overview": "Setsu plays, following his heart. He sets an image within the notes. With all his heart, he tries to convey it. The sound that pours from Setsu' shamisen draws forth memories from everyone who hears it. Then, the favorite for first place, Tanuma Souichiro's performance begins. The sound is overwhelming. Waves of it shake the auditorium and his performance charms the audience. With both of their performances over, the conclusion of the tournament brings...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/pDY4xvEAedzy4by17sdvhb4FJJ3.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Those Snow White Notes",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ましろのおと",
+    "overview": "Sawamura Matsugorou is a shamisen player of legendary talent. Upon his death, his grandson, Sawamura Yuki, lost his ability to play. Having lost his beloved sound, Yuki finds himself in Tokyo in search of a new sound to love. Tachimura Yuna, who works at a club, hooks him up with a gig to play there as a warm up act. Yuki imbues the sound of his shamisen with his many thoughts and feelings he has of others, still searching for his own sound and his own feelings.",
+    "popularity": 19.036,
+    "poster_path": "/c5TXVs0BRGy7smjMHiqUnttiktw.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-15",
+            "episode_count": 33,
+            "id": 202911,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-04-03",
+            "episode_count": 12,
+            "id": 157831,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eMhiFGkg06CFrJiCWb5FgxZb4pQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 4
+}

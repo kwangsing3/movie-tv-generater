@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/3j5rPzvsTUM42hvXE0t0w7hQ2Op.jpg",
+    "created_by": [
+        {
+            "id": 1069170,
+            "credit_id": "5aae7d0692514116c3024755",
+            "name": "Kouhei Kadono",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2000-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://web.archive.org/web/20070608193553/http://www.vap.co.jp:80/boogie/",
+    "id": 34152,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-03-23",
+    "last_episode_to_air": {
+        "air_date": "2000-03-23",
+        "episode_number": 12,
+        "id": 783725,
+        "name": "A Requiem",
+        "overview": "One year after the 11th episode, these events occur.  Toka is going to take an entrance exam when she detects trouble.  Indeed, as the manticore is still alive; it possessed the writer when the manticore was originally destroyed by Boogiepop Phantom.  Boogipop comes and destroys both the manticore and the writer, who had actually died a long time ago.  Boogiepop then says, \"\"I feel sorry for Toka Miashta.  She was supposed to be taking an entrance exam now.\"\"  Thus the series comes to the end, with us only just knowing who Boogiepop really was.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/a6Bst9TOvdM9N4bW41rkjeMoQO9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Boogiepop Phantom",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブギーポップは笑わない",
+    "overview": "Five years ago, a string of grisly murders shook the city to its core and now the rumors have begun once more. Boogiepop... Everyone knows about Boogiepop: meet her one dark night and you are taken. People tell each other the stories and laugh: no one believes that she can possibly exist in this day and age. Still, strange things appear to be going on and the darkness is taking on many forms. Something is out there.",
+    "popularity": 14.28,
+    "poster_path": "/oldWjJaCGGyHjfh5aKKs4VKzXav.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-03-11",
+            "episode_count": 1,
+            "id": 44979,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2000-01-06",
+            "episode_count": 12,
+            "id": 44978,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jBXXTizNsCtxEvuqYd39tQ5VdEX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 15
+}

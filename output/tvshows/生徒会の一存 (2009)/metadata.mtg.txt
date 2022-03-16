@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/nj91HKryUaPIs3jbRaOHel2WWAB.jpg",
+    "created_by": [
+        {
+            "id": 1260949,
+            "credit_id": "525989bb760ee34661b16407",
+            "name": "Kira Inugami",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30,
+        24,
+        25
+    ],
+    "first_air_date": "2009-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 56783,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-12-22",
+    "last_episode_to_air": {
+        "air_date": "2012-12-22",
+        "episode_number": 11,
+        "id": 1890480,
+        "name": "Extra Episode - The Student Council Hands Over",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/vsdF5LDvXKY8zquOWt8lvymlcjl.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Student Council's Discretion",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 23,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "生徒会の一存",
+    "overview": "At Hekiyo Academy, all but one of the Student Council members are elected via popularity contests, and those seats are filled by the school's most beautiful girls! The lines between fact and fiction disappear at the STUDENT COUNCIL'S DISCRETION!",
+    "popularity": 15.258,
+    "poster_path": "/hIMIiuE2cN3AUlxYVDh5eq07jqM.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2009-10-02",
+            "episode_count": 12,
+            "id": 98821,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7MLjsIAiRXEqnmVI4koga7jVzLd.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2012-10-13",
+            "episode_count": 11,
+            "id": 58251,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/7MLjsIAiRXEqnmVI4koga7jVzLd.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 34
+}

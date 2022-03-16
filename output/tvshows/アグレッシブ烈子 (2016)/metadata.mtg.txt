@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/esOaAFUquImPCRToa5hMwHqFqB6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        1
+    ],
+    "first_air_date": "2016-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.sanrio.co.jp/character/aggressiveretsuko/",
+    "id": 76581,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-31",
+    "last_episode_to_air": {
+        "air_date": "2018-03-31",
+        "episode_number": 100,
+        "id": 1751861,
+        "name": "The Final Episode",
+        "overview": "Retsuko's entire day is ruined.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Aggressive Retsuko",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 100,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アグレッシブ烈子",
+    "overview": "Series of 100 one-minute anime shorts that centers on Retsuko, a 25-year old red panda who works in her dream company's accounting department. But it turns out that she is forced to keep doing more and more impossible tasks by her superiors and co-workers. She doesn't talk back to them, but she still has to let off steam, so she ends up going to karaoke by herself and singing death metal.",
+    "popularity": 7.557,
+    "poster_path": "/bOGx0ySGwkRrwYetoIScvB90RxQ.jpg",
+    "production_companies": [
+        {
+            "id": 103564,
+            "logo_path": "/t0dnUMFPjzPStIkEM3Pm1rGLIQ8.png",
+            "name": "Fanworks",
+            "origin_country": "JP"
+        },
+        {
+            "id": 8487,
+            "logo_path": "/bXWVZmW3RD6SAk0lFahPxNbp541.png",
+            "name": "Sanrio",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-02",
+            "episode_count": 100,
+            "id": 98297,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 14
+}

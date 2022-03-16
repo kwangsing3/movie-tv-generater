@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/v4lgh8Zdu3Rs9MtGdmeRz2ztaUJ.jpg",
+    "created_by": [
+        {
+            "id": 2382442,
+            "credit_id": "5d4d8c921283e9001388a552",
+            "name": "Hisasi",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 2382443,
+            "credit_id": "5d4d8c871065d300154f406f",
+            "name": "Shibai Kineko",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.netogenoyome.com/",
+    "id": 65948,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-23",
+    "last_episode_to_air": {
+        "air_date": "2016-06-23",
+        "episode_number": 12,
+        "id": 1184716,
+        "name": "My net game wife is a girl online!",
+        "overview": "With only one chance to take back Fort Cantor from Wallenstein, Kyo explains her plan to the others of taking and defending the castle until time runs out.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2wZEh0qW2RZiXlvKi7Z5kaSidbz.jpg",
+        "vote_average": 10,
+        "vote_count": 2
+    },
+    "name": "And You Thought There Is Never a Girl Online?",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ネトゲの嫁は女の子じゃないと思った？",
+    "overview": "Our naïve protagonist proposes to a female character in an online game, only to find out that the player is actually a guy. Traumatized by that, he decides to never trust a girl online, but now, two years later, a female player is proposing to him. What will happen?",
+    "popularity": 17.571,
+    "poster_path": "/caYGn5tq72ua66W7MXpZSALdiLw.jpg",
+    "production_companies": [
+        {
+            "id": 74464,
+            "logo_path": null,
+            "name": "project No.9",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-07",
+            "episode_count": 12,
+            "id": 75479,
+            "name": "Season 1",
+            "overview": "Hideki Nishimura confessed to a person he thought was a girl online, only for that person to turn out to be a boy.  He keep this \"black history\" secret and swears to never to trust a \"girl\" online again.  However, one day a girl online confesses to him, and it turns out she's acturally a beautiful girl name Ako Tamaki.  Ako cannot tell the difference between the online world and reality, and she is a loner who has trouble communicating.  Hideki and her friends from his guild decide to worlk together to \"correct\" her.",
+            "poster_path": "/kRQIVie6g91M2Xc26ss87u8lQmo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 36
+}

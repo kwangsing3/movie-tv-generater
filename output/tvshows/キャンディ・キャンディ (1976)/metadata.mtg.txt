@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/jHAm5fibAvt0K7aoKnB8PJqvj0W.jpg",
+    "created_by": [
+        {
+            "id": 2375839,
+            "credit_id": "60799c9818864b007b97db6d",
+            "name": "Kyoko Mizuki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1976-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 9160,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1979-02-02",
+    "last_episode_to_air": {
+        "air_date": "1979-02-02",
+        "episode_number": 115,
+        "id": 404616,
+        "name": "Pony's Hill is a Flower and Full-bloomed",
+        "overview": "Candy is thunderstruck to discover that her benefactor \"Grandfather\" William Albert Ardley has been hiding in plain sight the whole time, ever since she was in anguish over Annie being adopted away from Pony's Home. Albert was too young to fill the desperately needed role of the head of the Ardley family, after his parents died and his aunt Elroy became his guardian, so he wisely applied the principle \"Deceive your allies to fool your adversaries.\" As both recall memories of the past it becomes clear that Albert tried to be a guiding father to Candy as much as he could, while remaining hidden, not only from Candy, but all of the Ardley family. He adopted her as his daughter after Alistear, Archibald and Anthony did not want to put all their eggs in one basket by leaving it up to their great-aunt whether Candy was treated as a person or a pariah in the Ardley family. And Candy's eyes reminded him of his deceased older sister, Anthony's mother.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/og6rArvz8iZmAXtTOvwZEm4SXrZ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Candy Candy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 115,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キャンディ・キャンディ",
+    "overview": "Candy Candy is a Japanese novel, manga, and anime series. The main character, Candice \"Candy\" White Ardlay is a blonde girl with freckles, large emerald green eyes and long, curly hair, worn in pigtails with bows. Candy Candy first appeared in a prose novel by famed Japanese writer Kyoko Mizuki in April 1975. When Mizuki joined forces with manga artist Yumiko Igarashi, the Japanese magazine Nakayoshi became interested in Candy Candy. The series was serialized as a manga series in the magazine for four years and won the 1st Kodansha Manga Award for shōjo in 1977. The story was adapted into an anime series by Toei Animation. There are also several Candy Candy movies which were never released outside of Japan.",
+    "popularity": 76.473,
+    "poster_path": "/rKYI3VEKPv6EtRJnkewLixm3X61.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1978-03-18",
+            "episode_count": 4,
+            "id": 19079,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/2SHWln1rZaPkrTVtasCAa37VLiQ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1976-10-01",
+            "episode_count": 115,
+            "id": 19080,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nYrg8aYZr2F4SgSi0UAIR6E4c6X.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 416
+}

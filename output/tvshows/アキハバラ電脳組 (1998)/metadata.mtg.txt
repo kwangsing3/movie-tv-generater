@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": "/5zQdmqHErnpPRo8WZCDlF0wVmMR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1998-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 19697,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-11-25",
+    "last_episode_to_air": {
+        "air_date": "1999-11-25",
+        "episode_number": 21,
+        "id": 576691,
+        "name": "Recall",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sqHQJevM532TajFkwjb6ogq7DiW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cyber Team in Akihabara",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アキハバラ電脳組",
+    "overview": "A shojo-science fiction-anime series created by Tsukasa Kotobuki and Satoru Akahori.",
+    "popularity": 8.515,
+    "poster_path": "/tZfFbZB40PYjcnLHu061jJdIW2c.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1998-04-04",
+            "episode_count": 26,
+            "id": 29971,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vTBWWMMRS8n1DN1613Y9C56u6kx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

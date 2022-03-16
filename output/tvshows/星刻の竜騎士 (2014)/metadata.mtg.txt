@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/8SMCH4Kt9Ycc0NJlir4mmt26G5V.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2014-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 60810,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-10-10",
+    "last_episode_to_air": {
+        "air_date": "2017-10-10",
+        "episode_number": 12,
+        "id": 1378966,
+        "name": "The Star-Branded Dragonar",
+        "overview": "The ball is interrupted when Eco adopts her dragon form. Mordred reveals himself, and tries to possess Eco's dragon body. Can the others stop him?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yVjDsms188N1pGistQReKAqgHpq.jpg",
+        "vote_average": 9,
+        "vote_count": 2
+    },
+    "name": "Dragonar Academy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "星刻の竜騎士",
+    "overview": "In a land of dragons, where citizens called breeders tame their dragon pals, races of dragons are born from breeders who are given a Seikoku: a dragon star-shape brand. Learning to ride and tame dragons comes easy to most students at Ansarivan Dragonar Academy — except for first-year student Ash Blake, who is known by his fellow classmates as the \"number one problem child\".",
+    "popularity": 14.046,
+    "poster_path": "/3oEETNoH6Cw423eHxmJtwXcvC8A.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-05",
+            "episode_count": 12,
+            "id": 60792,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8m19r5dTYEhm4UZTeJWYbj2Sy3P.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 17
+}

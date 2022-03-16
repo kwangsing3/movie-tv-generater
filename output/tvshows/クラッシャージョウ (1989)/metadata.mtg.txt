@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/yZr1vuYQtQKFB89eoLZ0SMRdyy1.jpg",
+    "created_by": [
+        {
+            "id": 550904,
+            "credit_id": "5f7fe470d11e0e0037c36c63",
+            "name": "Haruka Takachiho",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        57
+    ],
+    "first_air_date": "1989-02-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 111271,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1989-06-05",
+    "last_episode_to_air": {
+        "air_date": "1989-06-05",
+        "episode_number": 2,
+        "id": 2458050,
+        "name": "The Ultimate Weapon: Ash",
+        "overview": "In the Bandor republic, years of bloody warfare between the Bandor military and a rival nation have finally come to an end with the signing of a peace treaty. But the peace is soon threatened by a small group of rouge Bandor military officers who feel the treaty would deny their side a strategic victory. Soon after the signing, a mutiny onboard a military vessel sends it crashing into the uninhabited planet Davidof. Onboard the vessel, Major Tanya holds \"ASH,\" a devastating weapon with the ability to wipe out all life on a planet with the push of a button. If the rouge military faction gets their hands on ASH, the peace treaty will certainly end and the Bandor republic will plunge back into war. Unable to trust his own military, the Bandor president secretly hires Joe and his team of \"Crushers\" to go to Davidof, where they are tasked with rescuing Tanya and recovering ASH before the rouge military units can get to it.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Crusher Joe: The OVA's",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クラッシャージョウ",
+    "overview": "In the 22nd century, mankind expanded into outer space. However, it was the Crushers who paved the way, performing jobs that ranged from terraforming to asteroid busting, warp lane plotting to transportation. These days, the Crushers still accept jobs of all kinds, so long as they're legal and ethical, and Crusher Joe's team is the best. Joe, Alfin, Ricky, and Talos, along with the robot Dongo, take on jobs that require all the tools, tricks, and knowledge that the Crushers are known for.",
+    "popularity": 8.723,
+    "poster_path": "/e4TVvbjn8cAyq7vlE88j6Bv8xGr.jpg",
+    "production_companies": [
+        {
+            "id": 3529,
+            "logo_path": null,
+            "name": "Studio Nue",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1989-02-05",
+            "episode_count": 2,
+            "id": 165250,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 6,
+    "vote_count": 1
+}

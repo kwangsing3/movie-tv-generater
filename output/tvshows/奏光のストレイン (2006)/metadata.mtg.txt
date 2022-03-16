@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/slBzY18bTsr9mSnj2iZI73ebpOh.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2006-11-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 31715,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-11-01",
+    "last_episode_to_air": {
+        "air_date": "2006-11-01",
+        "episode_number": 1,
+        "id": 758938,
+        "name": "Prelude of Despair",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Strain: Strategic Armored Infantry",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "奏光のストレイン",
+    "overview": "In the distant future, mankind is divided into two factions: Union and Deague. They have waged a war against each other for so long that no one remembers when it first began.\n\nSara Werec, the daughter of a respectable family, is a 16-year old girl who attends a Space Academy where she is training to become a pilot. Her brother, Ralph Werec, had been sent to the frontline to accomplish a special mission when she was 11 years old. The two of them had lost their parents when they were young and the bond between the two is very close. It is Sara’s dearest wish to be reunited with her brother. To do that, she must travel to the battlefield where he is.\n\nOne day, Sara’s planet is suddenly assaulted by Deague forces. To her surprise, her brother, Ralph, turns out to be one of the raiders who successfully kidnap a mysterious girl sleeping in a capsule.",
+    "popularity": 2.611,
+    "poster_path": "/2WrCZULqB481U27oqAOtTLn5dqj.jpg",
+    "production_companies": [
+        {
+            "id": 13023,
+            "logo_path": null,
+            "name": "Studio Fantasia",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2006-11-01",
+            "episode_count": 13,
+            "id": 43214,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 5
+}

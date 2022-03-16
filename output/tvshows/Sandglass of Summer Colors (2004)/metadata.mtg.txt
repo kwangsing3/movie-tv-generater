@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2004-05-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 54390,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2004-07-23",
+    "last_episode_to_air": {
+        "air_date": "2004-07-23",
+        "episode_number": 2,
+        "id": 925393,
+        "name": "In a Single Second of Eternity",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sandglass of Summer Colors",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Sandglass of Summer Colors",
+    "overview": "",
+    "popularity": 0.991,
+    "poster_path": "/wHqZGeYpLAH03WvKrDXotfKfnGs.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2004-05-21",
+            "episode_count": 2,
+            "id": 56497,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.5,
+    "vote_count": 2
+}

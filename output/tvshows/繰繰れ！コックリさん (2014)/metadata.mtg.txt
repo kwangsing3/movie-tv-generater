@@ -1,0 +1,142 @@
+{
+    "adult": false,
+    "backdrop_path": "/TaKz8E7D3I7ah6Ww2f81mNuhrV.jpg",
+    "created_by": [
+        {
+            "id": 1241501,
+            "credit_id": "5aad78de0e0a265e580036b4",
+            "name": "Yoshimasa Hiraike",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.gugukoku.com/",
+    "id": 61432,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-12-22",
+    "last_episode_to_air": {
+        "air_date": "2014-12-22",
+        "episode_number": 12,
+        "id": 1225575,
+        "name": "Destiny!",
+        "overview": "Kokkuri and Kohina end up helping a nervous lawyer pick out a Christmas present for his daughter, Noelle. After being able to have a Christmas party with his daughter, the lawyer reveals he is a ghost who wanted to make one final memory passing on. Later, the group see the New Year in with some cleaning, soba, and a shrine visit.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7SnxablwRY0ZlMfxhSQbCkRpYyV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gugure! Kokkuri-san",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVQ",
+            "id": 822,
+            "logo_path": "/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVh",
+            "id": 938,
+            "logo_path": "/vEUZNYjuSn0iTQyZ3SLNfVgI9Z8.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "繰繰れ！コックリさん",
+    "overview": "A little girl named Kohina ends up summoning a Kokkuri-san, a lower-ranking ghost in Japanese folklore. The Kokkuri-san she calls ends up being a white-haired handsome, young man. Although he had intended to merely haunt her at first, he becomes worried about her terrible eating habit of cup ramen for every meal, so he decides to haunt her in order to protect her.",
+    "popularity": 12.569,
+    "poster_path": "/4rH8BMJ9mrOtGRxz106gBZULVIW.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-12-24",
+            "episode_count": 11,
+            "id": 103390,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-10-05",
+            "episode_count": 12,
+            "id": 62906,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7yVxLEzKU5VCAyhS2Bsi80pgReM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 5
+}

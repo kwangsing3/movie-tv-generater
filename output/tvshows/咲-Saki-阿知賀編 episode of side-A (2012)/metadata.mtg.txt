@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/kyTlqmEvxS3a7HJWRPR2IIzpgtP.jpg",
+    "created_by": [
+        {
+            "id": 1250538,
+            "credit_id": "61ffa19da2423200e60ca264",
+            "name": "Ritz Kobayashi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://saki-anime.com/achiga/",
+    "id": 69038,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-07-02",
+    "last_episode_to_air": {
+        "air_date": "2012-07-02",
+        "episode_number": 12,
+        "id": 1246959,
+        "name": "Promise",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fdw9cJBmKbEe5rmyk5v7VIx7LXL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Saki Episode of Side A",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "咲-Saki-阿知賀編 episode of side-A",
+    "overview": "Nodoka Haramura's appearance on television playing in a high school mahjong tournament inspires her old Jr. high school friends to reform their schools club so they can meet and play her in the National High School Mahjong Tournament.",
+    "popularity": 2.876,
+    "poster_path": "/tcaaNgqC5cVgFpj1Zo00LMFYbIV.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-12-24",
+            "episode_count": 5,
+            "id": 126228,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/eIPUJHrLUiyOpjD2PnbZZZSyeQo.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-04-09",
+            "episode_count": 12,
+            "id": 82735,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mepuvZOMzjH5ASOrOAfUOF1ozGG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

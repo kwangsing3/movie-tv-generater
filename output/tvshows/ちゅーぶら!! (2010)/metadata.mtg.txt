@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/nfH3llqIugrjiijmQwEEkAobJ1K.jpg",
+    "created_by": [
+        {
+            "id": 1494703,
+            "credit_id": "59900ea3c3a368747302770d",
+            "name": "Yumi Nakata",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-01-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 42409,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-03-22",
+    "last_episode_to_air": {
+        "air_date": "2010-03-22",
+        "episode_number": 12,
+        "id": 879916,
+        "name": "Before Meeting You...",
+        "overview": "Haruka feels betrayed by Nayu's announcement and stops being friends with her. That same night, Mizuno's apartment catches fire. These events leave everyone in a negative mood, and Nayu's texts to Haruka fall upon deaf ears. Later on, the girls help Nayu with her move, but Haruka doesn't show. After Yako pleas with her to make her final goodbye, Haruka finally meets up with Nayu the next day and the two finally apologise. Haruka, Yako and Hiroki see off Nayu as she heads to Kyoto, whilst they keep up the Underwear Society. However, Nayu later comes back after Keigo and Mizuno make arrangements for her to stay at school.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gc4x3zm7f4mCAG2W0IpimXVjf1h.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Chu-Bra!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ちゅーぶら!!",
+    "overview": "Chū-Bra!! is a Japanese manga series written and illustrated by Japanese manga author Yumi Nakata. The manga was first serialized in the Japanese seinen manga magazine Comic High! on January 22, 2007, and is published by Futabasha. An anime adaptation began airing on January 4, 2010 in Japan. The anime is also being streamed with English subtitles on the Crunchyroll online video service in North America, Australia, New Zealand and the United Kingdom.",
+    "popularity": 8.422,
+    "poster_path": "/o60XSaOqyIOjr30N8HiCFF65900.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2010-01-04",
+            "episode_count": 12,
+            "id": 52156,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zd2hicl65Acydk0y1z3y6ezvXWl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 5
+}

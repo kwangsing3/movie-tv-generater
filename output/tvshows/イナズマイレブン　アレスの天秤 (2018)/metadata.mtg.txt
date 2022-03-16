@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/9htqs6t9Sf0x0nNb3XoKOfksBlG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.inazuma.jp/ares/",
+    "id": 78484,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-09-27",
+    "last_episode_to_air": {
+        "air_date": "2019-09-27",
+        "episode_number": 49,
+        "id": 1935415,
+        "name": "Tomorrow Comes Beyond the Field",
+        "overview": "Zhao Jinyuns continue their fight against the Shadow of Orion.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Inazuma Eleven: Ares no Tenbin",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 76,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "イナズマイレブン　アレスの天秤",
+    "overview": "Ares depicts an alternative canon following the events of the first season of the original Inazuma Eleven anime after their victory in the Football Frontier, with the alien attack from the second season never occurring. When Japanese soccer has been deemed weak compared to international competition, the Raimon Eleven disbanded with its members transferring into different soccer teams across the country to strengthen Japan's soccer at a national level. Furthermore, sponsorship has become a vital aspect in a Japanese youth soccer team's survival as it prevents a team's disbandment while being essential to partake in matches.\n\nThe series focuses on the forward Asuto Inamori and his team, Inakuni Raimon, which is made up of players from the remote Inakunijima Island. Needing to maintain their club, they have replaced the original Raimon Eleven as Raimon Junior High's soccer team and compete as underdogs in the annual Football Frontier youth tournament.",
+    "popularity": 19.436,
+    "poster_path": "/xd2OyjcVDbNJAFBbBh63LniGDQB.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2016-11-04",
+            "episode_count": 6,
+            "id": 198334,
+            "name": "Specials",
+            "overview": "Inazuma Eleven Outer Code is a series of original anime shorts that take place in an alternate timeline where the aliens' attack never happened. It consists of 6 stories and serves as a bridge between the original series and the new series, Inazuma Eleven Ares no Tenbin.",
+            "poster_path": "/wUqVRGQOpTjpW9B2YT0OOj9u6SM.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-04-06",
+            "episode_count": 27,
+            "id": 101745,
+            "name": "Ares no Tenbin",
+            "overview": "Ares depicts an alternative canon following the events of the first season of the original Inazuma Eleven anime after their victory in the Football Frontier, with the alien attack from the second season never occurring.\n\nThe series focuses on the forward Asuto Inamori and his team, Inakuni Raimon, which is made up of players from the remote Inakunijima Island. Needing to maintain their club, they have replaced the original Raimon Eleven as Raimon Junior High's soccer team and compete as underdogs in the annual Football Frontier youth tournament.",
+            "poster_path": "/rfwPU4Jv2AgFwMQIon1T95ndsjs.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-10-05",
+            "episode_count": 49,
+            "id": 111029,
+            "name": "Orion no Kokuin",
+            "overview": "Orion no Kokuin revolves around a team called \"Inazuma Japan\"—composed of the best players of the previous Inazuma Eleven installments—that will act as a Japanese national team and will face teams from around the world.",
+            "poster_path": "/uJM9ykrC1WQ8dlcpCuUPJnTHF1L.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

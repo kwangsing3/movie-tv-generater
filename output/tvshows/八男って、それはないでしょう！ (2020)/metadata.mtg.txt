@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/1QhNiFUOhljlOmdDrDbi4UGmEWk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://hachinan-anime.com/",
+    "id": 99624,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-18",
+    "last_episode_to_air": {
+        "air_date": "2020-06-18",
+        "episode_number": 12,
+        "id": 2200048,
+        "name": "The 8th Son? I Guess That's Not So Bad!",
+        "overview": "With the magical Dragon's Flute that will summon a horde of dragons, Kurt lures Wendelin and company to an empty clearing in a forest. Kurt, after mocking Wendelin and Bramtack's failed attempt to stop kurt, plays the flute to kill the party and punish the towns for betraying him. It quickly becomes apparent to the companions the flute is not summoning a horde of dragons, but instead channeling all the malice of the land into Kurt. Wendelin helps Elize purify Kurt, with his body's destruction, Kurt's malice searches for the nobles who were responsible for his death and kills them. Having completed the kingdom's quest to fix the trouble lands, the king saddles Wendelin with developing the land, and offers Wendelin a reward.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6ybgp1ohWgbyppHUZYl1UeiHYQX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The 8th Son? Are You Kidding Me?",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "八男って、それはないでしょう！",
+    "overview": "Shingo Ichinomiya, a 25-year-old man working at a firm company, while thinking of tomorrow's busy working day, goes to sleep. However, when he woke up, he found himself in a room unknown to him and realized that he is inside a 6-years-old body, taking over his body and mind. He soon learns from the memories of the boy that the boy was born as the youngest child of a poor noble family living in a back country. Having no administrative skill, he can't do anything to manage the vast land his family has. Fortunately, he is blessed with a very rare talent, the talent of magic. Unfortunately, while his talent could bring prosperity to his family, in his situation it only brought disaster. This is the story of the boy, Wendelin Von Benno Baumeister, opening his own path in a harsh world.",
+    "popularity": 17.137,
+    "poster_path": "/r568fLhO21eMC05ewlVdC45qf4T.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-02",
+            "episode_count": 12,
+            "id": 143738,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zXoS26Ku4T4qzVh3dHqGJJyrLLO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 83
+}

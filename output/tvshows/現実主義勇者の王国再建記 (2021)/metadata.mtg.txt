@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/8WfElKNkyLu8NrvtVkMkWzhkOd5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://genkoku-anime.com",
+    "id": 102088,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 23,
+        "id": 3431376,
+        "name": "Gargling and Hand Washing Are the Basis of Disease Prevention",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uOk9BNRhR4RreoNUlzXjxjjYR9D.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "How a Realist Hero Rebuilt the Kingdom",
+    "next_episode_to_air": {
+        "air_date": "2022-03-20",
+        "episode_number": 24,
+        "id": 3431377,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "FOD",
+            "id": 2763,
+            "logo_path": "/xMGdd8hvu91BK098UwbUv9IdjM5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "現実主義勇者の王国再建記",
+    "overview": "Suddenly summoned to a fantasy world and betrothed to the princess, Kazuya Souma is crowned the new king. Unlike the royalty before him, he won’t be using swords and magic to rule; will administrative reform really get this kingdom back on track?",
+    "popularity": 69.247,
+    "poster_path": "/oxc5qsh0PULood08keUDVrOWgve.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-04",
+            "episode_count": 25,
+            "id": 148208,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oxc5qsh0PULood08keUDVrOWgve.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 0,
+            "id": 238132,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/oQuKgB3AmJSkaVMkC3jygbPPXB0.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 79
+}

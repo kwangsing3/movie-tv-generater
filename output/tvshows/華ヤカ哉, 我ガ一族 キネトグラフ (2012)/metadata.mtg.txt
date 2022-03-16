@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/btAKt3Qp4yF7rpIRZZpnXKZbRJu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2012-12-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 77118,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-03-03",
+    "last_episode_to_air": {
+        "air_date": "2013-03-03",
+        "episode_number": 2,
+        "id": 1433051,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hanayaka Nari, Waga Ichizoku: Kinetograph",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "華ヤカ哉, 我ガ一族 キネトグラフ",
+    "overview": "A girl named Haru Asagi works as a maid for the Miyanomori family, which is headed by one of Japan's most powerful magnates. However, the family head suddenly announces that he is retiring, so one of his six sons must assume control of the family.",
+    "popularity": 2.751,
+    "poster_path": "/3VjZ6JdfMVQ7tlCW2FkV0t5Go8K.jpg",
+    "production_companies": [
+        {
+            "id": 100980,
+            "logo_path": null,
+            "name": "TeamKG",
+            "origin_country": ""
+        },
+        {
+            "id": 93615,
+            "logo_path": null,
+            "name": "Anpro",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-12-02",
+            "episode_count": 2,
+            "id": 99390,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

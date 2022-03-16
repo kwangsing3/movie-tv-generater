@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/mxGiYb5ZbnEwcTxKmVHXd8YELsT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 37471,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-01-01",
+    "last_episode_to_air": {
+        "air_date": "2012-01-01",
+        "episode_number": 26,
+        "id": 3595398,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nura: Rise of the Yokai Clan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぬらりひょんの孫",
+    "overview": "Nura: Rise of the Yokai Clan, known in Japan as Nurarihyon no Mago, is a manga series written and illustrated by Hiroshi Shiibashi. The series was first published in Shueisha as a oneshot in 2007. The manga has been continuously serialized in the Japanese manga anthology Weekly Shōnen Jump since March 2008 and has been collected into 25 tankōbon volumes as of December 2012. A Drama CD was released in December 2009. An anime adaptation by Studio DEEN began airing in Japan on July 5, 2010, with the first season consisting of 26 episodes.\n\nViz Media acquired the licensing rights for a North American release of the manga and anime adaptations. The anime episodes have been streamed on Viz Media's anime streaming site, Viz Anime, since July 2010, while the first manga volume was released February 2011.",
+    "popularity": 42.015,
+    "poster_path": "/krFVaIPQlN49Avx5VZ2rhb4aNFi.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-12-04",
+            "episode_count": 7,
+            "id": 48785,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/zUe6xlhzmTlZ88LlJHSkqDRtdUo.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-07-04",
+            "episode_count": 24,
+            "id": 48784,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bNl7LsZE9Vh8AdNeX2R8V7bLsAJ.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2011-07-03",
+            "episode_count": 26,
+            "id": 48786,
+            "name": "Demon Capital",
+            "overview": "",
+            "poster_path": "/cBPHLYoTPMRJBfHYm7wGVekXm8N.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 48
+}

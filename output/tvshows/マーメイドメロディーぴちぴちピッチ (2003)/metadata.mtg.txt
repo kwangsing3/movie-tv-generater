@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/mMdQssCoupVTmOWz7thJeSURimh.jpg",
+    "created_by": [
+        {
+            "id": 98266,
+            "credit_id": "525962cf760ee3466197fc5c",
+            "name": "Michiko Yokote",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 42862,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-12-25",
+    "last_episode_to_air": {
+        "air_date": "2004-12-25",
+        "episode_number": 39,
+        "id": 882991,
+        "name": "Onward to That Dream",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mermaid Melody: Pichi Pichi Pitch",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 91,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マーメイドメロディーぴちぴちピッチ",
+    "overview": "As one of the seven mermaid princesses, Lucia must travel to the human world to protect the mermaid kingdoms.",
+    "popularity": 32.823,
+    "poster_path": "/jwDEHBO48GK8bL6pkHoQfgNyzHk.jpg",
+    "production_companies": [
+        {
+            "id": 30125,
+            "logo_path": "/idI9yjIWXWgLLdWqUbBpWzmTW9t.png",
+            "name": "Actas",
+            "origin_country": "JP"
+        },
+        {
+            "id": 140224,
+            "logo_path": "/5sKwEOp3RdoAukp6qHwSE8MoTit.png",
+            "name": "SynergySP",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-04-05",
+            "episode_count": 52,
+            "id": 52383,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/62oChoJqQjcyJPRoR7qDvXEUBJx.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2004-04-03",
+            "episode_count": 39,
+            "id": 52384,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/mLvEGo3A9Kw82IOTntIOgjUTvPm.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 10
+}

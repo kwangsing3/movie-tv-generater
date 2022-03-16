@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/1saVxO1AsooeaWpoXANOcQMtpzW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.jvcmusic.co.jp/flyingdog/tsukuyomi",
+    "id": 27813,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-03-29",
+    "last_episode_to_air": {
+        "air_date": "2005-03-29",
+        "episode_number": 25,
+        "id": 698911,
+        "name": "Big Brother, They Say It's The End! Will You Always Be My Slave?",
+        "overview": "Life for the Midou family returns to normal. Ryuuhei welcomes friends and family to celebrate, but plans go astray as the full moon feast begins. Kouhei might have to save the day one last time.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jcdIDwQi9tMgcEQJzIM3X3kcQwl.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "MoonPhase",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "月詠～MOON PHASE～",
+    "overview": "Paranormal photographer Kouhei stumbles into the arms of Hazuki, a vampire beauty who has waited for years to be freed from a forgotten castle. Unwilling to part with her unwitting hero, the petite vamp follows Kouhei home and starts causing trouble. But domestic disorder is the least of Kouhei’s problems. With dark forces gathering, he’s about to enter a world he can’t begin to comprehend!",
+    "popularity": 7.131,
+    "poster_path": "/oPgFOYwpbCt9eC6AJ2lzFSJmPIX.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-02-22",
+            "episode_count": 1,
+            "id": 98978,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/O5byGbluClsasRNGi9MiD7HKg5.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-10-05",
+            "episode_count": 25,
+            "id": 38912,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gxs4jUcPMa6h4R0K0tJBTF5CRjm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 39
+}

@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/78lWpD0kaGLgWFBGf5K06lFEnBD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-04-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://gargantia.jp/",
+    "id": 55011,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-06-30",
+    "last_episode_to_air": {
+        "air_date": "2013-06-30",
+        "episode_number": 13,
+        "id": 927412,
+        "name": "Legend of the Verdurous Planet",
+        "overview": "Striker claims that it was following Kugel's instructions after his death and eventually reached the conclusion that to ensure stability to the fleet, it was necessary for the humans to view it as their god. Both Ledo and Chamber reject Striker's offer to join its side and decide to destroy it. Unable to defeat Striker in their current condition, Ledo decides to merge his nerve system with Chamber's interface to increase its capabilites at the cost of his life, but Amy appears soon after to tell him that he does not need to fight alone. Meanwhile at the Gargantia, Ridget uses the key to activate the mass driver stored inside the main ship and uses it to bombard the enemy fleet while Pinion evacuates his crew and intends to take the enemies assaulting his ship with them, but is saved in the last moment by Lukkage. Striker then decides to attack the Gargantia but Ledo and Chamber pursue it.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/htRgpkxZHkQqSDdRwqIREYW3QBl.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gargantia on the Verdurous Planet",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "翠星のガルガンティア",
+    "overview": "While fighting an intense inter-galactic war, a mecha pilot is accidentally warped into a space-time neither he nor his computer recognize. After waking up from a long-time hibernation, he finds himself trapped on a planet, with human residents talking in an unknown form of language, using inferior technologies, and - most shocking to him - naturally breathable air.",
+    "popularity": 23.564,
+    "poster_path": "/pkg9YM5LHmBNGRAXOpNJ6oXVQG5.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-04-10",
+            "episode_count": 28,
+            "id": 56752,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/vDlQW4VdLFSOkRjowpUNK36tXTH.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-04-07",
+            "episode_count": 13,
+            "id": 56751,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8rfi3GMbGbUMU7kLuSF4gfuMjvl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Gargantia on the Verdurous Planet!",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 40
+}

@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/3BBCWMfACKTDpaaMh3FCZuWrzI3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2009-04-24",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.sentaifilmworks.com/a/catalog/cobra-time-drive",
+    "id": 126278,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-04-24",
+    "last_episode_to_air": {
+        "air_date": "2009-04-24",
+        "episode_number": 1,
+        "id": 2973986,
+        "name": "Time Drive Episode 1",
+        "overview": "Lady is starting to disappear, so Cobra takes her to meet Scheherazade, the dream spinner. Is the solution to a dire future… hidden in his past?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cobra The Animation: Time Drive",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "COBRA THE ANIMATION タイム・ドライブ",
+    "overview": "Lady suddenly disappears without a trace. Cobra must race against time and dive into her past to find a way to save her. With assassins, dreams and old acquaintances Cobra will need to outsmart his new enemy. Who was Lady before she met Cobra? How did she get her metal body? Find out in Cobra Time Drive!",
+    "popularity": 1.936,
+    "poster_path": "/u36XTNcxEAl2FLwAH6pKhGJnvg3.jpg",
+    "production_companies": [
+        {
+            "id": 13078,
+            "logo_path": null,
+            "name": "Magic Bus",
+            "origin_country": "JP"
+        },
+        {
+            "id": 154777,
+            "logo_path": null,
+            "name": "Guild Project",
+            "origin_country": ""
+        },
+        {
+            "id": 33751,
+            "logo_path": "/2caA5Y2tdgi69L61uQnrpCIjwde.png",
+            "name": "Sentai Filmworks",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-04-24",
+            "episode_count": 2,
+            "id": 196735,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 2
+}

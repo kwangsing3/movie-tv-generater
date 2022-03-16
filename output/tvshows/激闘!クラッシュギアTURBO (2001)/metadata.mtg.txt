@@ -1,0 +1,156 @@
+{
+    "adult": false,
+    "backdrop_path": "/u4aChZdmhwSTcwOjzPpJU7DPPNT.jpg",
+    "created_by": [
+        {
+            "id": 3161832,
+            "credit_id": "6219405292e55b006c26ff79",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2001-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=71",
+    "id": 45004,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-01-26",
+    "last_episode_to_air": {
+        "air_date": "2003-01-26",
+        "episode_number": 68,
+        "id": 2429686,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Crush Gear Turbo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Nagoya TV",
+            "id": 576,
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 68,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "激闘!クラッシュギアTURBO",
+    "overview": "Crush Gear Turbo, also known just as Crush Gear, is an anime and manga series. The anime series, produced by Sunrise, spanned 68 episodes, aired across Japan on the anime television network Animax, from October 7, 2001 to January 26, 2003. It was followed on by a sequel, Crush Gear Nitro, which has also been aired across Japan by Animax. Crush Gear Turbo was about people who threw mechanical vehicles into a large ring to fight and \"crush\" each other. Magna Pacific released Crush Gear Turbo in English in Australia. Cartoon Network Philippines, ABS-CBN, Studio 23 and Hero TV also released Crush Gear Turbo in the Philippines.",
+    "popularity": 11.656,
+    "poster_path": "/g2y2am9rfHHCKE4xHHZTxs9iN2v.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 27720,
+            "logo_path": null,
+            "name": "Tokyu Agency",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-07-20",
+            "episode_count": 1,
+            "id": 163077,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2001-10-06",
+            "episode_count": 68,
+            "id": 53694,
+            "name": "Season 1",
+            "overview": "Kouya, a 5th Grade boy, loves a game called “Crush Gear.” His Crush Gear technique is not so good at first, but he develops with some help from friends. “Crush Gear Turbo” is not only a story of battles with machines called “Gears.” It is also the story of friendship, victory, and growth. By customizing his Gear by himself, Kouya comes to feel that it is in an important friend. And that feeling leads him to victory. Also, by recognizing the same feelings in his opponent, he becomes friends even with his rival.",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1
+}

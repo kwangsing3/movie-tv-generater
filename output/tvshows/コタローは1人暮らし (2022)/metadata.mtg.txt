@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/gO5ZWlnabkjJtQBVmDonhzfRsKx.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        27
+    ],
+    "first_air_date": "2022-03-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kotaro-anime.com/",
+    "id": 134581,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-10",
+    "last_episode_to_air": {
+        "air_date": "2022-03-10",
+        "episode_number": 10,
+        "id": 3586296,
+        "name": "",
+        "overview": "One day, a woman Kotaro doesn't recognize comes to pick him up from kindergarten. She says she's Karino's ex-girlfriend.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/u7fqNdy0lC9Pf5chrWSwuPd9mYe.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kotaro Lives Alone",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "コタローは1人暮らし",
+    "overview": "A lonely little boy moves into a ramshackle apartment building all on his own and makes friends with the broke manga artist who lives next door.",
+    "popularity": 31.285,
+    "poster_path": "/8v2CVrPNC1pO0osxbia4FopGtLe.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-03-10",
+            "episode_count": 10,
+            "id": 212560,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2wIXxeZZHh6VKs64E2R3x5SOfgS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

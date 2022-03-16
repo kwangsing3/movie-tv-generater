@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/ze7zvs2SVCbE2e5NpaNzSnfqAYo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://meikyubc-anime.com/",
+    "id": 105476,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-24",
+    "last_episode_to_air": {
+        "air_date": "2021-09-24",
+        "episode_number": 12,
+        "id": 3055161,
+        "name": "GoOd Day, goodbye",
+        "overview": "Belza strikes back against Kinji by gathering evidence to report Kinji to the authorities. Kinji is placed under arrest for numerous serious charges, some of which are actually true.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5ulI51ATnlIep1xfSlWnqAyWEeV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Dungeon of Black Company",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "迷宮ブラックカンパニー",
+    "overview": "Kinji, who lacks any kind of work ethic, is a layabout in his modern life. One day, he finds himself transported to another world–but not in a grand fantasy of a hero welcomed with open arms. He's immediately shoved into a terrible job! Now enslaved by an evil mining company in a fantasy world, Kinji's about to really learn the meaning of hard work!",
+    "popularity": 29.867,
+    "poster_path": "/k71BPHfda6jQS350IoJSkKkGm8A.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-03",
+            "episode_count": 1,
+            "id": 203035,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-07-09",
+            "episode_count": 12,
+            "id": 155119,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/coAkyVOGFTTkNQeUilbzNP57nGP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 19
+}

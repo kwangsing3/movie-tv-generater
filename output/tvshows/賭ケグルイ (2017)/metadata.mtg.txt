@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/8KKp4x0AMzPFbPSnYrNdkJuA71H.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://kakegurui-anime.com/",
+    "id": 72305,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-27",
+    "last_episode_to_air": {
+        "air_date": "2019-03-27",
+        "episode_number": 12,
+        "id": 1659588,
+        "name": "The Zero Girl",
+        "overview": "A hostile Rei declares that she will win the election and take over, but Yumeko stands in her way.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/wUcNz6BaOSLXqUlg72GdmwNnona.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Kakegurui",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "賭ケグルイ",
+    "overview": "Hyakkaou Private Academy. An institution for the privileged with a very peculiar curriculum. You see, when you're the sons and daughters of the wealthiest of the wealthy, it's not athletic prowess or book smarts that keep you ahead. It's reading your opponent, the art of the deal. What better way to hone those skills than with a rigorous curriculum of gambling? At Hyakkaou Private Academy, the winners live like kings, and the losers are put through the wringer. But when Yumeko Jabami enrolls, she's gonna teach these kids what a high roller really looks like!",
+    "popularity": 100.252,
+    "poster_path": "/99jgepKwa0yqLY0pP5BlfYLH6nX.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-10-13",
+            "episode_count": 3,
+            "id": 118045,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/rmb8hRW01sSCsEFTdP1YjCspILD.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-07-01",
+            "episode_count": 12,
+            "id": 89436,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qGPC7PXcl64Drl5EKfYjcoKUqub.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-01-09",
+            "episode_count": 12,
+            "id": 110806,
+            "name": "Kakegurui × ×",
+            "overview": "",
+            "poster_path": "/30RXE5s5SupMKIZ2ujXjxoTUPX3.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 1289
+}

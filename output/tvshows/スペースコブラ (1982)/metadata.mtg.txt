@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/8vzSh6eEiCbAmi5wpXSXX3jKEKP.jpg",
+    "created_by": [
+        {
+            "id": 1064964,
+            "credit_id": "53db8ea9c3a36821dc000c93",
+            "name": "Buichi Terasawa",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-10-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 8880,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-05-19",
+    "last_episode_to_air": {
+        "air_date": "1983-05-19",
+        "episode_number": 31,
+        "id": 401315,
+        "name": "Bye! My Cobra!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/i5T2pJDkwCWOAY7PqObonPvQbgR.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Space Cobra",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 31,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スペースコブラ",
+    "overview": "Cobra lived an adventurous life until his enemies began to hunt him down. He surgically altered his face and erased his own memory in order to hide from his foes and lead a normal life. Eventually, he regains his memories and re-unites with his old partner Lady Armaroid and his ship Tortuga. Cobra travels the galaxy, fighting the outlaw Pirate Guild, but also fleeing the law-enforcing Milky Way Patrol.",
+    "popularity": 29.573,
+    "poster_path": "/pzXDu93SkniHnGq8Ht0e7MFeCGw.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1982-07-03",
+            "episode_count": 2,
+            "id": 18763,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/xsUCCwYFGJ1d0LNhMfQA3K75pFp.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1982-10-07",
+            "episode_count": 31,
+            "id": 18762,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kpnKnTo731VIvMlWrrZHmPISeSa.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 146
+}

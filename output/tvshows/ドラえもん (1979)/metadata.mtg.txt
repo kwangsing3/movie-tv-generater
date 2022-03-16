@@ -1,0 +1,342 @@
+{
+    "adult": false,
+    "backdrop_path": "/6oVBODwFvbDJczBFlf4J930jKZg.jpg",
+    "created_by": [
+        {
+            "id": 932979,
+            "credit_id": "56d09993c3a3681e3c0075dc",
+            "name": "Fujiko F. Fujio",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        11
+    ],
+    "first_air_date": "1979-04-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tv-asahi.co.jp/doraemon/",
+    "id": 57911,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-04-15",
+    "last_episode_to_air": {
+        "air_date": "2015-04-15",
+        "episode_number": 11,
+        "id": 1400033,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 27,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Doraemon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1808,
+    "number_of_seasons": 27,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラえもん",
+    "overview": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is the much more successful successor of the 1973 anime.",
+    "popularity": 80.801,
+    "poster_path": "/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1980-03-15",
+            "episode_count": 43,
+            "id": 58975,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/uVc1sBArQaPUtGyCBEfXkWUdPkJ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1979-04-02",
+            "episode_count": 235,
+            "id": 58974,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hYQNRhVXBJGdHsyowFtXHHVplEm.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1980-01-04",
+            "episode_count": 259,
+            "id": 58976,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/8Gm9fkH7ihJK6bGOXPrLE2mQk9M.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "1981-01-05",
+            "episode_count": 152,
+            "id": 74927,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/zalUZ5d848k26MPmobNgigGQGsZ.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "1982-01-08",
+            "episode_count": 49,
+            "id": 58977,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/hhs6QMMVFCuc1xf3ohr0uZK25jb.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "1983-01-07",
+            "episode_count": 52,
+            "id": 58978,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/vjqZpC38UtdzX4EPMkteKuNolcW.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": "1984-01-06",
+            "episode_count": 51,
+            "id": 74930,
+            "name": "Season 6",
+            "overview": "",
+            "poster_path": "/bdN2fx4pD6fJx80mrJYOcXH3372.jpg",
+            "season_number": 6
+        },
+        {
+            "air_date": "1985-01-04",
+            "episode_count": 52,
+            "id": 74931,
+            "name": "Season 7",
+            "overview": "",
+            "poster_path": "/ecnViLORooX4dWsact9QuN30Bn8.jpg",
+            "season_number": 7
+        },
+        {
+            "air_date": "1986-01-10",
+            "episode_count": 50,
+            "id": 74932,
+            "name": "Season 8",
+            "overview": "",
+            "poster_path": "/n70Fyev87P7sydbZrCurO8k9zfn.jpg",
+            "season_number": 8
+        },
+        {
+            "air_date": "1987-01-09",
+            "episode_count": 60,
+            "id": 74933,
+            "name": "Season 9",
+            "overview": "",
+            "poster_path": "/whMuwm3R5BbbHQbxwg84DXtumb8.jpg",
+            "season_number": 9
+        },
+        {
+            "air_date": "1988-01-08",
+            "episode_count": 49,
+            "id": 74934,
+            "name": "Season 10",
+            "overview": "",
+            "poster_path": "/xyQ3ZxTWEHwRJ01Xi1v8qDH3nB4.jpg",
+            "season_number": 10
+        },
+        {
+            "air_date": "1989-01-06",
+            "episode_count": 54,
+            "id": 74935,
+            "name": "Season 11",
+            "overview": "",
+            "poster_path": "/s0nSmflBBwLDPOHV1id2Irjgmgs.jpg",
+            "season_number": 11
+        },
+        {
+            "air_date": "1990-01-05",
+            "episode_count": 50,
+            "id": 74936,
+            "name": "Season 12",
+            "overview": "",
+            "poster_path": "/pUymMoBIr3p4PfJN797iA6IlahV.jpg",
+            "season_number": 12
+        },
+        {
+            "air_date": "1991-01-11",
+            "episode_count": 50,
+            "id": 74937,
+            "name": "Season 13",
+            "overview": "",
+            "poster_path": "/w3c0vRYpVG9oP68OhlbGM05BpVt.jpg",
+            "season_number": 13
+        },
+        {
+            "air_date": "1992-01-10",
+            "episode_count": 51,
+            "id": 74938,
+            "name": "Season 14",
+            "overview": "",
+            "poster_path": "/bqOAPIOp6uyWbNUCp1l1XEDHPtT.jpg",
+            "season_number": 14
+        },
+        {
+            "air_date": "1993-01-08",
+            "episode_count": 70,
+            "id": 74939,
+            "name": "Season 15",
+            "overview": "",
+            "poster_path": "/1bZYsl3qXH9QkaLAtgTsmqLm4Jz.jpg",
+            "season_number": 15
+        },
+        {
+            "air_date": "1994-01-07",
+            "episode_count": 51,
+            "id": 74940,
+            "name": "Season 16",
+            "overview": "",
+            "poster_path": "/1ywIqvtrWaeUpH4IyxZAzlQThzp.jpg",
+            "season_number": 16
+        },
+        {
+            "air_date": "1995-01-06",
+            "episode_count": 48,
+            "id": 74941,
+            "name": "Season 17",
+            "overview": "",
+            "poster_path": "/mF87DSOpFk3MbsQ63IrHWmZIKYh.jpg",
+            "season_number": 17
+        },
+        {
+            "air_date": "1996-01-05",
+            "episode_count": 48,
+            "id": 74942,
+            "name": "Season 18",
+            "overview": "",
+            "poster_path": "/5XMnRskTbRsw84bfF2IFSBJDSEF.jpg",
+            "season_number": 18
+        },
+        {
+            "air_date": "1997-01-10",
+            "episode_count": 51,
+            "id": 74943,
+            "name": "Season 19",
+            "overview": "",
+            "poster_path": "/wAaJ7w9xTYhCaGUBh7qEcyHsikw.jpg",
+            "season_number": 19
+        },
+        {
+            "air_date": "1998-01-09",
+            "episode_count": 44,
+            "id": 74944,
+            "name": "Season 20",
+            "overview": "",
+            "poster_path": "/xWHutzxPBeFaBuoHXVei7pjgIRu.jpg",
+            "season_number": 20
+        },
+        {
+            "air_date": "1999-01-08",
+            "episode_count": 45,
+            "id": 74945,
+            "name": "Season 21",
+            "overview": "",
+            "poster_path": "/fVulseJCKQqYZeDViIs6wOnkzQH.jpg",
+            "season_number": 21
+        },
+        {
+            "air_date": "2000-01-14",
+            "episode_count": 40,
+            "id": 74946,
+            "name": "Season 22",
+            "overview": "",
+            "poster_path": "/pQJWYz9wxnu5Vn5jjY5t9EXkvDj.jpg",
+            "season_number": 22
+        },
+        {
+            "air_date": "2001-01-12",
+            "episode_count": 41,
+            "id": 74947,
+            "name": "Season 23",
+            "overview": "",
+            "poster_path": "/dzsX0hj6oFUak1WhfMctD101evw.jpg",
+            "season_number": 23
+        },
+        {
+            "air_date": "2002-01-11",
+            "episode_count": 45,
+            "id": 74948,
+            "name": "Season 24",
+            "overview": "",
+            "poster_path": "/nmjbL87fDhoP3yntPbwRDEYHny5.jpg",
+            "season_number": 24
+        },
+        {
+            "air_date": "2003-01-17",
+            "episode_count": 45,
+            "id": 74949,
+            "name": "Season 25",
+            "overview": "",
+            "poster_path": "/b2Y6mDrFdlRI5lJ4Q94KEvmg4xy.jpg",
+            "season_number": 25
+        },
+        {
+            "air_date": "2004-01-09",
+            "episode_count": 38,
+            "id": 74950,
+            "name": "Season 26",
+            "overview": "",
+            "poster_path": "/zEP28Q6h8nWTkiuLICEieZQ22Z5.jpg",
+            "season_number": 26
+        },
+        {
+            "air_date": "2005-01-07",
+            "episode_count": 28,
+            "id": 74951,
+            "name": "Season 27",
+            "overview": "",
+            "poster_path": "/25u1UOWkpecJrBwybC9vbMVuuYn.jpg",
+            "season_number": 27
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 507
+}

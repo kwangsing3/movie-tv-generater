@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/gszc12O1N1DK0XIHEwoMo8frw4B.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://farawaypaladin.com",
+    "id": 123525,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-01-03",
+    "last_episode_to_air": {
+        "air_date": "2022-01-03",
+        "episode_number": 12,
+        "id": 3274319,
+        "name": "The Faraway Paladin",
+        "overview": "Will and his friends are addicted to the traps of the demons and have routed. After seeing the seriously injured Menel, Will realizes that he has unknowingly put his companion in a dangerous eye, and realizes the difference in ability between his surroundings and himself. It was Menel who showed anger that stood in front of Will who was going to defeat the demon beast alone.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ltXBm1fB3WgDsUAw68INFJMiaAR.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "The Faraway Paladin",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "最果てのパラディン",
+    "overview": "In a city of the dead, long since ruined and far from human civilization, lives a single human child. His name is Will, and he's being raised by three undead: the hearty skeletal warrior, Blood; the graceful mummified priestess, Mary; and the crotchety spectral sorcerer, Gus. The three pour love into the boy, and teach him all they know. But one day, Will starts to wonder: \"Who am I?\"\n\nWill must unravel the mysteries of this faraway dead man's land, and unearth the secret pasts of the undead. He must learn the love and mercy of the good gods, and the bigotry and madness of the bad. And when he knows it all, the boy will take his first step on the path to becoming a Paladin.",
+    "popularity": 41.253,
+    "poster_path": "/AlUFBZNKSHM0tw9MZMF9A3BIPeK.jpg",
+    "production_companies": [
+        {
+            "id": 125443,
+            "logo_path": null,
+            "name": "Children's Playground Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-11-27",
+            "episode_count": 2,
+            "id": 220332,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/hxAfcTrrchjfCWOEGwqt3qJRoQj.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-10-09",
+            "episode_count": 12,
+            "id": 190982,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7Dh4SnIwj016uyK9mkABtX9tgN1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 20
+}

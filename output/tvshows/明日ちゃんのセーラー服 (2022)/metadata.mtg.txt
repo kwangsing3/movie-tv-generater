@@ -1,0 +1,138 @@
+{
+    "adult": false,
+    "backdrop_path": "/55QY5FJVUJD5JMPynzLvLmIVJwT.jpg",
+    "created_by": [
+        {
+            "id": 1598662,
+            "credit_id": "6230b4b2d46537007a6ca935",
+            "name": "Miyuki Kuroki",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://akebi-chan.jp/",
+    "id": 121792,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-13",
+    "last_episode_to_air": {
+        "air_date": "2022-03-13",
+        "episode_number": 10,
+        "id": 3416242,
+        "name": "Fight On! Fight On!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dwyARhWsuEyyAdWufCjMYygdUWy.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Akebi's Sailor Uniform",
+    "next_episode_to_air": {
+        "air_date": "2022-03-20",
+        "episode_number": 11,
+        "id": 3416243,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tochigi TV",
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "明日ちゃんのセーラー服",
+    "overview": "Robai Private Academy is a well-known girls’ junior high school in the countryside. Komichi Akebi is a girl who, for a certain reason, has dreamed of wearing a Robai Academy sailor uniform. Her dream comes true, and her heart races as the day of the school entrance ceremony arrives. With her heart set on her new sailor uniform, Komichi embarks on the junior high school life of her dreams. Komichi dashes headlong through days full of “firsts”—classmates, school lunches, club activities, and more—in this sparkling diary of girlhood. “I hope I can make a lot of friends.”",
+    "popularity": 56.248,
+    "poster_path": "/OYFPuwKz7rs0yH5RkaExrOKVz7.jpg",
+    "production_companies": [
+        {
+            "id": 121589,
+            "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+            "name": "CloverWorks",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 12,
+            "id": 187887,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/luZhX5AQnk527jAdTnSrmoHErGK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 7
+}

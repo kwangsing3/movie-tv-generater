@@ -1,0 +1,172 @@
+{
+    "adult": false,
+    "backdrop_path": "/uLcnCwT6y4FF7y6k8b46mJKrx85.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.greatpretender.jp/",
+    "id": 93816,
+    "in_production": false,
+    "languages": [
+        "zh",
+        "fr",
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2020-12-17",
+    "last_episode_to_air": {
+        "air_date": "2020-12-17",
+        "episode_number": 23,
+        "id": 2060571,
+        "name": "Case 4_9: Wizard of Far East",
+        "overview": "The Wizard of the Far East pulls off one final magic trick, and some people finally get what's coming to them.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/id30bnwFs5GORYLCUDoJ1uQc9Rs.jpg",
+        "vote_average": 7,
+        "vote_count": 2
+    },
+    "name": "Great Pretender",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 23,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "GREAT PRETENDER",
+    "overview": "Supposedly Japan’s greatest swindler, Makoto Edamura gets more than he bargained for when he tries to con Laurent Thierry, a real world-class crook.",
+    "popularity": 35.745,
+    "poster_path": "/rI7ieYbsIquhDLkLoVIlDC0J91Z.jpg",
+    "production_companies": [
+        {
+            "id": 31058,
+            "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+            "name": "Wit Studio",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150991,
+            "logo_path": "/kzLoBnWgzQeCQNWQrp8u4cXMZOs.png",
+            "name": "Fujipacific Music",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150372,
+            "logo_path": null,
+            "name": "Sound Team・Don Juan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59206,
+            "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+            "name": "BS Fuji",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11846,
+            "logo_path": "/es3LvDA6wLWVDvZnAYYuAT6x8lJ.png",
+            "name": "Hakuhodo DY Media Partners",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-12-16",
+            "episode_count": 1,
+            "id": 184533,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/aZDNCkDXq1BXncPMWpCY6dH1CKF.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-07-09",
+            "episode_count": 23,
+            "id": 132682,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/r6kYQQk0IWGosK80yV7pTt7aWtn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 41
+}

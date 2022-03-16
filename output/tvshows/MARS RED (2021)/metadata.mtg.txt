@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/iHnzz2zsI1THLwrq5rMb4G5hOiR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://marsred.tv/",
+    "id": 99099,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-29",
+    "last_episode_to_air": {
+        "air_date": "2021-06-29",
+        "episode_number": 13,
+        "id": 2889649,
+        "name": "Frailty, Thy Name Is...",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/q62hbpDl1vmPUgyE1ibNqub3cuV.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "MARS RED",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "MARS RED",
+    "overview": "It’s 1923, and the mysterious blood source Ascra has unleashed a horde of vampires across Japan. In response, the government spawns Code Zero. With S-rank vampire Defrott and the rookie Kurusu, this kill squad is made for one reason: to hunt the undead!",
+    "popularity": 33.345,
+    "poster_path": "/z0AaUo0hCb2RF2JGr9AmaDyJj7d.jpg",
+    "production_companies": [
+        {
+            "id": 88373,
+            "logo_path": "/aUJ6Xd89l0jXiybnaD7KZPWSUgS.png",
+            "name": "Signal.MD",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-11-24",
+            "episode_count": 5,
+            "id": 181445,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/vFqL0MXd3OvpQq0UlESefXDXnY3.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-04-06",
+            "episode_count": 13,
+            "id": 142840,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/z0AaUo0hCb2RF2JGr9AmaDyJj7d.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 26
+}

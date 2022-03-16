@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/eKrXQRytrjh4EPPuddQRRGc4Nmu.jpg",
+    "created_by": [
+        {
+            "id": 233248,
+            "credit_id": "5ceedff0c3a36856101dd9be",
+            "name": "Ryousuke Takahashi",
+            "gender": 2,
+            "profile_path": "/yX9j8giZAXdINjACwDjwEQ504U0.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1999-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 19855,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-03-31",
+    "last_episode_to_air": {
+        "air_date": "2000-03-31",
+        "episode_number": 26,
+        "id": 578514,
+        "name": "Let Me",
+        "overview": "A monstrous Blue has emerged in the heart of the South American nest, the only thing standing between Yuji and the answers he so desperately seeks. Unless Yuji wins this battle, all hope for the future is lost -- for him, for Marlene and for the entire human race.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/s0obsK2lqSPI5F9x2R5WvZGIo8R.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Blue Gender",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブルージェンダー",
+    "overview": "In the 2030s Earth has been overrun by the Blue, which are mutated insect-like creatures that kill and harvest humans for food. Most of the surviving human race has moved to Second Earth, a huge spaceship that orbits the planet. Yuji and Marlene must work together to reach Second Earth and fight against the Blue.",
+    "popularity": 8.128,
+    "poster_path": "/e1fkIjgSiFvW3edqtG9sSaurcFI.jpg",
+    "production_companies": [
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104680,
+            "logo_path": null,
+            "name": "Studio Fuga",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-11-20",
+            "episode_count": 1,
+            "id": 30095,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1999-10-08",
+            "episode_count": 26,
+            "id": 30094,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5fH1Kwpw60M3UBGmfNlboHMSv6P.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 11
+}

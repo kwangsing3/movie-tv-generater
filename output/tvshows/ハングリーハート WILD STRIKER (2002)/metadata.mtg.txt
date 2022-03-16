@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/vho9YfxltSqUUg0PgxbExB3kLiU.jpg",
+    "created_by": [
+        {
+            "id": 1154481,
+            "credit_id": "5fca906866a7c3003f470dac",
+            "name": "Takahashi Youichi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2002-09-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 90451,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-09-03",
+    "last_episode_to_air": {
+        "air_date": "2003-09-03",
+        "episode_number": 52,
+        "id": 1959612,
+        "name": "Come back soon, Kanou Kyosuke!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7Z88lWc4m799aDtu2091EwuAGOQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hungry Heart: Wild Striker",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Animax Asia",
+            "id": 3268,
+            "logo_path": "/gNsvkmJY7QzRQ7AZ0QK9PeONIm2.png",
+            "origin_country": "TW"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハングリーハート WILD STRIKER",
+    "overview": "Kyosuke Kano has lived under the shadow of his successful brother Seisuke all his life who is a professional soccer player. Tired of being compared and downgraded at, he abandoned playing soccer until a boy from his new highschool discovered him and asked him to join their team. Kyosuke joins it and befriends two other first year players named Rodrigo and Sakai with the dream of becoming professional soccer players themselves.",
+    "popularity": 9.552,
+    "poster_path": "/v8HzJP4JZ5yqnzFIYXDNd4u1gQ0.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-09-11",
+            "episode_count": 52,
+            "id": 126130,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/73is4iNIj7nPAWDFDVU7mbHxNGV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 12
+}

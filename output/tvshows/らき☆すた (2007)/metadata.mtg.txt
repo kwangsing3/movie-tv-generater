@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
+    "created_by": [
+        {
+            "id": 1901031,
+            "credit_id": "59d780d7c3a368624d00e54c",
+            "name": "Kagami Yoshimizu",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2007-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.lucky-ch.com/",
+    "id": 42500,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-09-16",
+    "last_episode_to_air": {
+        "air_date": "2007-09-16",
+        "episode_number": 24,
+        "id": 880773,
+        "name": "To Be Announced",
+        "overview": "It's almost time for the school's culture festival.  While the girls are preparing for their classes' themes for the festival, Patricia proposes that she and the girls in her class should do a cheerleading act for the opening ceremony of the festival.  Patricia \"persuades\" Konata into performing the routine with her, who in turn gets Kagami, Tsukasa, Miyuki, Misao, and Ayano to do it as well.\n\nAkira Kogami finally makes an appearance on the actual show, although she and Shiraishi are still on bad terms.\n\nBefore the opening ceremony, the girls practice the cheerleading act one last time to the song, \"Motteke!  Sailor Fuku!\"",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kyY11dIFoNJKOlMcm4Isi0plA98.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Lucky Star",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "らき☆すた",
+    "overview": "Having fun in school, doing homework together, cooking and eating, playing video games, watching anime. All those little things make up the daily life of the anime-and chocolate-loving-Izumi Konata and her friends.",
+    "popularity": 14.869,
+    "poster_path": "/dk7LbdxOHiQZVOQBLSoIVZl2jnx.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-09-26",
+            "episode_count": 1,
+            "id": 52221,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/lGMffHqlQTAQbTv1Gd39cZkDhsK.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-04-08",
+            "episode_count": 24,
+            "id": 52222,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nOH6XDwm8j73QBsLlxcbTZYyyak.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 41
+}

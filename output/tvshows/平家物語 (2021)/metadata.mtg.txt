@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/bL895RNK1Z41KQyVPqZFf6QeSn4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2021-09-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://heike-anime.asmik-ace.co.jp/",
+    "id": 132664,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-11-25",
+    "last_episode_to_air": {
+        "air_date": "2021-11-25",
+        "episode_number": 11,
+        "id": 3218514,
+        "name": "",
+        "overview": "Biwa witnesses the final clash between the Heike and the Genji. In the aftermath, Biwa sets out to tell the Heike's story.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/c6qwVtIo2zMiaVnApT3uvLNdJB5.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Heike Story",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "FOD",
+            "id": 2763,
+            "logo_path": "/xMGdd8hvu91BK098UwbUv9IdjM5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "平家物語",
+    "overview": "A young orphan named Biwa is taken in by the powerful Taira Clan—also known as the Heike—after their leader witnesses her extraordinary psychic abilities. Unfortunately, what she predicts is a future of bloodshed, violence, and civil war. Inspired by the 12th-century epic tale Heike Monogatari.",
+    "popularity": 17.902,
+    "poster_path": "/t8fvOz6sSsvMq6481oAWrN3lI7h.jpg",
+    "production_companies": [
+        {
+            "id": 99494,
+            "logo_path": "/qkHfgTmVRgYOyX0d4EivIDFFKMz.png",
+            "name": "Science SARU",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3033,
+            "logo_path": "/AwgX2FHGJd54aSWfWJqptFvT1h.png",
+            "name": "Asmik Ace",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-09-16",
+            "episode_count": 11,
+            "id": 208969,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qztDVBHiafTcapyYC0SJubf20oS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 7
+}

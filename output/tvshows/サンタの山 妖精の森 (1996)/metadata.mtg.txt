@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/5nXHaiQcUmzBQQtIwAlkEBHCO1u.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        32
+    ],
+    "first_air_date": "1996-10-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 96832,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-10-25",
+    "last_episode_to_air": {
+        "air_date": "1996-10-25",
+        "episode_number": 1,
+        "id": 2027892,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Santa's Mountain Fairy Forest",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サンタの山 妖精の森",
+    "overview": "This is a delightful and heartwarming story about Santa Claus and and the Tonto (fairies) that help him.",
+    "popularity": 0.703,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 14602,
+            "logo_path": "/t9eqx5QCHtu8LxxgYzivqrJAosp.png",
+            "name": "AMUSE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1996-10-25",
+            "episode_count": 1,
+            "id": 138988,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

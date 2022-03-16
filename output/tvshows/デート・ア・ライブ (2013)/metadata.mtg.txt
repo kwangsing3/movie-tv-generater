@@ -1,0 +1,174 @@
+{
+    "adult": false,
+    "backdrop_path": "/6wvmGAbbQljlM8GDFBLjq8Thr3R.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://date-a-live-anime.com/",
+    "id": 46004,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-29",
+    "last_episode_to_air": {
+        "air_date": "2019-03-29",
+        "episode_number": 12,
+        "id": 1659841,
+        "name": "Make Shido Itsuka Swoon",
+        "overview": "All the sealed Spirit power is making Shido go wild, but the only cure is to kiss him again. Can all the girls entice Shido to fall for them before it's too late?",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/3mk0COu7Htmn8gK0bfYDTw2TEr7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Date a Live",
+    "next_episode_to_air": {
+        "air_date": "2022-04-08",
+        "episode_number": 1,
+        "id": 3006502,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 4,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 35,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デート・ア・ライブ",
+    "overview": "Thirty years ago a strange phenomenon called a \"spacequake\" devastated the center of Eurasia, claiming the lives of at least 150 million people. Since then, smaller spacequakes plague the world on an irregular basis. Shido Itsuka, a seemingly ordinary high schooler comes across a mysterious girl at the ground zero of a spacequake and learns she is one of the \"Spirits\" who are the real cause of the spacequakes that occur when they manifest themselves in the world. He is recruited to make use of his mysterious ability to seal the Spirits' powers thus stopping them from being a threat to mankind. However, there is a catch: to seal a Spirit's power, he must make her fall in love with him and kiss him.",
+    "popularity": 63.969,
+    "poster_path": "/qi98miuMe1oB5WWo2lonuKFTq4P.jpg",
+    "production_companies": [
+        {
+            "id": 26262,
+            "logo_path": null,
+            "name": "AIC PLUS+",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        },
+        {
+            "id": 65500,
+            "logo_path": null,
+            "name": "Production IMS",
+            "origin_country": ""
+        },
+        {
+            "id": 120511,
+            "logo_path": "/621Gha7aYZ7MvnbP91kvBHeyFoR.png",
+            "name": "GEEK TOYS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-12-06",
+            "episode_count": 5,
+            "id": 100486,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/mvPy6pgGBgM0K1cf62nkgf0wLKJ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-04-06",
+            "episode_count": 12,
+            "id": 60758,
+            "name": "Season 1",
+            "overview": "Thirty years ago a strange phenomenon called a \"spacequake\" devastated the center of Eurasia, claiming the lives of at least 150 million people. Since then, smaller spacequakes plague the world on an irregular basis. Shido Itsuka, a seemingly ordinary high schooler comes across a mysterious girl at the ground zero of a spacequake and learns from his sister Kotori she is one of the \"Spirits\" who are the real cause of the spacequakes that occur when they manifest themselves in the world. He also learns that Kotori is the commander of the airship Fraxinus, crewed by the organization Ratatoskr, and is recruited to make use of his mysterious ability to seal the Spirits' powers thus stopping them from being a threat to mankind. However, there is a catch: to seal a Spirit's power, he must make her fall in love with him and kiss him.\n\n",
+            "poster_path": "/hBqhCFvzYUPMdVRYygl1PlnZ7gY.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-04-12",
+            "episode_count": 10,
+            "id": 60759,
+            "name": "Season 2",
+            "overview": "Shido Itsuka, who used to be a normal high school student at Raizen High, meets the first Spirit, Tohka, and awakens his power to \"seal the Spirit's power\". Though they may be feared and hated beings due to their immense power, Spirits were always alone and knew only combat and death. Shido, the only one in the world with the power to seal the Spirits' might, hurls himself into life-threatening dates with the beautiful Spirits in order to save them.",
+            "poster_path": "/nUxIYhJOELiq9V3cUFqGhufa1Gl.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2019-01-11",
+            "episode_count": 12,
+            "id": 113759,
+            "name": "Season 3",
+            "overview": "Life has settled down into a calm state for Shido – or at least as calm as he can be when he's juggling the romantic interests of a half-dozen sealed Spirits and one aggressive classmate. Another spatial quake warning sends him out to a ruined amusement park to meet the newest Spirit, the green-haired Natsume, who dresses like a witch and uses magical powers to render AST attackers comically ineffective. Although things go well at first, he inadvertently offends her, and her retribution comes by pretending to be him and trying to ruin his reputation at school. When that effort ultimately gets thwarted by Origami and Tohka, she resorts to a much more involved plan that could result in one of the people around him disappearing.",
+            "poster_path": "/k2boZkblatrBqoS3VpIyefBiMzk.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2022-04-08",
+            "episode_count": 1,
+            "id": 198123,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/nfdc7ipg8QMyao8WRZcbQIg0Bx3.jpg",
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 336
+}

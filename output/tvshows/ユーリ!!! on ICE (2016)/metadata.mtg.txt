@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/mWwWhDiQWONiSS4Go12TTjNw0E5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2016-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://yurionice.com/",
+    "id": 68129,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-22",
+    "last_episode_to_air": {
+        "air_date": "2016-12-22",
+        "episode_number": 12,
+        "id": 1247640,
+        "name": "Gotta Super-Supercharge It!! Grand Prix Final  Free Skate",
+        "overview": "\"Let's end this.\" Yuri's words trigger a debate that results in Yuri appearing at the free skate event in his worst condition ever. Can Yuri succeed in skating a program with the highest technical difficulty at their last event together to show the world the love he shares with Victor? What will each conclude once the program is over and it is time to decide their paths after the Grand Prix Final?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mnHCNflHPfNU1gmKCDO1ETPVqvV.jpg",
+        "vote_average": 7.7,
+        "vote_count": 3
+    },
+    "name": "Yuri!!! on Ice",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ユーリ!!! on ICE",
+    "overview": "Yūri Katsuki carried all of Japan's hopes on his shoulders to win at the Gran Prix Finale ice skating competition, but suffered a crushing defeat. He returns home to Kyushu and half feels like he wants to retire, and half feels like he wants to continue ice skating. Suddenly the five-time consecutive world championship ice skater Victor Nikiforov appears before him with Yuri Plisetsky, a young Russian figure skater who is already defeating his seniors. Victor and both Yuris take up the challenge on an unprecedented Gran Prix series.",
+    "popularity": 33.014,
+    "poster_path": "/oKVFf2uNCLMsovWBxAW14MmhHUm.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-05-26",
+            "episode_count": 1,
+            "id": 103226,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-10-06",
+            "episode_count": 12,
+            "id": 80797,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ArCIHv44gLLdjqPTbeHLRtRkF8q.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 471
+}

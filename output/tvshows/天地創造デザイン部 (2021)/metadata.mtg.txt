@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/p0yM8ID35cMBCcANv2L9moGrJlS.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://tendebu.jp",
+    "id": 105044,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-25",
+    "last_episode_to_air": {
+        "air_date": "2021-03-25",
+        "episode_number": 12,
+        "id": 2614553,
+        "name": "Idea 12",
+        "overview": "As a gift for Hell's celebratory party, God orders the designers to come up with \"an animal that can be used in Hell's attraction and also sent to Earth\". Yokota's idea of making it something that \"surprises angels\" is also tacked on, which really puts the team's abilities to the test...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2Dl8JzQI76JOi8yh8VStXk3F5pH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Heaven's Design Team",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "天地創造デザイン部",
+    "overview": "I made the light, the water, and the earth below. Now it's time to make the life that dwells upon it. Actually... that sounds like a giant headache, so I'll contract it out! Heaven's Design Team is an agency that creates made-to-order life forms for their client, God. Why does this life form look like that? Why does this life form live this way? Watch the trials and successes of the designers and engineers forced to breathe life into God's absurd requests!",
+    "popularity": 19.128,
+    "poster_path": "/pssa27KHi9GwQAn3BebhwoAlaIr.jpg",
+    "production_companies": [
+        {
+            "id": 14969,
+            "logo_path": "/jwTtvhoCesywogszy79x84Y8Ihh.png",
+            "name": "Asahi Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-02",
+            "episode_count": 1,
+            "id": 188926,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/Aebcf5xgk7Xnx6oSCJzxmpcNEi9.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-01-07",
+            "episode_count": 12,
+            "id": 154062,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/og5segtxajy4JmeTkAL3bZJhAC8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 7
+}

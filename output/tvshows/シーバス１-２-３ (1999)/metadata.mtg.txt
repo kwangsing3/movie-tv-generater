@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1999-08-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 43191,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-09-21",
+    "last_episode_to_air": {
+        "air_date": "1999-09-21",
+        "episode_number": 2,
+        "id": 885981,
+        "name": "Even the Pure Maiden is a Real Wretch",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bK7ehfJeky85iTe81UWeLUFIFCg.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sorcerer on the Rocks",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シーバス１-２-３",
+    "overview": "Sorcerer on the Rocks A.K.A. Chivas 1-2-3 is a spin-off of Sorcerer Hunters. As to why the name was change from Chivas 1-2-3, ADV Films didn't want to get into a legal fight with the Whiskey company of the same name. So, the name of the OVAs and the first name of the hero has been changed for the English Dub. The Original Story by Satoru Akahori and Miku Yuki, and was published in Media Works' MONTHLY DENGEKI COMIC GAO!",
+    "popularity": 1.948,
+    "poster_path": "/bQ3g3iSTP6KYQLyW6hfTSYayW0Z.jpg",
+    "production_companies": [
+        {
+            "id": 88185,
+            "logo_path": "/7KGVmlLGv6hoon8UkqE7ls7z4op.png",
+            "name": "Daume",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-08-21",
+            "episode_count": 2,
+            "id": 52650,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/f1jhTSYDCplwlDk2JZlIyRCcyBw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 9.5,
+    "vote_count": 2
+}

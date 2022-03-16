@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/wbrbdpdEBuNCtgiqL9xObpma1zu.jpg",
+    "created_by": [
+        {
+            "id": 1843881,
+            "credit_id": "595a4bdfc3a36828fc038313",
+            "name": "Horumarin",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2001-09-01",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 11235,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2004-05-08",
+    "last_episode_to_air": {
+        "air_date": "2004-05-08",
+        "episode_number": 39,
+        "id": 447807,
+        "name": "Into the Fire [aka- Shine! Spirit of Hope] (3)",
+        "overview": "Ikki and friends sneak into the research institute of the Evil Medabot Corporation to rescue Blakbeetle.  Kam says he will return Blakbeetle's medal to her if Ikki and his friends win a fight against Gryphon.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Medabots",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 91,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "US",
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "メダロット",
+    "overview": "10-year-old Ikki Tenrio, using his Medabee, participates in Robattles; fights that square off robots, or “Medabots,” against each other. Ikki must also stop the plans of the nefarious “RubberRobo Gang.”",
+    "popularity": 30.262,
+    "poster_path": "/sox1eAn3ZxRA14lgqP8EsEshhOT.jpg",
+    "production_companies": [
+        {
+            "id": 4289,
+            "logo_path": null,
+            "name": "BeeTrain",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-09-01",
+            "episode_count": 26,
+            "id": 21735,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ikkqj5I22yyxuIv08uxeHMoSEPR.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2002-07-01",
+            "episode_count": 26,
+            "id": 21736,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/1mpT81kxUHVLew76b1HUbnYgQch.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2003-09-13",
+            "episode_count": 39,
+            "id": 21737,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/ks67yuGqf2EbPiRLeCZZIiR8qhM.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 73
+}

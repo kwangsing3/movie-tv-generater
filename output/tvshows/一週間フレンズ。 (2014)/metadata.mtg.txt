@@ -1,0 +1,168 @@
+{
+    "adult": false,
+    "backdrop_path": "/8Wy0qdkQdprpdgeyJf0TpapJzgF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://oneweekfriends.com/",
+    "id": 60827,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-23",
+    "last_episode_to_air": {
+        "air_date": "2014-06-23",
+        "episode_number": 12,
+        "id": 985087,
+        "name": "Please Be My Friend",
+        "overview": "It becomes apparent to Yuki why Kaori is losing her memory so he decides it best to keep his distance from her in order to preserve her memory.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uvrGhqFilE4CrD9MLE8uE9bFz1a.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "One Week Friends",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "GyaO!",
+            "id": 2819,
+            "logo_path": "/wD1kyr8RuPYSWfqHiswhMBpE2kf.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "d Anime Store",
+            "id": 3685,
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "一週間フレンズ。",
+    "overview": "High school sophomore Yūki Hase noticed that Kaori Fujimiya, his classmate, was always alone. He tried to start a conversation with her but was turned down: \"My memories of friendship can last only a week,\" she said. Despite of knowing this shocking truth, Yūki keeps trying to be Kaori's \"new\" friend every week.",
+    "popularity": 13.182,
+    "poster_path": "/aRpxKAXCW8yjkE5aZcgZ9aezm4F.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6827,
+            "logo_path": null,
+            "name": "Madman",
+            "origin_country": ""
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-06-18",
+            "episode_count": 13,
+            "id": 151408,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/1W3ZjuqxCPbEZBIt0D0Am08w0oy.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-04-07",
+            "episode_count": 12,
+            "id": 60817,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dj5RtmMsc0D1flbdGQyKtVW8emj.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 14
+}

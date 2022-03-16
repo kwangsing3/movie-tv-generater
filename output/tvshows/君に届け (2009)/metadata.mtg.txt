@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/5Ktpz72iBqPTlC1sXJU6EvAaE5N.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2009-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.ntv.co.jp/kiminitodoke/index.html",
+    "id": 68854,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-03-30",
+    "last_episode_to_air": {
+        "air_date": "2011-03-30",
+        "episode_number": 12,
+        "id": 1344642,
+        "name": "Important Person",
+        "overview": "Sawako has conquered the rumors and obstacles that stood between her and the boy she loves. She tells Kurumi what happened, and the two come to an understanding. Kazehaya and Sawako meet up outside of school for a day together, all alone...",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/6MFS2FHSABNxDLQeYIPZACWD3nI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kimi ni Todoke: From Me to You",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 37,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "君に届け",
+    "overview": "Kuronuma Sawako is completely misunderstood by her classmates. Her timid and sweet demeanor is often mistaken for malicious behavior. This is due to her resemblance to the ghost girl from \"The Ring,\" which has led her peers to give her the nickname Sadako. Longing to make friends and live a normal life, she is naturally drawn to Kazehaya Shouta, the most popular guy in class, whose \"100% refreshing\" personality earns him great admiration from Sawako. So when Kazehaya starts talking to her, maybe there is hope for the friendships Sawako has always longed for. Maybe... there is even a little hope for some romance in her future.",
+    "popularity": 34.248,
+    "poster_path": "/2XZ0Ofg1ZUZMFrbyWJuakSJAKZz.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11725,
+            "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+            "name": "VAP",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-01-05",
+            "episode_count": 4,
+            "id": 118470,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-10-07",
+            "episode_count": 25,
+            "id": 82331,
+            "name": "Season 1",
+            "overview": "Sawako Kuronuma has had a difficult time fitting in. Some say it's her jet black hair, others say it's her hushed manner of speaking, while still others claim it is due to her name's similarity to Sadako, a character from a popular Japanese horror series. On her first day of high school, Sawako meets the one boy who treats her like a normal girl-Shota Kazehaya.",
+            "poster_path": "/9sILy3jUE434yuhXCNQbU0RGz0A.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2011-01-12",
+            "episode_count": 12,
+            "id": 91048,
+            "name": "Season 2",
+            "overview": "After ringing in the new year with her crush at their local shrine, things seem to be going well between Sawako and Kazehaya. However, a new year means new obstacles to overcome, and a young girl's first love is no exception. When Sawako begins to doubt herself, her rival Kurumi senses it and makes a few comments that push Sawako's confidence back to zero.",
+            "poster_path": "/w0FkyuauFbBhipd0TJV5Qkl60pB.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 210
+}

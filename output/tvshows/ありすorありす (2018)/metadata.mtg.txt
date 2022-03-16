@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/kK8S82L7FRIj6gfpWyniviB2t3B.jpg",
+    "created_by": [
+        {
+            "id": 2050962,
+            "credit_id": "5b092d1192514146ec00146b",
+            "name": "Riko Korie",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2018-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://alice-or-alice.com/",
+    "id": 78456,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-27",
+    "last_episode_to_air": {
+        "air_date": "2018-06-27",
+        "episode_number": 13,
+        "id": 3079395,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Alice or Alice",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ありすorありす",
+    "overview": "This story gives a look at the daily life of a pair or Alice twins and their older brother who has a sister complex. Them eating meals, getting into fights, playing with friends... Would you like to peek at the heart-full daily life of the cute Alices?",
+    "popularity": 10.174,
+    "poster_path": "/6ZnRVm38i0lGynbBlDZrm4JWlHS.jpg",
+    "production_companies": [
+        {
+            "id": 72366,
+            "logo_path": null,
+            "name": "EMT²",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-04-04",
+            "episode_count": 13,
+            "id": 101711,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/d11NxW7LKU8Ls3lbdK6aZpRN7CV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 4
+}

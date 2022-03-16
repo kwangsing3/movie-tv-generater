@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://anime.shochiku.co.jp/chimimo/",
+    "id": 194733,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Chimimo",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ちみも",
+    "overview": "The \"heart-warming comedy\" centers on Chimimo, a messenger of hell and a shape-shifting evil demon. Chimimo is one of 12 evil demons whose mission is to turn the human world into hell. The 12 demons along with \"Hell-san\" go to the human world, but Hell-san and Chimimo become freeloaders to a family of three sisters named Mutsumi, Hazuki, and Mei.",
+    "popularity": 1.449,
+    "poster_path": "/rShi4ZICzk44S63i7SvdDdabFWO.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 282643,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rShi4ZICzk44S63i7SvdDdabFWO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

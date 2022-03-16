@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/4CahwMmB2aO9Rjh4R3pbtMsYJQe.jpg",
+    "created_by": [
+        {
+            "id": 1255766,
+            "credit_id": "525962d8760ee34661980288",
+            "name": "Mizuki Kawashita",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 42873,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-06-21",
+    "last_episode_to_air": {
+        "air_date": "2005-06-21",
+        "episode_number": 12,
+        "id": 883031,
+        "name": "Another Meeting in the Rain / A True Heroine",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nEYkWKrr45LnvTui0oRb2GvcdLv.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Strawberry 100%",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "いちご100%",
+    "overview": "One day Junpei Manaka catches a glimpse of a beautiful girl... and her strawberry-print panties. For the first time in Junpei's life, he notices the opposite sex. It also helps that the mystery girl left behind a notebook, filled with a story that Junpei can't put down. Obsessed with this mystery girl, he isn't sure where to turn... shy bookworm Aya Tojo, whose name is in the notebook, or confident school beauty Tsukasa Nishino, who outright told him she was wearing strawberry-print panties.",
+    "popularity": 10.504,
+    "poster_path": "/4KiyjGANlyMqnbB4CmAGHN2Ph0e.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-09-23",
+            "episode_count": 6,
+            "id": 52388,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/rzZEu1RkEMZM9BO1cMB9T8y7EYm.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-04-05",
+            "episode_count": 12,
+            "id": 52389,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lrASy2WVmBtKtyzCkRkkojRhizz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 4
+}

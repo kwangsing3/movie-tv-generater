@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/w2IgPR222tM4MeBCwjFniLMowmg.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "1999-11-30",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.broccoli.co.jp/dejiko/",
+    "id": 42694,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-12-24",
+    "last_episode_to_air": {
+        "air_date": "1999-12-24",
+        "episode_number": 16,
+        "id": 1406718,
+        "name": "Usada's Big Bang",
+        "overview": "Dejiko gifts a deliciously dangerous Christmas cake to Usada, also known as Rabi-en-rose, with hopes of getting rid of her once and for all.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Di Gi Charat",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Di Gi Charat",
+    "overview": "DiGi Charat is a series of shorts created as advertisements for \"Digital Gamers,\" a store in Akihabara. The series follows Dejiko, princess of DiGi Charat planet, and her companions, Puchiko and Gema, as well as Dejiko's rival, Rabi~en~Rose through daily ordeals they encounter while working at Gamers.",
+    "popularity": 7.049,
+    "poster_path": "/bjiYTjrSSxDu7NZUT4OHEbxcvvI.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-08-22",
+            "episode_count": 25,
+            "id": 103080,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/k5odI9gmJJZ9UWPBErNG5i0m5Cw.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1999-11-30",
+            "episode_count": 16,
+            "id": 96698,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/loAELpM6YPAlYVn7SWySdApA6P0.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 5
+}

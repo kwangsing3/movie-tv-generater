@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/5JnyCMYRxaVzcuTkjRN2O1U3MbG.jpg",
+    "belongs_to_collection": {
+        "id": 117354,
+        "name": "Crayon Shin-chan Collection",
+        "poster_path": "/aiTYikDrdjqfmJ854YDgJ14i0tu.jpg",
+        "backdrop_path": "/fOk4eUe2nNyErJEi8pukiClhUZV.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://www.shinchan-movie.com/",
+    "id": 731249,
+    "imdb_id": "tt12850062",
+    "original_language": "ja",
+    "original_title": "クレヨンしんちゃん 激突！ラクガキングダムとほぼ四人の勇者",
+    "overview": "The kingdom that floats above in the sky, that uses free doodles as an energy source, “Rakuga Kingdom.” However, now in the face of a lack in energy, they are on the brink of ruin. In order to force the creation of doodles, the kingdom’s army begins its attack on Kasukabe on the surface! Meanwhile, as the drawings begin to move, the hero who is bestowed the hidden treasure of the kingdom, the “Miracle Crayon”—is none other than the “super happy-go-lucky 5-year-old,” Nohara Shinnosuke!! Together as the “Almost Four Heroes,” Shinnosuke and the drawn doodles try to take back Kasukabe! Amongst that, they discover the weakness of the doodles, where they dissolve upon contact with water! To make matters worse, a raincloud that looks to start pouring at any moment hovers above… What awaits their encounter with the doodles and the end of their adventure—will it be smiles, or tears!?",
+    "popularity": 6.254,
+    "poster_path": "/1ehi5JDsgiBjVUgK61LVPFdGCVq.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9300,
+            "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+            "name": "TV Asahi",
+            "origin_country": "JP"
+        },
+        {
+            "id": 62866,
+            "logo_path": null,
+            "name": "Futabasha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4720,
+            "logo_path": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+            "name": "Asatsu-DK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2020-09-11",
+    "revenue": 11000000,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Save the world with crayons",
+    "title": "Crayon Shin-Chan: Crash! Rakuga Kingdom and Almost Four Heroes",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 3
+}

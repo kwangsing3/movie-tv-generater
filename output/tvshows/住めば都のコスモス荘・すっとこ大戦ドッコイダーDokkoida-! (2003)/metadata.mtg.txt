@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/lNtLAEHihVxvyoJzdBTtGB0Z0ic.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2003-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34202,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-09-20",
+    "last_episode_to_air": {
+        "air_date": "2003-09-20",
+        "episode_number": 12,
+        "id": 785460,
+        "name": "",
+        "overview": "Fighting together, not as villains and test subjects, they unite as Cosmo's house resident's to gain back their jobs.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dokkoida?!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "住めば都のコスモス荘・すっとこ大戦ドッコイダーDokkoida?!",
+    "overview": "Dokkoida?! is about a boy, Suzuo Sakurazaki, who is hired by a preteen space alien girl, Tanpopo, to try out an experimental new suit developed by the intergalactic toy company that she works for. Suzuo agrees to work for her since he is unemployed and needs the job to pay the rent. The suit gives him super powers, with which he fights bad guys and people from rival intergalactic toy companies and organizations",
+    "popularity": 5.751,
+    "poster_path": "/iusdpxsubnxUxf54AaH4LVBjg9K.jpg",
+    "production_companies": [
+        {
+            "id": 5887,
+            "logo_path": "/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png",
+            "name": "ufotable",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6350,
+            "logo_path": null,
+            "name": "Toshiba Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 33751,
+            "logo_path": "/2caA5Y2tdgi69L61uQnrpCIjwde.png",
+            "name": "Sentai Filmworks",
+            "origin_country": "US"
+        },
+        {
+            "id": 3362,
+            "logo_path": null,
+            "name": "Geneon Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 6681,
+            "logo_path": "/s4RElEnQyM2VrHZCQ3jYemPdxML.png",
+            "name": "THE KLOCKWORX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-07-05",
+            "episode_count": 12,
+            "id": 45069,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mNivOKEEvR3hhruT9asrVHlbFus.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

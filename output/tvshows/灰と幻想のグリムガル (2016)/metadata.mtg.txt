@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": "/rfhwoh1giLKh6bAJoEtdnAFPFv6.jpg",
+    "created_by": [
+        {
+            "id": 1107186,
+            "credit_id": "60b1ea12a802360058a68f0e",
+            "name": "Ryosuke Nakamura",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.grimgar.com",
+    "id": 65369,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-03-28",
+    "last_episode_to_air": {
+        "air_date": "2016-03-28",
+        "episode_number": 12,
+        "id": 1167997,
+        "name": "See You Tomorrow...",
+        "overview": "Haruhiro and his party are in the Cyrene Mine. Ranta got separated from the party and is fending off kobolds alone. Can they all get out alive?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7wsBbjds0lNLEsY2Od5Mq0422HY.jpg",
+        "vote_average": 7.5,
+        "vote_count": 4
+    },
+    "name": "Grimgar of Fantasy and Ash",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "灰と幻想のグリムガル",
+    "overview": "Fear, survival, instinct. Thrown into a foreign land with nothing but hazy memories and the knowledge of their name, they can feel only these three emotions resonating deep within their souls. A group of strangers is given no other choice than to accept the only paying job in this game-like world—the role of a soldier in the Reserve Army—and eliminate anything that threatens the peace in their new world, Grimgar.\n\nWhen all of the stronger candidates join together, those left behind must create a party together to survive: Manato, a charismatic leader and priest; Haruhiro, a nervous thief; Yume, a cheerful hunter; Shihoru, a shy mage; Mogzo, a kind warrior; and Ranta, a rowdy dark knight. Despite its resemblance to one, this is no game—there are no redos or respawns; it is kill or be killed.\n\nIt is now up to this ragtag group of unlikely fighters to survive together in a world where life and death are separated only by a fine line.",
+    "popularity": 37.068,
+    "poster_path": "/vDs4SVtbEcklxseEoeTV5B5U3n.jpg",
+    "production_companies": [
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-03-16",
+            "episode_count": 1,
+            "id": 74806,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/bk8wTwZ8SLgXGSGhd62M2wVSPiu.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-01-11",
+            "episode_count": 12,
+            "id": 74033,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/s8XNFScX8mHuxzC5ODvDHlPJekw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 71
+}

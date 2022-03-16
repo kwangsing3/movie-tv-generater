@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/5gQQxSIB5IhdWxrCk7hGRtahgk.jpg",
+    "created_by": [
+        {
+            "id": 1371055,
+            "credit_id": "59d8f08bc3a368623e02808c",
+            "name": "Hideyo Yamamoto",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-10-07",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://coderealize-anime.com/",
+    "id": 74084,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-23",
+    "last_episode_to_air": {
+        "air_date": "2017-12-23",
+        "episode_number": 12,
+        "id": 1403465,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kXMXjIsB3O2O6UKmn3av1DEZskO.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Code:Realize",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Code:Realize ～創世の姫君～",
+    "overview": "",
+    "popularity": 7.38,
+    "poster_path": "/qoQQ1jnCNBzcIl1VO0XgC4yhL3N.jpg",
+    "production_companies": [
+        {
+            "id": 26258,
+            "logo_path": null,
+            "name": "M.S.C.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-05-17",
+            "episode_count": 2,
+            "id": 120991,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/bKqfvbXjs0g0bUC3sJmv0wBkzrU.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-10-07",
+            "episode_count": 12,
+            "id": 93124,
+            "name": "Season 1 Code:Realize Guardian of Rebirth",
+            "overview": "Code:Realize Guardian of Rebirth",
+            "poster_path": "/eFls00kMrKeSUm3x3FUUy5mc6Kk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 9
+}

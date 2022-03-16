@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/iZELsa0VBKBy6g5E4e3tzrw6EdN.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2009-06-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://ws-tcg.com/anime/ep_01.html",
+    "id": 57950,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-03-27",
+    "last_episode_to_air": {
+        "air_date": "2010-03-27",
+        "episode_number": 12,
+        "id": 945808,
+        "name": "Exploding Masquerade",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/bYb3e1WIIEzvbeirNryTuHSWtYD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Weiss Survive",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 28,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "ヴァイス・サヴァイヴ",
+    "overview": "Teenage boy Takeshi and girl Michi get lost in the Card Battle world and have to win card battles to return home.",
+    "popularity": 0.6,
+    "poster_path": "/P8TsXFebZMHpQPxqFSFLxWwzyP.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2009-06-05",
+            "episode_count": 16,
+            "id": 59020,
+            "name": "Weiss Survive",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2009-12-05",
+            "episode_count": 12,
+            "id": 59021,
+            "name": "Weiss Survive R",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1
+}

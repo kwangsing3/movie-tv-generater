@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/owvL8PxjIvU4X83mJ4Z7aYMVBmw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://supercub-anime.com",
+    "id": 95631,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-23",
+    "last_episode_to_air": {
+        "air_date": "2021-06-23",
+        "episode_number": 12,
+        "id": 2860691,
+        "name": "Super Cub",
+        "overview": "The girls pack up and depart on a road trip to Kyushu, the most distant location their Cubs will take them, in order to shake off their winter doldrums and embrace spring. Along the way, Shii finds what she needs to help her continue her café project.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zwSMRDHMEdf3UWWj3PXZ74JmOg2.jpg",
+        "vote_average": 7,
+        "vote_count": 2
+    },
+    "name": "Super Cub",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スーパーカブ",
+    "overview": "Koguma is a high school girl in Yamanashi. She has no parents, friends, or hobbies, and her daily life is empty. One day, Koguma gets a used Honda Super Cub motorcycle. This is her first time going to school on a motorcycle. Running out of gas and hitting detours become a small source of adventure in Koguma's life. She is satisfied with this strange transformation, but her classmate Reiko ends up talking to her about how she also goes to school by motorcycle. One Super Cub begins to open up a lonely girl's world, introducing her to a new everyday life and friendship.",
+    "popularity": 12.693,
+    "poster_path": "/u54vuVqRWyx0GFcT5U32hFutqqX.jpg",
+    "production_companies": [
+        {
+            "id": 125523,
+            "logo_path": null,
+            "name": "Studio KAI",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-07",
+            "episode_count": 12,
+            "id": 136147,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/u54vuVqRWyx0GFcT5U32hFutqqX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 5
+}

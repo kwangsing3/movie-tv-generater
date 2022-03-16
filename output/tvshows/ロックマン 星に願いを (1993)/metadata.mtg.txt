@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/z1kUxO87NqU59v9saHaeComvGXX.jpg",
+    "created_by": [
+        {
+            "id": 1983395,
+            "credit_id": "5a8f84c30e0a2639ae007ccd",
+            "name": "Akira Kitamura",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 995035,
+            "credit_id": "5a8f84cd9251416478007603",
+            "name": "Keiji Inafune",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1993-06-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 77405,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-09-15",
+    "last_episode_to_air": {
+        "air_date": "1995-09-15",
+        "episode_number": 3,
+        "id": 1437876,
+        "name": "Future Beware",
+        "overview": "Mega Man and Roll get pulled out of the game world by Yuuta and Akane and are taken to the Obon matsuri. Mega Man and Yuuta carry the mikoshi in a parade, Roll learns about yukatas and makes a promise with Akane that she will wear a kimono on Shichi-Go-San, Mega Man learns about cotton candy, Roll plays Whac-A-Mole, and the kids watch the fireworks. During the time everyone is gone, Dr. Wily escapes the game world with his updated Skulker and kidnaps Proto Man.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mega Man: Upon a Star",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ロックマン 星に願いを",
+    "overview": "Japan is in grave danger!\n\nMegaman must prevent Dr. Wily from destroying Japan as we know it. But how?\n\nWith a little knowledge of Japanese culture and geography, Megaman and his pals will try to stay one step ahead od the mad scientist. But will they be able to defeat Dr. Wily in time to save children's day? Or to avert the worst typhoon in history? Or to keep Mt. Fuji from erupting again?\n\nDon't miss this trio of terrific adventures! This volume includes these action-packed episodes: 'Appearance in Japan,' 'Wish Upon a Star,' and 'Future Beware.'\n\nMegaman, we're counting on you!",
+    "popularity": 2.074,
+    "poster_path": "/ffnOLBalyRVjAWIMn0vWHEhuOPg.jpg",
+    "production_companies": [
+        {
+            "id": 50165,
+            "logo_path": null,
+            "name": "Studio Giants",
+            "origin_country": ""
+        },
+        {
+            "id": 101278,
+            "logo_path": null,
+            "name": "Studio Lions",
+            "origin_country": ""
+        },
+        {
+            "id": 7220,
+            "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+            "name": "CAPCOM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1993-06-08",
+            "episode_count": 3,
+            "id": 99832,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 6,
+    "vote_count": 1
+}

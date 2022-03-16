@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/tHpjj6F247CAlEkxnyfs6KC9AVF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-07-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://boku-h.com/",
+    "id": 45234,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-25",
+    "last_episode_to_air": {
+        "air_date": "2012-09-25",
+        "episode_number": 12,
+        "id": 897993,
+        "name": "So Please Stop Talking About Sex",
+        "overview": "Ryousuke picked death, but the ladies that love him refuse to let him go. The group gets one final chance to save him thanks to an e-mail.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sDlJ9Bww8460wrCuvnoaNi38MYF.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "So, I Can’t Play H!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "だから僕は、Hができない。",
+    "overview": "Kaga Ryousuke, a helplessly romantic teenager, was walking in the rain when he sees a beautiful girl with red eyes drenched in the rain. Everyone was avoiding her, but Ryousuke was taught to treasure women so he offered his help by letting her dry off at his home. Ryousuke can’t imagine that this mysterious girl would stab him in the chest and leave him to die… Or did she? Who is this pretty girl and what does she want with him?",
+    "popularity": 21.995,
+    "poster_path": "/qG5lFAlc4rJ7wZxRFUlc2Xo5CIj.jpg",
+    "production_companies": [
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 18391,
+            "logo_path": null,
+            "name": "Daxa Production",
+            "origin_country": ""
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-08-24",
+            "episode_count": 2,
+            "id": 53828,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/fTFGO3kJ90zY1sVnyAjMrh1kTPo.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-07-06",
+            "episode_count": 12,
+            "id": 53829,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3LB5wiVW2LlhIjkZXQr69OTUjW0.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "So I Can-t Play H",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 75
+}

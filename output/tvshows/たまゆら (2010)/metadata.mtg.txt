@@ -1,0 +1,89 @@
+{
+    "adult": false,
+    "backdrop_path": "/vIE8OuvqHU1TAKRRKZ0dWhZfPGP.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2010-09-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 83621,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-12-06",
+    "last_episode_to_air": {
+        "air_date": "2010-12-06",
+        "episode_number": 4,
+        "id": 1608955,
+        "name": "It Was On That One Day, So Yeah...",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9d1qmj06veyS9dZeBNPEUUSonz9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tamayura",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "たまゆら",
+    "overview": "As a little girl, Fuu Sawatari’s father taught her to love photography. They took pictures everywhere they went. But after he passed away, seeing those photographs only served as a reminder of her loss, so she locked them away to be forgotten. Years later, the pictures remind Fuu of all the happy memories of her father that she will carry with her forever.",
+    "popularity": 2.314,
+    "poster_path": "/9q4V0FVwoVK9qo7d3aKLAzMNXk.jpg",
+    "production_companies": [
+        {
+            "id": 72652,
+            "logo_path": null,
+            "name": "Hal Film Maker",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-09-06",
+            "episode_count": 4,
+            "id": 111802,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wPXetrXIlu4bYkQs845DIcrjQx1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 7,
+    "vote_count": 2
+}

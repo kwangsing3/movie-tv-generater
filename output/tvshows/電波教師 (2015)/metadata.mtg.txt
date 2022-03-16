@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/xUnJLSWseqPb6dV7FEdPfID1lBE.jpg",
+    "created_by": [
+        {
+            "id": 1450126,
+            "credit_id": "55214fda9251415c7f003949",
+            "name": "Takeshi Azuma",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2015-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.ytv.co.jp/denpa/",
+    "id": 62283,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-26",
+    "last_episode_to_air": {
+        "air_date": "2015-09-26",
+        "episode_number": 24,
+        "id": 1474955,
+        "name": "My Educational Policies",
+        "overview": "It's time for Reiko to leave the KEC, but she doesn't want to. She fiercely refuses to obey, and her refusal provides Junichiro with the final piece of the puzzle to complete his educational policies.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ff4Yom8scUEJBUeRgUDEMUfEjAK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ultimate Otaku Teacher",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "電波教師",
+    "overview": "Kagami Junichirou was known as a physics genius when he was a teenager, and he was even published in \"Nature.\" However, after college, he suddenly lost all interest in science. As a NEET, he's devoted himself to his anime blog and nerdy collecting habits. He claims he has a serious illness called \"I can't do anything I don't want to do.\" Desperate to get him to do something with his life, his little sister manages to get him a job teaching physics at his old high school. He's certainly an unconventional teacher, but he becomes fairly popular with the students. After helping a girl who's being ruthlessly bullied, Kagami finds that he actually likes teaching. Will he continue his career as a weird teacher? Will he go back into physics? Or will he end up back where he started?",
+    "popularity": 11.693,
+    "poster_path": "/sviWdbsLRWrI2tLpBe8ubVP1Cza.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-04-04",
+            "episode_count": 24,
+            "id": 65688,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/reFPmiJCZloEimbziGdMMFe4stz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 26
+}

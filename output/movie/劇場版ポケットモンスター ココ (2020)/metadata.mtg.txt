@@ -1,0 +1,71 @@
+{
+    "adult": false,
+    "backdrop_path": "/4KpNHvQIjyg1YFovRAoUXoFrGnR.jpg",
+    "belongs_to_collection": {
+        "id": 661031,
+        "name": "Pokémon: Alternate Continuity Collection",
+        "poster_path": "/caRQp2qsUFHQ0NYpEfxA8Pm2Gl4.jpg",
+        "backdrop_path": "/ouB7lVkdGJgHq776dmWE6GTZeaA.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81346307",
+    "id": 662708,
+    "imdb_id": "tt11819890",
+    "original_language": "ja",
+    "original_title": "劇場版ポケットモンスター ココ",
+    "overview": "In the Forest of Okoya, Koko is a feral child who has been raised as a Pokémon by the Mythical Pokémon Zarude. Koko has grown up never doubting that he is a Pokémon even though he can't really use any sort of moves. Ash Ketchum and Pikachu meet Koko and help him protect the Great Tree from the crooked scientist Dr. Zed.",
+    "popularity": 102.719,
+    "poster_path": "/vGcHyV9s1N2I7bJLSBODvqHTYLL.jpg",
+    "production_companies": [
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12653,
+            "logo_path": null,
+            "name": "Pikachu Project",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2020-12-25",
+    "revenue": 0,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pokémon the Movie: Secrets of the Jungle",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 81
+}

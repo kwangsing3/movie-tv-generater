@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/qCPusV7wkA2PkwSeFNYgIgda5yc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://anime-seton.jp",
+    "id": 96150,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-24",
+    "last_episode_to_air": {
+        "air_date": "2020-03-24",
+        "episode_number": 12,
+        "id": 2041069,
+        "name": "The Animal Students I Know",
+        "overview": "Mazama Jin here. As much as it pains me to admit it, I'm part of a stupid mutt's pack at Seton Academy. Being with someone really is a challenge. It's a different story when two people are bound to each other by fate, like Hitomi-chan and me, but most aren't like that. And going out of one's way to try to accomplish something so difficult is just foolish. But now I've been forced to think that might not always be the case.... after watching all the animals at this school. As much as it pains me to admit it.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zhnSxjWQvATRbD6sFZdj9UzT15P.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Seton Academy: Join the Pack!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "群れなせ！シートン学園",
+    "overview": "Seton Academy, a school full of animals where, thanks to population decline, there are fewer humans than any other creature. Mazama Jin, an animal hater and the only human male in his class, falls in love with Hino Hitomi, the only female human, the moment he lays eyes her. However he soon finds himself entangled with various other creatures after he reluctantly joins the 'pack' of Lanka the wolf, the only other member of her pack. After getting to know each other, the two decide to create a cooking club, and after a few bad-blooded misunderstandings, Ranka soon joins the club as well.\n\nThus begins the howl-some and howl-arious story of two normal humans; an adorable wolf; a cheerful koala; a sluggish, blonde sloth; and a feline with cattitude in their newfound club—in a story that teaches that friendship can be forged by creatures of different kinds.",
+    "popularity": 29.712,
+    "poster_path": "/yXSH5BYOhYt26S5x7Aqz2VXj6P1.jpg",
+    "production_companies": [
+        {
+            "id": 25504,
+            "logo_path": null,
+            "name": "Studio Gokumi",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150545,
+            "logo_path": "/df2KyiUSCxpoQxV88AI3zxu8kbD.png",
+            "name": "dugout",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-07-03",
+            "episode_count": 1,
+            "id": 140276,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/2tgbqa965mx8epGGoJdqLyFWOfs.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-01-07",
+            "episode_count": 12,
+            "id": 137411,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tBR5dk45imgltwDy7VMYDL2s4LB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 210
+}

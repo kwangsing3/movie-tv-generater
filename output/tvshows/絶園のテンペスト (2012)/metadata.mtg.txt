@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/4QQCeNdfLKWQTxdiqqenjSXwpS.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2012-10-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.zetsuen.net/",
+    "id": 46283,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-03-29",
+    "last_episode_to_air": {
+        "air_date": "2013-03-29",
+        "episode_number": 24,
+        "id": 908577,
+        "name": "To Each, Their Own Tale",
+        "overview": "Aika lived according to the script of the mage of Exodus; Yoshino refuses to live by such foolishness.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rebAKoEybXFSYs8LWJS4R5T7xl1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Blast of Tempest",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "絶園のテンペスト",
+    "overview": "The Kusaribe family is a family of sorcerers under the protection of the ‘Tree of Origins.’ Their princess, Hakaze Kusaribe, was the greatest sorceress of their family. But Samon Kusaribe, a member of their family seeking to resurrect the ‘Tree of World's End,’ a tree that opposes the ‘Tree of Origins’ and controls the power of destruction, stuffs her into a barrel, and banishes her to a deserted island.",
+    "popularity": 12.23,
+    "poster_path": "/haUFAddsQjseOp9CORnsRIIQGwA.jpg",
+    "production_companies": [
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2012-10-05",
+            "episode_count": 24,
+            "id": 54599,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6Ian3mAthC6cWnro93lKFZXRaLK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 66
+}

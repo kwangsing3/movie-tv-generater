@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/vSgHoghjoAdVSi1GnGmfeEO6JRx.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://shinnonakama.com",
+    "id": 113256,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-29",
+    "last_episode_to_air": {
+        "air_date": "2021-12-29",
+        "episode_number": 13,
+        "id": 3266243,
+        "name": "The Guide",
+        "overview": "Ruti learns what it means to be the Hero, and Theodora has a change of heart. Ruti enjoys the slow life. Red and company attend Ares' funeral and ponder the mystery of the holy swords. Red and Rit grow even closer, but is a complication on the horizon?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5SNvYHwmAPXQezd3JGVTk6r3QWb.jpg",
+        "vote_average": 7,
+        "vote_count": 3
+    },
+    "name": "Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました",
+    "overview": "A heroic and mighty adventurer dreams of...opening a pharmacy?\n\nRed was once a member of the Hero's party, a powerful group destined to save the world from the evil forces of Taraxon, the Raging Demon Lord. That is, until one of his comrades kicked him out. Hoping to live the easy life on the frontier, Red's new goal is to open an apothecary. However, keeping the secret of his former life may not be as simple as he thinks. Especially when the beautiful Rit, an adventurer from his past, shows up and asks to move in with him!",
+    "popularity": 46.362,
+    "poster_path": "/hk5qqvJLRBDaPYBc8lKkSYQrR1c.jpg",
+    "production_companies": [
+        {
+            "id": 129691,
+            "logo_path": null,
+            "name": "Wolfsbane",
+            "origin_country": "JP"
+        },
+        {
+            "id": 147690,
+            "logo_path": null,
+            "name": "Studio Flad",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-06",
+            "episode_count": 13,
+            "id": 168982,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jSYI8KLLGeYLd7hjj8eLd3DpWph.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 19
+}

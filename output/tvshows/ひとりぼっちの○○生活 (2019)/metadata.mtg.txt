@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/790rH1ByeDJg6VPwBFxdzxHRepI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://hitoribocchi.jp/",
+    "id": 85990,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-06-22",
+    "last_episode_to_air": {
+        "air_date": "2019-06-22",
+        "episode_number": 12,
+        "id": 1732693,
+        "name": "Maybe I Just Might",
+        "overview": "Finally... Finally... Bocchi has a smartphone! Now Bocchi can join the smartphone tap-tap group too. Yet first she takes her friend's advice and greets her phone. So when it responds and she asks it to be her friend...?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/RudWAJekkcd4KsAujaZqz8xcMn.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hitori Bocchi no Marumaru Seikatsu",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ひとりぼっちの○○生活",
+    "overview": "Hitori Bocchi suffers from extreme social anxiety, she's not good at talking to people, takes pretty extreme actions, is surprisingly adept at avoiding people, her legs cramp when she overexerts herself, gets full of herself when alone, will vomit when exposed to extreme tension and often comes up with plans. Now she is entering middle school and her only friend, Yawara Kai, is attending a different school. This leaves Bocchi alone, surrounded by new classmates with whom she must make friends before Kai will talk to her again.",
+    "popularity": 17.977,
+    "poster_path": "/btoTzCw3zmjRtB99g2M5Mw2GUQG.jpg",
+    "production_companies": [
+        {
+            "id": 87536,
+            "logo_path": null,
+            "name": "C2C",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-04-06",
+            "episode_count": 12,
+            "id": 117033,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iVVSlOTVHFUnEZyK8MmRaMHegOt.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 123
+}

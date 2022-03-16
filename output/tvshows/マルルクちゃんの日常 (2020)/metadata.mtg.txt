@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/fSHTZUGP5rzsJ8Z0iB96Pt3iBYH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2020-01-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 110828,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-02-07",
+    "last_episode_to_air": {
+        "air_date": "2020-02-07",
+        "episode_number": 4,
+        "id": 2448469,
+        "name": "Memory",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tV0b63UDJEcShzWZ0ymVaEdIrHb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Marulk's Daily Life",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マルルクちゃんの日常",
+    "overview": "A series of 4 shorts accompanying the release of \"Made in Abyss: Dawn of the Deep Soul\" in theaters. The shorts depict Marulk's everyday life.",
+    "popularity": 3.276,
+    "poster_path": "/38RUM7YmtFXmkIGm8q9YQroxzUn.jpg",
+    "production_companies": [
+        {
+            "id": 16738,
+            "logo_path": "/Lf0udeB7OwHoFJ0XIxVwfyGOqE.png",
+            "name": "Kinema Citrus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-17",
+            "episode_count": 4,
+            "id": 164384,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/38RUM7YmtFXmkIGm8q9YQroxzUn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 4
+}

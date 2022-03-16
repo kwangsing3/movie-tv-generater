@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/u0IGPAoN2Pux5ahoWuIEI4Sbrgz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.natsuiro-kiseki.jp/",
+    "id": 46040,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-06-29",
+    "last_episode_to_air": {
+        "air_date": "2012-06-29",
+        "episode_number": 12,
+        "id": 906336,
+        "name": "The Endless Summer Vacation",
+        "overview": "The girls soon realize they have gone back to the beginning of the previous day, which Yuka sees as a second chance to try and pass the audition, though it once again ends in failure. Later that day, they discover a shrine from the same family as Rinko's which has its own wishing rock and soon realize it has granted their wish for a never-ending summer vacation, which is proven when they end up looping the day over and over again. As they continue to loop, they forgo the audition and instead opt to try various other activities. After deciding they need to find a way to cancel the wish, Yuka theorizes that they may be able to escape the loop if they pass the audition. Although they manage to get through the audition, they still end up looping come midnight. Rinko then realizes they need to say goodbye to the miracles the wishing rock grants them. After spending one more day in Tokyo, the girls finally enter the next day.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/z1axMKlrggALu3WWvuUJC22krCr.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Natsuiro Kiseki",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "夏色キセキ",
+    "overview": "Waking up in the morning, going to school, spending time with friends. These make up the days of four friends. They experience fun and sad things as well, and these days seem to go on forever, until one summer, a wonder happens. This is a story of four girls: Natsumi, a cheerful and frank girl, Saki, who is perfect in both studying and sports, Yuka, who is a fan of the idol group Four Seasons, and Rinko, who loves music. This warm yet refreshing summer-coloured wonder will surely carry you along...",
+    "popularity": 11.182,
+    "poster_path": "/oWxtNF1toMaJGlqryogLAqlMYv8.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-08-29",
+            "episode_count": 1,
+            "id": 54416,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-04-06",
+            "episode_count": 12,
+            "id": 54415,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8BQzc5dPeDJ9R55SFMgGnCnfg3D.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

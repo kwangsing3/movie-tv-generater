@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/khZtQjfCPob11dr2PoeW2w5GidH.jpg",
+    "created_by": [
+        {
+            "id": 2149812,
+            "credit_id": "6081dd688b959e006f1fd313",
+            "name": "Yukihiro Matsushita",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-01-12",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.hantsuki.com/",
+    "id": 34746,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-02-23",
+    "last_episode_to_air": {
+        "air_date": "2006-02-23",
+        "episode_number": 6,
+        "id": 791366,
+        "name": "Our Hands Will",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/l9Zx2pqBvhmoCjGHSwFkDTefHtt.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Looking Up at the Half-Moon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "半分の月がのぼる空",
+    "overview": "Even though Yuuichi Ezaki is in the hospital recovering from an illness, he's constantly sneaking out. One day he's caught by the head nurse, who makes a deal with him: she'll overlook his future excursions if he's willing to befriend a new patient, Rika Akiba. Due to a serious heart condition, Rika has spent most of her life in the hospital, and doesn't really have any friends. As Yuuichi and Rika spend time together and learn more about each other, their relationship soon blossoms into romance...",
+    "popularity": 5.748,
+    "poster_path": "/A7yBH8ugvrRC45xJJF2SQwWF4PK.jpg",
+    "production_companies": [
+        {
+            "id": 5397,
+            "logo_path": null,
+            "name": "Group TAC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-01-12",
+            "episode_count": 6,
+            "id": 45510,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xIhQt8tpVipyiK3oBQJCrIV7XOe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 4
+}

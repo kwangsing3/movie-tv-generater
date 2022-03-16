@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/8eRZgYgki1AeffWetLqwIyzUM7i.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "5e77c726cabfe4001521dc02",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        },
+        {
+            "id": 237293,
+            "credit_id": "6085b32f84448e002a7ea91f",
+            "name": "Fumihiko Takayama",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1824441,
+            "credit_id": "6085b317a3770a0057653507",
+            "name": "Hajime Yadate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        28
+    ],
+    "first_air_date": "1989-03-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "http://www.gundam0080.net/",
+    "id": 46512,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1989-08-25",
+    "last_episode_to_air": {
+        "air_date": "1989-08-25",
+        "episode_number": 6,
+        "id": 1448156,
+        "name": "War In the Pocket",
+        "overview": "Al and Bernie repair the damaged Zaku to fight the Alex Gundam.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bmfLQghlFusEUwJ6IHyrTCaMwTb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam 0080: War in the Pocket",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士ガンダム0080 ポケットの中の戦争",
+    "overview": "In the final days of the One Year War, a Zeon special forces group infiltrates a colony to gather information on a new Gundam unit. Alfred Izuruha, a 10-year-old student, befriends Zeon rookie pilot Bernie Wiseman during a brief mobile suit combat. Meanwhile, Al meets up with Christina MacKenzie, his former neighbor and babysitter. Little does he know that not only is Christina a member of the Earth Federation, she's the test pilot of the new Gundam NT-4 prototype.",
+    "popularity": 13.538,
+    "poster_path": "/a0va06WdjfuauWzTYV0yKgtpUBt.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1989-03-25",
+            "episode_count": 6,
+            "id": 100373,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bfRIWngRgtoMJMo9GI6BuAWEpXk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8.1,
+    "vote_count": 9
+}

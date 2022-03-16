@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/r0jsLbIMxtoamgSIXGUsqQB7cZk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1975-10-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/lineup/tv/ikkyu/",
+    "id": 44815,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1982-06-28",
+    "last_episode_to_air": {
+        "air_date": "1982-06-28",
+        "episode_number": 296,
+        "id": 2293233,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ikkyū-san",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NET",
+            "id": 2171,
+            "logo_path": null,
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 296,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "一休さん",
+    "overview": "The mischievous adventures of a young Ikkyū during his stay at Ankoku Temple. He relies on his intelligence and wit to solve all types of problems, from distraught farmers to greedy merchants.",
+    "popularity": 3.789,
+    "poster_path": "/9XkTpvSoZDZvKMf59rr940pujQD.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1975-10-15",
+            "episode_count": 296,
+            "id": 152504,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 4
+}

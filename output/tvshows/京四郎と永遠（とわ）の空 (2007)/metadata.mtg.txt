@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/oElN4k0b2m4kfkzSx2HgCtyS6cb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2007-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 34770,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-03-23",
+    "last_episode_to_air": {
+        "air_date": "2007-03-23",
+        "episode_number": 12,
+        "id": 791871,
+        "name": "Eternal Kuu",
+        "overview": "The Bastille releases the Absolute Angels, who are reunited with their respective partners. Kazuya's ambitions for Cielo are crushed. The destruction of the Bastille, however, costs Kū her life. Kyoshiro promises her many things to do 'the next time around' before all of her mana is drained away. The world returns to peace and Kyoshiro and Setsuna embark on a journey to find Kū's reincarnation, which they do succeed in years later —— This is shown after the credits when Kyoshiro and Setsuna find Kū.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Shattered Angels",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "京四郎と永遠（とわ）の空",
+    "overview": "Kuu attends school in the city of learning, Academia. She soon finds herself locked in conflict with the Absolute Angels: a group of beautiful girls who feed on human life force to survive. Wielding god-like strength, they have the power to destroy the world itself. But are they truly demons of destruction or simply innocent girls trapped in a fate they can’t escape?",
+    "popularity": 3.585,
+    "poster_path": "/m1WSA6vNQJ8tJ13I3sRBFTPqJb4.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 45547,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-01-05",
+            "episode_count": 12,
+            "id": 45546,
+            "name": "Kyoshiro to towa no sora season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/1a5Y4Q8OS8XpPyJwJ55UMfvLPHZ.jpg",
+    "created_by": [
+        {
+            "id": 233549,
+            "credit_id": "60a37ec6f9183a003f888f00",
+            "name": "Takeo Takahashi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2010-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://king-cr.jp/special/yosuganosora",
+    "id": 68005,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-12-20",
+    "last_episode_to_air": {
+        "air_date": "2010-12-20",
+        "episode_number": 12,
+        "id": 1241672,
+        "name": "To the Distant Sky",
+        "overview": "Haruka takes Nao on a date again, but he cannot shake the sight of Sora masturbating that night from his mind. Eventually Haruka hits his limit and tries to get rid of those thoughts by taking Nao to a hotel, but she rejects his act and asks if he really loves her. Haruka is unable to answer and returns home. Soon after, Sora gets a fever and Haruka stays home to take care of her. That evening, Sora, with her fever subsided, confesses her feelings to Haruka and the two make love, beginning a relationship. This did not go unnoticed, as everyone, especially Kozue and Nao, begins to see the twins spend more and more time with each other. One afternoon, when Kozue and Nao decide to visit the Kasugano residence, they catch the twins in the middle of making love.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qZsrBUmFvVSL65dV5rxEEPfe9JG.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Yosuga no Sora",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヨスガノソラ",
+    "overview": "Kasugano Haruka and his sister Sora have lost both their parents in an accident, and with them all their support. They decide to move out of the city to the rural town where they once spent summers with their late grandfather. At first everything seems familiar and peaceful, but changes come as Haruka starts to remember things from his youth.",
+    "popularity": 29.47,
+    "poster_path": "/eqjuqks97psdEqy3Crit5x1ZZki.jpg",
+    "production_companies": [
+        {
+            "id": 17315,
+            "logo_path": "/8QPhCeRCNVa3jYCtDvThTlAGYSL.png",
+            "name": "feel.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-10-04",
+            "episode_count": 12,
+            "id": 80499,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xmGzlStqpnIlrcUtyEiDZKVP6Xr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.9,
+    "vote_count": 26
+}

@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/erAmTECuCUMQ9Yk9LavNxCmCSbL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://knights-magic.com/",
+    "id": 72635,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-25",
+    "last_episode_to_air": {
+        "air_date": "2017-09-25",
+        "episode_number": 13,
+        "id": 1370941,
+        "name": "Knight’s & Magic",
+        "overview": "After two draws, it's time for the final showdown against the Vyver! The capital city is almost at hand, and all that remains for the Western Grand STorm to come to a close is for Ernie to defeat the huge wyvern mech.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gvRSxrWWIbUSLsFtnzykQ9ne2P0.jpg",
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    "name": "Knight's & Magic",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ナイツ＆マジック",
+    "overview": "A mecha otaku is reincarnated into another world as Ernesti Echevarria, also known as Eru. In this world, huge humanoid weapons known as Silhouette Knights exist. Dreaming of piloting those robots, Eru and his friends, Archid Olter and Adeltrud Olter, aim to become Knight Runners.",
+    "popularity": 17.364,
+    "poster_path": "/oDzFHkWvZ0JGRsGesVTQE0S7Itu.jpg",
+    "production_companies": [
+        {
+            "id": 30294,
+            "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+            "name": "8bit",
+            "origin_country": "JP"
+        },
+        {
+            "id": 61406,
+            "logo_path": "/cp27UOmwl39GhReASLlGOekc2OB.png",
+            "name": "Orange",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86741,
+            "logo_path": null,
+            "name": "Magic Capsule",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-02",
+            "episode_count": 13,
+            "id": 90035,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/A7LiVl5aUqVtk9FqCJctrfmKmqk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 23
+}

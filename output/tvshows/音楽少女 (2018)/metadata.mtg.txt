@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/y7nBMKj27JHVbuy3KcLFn89Sb1P.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://ongaku-shoujo.jp/",
+    "id": 80461,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-21",
+    "last_episode_to_air": {
+        "air_date": "2018-09-21",
+        "episode_number": 12,
+        "id": 1516583,
+        "name": "Shining Piece",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mGs2Fc5VOTbYjgogudvOZQKtzqV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Music Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "音楽少女",
+    "overview": "Haru Chitose, Eri Kumagai, Sarasa Ryuuouh, Kiri Mukae, Uori Mukae, Sasame Mitsukuri, Miku Nishio, Hiyo Yukino, Shupe Gushiken, Kotoko Kintoki, and Roro Morooka are the eleven members of \"Music Girls,\" an idol group produced by Pine Records. However, they're a third-rate idol group that can't seem to sell CDs at all. But even though they're obscure and constantly in debt, the members and their producer, Ikehashi, are all trying their hardest. Ikehashi gets the idea that Music Girls needs a new member—an idol who can light a fire under them so that they can grasp success!",
+    "popularity": 11.165,
+    "poster_path": "/q8TmLDjJfWThF7zQDegIRHR6dd9.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-06",
+            "episode_count": 12,
+            "id": 105632,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4wJFOKpBIevnetkvjds5eyUPsEp.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 5
+}

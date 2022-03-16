@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/eeRD2mUDvmzxJY0QqFe27ZOjw1N.jpg",
+    "created_by": [
+        {
+            "id": 931555,
+            "credit_id": "60729aadca83540029f7853a",
+            "name": "Hiroyuki Yamaga",
+            "gender": 2,
+            "profile_path": "/vfBpk3r8ilW72sKJlO12R2K8Mgs.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2001-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 42722,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-01-17",
+    "last_episode_to_air": {
+        "air_date": "2003-01-17",
+        "episode_number": 14,
+        "id": 882311,
+        "name": "Na-Geanna",
+        "overview": "After Mahoro's final departure, the years go by for Suguru. He joins VESPER and becomes an assassin with attributes greater than any android they have ever had. He has one purpose, to hunt down and kill all Androids, especially those affiliated with the Keepers. Although that group is history, there are still some loyal to it, and Suguru disposes of them. One day, after getting quite drunk, he ends up meeting a girl who looks like Mahoro, and it turns out to really be Mahoro, as SAINT's technology, and Matthew's will has recreated her, even though it took 20 years to do so. She finally finds him, and convinces him to finally go back to Tokyo.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/8ok2z5RF5erMizdxm1bjBizCdN6.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mahoromatic",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まほろまてぃっく",
+    "overview": "Mahoromatic is a sci-fi romantic comedy manga and anime series which contains elements of the literary genre of tragic dramas. It is about a female android former soldier, Mahoro. Driven by guilt from her actions during her combat days, she decides to dedicate the rest of her life to serving the son of her late commander as a maid.",
+    "popularity": 15.207,
+    "poster_path": "/dg46XFpzAm5CeZaOkdJ3bmean6p.jpg",
+    "production_companies": [
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-12-19",
+            "episode_count": 5,
+            "id": 52315,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/hdCuayL0iEzYjcQRIOqdJtyH1gg.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2001-10-05",
+            "episode_count": 12,
+            "id": 52316,
+            "name": "Automatic Maiden",
+            "overview": "",
+            "poster_path": "/9U1lEHMlS2t08uV8lxXKyTkSJcd.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2002-09-27",
+            "episode_count": 14,
+            "id": 52317,
+            "name": "Something More Beautiful",
+            "overview": "",
+            "poster_path": "/8tuqHN0JaKzS6tZCKu8bmQfSuSf.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 5
+}

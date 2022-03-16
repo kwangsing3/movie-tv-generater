@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/iqWo7c5JtA6wrr6ZXAStyy7JIQw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        10
+    ],
+    "first_air_date": "2021-11-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 138969,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-02-02",
+    "last_episode_to_air": {
+        "air_date": "2022-02-02",
+        "episode_number": 12,
+        "id": 3343924,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sore, Sunawachi Sketch",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "其れ、則ちスケッチ。",
+    "overview": "",
+    "popularity": 4.193,
+    "poster_path": "/1ac3rrV5rzuXIerygAMFd5Pby41.jpg",
+    "production_companies": [
+        {
+            "id": 164738,
+            "logo_path": null,
+            "name": "Live Cartoon",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-11-17",
+            "episode_count": 12,
+            "id": 220072,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1ac3rrV5rzuXIerygAMFd5Pby41.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

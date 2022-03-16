@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/iakqCCNSxrpvnJXul94whmWXG5H.jpg",
+    "created_by": [
+        {
+            "id": 116750,
+            "credit_id": "60a355aae272600058b70bda",
+            "name": "Yoshiaki Iwasaki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-04-12",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://lastperiod.jp/",
+    "id": 78481,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-27",
+    "last_episode_to_air": {
+        "air_date": "2018-06-27",
+        "episode_number": 12,
+        "id": 1512176,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/za4wOXDSvf3EgsWpEJuUe3efHBX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Last Period: the journey to the end of the despair",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラストピリオド~終わりなき螺旋の物語~",
+    "overview": "There is a world where fantastic beasts called \"Spirals\" are born from isolation. Those who can defeat the beasts are called \"Periods.\" Haru is an apprentice Period who belongs to the Arc End 8th Branch. However, after a mysterious theft incident, there is an economic collapse, and the Arc End headquarters abandons the 8th Division, leaving only three Periods left, including Haru. Haru and the other two Periods start their work to rebuild the 8th Division.",
+    "popularity": 7.411,
+    "poster_path": "/mGVLU23WFUOMXt9CFlwMrIaQbnZ.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-12",
+            "episode_count": 12,
+            "id": 101741,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mGVLU23WFUOMXt9CFlwMrIaQbnZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 4
+}

@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/3bC5QIJ3P1ebC7PKwzUVfgub8I.jpg",
+    "created_by": [
+        {
+            "id": 2789780,
+            "credit_id": "61ec276a713ea6006ad7db90",
+            "name": "Kousuke Oono",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        17
+    ],
+    "first_air_date": "2021-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81261669",
+    "id": 112160,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-10-07",
+    "last_episode_to_air": {
+        "air_date": "2021-10-07",
+        "episode_number": 10,
+        "id": 3237176,
+        "name": "",
+        "overview": "To buy Miku a limited edition Policure DVD, Tatsu has to memorize a confusing discount code catchphrase. Tatsu and Miku dogsit; Gin takes another walk.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/erk5bqp8sdi6RwOvtaT6KOXCDoG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Way of the Househusband",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "極主夫道",
+    "overview": "Tatsu, a notorious and feared yakuza leader nicknamed \"The Immortal Dragon,\" withdraws from the criminal syndicate and becomes a housekeeper to help his wife, Miku. The series features a variety of comedic settings, typically showing Tatsu's domestic activities and intimidating inequality with his looks, as well as multiple encounters with his former colleagues and rivals in the Japanese Criminal Syndicate.",
+    "popularity": 34.105,
+    "poster_path": "/p63rAZt0s8kedJtdxGwD5VYZafc.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-08",
+            "episode_count": 10,
+            "id": 166867,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/p63rAZt0s8kedJtdxGwD5VYZafc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 259
+}

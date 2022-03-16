@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/1VwuILSbVDwTGInbIIzF4Qy4YG0.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2014-07-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.bladedance.tv",
+    "id": 61287,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-29",
+    "last_episode_to_air": {
+        "air_date": "2014-09-29",
+        "episode_number": 12,
+        "id": 1006700,
+        "name": "Ren Ashbell",
+        "overview": "Ellis joins them, and now the five of them form a proper team. It's finally time for them to fight the strongest team, Velsaria's team. She might have strong members, but they might not have the best teamwork. Kamito believes that is why they have a chance to win. The final battle beings with the right to enter the Blade Dance in the balance.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bcLZnzWxeocUnPuYAqCCCAVnAmp.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Blade Dance of Elementalers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "精霊使いの剣舞",
+    "overview": "Only a pure maiden can have the privilege to contract with a spirit. Priestesses, who can summon spirits from Astral Zero, the world of spirits, and have full command of their power, are called elementalists. Kamito Kazehaya is the only male with this privilege, and due to what happened in the past he comes to Areisha Spirit Academy where priestesses are trained to become elementalists. He is then told that he is to transfer to the school, form a team with priestesses to compete in Blade Dance where the most powerful elementalist is chosen, and win.",
+    "popularity": 21.304,
+    "poster_path": "/wAzDvjpbFA29gIYlMibFUFqx4c3.jpg",
+    "production_companies": [
+        {
+            "id": 23917,
+            "logo_path": null,
+            "name": "TNK",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2014-10-08",
+            "episode_count": 6,
+            "id": 97159,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/jAnnZJUes0gQDVzt7AKhzDzrOaN.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-07-14",
+            "episode_count": 12,
+            "id": 62531,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/85JoOh0YYAnkX1U9qehXXxg8DrY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 10
+}

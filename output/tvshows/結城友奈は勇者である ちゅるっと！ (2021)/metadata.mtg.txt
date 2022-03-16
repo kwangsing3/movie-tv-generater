@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/1iOrq0mbXlqRSCyy2F8sSqwFkii.jpg",
+    "created_by": [
+        {
+            "id": 2413950,
+            "credit_id": "609f885e0f0da50040954ed8",
+            "name": "Seiya Miyajima",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2021-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://yuyuyu.tv/churutto/",
+    "id": 117786,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-26",
+    "last_episode_to_air": {
+        "air_date": "2021-06-26",
+        "episode_number": 12,
+        "id": 2877585,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cDNkVKb8Wq5NCt0znjsVmmvtJlX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yuki Yuna Is a Hero Churutto!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "結城友奈は勇者である ちゅるっと！",
+    "overview": "Set in year 300 of the Era of the Gods, heroes and shrine maidens were summoned after a crisis befell on the sacred tree. The Sanshu Middle School Hero Club was transformed into a bountiful household with 27 of them gathered together. Headed by someone who has a strong sense of companionship, Fu Inubozaki, she is determined to make it an Udon Hero Club!",
+    "popularity": 7.988,
+    "poster_path": "/msYe74GXJK1nDCqxSPaTSCwl5N4.jpg",
+    "production_companies": [
+        {
+            "id": 123172,
+            "logo_path": "/52z6trsASwSR0hVhwgNJ4KkmOd2.png",
+            "name": "DMM.futureworks",
+            "origin_country": "JP"
+        },
+        {
+            "id": 92406,
+            "logo_path": null,
+            "name": "W-Toon Studio",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-10",
+            "episode_count": 12,
+            "id": 178959,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qYN9givjQ03fre8yUnb2onaAfnO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

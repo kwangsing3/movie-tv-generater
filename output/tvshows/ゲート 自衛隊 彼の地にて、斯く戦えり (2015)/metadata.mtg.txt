@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/xWnqhREQ3aVbGatgg9fwbY4BYh7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-07-04",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://gate-anime.com/",
+    "id": 63663,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-03-26",
+    "last_episode_to_air": {
+        "air_date": "2016-03-26",
+        "episode_number": 24,
+        "id": 1157708,
+        "name": "Thus They Fought",
+        "overview": "Itami and his team launch their last assault on the palace to recover the captured Princess Pina. The empire begins to take on a few face, and some surprising relationships are revealed...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/eEAsrdV6CNUGAvnHqeAsg9yqqGs.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Gate",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゲート 自衛隊 彼の地にて、斯く戦えり",
+    "overview": "Off-duty Japan Self-Defense Forces (JSDF) officer and otaku, Youji Itami, is on his way to attend a doujin convention in Ginza, Tokyo when a mysterious portal in the shape of a large gate suddenly appears. From this gate, supernatural creatures and warriors clad in medieval armor emerge, charging through the city, killing and destroying everything in their path. With swift actions, Youji saves as many lives as he can while the rest of the JSDF direct their efforts towards stopping the invasion.\n\nThree months after the attack, Youji has been tasked with leading a special recon team, as part of a JSDF task force, that will be sent to the world beyond the gate—now being referred to as the \"Special Region.\" They must travel into this unknown world in order to learn more about what they are dealing with and attempt to befriend the locals in hopes of creating peaceful ties with the ruling empire.",
+    "popularity": 41.682,
+    "poster_path": "/bCuJkIUg1n9etSYrrQKlQuSrigE.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-07-04",
+            "episode_count": 24,
+            "id": 69683,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1p5VIxmYJFpFrHXXIxdEPR2dB3z.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 60
+}

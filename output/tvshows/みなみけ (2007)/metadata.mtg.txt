@@ -1,0 +1,149 @@
+{
+    "adult": false,
+    "backdrop_path": "/XAoHAWbTzA5YfRvjgW8V40zHOx.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2007-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.starchild.co.jp/special/minami-ke/",
+    "id": 56354,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-03-31",
+    "last_episode_to_air": {
+        "air_date": "2013-03-31",
+        "episode_number": 13,
+        "id": 938656,
+        "name": "What's Said Here, Stays Here",
+        "overview": "The cherry blossoms are in bloom, which means it's time for a flower-viewing party. Kana's got the right spirit, but she's the only one. She tries everything to pique her friends' attention, but will any of her plans work out the way she wants?",
+        "production_code": "",
+        "season_number": 4,
+        "still_path": "/xgWZuWIxATOLRFTJm12f9wnCdur.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Minami-ke",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "みなみけ",
+    "overview": "There are three of the Minami sisters: Haruka, Kana and Chiaki, who have an average life. The girls only have each other to depend on and help each other get through everything from love confessions to cooking.",
+    "popularity": 28.449,
+    "poster_path": "/zgdsmw06yv8JeLzw4Vp1ODgSrjj.jpg",
+    "production_companies": [
+        {
+            "id": 21504,
+            "logo_path": null,
+            "name": "Star Child Recording",
+            "origin_country": ""
+        },
+        {
+            "id": 17315,
+            "logo_path": "/8QPhCeRCNVa3jYCtDvThTlAGYSL.png",
+            "name": "feel.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 42519,
+            "logo_path": null,
+            "name": "asread.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 88185,
+            "logo_path": "/7KGVmlLGv6hoon8UkqE7ls7z4op.png",
+            "name": "Daume",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-06-23",
+            "episode_count": 3,
+            "id": 58160,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/jPLw0OEGHYpDFBxHYeB79HDcVnJ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-10-08",
+            "episode_count": 13,
+            "id": 58159,
+            "name": "Minami-ke",
+            "overview": "",
+            "poster_path": "/1llGE0wlPGZXUm3xLIuei0vbFJp.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-01-06",
+            "episode_count": 13,
+            "id": 58158,
+            "name": "Minami-ke Okawari",
+            "overview": "",
+            "poster_path": "/sCYldDDmhGBo86PSaKrpvQ3ECDf.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2009-01-04",
+            "episode_count": 13,
+            "id": 58161,
+            "name": "Minami-ke Okaeri",
+            "overview": "",
+            "poster_path": "/cLUSEMILXxXGgLF6RuNtzBbdfHZ.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2013-01-06",
+            "episode_count": 13,
+            "id": 58162,
+            "name": "Minami-ke Tadaima",
+            "overview": "",
+            "poster_path": "/7yYtRbbLT9SSlmdWmrUvNtoYKDs.jpg",
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 8
+}

@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/q0gdMNzBZroau4Dz9ciWN1g7MVO.jpg",
+    "created_by": [
+        {
+            "id": 1172453,
+            "credit_id": "57fdda209251411514000b31",
+            "name": "Shigeru Mizuki",
+            "gender": 2,
+            "profile_path": "/3wlLohlrYCtZfGe2jH9OQCl4KfF.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1968-01-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/lineup/tv/kitaro/",
+    "id": 68236,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1969-02-23",
+    "last_episode_to_air": {
+        "air_date": "1969-02-23",
+        "episode_number": 60,
+        "id": 1333777,
+        "name": "Kasa jizou",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cackling Kitarou",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 65,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゲゲゲの鬼太郎",
+    "overview": "Kitarou, a ghost, spends his afterlife helping humans in need of his skills. He thwarts the plans of evil spirits who live to torment humanity.",
+    "popularity": 5.956,
+    "poster_path": "/rGPp9T881oULGpQHVjtKFmgGvzi.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1968-01-03",
+            "episode_count": 65,
+            "id": 80998,
+            "name": "Season 1",
+            "overview": "A truly bizzarre anime with a flavour of traditional Japanese folklore. The boy, Kitarou, encounters various forms of evil with his father, who happens to be an eyeball.",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

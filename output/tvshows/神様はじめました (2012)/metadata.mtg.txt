@@ -1,0 +1,173 @@
+{
+    "adult": false,
+    "backdrop_path": "/xdTwlG8MYAOkFuAGUqt8LgmgTNZ.jpg",
+    "created_by": [
+        {
+            "id": 1469451,
+            "credit_id": "555e43779251417e5f00081a",
+            "name": "Julietta Suzuki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/kamisama/",
+    "id": 62741,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-30",
+    "last_episode_to_air": {
+        "air_date": "2015-03-30",
+        "episode_number": 12,
+        "id": 1065360,
+        "name": "The God Receives a Marriage Proposal",
+        "overview": "Tomoe gets some insight into Nanami's childhood. And they finally get through the torii gates to see the Year God.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/qMjnj9mfDsTsDtMVvZKum5kS24G.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kamisama Kiss",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVQ",
+            "id": 822,
+            "logo_path": "/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TVh",
+            "id": 938,
+            "logo_path": "/vEUZNYjuSn0iTQyZ3SLNfVgI9Z8.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Setouchi",
+            "id": 2064,
+            "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "神様はじめました",
+    "overview": "Nanami was just a normal high school girl down on her luck until a stranger’s lips marked her as the new Land God and turned her world upside down. Now, she’s figuring out the duties of a deity with the help of Tomoe, a reformed fox demon who reluctantly becomes her familiar in a contract sealed with a kiss. The new responsibilities—and boys—are a lot to handle, like the crow demon masquerading as a gorgeous pop idol and the adorable snake spirit who’s chosen the newly minted god to be his bride. As the headstrong Tomoe tries to whip her into shape, Nanami finds that love just might have cute, pointed fox ears. With romance in the air, will the human deity be able to prove herself worthy of her new title?",
+    "popularity": 78.32,
+    "poster_path": "/5E7GL8KxpFemEFl3Lv8Fu4RuSwa.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-08-20",
+            "episode_count": 7,
+            "id": 79698,
+            "name": "Specials",
+            "overview": "These are special episodes released only on DVD with certain volumes of the manga.",
+            "poster_path": "/pDKD9DMhN0L2XXh78caKatK7kzV.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-10-02",
+            "episode_count": 13,
+            "id": 66979,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hN20I4yLHVsxlGQW6m4oZqcm52c.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2015-01-05",
+            "episode_count": 12,
+            "id": 66981,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/pVxgfdxHYMHZPRWdbLVsrdnipAz.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 653
+}

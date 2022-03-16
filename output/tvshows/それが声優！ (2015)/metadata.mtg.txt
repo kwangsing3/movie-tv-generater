@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/fOOFANF4CIPSuKWq0kEDrlyYNPa.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://soregaseiyu.com/",
+    "id": 80878,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-29",
+    "last_episode_to_air": {
+        "air_date": "2015-09-29",
+        "episode_number": 13,
+        "id": 1523327,
+        "name": "Assessment",
+        "overview": "A month after Earphones' concert, Futaba faces an assessment to determine whether she can stay at Aozora Productions. While pondering how she will be assessed, Futaba meets up with some of her friends from training school, some of whom went on to different career paths, before being asked to think about where she wants to be in the future. On the day of her assessment, Futaba faces harsh criticism due to her lack of work but manages to work up the courage to state her desire to work as a voice actress for a long time. Although not able to move up to a higher position in the company, Futaba is given a deferral, allowing her to work at Aozora for another year in order to prove herself as a voice actress who can work for a long time.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dWzudcA7BkkiMIOaD6OJr0shsn8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Seiyu's Life!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "それが声優！",
+    "overview": "The series is centered on three friends who are all rookie voice actresses; Futaba Ichinose, Ichigo Moesaki and Rin Kohana. As the girls go through their individual troubles of working in voice acting, they end up hosting a web radio show together and form the unit, Earphones.",
+    "popularity": 15.002,
+    "poster_path": "/as91FTxd6F6fc8ll9X7ovQn9E8A.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-03-23",
+            "episode_count": 1,
+            "id": 151296,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-07-07",
+            "episode_count": 13,
+            "id": 106380,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mCC4jrxC7osH6InLU25VLLI2Tf8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 3
+}

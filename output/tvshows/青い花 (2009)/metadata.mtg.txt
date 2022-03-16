@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/Ab1iaTfaLBpkBbiuWJriBzm273a.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2009-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.aoihana.tv/",
+    "id": 34838,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-09-10",
+    "last_episode_to_air": {
+        "air_date": "2009-09-10",
+        "episode_number": 11,
+        "id": 793351,
+        "name": "Fireworks in Winter",
+        "overview": "In the blink of an eye, summer has past and fall has sunken in. Yasuko's basketball team has begun to excel pushing them into the national tournament. However, a rumor about Yasuko going to study in England after graduation begins to spread, which comes as a shock to Kyouko. In the meantime, Fumi runs into Yasuko at the train station, and looking at each other together.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ba6NLcZ1UNIaC8PqoKc43jWKmcN.jpg",
+        "vote_average": 7,
+        "vote_count": 2
+    },
+    "name": "Sweet Blue Flowers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "青い花",
+    "overview": "Fumi Manjoume enters Kamakura's accelerated  high school - Matsuoka All-Girls High School.  While waiting at the  Kamakura station on the day of her entrance ceremony, she runs into an  old childhood friend whom she had not seen in 10 years: Akira Okudaira.  As their friendship is rekindled and they start falling back into the  rhythm of friends again, it starts a delicate love story...",
+    "popularity": 7.608,
+    "poster_path": "/eeuSpw47UmVYLgNFtsauAURxZLf.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-07-02",
+            "episode_count": 11,
+            "id": 45632,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/twuy6qicaiW12pz7rinPG40Opvc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.1,
+    "vote_count": 9
+}

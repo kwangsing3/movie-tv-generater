@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/93bKVCDs3BZRX4TPpddJQWYVVpd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 34709,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-12-26",
+    "last_episode_to_air": {
+        "air_date": "2003-12-26",
+        "episode_number": 13,
+        "id": 790531,
+        "name": "Shinigami, or rather the Shichinin Misaki Part 2",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nE0Tv8rdfEhJShG2F1Cm3NmhF9k.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Requiem from the Darkness",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "京極夏彦 巷説百物語",
+    "overview": "Momosuke is a young man with a dream: to travel Japan and collect one hundred stories. He journeys from place to place, searching for tales of the paranormal and bizarre, hoping to collect tales to publish in his book. However, the calm of Momosuke's life soon is shattered by a chance meeting with three sinister beings: Mataichi the priest, Nagamimi the bird-caller, and the beautiful Ogin. Soon, Momosuke learns that there might be more to his newfound comrades than first meets the eye...",
+    "popularity": 5.605,
+    "poster_path": "/mzHAq3IzCnzzjZrj42DnbbIpeG.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-10-03",
+            "episode_count": 13,
+            "id": 45458,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mI3o6XpHdjk3bL4i2vvNZyJcpDG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 4
+}

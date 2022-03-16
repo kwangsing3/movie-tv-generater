@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/3PQEbMOgQyOESo3XwtlJvZw6uoA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.kyotoanimation.co.jp/nichijou/",
+    "id": 44684,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-25",
+    "last_episode_to_air": {
+        "air_date": "2011-09-25",
+        "episode_number": 26,
+        "id": 894968,
+        "name": "",
+        "overview": "Let's have a birthday party for Nano! Professor, what do you mean, \"a little one?\" Got it! I'll take this ugly one away, too! Cake, cake, cake!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/iD4jkYafR2o0n27SdfLLVSBqDCa.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nichijou: My Ordinary Life",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "日常",
+    "overview": "Follow the adventures of three ordinary girls as they make life’s awkward moments a thousand times worse. Along with a colorful bunch of classmates, they learn their most important lessons the hard way. Meanwhile down the street, a pocket-sized professor makes life difficult for a robot who just wants to be normal. But normal is the last thing you can expect in a town where salmon falls from the sky. In fact, the only thing you can count on is your friends, but even they are totally weird.",
+    "popularity": 27.351,
+    "poster_path": "/qmi1VpOvPFRHg02fbLuc3pVrMbt.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-03-12",
+            "episode_count": 1,
+            "id": 53572,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/7DVO98QMDhhttyWfv80oiQFnPiO.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-04-03",
+            "episode_count": 26,
+            "id": 53573,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4M1bjkXS3yZ5MVSTQ2tv2mCHAzJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 55
+}

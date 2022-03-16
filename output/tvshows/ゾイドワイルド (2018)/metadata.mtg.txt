@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/2OSLVfoQib8IbsThpR31kp9iA8k.jpg",
+    "created_by": [
+        {
+            "id": 1845376,
+            "credit_id": "5b4b89020e0a264547028ff5",
+            "name": "Norihiko Sudo",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1294589,
+            "credit_id": "5b4b89070e0a264540029364",
+            "name": "Mitsutaka Hirota",
+            "gender": 2,
+            "profile_path": "/6iZsaJdsEyCaUGXz7IJ1KEJPg9Q.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2018-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.anime-zoidswild.jp/",
+    "id": 80720,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-06-29",
+    "last_episode_to_air": {
+        "air_date": "2019-06-29",
+        "episode_number": 50,
+        "id": 1932039,
+        "name": "Connect! Bonds of the Future",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Zoids Wild",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゾイドワイルド",
+    "overview": "A quest for freedom and legendary treasure begins when a cheerful young adventurer follows his father's footsteps to become the greatest Zoids hunter.",
+    "popularity": 15.702,
+    "poster_path": "/wYhJoYnscq5o9b6fSs7SJPixrOO.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-07",
+            "episode_count": 50,
+            "id": 106114,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9TJqNHXo2ltncAvDV24EopwirVd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

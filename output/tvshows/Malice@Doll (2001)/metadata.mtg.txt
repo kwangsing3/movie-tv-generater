@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2001-04-27",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.konaka.com/alice6/malicedoll/",
+    "id": 139464,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2001-04-27",
+    "last_episode_to_air": {
+        "air_date": "2001-04-27",
+        "episode_number": 3,
+        "id": 3352946,
+        "name": "Perverted Organism",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Malice@Doll",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Malice@Doll",
+    "overview": "Robot prostitute Malice@Doll roams a deserted city unsuccessfully looking for johns after the human race is obliterated. With no people left, the android serving class has a meaningless existence. But after a horrific tentacled beast rapes Malice@Doll, she inexplicably turns human. With a renewed purpose in life, she tries to share the gift of humanity with others of her kind, but with every gift comes a curse...",
+    "popularity": 0.665,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 81803,
+            "logo_path": null,
+            "name": "GAGA Communications",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13317,
+            "logo_path": null,
+            "name": "SOEISHINSHA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-04-27",
+            "episode_count": 3,
+            "id": 220887,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

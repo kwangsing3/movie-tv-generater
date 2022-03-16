@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/rgj0NYW1w3rCIwoNBIM2nwtdcSM.jpg",
+    "created_by": [
+        {
+            "id": 3430398,
+            "credit_id": "620e31070b5fd60042e2ec27",
+            "name": "Rikuentai",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1997-01-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 44538,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1997-04-25",
+    "last_episode_to_air": {
+        "air_date": "1997-04-25",
+        "episode_number": 2,
+        "id": 894377,
+        "name": "Round 2: The Nasty Ponytail",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ayane's High Kick",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "綾音ちゃんハイキック！",
+    "overview": "Meet Ayane Mitsui: full-time high school student and part-time hand-to-hand combat specialist! Exams are forgotten and homework is neglected as she pursues her life-long dream of becoming a pro-wrestling champion. Ayane has got what it takes - skill, determination, a lethal \"high kick\" - even a cool wrestling mask! But who will guide her to the top?\n\nEnter Kunimitsu Tangay: a veteran trainer who is prepared to mold young Ayane into a championship caliber fighter. but his rigorous training regimen isn't preparing her for wrestling.. but for kickboxing, instead! Feeling betrayed, Ayane is furious when Kunimitsu enters her in a kickboxing tournament. But Ayane's school ABSOLUTELY FORBIDS such violent extracurricular activities. What will she do when Sakurako Miyagawa, the top contender of the All-Japan Kickboxing League, challenges her to a duel? Will she be able to high-kick her way to victory - or will she get kicked out of school?",
+    "popularity": 0.84,
+    "poster_path": "/awvVWTw8vZMFVsCqATX6OgzVCRl.jpg",
+    "production_companies": [
+        {
+            "id": 73231,
+            "logo_path": null,
+            "name": "Rikuentai",
+            "origin_country": ""
+        },
+        {
+            "id": 134904,
+            "logo_path": null,
+            "name": "Ripple Film",
+            "origin_country": ""
+        },
+        {
+            "id": 955,
+            "logo_path": "/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png",
+            "name": "Nikkatsu Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 169988,
+            "logo_path": null,
+            "name": "Central Park Media",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1997-01-21",
+            "episode_count": 2,
+            "id": 53505,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/6yWPR2hrlo3bK21vDYwhX0BCQW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://satsuriku.com",
+    "id": 80477,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-21",
+    "last_episode_to_air": {
+        "air_date": "2018-09-21",
+        "episode_number": 12,
+        "id": 1516208,
+        "name": "Try to know everything about her",
+        "overview": "Floor B1 looks like an ordinary residence. After following a trail of blood to what appears to be a living room, Rachel suddenly panics. She pressures Zack to kill her immediately, then passes out. Then Danny appears, only to shut Zack out of the room and tell him, \"If you succeed in learning everything, I'll open the door.\" So Zack sets off to search the floor on his own for the truth...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2QPiLHdqhBESAfBk4nxz0uO4Eya.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Angels of Death",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "殺戮の天使",
+    "overview": "Most girls waking up without any memory and meeting a serial killer would panic, but not Rachel. In fact, far from being her biggest problem, killer Zack might just prove a convenient resource when it comes to finding a way out of the building in which they're both trapped!",
+    "popularity": 41.128,
+    "poster_path": "/74OJEbRx1swuh5EuT7VNWxyWTZd.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-05",
+            "episode_count": 4,
+            "id": 111879,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/yA9sgnonJQmuDt0znGthIV48WNz.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-07-06",
+            "episode_count": 12,
+            "id": 105668,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xBOer2zvuv1OubF548Wj7Exunnm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 181
+}

@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1665785,
+            "credit_id": "58099f8c92514137900051d6",
+            "name": "Jûzô Mutsuki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1990-12-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 43564,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-07-01",
+    "last_episode_to_air": {
+        "air_date": "1995-07-01",
+        "episode_number": 6,
+        "id": 888332,
+        "name": "Devil Hunter Yohko VI",
+        "overview": "Ayako Mano, who is nearly identical in appearance to Yohko, is introduced; she has spent her life training and honing her abilities so that one day she may defeat Yohko and become the devil hunter of the Mano family, and now she is ready for the final confrontation. Yohko continues to live her life and is unaware of Ayako until she starts stealing away every guy that Yohko has a crush on. Then one night while taking a bath, Yohko hears something outside and gives chase. She then meets up with an Azusa look-alike. She and Ayako attack the unsuspecting Yohko with crushing attacks, while Yohko parries the onslaught. The fight stops, but Ayako vows to finish the fight. Madoka reveals a certain part of her past that relates to the encounter. Yohko's teacher, whom she has a crush on, is used as bait to lure Yohko. Ayako and Yohko meet face-to-face for the showdown. The fight awakens a demon who sleeps deep within the earthand the two must learn to fight together to fend off this powerful creature.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fiILgxGp6NxczC1Owk5t2jVCARi.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Devil Hunter Yohko",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔物ハンター妖子",
+    "overview": "Yohko Mono is a regular girl making her way through high school--until she learns that she is the successor to a line of warriors charged with defending the earth against demons.",
+    "popularity": 4.761,
+    "poster_path": "/pkC0v3ya7svybQLQxfXmWNNerkR.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1990-12-01",
+            "episode_count": 6,
+            "id": 52866,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8,
+    "vote_count": 2
+}

@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/8loKIZyJvYyeEm1PiTuNWr838Tk.jpg",
+    "created_by": [
+        {
+            "id": 2631005,
+            "credit_id": "5eb6202ac3514c00205975da",
+            "name": "Eisaku Kubonouchi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2018-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.sonokano.com/",
+    "id": 82944,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-10-07",
+    "last_episode_to_air": {
+        "air_date": "2018-10-07",
+        "episode_number": 1,
+        "id": 1589350,
+        "name": "Episode 1",
+        "overview": "The anime will take place in Fukuoka, and will follow the love lives of four female protagonists as high school students, college students, and as working adults.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "At That Time, She.",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "GyaO!",
+            "id": 2819,
+            "logo_path": "/wD1kyr8RuPYSWfqHiswhMBpE2kf.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBC",
+            "id": 3595,
+            "logo_path": null,
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "その時、カノジョは。",
+    "overview": "The anime will take place in Fukuoka, and will follow the love lives of four female protagonists as high school students, college students, and as working adults.",
+    "popularity": 3.211,
+    "poster_path": "/gJ45n0fTWskpeU2DJpoYrtErZmW.jpg",
+    "production_companies": [
+        {
+            "id": 133566,
+            "logo_path": null,
+            "name": "Master Lights",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-07",
+            "episode_count": 12,
+            "id": 110494,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/frrIx8MRYUeN1JHqeIcsv4agPNg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

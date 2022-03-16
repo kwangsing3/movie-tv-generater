@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2016-10-03",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.garasunokamen3d.com",
+    "id": 68453,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-12-26",
+    "last_episode_to_air": {
+        "air_date": "2016-12-26",
+        "episode_number": 13,
+        "id": 1250282,
+        "name": "Make the Final Episode Passionate",
+        "overview": "The final episode reveals a surprising fact and shows that even Chigusa had a misconception about acting...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jHTz0RfHXBJ8TVJ4GG1hVm4LWul.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Glass Mask Year 3 Class D",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "３ねんＤぐみガラスの仮面",
+    "overview": "In a modern-day school, we find Maya, Ayumi, Chigusa, Yuu, and the chairman, Masumi. They are the ultimate actors, who have time-traveled from the Glass Mask generation to the modern day to make the hearts of modern-day people burn with passion. Maya, Ayumi, Chigusa, and Yuu rely on their passion and actors' spirits to take on people with all sorts of worries. Chairman Masumi, on the other hand, seems to think the modern age doesn't need saving...",
+    "popularity": 2.94,
+    "poster_path": "/6yfbJyrj3ZrMH0ImU6yOvjkIWNr.jpg",
+    "production_companies": [
+        {
+            "id": 71369,
+            "logo_path": "/gsHQTAMMRAlqYIWdN6rcSKSHRqT.png",
+            "name": "DLE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-03",
+            "episode_count": 13,
+            "id": 81512,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sEF7LjMDfYqezsAOBBe3zf0VW0.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3,
+    "vote_count": 2
+}

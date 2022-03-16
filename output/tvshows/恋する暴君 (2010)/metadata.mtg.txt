@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/qxeEUe6spEYgx25vYJ7DYUsAqHk.jpg",
+    "created_by": [
+        {
+            "id": 1844916,
+            "credit_id": "595c4cd2c3a36825e805e371",
+            "name": "Hinako Takanaga",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2010-06-25",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 45226,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-07-02",
+    "last_episode_to_air": {
+        "air_date": "2010-07-02",
+        "episode_number": 2,
+        "id": 2253650,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Tyrant Falls in Love",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "恋する暴君",
+    "overview": "A first year doctorate student in the agricultural science department at a university in Nagoya. Extremely hot-headed and violent, he has a reputation of being a tyrant to other students at the University and is not very social in result. After almost being raped by a gay professor and other bad experiences with homosexual men, he becomes extremely homophobic. Despite this, he unconsciously becomes deeply emotionally attached to his research assistant and friend, Morinaga, whom he is aware is homosexual but allows by his side on the agreement that his sexual orientation not be an issue. He tries to rationalize his dependency on Morinaga by convincing himself that having sex with him from time to time is essential to keep him in his life, although refusing to admit why he needs him in his life in the first place.",
+    "popularity": 5.839,
+    "poster_path": "/s19DHkhFIdq9JxRyoShraELtNDn.jpg",
+    "production_companies": [
+        {
+            "id": 92065,
+            "logo_path": null,
+            "name": "PrimeTime",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-06-25",
+            "episode_count": 2,
+            "id": 138589,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1eFlzuNH9N1sLdJxTS7YxGMWrjK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 5
+}

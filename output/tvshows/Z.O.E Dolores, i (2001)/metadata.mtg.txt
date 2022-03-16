@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/iM7PpsNm0Rvwvfn5ne7tcNFA87p.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2001-04-07",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.vap.co.jp/zoe/tv/",
+    "id": 31026,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2001-09-29",
+    "last_episode_to_air": {
+        "air_date": "2001-09-29",
+        "episode_number": 26,
+        "id": 751844,
+        "name": "Farewell to Arms",
+        "overview": "James and Radium's fight comes to a thrilling conclusion. With that all said and done, however, the end is not near. The elevator is still descending, and at this rate, there's nothing that can be done. Dolores decides to take matters into her own hands and sacrifice her own life to stop the elevator from falling! Will she go through with it? Will her power be enough? Will she survive? And, what has become of Rebecca and Axel? The enthralling conclusion of Zone of the Enders has arrived!!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Z.O.E Dolores, i",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Z.O.E Dolores, i",
+    "overview": "James Lynx was a pilot in the United Nations global army, one day he received notification that his wife, a Martian scientist, was killed during a lab experiment. His children blamed him and in despair, James quit the military and took up a job as a transporter between Earth and Mars, he had some slight hope of his wife still being alive. After a few years, he seemed to have given up all hope and turned to drinking, until one day he receives an orbital frame by the name of \"Dolores,\" sent by his dead wife.",
+    "popularity": 9.043,
+    "poster_path": "/bG0mwyqJojTYLPKxMFxITgnUQyK.jpg",
+    "production_companies": [
+        {
+            "id": 11725,
+            "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+            "name": "VAP",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-02-21",
+            "episode_count": 1,
+            "id": 42626,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2001-04-07",
+            "episode_count": 26,
+            "id": 42625,
+            "name": "Zone of the enders season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 2
+}

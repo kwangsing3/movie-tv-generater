@@ -1,0 +1,171 @@
+{
+    "adult": false,
+    "backdrop_path": "/fBtoNKFXPYOrg8yno7YBDn6FiL9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.marv.jp/special/reborn/outline/index.html",
+    "id": 45857,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-09-25",
+    "last_episode_to_air": {
+        "air_date": "2010-09-25",
+        "episode_number": 203,
+        "id": 1478116,
+        "name": "To a New Future",
+        "overview": "The Arcobalenos are revived. Collonello reveals that Byakuran's defeat caused all of the crimes he did with the knowledge from parallel world to be annulled and removing Byakuran's reign from all the world. Tsuna and his friends say their goodbyes to their friends before returning the past. During their time travel back, the Arcobalenos do three things: Seal the Mare Rings, gives the people involved with the Vongola the memories from their future selves, and turned the Vongola Box animals into rings. At school, Tsuna and his friends return to their daily life and look towards the sky, thankful for Yuni's sacrifice.",
+        "production_code": "",
+        "season_number": 8,
+        "still_path": "/dzdFY9LadL44EPXk3x2GnO4IWHb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "REBORN!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 203,
+    "number_of_seasons": 8,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "家庭教師ヒットマン REBORN!",
+    "overview": "\"No Good\" Tsunayoshi Sawada is next in line to become boss of the powerful Vongola mafia family. The Vongolas' most powerful hitman, a cursed gun-toting infant named Reborn, is sent to teach Tsuna how to be a boss.",
+    "popularity": 78.888,
+    "poster_path": "/gHN8D7iPhRHVdG15rlX4tCflp4l.jpg",
+    "production_companies": [
+        {
+            "id": 58268,
+            "logo_path": null,
+            "name": "Artland",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-03-01",
+            "episode_count": 2,
+            "id": 54293,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-10-07",
+            "episode_count": 33,
+            "id": 54291,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2007-06-01",
+            "episode_count": 32,
+            "id": 54292,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/cOm4hKIzfw1WmddY9NHbElIWQ0p.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2008-01-18",
+            "episode_count": 8,
+            "id": 54298,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/unP2KGOxoS0MAzVgPwsACrrxx5u.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2009-03-14",
+            "episode_count": 68,
+            "id": 54299,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/pkHMjerpqFp0isZYC12ICQalDt9.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2009-07-17",
+            "episode_count": 13,
+            "id": 54297,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/pkHMjerpqFp0isZYC12ICQalDt9.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": "2009-10-16",
+            "episode_count": 23,
+            "id": 54296,
+            "name": "Season 6",
+            "overview": "",
+            "poster_path": "/kQCUVNBzKp9pgqGw9JuJhb0h86U.jpg",
+            "season_number": 6
+        },
+        {
+            "air_date": "2010-04-02",
+            "episode_count": 12,
+            "id": 54295,
+            "name": "Season 7",
+            "overview": "",
+            "poster_path": "/wbRT12LjgTG82ud5IW7lxam43nz.jpg",
+            "season_number": 7
+        },
+        {
+            "air_date": "2010-06-25",
+            "episode_count": 14,
+            "id": 54294,
+            "name": "Season 8",
+            "overview": "",
+            "poster_path": "/cBZfAOPQ5HzNofx7aZjhNCuiFKi.jpg",
+            "season_number": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 118
+}

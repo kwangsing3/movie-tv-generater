@@ -1,0 +1,176 @@
+{
+    "adult": false,
+    "backdrop_path": "/7apk7MDXON2zZ2ntXgaIusHrUNa.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2001-10-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 27845,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-03-30",
+    "last_episode_to_air": {
+        "air_date": "2005-03-30",
+        "episode_number": 13,
+        "id": 699458,
+        "name": "Farewell, Prince",
+        "overview": "",
+        "production_code": "",
+        "season_number": 7,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Prince of Tennis",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 178,
+    "number_of_seasons": 7,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "テニスの王子様",
+    "overview": "Seishun Gakuen Junior High School tennis team line-up gets even stronger with the sudden arrival of a young prodigy from the West, Ryouma Echizen, who is determined to prove himself and escape the towering shadow of his legendary father.",
+    "popularity": 65.963,
+    "poster_path": "/6Q1yvR5q5c5EItFe2QKfN4Y4vGF.jpg",
+    "production_companies": [
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 74838,
+            "logo_path": null,
+            "name": "NAS",
+            "origin_country": ""
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-03-24",
+            "episode_count": 37,
+            "id": 38977,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/nD4Sjy8jBCpKEwrPCFUndvTar86.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2001-10-10",
+            "episode_count": 26,
+            "id": 38970,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4orsFloJvUwhhLVV05SiDgr4Oyg.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2002-04-17",
+            "episode_count": 27,
+            "id": 38971,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/xDsoSQIMfOvl3H7DL1uWDUK5N4k.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2002-10-23",
+            "episode_count": 22,
+            "id": 38972,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/1EQtCVlzZyXdHdsfosq4cGzOapI.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2003-04-09",
+            "episode_count": 26,
+            "id": 38973,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/qbxZytiPK9GUE0SoTr0WZFfr70X.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2003-10-01",
+            "episode_count": 27,
+            "id": 38974,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/fUDjNd1nD3LDnALrgeOKosJrnn8.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": "2004-04-14",
+            "episode_count": 37,
+            "id": 38975,
+            "name": "Season 6",
+            "overview": "",
+            "poster_path": "/rIFvnVVeQmXe6FwLHO7cSOYeCDI.jpg",
+            "season_number": 6
+        },
+        {
+            "air_date": "2005-01-12",
+            "episode_count": 13,
+            "id": 38976,
+            "name": "Season 7",
+            "overview": "",
+            "poster_path": "/3TT5aKD3UpNgjYpZB6pq01eEylL.jpg",
+            "season_number": 7
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 86
+}

@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/ms8VFdiu2VsUrevk4WSYbU4Wkxe.jpg",
+    "created_by": [
+        {
+            "id": 1246425,
+            "credit_id": "52585063760ee34661043561",
+            "name": "Matsuri Hino",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 17149,
+    "in_production": false,
+    "languages": [
+        "de",
+        "ja"
+    ],
+    "last_air_date": "2008-12-30",
+    "last_episode_to_air": {
+        "air_date": "2008-12-30",
+        "episode_number": 13,
+        "id": 553048,
+        "name": "Vampire's Knight",
+        "overview": "Using his new power, Zero injures Rido with Bloody Rose and Rido flees to the surrounding forest. He attempts to drink the blood of his servants to recover, and is confronted by Kaname. As Kaname fights Rido, Zero arrives and kills Rido with Bloody Rose. Zero meets with Yuuki to say farewell. When he reveals that he does not believe that Yuuki is a vampire, he asks her to drink his blood, and she does so. While Yuuki drinks Zeros blood she remembers when Zero told her he could tell that she loved Kaname by her blood and she realises that he has feelings for her.Zero reveals that he will continue to kill purebloods and will ultimately kill Yuuki. Yuuki meets with Kaname, claiming that she wishes to protect him despite the pain he has caused her by protecting her the previous ten years. After Yuuki says farewell to the Headmaster, she and Kaname leave the Academy with Hanabusa, Akatsuki and Ruka.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/9qosWQLqdW59hFiH1pBXzDGghuP.jpg",
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    "name": "Vampire Knight",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヴァンパイア騎士",
+    "overview": "Yuki Cross, along with her best friend Zero, attempts to keep the peace between humans and vampires at Cross Academy, but personal issues soon threaten the situation.",
+    "popularity": 23.796,
+    "poster_path": "/eqloipTo5S791bD6zHegJbs2BBV.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2008-11-26",
+            "episode_count": 1,
+            "id": 28170,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/lUQPXfiX9jXEgE6aDBnFBe7sgWE.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-04-08",
+            "episode_count": 13,
+            "id": 28168,
+            "name": "Vampire Knight",
+            "overview": "",
+            "poster_path": "/f6dFMV7lkhA3xuRXyj1anUk6AOu.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-10-07",
+            "episode_count": 13,
+            "id": 28169,
+            "name": "Vampire Knight: Guilty",
+            "overview": "",
+            "poster_path": "/e6GAqvRJrNn8YXF5AWgptUc3qXm.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 265
+}

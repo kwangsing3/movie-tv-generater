@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2007-04-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.sunrise-inc.co.jp/idolmaster/home.html",
+    "id": 34215,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-09-24",
+    "last_episode_to_air": {
+        "air_date": "2007-09-24",
+        "episode_number": 26,
+        "id": 785707,
+        "name": "The Moon & The Penguin",
+        "overview": "Auryn has grown unstable after absorbing Nubilum. If something isn’t done soon, the entire planet will be destroyed! The iDOLs are willing to sacrifice themselves to save the ones they love, but how do their Masters feel about this?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lJ707HO4oUNUcW5Myck05mQiPzf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "iDOLM@STER Xenoglossia",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kansai TV",
+            "id": 1163,
+            "logo_path": "/1J33ZvSff1VOEt3aC8CyKmj9GEy.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイドルマスター ゼノグラシア",
+    "overview": "107 years ago, the Moon was destroyed in a massive cataclysm that shattered Earth's former satellite into 81 quintillion tons of orbital debris. However, thanks to super-science, the Earth itself was saved and today no one really thinks much about that century-past disaster. Which is why when teenage Haruka Amami auditions for something called the Idolmaster Project, she THINKS she's trying out to be a singing idol. Instead, Haruka finds herself at a secret school run by the Mondenkind Agency, living with a group of other girls who have also been selected as candidates to pilot an iDOL - an advanced robot specifically designed to intercept falling chunks of moon rock. Except, the people who run the Mondenkind Agency aren't exactly knights in shining armor. And then there's the question of whether the iDOLs are really JUST robots. Because from almost the first moment, Haruka starts to feel emotions resonating from within the iDOL called Imber.",
+    "popularity": 16.579,
+    "poster_path": "/r18Dg3XQnmkCq1xDNCns4bG1Vjb.jpg",
+    "production_companies": [
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-07-27",
+            "episode_count": 9,
+            "id": 70318,
+            "name": "Specials",
+            "overview": "Specials bundled with the iDOLM@STER Xenoglossia DVD releases. Runtime about 5 minutes each.",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-04-02",
+            "episode_count": 26,
+            "id": 45088,
+            "name": "Season 1",
+            "overview": "Much to her delight and surprise, Haruka was selected to become an \"idol.\" Little did she know what she was getting herself into; rather than singing and dancing, she actually is employed by a secret organization that protects the Earth from \"drops\" (falling fragments of the destroyed moon) using giant robots called \"iDOL,\" piloted by girls called \"iDOL Masters.\" As she meets new friends and tries to adjust to this new life, a hostile organization that also utilizes iDOL emerges and attacks her in an effort to capture her iDOL, Imber. Can Haruka accept her new responsibilities, get along with her new peers and Imber, and do her part to protect the world?",
+            "poster_path": "/ynKoCW54AjXnO43oDRTmavWEXPT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.7,
+    "vote_count": 7
+}

@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/7Uc8qM3St2ZJt86O9sPAU7CMurc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://comic-girls.com",
+    "id": 77698,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-21",
+    "last_episode_to_air": {
+        "air_date": "2018-06-21",
+        "episode_number": 12,
+        "id": 1507078,
+        "name": "Farewell, You Wonderful Manga Artists",
+        "overview": "Kaos gets her first guest spot! The first part did really well and was popular with readers, but the other girls at the dorm helped her draw it. She has to now draw the second part, but everyone has to leave the dorm so it can be remodeled, so she’s on her own. Kaos feels rather down, when she gets a visit from a rather unexpected visitor...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ioCbRweLf0Z5ZfiCQaGGjPdZpv2.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Comic Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "こみっくがーるず",
+    "overview": "Kaoruko Moeta is a 15-year-old high school student and 4-panel manga artist. After moving to a dorm especially for female manga artists, she meets shoujo manga artist Koyume, teen romance manga artist Ruki, and shounen manga artist Tsubasa. Every day, they'll work all through the night trying to ink and finish their work!",
+    "popularity": 9.699,
+    "poster_path": "/rXWhBK7NEH3Z6uLOqWyPw2RarYH.jpg",
+    "production_companies": [
+        {
+            "id": 104535,
+            "logo_path": "/aYbbEOunHzKXBFMwm14E7bINvbg.png",
+            "name": "Nexus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-05",
+            "episode_count": 12,
+            "id": 100349,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aMmCUOZHmhEZUGp1YxWOsUZVXxT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 15
+}

@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/ayMSUizyZ6s0JVGMaFbMda3xtGV.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/sengokumusou",
+    "id": 80474,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-03-30",
+    "last_episode_to_air": {
+        "air_date": "2015-03-30",
+        "episode_number": 12,
+        "id": 1512889,
+        "name": "The Mightiest Warrior in Japan",
+        "overview": "The Summer Siege of Osaka has begun. This would mark the start of the last, and biggest, battle for both the Toyotomi and Tokugawa clans and the Warring States Era. Staking all of his pride as a warrior on this war, Yukimura Sanada charges through the battlefield aiming for Ieyasu Tokugawa alone.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kydI5pSOaP4Sa8JCukFiSarh0w4.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Samurai Warriors",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "戦国無双",
+    "overview": "In late 16th century, the era of civil war that tore Japan over two centuries is nearing its end and the regional warlords who survived the bloodsheds are ready for a final showdown. In the battlefield where your best ally turns out to be your worst enemy, only the shrewdest can come out alive.",
+    "popularity": 3.737,
+    "poster_path": "/inFXGxSNAc4WhSVwyHnf4CdsxXF.jpg",
+    "production_companies": [
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71226,
+            "logo_path": null,
+            "name": "TYO Animations",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-01-12",
+            "episode_count": 12,
+            "id": 105656,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/CRbPmapR97EXdCxDafQQSvmAr9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/c3IhyxZ6lpwYHHQpxpja8r3zbtW.jpg",
+    "created_by": [
+        {
+            "id": 2073415,
+            "credit_id": "6036613a15959f004185fd2a",
+            "name": "Sayori",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2020-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://nekopara-anime.com/ja/",
+    "id": 95317,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-26",
+    "last_episode_to_air": {
+        "air_date": "2020-03-26",
+        "episode_number": 12,
+        "id": 2043525,
+        "name": "Summer Beach Cat Paradise!",
+        "overview": "The cats go shopping at a department store to buy new swimwear for an upcoming beach visit. After grabbing some equipment in addition, the whole family goes to spend time on the beach.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/b7wBrYuadAFDVJYOt9QUpicfhOF.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nekopara",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ネコぱら",
+    "overview": "Kashou Minaduki is an aspiring chef who moves away from home to open his own confection shop. While he is unpacking in his new shop, he discovers that two of his family's Nekos, Chocola and Vanilla, came along with him by hiding in cardboard boxes. After the two Nekos convince Kashou to let them stay and live with him, the three of them work together to run his shop, La Soleil. During the story, Kashou receives a couple of visits from his younger sister Shigure and the other four Nekos owned by their family.",
+    "popularity": 13.123,
+    "poster_path": "/42r41IMXpMhMtTKyJIJORf6L994.jpg",
+    "production_companies": [
+        {
+            "id": 106076,
+            "logo_path": "/5FHxgxvhqNC6aOVce3X9T2Wz426.png",
+            "name": "Felix Film",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-09",
+            "episode_count": 12,
+            "id": 135596,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1LpL23AL3ZYTvJWFg4v54t41Uwu.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 8
+}

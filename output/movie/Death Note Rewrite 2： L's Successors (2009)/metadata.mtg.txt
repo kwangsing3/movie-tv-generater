@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/an8OJ9L1TkNB5pLkzbyf0LNfoXz.jpg",
+    "belongs_to_collection": {
+        "id": 899333,
+        "name": "Death Note Rewrite - Collection",
+        "poster_path": "/pUCxVsSLC1BHUn74Co3WhJk2JuG.jpg",
+        "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10770,
+            "name": "TV Movie"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "http://www.ntv.co.jp/deathnote/",
+    "id": 68555,
+    "imdb_id": "tt3355698",
+    "original_language": "ja",
+    "original_title": "Death Note Rewrite 2: L's Successors",
+    "overview": "After the events of the first movie Yagami Light faces two new adversaries as he is trying to create a perfect world without crime or criminals. This movie continues the first tv special and is a summary of the last 12 episodes of the tv anime",
+    "popularity": 18.411,
+    "poster_path": "/qDhbGqjZ7yFwa7FMIzuiQTQMfEQ.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2009-10-07",
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Death Note Relight 2: L's Successors",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 100
+}

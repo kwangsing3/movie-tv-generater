@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/1hypiFc1uWGhx2TsU2D5fZ4Ev7Y.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2020-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://isyuzoku.com/",
+    "id": 96444,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-28",
+    "last_episode_to_air": {
+        "air_date": "2020-03-28",
+        "episode_number": 12,
+        "id": 2023312,
+        "name": "Farewell, beloved fans of our beloved Reviewers... Worry not; as long as succu-girls keep on working hard, so too will our Reviewers. When you think of our heroes, remember this: when you help others, you're only helping yourself (get your f*** on)...",
+        "overview": "The reviewers finally visit the demon brothel they were originally supposed to review during the election. They are given special treatment due to the nature of how demons abide to contracts. Meanwhile, Demia meets up with the demon lord Death Abyss, discussing what things are like in a world without magic.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1n6RDOG8QouZuB2TNPjmMhS1ih9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Interspecies Reviewers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "異種族レビュアーズ",
+    "overview": "In a world bursting at the seams with moe monsters and humanoids of the horned sort, which brave heroes will take it upon themselves to review the beastly babes of the red-light district? Can only one be crowned the ultimate title of best girl? Behold the most tantalizing of trials.",
+    "popularity": 32.384,
+    "poster_path": "/2R73KniOaH3rUm7DhteM2Xhw00c.jpg",
+    "production_companies": [
+        {
+            "id": 58035,
+            "logo_path": "/rtFGLtHkjVqq042Ky5gbOEnXFlN.png",
+            "name": "Passione",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-06-20",
+            "episode_count": 1,
+            "id": 171157,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/x7hyF9LJKKl2NApvoRBPEXoDUUE.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-01-11",
+            "episode_count": 12,
+            "id": 138085,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/y4t0d5YewYbhRj30xDMZinITlbM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 341
+}

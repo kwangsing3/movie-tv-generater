@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/gWTPVfcsnS9UMxBApu0tEN25sml.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/aoharu/",
+    "id": 63088,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-18",
+    "last_episode_to_air": {
+        "air_date": "2015-09-18",
+        "episode_number": 12,
+        "id": 1108045,
+        "name": "I Won't Yield!",
+        "overview": "On knowing the truth from Yukimura concerning the previous Toy Gun Gun members, Hotaru's resilience leads her to challenge Masamune to a duel, on the condition that she'd join the Team if she won even once against him.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mwmauufjVpMi2450vgtRxZK31Ad.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Aoharu x Machinegun",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "青春×機関銃",
+    "overview": "When Hotaru moves into a new apartment alone, there's a mysterious man standing nearby the apartment. Hotaru decides to confront the man, who turns out to live in the neighboring apartment. The next day at school, Hotaru's best friend Kanae tells Hotaru that a host tricked her out of her money. When Hotaru goes to confront the host, he happens to be none other than Hotaru's neighbor, Masamune?!",
+    "popularity": 12.002,
+    "poster_path": "/8PNOj3WJ91rgBnLTe7UeSsAYTjL.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-12-25",
+            "episode_count": 1,
+            "id": 129171,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/juTIbTMWwyE7H70ZDstSSzCSCnr.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-07-03",
+            "episode_count": 12,
+            "id": 68190,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hx43QSBXWu4cgMGwMW7ezVkmr72.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 18
+}

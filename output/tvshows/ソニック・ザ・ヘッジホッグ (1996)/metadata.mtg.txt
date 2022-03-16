@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/rhLiOwnEEwQ4IhfvdligarUMiS7.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1996-01-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 78422,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-01-26",
+    "last_episode_to_air": {
+        "air_date": "1996-01-26",
+        "episode_number": 2,
+        "id": 1462981,
+        "name": "Sonic vs. Metal Sonic!!",
+        "overview": "The second episode centers around the conflict between Sonic and Hyper Metal Sonic, Robotnik's greatest creation yet.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sonic the Hedgehog",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ソニック・ザ・ヘッジホッグ",
+    "overview": "Sonic's nemesis Dr. Robotnik has been banished from the Land of Darkness by an evil Metal Robotnik. And if that wasn't bad enough, the devious doctor tells Sonic that the Robot Generator has been sabotaged and will blow Planet Freedom to kingdom come. What should possibly make Sonic trust his worst enemy?",
+    "popularity": 5.774,
+    "poster_path": "/sRL9wlDtSwwtY4l0636IY0e6y5U.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1996-01-26",
+            "episode_count": 2,
+            "id": 101557,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/88E3AE6e29luK17DbwbUiSWwmv6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 3
+}

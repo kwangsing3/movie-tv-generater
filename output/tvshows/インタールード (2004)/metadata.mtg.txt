@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/qEvOxj5WO0uxhf9XV2D7RjyGNPN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        40
+    ],
+    "first_air_date": "2004-03-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/animeister/interlude/",
+    "id": 36287,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-08-27",
+    "last_episode_to_air": {
+        "air_date": "2004-08-27",
+        "episode_number": 3,
+        "id": 823872,
+        "name": "Volume 3",
+        "overview": "The unnamed main character has been having strange dreams, seeing strange things, and meeting strange people. He investigates these events and finds a strange girl named Aya. With her help, he discovers that his world may not in fact be real and many of the people he thinks he knows may not exist anymore.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bIXBZws2kjeKDUixfsCFG894Lmy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Interlude",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "インタールード",
+    "overview": "High school student, Naoya Aizawa is having a normal day with his long time friend, Tama. But on his way to school, every person in the train station suddenly disappears... except for one girl.",
+    "popularity": 2.87,
+    "poster_path": "/9h8kNoxgMMlfpDENmQAHaeOvNIp.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 822,
+            "logo_path": "/HF2fFP8MH9juSCoN2VtQCFQYPD.png",
+            "name": "Happinet Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-03-25",
+            "episode_count": 3,
+            "id": 47190,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hsU0vihbjxW5exZ1aqj5Ahna8KC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1
+}

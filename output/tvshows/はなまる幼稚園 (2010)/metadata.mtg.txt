@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/nbMCbhhnuyJQZrvjOtUQ1dXOG7y.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/hanamaru/",
+    "id": 42408,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-03-29",
+    "last_episode_to_air": {
+        "air_date": "2010-03-29",
+        "episode_number": 24,
+        "id": 2641524,
+        "name": "Hanamaru Feelings",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hanamaru Kindergarten",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はなまる幼稚園",
+    "overview": "Anzu, Hiiragi, and Koume are three girls who attend the lively  Hanamaru Kindergarten. There they have lots of adventures with their  classmates and with Naozomi Tsuchida, their teacher who has just started  working fresh out of school.",
+    "popularity": 16.151,
+    "poster_path": "/uARIsI3N6LcHE8SGxH8FkfrbCQZ.jpg",
+    "production_companies": [
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-05-26",
+            "episode_count": 11,
+            "id": 52154,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-01-11",
+            "episode_count": 24,
+            "id": 52155,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/d8ygROyllR2S6erFGuQ9EG5ofFY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2
+}

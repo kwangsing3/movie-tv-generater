@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/fhcsrddzasRdSMz5H7ci9EhDrMm.jpg",
+    "created_by": [
+        {
+            "id": 2382442,
+            "credit_id": "6185d0d50752880063cb9a95",
+            "name": "Hisasi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2015-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://bikini-warriors.com/anime/",
+    "id": 70716,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-23",
+    "last_episode_to_air": {
+        "air_date": "2015-09-23",
+        "episode_number": 12,
+        "id": 1386846,
+        "name": "No One Knows the End",
+        "overview": "After many battles, the party's journey has reached its end. As the climax approaches, the heroes are confronted by a flood of tropes and cliches. Of course, the sexy scenes are at their climax too!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fs4L9KcPpX9gdkm65IttCZ8GqOG.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Bikini Warriors",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ビキニ・ウォリアーズ",
+    "overview": "Prepare yourself for an adventure of epic proportions. With warriors so skilled at battling questionable slimes and taming tumescent tentacles, there's no need for all that bulky armor.",
+    "popularity": 24.405,
+    "poster_path": "/x1flMRqONUsqJFbNvDeMct5Xm7u.jpg",
+    "production_companies": [
+        {
+            "id": 109571,
+            "logo_path": "/oVUwZ8k1AhClFFjnooKF7lVI1Jl.png",
+            "name": "PRA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-12-09",
+            "episode_count": 18,
+            "id": 87419,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/cfmj9NMvG3Nn3Rq8R31hVEvQj51.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-07-08",
+            "episode_count": 12,
+            "id": 86181,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5qgRMHWjyQug4QK0LjL1hNETPSm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.2,
+    "vote_count": 27
+}

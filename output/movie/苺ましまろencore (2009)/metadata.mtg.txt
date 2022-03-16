@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/7VCI5yke57nyur3d8BBj9fJR9Oe.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": null,
+    "id": 483231,
+    "imdb_id": "tt1368096",
+    "original_language": "ja",
+    "original_title": "苺ましまろencore",
+    "overview": "Two-part second OVA for Strawberry Marshmallow, produced in 2009.",
+    "popularity": 0.712,
+    "poster_path": "/42uXMb9dbBP2Tic8G1DWqijPhxE.jpg",
+    "production_companies": [
+        {
+            "id": 88185,
+            "logo_path": "/7KGVmlLGv6hoon8UkqE7ls7z4op.png",
+            "name": "Daume",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2009-01-23",
+    "revenue": 0,
+    "runtime": 54,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Strawberry Marshmallow Encore",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 4
+}

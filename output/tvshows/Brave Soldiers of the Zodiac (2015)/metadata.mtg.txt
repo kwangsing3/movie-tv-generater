@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2015-05-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 62675,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2015-08-13",
+    "last_episode_to_air": {
+        "air_date": "2015-08-13",
+        "episode_number": 10,
+        "id": 1097675,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Brave Soldiers of the Zodiac",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "Brave Soldiers of the Zodiac",
+    "overview": "",
+    "popularity": 1.262,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2015-05-07",
+            "episode_count": 10,
+            "id": 66706,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5fvedJrIQDBcv5HHqeHS9r0R3AL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 4
+}

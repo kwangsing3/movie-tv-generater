@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/aJcyY1F1oUhsQiA7fuDDzTyIDzf.jpg",
+    "created_by": [
+        {
+            "id": 1257420,
+            "credit_id": "5f9b44cae942ee0038ad427a",
+            "name": "Tomoko Hayakawa",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2006-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/yamanade/",
+    "id": 899,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-03-27",
+    "last_episode_to_air": {
+        "air_date": "2007-03-27",
+        "episode_number": 25,
+        "id": 49188,
+        "name": "Road to Becoming a Lady",
+        "overview": "Mine comes and wreaks havoc, but luckily Sunako calms her down and teaches her how to be a good housewife. But when Sunako gets invited to her aunt's party, she has to try to brave the road to womanhood. In the end, Mine tells the boys to make Sunako a super lady.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Wallflower",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヤマトナデシコ七変化♥",
+    "overview": "The Wallflower is a manga series written by Tomoko Hayakawa. The individual chapters have been serialized in Bessatsu Friend since its premiere in 2000, and in 31 tankōbon volumes in Japan by Kodansha. The series was licensed for an English language release in North America by Del Rey Manga and in Singapore by Chuang Yi, under the name My Fair Lady.\n\nNippon Animation adapted part of the manga series into a twenty-five episode anime series which aired on TV Tokyo and TV Aichi from October 3, 2006 through March 27, 2007. The anime adaptation has been licensed for Region 1 release by A.D. Vision, who paid $500,000. In 2008, The WallFlower became one of over 30 ADV titles whose North American rights were transferred to Funimation Entertainment.",
+    "popularity": 10.146,
+    "poster_path": "/6f2RCIJdCfhhFVPQAhIwfq0rlcn.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-10-03",
+            "episode_count": 25,
+            "id": 2595,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6pfEXNFafjX97jR9rhx2DliTncD.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 18
+}

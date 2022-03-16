@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/9VF97vk4WPOAZ9s8nqK3PJYJgnN.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://adultswim.com/videos/uzumaki",
+    "id": 93241,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Uzumaki",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Adult Swim",
+            "id": 80,
+            "logo_path": "/2ezVEkNx1tvBLONzDcViyfovWBH.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 0,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "ja",
+    "original_name": "うずまき",
+    "overview": "A town of people slowly go insane over increasing obsessions with spiral shapes: patterns in the clouds, everyday objects, hair, insects, skin.",
+    "popularity": 3.358,
+    "poster_path": "/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+    "production_companies": [
+        {
+            "id": 6760,
+            "logo_path": "/qKLBuZa4Z4fKH8xHvCUsb5EIDx3.png",
+            "name": "Williams Street",
+            "origin_country": "US"
+        },
+        {
+            "id": 166624,
+            "logo_path": null,
+            "name": "Production I.G",
+            "origin_country": "US"
+        },
+        {
+            "id": 123199,
+            "logo_path": null,
+            "name": "Drive",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 131638,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": "/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "Spiral into horror.",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/k7tIew3PjWPaIStG2sNvj8ov2B9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2004-04-04",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.hanaukyo.com/",
+    "id": 27838,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-03-15",
+    "last_episode_to_air": {
+        "air_date": "2012-03-15",
+        "episode_number": 12,
+        "id": 1475849,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hanaukyou Maid Tai",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 27,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "花右京メイド隊",
+    "overview": "Hanaukyou Tarou, a high school student whose parents have died, is forced to move to Tokyo into his grandfather's residence. However he does not know that his grandfather is very rich and that he left the residence (with all the staff) to Tarou.\n\nThe staff is composed only of professional maids and there are many of them in the house! Unfortunately Tarou is allergic to women and changes colour whenever they touch him (and because they were used to their previous master's habits they touch Tarou a lot!). But there is one maid named Mariel whose touch has an opposite effect on Tarou.",
+    "popularity": 2.946,
+    "poster_path": "/qqa31IkcCzOp84caJS8lhxyqecA.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2004-04-04",
+            "episode_count": 15,
+            "id": 38963,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fwqljl5hvHgzkbUQzB62ltfX8HP.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2012-01-02",
+            "episode_count": 12,
+            "id": 38964,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/2cBWQSVltyHaGIpEBvs40F9Jh9P.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

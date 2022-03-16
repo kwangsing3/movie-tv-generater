@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/8zeYAbNrTL1jcP9rd3hVgjLGsX8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-07-08",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://planet-with.com/",
+    "id": 79288,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-23",
+    "last_episode_to_air": {
+        "air_date": "2018-09-23",
+        "episode_number": 12,
+        "id": 1516550,
+        "name": "Behold, The Universe is Filled With Blessings",
+        "overview": "The dragon has awoken on the moon, and is threatening to destroy Earth like it did Sirius. Nebula has a plan to seal him, but can the people of Earth put their hatred towards him aside after everything that happened?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6LumhM5evGlPxwfHFNTIdQnObnB.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Planet With",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プラネット・ウィズ",
+    "overview": "Sōya Kuroi has dreams of people with superpowers fighting a massive dragon in the sky, but his real life is almost as weird. He's had amnesia for about two weeks and been taken in by a maid and an anthropomorphic cat. When a UFO in the shape of a stuffed bear approaches Sorimasaka City and other metros around the world, he's startled to see seven rainbow-sparkling heroes zoom out to confront it – just like in his dream. Even weirder, the maid wants him to leave his shelter to confront these heroes and take the source of their power.",
+    "popularity": 6.556,
+    "poster_path": "/4mUQeekSRH0eCqmHXyw2OePbhpI.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-08",
+            "episode_count": 12,
+            "id": 103356,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1KJUcrXsDSuTeDuWwvWswNsMDhP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 5
+}

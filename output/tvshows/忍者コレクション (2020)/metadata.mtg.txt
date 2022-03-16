@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/tvFJjApIUxUl9EvCFV6gEnGsE14.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2020-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/nin_colle/",
+    "id": 105045,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-10-25",
+    "last_episode_to_air": {
+        "air_date": "2020-10-25",
+        "episode_number": 13,
+        "id": 2348952,
+        "name": "Cat's Cradle",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sufJsaJOxcKMJTp80f35SP1s9KA.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ninja Collection",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "忍者コレクション",
+    "overview": "Yamishibai: Japanese Ghost Stories spin-off. The story will center on the Tōkeshū ninja group in Tokyo, the city where dreams and desires swirl like eddies in a river. With ancient techniques passed down through generations, the ninja are intent on wiping out the \"darkness\" enveloping people in the current Reiwa era.",
+    "popularity": 2.196,
+    "poster_path": "/6J5dDvCdWwFgGrjUpl8ZD9g9rPO.jpg",
+    "production_companies": [
+        {
+            "id": 70498,
+            "logo_path": null,
+            "name": "ILCA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 136097,
+            "logo_path": null,
+            "name": "DRAWIZ",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-07-12",
+            "episode_count": 13,
+            "id": 154067,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6J5dDvCdWwFgGrjUpl8ZD9g9rPO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 3
+}

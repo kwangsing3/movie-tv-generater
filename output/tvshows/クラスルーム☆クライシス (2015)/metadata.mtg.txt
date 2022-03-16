@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/irTjTz2LOsK64yeo8nQasS6aTKK.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2015-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.classroom-crisis.com/",
+    "id": 63499,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-26",
+    "last_episode_to_air": {
+        "air_date": "2015-09-26",
+        "episode_number": 13,
+        "id": 1108896,
+        "name": "The Greatest Presentation in History",
+        "overview": "Nagisa is on course to collide with a satellite! Iris is the only pilot who can save him, but she has to overcome her own fears first!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/f4pCRzGJHNX8vB6LgEe6YI1S3WP.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Classroom Crisis",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クラスルーム☆クライシス",
+    "overview": "Humanity has successfully colonized all the planets in the Solar System, with intentions to continue into new frontiers. Individuals live stable lives in these colonies, including young high school students living in 4th Tokyo on Mars. Two of these students are Iris Shirazaki and Mizuki Sera. Iris is finishing her last year of high school while studying to be a test pilot while her friend Mizuki also works as a mechanic on the aircraft. Her own brother, Kaito, oversees Mizuki and Iris as their homeroom teacher and program director.",
+    "popularity": 7.192,
+    "poster_path": "/12vvTklZaXHSvfyuQMoi8HuHbh4.jpg",
+    "production_companies": [
+        {
+            "id": 59988,
+            "logo_path": null,
+            "name": "Lay-duce",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-07-04",
+            "episode_count": 13,
+            "id": 69228,
+            "name": "Season 1",
+            "overview": "Humanity has successfully colonized all the planets in the Solar System, with intentions to continue into new frontiers. Individuals live stable lives in these colonies, including young high school students living in 4th Tokyo on Mars. Two of these students are Iris Shirazaki and Mizuki Sera. Iris is finishing her last year of high school while studying to be a test pilot while her friend Mizuki also works as a mechanic on the aircraft. Her own brother, Kaito, oversees Mizuki and Iris as their homeroom teacher and program director.",
+            "poster_path": "/mzjSfZ3HhOmqgR4MsDtIsdhCO87.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 20
+}

@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/kIWSdSCwlABkG6kAYwk07AC8UHH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://gf-anime.com/",
+    "id": 117310,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-12",
+    "last_episode_to_air": {
+        "air_date": "2022-03-12",
+        "episode_number": 10,
+        "id": 3416275,
+        "name": "THE KINDLING 03",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/pxd1a6gWrWHseP1gTg4K6UXlux3.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Girls' Frontline",
+    "next_episode_to_air": {
+        "air_date": "2022-03-19",
+        "episode_number": 11,
+        "id": 3416276,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドールズフロントライン",
+    "overview": "In the fallout of nuclear war, the last of humanity survives with the help of life-like androids known as Dolls. Built to serve, some fight in wars as Tactical Dolls or T-Dolls. Now, an elite team comprised of T-Dolls are sent to face a new rogue threat, Sangvis Ferri. Leading them into battle is their new human commander, M4A1.",
+    "popularity": 85.697,
+    "poster_path": "/ip5Zx3RWxzNuRUDYpPwPrjsPOo.jpg",
+    "production_companies": [
+        {
+            "id": 14969,
+            "logo_path": "/jwTtvhoCesywogszy79x84Y8Ihh.png",
+            "name": "Asahi Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3627,
+            "logo_path": "/i1eW4O13B28b4JHpIL5C9rRiiur.png",
+            "name": "Warner Bros. Japan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 166448,
+            "logo_path": null,
+            "name": "SUNBORN Network Technology",
+            "origin_country": "CN"
+        },
+        {
+            "id": 166449,
+            "logo_path": null,
+            "name": "MICA Team",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-08",
+            "episode_count": 12,
+            "id": 177933,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hx68Bo5w6EGSlNP1mUuZJRufShj.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 3
+}

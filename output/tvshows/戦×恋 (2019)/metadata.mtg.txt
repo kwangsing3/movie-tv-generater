@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/uSk2b8w7YJCvLKKlRuYB0gvWjv7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://val-love.com/",
+    "id": 91027,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-21",
+    "last_episode_to_air": {
+        "air_date": "2019-12-21",
+        "episode_number": 12,
+        "id": 1947234,
+        "name": "The Loving Maiden!",
+        "overview": "Nine Valkyries descended from the heavens to fight akuma. But victory often comes at a price. There may only be eight Valkyries remaining when the dust settles...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rcDuvmydbpk0CTMVuT5Wa4faE8m.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Val x Love",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "戦×恋",
+    "overview": "High schooler Takuma Akutsu has learned to accept his lonely lot in life and is content surrounded by his studies, but when the god Odin taps him to save the world alongside nine Valkyries fueled by intimacy, Takuma can say good-bye to his solitary existence.",
+    "popularity": 15.926,
+    "poster_path": "/6TIEhcHYK8fLmgDKxrLE6tieEQQ.jpg",
+    "production_companies": [
+        {
+            "id": 25697,
+            "logo_path": "/u0AlLAjKiCI42ZeRUIuI8ARuosr.png",
+            "name": "Hoods Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157002,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "name": "Tokyo MX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-05",
+            "episode_count": 12,
+            "id": 127535,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/c9nzAcq71g7S16xaLwQgfzv5V8C.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 9
+}

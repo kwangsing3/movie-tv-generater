@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/hhOFnIBUUVlX8W3VchikMf6wuq8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 77437,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-31",
+    "last_episode_to_air": {
+        "air_date": "2014-03-31",
+        "episode_number": 13,
+        "id": 1500322,
+        "name": "The Sky Where You Are",
+        "overview": "After arbitrating with the Sky Clan and finding the \"End of the Sky,\" Isla finishes her role and the inhabitants return to the Republic of Ballesteros. In front of the people who filled the venue for the triumphal ceremony,  Karuel reveals that he is the first prince of the former Ballesteros Empire, Karl La Hire, and expresses his feelings.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1ej4jsNtMeLYXB06f55LEzeptg7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Pilot's Love Song",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "とある飛空士への恋歌",
+    "overview": "In order to uncover the \"end of the sky,\" as spoken of in ancient mythology, Kal-el Albus is sent to Isla, an island in the sky. There he attends Cadoques High's Aerial Division, where he enjoys a carefree life with his schoolmates. That is...until a surprise attack by the air tribe drags Isla into a bloody war.",
+    "popularity": 8.072,
+    "poster_path": "/9ctuZnRRYtzjjY6RL5yLrfQKigB.jpg",
+    "production_companies": [
+        {
+            "id": 153512,
+            "logo_path": null,
+            "name": "3×Cube",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-01-11",
+            "episode_count": 1,
+            "id": 212281,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/xbokZXMmae74jTwvsJxYGYihNRd.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-01-06",
+            "episode_count": 13,
+            "id": 99903,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sCWw3xEAE0ax0CN8jX92N5FNPEf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 3
+}

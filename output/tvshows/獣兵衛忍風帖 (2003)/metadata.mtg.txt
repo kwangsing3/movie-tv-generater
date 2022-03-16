@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/lHeRlIxZWaFofm7DoZed5e8NhP6.jpg",
+    "created_by": [
+        {
+            "id": 104688,
+            "credit_id": "5aa260d7c3a36829a8009890",
+            "name": "Tatsuo Sato",
+            "gender": 2,
+            "profile_path": "/c7s7DfZ8TGfEtRoYlP1CVcWdLd.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2003-04-14",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 27117,
+    "in_production": false,
+    "languages": [
+        "de",
+        "ja"
+    ],
+    "last_air_date": "2003-07-14",
+    "last_episode_to_air": {
+        "air_date": "2003-07-14",
+        "episode_number": 13,
+        "id": 680438,
+        "name": "Farewell Jubei",
+        "overview": "The memories of the Light Maiden are awakening inside Shigure's head. But her recovery comes too lateâ€”Jubei has fallen in battle, and this leaves only Shigure to unlock the powers of the Light Maiden that will decide the fate of them all. She must face a finale without Jubei and witness one final fight that will decide who comes out alive.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/43qXXQSSjXNeSVgPpdBCMLX1SdJ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ninja Scroll: The Series",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "獣兵衛忍風帖",
+    "overview": "Fourteen years after defeating the immortal warrior Himuro Genma and thwarting the Shogun of the Dark's evil plans, Kibagami Jubei continues to roam all over Japan as a masterless swordsman. During his journey, he meets Shigure, a priestess who has never seen the world outside her village. But when a group of demons destroys the village and kills everyone, Jubei becomes a prime target after acquiring the Dragon Jewel — a stone with an unknown origin. Meanwhile, Shigure — along with the monk Dakuan and a young thief named Tsubute — travels to the village of Yagyu. And with two demon clans now hunting down Shigure, Dakuan must once again acquire the services of Jubei to protect the Priestess of Light.",
+    "popularity": 19.326,
+    "poster_path": "/oVAJUtasoSKLFTwEsd51TXo75tK.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-04-14",
+            "episode_count": 13,
+            "id": 37906,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fFOkl8cRst2OADGzxKYfmU9iGwY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 7
+}

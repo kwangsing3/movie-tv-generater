@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/cT0o6RFi36TkMFG1wWyTyGb2jrR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2021-02-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://high-rise-invasion.com/",
+    "id": 112163,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-02-25",
+    "last_episode_to_air": {
+        "air_date": "2021-02-25",
+        "episode_number": 12,
+        "id": 2755441,
+        "name": "This is a High-Rise Invasion",
+        "overview": "Archangel destroys everything in his path in the name of justice. Mayuko and the others stand in his way, but who will die, and who will prevail?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qmisH8j8lebDJh9Xh7AwizjYZbq.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "High-Rise Invasion",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "天空侵犯",
+    "overview": "High-school girl Yuri suddenly finds herself on the rooftop of a high-rise building. She's trapped in a bizarre world surrounded by skyscrapers, where a masked man cracked open a man's head with an axe before her eyes. Finding a way to survive this bizarre world, find her beloved brother, and escape becomes her top priority, but she is beset by danger not just from the mysterious Masks, which possess both inhuman strength and cruelty, but other survivors turned cruel or desparate by the insanity of the high-rise world.",
+    "popularity": 51.351,
+    "poster_path": "/5uXaWe0LXTpBQVBBXL1ynae1DED.jpg",
+    "production_companies": [
+        {
+            "id": 109854,
+            "logo_path": null,
+            "name": "Zero-G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-02-25",
+            "episode_count": 12,
+            "id": 166870,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7VJGXWLpgQrUwdmF7r111Sa7bHw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 586
+}

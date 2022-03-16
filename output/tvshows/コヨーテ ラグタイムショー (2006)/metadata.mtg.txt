@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/gpDPIo1NNemZqLZaVTzsmUWv61K.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2006-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 16465,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-19",
+    "last_episode_to_air": {
+        "air_date": "2006-09-19",
+        "episode_number": 12,
+        "id": 548697,
+        "name": "Coyote",
+        "overview": "The cavalry arrives just in time to cause a cave-in on the Sisters while Marciano and Mister fight to the death. Marciano reveals that she is a cyborg and used to be a Coyote, but felt betrayed by Mister and Bruce. Angelica blackmails the President for the code to deactivate the bomb, and sends the code to Mister, who saves the planet with seconds to go. Marciano is killed in a one-round ship battle with Mister.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Coyote Ragtime Show",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "コヨーテ ラグタイムショー",
+    "overview": "Mister is a \"coyote\" or space faring outlaw who has been sitting in prison for a year on a traffic offense. Ten days from release, he breaks out with the help of his partners Bishop and Katana. He then seeks out Franka who has been left in his care by her dead father and takes her on a journey to find her father's treasure. On their heels are the federal investigators Angelica and Chelsea as well as the android assassins of the Criminal Guild, Madame Marciano's Twelve Sisters.",
+    "popularity": 6.079,
+    "poster_path": "/alIdzqOxXyodz61R554mKU3noYt.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-07-04",
+            "episode_count": 12,
+            "id": 27725,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ywL5zq9aaLUCuHlEXe5sYitnhPG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/tPJEjEqZJfa2jYhy0SqRYM1oaQU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://sugushinu-anime.jp",
+    "id": 112624,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-20",
+    "last_episode_to_air": {
+        "air_date": "2021-12-20",
+        "episode_number": 12,
+        "id": 3249483,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7PfJ9Qm79zRWVFVxybfir1rCnSv.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Vampire Dies in No Time",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "吸血鬼すぐ死ぬ",
+    "overview": "In Shin-Yokohama, humans engage in a long, drawn out battle against vampires. Amongst them, the last \"true vampire\" stands...\n\nWill he be a bringer of peace, or destruction?",
+    "popularity": 28.111,
+    "poster_path": "/xqeUproSIu5XDBrEocm9TE76Kdb.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 162061,
+            "logo_path": "/4ifyuGx8hoCQHABtT0FXivqLLEd.png",
+            "name": "APDREAM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-04",
+            "episode_count": 12,
+            "id": 167724,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4RHvDoMU3DSkxt13I3wLGql3DE8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

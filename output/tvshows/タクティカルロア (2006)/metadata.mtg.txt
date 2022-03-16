@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/pW9DblcQRZhJPt7YXUs2f4lFey6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tactical-roar.com/",
+    "id": 21260,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-04-01",
+    "last_episode_to_air": {
+        "air_date": "2006-04-01",
+        "episode_number": 13,
+        "id": 594060,
+        "name": "Outward Bound",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tactical Roar",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "タクティカルロア",
+    "overview": "Tactical Roar is a Japanese anime television series set in a not-too-distant future. The series is around all-female crew of the commercial Warship, the Pascal Magi. The series is mix of serious combat, political intrigue, light romance, and comedy. A classic story of the underdogs trying prove their worth amidst superior enemies, and doubtful arrogant allies. The series produced with mix of traditional and Computer Generated animation.",
+    "popularity": 2.891,
+    "poster_path": "/iiHhINUID2rcHSrO81wl67hssPs.jpg",
+    "production_companies": [
+        {
+            "id": 95861,
+            "logo_path": "/zgASi8usQpL3nsYjGOywho0VSmM.png",
+            "name": "Studio A-CAT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-01-07",
+            "episode_count": 13,
+            "id": 31138,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yGetV6enDYU8wGCIfYBSQ4FN81Z.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

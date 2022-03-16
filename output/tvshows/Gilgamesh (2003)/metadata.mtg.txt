@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/5NBxCq1fzAeM3Bv55vnM9N53Ysf.jpg",
+    "created_by": [
+        {
+            "id": 116065,
+            "credit_id": "5596a8af925141093e001d04",
+            "name": "Masahiko Murata",
+            "gender": 2,
+            "profile_path": "/6v7riYc5EeRVWdtmwBHJdST6F3z.jpg"
+        },
+        {
+            "id": 553254,
+            "credit_id": "52587ec5760ee34661367ee6",
+            "name": "Shōtarō Ishinomori",
+            "gender": 2,
+            "profile_path": "/6GGRm4pvMOqSWfqhv06WJJhn6s4.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-10-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 26107,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2004-03-25",
+    "last_episode_to_air": {
+        "air_date": "2004-03-25",
+        "episode_number": 26,
+        "id": 665459,
+        "name": "Gil Games Night",
+        "overview": "Final Showdown of the Gilgamesh.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gilgamesh",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Gilgamesh",
+    "overview": "Set in a future where the sky has been changed into a giant mirror, two teenage children are caught in a struggle between a group of super-powered beings and a mysterious woman's team of children aiming to stop them.",
+    "popularity": 7.563,
+    "poster_path": "/ub3XhOLioxmxcCRwCf35SGdOlg9.jpg",
+    "production_companies": [
+        {
+            "id": 7549,
+            "logo_path": "/bXc1vp0lER6PDHtsVe12pSPwNkv.png",
+            "name": "Kansai Television",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3465,
+            "logo_path": "/x8my1WrmOQa8P68XrZPixPBnSkm.png",
+            "name": "ADV Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 94003,
+            "logo_path": null,
+            "name": "Japan Vistec Inc.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-10-02",
+            "episode_count": 26,
+            "id": 36565,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vlB5PgtlfZP2HbthRZ7YYlIcjk5.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 5
+}

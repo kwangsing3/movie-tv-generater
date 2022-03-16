@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/uxmxWA4mmxeAWG8NNiUpGC7W462.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://nagatorosan.jp",
+    "id": 105556,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-27",
+    "last_episode_to_air": {
+        "air_date": "2021-06-27",
+        "episode_number": 12,
+        "id": 2847112,
+        "name": "Has Spring Come Even for You, the Unpopular Loner Louse Senpai? / Did You Hear Her Talk About Love, Senpai?",
+        "overview": "Senpai isn’t sure he can beat the art club president in popularity at the culture festival. Nagatoro and the gang do everything they can to help him.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lJYv3eVHRJ8zBH8BGg5J2z6DdrQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Don't Toy With Me, Miss Nagatoro",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Anistream",
+            "id": 5314,
+            "logo_path": null,
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "イジらないで、長瀞さん",
+    "overview": "\"A girl in a lower grade just made me cry!\" One day, Senpai visits the library after school and becomes the target of a super sadistic junior! The name of the girl who teases, torments, and tantalizes Senpai is \"Nagatoro!\" She's annoying yet adorable. It's painful, but you still want to be by her side. This is a story about an extremely sadistic and temperamental girl and you'll feel something awaken inside of you.",
+    "popularity": 82.275,
+    "poster_path": "/dHSRVAi83iapl4yazkPiyv3atQZ.jpg",
+    "production_companies": [
+        {
+            "id": 20868,
+            "logo_path": null,
+            "name": "Telecom Animation Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 23399,
+            "logo_path": "/tXMheRYcKXCK1a90NRESqO1ibhQ.png",
+            "name": "King Records",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-11",
+            "episode_count": 12,
+            "id": 155270,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ocznQZAqhG7EYTbAQgyIKAyXQRi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 526
+}

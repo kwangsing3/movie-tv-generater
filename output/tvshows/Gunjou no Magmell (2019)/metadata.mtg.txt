@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/2EeLYH2nKNMmlf3NBcxLVUDhRTu.jpg",
+    "created_by": [
+        {
+            "id": 2283851,
+            "credit_id": "5dee84180257640018551d0f",
+            "name": "Dainenbyō",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://gunjyo-magumeru.com/",
+    "id": 85841,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-07-01",
+    "last_episode_to_air": {
+        "air_date": "2019-07-01",
+        "episode_number": 13,
+        "id": 1835999,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/asqse8TH3jSO9yWqgj2vPiIZm2G.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ultramarine Magmell",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Gunjou no Magmell",
+    "overview": "One day in the middle of the pacific ocean a miracle occurred, a new continent appeared out of nowhere! The new continent was the home for new and mysterious plants, creatures and minerals!\n\nHumanity is excited as the age of exploration has returned.",
+    "popularity": 18.927,
+    "poster_path": "/tgqna6q27frmiwYFwJ5f1VRTqsE.jpg",
+    "production_companies": [
+        {
+            "id": 74476,
+            "logo_path": null,
+            "name": "Pierrot Plus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-04-07",
+            "episode_count": 13,
+            "id": 116659,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/n0p9fWS9vPI4Qwa1gMgV2RVg8AE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 41
+}

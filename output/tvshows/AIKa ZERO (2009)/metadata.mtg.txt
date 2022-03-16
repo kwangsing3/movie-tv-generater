@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/nZAaaJRmjkmKvt0W1xY4IpLVNob.jpg",
+    "created_by": [
+        {
+            "id": 1450953,
+            "credit_id": "5ab7a60b0e0a261fdf01dbc2",
+            "name": "Noriyasu Yamauchi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-03-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.aika-zero.com/",
+    "id": 43631,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-12-29",
+    "last_episode_to_air": {
+        "air_date": "2009-12-29",
+        "episode_number": 3,
+        "id": 888795,
+        "name": "Zero",
+        "overview": "E.T.A.I. holds Aika captive and attempts to probe her, but the tendrils are broken by Aika's inherent power. E.T.A.I. and Miyu go to the spaceship where E.T.A.I. reveals that Aika has alien powers like her. After Aika defeats Rin and Kana, she reunites with Karen and Risako and they find the captured girls. Aika defeats Miyu and E.T.A.I. and then goes after the spaceship where, with the help of the military, they shoot it down. Aika returns safely. During the closing credits, Miyu and E.T.A.I. are taken in by the Hagens",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "AIKa ZERO",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "AIKa ZERO",
+    "overview": "In the future — in a world mostly submerged under water — the 19-year-old Sumeragi Aika goes to college while training as an agent by assisting in Aida Gozo's salvaging business.",
+    "popularity": 14.49,
+    "poster_path": "/A3qcPu7uN5m3pwxsMiDzBxBY5Wn.jpg",
+    "production_companies": [
+        {
+            "id": 13023,
+            "logo_path": null,
+            "name": "Studio Fantasia",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-08-25",
+            "episode_count": 3,
+            "id": 52933,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-03-01",
+            "episode_count": 3,
+            "id": 52934,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9dSTyjSvqz5c5URO0bsnoxE88kQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.7,
+    "vote_count": 149
+}

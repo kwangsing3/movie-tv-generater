@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/yn6i6SGJu3wABJn157E7jmGZp7X.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "5807161cc3a3684f1a010cb6",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1982-02-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        },
+        {
+            "id": 37,
+            "name": "Western"
+        }
+    ],
+    "homepage": "http://www.sunrise-inc.co.jp/work/detail.php?cid=98",
+    "id": 19524,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-01-29",
+    "last_episode_to_air": {
+        "air_date": "1983-01-29",
+        "episode_number": 50,
+        "id": 1858724,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Xabungle",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "戦闘メカ ザブングル",
+    "overview": "Combat Mecha Xabungle, infrequently called Blue Gale Xabungle, is a mecha anime television series by Sunrise, and directed by Yoshiyuki Tomino. It was broadcast on the Nagoya TV and TV Asahi networks at 5:30 PM each Saturday from February 6, 1982 through January 29, 1983. Promotional toys were produced by Clover. It also had a compilation movie called Xabungle Graffiti, which added a few minutes and a whole-new ending to the series.",
+    "popularity": 3.717,
+    "poster_path": "/i4uYYjwQVGeHCCfxudpcev0cnxL.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1982-02-06",
+            "episode_count": 50,
+            "id": 81238,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

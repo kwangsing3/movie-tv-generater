@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/qmFRcI8Qyy6zCUGynSdGh3Rl2ha.jpg",
+    "created_by": [
+        {
+            "id": 1538381,
+            "credit_id": "564e173bc3a3680719000269",
+            "name": "Ushiki Yoshitaka",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://yumekuimerry.com/",
+    "id": 38671,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-04-08",
+    "last_episode_to_air": {
+        "air_date": "2011-04-08",
+        "episode_number": 13,
+        "id": 861891,
+        "name": "Dream Again",
+        "overview": "As Yumeji's attack against Mystletainn fails, Lestion sacrifices himself in order to provide Chizuru with a bullet to shoot Mystletainn, shattering her own soul in the process. However, Mystletainn survives the attack and catches Merry in a Bud of Despair, causing her to face her own despair. Yumeji, however, decides not to give and uses the power of his dreams to replicate John's weapon. As Yumeji takes on Mystletainn's attacks, Yui manages to free Merry, who becomes invigorated by Yumeji's belief in her, restoring Engi's dream world and healing her injuries. As Merry and Engi launch an attack on her, Mystletainn swallows Parade, meaning killing her would mean destroying Isana's dreams. However, after encouragement from Yumeji, Merry manages to send Parade back to the dream world and defeat Mystletainn, returning everyone to the real world, with Isana perfectly fine.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5aaH2YMabri5enBIXUmuxVQZuhd.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dream Eater Merry",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "夢喰いメリー",
+    "overview": "Yumeji has the ability to see the dreams of other people around him. When Yumeji meets Nightmare Merry, a dream demon seeking to return to her own world he uses his power to assist her.",
+    "popularity": 11.653,
+    "poster_path": "/eZmRlmzzIjLqkAQeZF3aybsJWC5.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-01-06",
+            "episode_count": 13,
+            "id": 50251,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kGcLIAIWWHHK5E6Hot4H1w8MSwD.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 44
+}

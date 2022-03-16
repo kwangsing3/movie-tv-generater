@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10402,
+            "name": "Music"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 411950,
+    "imdb_id": "tt0160501",
+    "original_language": "ja",
+    "original_title": "マクロスダイナマイト7",
+    "overview": "Less than a year after the war between the Macross 7 Fleet and the Protodeviln, Basara leaves Fire Bomber and travels to the planet Zola. There, he meets a girl named Elma, who is a big fan of Fire Bomber. It is also on this planet where he must once again use his Spiritia powers; this time, to stop an army of poachers and Elma's father Graham from killing a group of space whales travelling within the planetary system.",
+    "popularity": 0.765,
+    "poster_path": "/mkFPAHJZDd3TDuoTa9jz5mPfcRW.jpg",
+    "production_companies": [
+        {
+            "id": 50437,
+            "logo_path": null,
+            "name": "Ashi Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2869,
+            "logo_path": null,
+            "name": "Big West",
+            "origin_country": ""
+        },
+        {
+            "id": 12655,
+            "logo_path": "/7Rt8txBx60jJ0jjtOibGWmP22vo.png",
+            "name": "Shogakukan-Shueisha Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3529,
+            "logo_path": null,
+            "name": "Studio Nue",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1997-12-18",
+    "revenue": 0,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Macross Dynamite Seven",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 2
+}

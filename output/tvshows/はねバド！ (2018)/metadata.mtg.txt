@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/lOc4JwIREZ3KGUx5qoMabo0M7Pe.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-07-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://hanebad.com/",
+    "id": 80537,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-30",
+    "last_episode_to_air": {
+        "air_date": "2018-09-30",
+        "episode_number": 13,
+        "id": 1581989,
+        "name": "On the Other Side of That Net",
+        "overview": "It’s the final game of the white-hot match between Ayano and Nagisa. Ayano continues to search for purpose, while Nagisa fights her with everything she has.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lZg7TyT0yf0wELCCPOJlHDMDI9O.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "HANEBADO!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はねバド！",
+    "overview": "Ayano Hanesaki, a first-year student at Kanagawa Prefectural Kitakomachi High School, has a badminton ability able to surpass others effortlessly yet avoids playing the sport. She meets Nagisa Aragaki, a third-year student who practices day and night aiming to become the best player in Japan. Encouraged by coach Tachibana Kentarou, supported by club colleagues, and fired up by various rivals, the two engage in their youth and adored sport so thrilling like a shuttle flown at high speed!",
+    "popularity": 7.887,
+    "poster_path": "/hDXmdpd2kwhqk4TLCaEowx3Y2lX.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-01",
+            "episode_count": 13,
+            "id": 105766,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hDXmdpd2kwhqk4TLCaEowx3Y2lX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 26
+}

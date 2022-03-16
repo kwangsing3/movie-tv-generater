@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81176967",
+    "id": 839098,
+    "imdb_id": "tt14837962",
+    "original_language": "ja",
+    "original_title": "Make My Day",
+    "overview": "On a cold planet of ice and snow, mysterious creatures suddenly have appeared from the dark underground and have begun to attack the inhabitants. Can humanity survive the terror lurking beyond the horizon?",
+    "popularity": 0.84,
+    "poster_path": "/osM96RLTjocXIC6QR5ZS8qRio9W.jpg",
+    "production_companies": [
+        {
+            "id": 155682,
+            "logo_path": "/ozdIrYEongrpn1BStFseOONmFPU.png",
+            "name": "Studio 5",
+            "origin_country": "TW"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Make My Day",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

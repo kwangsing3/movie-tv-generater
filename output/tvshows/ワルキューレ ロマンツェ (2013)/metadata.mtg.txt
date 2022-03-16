@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/qfnBC7unwCD31aFHqPaZfYlhQZV.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2013-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://walroma.com",
+    "id": 60868,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-12-23",
+    "last_episode_to_air": {
+        "air_date": "2013-12-23",
+        "episode_number": 12,
+        "id": 986284,
+        "name": "When Summer Ends",
+        "overview": "Noel and Celia face off as Takahiro watches. Noel's feelings toward the younger sister she fought so hard for bring about a miracle, and as Takahiro looks on, he once again realizes the path he must take.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/eLnssHSlGGAjnbxs2Yyv1YzZDcI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Walkure Romanze",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ワルキューレ ロマンツェ",
+    "overview": "Horses dashing gallantly... Knights challenging their own limits... Magnificent, heroic battles highlight the horseback lance sport of jousting. One of the many people fascinated by this proud sport, Takahiro Mizuno, acts as a begleiter (an assistant) to jousting knights as he lives his rather tedious life at Winford Academy.",
+    "popularity": 17.758,
+    "poster_path": "/h2fO0URwTxk5x0gHjTlyrKvtWi3.jpg",
+    "production_companies": [
+        {
+            "id": 30294,
+            "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+            "name": "8bit",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-10-07",
+            "episode_count": 12,
+            "id": 60946,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ozauwrh05SBjwGxBu49TmOO6xeZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 5
+}

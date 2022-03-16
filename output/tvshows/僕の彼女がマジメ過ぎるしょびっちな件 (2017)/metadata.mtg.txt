@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/kWfVitXQRM7J5D74y122kXe5YSB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-10-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://majimesugiru-anime.jp/",
+    "id": 74083,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-14",
+    "last_episode_to_air": {
+        "air_date": "2017-12-14",
+        "episode_number": 10,
+        "id": 1402471,
+        "name": "I can't... take it... any longer!",
+        "overview": "As everyone begins to prepare for exams, Shinozaki reflects on his relationship with Akiho. Will the two be able to convey their honest feelings to one another?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5s6arwo2CdPtkG9lJKJTJGLhp4B.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "My Girlfriend Is Shobitch",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "僕の彼女がマジメ過ぎるしょびっちな件",
+    "overview": "Haruka Shinozaki has been interested in the class representative, Akiho Kousaka, since his first year in high school. She is attractive, good at sports, and is an all-around model student. Since they are in the same class this year, Shinozaki decides to confess his feelings—and, to his shock, Kousaka agrees to be his girlfriend!\n\nHowever, he finds that Kousaka is a bit stranger than he first thought: this seemingly perfect girl has never been in a relationship. But even though she is inexperienced, she vows to please Shinozaki in every way she can... such as learning multiple sex positions or his fetishes. Shinozaki tries to assure her that her studies into such subjects aren't necessary, but Kousaka devotes herself to making him happy in more ways than one.",
+    "popularity": 43.424,
+    "poster_path": "/sKWiTWt01UX4ioJkU2mOvsF3TPf.jpg",
+    "production_companies": [
+        {
+            "id": 13066,
+            "logo_path": "/2fgqTGBeaKaGer4vDUXmYaUIR5o.png",
+            "name": "Nippon Columbia",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-03-26",
+            "episode_count": 2,
+            "id": 105758,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/a4qrDSPSKHBrmduH8WSBfR7piE5.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-10-12",
+            "episode_count": 10,
+            "id": 93121,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qImFM0hPGvXD7Ko4PHW3Y6KvG6j.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 150
+}

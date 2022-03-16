@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/s996SeOWQeypbNJcdiZfKj9BR6d.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1997-04-25",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.aika-sumeragi.jp/",
+    "id": 43249,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-04-25",
+    "last_episode_to_air": {
+        "air_date": "1999-04-25",
+        "episode_number": 7,
+        "id": 887099,
+        "name": "Trial 7: Break the Decisive Battle! Delmo Base!",
+        "overview": "During her overtime at the office, Aika is suddenly attacked by an agent of Delmo which manages to escape afterwards. Little time after, the building in which Aika is in explodes. Rion and her friends attend a funeral for their friend. With the assistance of Maypia and Gusto, Rion decides to infiltrate the enemy base to avenge the death of Aika.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6XZP8TjtWg4meQipsVguUvwSSmU.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "AIKa",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "AIKa",
+    "overview": "Aika Sumeragi works as a salvager for hire, but gets caught up in a plot for world domination.",
+    "popularity": 20.087,
+    "poster_path": "/tGTBxjGSlJKXtS4b3LpufJIHytx.jpg",
+    "production_companies": [
+        {
+            "id": 13023,
+            "logo_path": null,
+            "name": "Studio Fantasia",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1998-05-25",
+            "episode_count": 2,
+            "id": 52729,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1997-04-25",
+            "episode_count": 7,
+            "id": 52730,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cRpcc9yhAilSKNnAkLr4gy3RuwU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8.1,
+    "vote_count": 137
+}

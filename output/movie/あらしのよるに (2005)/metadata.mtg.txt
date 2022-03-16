@@ -1,0 +1,51 @@
+{
+    "adult": false,
+    "backdrop_path": "/ozsIkUueKtXXm6ZqqcPtjrVPjG8.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "https://www.toho.co.jp/movie/lineup/stormynight/welcome-j.html",
+    "id": 19961,
+    "imdb_id": "tt0498465",
+    "original_language": "ja",
+    "original_title": "あらしのよるに",
+    "overview": "A goat named Mei and a wolf named Gabu pledge to be secret friends after meeting on a stormy night, despite the fact that they are supposed to be natural enemies. The two must overcome hardships as they journey far in hopes to find an \"Emerald Forest\", free from persecution of their kind.",
+    "popularity": 8.7,
+    "poster_path": "/zNJO7Wvq65hDjopAwmS41VvMOhD.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2005-12-10",
+    "revenue": 16517526,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "One Stormy Night",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 37
+}

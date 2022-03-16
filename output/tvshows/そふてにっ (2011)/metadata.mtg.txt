@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/w5CAdCbcN2hufuIhJ863CHUXYIb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.softenni.com/",
+    "id": 46037,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-06-24",
+    "last_episode_to_air": {
+        "air_date": "2011-06-24",
+        "episode_number": 12,
+        "id": 906324,
+        "name": "Return",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xSxyIQyaREAD2nNqutziVapM1TT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Softenni",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "そふてにっ",
+    "overview": "Playing Soft Tennis is supposed to be the focus of the Shiratama Soft Tennis Team. And for some of the girls, like farm girl/would-be champion Asuna, it mostly is. But when the team's worst player, Chitose, is also the team captain, could it be that the club is really more about hanging out and having a good time?\n\nTo be sure, aces Kurusu and exchange student Elizabeth, are great players. But they also seem more interested in cosplay and the team's dreamy adviser, while violence-prone Kotone might be more at home in a martial arts dojo.\n\nAnd it would certainly explain why they get into so many odd adventures involving things like giant bears, whales, and ghosts rather than playing!",
+    "popularity": 5.334,
+    "poster_path": "/tglQITYUS0vG4mEcfynzMEKJvoi.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-06-22",
+            "episode_count": 6,
+            "id": 54413,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-04-08",
+            "episode_count": 12,
+            "id": 54414,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/A8iDQDd3hYilqt8lhml4dtpslfV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 5
+}

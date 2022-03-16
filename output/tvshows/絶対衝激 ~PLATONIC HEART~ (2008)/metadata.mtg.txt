@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/w8shBSTWFRdT182nPszKoEj7bVL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://zettai.jp/",
+    "id": 87852,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-02-25",
+    "last_episode_to_air": {
+        "air_date": "2009-02-25",
+        "episode_number": 5,
+        "id": 1736196,
+        "name": "Flames",
+        "overview": "Aya faces her final opponent, Ryu Getsurei, a lady in red who says she is a clairvoyant who can see her heart.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Master of Martial Hearts",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "絶対衝激 ~PLATONIC HEART~",
+    "overview": "Aya’s life takes a sadistic turn when she enters a girl-on-girl martial arts tournament. She’s out to prove she can take a pounding as well as the other knock-outs in this clandestine competition, and if she survives a series of fabric-shredding fights with titillating teachers, sultry stewardesses, and moe maidens, Aya’s wish will be granted by a mysterious jewel known as the Platonic Heart.",
+    "popularity": 2.918,
+    "poster_path": "/vFvw0fo4U5tkBfC5ipylF3eJElD.jpg",
+    "production_companies": [
+        {
+            "id": 12083,
+            "logo_path": "/jlk2Htq5C5ToDiIoM353xwpWwO6.png",
+            "name": "ARMS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-10-09",
+            "episode_count": 5,
+            "id": 121004,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mCs5JAGdq7uXpXuu7NPIt0MTmt4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 10,
+    "vote_count": 1
+}

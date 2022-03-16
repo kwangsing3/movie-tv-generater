@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1995-10-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 44428,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-10-05",
+    "last_episode_to_air": {
+        "air_date": "1995-10-05",
+        "episode_number": 2,
+        "id": 893492,
+        "name": "Peace on earth, love humans!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hyper-Doll: Mew & Mica The Easy Fighters",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "楽勝！ハイパー♥ドール",
+    "overview": "Mew and Mica, two spacey, alien androids, pose as cute high school students to conceal their secret identities as the most undependable dynamic duo ever sent to defend the Earth!\n\nFrom super-sized jelly-fish to Ver Worm (a giant, supposedly intelligent worm), there is no villain too evil, too dastardly or too stupid for the Hyper Dolls to defeat! If they ever stop goofing off and eating on the job, the world would be in safe hands... Maybe.",
+    "popularity": 1.572,
+    "poster_path": "/k0KZecxe1Y8zJqoIiS3SpdJL8Je.jpg",
+    "production_companies": [
+        {
+            "id": 3530,
+            "logo_path": null,
+            "name": "Triangle Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-10-05",
+            "episode_count": 2,
+            "id": 53440,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 5,
+    "vote_count": 2
+}

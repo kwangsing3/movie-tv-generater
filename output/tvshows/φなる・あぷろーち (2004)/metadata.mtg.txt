@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/q7e9XtSV5WaJqndIX85SgmRQMa9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2004-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 25917,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-12-26",
+    "last_episode_to_air": {
+        "air_date": "2004-12-26",
+        "episode_number": 13,
+        "id": 663374,
+        "name": "A Great Struggle! A Wedding of Love and Blessings",
+        "overview": "The epilogue which showcases Shizuka moving into Haru's previous apartment, right next to the Mizuhara siblings' own apartment, and also shows a wedding commercial Emiho's brother is working on.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Final Approach",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "φなる・あぷろーち",
+    "overview": "Ryou Mizuhara is a normal high school student, living alone with his younger sister Akane. They were very happy together, at least until a mysterious girl crashes into their lives who introduces herself as Ryou's new fiancée.",
+    "popularity": 2.737,
+    "poster_path": "/dItQItyZ3rOyfvMtUyWcXssqCsZ.jpg",
+    "production_companies": [
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-10-03",
+            "episode_count": 13,
+            "id": 36379,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 8
+}

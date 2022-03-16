@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/zuMRUdvISkEMY4NsFIImHrKNSjs.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://twin-angel.com",
+    "id": 45305,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-20",
+    "last_episode_to_air": {
+        "air_date": "2011-09-20",
+        "episode_number": 12,
+        "id": 900636,
+        "name": "The Final Battle! Let's Get Everyone's Smiles Back",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6uvZqxMj1i8aa5bml4DV0a7xhHU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Twin Angel: Twinkle Paradise",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "快盗天使ツインエンジェル 〜キュンキュン☆ときめきパラダイス!!〜",
+    "overview": "Haruka Minazuki and Aoi Kannazuki are freshman high school students and best friends who enjoy school life like any other kid. But what's different about them is they live a different life at night fighting off demons and enemies.",
+    "popularity": 4.088,
+    "poster_path": "/tRmpM5nISDkYLe5aMEmpONoCf2H.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-08-08",
+            "episode_count": 4,
+            "id": 53936,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/svd6K34O5x370LxE8IeLfiBZ9Lw.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-07-05",
+            "episode_count": 12,
+            "id": 53937,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9oNVCOHlu8QadXGrFGcu2CQYKrw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

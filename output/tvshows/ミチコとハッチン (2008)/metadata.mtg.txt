@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/hEahHvRhUJhfHKkVg0inEzGdvPh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2008-10-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.michikotohatchin.com/",
+    "id": 21311,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-03-19",
+    "last_episode_to_air": {
+        "air_date": "2009-03-19",
+        "episode_number": 22,
+        "id": 594925,
+        "name": "Run As You Are",
+        "overview": "The local police force closes in on Michiko and Hatchin, out to frame Michiko to clear themselves of their own wrongdoing. Michiko and Hatchin have an intense standoff with the police captain. Atsuko and Ricardo arrive to take Michiko into custody.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/w56aLLVwqeSMdjMcUCw51zUXBug.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Michiko & Hatchin",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ミチコとハッチン",
+    "overview": "Hana is a nine-year-old girl who lives in constant fear of her abusive family; Michiko is a sexy woman who has just done the unthinkable: broken out of the impenetrable Diamandra Penitentiary. After Hana is whisked away by Michiko, who claims to be her mother, the duo sets forth on a high octane ride towards freedom. In the streets of Brazil and aboard Michiko's motorcycle, Hana and Michiko will look for Hana's long lost father, try to learn to co-exist and get along together, and stay one step ahead of the police and afro-clad Atsuko.",
+    "popularity": 19.278,
+    "poster_path": "/kKS9CyIduZf8q45wm8WQ5a9RYx1.jpg",
+    "production_companies": [
+        {
+            "id": 33347,
+            "logo_path": null,
+            "name": "Manglobe",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-10-16",
+            "episode_count": 22,
+            "id": 31177,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4eMNVPY0vqMVA8F8YbfSKu6BwJa.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 14
+}

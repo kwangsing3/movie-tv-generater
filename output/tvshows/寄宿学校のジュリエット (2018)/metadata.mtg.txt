@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/jUDyG672FgAv1S5jmibKisfMNcf.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-10-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.juliet-anime.com/",
+    "id": 82823,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-22",
+    "last_episode_to_air": {
+        "air_date": "2018-12-22",
+        "episode_number": 12,
+        "id": 1604651,
+        "name": "Romio and Juliet",
+        "overview": "Romio enters the White Cats dorm to celebrate Persia's birthday at all costs. While searching for Persia, he encounters the White Cats prefect, 'Cait Sith', and the two face off. Romio stands no chance. Though disheartened by their difference in strength, Romio doesn't quit, and fiercely runs at the window. His last hope. Will Romio and Persia's hands be joined as they climb the world's walls?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nHalfQW7MnNzycsSi8C5vRTljHT.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Boarding School Juliet",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "寄宿学校のジュリエット",
+    "overview": "Grigio Academy Boarding School. Students who attend this school in two countries and reside in their own dormitories. Inazuka and Persia are rival dormitory leaders, but in secret they love each other. Now, they have to keep their relationship a secret from their dorm mates, or ruined things will happen to them.",
+    "popularity": 32.371,
+    "poster_path": "/bgGMPgTtAPGq3OLRWYgsPYFFE7X.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-06",
+            "episode_count": 12,
+            "id": 110284,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3gy956BaBswyK1tamnWaqblFlVO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 136
+}

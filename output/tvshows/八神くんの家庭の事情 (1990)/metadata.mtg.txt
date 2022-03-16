@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1990-05-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 139814,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1990-08-17",
+    "last_episode_to_air": {
+        "air_date": "1990-08-17",
+        "episode_number": 13,
+        "id": 3412010,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yagami''s Family Affairs",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "八神くんの家庭の事情",
+    "overview": "Yūji Yagami is a high school student with an unusual problem. Yūji has developed a crush ob his mother, Nomi, who is abnormally youthful in both her looks and mannerisms. Nomi however, is oblivious to Yūji's Oedipus complex and unknowingly tempts him with her overly-passionate displays of affections to both her husband and son. The situation is further complicated when Yūji receives a love letter from someone else on Valentine's Day.",
+    "popularity": 3.052,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1990-05-25",
+            "episode_count": 13,
+            "id": 221429,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/nN4OVdex64ZeNV1DWmpfqC8MPGu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/kabaddi/",
+    "id": 105721,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-19",
+    "last_episode_to_air": {
+        "air_date": "2021-06-19",
+        "episode_number": 12,
+        "id": 2845398,
+        "name": "After Giving Every Last Drop",
+        "overview": "There is one minute remaining. Noukin has lost Ojo and allowed Kouyou to take a five point lead. Their fatigue is at its peak. Amidst all this, Yoigoshi does not relent in his raid and takes back two points. However, he was unable to return Ojo to the court. Still, Noukin refuses to give up, and their morale rises through the efforts of Misumi. Fifteen seconds remain. Yoigoshi is raring to go. \"This time, it's my turn.\"",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/y2yVtRu4Yv6eg9Qba043wWLh6X.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Burning Kabaddi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "灼熱カバディ",
+    "overview": "Yoigoshi Tatsuya was a star soccer player known as \"Yoigoshi the Unstoppable,\" but when he entered high school, he severed all involvement with sports. Now, he has been invited to a certain sports team. In these matches, victory is achieved through teammates working together to catch and defeat the opponents invading their territory... You could call it a sort of running combat sport. And the name of this game is... Kabaddi.",
+    "popularity": 33.87,
+    "poster_path": "/I1WPv4syO2X8lyOhH29oVH1zrI.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 136705,
+            "logo_path": null,
+            "name": "DOMERICA",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-03",
+            "episode_count": 12,
+            "id": 155706,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jNFZ9Qn56yj6QDK1CoaJmCE8qTn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 47
+}

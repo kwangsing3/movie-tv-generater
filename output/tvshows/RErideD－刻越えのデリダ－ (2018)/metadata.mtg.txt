@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/c3mqlWNadaRYKyfZicLMxAIhftX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-09-22",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://rerided.com/",
+    "id": 82522,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-11-22",
+    "last_episode_to_air": {
+        "air_date": "2018-11-22",
+        "episode_number": 12,
+        "id": 1606692,
+        "name": "Everything Goes Back to Where It Belongs",
+        "overview": "With the government closing in, Derrida rushes to find Mage, learn the truth, and make a final time ride to avert disaster.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mvU2C2aKaSJx4yixyIbcMbZSUZP.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "RErideD – Derrida, who leaps through time –",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "RErideD－刻越えのデリダ－",
+    "overview": "In 2050 engineer Derrida Yvain is famous for his contribution to \"Autonomous Machine DZ,\" at his father's company, Rebuild. But when he and his colleague Nathan discover a dangerous flaw in their creation, their warnings go ignored. The next day after Nathan's daughter Mage's birthday party, the group barely escapes an attack by unknown forces, leading to Derrida's unwitting captivity in cryogenic stasis. Ten years later, he emerges in a world at war with the mechanical lifeforms he helped create. Now, he fights to survive his nightmare future to make good his promise to \"Take care of Mage.\"",
+    "popularity": 13.085,
+    "poster_path": "/iDsIr8aLDulZnzHNzUJRtsYNjr2.jpg",
+    "production_companies": [
+        {
+            "id": 120511,
+            "logo_path": "/621Gha7aYZ7MvnbP91kvBHeyFoR.png",
+            "name": "GEEK TOYS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-09-22",
+            "episode_count": 12,
+            "id": 109677,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yQ2Xgt94D4nXsNxs7u9Vhkp5e65.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 5
+}

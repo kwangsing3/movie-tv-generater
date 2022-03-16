@@ -1,0 +1,76 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1419070,
+            "credit_id": "61d35f2c66a7c30042aa04d3",
+            "name": "Shuichi Shigeno",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://mfg-anime.com",
+    "id": 154526,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "MF Ghost",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "MFゴースト",
+    "overview": "The year is AD 202X. Self-driving cars have replaced ones with internal combustion engines on the roads. In Japan, races are held. Kanata Livington, age 19, has graduated from a top racing school in the UK and come to Japan in order to join MFG, also in search of his lost father...",
+    "popularity": 0.6,
+    "poster_path": "/cwUDEIYfLDz2O8ZhMkLiaBDML1s.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 237895,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/c8QY4RvpKEyNgXGP7xSyAVZKACL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

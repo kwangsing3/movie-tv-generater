@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/rYKThbHhyZpiy25dkKruPP1tR5c.jpg",
+    "created_by": [
+        {
+            "id": 1116492,
+            "credit_id": "5ca770dd0e0a267a7b33d9a9",
+            "name": "Makoto Isshiki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://piano-anime.jp/",
+    "id": 78471,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-23",
+    "last_episode_to_air": {
+        "air_date": "2019-03-23",
+        "episode_number": 12,
+        "id": 1660227,
+        "name": "The Best Pianist in the World",
+        "overview": "The winners are finally announced to an electrified audience. Shuhei sheds tears of joy when he hears Kai's placement. Ajino receives shocking news.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/g7tsyfpUr28IGUEWg5NDZ9O1LHh.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Piano Forest",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK",
+            "id": 2334,
+            "logo_path": "/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ピアノの森",
+    "overview": "A tranquil tale about two boys from very different upbringings. On one hand you have Kai, born as the son of a prostitute, who's been playing the abandoned piano in the forest near his home ever since he was young. And on the other you have Syuhei, practically breast-fed by the piano as the son of a family of prestigious pianists. Yet it is their common bond with the piano that eventually intertwines their paths in life.",
+    "popularity": 22.151,
+    "poster_path": "/3sN8KTZFC8ypxnIhjoiE8M6L2Pj.jpg",
+    "production_companies": [
+        {
+            "id": 112919,
+            "logo_path": "/rs3guS4MLPjVi8uL0e7obTZph7v.png",
+            "name": "Fukushima Gainax",
+            "origin_country": "JP"
+        },
+        {
+            "id": 112920,
+            "logo_path": "/h4soUI8eYfxBV925RCZ59piTwt3.png",
+            "name": "Gaina",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-09",
+            "episode_count": 12,
+            "id": 101729,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xysgMHFvGLMUOCvvGPWtu8petVo.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-01-27",
+            "episode_count": 12,
+            "id": 115459,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/kx7XFJvw8QQNqHOJX8DbncP8jsr.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.9,
+    "vote_count": 16
+}

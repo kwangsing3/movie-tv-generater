@@ -1,0 +1,183 @@
+{
+    "adult": false,
+    "backdrop_path": "/77zxBqvTck4QiWIrhcGrhncz8vW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-01-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://senran2.tv/",
+    "id": 46065,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-28",
+    "last_episode_to_air": {
+        "air_date": "2018-12-28",
+        "episode_number": 12,
+        "id": 1604660,
+        "name": "HOMETOWN",
+        "overview": "Rasetsu fights the shinobi while Yuki battles Fubuki. Fubuki is insistent that she's going to slay all the shinobi, no matter what it costs, and no matter what it means to her grandfather...",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/xfd48o9SgBfNzsu2jZdRxXVau69.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Senran Kagura: Ninja Flash",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "閃乱カグラ",
+    "overview": "The Hanzo Academy is a prestigious prep school with a secret known only to a select few. Behind its walls is a training course for shinobi; trained spies and assassins that centuries ago had served the shoguns for their political and military needs. Today the tradition continues with five young female trainees with diverse personalities: the care-free Asuka, fierce yet perverted Katsuragi, the sweet and innocent Hibari, stoic and protective Yagyuu, and their mature, class representative, Ikaruga.",
+    "popularity": 34.795,
+    "poster_path": "/v04svAk6eI1ptjmfjYeC4KIJYp9.jpg",
+    "production_companies": [
+        {
+            "id": 58268,
+            "logo_path": null,
+            "name": "Artland",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17982,
+            "logo_path": null,
+            "name": "Genco",
+            "origin_country": ""
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        },
+        {
+            "id": 62696,
+            "logo_path": null,
+            "name": "Marvelous AQL",
+            "origin_country": ""
+        },
+        {
+            "id": 17392,
+            "logo_path": null,
+            "name": "Showgate",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-03-27",
+            "episode_count": 7,
+            "id": 111492,
+            "name": "Specials",
+            "overview": "Original video animations (OVA) that came with the blu-ray / DVD releases.",
+            "poster_path": "/lMoIg5KOBSQgzrFv1xvMAUJmxza.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-01-06",
+            "episode_count": 12,
+            "id": 74040,
+            "name": "Ninja Flash",
+            "overview": "",
+            "poster_path": "/s7YVn2EMkQNt23nD7WEZO0fjegN.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-10-13",
+            "episode_count": 12,
+            "id": 110127,
+            "name": "Shinovi Master - Tokyo Youma Chapter",
+            "overview": "Girls study at schools for modern shinobi. They dedicate their entire young lives to learning to become true shinobi, battling each other to polish their skills. And then one day, Asuka, whose grandfather is a legendary shinobi, encounters an ancient evil being named a \"Youma\" in the back alleys of Tokyo at Christmastime. Where there is light, there is shadow. Over 28 of the strongest and most well-endowed ninjas in history, both good and evil, will collide in a battle to determine true justice. And this deadly battle begins... right now.",
+            "poster_path": "/iD15MScTzKOUu3k9TQC6liCYj8c.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 12
+}

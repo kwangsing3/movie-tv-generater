@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-10-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://gaist-anime.com/",
+    "id": 58380,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-10-30",
+    "last_episode_to_air": {
+        "air_date": "2013-10-30",
+        "episode_number": 5,
+        "id": 1334489,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gaist Crusher",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガイストクラッシャー",
+    "overview": "Gaimetal, a metallic mineral with high amounts of pure energy, was discovered 50,000 meters underground in 2047, and began mining worldwide. However, Gaist, which are metallic life forms whose bodies are fully embedded with Gaimetal emerged in 2055 and started to attack people. In 2064, Rekka, Hayato, Kurama, and Siren are among those known as Gear Gaist and they faced the battle with more than 100 varieties of creatures Gaist.",
+    "popularity": 7.259,
+    "poster_path": "/3i6WppOuQRgi0q3DuimpYynXyYW.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7220,
+            "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+            "name": "CAPCOM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 164346,
+            "logo_path": "/7bhwK1PH2XDTuqPA9AuR8rGHrdD.png",
+            "name": "Treasure Co., Ltd.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-10-02",
+            "episode_count": 51,
+            "id": 59162,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

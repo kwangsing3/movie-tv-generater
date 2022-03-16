@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/rrBtfYvuTAR2BsCVgl31LVSenRh.jpg",
+    "created_by": [
+        {
+            "id": 555348,
+            "credit_id": "578046fd9251415db50030e5",
+            "name": "Nanase Ohkawa",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-07-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.blood-c.jp/",
+    "id": 43270,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-30",
+    "last_episode_to_air": {
+        "air_date": "2011-09-30",
+        "episode_number": 12,
+        "id": 887217,
+        "name": "For Some Men I Grieve",
+        "overview": "Saya finally remembers that, having been captured by Fumito, she had her memories altered and was put on a stage to feed on Furukimonos as a test to see if she would change. Fumito has the Furukimono to kill Shinichiro, Nene and Nono for disobeying their orders. Saya kills the Furukimono before it can kill Kanako, but she is instead killed by Takayoshi who is revealed to be half-Furukimono that has gone beserk from drinking Saya's blood. As Saya fights against Tadayoshi, she manages to obtain a powerful light, allowing her to defeat him. As Fumito makes his escape, sending an army of multiplying Furukimono to kill everyone in town, Itsuki sacrifices himself in order to protect Saya, admitting he had fallen for her before passing away. After beating the Furukimono, Saya tries to attack Fumito before he escapes, but is shot in the head. Left along on the island, Saya treats herself and prepares to make her next move.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5ZdyqlMa6y6fu0GQn7jm9b7Perl.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Blood-C",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Blood-C",
+    "overview": "Saya Kisaragi is an outwardly normal girl who serves as the shrine maiden to a country town; in reality, she is a skilled swordswoman charged by her father to defeat Elder Bairns, monsters who feed on human blood. As her battles grow more desperate and more people she cares for fall victim to the Elder Bairns, Saya begins finding faults in her reality, and eventually uncovers a disturbing truth about herself, the town and her surviving friends.",
+    "popularity": 32.222,
+    "poster_path": "/oFegavhxI30ISV0jSD6qAvuson1.jpg",
+    "production_companies": [
+        {
+            "id": 4272,
+            "logo_path": null,
+            "name": "Clamp",
+            "origin_country": ""
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-06-02",
+            "episode_count": 1,
+            "id": 52748,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/svCS8eXxwvg8quIuFItGy0dUca8.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-07-01",
+            "episode_count": 12,
+            "id": 52749,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oWzPrwWTsqM3zklZoIX0Qo6QxU9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 130
+}

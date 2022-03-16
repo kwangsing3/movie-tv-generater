@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/gj69LxU1yUoD5TO9synELVfjvGt.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-04-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/ragnarok/",
+    "id": 45615,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-09-29",
+    "last_episode_to_air": {
+        "air_date": "2004-09-29",
+        "episode_number": 26,
+        "id": 903881,
+        "name": "For the Sake of Our Future",
+        "overview": "The Dark Lord's return is imminent, and Roan will have to use every skill to overcome this hideous force of evil.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/LTVqKoWKRUEz943czrJL2qDCiB.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ragnarok The Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Ragnarok The Animation",
+    "overview": "A great evil sweeps across the realm, and the young swordsman Roan, along with his life-long companion Yufa, must face it.",
+    "popularity": 12.468,
+    "poster_path": "/zKejeKW0ao6ahotLKlwk2vSzq0U.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-04-07",
+            "episode_count": 26,
+            "id": 54206,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/21jRx5LyIR8HuxKB2ZykUAZMhL4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/kCeWyTKCPpIVIRKJ8fPoBTF62Af.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 34182,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-01-27",
+    "last_episode_to_air": {
+        "air_date": "2006-01-27",
+        "episode_number": 6,
+        "id": 784899,
+        "name": "Code 206 : Lost Position",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Stratos 4",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 19,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ストラトス・フォー",
+    "overview": "Earth has developed a defense system against meteorites that are on a collision course with it. Mikaze a troubled girl that is a trainee pilot for a Meteor Sweeper team that dreams of becoming a prestigious Comet Blaster pilot.",
+    "popularity": 9.682,
+    "poster_path": "/4QnCJJVorjzt7gGcwgmlKBXRi7B.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2004-05-28",
+            "episode_count": 6,
+            "id": 45045,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-01-05",
+            "episode_count": 13,
+            "id": 45043,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2005-03-25",
+            "episode_count": 6,
+            "id": 45044,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

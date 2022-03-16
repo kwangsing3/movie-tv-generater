@@ -1,0 +1,143 @@
+{
+    "adult": false,
+    "backdrop_path": "/mQLTfx0TCQgDbwOjIZIgaanQmq.jpg",
+    "created_by": [
+        {
+            "id": 1662465,
+            "credit_id": "593305509251417de200ffb9",
+            "name": "Seiki Takuno",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1828026,
+            "credit_id": "59333bf29251417dd4012c2f",
+            "name": "Musawo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://koiuso-anime.com",
+    "id": 72026,
+    "in_production": false,
+    "languages": [
+        "de",
+        "ja"
+    ],
+    "last_air_date": "2017-09-19",
+    "last_episode_to_air": {
+        "air_date": "2017-09-19",
+        "episode_number": 12,
+        "id": 1339630,
+        "name": "Love And Lies",
+        "overview": "Naji is forced to face his growing feelings for Ririna head on. With so much on the line, what will happen when these emotions finally start clashing?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/q4pXFUUrkV1dZdKLtyD5ajPJEne.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love and Lies",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "恋と嘘",
+    "overview": "In a futuristic society, Japan has implemented a complex system referred to as \"The Red Threads of Science\" to encourage successful marriages and combat increasingly low birthrates. Based on a compatibility calculation, young people at the age of 16 are assigned marriage partners by the government, with severe repercussions awaiting those who disobey the arrangement. For Yukari Nejima, a teen that considers himself average in every way, this system might be his best shot at living a fulfilling life.\n\nHowever, spurred by his infatuation for his classmate and long-time crush, Misaki Takasaki, Yukari defies the system and confesses his love. After some initial reluctance, Misaki reciprocates his feelings in a moment of passion. Unfortunately, before the two can further their relationship, Yukari receives his marriage notice. He is then thrown into a confusing web of love and lies when his less-than-thrilled assigned partner, Ririna Sanada, becomes fascinated with his illicit romance.",
+    "popularity": 11.088,
+    "poster_path": "/ejqfETzpBBnR89btARDKrLsv8dp.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-11-16",
+            "episode_count": 1,
+            "id": 117915,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/3Lre5Nrb7E0oOl9M4vM2cuoqSi.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-07-04",
+            "episode_count": 12,
+            "id": 88956,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rP1rTVbH8flZZd2Fbj7UEy7ptRL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 15
+}

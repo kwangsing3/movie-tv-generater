@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/qJrEibkEPF41DrPJtKQb2ERNGkD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2017-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://oneroom-anime.com",
+    "id": 69298,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-22",
+    "last_episode_to_air": {
+        "air_date": "2020-12-22",
+        "episode_number": 12,
+        "id": 2558540,
+        "name": "Hanasaka Yui Is Next to Me",
+        "overview": "You and Yui prepare to move. Wherever you look, this apartment is filled with memories for the both of you. Everything around you is changing, but Yui stays by your side. So that you can live the same life at the same speed together.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/aoLxzaTxR4YidjBkPJJqHKBLQW3.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "One Room",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 37,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "One Room",
+    "overview": "Series of shorts that will tell stories of \"three sisters raised in your (one) room.\"",
+    "popularity": 35.894,
+    "poster_path": "/mANzjpm9YGabJMxIddGZvUlmtfr.jpg",
+    "production_companies": [
+        {
+            "id": 142380,
+            "logo_path": null,
+            "name": "Typhoon Graphics",
+            "origin_country": "JP"
+        },
+        {
+            "id": 109854,
+            "logo_path": null,
+            "name": "Zero-G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-05-26",
+            "episode_count": 8,
+            "id": 128577,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/6FnQKFLvMcIGc8ax4fNSGisxzZ0.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-01-11",
+            "episode_count": 12,
+            "id": 83204,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/taomrrIrwARkDyyiRmeGIFkJ7Zr.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-07-10",
+            "episode_count": 13,
+            "id": 105799,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/eDsYDTc4mspVf76LzVsUxUTs8i3.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2020-10-06",
+            "episode_count": 12,
+            "id": 164500,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/jc5kdSnZbADSw6eprT69WLhHzI2.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 12
+}

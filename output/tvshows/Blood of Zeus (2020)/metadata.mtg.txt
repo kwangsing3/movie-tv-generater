@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/r3ztpjprCKtzpmMgRbxEIoGWA7m.jpg",
+    "created_by": [
+        {
+            "id": 119253,
+            "credit_id": "5f7b59421fd36f003851707d",
+            "name": "Charley Parlapanides",
+            "gender": 0,
+            "profile_path": "/kG0ECqy8mMPStL68e5f55wmYvXT.jpg"
+        },
+        {
+            "id": 119254,
+            "credit_id": "5f7b59563e2ec80037d66e46",
+            "name": "Vlas Parlapanides",
+            "gender": 2,
+            "profile_path": "/c8ahn9yqf8sk8rOoycPHxLl4hhJ.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2020-10-27",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81001988",
+    "id": 111111,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-10-27",
+    "last_episode_to_air": {
+        "air_date": "2020-10-27",
+        "episode_number": 8,
+        "id": 2454678,
+        "name": "War for Olympus",
+        "overview": "Hera resurrects the giants of the sea and assails Olympus, leading to an earth-shattering battle for the ages and the rise of a new demigod: Heron.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lNoWgOZxRMmcPepjFtgFJRqqmeK.jpg",
+        "vote_average": 6.7,
+        "vote_count": 6
+    },
+    "name": "Blood of Zeus",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Blood of Zeus",
+    "overview": "In a brewing war between the gods of Olympus and the titans, Heron, a commoner living on the outskirts of ancient Greece, becomes mankind's best hope of surviving an evil demon army, when he discovers the secrets of his past.",
+    "popularity": 40.385,
+    "poster_path": "/zXRR5tgGLtKrRmuN4ko9SLAdCiZ.jpg",
+    "production_companies": [
+        {
+            "id": 121093,
+            "logo_path": "/dyckDFhZusH3PdxeB41WTGDJ65p.png",
+            "name": "Powerhouse Animation Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 148039,
+            "logo_path": null,
+            "name": "Asia Minor Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-27",
+            "episode_count": 8,
+            "id": 164868,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xVqqHhoMRPDJbXXjIjr8uveRFIn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "When evil descends, a new myth rises.",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 315
+}

@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1995-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 126170,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-12-23",
+    "last_episode_to_air": {
+        "air_date": "1996-12-23",
+        "episode_number": 61,
+        "id": 2970625,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mojakou",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 74,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "モジャ公",
+    "overview": "Sorao is an ordinary student who lives an ordinary everyday life of a typical kid, accidentally makes friends with two aliens stranded here on Earth. His life changes as he decides to help them find a way to get home. When they do reach the aliens' homeworld, Sorao along with Miki, discovered a blood feud between two different tribes. Things gone awry as the tribes' representatives try to out do one another in search of the missing treasure of the past with the help of an uncovered clue.",
+    "popularity": 0.6,
+    "poster_path": "/2RxfI3Jq07YVIGiZ9SQKaG2YfR3.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-10-03",
+            "episode_count": 74,
+            "id": 196473,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

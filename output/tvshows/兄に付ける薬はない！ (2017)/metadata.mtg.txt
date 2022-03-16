@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/nhiFpVOTBNyFHO3Ba57LTmyIWqG.jpg",
+    "created_by": [
+        {
+            "id": 2166713,
+            "credit_id": "5bdbb68bc3a36840280039c0",
+            "name": "Ling You",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2017-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://s.mxtv.jp/anime/anitsuke/",
+    "id": 70972,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-18",
+    "last_episode_to_air": {
+        "air_date": "2020-12-18",
+        "episode_number": 12,
+        "id": 2464293,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 4,
+        "still_path": "/lZyoG61aADWW7N7TijDy2GFqKAV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Please Take My Brother Away",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 60,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "兄に付ける薬はない！",
+    "overview": "",
+    "popularity": 16.146,
+    "poster_path": "/zCBGfrrCMu3axBk2UgCuEBAFrPn.jpg",
+    "production_companies": [
+        {
+            "id": 103564,
+            "logo_path": "/t0dnUMFPjzPStIkEM3Pm1rGLIQ8.png",
+            "name": "Fanworks",
+            "origin_country": "JP"
+        },
+        {
+            "id": 110818,
+            "logo_path": null,
+            "name": "Imagineer",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-04-07",
+            "episode_count": 12,
+            "id": 86747,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lJZFQMLFEBpygnODs86TAmnXR5e.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-07-09",
+            "episode_count": 24,
+            "id": 108520,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/9UnYhIJAPVXZzIYiFrnHIf20eKH.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2019-10-07",
+            "episode_count": 12,
+            "id": 132699,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/99ok5gnatmpR0Yj2JJPEJwd364g.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2020-10-02",
+            "episode_count": 12,
+            "id": 164633,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/9ndj1xHeMsKAotNWJjdqoTLD5IF.jpg",
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 14
+}

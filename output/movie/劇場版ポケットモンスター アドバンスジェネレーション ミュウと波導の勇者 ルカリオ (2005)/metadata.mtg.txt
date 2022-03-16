@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": "/DjfbGlwfxj8XrVyOiNi3QuyS3g.jpg",
+    "belongs_to_collection": {
+        "id": 661025,
+        "name": "Pokémon: Advanced Generation Collection",
+        "poster_path": "/fVqW8J9BWYKDg6L2fZyso47dqbD.jpg",
+        "backdrop_path": "/dsK9kYcQVxN2jtOlLlJDKn9yg6y.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.pokemon.co.jp/anime/movie/2005/",
+    "id": 34067,
+    "imdb_id": "tt0875609",
+    "original_language": "ja",
+    "original_title": "劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ",
+    "overview": "In the legendary past, before Poké Balls were invented, an aura-guiding hero Pokémon named Lucario sensed two groups of armies about to clash, and a threat of a massive war in front of Oldoran Castle in Kanto that would leave no survivors. He transferred this message to his master, the legendary hero Arlon, while he was being attacked by a violent group of Hellgar. During the battle, his sense of sight was lost and he was rendered unable to see. He used the detection of his Aura, and so with the offensive Wave Bomb, he eliminated them. Though by the threat, the queen of Rota, Lady Rin was resolute to die with her civilians, and so Arlon made a choice.",
+    "popularity": 24.919,
+    "poster_path": "/612lsEOZvsn3ELh07OGGGKCeEVj.jpg",
+    "production_companies": [
+        {
+            "id": 12653,
+            "logo_path": null,
+            "name": "Pikachu Project",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2005-07-16",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pokémon: Lucario and the Mystery of Mew",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 220
+}

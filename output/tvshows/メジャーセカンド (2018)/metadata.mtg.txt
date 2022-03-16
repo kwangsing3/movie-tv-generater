@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/gxLj0K5QIv7NDSdEzyTpbIFhO8x.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.shopro.co.jp/tv/major2nd/",
+    "id": 78476,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-11-07",
+    "last_episode_to_air": {
+        "air_date": "2020-11-07",
+        "episode_number": 25,
+        "id": 2498862,
+        "name": "...With You Again!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/zWh4LyT0uBZ3SDemK113Nzux2PD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Major 2nd",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK Educational TV",
+            "id": 622,
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "メジャーセカンド",
+    "overview": "Shigeno Daigo is an elementary student whose father, Goro, is a professional baseball player. Inspired by his father, who was once a Major League player, Daigo started playing baseball with the Mifune Dolphins, a youth team. However, he was unable to live up to the expectations of being the son of a professional, and quit baseball after less than a year. Then, in the spring of his sixth-grade year, Daigo's school welcomes a transfer student, Sato Hikaru, whose father is Sato Toshiya, a former Major League player and Goro's close friend. The fate of these two young men begins to move forward!",
+    "popularity": 13.957,
+    "poster_path": "/9UmoNij31C7zlC3hiF5UJ4DDD9C.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 15505,
+            "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+            "name": "NHK",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12655,
+            "logo_path": "/7Rt8txBx60jJ0jjtOibGWmP22vo.png",
+            "name": "Shogakukan-Shueisha Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-07",
+            "episode_count": 25,
+            "id": 101735,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9hG8fefGLZ0U7ekoza33f9Bkozy.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2020-04-04",
+            "episode_count": 25,
+            "id": 145856,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/9hdInQ7ENmNw3ZVIfZqs1DEmD2y.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Major 2nd",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 5
+}

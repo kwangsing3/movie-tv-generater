@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/cf2jCEnFMDHWIFfWRWW8YRduT1s.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2013-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.ginsaji-anime.com",
+    "id": 58237,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-28",
+    "last_episode_to_air": {
+        "air_date": "2014-03-28",
+        "episode_number": 11,
+        "id": 1029621,
+        "name": "Over and Over Again",
+        "overview": "Hachiken returns home to Saporro to obtain his brother's study guides for Mikage and has a frustratingly insightful encounter with his father. Afterwards Hachiken's mother visits Ezonoo to better understand the school he choose and leaves knowing that he is growing into a better person. Finally, as the winter season approaches, Hachiken and his friends begin planning their respective futures.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/2fRC2LjKQvI0F9EJVDfBkQWw0fB.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Silver Spoon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "銀の匙",
+    "overview": "Yuugo Hachiken enrolled in Ooezo Agricultural High School for the reason that he could live in a dorm there. In some ways he chose Ooezo in an effort to escape the highly competitive prep schools he had attended previously, but he was faced with an entirely new set of difficulties at Oezo, surrounded by animals and Mother Nature. After growing up in an average family, he began to encounter clubs and training the likes of which he had never seen before.",
+    "popularity": 17.566,
+    "poster_path": "/oXVUKJrJbiraGrUWZJ6NBEkqSNg.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-07-12",
+            "episode_count": 11,
+            "id": 59135,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8qT9OvySogWFxyTHvDPTY4bYSHB.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-01-10",
+            "episode_count": 11,
+            "id": 59136,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/8FiJOjdlbR0WL7ZWPOZ4TlhoMz5.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 29
+}

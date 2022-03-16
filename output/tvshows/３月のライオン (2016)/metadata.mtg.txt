@@ -1,0 +1,153 @@
+{
+    "adult": false,
+    "backdrop_path": "/be9gOhCm4wgHDPBO04K29V3oZnw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-10-08",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://3lion-anime.com/",
+    "id": 65336,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-31",
+    "last_episode_to_air": {
+        "air_date": "2018-03-31",
+        "episode_number": 22,
+        "id": 1380045,
+        "name": "One More House / Chapter 89 Child of March Town",
+        "overview": "Rei finally pays a visit to his adoptive mother's residence, after neglecting to visit ever since he moved out. Afterwards, Rei invites Hina and Takahashi for some monja as a last farewell. But before Hina starts high school, she decides to do something drastic.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/e4mHnhfDJtXmQL0KnqaFbxdgoDf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "March Comes in Like a Lion",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK G\t",
+            "id": 469,
+            "logo_path": "/bH9mwMa64tQeVhmTmkC8Qn9Eoe.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 44,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "３月のライオン",
+    "overview": "Rei is a 17-year old professional shōgi player, who lives by himself, not having a real family, and has scarcely any friends. Among his acquaintances is a family, which consists of a young woman, Akari, and two young girls, Hinata and Momo, and who also keep a numerous number of cats.",
+    "popularity": 49.305,
+    "poster_path": "/sokReNdjEwG2TkdUzJcVnD6sChT.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3033,
+            "logo_path": "/AwgX2FHGJd54aSWfWJqptFvT1h.png",
+            "name": "Asmik Ace",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 131015,
+            "logo_path": null,
+            "name": "Hakusensha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11376,
+            "logo_path": "/lrglrxyGOMRl9KCsmcjmzjjpT2H.png",
+            "name": "NHK Enterprises",
+            "origin_country": "JP"
+        },
+        {
+            "id": 139842,
+            "logo_path": "/uBixtDwl2hxsugqSOTzEP90kxa0.png",
+            "name": "TOY'S FACTORY",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-12-29",
+            "episode_count": 1,
+            "id": 149996,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-10-08",
+            "episode_count": 22,
+            "id": 73971,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sQPq0lVkR2mMPeeZ3MFr5l7Bc0j.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-10-14",
+            "episode_count": 22,
+            "id": 86416,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/wpoyzYak574qKiocmbKuehOLTYo.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 57
+}

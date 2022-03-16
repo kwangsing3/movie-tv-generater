@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://you-zitsu.com/",
+    "id": 72517,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-27",
+    "last_episode_to_air": {
+        "air_date": "2017-09-27",
+        "episode_number": 12,
+        "id": 1369850,
+        "name": "Genius lives only one story above madness.",
+        "overview": "Survival test is coming to the end. Things don't look well for 1-D. Key card is stolen. And now Suzune is forced to withdraw due to her sickness. Kiyotaka will try to turn things around.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/aOdRq37dWJQcQge1qelkFfdgK6Q.jpg",
+        "vote_average": 9,
+        "vote_count": 3
+    },
+    "name": "Classroom of the Elite",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ようこそ実力至上主義の教室へ",
+    "overview": "Koudo Ikusei Senior High School is a leading prestigious school with state-of-the-art facilities where nearly 100% of students go on to university or find employment. The students there have the freedom to wear any hairstyle and bring any personal effects they desire. Koudo Ikusei is a paradise-like school, but the truth is that only the most superior of students receive favorable treatment.\n\nAyanokouji Kiyotaka is a student of D-class, which is where the school dumps its \"inferior\" students in order to ridicule them. For a certain reason, Kiyotaka was careless on his entrance examination, and was put in D-class. After meeting Horikita Suzune and Kushida Kikyou, two other students in his class, Kiyotaka’s situation begins to change.",
+    "popularity": 43.997,
+    "poster_path": "/8BtSk9DGIlS24otIB3qCagVCI6W.jpg",
+    "production_companies": [
+        {
+            "id": 42811,
+            "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
+            "name": "Lerche",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-12",
+            "episode_count": 12,
+            "id": 89821,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8BtSk9DGIlS24otIB3qCagVCI6W.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 245063,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/lMul5ImiuAmhr2VxjlFlDheByKo.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 401
+}

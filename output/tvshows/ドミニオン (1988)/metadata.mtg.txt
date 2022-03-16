@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/8gwy96MDh1Sbzp46LOb6fpeRQ3h.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        38
+    ],
+    "first_air_date": "1988-05-27",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.b-ch.com/titles/519/?ttl_c=519",
+    "id": 45137,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1994-10-21",
+    "last_episode_to_air": {
+        "air_date": "1994-10-21",
+        "episode_number": 6,
+        "id": 896961,
+        "name": "End the Dreaming",
+        "overview": "The traitor was planning to defect to another evil mega-corporation, killing the mayor was kind part of the deal, he finds out that the mayor is still alive and sends two spider-bots to attack the hospital where the mayor is being treated.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/o3z4obTSIpbDnux89Y5Mdsgm9cf.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Dominion Tank Police",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 10,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドミニオン",
+    "overview": "Leona Ozaki joins Newport City's infamous Tank Police division. With aid of Al and her newly built mini-tank, Bonaparte, she wages war on Buaku and his cohorts, the Puma Sisters.",
+    "popularity": 6.205,
+    "poster_path": "/f8WPejGXINqO4aVyZuhDWBRVI2p.jpg",
+    "production_companies": [
+        {
+            "id": 51693,
+            "logo_path": null,
+            "name": "Agent 21",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5650,
+            "logo_path": null,
+            "name": "Central Park Media",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1595,
+            "logo_path": null,
+            "name": "Island World",
+            "origin_country": ""
+        },
+        {
+            "id": 105248,
+            "logo_path": null,
+            "name": "Toshiba Video Softwares",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-03-24",
+            "episode_count": 1,
+            "id": 97204,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/3d68d27cKDhFvBolHpJrgruCB9c.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1988-05-27",
+            "episode_count": 4,
+            "id": 53752,
+            "name": "Dominion Tank Police",
+            "overview": "",
+            "poster_path": "/llAInKQfSZsHd64QixLEc1ur5Qk.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1993-10-21",
+            "episode_count": 6,
+            "id": 53753,
+            "name": "New Dominion Tank Police",
+            "overview": "The year is 2016. The place is New Port City. The Tank Police are still waging a desperate war on crime, and their tactics are still highly questionable. Mayor Weatherby is trying to pass a bill banning certain weapons from the city, which makes her a target of the Dai Nippon Geiken Corporation, who are now manufacturing mobile weapons that even the Tank Police may not be able to stop. Dai Nippon Geiken is also connected with the murder of Leona Ozaki's former partner, Charon Ishira, making the battle all the more personal for the Tank Police's number one officer, who will stop at nothing to avenge her partner. But can she pay the high price revenge calls for?",
+            "poster_path": "/4h5TbsWNzPLAZjsV5apJWahvnY5.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 7.2,
+    "vote_count": 13
+}

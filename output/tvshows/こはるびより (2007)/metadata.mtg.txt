@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/xpb9aZPiyCTI1O3XVtHSytErC1G.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2007-10-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 77504,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-03-10",
+    "last_episode_to_air": {
+        "air_date": "2008-03-10",
+        "episode_number": 3,
+        "id": 1443014,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Indian Summer",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "こはるびより",
+    "overview": "In a futuristic society where robots are a household staple, Yui— a maid robot— has just been purchased by her new owner, Takaya. But while Yui thinks she’ll be taking on normal household chores like cooking and cleaning, Takaya has other things in mind! With a fetish for cosplay that can’t be matched, Takaya will have his new maid dressing up in all sorts of outfits whether she likes it or not.",
+    "popularity": 2.62,
+    "poster_path": "/eXFTpE2HTZ7E9SEXuXQCf1OposW.jpg",
+    "production_companies": [
+        {
+            "id": 88185,
+            "logo_path": "/7KGVmlLGv6hoon8UkqE7ls7z4op.png",
+            "name": "Daume",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-10-15",
+            "episode_count": 3,
+            "id": 100005,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/A3NPQLYXZwPVxUIs4sivqj1LfZN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

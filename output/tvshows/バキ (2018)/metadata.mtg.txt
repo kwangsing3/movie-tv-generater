@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/yQjO3CqZSbby6U7y3NfzrLB32rq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-06-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://baki-anime.jp",
+    "id": 80623,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-04",
+    "last_episode_to_air": {
+        "air_date": "2020-06-04",
+        "episode_number": 13,
+        "id": 2295851,
+        "name": "Revenge Tokyo",
+        "overview": "After Ryukoh Yanagi escapes from prison, Inspector Sonoda attempts to locate the other death row inmates who wreaked havoc on Tokyo.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/uBEb3EE58jaFJ0HXw4QFsxPrKa6.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "BAKI",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バキ",
+    "overview": "While martial arts champion Baki Hanma trains hard to surpass his legendary father, five violent death row inmates descend upon Tokyo to take him on.",
+    "popularity": 219.526,
+    "poster_path": "/c79L7zCnRzDJerrlbIWkNCjA6tg.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-12-06",
+            "episode_count": 1,
+            "id": 183092,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-06-26",
+            "episode_count": 26,
+            "id": 105921,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aEMDrkYf9X0PWBVu8E7IYjEbRwH.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2020-06-04",
+            "episode_count": 13,
+            "id": 147639,
+            "name": "The Great Raitai Tournament Saga",
+            "overview": "",
+            "poster_path": "/jjOGDKZDCkmCNKt9HE7gvDnpa2a.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 897
+}

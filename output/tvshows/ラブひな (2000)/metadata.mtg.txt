@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/kcE0oKf6Lt5bYriMLJyEeyXhJ2i.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2000-04-19",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/lovehina/",
+    "id": 30992,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-09-27",
+    "last_episode_to_air": {
+        "air_date": "2000-09-27",
+        "episode_number": 24,
+        "id": 751000,
+        "name": "Celebrate! Are the Blooming Flowers Tokyo U? Love? Everybody",
+        "overview": "The final episode of Love Hina. Everyone has to leave Love Hina for a day because the inn is going under renovations. It also becomes apparent that Keitaro won't be coming back to Hinata Inn and Naru has completely given up on Keitaro. Who will Keitaro decide to be his soulmate, Naru or Mutsumi?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Love Hina",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ラブひな",
+    "overview": "Keitaro and his childhood sweetheart make a promise to be accepted at and to meet each other at the prestigous Toudai University before she moved out of his life. About a decade later, Keitaro has become an artist and a daydreamer, having ranked 27th from the last in the national practice exam. When his grandmother leaves the all-girls dormitory, he becomes the residential manager and soon meets up with two Todai applicants who may have been that sweetheart, since he`s forgotten her name. Then there the other tenants like young Shinobu who was in despair until Keitaro helped her, Motoko the swordsmaster who sees men as evil distractions, Su Kaolo the genius child inventor and the sneaky Kitsune.",
+    "popularity": 28.416,
+    "poster_path": "/c8V0gxvi0824hsLAKaMZdC6ZX70.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 14899,
+            "logo_path": null,
+            "name": "Starchild Records",
+            "origin_country": ""
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-12-25",
+            "episode_count": 7,
+            "id": 42592,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/gZxNOLfJsFQIlrJsPLH7u7zT8Zn.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2000-04-19",
+            "episode_count": 24,
+            "id": 42590,
+            "name": "Love Hina",
+            "overview": "",
+            "poster_path": "/4WZYQmi7DPZc0rAOMGciBwqRdQL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 31
+}

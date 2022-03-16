@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2003-04-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 31666,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2003-12-29",
+    "last_episode_to_air": {
+        "air_date": "2003-12-29",
+        "episode_number": 26,
+        "id": 757986,
+        "name": "The Young Traveler",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gad Guard",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガドガード",
+    "overview": "It’s the future, and humanity is worn out. Hajiki’s struggling to make ends meet on the hard-luck streets of Night Town, where everyone is fighting for the same thing: the Gad. If you’ve got a Gad, you’ve got the power of a robotic Techode at your disposal.",
+    "popularity": 3.199,
+    "poster_path": "/lBIevnUbnmrNh6XbxN5PkBo9Hgf.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-04-16",
+            "episode_count": 26,
+            "id": 43157,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 4
+}

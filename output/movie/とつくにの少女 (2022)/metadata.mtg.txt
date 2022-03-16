@@ -1,0 +1,80 @@
+{
+    "adult": false,
+    "backdrop_path": "/cDA5NGs3o8mdgxqlqEGrDi56z2B.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.totsukuni.com/",
+    "id": 802699,
+    "imdb_id": "",
+    "original_language": "ja",
+    "original_title": "とつくにの少女",
+    "overview": "Once upon a time, in a far, faraway place, there were two lands. The world was divided into an inner land and an outer land. People feared the outer land, inhabited by eerie beings, the carriers of curse.  One day, on the border to the inner land inhabited by humans, one such being finds a girl on heaps of abandoned dead bodies.The girl says her name is Shiva and shows affection to the \"being\" who found her, calling him \"Teacher.\"  This is a story of two people—one human, one inhuman—who linger in the hazy twilight that separates night from day.",
+    "popularity": 6.861,
+    "poster_path": "/rxu2MgncYDe6CGSASAwIaC4SHbR.jpg",
+    "production_companies": [
+        {
+            "id": 31058,
+            "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+            "name": "Wit Studio",
+            "origin_country": "JP"
+        },
+        {
+            "id": 161320,
+            "logo_path": "/itvRP61jpTifMztVZt7Zr0EDbR9.png",
+            "name": "MAG Garden",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21346,
+            "logo_path": "/zFOXiwgrIakUsgWqbsDGgo6JEiw.png",
+            "name": "FlyingDog",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150372,
+            "logo_path": null,
+            "name": "Sound Team・Don Juan",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2022-03-10",
+    "revenue": 0,
+    "runtime": 60,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Girl From the Other Side",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

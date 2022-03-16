@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/jaTUs2eoaa8sdAEBklMXoYJN2b6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-09",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.pripri-anime.jp/",
+    "id": 72515,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-25",
+    "last_episode_to_air": {
+        "air_date": "2017-09-25",
+        "episode_number": 12,
+        "id": 1370940,
+        "name": "Case 24 Fall of the Wall",
+        "overview": "With time against her, Ange will stop at nothing until she has the princess next to her. Will she be too late to save her?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7kkKo1Fdyt0LunvzVC9Zgl8sJ4N.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Princess Principal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プリンセス・プリンシパル",
+    "overview": "The stage is set during the 19th century London, in its capital where a wall divides the east and west of the Kingdom of Albion. Five high school girls, who enrolled in the prestigious Queens May Fair School, are involved in spy activities that involve disguise, infiltration, car chase, and more. These girls take advantage of their special abilities and fly around the shadow world.",
+    "popularity": 13.594,
+    "poster_path": "/nWDOct6kB9LvCtO6LZ3TT3WlZtH.jpg",
+    "production_companies": [
+        {
+            "id": 77832,
+            "logo_path": "/4qKMYPaifBLGWQq7mQYQBw40W1.png",
+            "name": "Studio 3Hz",
+            "origin_country": "JP"
+        },
+        {
+            "id": 30125,
+            "logo_path": "/idI9yjIWXWgLLdWqUbBpWzmTW9t.png",
+            "name": "Actas",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-09-16",
+            "episode_count": 7,
+            "id": 151370,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/7l2qUzHtFzz4rmJJvd5qKWHweu0.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-07-09",
+            "episode_count": 12,
+            "id": 89819,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2dltGXHFepYw7vCMDFVWVt3crup.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 14
+}

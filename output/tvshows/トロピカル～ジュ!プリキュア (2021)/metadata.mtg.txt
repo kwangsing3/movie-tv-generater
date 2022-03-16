@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/4alh8wCZT2itRAD8m9hyySoJCOT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-02-28",
+    "genres": [
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.toei-anim.co.jp/tv/precure/",
+    "id": 119787,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-01-30",
+    "last_episode_to_air": {
+        "air_date": "2022-01-30",
+        "episode_number": 46,
+        "id": 3402502,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/daJ6WYnOTSTj2UbGZzceUEqfiaf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tropical-Rouge! Precure",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 46,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "トロピカル～ジュ!プリキュア",
+    "overview": "Manatsu Natsuumi is a first-year junior high school student born and raised on a small island. On the day she moves from the island, She meets Laura, a mermaid girl who has come to the earth alone in search of the legendary warrior, PreCure. Laura's hometown, Grand Ocean, is attacked by a witch who lives in the dark depths of the ocean, and all of their motivational power is taken away. It is said that if the motivational power of humans is also taken away, the world will be in deep trouble. Laura is captured by the witch's servant, and Manatsu transforms into Cure Summer to save her.",
+    "popularity": 16.061,
+    "poster_path": "/9zKvka0tA2a9IHm1NuTXpy9QXPi.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-20",
+            "episode_count": 2,
+            "id": 245477,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-02-28",
+            "episode_count": 46,
+            "id": 183819,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xgIIqEilhNhj6DX1JcKcgqkIxKe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 2
+}

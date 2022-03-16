@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/eJJJqNnO3bUJDvu3qKyuHcnWr56.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-02-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/dokidoki_precure/",
+    "id": 75086,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-01-26",
+    "last_episode_to_air": {
+        "air_date": "2014-01-26",
+        "episode_number": 49,
+        "id": 1476624,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dokidoki! PreCure",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドキドキ!プリキュア",
+    "overview": "Thanks to Sharuru, a fairy from the Trump Kingdom, and the power of mysterious accessories called Cure Lovies, Mana transforms into Cure Heart! Mana, her close friend Rikka, her high-class childhood friend Alice, and the enigmatic, cool super idol singer Makoto all become legendary saviors. Together, they purify the Jikochu, who have forgotten about love!",
+    "popularity": 9.272,
+    "poster_path": "/afZmkzUIcpwBl0GAzQbtqWFxihj.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-02-03",
+            "episode_count": 49,
+            "id": 95386,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 9
+}

@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/oTGi84SZrvzweAzCkj3Ju2uRdch.jpg",
+    "created_by": [
+        {
+            "id": 1649838,
+            "credit_id": "5bb64a49c3a3681508010a88",
+            "name": "Kotaro Ishidate",
+            "gender": 2,
+            "profile_path": "/i2IyhTi39Pj5XwMJM77ZtOFWzxJ.jpg"
+        }
+    ],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "2018-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://himotehouse.com/",
+    "id": 82828,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-23",
+    "last_episode_to_air": {
+        "air_date": "2018-12-23",
+        "episode_number": 12,
+        "id": 1605038,
+        "name": "Special episode! A high-profile cast reflects on three months of Himote House",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dUy7HLqJisdvPfrZQQscC1TUMbQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Himote House: A Share House of Super Psychic Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ひもてはうす",
+    "overview": "From Kotaro Ishidate, tthe creator of some popular ad-lib animes such as Tesagure! Bukatsu-mono and gdgd Fairies. This new anime centers on five girls and one cat all living as housemates in Nakano, Tokyo: the three Himote sisters (Tokiyo, Kinami, and Kokoro) whose family manages the \"Himote House,\" Kokoro's classmates Tae and Minamo, and the cat Enishi. The girls live their daily lives trying to figure out ways to be popular, and they (and the cat) all possess a mysterious secret power...",
+    "popularity": 2.604,
+    "poster_path": "/y9cW9C4tB8v9bgMIeqUJG9TADla.jpg",
+    "production_companies": [
+        {
+            "id": 145288,
+            "logo_path": null,
+            "name": "Bouncy",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-01",
+            "episode_count": 1,
+            "id": 235616,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-10-08",
+            "episode_count": 12,
+            "id": 110289,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vyAgT9WlMCqickjy3hiRVSgKMce.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.3,
+    "vote_count": 3
+}

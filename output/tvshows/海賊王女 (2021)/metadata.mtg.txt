@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/xBYfKcbDY0NktGn9f7QW8qaV96g.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-08-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://fena-pirate-princess.com",
+    "id": 106480,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-10-24",
+    "last_episode_to_air": {
+        "air_date": "2021-10-24",
+        "episode_number": 12,
+        "id": 3129263,
+        "name": "The Chosen Maiden",
+        "overview": "There was a mission that Frantz left behind for Fena. Hidden inside Eden was a line of painful choices made by the maidens that had been passed for many years. As she thinks of Yukimaru and her friends, Fena decides her destiny.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dKxeQ49pBOGTKoiYIDC1D56d7Ub.jpg",
+        "vote_average": 7,
+        "vote_count": 2
+    },
+    "name": "Fena: Pirate Princess",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Adult Swim",
+            "id": 80,
+            "logo_path": "/2ezVEkNx1tvBLONzDcViyfovWBH.png",
+            "origin_country": "US"
+        },
+        {
+            "name": "Crunchyroll",
+            "id": 1112,
+            "logo_path": "/81QfupgVijSH5v1H3VUbdlPm2r8.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "ja",
+    "original_name": "海賊王女",
+    "overview": "Fena Houtman remembers little about her childhood. Orphaned and raised as a servant in a brothel, her life changes when she escapes to an island of pirates where she discovers the truth behind her family. With Fena being the only one able to unlock her family’s secrets, and a formidable crew of female pirates on her tail, she must take her place as captain of her Samurai crew for a high seas adventure!",
+    "popularity": 39.718,
+    "poster_path": "/lXP0IyZwPuv3jdmSr5rekxOp1tE.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 98553,
+            "logo_path": "/81QfupgVijSH5v1H3VUbdlPm2r8.png",
+            "name": "Crunchyroll",
+            "origin_country": "US"
+        },
+        {
+            "id": 6760,
+            "logo_path": "/qKLBuZa4Z4fKH8xHvCUsb5EIDx3.png",
+            "name": "Williams Street",
+            "origin_country": "US"
+        },
+        {
+            "id": 21346,
+            "logo_path": "/zFOXiwgrIakUsgWqbsDGgo6JEiw.png",
+            "name": "FlyingDog",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-08-15",
+            "episode_count": 12,
+            "id": 157317,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lXP0IyZwPuv3jdmSr5rekxOp1tE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 24
+}

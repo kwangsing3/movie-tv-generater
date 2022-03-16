@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/z9mYvOUbPbmsef3tcgDK1xZqcuN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-10-11",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://mercstoria.jp",
+    "id": 83042,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-27",
+    "last_episode_to_air": {
+        "air_date": "2018-12-27",
+        "episode_number": 12,
+        "id": 1606717,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/hY41cmT9hYvAk6DRYvlae0lVQmm.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Merc Storia: The Apathetic Boy and the Girl in a Bottle",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "メルクストーリア -無気力少年と瓶の中の少女-",
+    "overview": "Merc Storia takes places in a world where humans and monsters coexist. The protagonist, Yuu, is a healer apprentice and possesses the ability to tame monsters. In a quest to regain the memories of Merc, a girl confined in a bottle, the pair embarks on a journey.",
+    "popularity": 8.664,
+    "poster_path": "/5EQiGTTsetziulBftJTD82xWAS7.jpg",
+    "production_companies": [
+        {
+            "id": 109576,
+            "logo_path": "/sOIxEPrn2MMo74YP03XlYh41v0V.png",
+            "name": "Encourage Films",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-11",
+            "episode_count": 12,
+            "id": 110687,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ingP07REH85gwJ9ErL7JKkWWxV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 4
+}

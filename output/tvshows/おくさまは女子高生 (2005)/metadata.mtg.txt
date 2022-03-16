@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/48SZuHv32CrNi5TSZ6Ym0WCyslS.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        13
+    ],
+    "first_air_date": "2005-07-02",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://mv.avex.jp/okusama/",
+    "id": 27245,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-09-24",
+    "last_episode_to_air": {
+        "air_date": "2005-09-24",
+        "episode_number": 26,
+        "id": 682319,
+        "name": "I will always love you...",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "My Wife is a High School Girl",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おくさまは女子高生",
+    "overview": "The 17-year-old Onohara Asami is a cute, second-year high school student. Nobody knows that she is actually already married to her 25-year-old physics teacher, Ichimaru Kyousuke (Danna-sama). Besides her responsibility as a student, she now has to take care of the household and keep the marriage a secret at school.\n\nJuggling these things on a daily basis is all but easy for Asami, especially with the complications introduced by her well-meaning but nosy best female friends; an overprotective very intrusive father Iwao; the kind teacher Iwasaki who of all men falls for Asami's husband; or the quite alluring next-door neighbour Sakura Mizunosaki. Against all these odds Asami tries to nurture her young love with Danna-sama.",
+    "popularity": 6.218,
+    "poster_path": "/crjGXARJBVXnQzoKo9V90JXEBA6.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-07-02",
+            "episode_count": 26,
+            "id": 38103,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/crjGXARJBVXnQzoKo9V90JXEBA6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 5
+}

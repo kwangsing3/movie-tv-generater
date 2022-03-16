@@ -1,0 +1,54 @@
+{
+    "adult": false,
+    "backdrop_path": "/aenZ1GSnPOjqiadOqc0FxTQE0Ff.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 606149,
+    "imdb_id": "tt8048384",
+    "original_language": "no",
+    "original_title": "Kaptein Sabeltann og den magiske diamant",
+    "overview": "Captain Sabertooth and his crew are up against a sunburnt vampire, a manipulating queen, a violent monkey army and two young pirates while on the hunt for the magical diamond.",
+    "popularity": 7.179,
+    "poster_path": "/y9O7Gw0FyFB8gKv1sFDd8VW6u34.jpg",
+    "production_companies": [
+        {
+            "id": 32314,
+            "logo_path": "/xIOJEnHp3GbYC7n9l2VGJpiOEHV.png",
+            "name": "Qvisten Animation",
+            "origin_country": "NO"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        }
+    ],
+    "release_date": "2020-02-13",
+    "revenue": 0,
+    "runtime": 81,
+    "spoken_languages": [
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Captain Sabertooth and the Magical Diamond",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 34
+}

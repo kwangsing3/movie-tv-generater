@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2005-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 34790,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-03-30",
+    "last_episode_to_air": {
+        "air_date": "2005-03-30",
+        "episode_number": 13,
+        "id": 792352,
+        "name": "Moment of Truth",
+        "overview": "Using the Amaterasu incident as a rationale, the Earth Federation stages a massive coup d'état, and demands the surrender of the Amaterasu. In the face of inevitable defeat, Sinon formulates a political strategy of her own.The Amaterasu's crew escaped via shuttle while Dita broadcasts the earth Alliance's attack on the guard ship. Shimei Yuuki, the only commissioned officer decided to be left behind.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Starship Operators",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スターシップ・オペレーターズ",
+    "overview": "Starship Operators is a science fiction light novel series written by Ryo Mizuno. Six volumes were published by MediaWorks between 2001 and 2005. A 13-episode anime adaptation produced by J.C.Staff was aired on TV Tokyo in Japan. Starship Operators is licensed in English in the United States by Geneon.",
+    "popularity": 5.295,
+    "poster_path": "/4k4ctpdBykSJ2OCEn3ecmxTKQxM.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-01-05",
+            "episode_count": 13,
+            "id": 45569,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

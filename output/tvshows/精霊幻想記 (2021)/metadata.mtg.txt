@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/dP5vSU1u7bSjUwZxxcqYGfgtIGa.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://seireigensouki.com",
+    "id": 113808,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-20",
+    "last_episode_to_air": {
+        "air_date": "2021-09-20",
+        "episode_number": 12,
+        "id": 3019311,
+        "name": "Fated Reunion",
+        "overview": "The moment the carriage carrying Celia arrives at the great temple where the wedding is being held, a dark figure darts toward her, threading nimbly through the crowd. The figure who so easily overpowers the knights acting as guards in order to steal Celia away is Rio. In the face of Rio's straight-forward emotions, asking Celia once again what her will in the matter is, she finally speaks her true feelings... Then, a beam of light shoots upward from the royal capital. The same thing happens in other places in the Strahl region until six pillars of light pierce the sky...!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jPnYUnc1x3TLQBaLJk5JUqPLYfN.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Seirei Gensouki: Spirit Chronicles",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "精霊幻想記",
+    "overview": "His past life and current life are intersecting--a boy with memories of two lives faces his destiny! After his mother was killed at an early age, the orphaned Rio fought his hardest to survive in the slums. One day, he awakens to the memories of Haruto Amakwa, who died in an accident while dreaming of being reunited with his childhood friend, and Rio realizing he has reincarnated in a world of swords and sorcery.",
+    "popularity": 86.209,
+    "poster_path": "/utsDTNblL4LojGqdPEncqsBLqjg.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 18,
+            "id": 220812,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-07-06",
+            "episode_count": 12,
+            "id": 170211,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tQiBVUCe0haI982Q1E8NwTn5Bek.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 27
+}

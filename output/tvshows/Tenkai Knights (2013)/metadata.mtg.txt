@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/glValpPONkXQIfTdvw1gk3VR1nM.jpg",
+    "created_by": [
+        {
+            "id": 1117480,
+            "credit_id": "5d5cc2f5c4904800167d0f53",
+            "name": "Hiroshi Ohnogi",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 2392085,
+            "credit_id": "5d5cc2c66743fa00166f6aa3",
+            "name": "Jin Kanada",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        20
+    ],
+    "first_air_date": "2013-08-24",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 59181,
+    "in_production": false,
+    "languages": [
+        "am",
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2015-11-14",
+    "last_episode_to_air": {
+        "air_date": "2015-11-14",
+        "episode_number": 52,
+        "id": 2769259,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tenkai Knights",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Tenkai Knights",
+    "overview": "Tenkai Knights is a 2013 Japanese-Canadian-American anime series, produced by Shogakukan Productions and Spin Master. Initial reports, according to Anime News Network, indicated the series was being animated by Bones, according to an entry on Studio Wanpack's Blog back in May 2013, although has been since removed. While the series was broadcast on Cartoon Network in the United States in August 2013, there is no word as to when the series will air in Japan.",
+    "popularity": 1.488,
+    "poster_path": "/xVgxhLDNMcgFAsssjpHceK50bvW.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2013-08-24",
+            "episode_count": 52,
+            "id": 130389,
+            "name": "Season 1",
+            "overview": "The show",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Amharic",
+            "iso_639_1": "am",
+            "name": ""
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 10,
+    "vote_count": 1
+}

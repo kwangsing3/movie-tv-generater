@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/wJkG5XalAYkoFZkCKY8xpHckzUC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        13
+    ],
+    "first_air_date": "2015-12-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://tv.sogou.com/v?query=%B0%AE%C9%F1%C7%C9%BF%CB%C1%A6",
+    "id": 69203,
+    "in_production": false,
+    "languages": [
+        "zh"
+    ],
+    "last_air_date": "2017-12-21",
+    "last_episode_to_air": {
+        "air_date": "2017-12-21",
+        "episode_number": 1,
+        "id": 1416993,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cupid's Chocolates",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tencent Video",
+            "id": 2007,
+            "logo_path": "/uBCIoV9AUGIdfXTrtJ6CRIxOZF6.png",
+            "origin_country": "CN"
+        },
+        {
+            "name": "Sogou TV",
+            "id": 2818,
+            "logo_path": null,
+            "origin_country": "CN"
+        }
+    ],
+    "number_of_episodes": 30,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "爱神巧克力ING...",
+    "overview": "",
+    "popularity": 10.354,
+    "poster_path": "/cFherIjXhMgw7kfmXoVznwQniec.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-12-02",
+            "episode_count": 15,
+            "id": 83031,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cFherIjXhMgw7kfmXoVznwQniec.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-12-21",
+            "episode_count": 15,
+            "id": 97653,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/oDH6kPJTJvGM35yDvpN57ItBwER.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

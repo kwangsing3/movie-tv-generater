@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/wCddnZyWgx7xwHVoTeOWppVkFHu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-07-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "http://www.ro-kyu-bu.com",
+    "id": 45953,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-09-27",
+    "last_episode_to_air": {
+        "air_date": "2013-09-27",
+        "episode_number": 12,
+        "id": 1507784,
+        "name": "Because You're Here, Tomoka",
+        "overview": "The game goes into overtime, and the 6th grade team gets substituted in to show what they can do. But Suzuridani promises to fight back, too.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ro-Kyu-Bu!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ロウきゅーぶ！",
+    "overview": "When high schooler Subaru's basketball team is disbanded for a year, his aunt talks him into coaching an elementary school girls' team.",
+    "popularity": 13.107,
+    "poster_path": "/pTjtpplRsx4dCA89RBTtsH1io5o.jpg",
+    "production_companies": [
+        {
+            "id": 74464,
+            "logo_path": null,
+            "name": "project No.9",
+            "origin_country": "JP"
+        },
+        {
+            "id": 120818,
+            "logo_path": null,
+            "name": "Studio Blanc",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-06-20",
+            "episode_count": 1,
+            "id": 179571,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/wZh1WAHy38mz537npFHSyNmF4ax.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-07-01",
+            "episode_count": 12,
+            "id": 69583,
+            "name": "Season 1",
+            "overview": "When high schooler Subaru's basketball team is disbanded for a year, his aunt talks him into coaching an elementary school girls' team.",
+            "poster_path": "/k8NKLXhlsDgRmB1orihvUNr16YB.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2013-07-05",
+            "episode_count": 12,
+            "id": 80234,
+            "name": "Season 2",
+            "overview": "With summer vacation almost over, the school basketball season heats up. The Keishin team vies for a title while Subaru contemplates his future.",
+            "poster_path": "/8QFOTty85yodZXUXSguiBtV0bVs.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

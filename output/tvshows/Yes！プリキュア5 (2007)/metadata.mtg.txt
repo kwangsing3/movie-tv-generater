@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/lDQIR3GC96lyPictL57NK5CVm06.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2007-02-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/yes_precure5/index.html",
+    "id": 34075,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-01-25",
+    "last_episode_to_air": {
+        "air_date": "2009-01-25",
+        "episode_number": 48,
+        "id": 1498529,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yes! Precure 5",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 97,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Yes！プリキュア5",
+    "overview": "Nozomi Yumehara, a regular student, finds a magical book called  the Dream Collet in the library and meets Coco and Nuts, two creatures  from the Palmier Kingdom. They plead with Nozomi to restore their world,  which has been destroyed by an organization called the Nightmares, by  completing the Dream Collet and finding the 55 Pinkies to make any wish  come true. Meanwhile, the Nightmares are moving into the real world.  Once Nozomi agrees to help, Coco and Nuts transform her into the magical  girl Cure Dream and turn four fellow students into her Pretty Cure  team.",
+    "popularity": 22.797,
+    "poster_path": "/1DLVNZovWDvfLZ0QdLGtS9OVbtT.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2007-02-04",
+            "episode_count": 49,
+            "id": 44871,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3bZfhJV98VSWJgMfHZVe3bZdouB.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-02-03",
+            "episode_count": 48,
+            "id": 104544,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/1DLVNZovWDvfLZ0QdLGtS9OVbtT.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 3
+}

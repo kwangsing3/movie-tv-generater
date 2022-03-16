@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/60uJg8uIvGtApqA98JlcQ5mOVZ5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2012-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://lag-rin.com/",
+    "id": 42972,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-23",
+    "last_episode_to_air": {
+        "air_date": "2012-09-23",
+        "episode_number": 12,
+        "id": 884164,
+        "name": "Another Day in Kamogawa",
+        "overview": "Madoka and the others find Dizelmine on the beach, where Yurikano is standing by him. The Rin-ne they are in soon changes as a result of their will changing Dizelmine's heart. As the place soon starts to close up, Madoka insists on taking Yurikano and Dizelmine with her. They soon arrive back in the real world, singing their triumphant Jersey Club anthem which quells the black phenomenom into beautiful flowers which drift off into space. Upon leaving the Rin-ne, Dizelmine ends up as a younger age, much like Asteria did, whilst Yurikano reunites with the KISS members and Moid mysteriously vanishes into thin air. After Madoka graduates from high school, she tells Yoko about what happened ten years ago when Midori saved her from drowning, believing it to be a message from her mother. Meanwhile, the Jersey Club form branches on Le Garite and De Metrio, with Madoka, Lan and Muginami helping out all over the universe.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/oqi6u3YCFb7QVqPVQeTdxdT8VGb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Lagrange: The Flower of Rin-ne",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "輪廻のラグランジェ",
+    "overview": "Madoka is the lone member of her school's Jersey Club. She is one day recruited by a mysterious girl named Lan to pilot the robot \"Vox\" and protect her city from space invaders. They are joined by a third girl, Muginami, who has a different goal than Ran. Meanwhile, they still don't know their enemies' true goal, or what \"Rinne\" might be.",
+    "popularity": 10.766,
+    "poster_path": "/nQNfa0BGj4MVcNeJ1zyGRYVhiqt.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-03-23",
+            "episode_count": 20,
+            "id": 52455,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/t1mEe1Vt6Gp4borGDzdU361lYb8.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-01-08",
+            "episode_count": 12,
+            "id": 52454,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fxCwJEMJ5UajbUpxObRsa8NGhYb.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2012-07-08",
+            "episode_count": 12,
+            "id": 52456,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/5m9aRmcQIYo55d8NdrrVFAiJ8Zr.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.3,
+    "vote_count": 3
+}

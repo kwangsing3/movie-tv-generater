@@ -1,0 +1,75 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2001-12-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 44055,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-03-25",
+    "last_episode_to_air": {
+        "air_date": "2002-03-25",
+        "episode_number": 2,
+        "id": 1579838,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Canvas: Motif Of Sepia",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "Canvas ～セピア色のモチーフ～",
+    "overview": "Asou Daisuke is a high school student and a gifted artist - but he is currently suffering from a block, which keeps him from painting. His childhood friend, Tachibana Amane, who loves him deeply, persuades him to do a portrait of Kimikage Yurina, a girl with a heart condition, before Yurina undergoes surgery. In the process of rediscovering his art, Daisuke also realises the love that he and Amane feel for each other.",
+    "popularity": 1.4,
+    "poster_path": "/dqSdU88syTaM62nV4NTLlUlGuA.jpg",
+    "production_companies": [
+        {
+            "id": 109302,
+            "logo_path": null,
+            "name": "Triple X",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2001-12-25",
+            "episode_count": 2,
+            "id": 109906,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 7,
+    "vote_count": 1
+}

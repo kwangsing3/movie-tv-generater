@@ -1,0 +1,162 @@
+{
+    "adult": false,
+    "backdrop_path": "/6S6BRYWKXqv6mF4wDZM5KrROk5u.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.hatsunejima.com/",
+    "id": 26444,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-03-30",
+    "last_episode_to_air": {
+        "air_date": "2013-03-30",
+        "episode_number": 13,
+        "id": 2491380,
+        "name": "Da Capo",
+        "overview": "After Sakura left everyone, they all receive a new message on their phones from an unknown sender. The next day the official newspaper club decides to try and start working on the articles for their graduation special, but after considering Sakura, they decide to take a different approach.",
+        "production_code": "",
+        "season_number": 5,
+        "still_path": "/q8oIcPAxUOA9SJWbBg2x6JkO6Gq.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Da Capo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 91,
+    "number_of_seasons": 5,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "D.C.～ダ・カーポ～",
+    "overview": "",
+    "popularity": 16.011,
+    "poster_path": "/yaDB7CTZA8PatqVmPnfwBynA9SI.jpg",
+    "production_companies": [
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17315,
+            "logo_path": "/8QPhCeRCNVa3jYCtDvThTlAGYSL.png",
+            "name": "feel.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2003-08-23",
+            "episode_count": 22,
+            "id": 36972,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/bDB1oEmlaDjKVNz9F9jwE7FeTcz.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-07-05",
+            "episode_count": 26,
+            "id": 36971,
+            "name": "Da Capo",
+            "overview": "",
+            "poster_path": "/5Zv92KuvX6G4v0zpPHdqCDBaKto.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2005-07-02",
+            "episode_count": 26,
+            "id": 36973,
+            "name": "Da Capo Second Season",
+            "overview": "",
+            "poster_path": "/3v2XDos72OTuFGPDHDQOpN3Qcpl.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2007-10-01",
+            "episode_count": 13,
+            "id": 36974,
+            "name": "Da Capo II",
+            "overview": "",
+            "poster_path": "/x1GpM7nyvi6dTPEGgIppWF7BakO.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2008-04-06",
+            "episode_count": 13,
+            "id": 167587,
+            "name": "Da Capo II Second Season",
+            "overview": "",
+            "poster_path": "/3v2XDos72OTuFGPDHDQOpN3Qcpl.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2013-01-05",
+            "episode_count": 13,
+            "id": 167588,
+            "name": "Da Capo III",
+            "overview": "On the island of Hatsune, where the spring scenery lasts all year round, stands a large cherry tree that never withers. The mysterious cherry tree, rumored to grant any wish, is the symbol of Hatsune Island. However, one day, it suddenly turns into an ordinary tree... The scent of spring enhances this slightly bittersweet tale of Sakura and the Kazami Academy Newspaper Club.",
+            "poster_path": "/t7FKFMyb95VttGGeByVHsHnLBpr.jpg",
+            "season_number": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

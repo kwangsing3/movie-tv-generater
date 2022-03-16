@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/hRn7YHTSC1ubZ9rvcbFAdrCO7nJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-04-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://zetman.jp/index.html",
+    "id": 61384,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-06-26",
+    "last_episode_to_air": {
+        "air_date": "2012-06-26",
+        "episode_number": 13,
+        "id": 1009840,
+        "name": "Funeral Procession",
+        "overview": "Jin walks down a bloody path in solitude as ZET - Alphas has fulfilled his dream of becoming a hero and fights according to his idea of justice - After so much bloodshed and tears, what is it that they wished to attain at the end?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gHWQgVDWoNtelv3SJ81OYfqNLHf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Zetman",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゼットマン",
+    "overview": "The story starts off with a face-off between two rival heroes, ZET and ALPHAS, and then traces their origins - Jin Kanzaki, a young man with the ability to transform into a superhuman being known as ZET, and Kouga Amagi, a young man with a strong sense of justice who uses technology to fight as ALPHAS.\n\nThe fates of these two men and those around them intertwine as they fight to protect mankind and destroy monstrous abominations known as Players.",
+    "popularity": 10.268,
+    "poster_path": "/4okKvxSog0DPYb61AbXBdojLJfv.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-03",
+            "episode_count": 13,
+            "id": 62790,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iSCkJG5Bkd2r0VGppM1SwvMVqYN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 8
+}

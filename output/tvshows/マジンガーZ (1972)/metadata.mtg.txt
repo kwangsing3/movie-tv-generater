@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/dxD7yCiBw3RqKAlK6935mZHPvIi.jpg",
+    "created_by": [
+        {
+            "id": 550612,
+            "credit_id": "5934ae799251417ddc02985c",
+            "name": "Go Nagai",
+            "gender": 2,
+            "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1972-12-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 19253,
+    "in_production": false,
+    "languages": [
+        "it",
+        "ja"
+    ],
+    "last_air_date": "1974-09-01",
+    "last_episode_to_air": {
+        "air_date": "1974-09-01",
+        "episode_number": 92,
+        "id": 572670,
+        "name": "Death Match! Resurrect our Mazinger Z",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/csXyGjTUd8VGBLcNpIRN5KEJuk5.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Mazinger Z",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 92,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マジンガーZ",
+    "overview": "Mazinger Z, known briefly as Tranzor Z in the United States, is a Japanese super robot manga series written and illustrated by Go Nagai. The first manga version was serialized in Shueisha's Weekly Shōnen Jump from October 1972 to August 1973, and it later continued in Kodansha TV Magazine from October 1973 to September 1974. It was adapted into an anime television series which aired on Fuji TV from December 1972 to September 1974. A second manga series was released alongside the TV show, this one drawn by Gosaku Ota, which started and ended almost at the same time of the TV show. Mazinger Z has spawned several sequels and spinoff series, among them UFO Robot Grendizer and Mazinkaiser. It was a very popular cartoon in Mexico during the 1980s, where it was dubbed into Spanish directly from the Japanese version, keeping the Japanese character names and broadcasting all 92 episodes, unlike the version aired in the U.S.",
+    "popularity": 47.498,
+    "poster_path": "/woGUtAdRwjzWgobGvF3ebW1WsKY.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1973-07-18",
+            "episode_count": 4,
+            "id": 29658,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/5b61OLM6sOx66M2N3LLC8yUEYZU.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1972-12-03",
+            "episode_count": 92,
+            "id": 29657,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/k6seMC08Jxt0Ywz736DlhXQGFrM.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 293
+}

@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/anrVGmcs2fn8cn8WNZ7Low6NkSQ.jpg",
+    "created_by": [
+        {
+            "id": 1255673,
+            "credit_id": "61ff99bba2423200b8152a14",
+            "name": "Masami Kurumada",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-04-01",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.tv-asahi.co.jp/seiya-koga/",
+    "id": 44317,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-30",
+    "last_episode_to_air": {
+        "air_date": "2014-03-30",
+        "episode_number": 97,
+        "id": 1757146,
+        "name": "The End of the Battle! Become a Legend, Kouga!",
+        "overview": "After a long and vicious battle, Kouga and his friends convince Saturn to recognize the value of mankind as he regains his lost memories from when he fought by their side as Subaru. The God of Time then takes his leave and while the efforts to rebuild the Sanctuary and Pallasvelda begin, Kouga and Eden embark on a journey together to find their own place in the world as a new era unfolds.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gQ6nVGUTEsVLBtdYU23ugGyBsZ5.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Saint Seiya Omega",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 97,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "聖闘士星矢Ω",
+    "overview": "A spin-off based on the Saint Seiya series.",
+    "popularity": 78.384,
+    "poster_path": "/qjgGUtZsosDehY49oshGU72TwTa.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-01",
+            "episode_count": 97,
+            "id": 53381,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ddryifituWlbfTKTkkABx2YygEs.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 134
+}

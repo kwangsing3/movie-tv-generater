@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/aLLTfRD7EfbE9GVyosknReARNHI.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://eurekaseven.jp/",
+    "id": 843269,
+    "imdb_id": "tt11951334",
+    "original_language": "ja",
+    "original_title": "EUREKA／交響詩篇エウレカセブン　ハイエボリューション",
+    "overview": "A virtual world in a scab coral (coral-like information life form) created by Eureka. Ten years have passed since the people of the virtual world appeared on this earth with the collapse. As a result of this “great fusion”, human beings in the virtual world call themselves “Green Earth”, and human beings on the old Earth call themselves “Blue Earth”, and various collisions will be repeated under the surface of the water. And Dewey Novak, a high-ranking official of the Green Earth Army, raises up with his colleagues to protect their dignity and finally puts into action a large-scale terrorist program.",
+    "popularity": 1.705,
+    "poster_path": "/vtTSvyjgfgQ6ASiiwxHgmC2LrmV.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        },
+        {
+            "id": 136217,
+            "logo_path": "/dBYuplhBgeOsGPQOI0LukWNbFWE.png",
+            "name": "Bandai Namco Arts",
+            "origin_country": "JP"
+        },
+        {
+            "id": 164670,
+            "logo_path": "/xnYxX1xr9yAncvoqQ7maG6LdD9u.png",
+            "name": "Bandai Namco Sevens",
+            "origin_country": "JP"
+        },
+        {
+            "id": 142186,
+            "logo_path": "/fCsUYQacBylGp6M7Fafz9Aza9GE.png",
+            "name": "Hakuhodo DY Music & Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 36342,
+            "logo_path": "/3xYrMZn6SrupK4R83EUgNPjzqj4.png",
+            "name": "Sammy",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-11-26",
+    "revenue": 0,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Eureka Seven Hi-Evolution 3",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

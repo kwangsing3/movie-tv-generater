@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/gD1wxipYITThPEFJyszx6w7Bo7x.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2014-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.aoha-anime.com",
+    "id": 62602,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-23",
+    "last_episode_to_air": {
+        "air_date": "2014-09-23",
+        "episode_number": 12,
+        "id": 1058701,
+        "name": "Page. 12",
+        "overview": "Futaba sees Kou's vulnerability for the first time, then sends him home to where his brother and father are waiting. As the three of them sit around the dinner table, Kou finally tells them how he feels. The next day, Kou's friends notice something different about him. At last, the class term ends. Their shining summer is about to begin!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4PyIq3FYKneYR39B7rIUCASSaOi.jpg",
+        "vote_average": 4,
+        "vote_count": 1
+    },
+    "name": "Blue Spring Ride",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アオハライド",
+    "overview": "At the end of her first year of high school, Futaba Yoshioka suddenly has a chance encounter with her first love, Kou Tanaka. Three years ago, he transferred schools before she was able to say how she felt about him. After meeting each other again, Futaba realizes that he has gone through many changes. He acts more cool and even had his last name changed to Mabuchi. Gradually the two rekindle their love while piecing together what had happened in the time that they were apart.",
+    "popularity": 28.42,
+    "poster_path": "/lAXKWt3IiKFJ1zOsuB6lYWIhovx.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-08-25",
+            "episode_count": 2,
+            "id": 66493,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ooh85of2cB1hAJ6v3J9fmd6zfm0.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-07-08",
+            "episode_count": 12,
+            "id": 66492,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yzucxktxhKn60FduHNhniwp4We0.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 257
+}

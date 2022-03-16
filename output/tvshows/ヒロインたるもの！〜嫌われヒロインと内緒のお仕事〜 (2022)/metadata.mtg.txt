@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/9PUhpowv0dvUlwtjs3uJYNGyCYq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://honeyworks-tvanime.com/",
+    "id": 132213,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "To Become a Real Heroine! The Unpopular Girl and the Secret Task",
+    "next_episode_to_air": {
+        "air_date": "2022-04-07",
+        "episode_number": 1,
+        "id": 3164050,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヒロインたるもの！〜嫌われヒロインと内緒のお仕事〜",
+    "overview": "",
+    "popularity": 5.953,
+    "poster_path": "/kbXLHIS34lPir7yjWrq0ROOY8TW.jpg",
+    "production_companies": [
+        {
+            "id": 59988,
+            "logo_path": null,
+            "name": "Lay-duce",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-07",
+            "episode_count": 1,
+            "id": 208075,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kbXLHIS34lPir7yjWrq0ROOY8TW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

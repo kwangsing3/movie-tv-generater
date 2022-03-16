@@ -1,0 +1,74 @@
+{
+    "adult": false,
+    "backdrop_path": "/sx8rb9goBRW6SwG1HDvRG8D3sRh.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "http://www.toei-video.co.jp/archive/re-cutiehoney/",
+    "id": 401856,
+    "imdb_id": "tt0423041",
+    "original_language": "ja",
+    "original_title": "Re:キューティーハニー",
+    "overview": "A mysterious organization known as Panther Claw make their presence known by terrorizing Tokyo and giving the cops a run for their money. Police are further baffled by the appearance of a lone cosplaying vigilante who thwarts all of Panther Claw's evil schemes before disappearing. That cosplayer is Honey Kisaragi, the result of the late Professor Kisaragi's prize experiment. A master of disguise, Honey can instantly alter her physical appearance and outfits. But with a push of the heart-shaped button on her choker, she transforms herself into Cutie Honey, the scantily clad, sword-wielding warrior of love and justice.",
+    "popularity": 5.581,
+    "poster_path": "/c58VDQwzjNqqQy8bqQudHnHdxZq.jpg",
+    "production_companies": [
+        {
+            "id": 12268,
+            "logo_path": null,
+            "name": "Dynamic Planning",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2004-06-24",
+    "revenue": 0,
+    "runtime": 137,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Re: Cutie Honey",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 24
+}

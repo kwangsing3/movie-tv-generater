@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/aEauxQGPgougEblaLppmgXSlM5O.jpg",
+    "created_by": [
+        {
+            "id": 1872504,
+            "credit_id": "59980f219251411e1e00b7aa",
+            "name": "Maya Miyazaki",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        6
+    ],
+    "first_air_date": "2012-01-23",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 73395,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-03-27",
+    "last_episode_to_air": {
+        "air_date": "2012-03-27",
+        "episode_number": 12,
+        "id": 1352403,
+        "name": "Farewell, Kurihashi!!",
+        "overview": "Minami is due to return to LA, so the girls set off some fireworks to see her off.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gokujo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chukyo TV",
+            "id": 2727,
+            "logo_path": "/KaIK93kJFD8WKH451owMdmNOSz.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゴクジョッ。~極楽院女子高寮物語~",
+    "overview": "Aya Akabane is anything but typical. She's arrogant, believes her bra is a fashion accessory that's meant to be worn in public, and takes out her aggression on her closest friends – especially poor Konatsu, who is frequently picked up and spun around by her ponytail. Together with her friends, Aya enjoys an action-packed, event-filled high school life, whether she's trying to steal the panties her friends are wearing or secretly trying to film her classmates' underwater!",
+    "popularity": 7.583,
+    "poster_path": "/nuSlKeZjdxixwmAcf2h41FTrHva.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-06-26",
+            "episode_count": 1,
+            "id": 194672,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-01-23",
+            "episode_count": 12,
+            "id": 91626,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/irTaHF9JAa8OCu81i1vi5brVdX6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 4
+}

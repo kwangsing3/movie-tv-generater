@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/taurn6tdwGn4p9jajmjpnmVYroS.jpg",
+    "created_by": [
+        {
+            "id": 81853,
+            "credit_id": "5945db22c3a368052d01749e",
+            "name": "Shigeyasu Yamauchi",
+            "gender": 2,
+            "profile_path": "/rxocuwSYRINMs7MLCUmvsTJKjci.jpg"
+        }
+    ],
+    "episode_run_time": [
+        20
+    ],
+    "first_air_date": "2013-07-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 70228,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-09-28",
+    "last_episode_to_air": {
+        "air_date": "2013-09-28",
+        "episode_number": 12,
+        "id": 1268756,
+        "name": "A Town Where You Live",
+        "overview": "Haruto is torn. He finally realizes who he's in love with, but the thought of having to break someone's heart in the process torments him.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vsKbMwAFB4fnHLk7JAAArXyUcc8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "A Town Where You Live",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "君のいる町",
+    "overview": "Haruto Kirishima lived a calm life out in the countryside, away from the fast-paced life of the city. Then Yuzuki Eba appeared in his life out of nowhere, having come from Tokyo to briefly live with her family. Their time together left him enamored with the memories of that short period before she just as abruptly disappeared from his life, and left him full of questions.Kimi no Iru Machi begins some time later, after Haruto moves to Tokyo to live with his sister, in order to pursue a career as a cook. In reality though he wishes to be with Yuzuki. Things don't start good though. When he arrives he is mistaken for a burglar and attacked by his sister's neighbour Mishima Asuka. After the misunderstand is cleared his feelings begin to waver though. Is Eba, who keeps avoiding him for seemingly no reason, the one for him or is it Asuka?",
+    "popularity": 8.286,
+    "poster_path": "/n02wroEc0E3z7T05i7YkT8IEXLH.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-03-16",
+            "episode_count": 4,
+            "id": 145020,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-07-13",
+            "episode_count": 12,
+            "id": 84982,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vYrzfIc4tBAnm2Q0CPRLTWvNmbd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 9
+}

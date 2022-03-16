@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/cIDevIojDBpVEa50r4idwNThG9L.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://konohanatei.jp",
+    "id": 74098,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-20",
+    "last_episode_to_air": {
+        "air_date": "2017-12-20",
+        "episode_number": 12,
+        "id": 1408093,
+        "name": "Miracle on New Year's Eve",
+        "overview": "Yuzu finds a kenzoku scroll while cleaning Okami's room before going with everyone to the shrine to celebrate the new year. After briefly dropping it, Yuzu finds herself in another dimension where a girl name Tsubaki mistakes her for one of her co-workers and drags her to a shrine where kenzoku work to help grant the wishes of those who pray at the shrine. Learning that she might not be able to return to her one world, Yuzu decides to help out after one of the workers collapses, learning of all the malicious and kind-hearted wishes that people make. Hearing Yuzu's desire to return home to her friends, Tsubaki manages to open the scroll yuzu brought with her, giving her the ability to send Yuzu home safely. Afterwards, it is revealed that Tsubaki was actually Okami herself from many years ago, with Yuzu's actions leading to the creation of the Konohanatei.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/eP2yO0qYwouLYAeIaV1dhYJ5brm.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Konohana Kitan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "このはな綺譚",
+    "overview": "Konohana Kitan is the heartwarming story of a new apprentice named Yuzu, and the other fox girls who work at a hot spring hotel called Konohatei. The staff at Konohatei live by one belief: no matter who one may truly be, no matter what, anyone who is a guest is a god. Of course, that includes you. Let the hospitality of Yuzu and the Konohatei heal your tired soul.",
+    "popularity": 8.786,
+    "poster_path": "/d6w9C9iReOHXSmXfNCPweURvCVa.jpg",
+    "production_companies": [
+        {
+            "id": 42811,
+            "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
+            "name": "Lerche",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-10-04",
+            "episode_count": 12,
+            "id": 93143,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9NyU3IRn5V0AhC3s9Lnc2j2mn4k.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 9
+}

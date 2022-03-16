@@ -1,0 +1,162 @@
+{
+    "adult": false,
+    "backdrop_path": "/gaXhBbnA1zjXQL0pwKldiN46nn0.jpg",
+    "created_by": [
+        {
+            "id": 551642,
+            "credit_id": "57c6101a92514138d2000558",
+            "name": "Eiji Suganuma",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1149042,
+            "credit_id": "5c1f7eecc3a3686fffea1d74",
+            "name": "Deko Akao",
+            "gender": 1,
+            "profile_path": "/sOKxl6uLAJpkGTa7JPu1YXG0ZaP.jpg"
+        },
+        {
+            "id": 1549385,
+            "credit_id": "5c1f7ec1c3a368700eea29f3",
+            "name": "Makoto Moriwaki",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://bpro-anime.com/",
+    "id": 67628,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-21",
+    "last_episode_to_air": {
+        "air_date": "2019-03-21",
+        "episode_number": 12,
+        "id": 1659853,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/4lNu1J4gxRp1IhZWm0AAkflHCnc.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "B-PROJECT",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tochigi TV",
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "B-PROJECT～鼓動＊アンビシャス～",
+    "overview": "Tsubasa is a new hire in the A&R department of the major recording company Gandala Music. Tsubasa is immediately assigned to oversee the idol unit \"B-PROJECT,\" which is made up of three idol groups: Kitakore, Thrive, and MooNs. This is Tsubasa's first job, and she gets involved in various incidents and accidents as she deals with this group of young men who each have their own differing personalities.",
+    "popularity": 5.184,
+    "poster_path": "/2GuZ8IRVYXkepzYZGz3kBsmr5ot.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-03",
+            "episode_count": 12,
+            "id": 79709,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/t0wssGcDqjIZfxBIDbOlWU07jWS.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-01-11",
+            "episode_count": 12,
+            "id": 114815,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/dBQcE11HxU8FNOIdiHtADMTMszZ.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2
+}

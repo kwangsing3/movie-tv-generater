@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/qhWp5Apc3Ae8P1jRhD5Vi9c7WQW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-09-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://hataage-kemonomichi.com/",
+    "id": 91584,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-18",
+    "last_episode_to_air": {
+        "air_date": "2019-12-18",
+        "episode_number": 12,
+        "id": 1944455,
+        "name": "Hero x Demon King",
+        "overview": "The last battle between the Demon King and the hero begins, to decide who will win the wrestling tournament.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8mUISWyWwfF90LYVZcLqHFYX3dX.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Kemono Michi: Rise Up",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "旗揚！けものみち",
+    "overview": "Professional wrestler and animal lover Shibata Genzo is suddenly summoned to another world. Greeted by a princess, she requests to get rid of the evil beasts roaming in this world. Outraged that he was asked to kill monsters, Genzo German suplexes the princess. Unable back to get back to Earth, he decides to live a peaceful life and manage a \"monster\" pet shop.",
+    "popularity": 12.235,
+    "poster_path": "/g916Xx2kh0FZUIVDbyptxvNMFW7.jpg",
+    "production_companies": [
+        {
+            "id": 121246,
+            "logo_path": "/jt7YfHwB5k0bGVMsSy1WwJhI2hM.png",
+            "name": "ENGI",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-09-29",
+            "episode_count": 12,
+            "id": 128444,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/90BSeFwrpOG0HWhgmMeoFCY1Cbl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 16
+}

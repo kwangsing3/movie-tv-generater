@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/iWtkdFQl65YymP0JLgIhGZjDcvo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        1
+    ],
+    "first_air_date": "2020-08-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.ncctv.co.jp/minamishimabara/anime.html",
+    "id": 103883,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-08-15",
+    "last_episode_to_air": {
+        "air_date": "2020-08-15",
+        "episode_number": 2,
+        "id": 2381797,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shiro, the Giant, and the Castle of Ice",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        },
+        {
+            "name": "Nagasaki Culture Telecasting Corporation",
+            "id": 3756,
+            "logo_path": "/qEIIHhehdHtTQ4fhuXrA29mbzmo.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "巨神と氷華の城",
+    "overview": "",
+    "popularity": 2.09,
+    "poster_path": "/7h6ADW0zxemBXMP09k4AqwpL5PX.jpg",
+    "production_companies": [
+        {
+            "id": 134376,
+            "logo_path": null,
+            "name": "TriF Studio",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-08-08",
+            "episode_count": 2,
+            "id": 151684,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7h6ADW0zxemBXMP09k4AqwpL5PX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2
+}

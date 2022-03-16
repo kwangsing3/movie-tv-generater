@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/qAvKNM0DGQKB6RAIxVrW6iDv9gs.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-10-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.ytv.co.jp/bj/index.html",
+    "id": 35868,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-04",
+    "last_episode_to_air": {
+        "air_date": "2006-09-04",
+        "episode_number": 17,
+        "id": 1938876,
+        "name": "The Sanctity of Life",
+        "overview": "Black Jack tells Dr. White to change course to the North Pole, meanwhile Renka start her plan in getting the Phoenix Disease. Later the Sky Hospital receives a call from the US Alaska base, and are told that Doctors from all the world are trying to find the cure to the Phoenix Disease, one of them being Dr. Kuma revealing that they only have 21 hours to cure or die. The National Security manager is told that they are going to launch a Nuclear Missile to rid of the Virus and as well of those ill from it. Renka gets on the Sky Hospital. Just before Renka about to shot Black Jack, her father interfere, they both shot each other, Zen Mantoku died and Renka injured badly, Black Jack decided to operate Renka, anyway. When operating Renka Black Jack finds the cure to the Phoenix Disease. The missile has been shot without any way to making it to don't crash on North Pole. While the Phoenix Disease continues to spread in Black Jack's body, he questions himself why he is saving Renka's life.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Black Jack",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 77,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブラック・ジャック",
+    "overview": "The medical adventures of doctor Black Jack.",
+    "popularity": 16.183,
+    "poster_path": "/5mb3QhIrVfxylToGeTAfQ8oN2PM.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-07-17",
+            "episode_count": 9,
+            "id": 133108,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-10-11",
+            "episode_count": 60,
+            "id": 46663,
+            "name": "Black Jack",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2006-04-10",
+            "episode_count": 17,
+            "id": 133109,
+            "name": "Black Jack 21",
+            "overview": "",
+            "poster_path": "/iZdYk4SKjnSupjK5XIk0WTt281.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

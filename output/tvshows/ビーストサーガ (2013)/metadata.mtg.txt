@@ -1,0 +1,152 @@
+{
+    "adult": false,
+    "backdrop_path": "/uWG58PLJwTvgZhRyVoDkcju1ryu.jpg",
+    "created_by": [
+        {
+            "id": 3437541,
+            "credit_id": "6213d6fae0ca7f006ad4d6f4",
+            "name": "Manabu Honjo",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30,
+        11
+    ],
+    "first_air_date": "2013-01-13",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.d-rights.com/work/en/beast-saga.html",
+    "id": 130794,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-09-29",
+    "last_episode_to_air": {
+        "air_date": "2013-09-29",
+        "episode_number": 38,
+        "id": 3116272,
+        "name": "Heading Into the Future! Beast Fight!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Beast Saga",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 38,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ビーストサーガ",
+    "overview": "On a distant planet in our galaxy called Beast, three beast tribes - the Sea Tribe, the Land Tribe, and the Sky Tribe - fight for their honor. Each of the tribes protect an infinite elemental power source called Godlot.",
+    "popularity": 0.6,
+    "poster_path": "/xGMCap22vSUeeNLMNQahRPsNeJe.jpg",
+    "production_companies": [
+        {
+            "id": 140224,
+            "logo_path": "/5sKwEOp3RdoAukp6qHwSE8MoTit.png",
+            "name": "SynergySP",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11644,
+            "logo_path": null,
+            "name": "TakaraTomy",
+            "origin_country": ""
+        },
+        {
+            "id": 12518,
+            "logo_path": "/qJZAVb8vx6qFLQJ6cunRkVUJVdB.png",
+            "name": "d-rights",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 94267,
+            "logo_path": null,
+            "name": "Half H.P Studio",
+            "origin_country": ""
+        },
+        {
+            "id": 170324,
+            "logo_path": null,
+            "name": "Gloria Kingdom Public Relations Office",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-01-12",
+            "episode_count": 38,
+            "id": 205184,
+            "name": "Season 1",
+            "overview": "Planet Beast lies in the far reaches of the galaxy.\n\nThe Beasts on this planet have evolved uniquely and created their own cultures on the land, under the sea, and in the air…\n\nMysterious sources of energy called “Godlot” can be found on Planet Beast. They are made up of a “Head Part,” “Body Part,” and “Bottom Part.” When those three parts are combined, an incredible power is gained, but with it comes the risk of disaster.\n\nLand tribe possesses the “Fire Godlot”\n\nSea tribe possesses the “Water Godlot”\n\nSky tribe possesses the “Wind Godlot”\n\nThe Land tribe lives in “Gloria Kingdom.” Their beloved King Liogre, known as the “Fierce Iron Fist King,” has preserved peace and order on the land for many years.\n\nHowever, Gloria Kingdom is put in danger when fighting over Godlot suddenly begins between the Beasts.\n\nAn epic battle between tribes over Godlot begins!!",
+            "poster_path": "/7pbHm3jzbfAeosgM2VvgBZO0Vtx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

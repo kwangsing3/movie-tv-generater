@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/nfi0uBBXnL8rF6T6Gpu84TOPwo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://umanohone.jp/",
+    "id": 61407,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-12-18",
+    "last_episode_to_air": {
+        "air_date": "2014-12-18",
+        "episode_number": 12,
+        "id": 1405810,
+        "name": "The Hermit's Library / When the Cherry Blossoms Bloom / Welcoming Morning",
+        "overview": "The cherry blossoms are blooming, so we're going on a picnic. The wind blows through flowers and hearts alike... and it's a cosplay cherry blossom picnic!!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dq1uFZtbb1Fuj23J2xaZADuzkiN.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Denki-gai",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デンキ街の本屋さん",
+    "overview": "A blush-inducing, coming-of-age comedy about manga-loving book store employees!! The unique cast of characters -- all hard-core manga fans and maniacs of some sort -- work at comic shop “Uma no Hone.” On a daily basis, they display new releases, shrink-wrap comics, shudder at their lack of feminine qualities, question their love for porn literature…and basically have fun while working hard (?). Girls and guys call each other by nicknames and some begin to develop close relationships! It’s non-stop humor and romance in this book store rom-com!",
+    "popularity": 10.258,
+    "poster_path": "/yDQBCRXijW1AEwKw1mAViIMUI2n.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-10-02",
+            "episode_count": 12,
+            "id": 62854,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bVAI3XmgKyIaKVQwi0GLxLf5cgp.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 10
+}

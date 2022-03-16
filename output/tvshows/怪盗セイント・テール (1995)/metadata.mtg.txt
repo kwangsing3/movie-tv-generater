@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/ukyTk5sBDv4P4LSODIwApGfIQb0.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1995-10-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tokyopop.com/dbpage.php?propertycode=STL&categorycode=VAN",
+    "id": 13452,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-09-12",
+    "last_episode_to_air": {
+        "air_date": "1996-09-12",
+        "episode_number": 43,
+        "id": 498602,
+        "name": "The Final Battle! Save Asuka Jr.",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Saint Tail",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 43,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "怪盗セイント・テール",
+    "overview": "Saint Tail is a phantom thief magical girl manga and anime series. Originally a twenty-four part manga by Megumi Tachikawa, the story was adapted into an anime television series by producer Tokyo Movie Shinsha, with forty-three episodes and one short, broadcast by ABC. Tokyopop translated the manga series, and subtitled and partially dubbed the anime series.\n\nVideo Games were released for the Sega Saturn and Sega Game Gear in Japan, and are considered collectors items by Saint Tail fans.\n\nThe Tokyopop book summary states that it is \"Robin Hood meets Sailor Moon!\"",
+    "popularity": 21.968,
+    "poster_path": "/sAMuqsR2asWZgWgYs01YlBpjAm9.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-10-12",
+            "episode_count": 43,
+            "id": 24426,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/89OS1VYekTWBVaSjbBJs27LQ3ch.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "She'll steal your heart!",
+    "type": "Scripted",
+    "vote_average": 9.5,
+    "vote_count": 2
+}

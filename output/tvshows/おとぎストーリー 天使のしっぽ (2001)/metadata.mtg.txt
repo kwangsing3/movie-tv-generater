@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/A9lQPZE7liFLVg78d2FpJ4Ow7pp.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2001-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 34859,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-03-06",
+    "last_episode_to_air": {
+        "air_date": "2003-03-06",
+        "episode_number": 7,
+        "id": 1389003,
+        "name": "The Feather of Gentle Love",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Angel Tales",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 19,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おとぎストーリー 天使のしっぽ",
+    "overview": "Goro keeps losing jobs and has little money. One day he meets a fortune-teller outside of a pet store who predicts that his luck will change. That night three girls appear in his apartment claiming to be his guardian angels.",
+    "popularity": 6.709,
+    "poster_path": "/izFa1Llhk6zI5uSFG4NkFeGUlPm.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2002-03-25",
+            "episode_count": 6,
+            "id": 181539,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2001-10-04",
+            "episode_count": 12,
+            "id": 45672,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2003-03-06",
+            "episode_count": 7,
+            "id": 94789,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 3
+}

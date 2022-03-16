@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/lIheiZ1PVZx80wDSPVCMOZmwJC4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://sagrada-anime.com/",
+    "id": 71014,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-13",
+    "last_episode_to_air": {
+        "air_date": "2017-09-13",
+        "episode_number": 24,
+        "id": 1320417,
+        "name": "Boy, Girl and the Story of Sagrada 5/5",
+        "overview": "Sumire collapses and no one can wake her. To save her, Kei returns to the dream world where she gives him an ultimatum that may cost him his life.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4dudHf7wgXSbHZdSfrSoYIBHUBh.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sagrada Reset",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サクラダリセット",
+    "overview": "Nearly half the population of Sakurada, a small town near the Pacific Ocean, has some sort of unique power. These powers range from being able to enter the mind of a cat, to resetting the world back to a certain point in time in the past. There is a group known as the \"Kanrikyoku\" that controls and monitors the use of these powers. Asai Kei and Haruki Misora work for their school’s club called \"Houshi\" club, which execute any missions received from the Kanrikyoku. Misora has the ability to reset the world 3 days. This means that all events and any memory of the past 3 days that \"could have\" happened, never happened. Kei has the ability to \"remember\" the past. Even after Misora uses her powers to reset the world back 3 days, Kei will retain those 3 days in his memory. Combining their powers, these two solve missions issued by the Kanrikyoku.",
+    "popularity": 9.515,
+    "poster_path": "/ldEuPb5uFwDk1HQInurcUV2w7tD.jpg",
+    "production_companies": [
+        {
+            "id": 45188,
+            "logo_path": "/aPH68PzQDtz7QorAU369IlxwgnU.png",
+            "name": "David Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-04-05",
+            "episode_count": 24,
+            "id": 86833,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/r5DwYRjoqhZUrhWeBPRgjN5HyYK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 8
+}

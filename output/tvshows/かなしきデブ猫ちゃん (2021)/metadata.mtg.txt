@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/l8nKlaoGJBjpTWZ6WoS7txvFm3b.jpg",
+    "created_by": [
+        {
+            "id": 2094081,
+            "credit_id": "6172b88efd7aa400435a2ff3",
+            "name": "Kazumasa Hayami",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3280374,
+            "credit_id": "6172b8855294e7002a371c83",
+            "name": "Karin Kanou",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2021-12-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.nhk.or.jp/matsuyama/debunekochan/",
+    "id": 136935,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-17",
+    "last_episode_to_air": {
+        "air_date": "2021-12-17",
+        "episode_number": 10,
+        "id": 3298063,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kanashiki Fat Cat",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK",
+            "id": 2334,
+            "logo_path": "/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "かなしきデブ猫ちゃん",
+    "overview": "",
+    "popularity": 0.842,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 59264,
+            "logo_path": null,
+            "name": "Cyclone Graphics inc",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-12-06",
+            "episode_count": 10,
+            "id": 216632,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

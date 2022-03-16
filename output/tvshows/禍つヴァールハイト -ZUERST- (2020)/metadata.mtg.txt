@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/7ufbHJtjrfG9Mt5bq2kkbA6SwvT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://magatsu-wahrheit-zuerst.com/",
+    "id": 102432,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-29",
+    "last_episode_to_air": {
+        "air_date": "2020-12-29",
+        "episode_number": 12,
+        "id": 2580761,
+        "name": "The Hand that Rocks the Cradle",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cc8u2zej7aeSY8GQPdRmq7jOF4t.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magatsu Wahrheit: Zuerst",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "禍つヴァールハイト -ZUERST-",
+    "overview": "Two young people living in the Wahrheit Empire are planning to relocate to the capital city: the shy Inumael who works as a transporter and left his beloved sister behind at his parents' home, and Leocadio, a naive new soldier of the Empire who spends his days in the imperial city thinking of his future as a soldier.\n\nIn the Empire, countless human beings were once extinguished from the world. The return of the \"light,\" the disaster that summoned a ferocious monster into the world, is predicted, and the remaining humans' spirits are devastated. Meanwhile, the fate of Inumael, Leocadio, and the history of the Empire will change drastically as a result of one weapon smuggling incident.",
+    "popularity": 17.221,
+    "poster_path": "/o9hunbSF1UT7VIGs2gnVA3liqSh.jpg",
+    "production_companies": [
+        {
+            "id": 114835,
+            "logo_path": null,
+            "name": "Yokohama Animation Lab",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-13",
+            "episode_count": 12,
+            "id": 148872,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lg3tW2VUrhkih93EsF5b3zEhC5Z.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 5
+}

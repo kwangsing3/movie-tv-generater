@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kami-kuzu.com/",
+    "id": 139551,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Phantom of the Idol",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "神クズ☆アイドル",
+    "overview": "Yuuya, one half of the boy pop duo ZINGS, may be the laziest performer in the Japanese music industry. His partner is out there giving 110% every night (and, thankfully, he's quite popular), but Yuuya's half-assed, sloppy dancing, and his frankly hostile attitude toward the audience, has the fans hating him and his agent looking for any excuse to cut him loose. The career of a pop idol just isn't the path of easy leisure and adulation Yuuya expected…\n\nAfter a particularly lifeless concert appearance, Yuuya meets a girl backstage. She's dressed to the nines in a colorful outfit, she's full of vim and vigor, and all she wants from life is to perform. There's just one problem: She's been dead for a year. This is the ghost of Asahi Mogami, the beloved singer whose time on the stage was tragically cut short, unless… If ghosts are real, is spirit possession really that much of a stretch?",
+    "popularity": 0.6,
+    "poster_path": "/AfKCiTzjsHg0oirlj6ohBPXlL8n.jpg",
+    "production_companies": [
+        {
+            "id": 55938,
+            "logo_path": null,
+            "name": "avex pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 221042,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/x3hy2MhiL9K2seRWN2hWzIxdv7W.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

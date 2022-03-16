@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/8G6MVJcRJQX5QmdM98jf0jnFkRt.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2020-10-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://soredakega-neck.com",
+    "id": 109786,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-28",
+    "last_episode_to_air": {
+        "air_date": "2020-12-28",
+        "episode_number": 12,
+        "id": 2483429,
+        "name": "The Neck of an Onigiri",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "That is the Bottleneck",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "それだけがネック",
+    "overview": "Themed around the ambiguities of modern communication, the story of Soredake ga Neck is set in the Hot Hot Mart convenience store, where the mysterious young man known as Muto works in the company of Nekomaru, the slightly sinister store's cat. Is Muto the savior of the Hot Hot Mart? Or is this merely an ominous existence? What sort of stories await at the convenience store?",
+    "popularity": 8.25,
+    "poster_path": "/ylA3JsaXErXRRWGii3BxdsPchov.jpg",
+    "production_companies": [
+        {
+            "id": 140067,
+            "logo_path": null,
+            "name": "TIA",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-12",
+            "episode_count": 12,
+            "id": 162713,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ylA3JsaXErXRRWGii3BxdsPchov.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 1
+}

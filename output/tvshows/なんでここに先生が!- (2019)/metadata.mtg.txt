@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/tRtkUNrF8LXcVZap3LGXMChjVvm.jpg",
+    "created_by": [
+        {
+            "id": 1711165,
+            "credit_id": "5cade3c99251417aa101282f",
+            "name": "Toshikatsu Tokoro",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "2019-04-08",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.nankoko-anime.com",
+    "id": 86836,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-06-24",
+    "last_episode_to_air": {
+        "air_date": "2019-06-24",
+        "episode_number": 12,
+        "id": 1732657,
+        "name": "Twelfth Period",
+        "overview": "Koh didn’t get any chocolates on Valentine’s Day. Will his luck change after he runs into Chizuru? Either way, graduation is approaching and he has yet to find a girlfriend...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/uio0h7jl7Kd0ydRA4WZCZJEg62P.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Why the Hell are You Here, Teacher!?",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "なんでここに先生が!?",
+    "overview": "Ichiro Sato is about as average as a student can get… except for his above-average ability to land himself in totally awkward, intensely risqué situations with his no-nonsense teacher, Kana Kojima! Ichiro has his hands full dealing with these steamy shenanigans and unexpected encounters in the most unlikely places. At least it can’t get any worse, right?",
+    "popularity": 63.507,
+    "poster_path": "/1yss3gl6mMNT9Txvdtvnu2KTWt9.jpg",
+    "production_companies": [
+        {
+            "id": 116943,
+            "logo_path": null,
+            "name": "Tear Studio",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-12-11",
+            "episode_count": 1,
+            "id": 133324,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/lxc5GKACmiXIIIJebPXNGLuA1Ds.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-04-08",
+            "episode_count": 12,
+            "id": 118875,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1zIfASiWu0jsEPA8tkApZBQk1jx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Teacher, Teacher, I Declare...Why Are You Only Wearing Your Underwear?",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 560
+}

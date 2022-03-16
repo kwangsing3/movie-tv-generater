@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/3NA9fIXtucj5zF2y0oQvN2Of29y.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2016-10-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://ch.nicovideo.jp/PBM",
+    "id": 68455,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-06",
+    "last_episode_to_air": {
+        "air_date": "2021-12-06",
+        "episode_number": 12,
+        "id": 3351321,
+        "name": "",
+        "overview": "It's the day of the big wedding, and there are plenty of other big things on display, too!",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/sPNgtLj3ZqiGEwVlYlQp9GKJKhp.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tawawa on Monday",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        },
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "月曜日のたわわ",
+    "overview": "The anime follows a salaryman who has a chance meeting with a girl named Ai on the train. They begin to meet every Monday on the train, with the man serving as her bodyguard on the crowded commute while they chat.",
+    "popularity": 33.223,
+    "poster_path": "/8yOEY8X7G2JrE8MWm08cuHckljk.jpg",
+    "production_companies": [
+        {
+            "id": 91510,
+            "logo_path": "/1eYmEppUaIhXUhejVYPJQhwx4JP.png",
+            "name": "Pine Jam",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-12-29",
+            "episode_count": 3,
+            "id": 134426,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/aaOPmXOH7OrbNw7JeRtofTCFamW.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-10-10",
+            "episode_count": 12,
+            "id": 81514,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/npCotd32GxxFiP6m22EiCMvivrP.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-09-20",
+            "episode_count": 12,
+            "id": 211836,
+            "name": "Season 2",
+            "overview": "A salaryman and a high school girl become friends as they ride the train together every Monday.",
+            "poster_path": "/iDVU07YTyAPM6Y0XeqB5w2naeKe.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 14
+}

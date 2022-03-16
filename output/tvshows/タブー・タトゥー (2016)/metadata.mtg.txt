@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/9o9I1cseC7zKC6xqvnoFVut0AiV.jpg",
+    "created_by": [
+        {
+            "id": 81719,
+            "credit_id": "58318491c3a3685ba80229e9",
+            "name": "Takashi Watanabe",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.tabootattoo-anime.com",
+    "id": 66992,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-20",
+    "last_episode_to_air": {
+        "air_date": "2016-09-20",
+        "episode_number": 12,
+        "id": 1223663,
+        "name": "The Deciding Battle",
+        "overview": "Izzy and the others race through the ruins... and find Justice skewered on a bed of spikes. Worse yet, his overuse of his tattoo powers has weakened his regenerative ability, leaving him on the verge of death. Izzy and Tamaki tell Tom to take him and flee while they face off against Arya to buy him more time. When Justice realizes that Izzy and the others are fighting to save him, he knows that he was wrong to become so obsessed with vengeance, and his mind turns toward saving them instead...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zFeAVYoTIgTqDuGtEndleg3tQgL.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Taboo Tattoo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "タブー・タトゥー",
+    "overview": "Seigi, a martial arts trained middle schooler, often feels driven to protect the weaker people around him. One day, he defends a homeless man against some punks, and the man gives him a strange tattoo on his palm in return. The tattoo is a secret weapon produced in the arms race between America and the Serinistan Kingdom. Seigi finds himself in over his head when a powerful girl, using the same secret weapon, violently pursues him in order to retrieve it. His skill at martial arts may not be enough to keep him alive, but will he be able to learn how to trigger the power of his tattoo in time?",
+    "popularity": 22.505,
+    "poster_path": "/yd050mWaZHyRNMszkVzm3BSnqrZ.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-05",
+            "episode_count": 12,
+            "id": 78258,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3HeZ26iqphN0NN9NfrpzbbA7BRZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 69
+}

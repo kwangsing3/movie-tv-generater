@@ -1,0 +1,151 @@
+{
+    "adult": false,
+    "backdrop_path": "/cLkseGdKLAC8D3uIRUAO5dIAdPE.jpg",
+    "created_by": [
+        {
+            "id": 2381644,
+            "credit_id": "6075b3d33f4833002972823a",
+            "name": "Katsuhi Sakurabi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-07-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://wwws.warnerbros.co.jp/anime/kamimemo/",
+    "id": 68379,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-23",
+    "last_episode_to_air": {
+        "air_date": "2011-09-23",
+        "episode_number": 12,
+        "id": 1466236,
+        "name": "You, Me, and Her",
+        "overview": "Narumi rushes over to Alice's place to find the other NEETs there waiting for him. Alice manages to find Ayaka's cell phone, which leads to the Fourth's club. They find the phone and a crazy guy on Angel Fix there, but no Hakamizaka. Narumi leaves with Major, but on the way, he notices a strange flashing when the light hits the packaging of the Angel Fix. Later, he shows everyone and it turns out to be angel wings. Alice concludes that the flashing wings are coupled with the visual enhancement from Angel Fix to serve as a guide. Narumi offers to take the drug in order to find a dealer. However, when he takes the drug, he becomes annoyed at the other NEETs talking to him through the receiver and takes it off. He has a vision of Ayaka as an angel and rushes towards her, managing to find a dealer.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/g3cjg1ZgtLH4L161OuEch3Ed4W1.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Heaven's Memo Pad",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "神様のメモ帳",
+    "overview": "Narumi Fujishima is an ordinary high school boy who remains isolated from his fellow classmates. One afternoon fellow classmate Ayaka Shinozaki invites Narumi to join the gardening club and introduces him to a reclusive detective named Alice. Alice hires Narumi as an assistant and puts him to work solving the strange mysteries of Angel fix, an illegal drug. Little does he know it could put him and Ayaka in serious trouble.",
+    "popularity": 5.493,
+    "poster_path": "/XEJWiv541Tzmw14lWDUFhiZqps.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-07-02",
+            "episode_count": 12,
+            "id": 102100,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/msX1WJg80C71T5an0VYfm8LFNk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 13
+}

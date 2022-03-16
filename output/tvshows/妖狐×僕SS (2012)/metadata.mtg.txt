@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/tXLnqWhnCqrQSvexVW9JhStcZg3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.inuboku.tv",
+    "id": 45282,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-03-30",
+    "last_episode_to_air": {
+        "air_date": "2012-03-30",
+        "episode_number": 12,
+        "id": 900499,
+        "name": "The Day We Became a Couple",
+        "overview": "Kotarou has a conversation with Sorinozuka about his worries on what might happen when his father reincarnates, but then Zange comes out of a bush and suggest making a time capsule so Kotarou can send a message to his father's reincarnation in the future. Zange invites Watanuki and Karuta to join and eventually everyone else joins in too, as well as Ririchiyo, who recounts how she was when she first arrived at Ayakashikan to how she is now. While Kotarou thinks of what to write, he is comforted by his father, who states that the him who has not met Kotarou or his mother is not him at all. As they bury the time capsule. Sorinozuka notices that Ririchiyo accidentally placed a letter written to Miketsukami into the time capsule. Realizing that she accidentally switched a letter to Miketsukami from the one meant for her future self, which stated she will not run away and stay by Miketsukami's side, she runs off to Seijou Park. After talking with Miketsukami over the phone, while he goes to fetch her, Ririchiyo realizes that Miketsukami hates himself like she was before, but she was able to overcome the ordeal because she fell in love with Miketsukami. Knowing she has hurt others to protect herself, she decided to use her courage to save Miketsukami by confessing to him and Miketsukami embraces Ririchiyo stating that he too loves her. The ending credits shows separate clips of certain scenes in the manga and ends with Miketsukami revealing that his only dream is to have a child and a family. Ririchiyo decides not to answer him because it is an important decision and that they have plenty of time to decide.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6o3ynhQC91p1vrEnoRIVTkF0W7Y.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Inu X Boku Secret Service",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "妖狐×僕SS",
+    "overview": "Protected by the highest security, the Maison de Ayakashi is rumored to be haunted, where only eccentrics could live. In reality, it is a place for humans with non-human ancestors to live. The socially-inept Ririchiyo has come here to improve herself. She meets secret service bodyguard Soushi, who is assigned to protect residents. He has a request of her: \"Please make me your dog.\"",
+    "popularity": 23.701,
+    "poster_path": "/fX9toocrrR6A6iE9rzBMnFsKmRV.jpg",
+    "production_companies": [
+        {
+            "id": 45188,
+            "logo_path": "/aPH68PzQDtz7QorAU369IlxwgnU.png",
+            "name": "David Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-09-30",
+            "episode_count": 1,
+            "id": 53919,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/x6I3qIJ5r1TTdT0ICBt9A9OmnbF.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-01-12",
+            "episode_count": 12,
+            "id": 53920,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/f7AY7lq8advsox7lFKfzcBwGutV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 78
+}

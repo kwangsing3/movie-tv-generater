@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/rzW1gH5oe339KwGGXx86PVDhE1C.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        8
+    ],
+    "first_air_date": "2015-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://wakabagirl.com/",
+    "id": 63627,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-25",
+    "last_episode_to_air": {
+        "air_date": "2015-09-25",
+        "episode_number": 13,
+        "id": 1790799,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Wakaba Girl",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "わかば*ガール",
+    "overview": "",
+    "popularity": 4.275,
+    "poster_path": "/eRM31G29OiOfHjf04Ramzuzhaca.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-10-23",
+            "episode_count": 1,
+            "id": 124260,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-07-03",
+            "episode_count": 13,
+            "id": 124259,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xCoy1wriBkwy8Xm8EJJLtH8vRda.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 9
+}

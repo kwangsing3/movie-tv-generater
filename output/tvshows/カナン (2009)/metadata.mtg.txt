@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/oq7BbtOiTTMhptQigQoCyDyo2a5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.canaan.jp/",
+    "id": 43418,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-09-26",
+    "last_episode_to_air": {
+        "air_date": "2009-09-26",
+        "episode_number": 13,
+        "id": 887995,
+        "name": "Land of Hope",
+        "overview": "As the bomb counts down, Yunyun has second thoughts and runs after the detached carriage. The Bomb explodes and Canaan reacts, as what presumably is her \"true strength\" becomes apparent, she starts to see Alphard as green (signifying fear) Canaan then injures Alphard, and she attempts to escape via helicopter, that shoots into the carrages to cover Alphard's escape. Before Alphard climbs onto her helicopter, Canaan reveals that Maria isn't dead, as she can still feel her kindness, and that she isn't a \"light\" to Canaan, but a Friend. Meanwhile Yunyun carries an injured Maria away from the burning carrage. As Alphard tries to escape Canaan shoots the Machine Gunner on the helicopter, making him spin the machine gun to fire into the cabin, killing the pilot and critically damaging the helicopter, Before the helicopter crashes into a mountain face, Canaan and Alphard drop back onto the train that then goes into a tunnel.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5ICtvIiJ6aG2RV4bGZ7w8J2CXSi.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Canaan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カナン",
+    "overview": "Two years ago, Shibuya was ravaged by a biological terrorist  attack using the deadly Ua virus. Maria Osawa was saved when her father  inoculated her against the virus, but is left with partial amnesia from  the shock. She works as a cameraman when she reunites with a girl named  Canaan in Shanghai, China. A gifted assassin with synesthesia, she is  under orders from an unknown organization for a yet unspecified mission",
+    "popularity": 10.293,
+    "poster_path": "/pz6F0f9gmXOVH9IprXDm3XONad4.jpg",
+    "production_companies": [
+        {
+            "id": 20867,
+            "logo_path": "/op3ROO9jB4KwLUZ16VAvuGasRRv.png",
+            "name": "P.A.Works",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-02-26",
+            "episode_count": 1,
+            "id": 52831,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-07-04",
+            "episode_count": 13,
+            "id": 52832,
+            "name": "Canaan",
+            "overview": "",
+            "poster_path": "/6FJgKqokGD5cg26lxxov8EeKp2N.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 19
+}

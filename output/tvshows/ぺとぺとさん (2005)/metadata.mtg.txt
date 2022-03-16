@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 2636958,
+            "credit_id": "5ebc06b41dbc88001bdbbf82",
+            "name": "Kou Kimura",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2005-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.petopeto.com/",
+    "id": 34737,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-10-01",
+    "last_episode_to_air": {
+        "air_date": "2005-10-01",
+        "episode_number": 13,
+        "id": 791209,
+        "name": "Good-bye, Petopeto-san",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Petopeto-san",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぺとぺとさん",
+    "overview": "Petopeto-san is a light novel series by Kou Kimura, with illustrations by Yug. An anime adaptation ran from July 9, 2005 to October 1, 2005. The show takes place in a Japanese school where everything is normal, except for students from what are called \"specified races.\" The specified races are based on yōkai from Japanese mythology; for example, one student on the swim team is a kappa, while another, a nurikabe, merges with walls and is popular in the summertime for having a very cool temperature.",
+    "popularity": 3.551,
+    "poster_path": "/5JuQjIHkNYZk7BLszTgD6SVllAV.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-07-08",
+            "episode_count": 13,
+            "id": 45498,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/qFkKeqoho9belJ6bHDMGtfxWrsI.jpg",
+    "created_by": [
+        {
+            "id": 57475,
+            "credit_id": "5d8819be172d7f000d4a2074",
+            "name": "Álvaro Rodríguez",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1554648,
+            "credit_id": "5d881975172d7f00274a0c55",
+            "name": "Brad Graeber",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        27
+    ],
+    "first_air_date": "2019-10-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80217066",
+    "id": 93953,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-10-03",
+    "last_episode_to_air": {
+        "air_date": "2019-10-03",
+        "episode_number": 8,
+        "id": 1944764,
+        "name": "The Empty Place",
+        "overview": "The team battles a surprising nemesis with seemingly insurmountable powers. He reveals Chiu's secret past -- and offers Silencio a fateful choice.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/d6wLAB288qqMo9dnZP8gItRELUH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Seis Manos",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Seis Manos",
+    "overview": "Orphans raised by a martial arts master are plunged into a mystery involving demonic powers, drug cartels, ancient rituals and blood sacrifice.",
+    "popularity": 10.579,
+    "poster_path": "/gLIC5AigbrUYP2vHoBhmm687nnF.jpg",
+    "production_companies": [
+        {
+            "id": 121093,
+            "logo_path": "/dyckDFhZusH3PdxeB41WTGDJ65p.png",
+            "name": "Powerhouse Animation Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 6687,
+            "logo_path": null,
+            "name": "VIZ Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-03",
+            "episode_count": 8,
+            "id": 132966,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gLIC5AigbrUYP2vHoBhmm687nnF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 35
+}

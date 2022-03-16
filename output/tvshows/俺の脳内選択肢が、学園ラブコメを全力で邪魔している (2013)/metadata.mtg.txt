@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/hecufDByIcrQRp7OBXK5NsW0CgA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-10-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://noucome.jp/",
+    "id": 72798,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-12-12",
+    "last_episode_to_air": {
+        "air_date": "2013-12-12",
+        "episode_number": 10,
+        "id": 1337454,
+        "name": "Life Is a Series of Choices / Life Is a Series of Chores",
+        "overview": "Kanade and Ouka go into a haunted house for the mission to make Ouka cry, however because of her fear, she reverts into a little child. Kanade throws out the mission and decides to help the scared Ouka out of the haunted house.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qX3zS2uT2N54S2M7XEmUZFgJBLX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "My Mental Choices Are Completely Interfering with my School Romantic Comedy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
+    "overview": "High school student Kanade Amakusa suffers from a curse called \"Absolute Choice,” which requires him to select an action from a list of options that appear before him at random. Unfortunately, Amakusa’s choices are limited to the weird and perverse, causing him to become something of a social outcast at school. But when a sudden choice on the way home from school causes a beautiful girl to fall out of the sky, Amakusa might’ve found the key to break his curse for good!",
+    "popularity": 16.967,
+    "poster_path": "/3jdxPOVdqE0GhEv2jdqAgqdXIcm.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-05-20",
+            "episode_count": 1,
+            "id": 93787,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-10-10",
+            "episode_count": 10,
+            "id": 90407,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lEm787yMr8cY4NNSfGEBGlzJTDC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 74
+}

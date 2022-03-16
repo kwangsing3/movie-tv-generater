@@ -1,0 +1,138 @@
+{
+    "adult": false,
+    "backdrop_path": "/3H96IZCk0balz3DsrJOVawUl8NA.jpg",
+    "created_by": [
+        {
+            "id": 555094,
+            "credit_id": "608a147a1d1bf400786d99a4",
+            "name": "Akiyuki Simbo",
+            "gender": 2,
+            "profile_path": "/mvPWp5BWl51aqLRyib5eoEw4fHT.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-04-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.tbs.co.jp/anime/denpa/",
+    "id": 65356,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-07-01",
+    "last_episode_to_air": {
+        "air_date": "2011-07-01",
+        "episode_number": 12,
+        "id": 1159209,
+        "name": "0.00000000198 Centimeters Per Second",
+        "overview": "On the day of the baseball match, Maekawa's father runs away due to pressure, leaving the shopping district team short on pitchers. With Meme declaring herself coach, she sends Makoto to search for Maekawa's father while Erio pitches. After returning with Maekawa's father, Makoto is made the pinch hitter. As he makes a powerful hit, a strong wind kicks up, turning it into a home run. As a reward, Meme kisses Makoto on the cheek in front of everyone.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gc3T8lNP5xhdS2VZMkkEFZTEetW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ground Control to Psychoelectric Girl",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "電波女と青春男",
+    "overview": "The story revolves around a highschool boy named Niwa Makoto. He lives with his aunt's family since his parents are away on business. It is there where he meets his mysterious cousin of the same age Touwa Erio — who happens to tie a futon mattress around her upper body and is a self-proclaimed alien. Her staple food is pizza. Erio had been missing for half a year and was found floating in the sea. She doesn't remember anything about what happened during that period of time, but she began to think that it was the act of an alien and wanders the neighbourhood wrapped in the futon.",
+    "popularity": 11.609,
+    "poster_path": "/kUpCLPkNCKqQ7Kc5hgrkNvBx5Sw.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-02-08",
+            "episode_count": 1,
+            "id": 151639,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/vwhI1ozKh7zcwNCckjukjIde200.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-04-15",
+            "episode_count": 12,
+            "id": 74001,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1AAC2JfWXp1Rzmia6JKVfaCk9V9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 57
+}

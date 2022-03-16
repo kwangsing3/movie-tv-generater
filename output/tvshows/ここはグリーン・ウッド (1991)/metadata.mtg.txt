@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/24YZq1kvVIfFXWmweV5f0csaI4e.jpg",
+    "created_by": [
+        {
+            "id": 3301178,
+            "credit_id": "6188c4c735d1bc00636b9abd",
+            "name": "Yukie Nasu",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        31
+    ],
+    "first_air_date": "1991-11-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 43340,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1993-03-26",
+    "last_episode_to_air": {
+        "air_date": "1993-03-26",
+        "episode_number": 6,
+        "id": 3326717,
+        "name": "Suka-chan`s Second Love, Part II",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Here Is Greenwood",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ここはグリーン・ウッド",
+    "overview": "Hasukawa Kazuya is in a terrible bind. His brother's new wife is also the woman that Kazuya secretly loves. Determined to avoid them both, Kazuya leaves home to live in the student dorm called Greenwood. There, he hopes to find peace of mind. Unfortunately for Kazuya, stability and peace are the last things one might find at Greenwood - home of the weirdest characters on campus.",
+    "popularity": 2.43,
+    "poster_path": "/obMHNNt3s7YkdaBXoVuV1VDXg1P.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12835,
+            "logo_path": null,
+            "name": "Victor Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1991-11-21",
+            "episode_count": 6,
+            "id": 52799,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Somewhere between sanity and madness lies Green Wood.",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

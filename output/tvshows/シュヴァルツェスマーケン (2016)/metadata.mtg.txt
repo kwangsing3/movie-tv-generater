@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/q8cyhG1CBsPrq4EfYmgPld5XUkB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://schwarzesmarken-anime.jp/",
+    "id": 65837,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-11-21",
+    "last_episode_to_air": {
+        "air_date": "2017-11-21",
+        "episode_number": 12,
+        "id": 1395515,
+        "name": "",
+        "overview": "The rebels take over Berlin's broadcast tower and escort Katia inside. The 666th and the rebels engage Werewolf squadron over the streets of Berlin. During the battle, they hear Katia's speech, revealing herself to the nation as Usula Strachwitz, and appealing for the people to rise up against the Stasi.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cUoyV1hUVFifrJjwsZocDSWQnb0.jpg",
+        "vote_average": 4,
+        "vote_count": 1
+    },
+    "name": "Schwarzes Marken",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シュヴァルツェスマーケン",
+    "overview": "Germany was divided into East and West after WWII, where citizens of either treated the other side as enemies. In the midst of Cold War, however, the Earth was invaded by an alien life form landed on Kashgar, Xinjiang Uyghur Autonomous Region, known as \"Beta.\" Now, ten years after the first contact, East Germany, formally German Democratic Republic, has become the front line.",
+    "popularity": 15.585,
+    "poster_path": "/76eOzNrqWWmOMte87S5rTt9XrxN.jpg",
+    "production_companies": [
+        {
+            "id": 74052,
+            "logo_path": null,
+            "name": "ixtl Co., Ltd.",
+            "origin_country": ""
+        },
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2016-01-10",
+            "episode_count": 12,
+            "id": 75203,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cD48a6ThAdEI40FYYAkA1lFThQ6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 37
+}

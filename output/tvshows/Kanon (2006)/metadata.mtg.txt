@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/nnoHP9JAPY4DYJFVyKpo5OZgH4V.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2006-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/kanon/",
+    "id": 34124,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-03-16",
+    "last_episode_to_air": {
+        "air_date": "2007-03-16",
+        "episode_number": 24,
+        "id": 782505,
+        "name": "Kanon at the End of a Dream",
+        "overview": "Yuichi is still searching for Ayu. Akiko may hold the key to discovering her whereabouts, but will Yuichi be able to handle the truth about her current condition?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/aGwOqLkcshorSm4gdJQdBG5YD9t.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kanon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Kanon",
+    "overview": "Yuichi hasn’t seen his cousin Nayuki in years. Now that he’s back, all knowledge of ever visiting has vanished. He tries to adjust to the vaguely familiar surroundings, but the gaps in his memory haunt him as time grows short. The pieces of the puzzle have appeared – an eerily silent beauty with blazing tresses, the mysterious girl with the winged backpack, and the sword-wielding demon slayer – but it’s up to Yuichi to discover how they fit together.",
+    "popularity": 15.671,
+    "poster_path": "/2ltJVgd28CZVlSEptS8AajzufG5.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-10-06",
+            "episode_count": 24,
+            "id": 44923,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nNkD3CZtJqEpor2XxnXOWPJSaSn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 25
+}

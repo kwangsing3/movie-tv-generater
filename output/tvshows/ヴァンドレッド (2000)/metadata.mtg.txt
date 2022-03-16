@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/iwnopbQ7ryRignptbjGFWVvzBYk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2000-10-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.mediafactory.co.jp/anime/vandread/",
+    "id": 8863,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-01-18",
+    "last_episode_to_air": {
+        "air_date": "2002-01-18",
+        "episode_number": 13,
+        "id": 401060,
+        "name": "Trust",
+        "overview": "Combined, the fleet of ships continues to destroy ship after ship of the harvest fleet. But the Main Mothership is another story, and even the combined Super Vandread is no match for it. With Hibiki captured by the leader of the Earth Harvest fleet, and the Dreads similarly restrained, all looks lost. But as the leader of the Harvest may find, it will take a lot more than a few wounds and losses to keep Hibiki and his friends down. With one last strike, Earth intends to end all resistance...and it may take the combined might of everyone with the will to live to stop the Harvest fleet once and for all.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/qQkjp4HJplCfwKmObm6KWDgG61n.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "VanDread",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヴァンドレッド",
+    "overview": "Hibiki Tokai, a male third-class laborer from Taraak, ends up stuck on a battleship after a botched attempt at stealing a robot. When female pirates capture the Taraakian Vanguard, things don't look like they could get any worse.",
+    "popularity": 25.328,
+    "poster_path": "/2eyd5lS6tPqHj1da9TNb0AmYRbe.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-01-21",
+            "episode_count": 2,
+            "id": 18744,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/lLgPG8ivfj9mzgiC5F28D8CXFsB.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2000-10-03",
+            "episode_count": 13,
+            "id": 18742,
+            "name": "VanDread",
+            "overview": "",
+            "poster_path": "/gYMQZq75oz9A5CYhVw29tZddsyy.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2001-10-05",
+            "episode_count": 13,
+            "id": 18743,
+            "name": "VanDread the Second Stage",
+            "overview": "",
+            "poster_path": "/7wT0FJ9PzBzjpVApIelHLkDx4Mp.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 9
+}

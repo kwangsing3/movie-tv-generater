@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/4aLALvtPaNpYWSyTW3pIIK0SLrT.jpg",
+    "created_by": [
+        {
+            "id": 3161832,
+            "credit_id": "612d4a4ba135330042146317",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-08-28",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.sunrise-inc.co.jp/international/works/detail.php?cid=413",
+    "id": 125429,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-10-29",
+    "last_episode_to_air": {
+        "air_date": "2021-10-29",
+        "episode_number": 1,
+        "id": 3240012,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Battle Spirits: Gallet The Revolutionary",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バトルスピリッツ 赫盟のガレット",
+    "overview": "Centuries after the events of Saga Brave, a third race called the Mauve has emerged alongside Humans and Mazoku. Identified by their purple blood and immense intelligence, the Mauve are shunned by the other two races and are viewed as a threat to the peace of the world. Having experienced this prejudice first-hand, a teenage Mauve named Galette Revolt journeys forth to find a way for all races to understand each other by playing Battle Spirits. However, other factions from each race aim to maintain the peace/reform the world through more nefarious ways...",
+    "popularity": 1.424,
+    "poster_path": "/210ZqhQcNPJ1AvEBws2e5h2x8e8.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 74440,
+            "logo_path": "/mf1nS1bfySc1XM5EmPZp4qsAOoy.png",
+            "name": "Bandai Namco Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-08-28",
+            "episode_count": 5,
+            "id": 194602,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-10-29",
+            "episode_count": 1,
+            "id": 212900,
+            "name": "Mirage",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "\"What are the Mavue?\" One youth ponders. His search for the answer sparks the prequel of world revolution once again.",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

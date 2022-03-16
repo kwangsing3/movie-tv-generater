@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/iIkMsGPmfYIAPXbTNNjiqKUR4ux.jpg",
+    "created_by": [
+        {
+            "id": 58160,
+            "credit_id": "5d4b192ed34eb30012fa2a32",
+            "name": "Osamu Tezuka",
+            "gender": 2,
+            "profile_path": "/4xOgZySBani7h7xkFwK4Rf0MqNg.jpg"
+        },
+        {
+            "id": 115936,
+            "credit_id": "5d4b165fd34eb30014fa31ff",
+            "name": "Naoki Urasawa",
+            "gender": 2,
+            "profile_path": "/xpXOtyO3gvJZbnRfwhXDBeeVwEP.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 91997,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Pluto",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プルートウ",
+    "overview": "Based off of a story arc from Osamu Tezuka's Tetsuwan Atom, Pluto follows the Europol detective Gesicht as he tries to uncover the mystery behind a string of robot and human deaths. The case becomes much more puzzling when evidence leans toward the murders being the work of a robot, something that hasn't happened for 8 years.",
+    "popularity": 1.094,
+    "poster_path": "/fWOeOlWybPAOEZOWpo4MHkUx1Kg.jpg",
+    "production_companies": [
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 121665,
+            "logo_path": null,
+            "name": "Studio M2",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 129166,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

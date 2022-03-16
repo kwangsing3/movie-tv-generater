@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/7918p1NTG4Qi6FNNhPipGXVtGB7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://colorful-pastrale.com/",
+    "id": 84663,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-22",
+    "last_episode_to_air": {
+        "air_date": "2019-03-22",
+        "episode_number": 12,
+        "id": 1660174,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/n8uSAhicVgQ2GHt6lKuOLrPb4ur.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bermuda Triangle ~ Colorful Pastorale",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バミューダトライアングル ～カラフル・パストラーレ～",
+    "overview": "Mermaids are known worldwide as bewitching mythological creatures of the sea. Despite their charms and otherworldly powers, daily life for these beings comes with everyday problems. But there’s nothing that can’t be overcome with the support of friends. Follow the adventures of five young mermaids as they explore their town and the world around them in this delightful slice-of-life series that takes viewers to an enchanting world beneath the waves.",
+    "popularity": 3.891,
+    "poster_path": "/rTJnU3e9KEekBbNMwxwCFQLsLmw.jpg",
+    "production_companies": [
+        {
+            "id": 72552,
+            "logo_path": null,
+            "name": "Seven Arcs Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-12",
+            "episode_count": 12,
+            "id": 113761,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/v5AMy8rIlKyMyBwYIEfNc2jMuRc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

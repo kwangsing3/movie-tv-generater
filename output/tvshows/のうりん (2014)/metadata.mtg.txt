@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/57YhnKjq0Q9wDK40YClzoExiePB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-01-11",
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Romance"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.no-rin.tv/",
+    "id": 60733,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-28",
+    "last_episode_to_air": {
+        "air_date": "2014-03-28",
+        "episode_number": 12,
+        "id": 1029962,
+        "name": "Everybody's No-Rin",
+        "overview": "The Aioi Village Mixer starts off on the right foot, but when the event's grand finale rolls around, will Kousaku and Minori hold up their end of the bargain?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/Apw9be1PbmrmtgWGcR0TBji8y6T.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "No-Rin",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "のうりん",
+    "overview": "The sudden retirement of the famous idol Yuka Kusakabe from the entertainment business shocks the world and devastates her biggest fan, teenager Kosaku Hata. His classmates at the Tamo Agriculture School manages to get him out of his depression and bring him out of his room to attend his classes. But to everyone's surprise, Yuka Kusakabe - her stage name - comes into their class under the name Ringo Kinoshita as a transfer student. Kosaku realizes he has a once-in-a-lifetime opportunity to get to personally know his dream girl and, together with his group of friends, try to find out why she came to the agricultural school and become more than just classmates.",
+    "popularity": 7.675,
+    "poster_path": "/p7IXHtdnFr26TblQlsHiAJFUnTn.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-01-11",
+            "episode_count": 12,
+            "id": 60521,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2JxieHeW0cvbQKPsKVhFG2hk6if.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 9
+}

@@ -1,0 +1,150 @@
+{
+    "adult": false,
+    "backdrop_path": "/40C959oBL1x2AHNHz4kVrG6hXHp.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.monmusu.tv/",
+    "id": 63187,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-23",
+    "last_episode_to_air": {
+        "air_date": "2015-09-23",
+        "episode_number": 12,
+        "id": 1213760,
+        "name": "Everyday Life with Monster Girls",
+        "overview": "Lala the Dullahan explains to Kimihito that he is on the brink of death. Kimihito insists he isn't, but the monster girls buy Lala's story and do their best to take him to a safe place. However, despite their good intentions, their actions repeatedly put his life in danger.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/f78N2Bn4jWytaZ8nxJYz2Wjb7nf.jpg",
+        "vote_average": 9.7,
+        "vote_count": 3
+    },
+    "name": "Monster Musume: Everyday Life with Monster Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "モンスター娘のいる日常",
+    "overview": "Three years ago, the world learned that harpies, centaurs, catgirls, and all manners of fabulous creatures are not merely fiction; they are flesh and blood - not to mention scale, feather, horn, and fang. Thanks to the \"Cultural Exchange Between Species Act,\" these once-mythical creatures have assimilated into society, or at least, they're trying. When a hapless human teenager named Kurusu Kimihito is inducted as a \"volunteer\" into the government exchange program, his world is turned upside down. A snake-like lamia named Miia comes to live with him, and it is Kurusu's job to take care of her and make sure she integrates into his everyday life.",
+    "popularity": 51.599,
+    "poster_path": "/8leXiwIwPRPQqHXKDhqgf4OIwBU.jpg",
+    "production_companies": [
+        {
+            "id": 42811,
+            "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
+            "name": "Lerche",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 78802,
+            "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+            "name": "Studio Hibari",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-07-07",
+            "episode_count": 74,
+            "id": 83982,
+            "name": "Specials",
+            "overview": "An original anime DVD was released with the manga's eleventh volume on 11 November 2016. It was directed by Tatsuya Yoshihara and written by Kazuyuki Fudeyasu, with animation by Lerche. The OAD adapts chapter 17 of the manga, which was included in the fourth tankōbon volume. A second original anime DVD was released with the manga's twelfth volume on 13 April 2017. An English version was released on July 25, 2017.",
+            "poster_path": "/puYSM2X8tRm636oPg2UnEvDmCKJ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-07-08",
+            "episode_count": 12,
+            "id": 68439,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ghfahP3461SyOZjTwjeYM248PHK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 54
+}

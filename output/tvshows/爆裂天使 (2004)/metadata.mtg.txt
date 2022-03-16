@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/mlxR94U0Yxxu5kmaoqkjL6WURvp.jpg",
+    "created_by": [
+        {
+            "id": 1363119,
+            "credit_id": "5edcf0b39c24fc00206826ae",
+            "name": "Gonzo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 31701,
+    "in_production": false,
+    "languages": [
+        "fr",
+        "ja"
+    ],
+    "last_air_date": "2004-10-02",
+    "last_episode_to_air": {
+        "air_date": "2004-10-02",
+        "episode_number": 22,
+        "id": 758555,
+        "name": "The Devil You Love",
+        "overview": "The truth behind Jo's existence is revealed and nothing seems the same. Meg is concerned by a strange woman from Jo's past and finds herself in the clutches of evil. Glenford tightens his grip on Tokyo as dark clouds move in overhead! Will Sei find a way to make things better again? Or will Jo be left floating in oblivion?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/y4ieGDodvNVl6PHNxE1ImckMReH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Burst Angel",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "爆裂天使",
+    "overview": "The future’s looking bleak. It’s a good thing there’s a new sheriff in town. Her name is Jo and she’s an enigma even to herself. Alongside her partners Sei, Amy, and Meg, Jo fights for the citizens who can’t defend themselves. Confronting corruption and twisted science, these gals are on fire—and they’re the best chance the wounded city’s got.",
+    "popularity": 26.068,
+    "poster_path": "/wB68jWuUns3O36sMXGqvtU3LdKq.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-03-23",
+            "episode_count": 2,
+            "id": 43196,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-04-06",
+            "episode_count": 24,
+            "id": 43195,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/biDcI6OWxj6mRWrjmxV26OvmtSi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 12
+}

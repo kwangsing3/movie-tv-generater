@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/ctSc5ZR2C4SuzVjc9p0J8w0UFc1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-10-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://12taisen.com/",
+    "id": 74095,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-19",
+    "last_episode_to_air": {
+        "air_date": "2017-12-19",
+        "episode_number": 12,
+        "id": 1405416,
+        "name": "The One Wish that must be Granted, and the Ninety-nine that can be done Without",
+        "overview": "Nezumi, Warrior of the Rat, is an ordinary high school student in his normal life. He used his ability, Hundred Paths of Nezumi-san, to become the Taisen's lone survivor, and in the process learned the wishes of the battle's other participants.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tPEcY8dJe2e4QtpmyHbUNNV4ovP.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Juni Taisen: Zodiac War",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "十二大戦",
+    "overview": "",
+    "popularity": 17.301,
+    "poster_path": "/oIrzzvEo8ceLtw4NXVxNDwBcvO1.jpg",
+    "production_companies": [
+        {
+            "id": 35971,
+            "logo_path": "/5q5P83YiDQa34FgGd2Wtw7aWBnr.png",
+            "name": "Graphinica",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-10-02",
+            "episode_count": 12,
+            "id": 93140,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lhPaehQIH57T2W4Whc4dZ9g4Y6l.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 54
+}

@@ -1,0 +1,144 @@
+{
+    "adult": false,
+    "backdrop_path": "/2f8OLO6UYp78dIQMs0oi7ja15Bl.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2010-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/maidsama/index-j.html",
+    "id": 65648,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-09-23",
+    "last_episode_to_air": {
+        "air_date": "2010-09-23",
+        "episode_number": 26,
+        "id": 1251090,
+        "name": "Too Cruel Ayuzawa & Usui the Idiot!",
+        "overview": "Misaki and Usui decide to enjoy the festival together, and end up joining a contest called 'Love Trial.' The prize is a premium ticket to the post-festival event, and the only rule is that you must never let go of your partner's hand.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jsVluWwItRPl8AMhgLZwqPpa56e.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Maid Sama!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Animax Asia",
+            "id": 3268,
+            "logo_path": "/gNsvkmJY7QzRQ7AZ0QK9PeONIm2.png",
+            "origin_country": "TW"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "会長はメイド様！",
+    "overview": "Misaki Ayuzawa is the first female student council president at a once all-boys school turned co-ed. She rules the school with strict discipline demeanor. But she has a secret—she works at a maid cafe due to her families circumstances. One day the popular A-student and notorious heart breaker Takumi Usui finds out her secret and makes a deal with her to keep it hush from the school in exchange for spending some time with him.",
+    "popularity": 44.132,
+    "poster_path": "/igkn0M1bgMeATz59LShvVxZNdVd.jpg",
+    "production_companies": [
+        {
+            "id": 73393,
+            "logo_path": null,
+            "name": "Smile Company",
+            "origin_country": ""
+        },
+        {
+            "id": 7111,
+            "logo_path": "/vHUCDHu63vjfQjDNHvKqlUWOdwE.png",
+            "name": "Geneon Universal Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-05-11",
+            "episode_count": 2,
+            "id": 97148,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/rziaJzEBjUx0qS7oz9DsKhd3dNF.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-04-02",
+            "episode_count": 26,
+            "id": 74720,
+            "name": "Maid Sama",
+            "overview": "",
+            "poster_path": "/uBoMhkmyQRDQS3pojZ6GdkvbVeu.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.9,
+    "vote_count": 439
+}

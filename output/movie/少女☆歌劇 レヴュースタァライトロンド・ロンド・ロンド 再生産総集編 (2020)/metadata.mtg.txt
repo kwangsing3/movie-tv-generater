@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/ye7jCmAhBX0zLBjuXbNe2p8qC26.jpg",
+    "belongs_to_collection": {
+        "id": 819105,
+        "name": "Shoujo Kageki Revue Starlight Collection",
+        "poster_path": "/fGrq5AzF3cW8y8n8bh758QpZw9s.jpg",
+        "backdrop_path": "/hcP3F4I3Nl80YCwLFcfbPigc3Tq.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "https://cinema.revuestarlight.com/",
+    "id": 645439,
+    "imdb_id": "tt12699782",
+    "original_language": "ja",
+    "original_title": "少女☆歌劇 レヴュースタァライトロンド・ロンド・ロンド 再生産総集編",
+    "overview": "A feature-length recap of the Revue Starlight TV anime series, presented with extra unseen footage and told from Nana's point of view.",
+    "popularity": 2.79,
+    "poster_path": "/hvJlGju85jdkYTPM6XvT3kgsLZC.jpg",
+    "production_companies": [
+        {
+            "id": 16738,
+            "logo_path": "/Lf0udeB7OwHoFJ0XIxVwfyGOqE.png",
+            "name": "Kinema Citrus",
+            "origin_country": "JP"
+        },
+        {
+            "id": 42196,
+            "logo_path": "/nQNmHvcmaT0zk1Rf0TYtLYO5MpI.png",
+            "name": "Bushiroad",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2020-08-07",
+    "revenue": 0,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Rondo Rondo Rondo",
+    "title": "Revue Starlight: Rondo Rondo Rondo",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 6
+}

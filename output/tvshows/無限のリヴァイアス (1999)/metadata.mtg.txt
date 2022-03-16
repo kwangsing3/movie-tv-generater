@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/2bgj7Np0T0ye9cJ19TFuKDEqagg.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1999-10-10",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.sunrise-inc.co.jp/ryvius/",
+    "id": 42982,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-03-29",
+    "last_episode_to_air": {
+        "air_date": "2000-03-29",
+        "episode_number": 26,
+        "id": 884336,
+        "name": "Tomorrow",
+        "overview": "The survivors of the Ryvius are finally readjusting to life after their epic voyage, when they receive a startling proposal from the Orbital Security Bureau; to return to the Ryvius as its' official crew. Apparently, no-one else has been able to make the ship work since they left. Kouji struggles between his resentment of a government agency that nearly killed him, and his desire to return to the Ryvius.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zTZXRTnGltOAKsFQ40Whvsc6Nb1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Infinite Ryvius",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無限のリヴァイアス",
+    "overview": "An act of sabotage has sent a space station plummeting towards a dangerous phenomena known as the Sea of Geduld. With only hours to spare before the collapse of the entire station, a group of teens, training on-board the ship will seek safety aboard the Ryvius, an interstellar spacecraft hidden deep inside the station. With the adult crew and instructors dead, these young astronauts must rely on their training, courage and most importantly each other to prepare for the journey home.",
+    "popularity": 10.974,
+    "poster_path": "/2TrLTHpATruw722zD5osAVwyJL9.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 27716,
+            "logo_path": "/9Pp6m0fRqe86E7MOFaj1ZZiuuL1.png",
+            "name": "YOMIKO Advertising",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-10-10",
+            "episode_count": 26,
+            "id": 52463,
+            "name": "(us) season 1",
+            "overview": "",
+            "poster_path": "/FcSLqVwUJwxygPM2c59SgQCZQa.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 6
+}

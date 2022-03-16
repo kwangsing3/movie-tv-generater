@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/4ndnfseHaE9kPC9xPp9wN7ghHHq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-10-02",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.nanoha.com/archive/",
+    "id": 19836,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-19",
+    "last_episode_to_air": {
+        "air_date": "2015-06-19",
+        "episode_number": 12,
+        "id": 1396331,
+        "name": "Meaning of Ending a Match",
+        "overview": "",
+        "production_code": "",
+        "season_number": 4,
+        "still_path": "/rUK7AtbxqS4yI2QAq2T68rXWqEm.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magical Girl Lyrical Nanoha",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 64,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法少女リリカルなのは",
+    "overview": "Nanoha Takamachi decides to help a young mage named Yūno recover a set of twenty-one artifacts named the \"Jewel Seeds\".",
+    "popularity": 58.455,
+    "poster_path": "/quwqpXhY3cIhSuwIUKngnjsc0DI.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2000-08-28",
+            "episode_count": 14,
+            "id": 30077,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/nAcBPJTktC0ZThywyKpWb4TKwt0.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-10-02",
+            "episode_count": 13,
+            "id": 30078,
+            "name": "Magical Girl Lyrical Nanoha",
+            "overview": "",
+            "poster_path": "/dZDH6uWCxFY0xjITPniIqx4RZK4.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2005-10-02",
+            "episode_count": 13,
+            "id": 30079,
+            "name": "Magical Girl Lyrical Nanoha A`s",
+            "overview": "After the events of the Lost Logia case, Nanoha waits patiently for the day she can reunite with her newfound friend, Fate. Although being an exceptionally powerful mage, Nanoha spends her days normally with her friends on Earth. But peace is once again suddenly shattered, as Nanoha is without warning attacked by a powerful mage. A group of violent mages have been attacking anything with magic power for their own goals. Nanoha and Fate, along with their friends Yuuno, Arf, Chrono and the Space/Time Administration Bureau must once more band together to stop these renegade mages from hurting anyone or anything else. Takes place after the first season of Lyrical Nanoha.",
+            "poster_path": "/bJMAltrNb9wGlwpMUPOJVwr397s.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2007-04-02",
+            "episode_count": 26,
+            "id": 30080,
+            "name": "Magical Girl Lyrical Nanoha StrikerS",
+            "overview": "Magical Girl Lyrical Nanoha StrikerS is the third season of the Magical Girl Lyrical Nanoha series. The Nanoha anime was, in turn, a spin-off of the Triangle Heart series of games and OVAs, specifically Triangle Heart 3: Sweet Songs Forever. This season aired shortly after the promotional event \"Lyrical Party III\" on April 1, 2007. The series focuses more on team-based battles and bureaucracy rather than individual rivalry and school life, due to the change in character dynamics. The name StrikerS refers to an SS rank given to top mages, much like how A's refers to A rank mages. A special sound stage, under the name of StrikerS Sound stage X was released on October 29, 2008. A manga adaptation, which explored storylines outside of the anime series, ran in Megami Magazine from November 2006 to February 2008.",
+            "poster_path": "/6ma7fVBzShJuLiq3uuR9l6RRzkK.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2015-04-03",
+            "episode_count": 12,
+            "id": 95624,
+            "name": "Magical Girl Lyrical Nanoha ViVid",
+            "overview": "Set four years after StrikerS, Nanoha finally has time to get off her feet. The story picks up with the next generation, starring  Vivio Takamichi and her device, Sacred Heart.",
+            "poster_path": "/8NU8ZNsE6zC5goWnE8R8VJt5sjH.jpg",
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 5
+}

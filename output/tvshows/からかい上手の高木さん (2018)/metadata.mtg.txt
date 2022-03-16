@@ -1,0 +1,145 @@
+{
+    "adult": false,
+    "backdrop_path": "/1FWbkRMkGwvRldXnXBjZDGjqB2B.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://takagi3.me/",
+    "id": 75865,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-12",
+    "last_episode_to_air": {
+        "air_date": "2022-03-12",
+        "episode_number": 10,
+        "id": 3416154,
+        "name": "First Shrine Visit / Snowman / New Year's / Advice",
+        "overview": "A new year marks new beginnings and new promises. So when Takagi sees Nishikata and Hojo having a private conversation…",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/vCPWbhnuI9YfEq3pOcXekM1HRT6.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Teasing Master Takagi-san",
+    "next_episode_to_air": {
+        "air_date": "2022-03-19",
+        "episode_number": 11,
+        "id": 3416155,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 36,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "からかい上手の高木さん",
+    "overview": "\"If you blush, you lose.\" Living by this principle, the middle schooler Nishikata gets constantly made fun of by his seat neighbor Takagi-san. With his pride shattered to pieces, he vows to turn the tables and get back at her some day. And so, he attempts to tease her day after day, only to find himself victim to Takagi-san's ridicule again sooner than later. Will he be able to make Takagi-san blush from embarrassment even once in the end?",
+    "popularity": 80.827,
+    "poster_path": "/xy9lIJrlRRSQXmdUHe6xEAFSv33.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-11",
+            "episode_count": 1,
+            "id": 106406,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/6SmGJsQaywwbsJxdp0EyuXXmc9K.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-01-08",
+            "episode_count": 12,
+            "id": 96901,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bZxlIp4s1yLsmIiUN2o1ntijoo6.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-07-07",
+            "episode_count": 12,
+            "id": 123006,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/eQ2KwUOMiGLH7QcXqi8qGReR8VM.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2022-01-08",
+            "episode_count": 12,
+            "id": 208781,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/xzk7ERamTcm1RApW3jQq8spr5q9.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 286
+}

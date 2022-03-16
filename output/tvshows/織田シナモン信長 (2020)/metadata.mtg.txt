@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/AgkSLEkrfa3L1TYgZ1AE8LzH5zB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://shinamon-nobunaga.com",
+    "id": 91343,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-27",
+    "last_episode_to_air": {
+        "air_date": "2020-03-27",
+        "episode_number": 12,
+        "id": 2045386,
+        "name": "Puppies of War",
+        "overview": "The whole gang heads to Odawara Castle, where Date (Boo) Masamune had fought Toyotomi Hideyoshi. Cinnamon gets a tummy ache and reminisces about his first days as a dog.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dMPoUGET0OQg0Zm3h7ll9f1g9rp.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Oda Cinnamon Nobunaga",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "織田シナモン信長",
+    "overview": "Before he died at Honnouji in 1582, the great warlord Oda Nobunaga stood before a statue of Buddha and thought to himself that he'd committed so many sins that he'd very likely be reborn as a dog. He never expected that Buddha would take his words literally, however, but the next thing he's aware of, he's in the body of a Shiba Inu named Shinamon in modern Japan! Less than thrilled at the fact that his human warlord consciousness is trapped in the instinct-bound body of an adorable house pet, Nobunaga struggles between making the best of it (he can have that ruff all the Europeans were wearing!) and being frustrated with his reality (the ruff turns out to be a bath hat and now he has to have a bath). Is it better or worse that many of his fellow warriors also seem to have been reincarnated in canine form – and that his enemy looks like he lucked out and got to be a human?",
+    "popularity": 9.763,
+    "poster_path": "/OwV2Uogjh7bhNI2IIzycrIeFCB.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-10",
+            "episode_count": 12,
+            "id": 128076,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nmI915z7uh7ZMbmGfEqghXmmazw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 4
+}

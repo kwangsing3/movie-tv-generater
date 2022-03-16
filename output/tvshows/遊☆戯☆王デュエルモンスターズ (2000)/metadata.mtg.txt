@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/oeKucLmgHe06UjGL6BE0zVSjZmu.jpg",
+    "created_by": [
+        {
+            "id": 1247786,
+            "credit_id": "580c42f99251417176009a2d",
+            "name": "Kazuki Takahashi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2000-04-18",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/yugioh2000/",
+    "id": 902,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-09-29",
+    "last_episode_to_air": {
+        "air_date": "2004-09-29",
+        "episode_number": 224,
+        "id": 1857707,
+        "name": "The Final Duel (4)",
+        "overview": "Yugi and Atem – more than friends, closer than brothers. Will they stay together, or is it time to say goodbye? It’s the final answers, the final duel and the final time we will see our friends in the rousing conclusion to Yu-Gi-Oh!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5Y5gPZTWLQWYINh4jBFzIZe34j7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yu-Gi-Oh! Duel Monsters",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 224,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "遊☆戯☆王デュエルモンスターズ",
+    "overview": "Bullies often target someone frail and weak—someone exactly like Yûgi Muto. He treasures his Millennium Puzzle, an ancient Egyptian artifact that was brought into his grandfather's game shop. Believing that solving the puzzle will grant him his wish, he completes the puzzle, unleashing a new personality within him, the soul of the \"King of Games.\" The new personality named Yami Yûgi is the exact opposite of Yûgi. Upon any injustice toward him, Yami Yûgi takes over Yûgi's body and forces the opponent into a \"Shadow Game\".",
+    "popularity": 56.064,
+    "poster_path": "/eQudswX8mdPZxEoLM6ax9PsORDi.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 55914,
+            "logo_path": "/fLZm5yRhOmaYb82wvCMOPiClMMB.png",
+            "name": "Konami",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-12-31",
+            "episode_count": 4,
+            "id": 202344,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2000-04-18",
+            "episode_count": 224,
+            "id": 64013,
+            "name": "Duel Monsters",
+            "overview": "",
+            "poster_path": "/sCjgOh8jkd9kaZpbrXpKILlCoHT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "It's Time to Duel!",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 641
+}

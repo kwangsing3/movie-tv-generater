@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/seee40bD7bH17DW3QsFRGrZw7gE.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://p5a.jp/",
+    "id": 77701,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-30",
+    "last_episode_to_air": {
+        "air_date": "2018-09-30",
+        "episode_number": 26,
+        "id": 1581478,
+        "name": "I won't let it end here",
+        "overview": "Following a reunion with Arsene, who urges him to remember everything, Ren is captured by the police, leading to his present day interrogation by Sae. As the interrogation draws close to an end, Ren, recalling an important discussion with Morgana and Futaba, asks Sae to show his phone to Akechi as he makes his way towards the interrogation room. After running into Sae and being shown the phone, Akechi reveals his true intentions and shoots Ren, making it look like a suicide.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dCTbXKRLqH1porWAezvLz7bYEx2.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Persona 5: The Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "PERSONA5 the Animation",
+    "overview": "Ren Amamiya is about to enter his second year after transferring to Shujin Academy in Tokyo. Following a particular incident, his Persona awakens, and together with his friends, they form the “Phantom Thieves of Hearts” to reform hearts of corrupt adults by stealing the source of their distorted desires. Meanwhile, bizarre and inexplicable crimes have been popping up one after another… Living an ordinary high school life in Tokyo during the day, the group maneuvers the metropolitan city as Phantom Thieves after hours. Let the curtain rise for this grand, picaresque story!",
+    "popularity": 19.69,
+    "poster_path": "/p7DwLYL0jV10eMkmokoTS9ZXIXc.jpg",
+    "production_companies": [
+        {
+            "id": 121589,
+            "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+            "name": "CloverWorks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-09-03",
+            "episode_count": 6,
+            "id": 102505,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/y9F87jlzRR2n6KZCsKhOu85I8Nn.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-04-08",
+            "episode_count": 26,
+            "id": 100352,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cqzP2NESFhChnXv5OX1WKw8XeYr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 53
+}

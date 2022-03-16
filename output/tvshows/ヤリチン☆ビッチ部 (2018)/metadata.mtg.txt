@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/lTGTQ02Bci6SIncqE1aljuy3NK7.jpg",
+    "created_by": [
+        {
+            "id": 2540497,
+            "credit_id": "5e494cd69b8616001361d9c7",
+            "name": "Ogeretsu Tanaka",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2018-09-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://yaribu.jp/",
+    "id": 99466,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-04-17",
+    "last_episode_to_air": {
+        "air_date": "2019-04-17",
+        "episode_number": 2,
+        "id": 2164924,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kHkqBExwJLyo74LcX2hh1rp49DZ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yarichin Bitch Club",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヤリチン☆ビッチ部",
+    "overview": "An all-boys boarding school deep in the mountains where love unfolds. Despite the brimming sexual desire, the overly awkward love story hooks you in! First-year Toono transfers from Tokyo to the all-boys boarding school deep in the mountains, \"Mori Moori Private School.\" The friendly Yaguchi who calls out to him becomes his only friend, but his dislike of sports makes him join the most laid-back looking photography club instead of Yaguchi's soccer club. However, the photography club is in name only and is actually nicknamed the \"Yarichin Bitch Club,\" filled with colorful seniors. In contrast to the troubled Toono, Kajima, who joined the club at the same time, is completely unphased and even slips a confession to Toono into the confusion. Toono himself thinks Yaguchi is cute, but Yaguchi finds himself blushing around Kajima and stuff happens. Furthermore, complications arise between the seniors…",
+    "popularity": 56.234,
+    "poster_path": "/2EsqY0eev7oiTEUKWhh1zSdaDLQ.jpg",
+    "production_companies": [
+        {
+            "id": 125686,
+            "logo_path": "/supW1CgAWNA52JLYZGlxEN0XIoZ.png",
+            "name": "GRIZZLY",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-09-21",
+            "episode_count": 2,
+            "id": 143446,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xVl9eyKENDiILC3x88fv10gyAEh.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 7.5,
+    "vote_count": 23
+}

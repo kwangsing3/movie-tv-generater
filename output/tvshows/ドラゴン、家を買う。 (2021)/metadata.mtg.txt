@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/hgnasnsNwakZmkqmvXbTbn1661s.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://doraie.com/",
+    "id": 103249,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-20",
+    "last_episode_to_air": {
+        "air_date": "2021-06-20",
+        "episode_number": 12,
+        "id": 2849659,
+        "name": "A Well-Defended Home",
+        "overview": "Trapped within the King's castle, Letty, Dearia, and Nell are forced to endure the terrible siege. Whether they escape or not, it's a great opportunity to learn about castle fortifications!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/g3gGW3wfzGPSuibiV3JiEZeYqzs.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Dragon Goes House-Hunting",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラゴン、家を買う。",
+    "overview": "When a dragon fails to live up to the fearsome standards set for him, his family kicks him out. He embarks on a quest to find a new home but soon finds that life on the road is no place for a cowardly beast of legend. In a fantasy world full of elves, dwarves, and other mythical creatures, the frustrations of house-hunting reach a whole new level.",
+    "popularity": 22.906,
+    "poster_path": "/5hQ3Dn0UAqX8Xunu5eK8jc5pDv6.jpg",
+    "production_companies": [
+        {
+            "id": 88373,
+            "logo_path": "/aUJ6Xd89l0jXiybnaD7KZPWSUgS.png",
+            "name": "Signal.MD",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-04",
+            "episode_count": 12,
+            "id": 150416,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/evBpO17mW7y8SoRPAQg7iKCWoh1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 6
+}

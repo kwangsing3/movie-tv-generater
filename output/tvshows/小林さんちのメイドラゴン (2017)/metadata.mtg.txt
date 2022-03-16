@@ -1,0 +1,143 @@
+{
+    "adult": false,
+    "backdrop_path": "/vc3GVrH46tZPUk7RxRpQO6wH3ny.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.maidragon.jp/",
+    "id": 69291,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-23",
+    "last_episode_to_air": {
+        "air_date": "2021-09-23",
+        "episode_number": 12,
+        "id": 3045389,
+        "name": "Life Is Constant Change (But It's Okay to Stop and Appreciate It)",
+        "overview": "A typical morning with typical dragon girls. A priceless slice of daily life without any complaints. However, ever since Miss Kobayashi heard the tale from the Emperor of Demise, something has been slightly weighing on her. Yet it's not clear to her what exactly that is. As that uncertainty builds, the summer festival they've all been waiting for is drawing closer.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/eYl5YnQvHhygxMMzrV44Qx3thCv.jpg",
+        "vote_average": 7.7,
+        "vote_count": 3
+    },
+    "name": "Miss Kobayashi's Dragon Maid",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "小林さんちのメイドラゴン",
+    "overview": "Kobayashi lives alone in an apartment, until one day, Tohru appeared and they ended up living together. Tooru looks down on humans as inferior and foolish, but having been saved by Kobayashi-san, she does everything she can to repay the debt and help her with various things, although not everything goes according to plan.\n\nA mythical everyday life comedy about a hard working office lady living with a dragon girl.",
+    "popularity": 135.331,
+    "poster_path": "/tNznuhcf7WKzEmPQEsIgGMrB3Az.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 155271,
+            "logo_path": "/z5E1jpLIrwDckeWcMqcPZ9qHvTw.png",
+            "name": "Heart Company",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86839,
+            "logo_path": "/4gMnTQACykjt0KSRV1N8vSKpkVt.png",
+            "name": "ABC Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 156969,
+            "logo_path": null,
+            "name": "Dragon Life Improvement Committee",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-03-15",
+            "episode_count": 30,
+            "id": 93819,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/6bLigBrNstwJtyxd6ea1TniwdVJ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-01-12",
+            "episode_count": 13,
+            "id": 83194,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tNznuhcf7WKzEmPQEsIgGMrB3Az.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-07-08",
+            "episode_count": 12,
+            "id": 158694,
+            "name": "Miss Kobayashi's Dragon Maid S",
+            "overview": "",
+            "poster_path": "/t29LG7jFCfg0z1j8W5LYrTtc3VN.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 567
+}

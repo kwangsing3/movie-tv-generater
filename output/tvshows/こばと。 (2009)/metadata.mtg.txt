@@ -1,0 +1,162 @@
+{
+    "adult": false,
+    "backdrop_path": "/k4sRP3AuKIqPmjEpxfp5qCCBhxX.jpg",
+    "created_by": [
+        {
+            "id": 555348,
+            "credit_id": "57803afb9251415db2002c90",
+            "name": "Nanase Ohkawa",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 90573,
+            "credit_id": "57803b0092514144db0011e7",
+            "name": "Tsubaki Nekoi",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 1626866,
+            "credit_id": "57803b0892514144db0011eb",
+            "name": "Satsuki Igarashi",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 1450844,
+            "credit_id": "57803b0e9251415db5002ba0",
+            "name": "Mokona Apapa",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2009-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 46344,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-03-23",
+    "last_episode_to_air": {
+        "air_date": "2010-03-23",
+        "episode_number": 24,
+        "id": 1204554,
+        "name": "The Coming Day of Tomorrow...",
+        "overview": "Early morning, awakened by chirping birds, Fujimoto lies in bed and gazes up at the ceiling. He heads off to university but cannot concentrate on his studies. His notebook is open to a blank page… Later, while delivering pizza, Fujimoto encounters Sayaka…",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/78T8Zt1SNUC2p5mb2iNLBrB8tNC.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kobato.",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK BS1",
+            "id": 219,
+            "logo_path": "/8fr5rRhr3avyMYDDl4b3ePardYc.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "こばと。",
+    "overview": "Kobato is a girl who came to earth to fulfill her wish, which is to go to a certain place. To fulfill that wish, she has to find a bottle and fill it with scarred hearts. Together with her \"teacher\", which is a stuffed animal, she search for the scarred hearts. However she may not fall in love with any person whom she cures the heart of.",
+    "popularity": 13.783,
+    "poster_path": "/bzE0eksp2MpZh6UWjBBoSxW1Cth.jpg",
+    "production_companies": [
+        {
+            "id": 14789,
+            "logo_path": null,
+            "name": "D.N. Dream Partners",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21346,
+            "logo_path": "/zFOXiwgrIakUsgWqbsDGgo6JEiw.png",
+            "name": "FlyingDog",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12540,
+            "logo_path": null,
+            "name": "Memory-Tech",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1194,
+            "logo_path": null,
+            "name": "Kadokawa Shoten",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6681,
+            "logo_path": "/s4RElEnQyM2VrHZCQ3jYemPdxML.png",
+            "name": "THE KLOCKWORX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-10-06",
+            "episode_count": 24,
+            "id": 78345,
+            "name": "Kobato.",
+            "overview": "",
+            "poster_path": "/4gPZWN3VsyAeftvzuGFHgvKh5Vq.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

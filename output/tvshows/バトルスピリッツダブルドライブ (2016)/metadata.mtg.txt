@@ -1,0 +1,137 @@
+{
+    "adult": false,
+    "backdrop_path": "/2GljNQKAGRScZvZxoTtJ8jTmNvl.jpg",
+    "created_by": [
+        {
+            "id": 3161832,
+            "credit_id": "612d441aa4af8f008a2d4657",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-04-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.bn-pictures.co.jp/battlespirits/Double-Drive/",
+    "id": 132364,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-22",
+    "last_episode_to_air": {
+        "air_date": "2017-03-22",
+        "episode_number": 51,
+        "id": 3168231,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Battle Spirits: Double Drive",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS Japan",
+            "id": 1198,
+            "logo_path": null,
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バトルスピリッツダブルドライブ",
+    "overview": "Shunta, a boy who loves Battle Spirits, is led by a card and called to the “Spirits World” in another dimension. Eto, the priestess who summoned Shunta, warns of the Spirits World’s demise due to the evil God-King’s resurrection. In order to stop it, she says they must bring back together the twelve God-Kings for their powers. Joined by Yoku Albatrosa, a boy summoned from another dimension, Shunta is led by Eto on a journey to find the twelve God-Kings who are scattered throughout the world.",
+    "popularity": 1.256,
+    "poster_path": "/xyX933B5j9bM4AMqglZ5zPj4OQU.jpg",
+    "production_companies": [
+        {
+            "id": 74440,
+            "logo_path": "/mf1nS1bfySc1XM5EmPZp4qsAOoy.png",
+            "name": "Bandai Namco Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 53504,
+            "logo_path": null,
+            "name": "Nihon Ad Systems",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-05",
+            "episode_count": 51,
+            "id": 208446,
+            "name": "Season 1",
+            "overview": "Shunta Mogami loves the Battle Spirits game. One day he is transported by a light from a Battle Spirits card to Spirits World, the origin of all Battle Spirits. He meets a girl named Eto, who claims to have summoned him to Spirits World in order to prevent its destruction at the hands of the revived Evil God-King, who once plotted the destruction of Spirits World before being defeated and sealed away. Together with the confident, green-deck-wielding Yoku Albatrosa, who also came from another world, Shunta sets out to find the twelve God-Kings whose power originally sealed the Evil God-King.",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

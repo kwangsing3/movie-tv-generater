@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/fWDmCexZ5MvThztuR6kKEijmfbS.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2016-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.mh-stories-rideon.jp/",
+    "id": 68098,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-16",
+    "last_episode_to_air": {
+        "air_date": "2017-09-16",
+        "episode_number": 50,
+        "id": 1359969,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Monster Hunter Stories: Ride On",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 75,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "モンスターハンター ストーリーズ RIDE ON",
+    "overview": "In a world where both men and monsters exist. Those who hunt the monsters are called Hunters. But in a small corner of the Hunter's world, there are those called Riders who bond with and coexist with monsters. With their Kizuna Ishi (Bonding Stones) that allow them to awaken the hidden power inside monsters, Riders live in secrecy together with their Otomon, the monsters they formed a connection with. Ryuto, a young boy living in the Rider village of Hakum, dreams of becoming the world's best Rider. Having just turned 12, he sets out to find his own Otomon for himself before the ceremony where he is given his own Kizuna Ishi. Together with his kind-hearted childhood friend Cheval, his inquisitive childhood friend Lilia, and his partner Naville, he sets out deep into the forest, and has a miraculous encounter with a Rathalos.",
+    "popularity": 11.812,
+    "poster_path": "/8WVq0KdNn6IT5Z6mgttKL5ja9JG.jpg",
+    "production_companies": [
+        {
+            "id": 64421,
+            "logo_path": null,
+            "name": "Fuji Creative",
+            "origin_country": ""
+        },
+        {
+            "id": 7220,
+            "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+            "name": "CAPCOM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 45188,
+            "logo_path": "/aPH68PzQDtz7QorAU369IlxwgnU.png",
+            "name": "David Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-02",
+            "episode_count": 75,
+            "id": 80745,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tNgqNHwmjwpXH2SHnu3oHPp7Xiu.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 32
+}

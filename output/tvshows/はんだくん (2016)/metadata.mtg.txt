@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/vm6hpGMLXNBU2YuvfZy9Armn2Jm.jpg",
+    "created_by": [
+        {
+            "id": 1652971,
+            "credit_id": "578d676ec3a3685acb00c800",
+            "name": "Yoshino Satsuki",
+            "gender": 1,
+            "profile_path": "/bjONo2HylDHiTWVH6HZVtwPcqp6.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/handaanime/",
+    "id": 67052,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-23",
+    "last_episode_to_air": {
+        "air_date": "2016-09-23",
+        "episode_number": 12,
+        "id": 1204834,
+        "name": "Handa-kun and the Cultural Festival",
+        "overview": "High-school student Handa Sei is well-liked and highly regarded. As the school cultural festival comes to a close, Handa's world opens up before him.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/62Dewe4IFYYMPwPkeQIT2vuUxgM.jpg",
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    "name": "Handa-kun",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "はんだくん",
+    "overview": "Set six years prior to the events of Barakamon, detailing the life of Seishuu Handa as a high school student—and a very interesting life it is. In Handa-kun, Seishuu Handa is admired by his peers as a calligraphy genius and given the utmost respect, but Handa-kun himself is under the mistaken impression that the deference and attention he receives from the other students is actually bullying. Handa just wants to live a quiet life, but hilarity ensues as one character after another challenges his position as the school idol, and somehow comes away as a fan all while Handa is horrified and clueless.",
+    "popularity": 15.388,
+    "poster_path": "/lX1pze4sY9qQf1LIiTQDsAYETzV.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-08",
+            "episode_count": 12,
+            "id": 78374,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rxRPxWxCiISaIHCYkntEMRXX90y.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 94
+}

@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/2CWh6yHfu2HIiQ72zsJ98MYZQYl.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        2
+    ],
+    "first_air_date": "2016-06-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 68405,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-17",
+    "last_episode_to_air": {
+        "air_date": "2016-06-17",
+        "episode_number": 10,
+        "id": 1234217,
+        "name": "The Two That Cannot Sleep",
+        "overview": "The girl is looking at the smartphone concentrated. She somehow tries to do something with it...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ere7xcqqpucDzMP4etEQiWjWXMy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Honobono Log",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK G\t",
+            "id": 469,
+            "logo_path": "/bH9mwMa64tQeVhmTmkC8Qn9Eoe.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ほのぼのログ",
+    "overview": "Based on an illustration book by Naka Fukamachi. The anime offers heartwarming peeks at the lives of close couples and families.",
+    "popularity": 5.648,
+    "poster_path": "/qhjAjkQibM2HhBEKiUgYWsENKux.jpg",
+    "production_companies": [
+        {
+            "id": 103564,
+            "logo_path": "/t0dnUMFPjzPStIkEM3Pm1rGLIQ8.png",
+            "name": "Fanworks",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-06-06",
+            "episode_count": 10,
+            "id": 81398,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ioBjfL0y8ymz34yNK5z3C4UPi7c.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 5
+}

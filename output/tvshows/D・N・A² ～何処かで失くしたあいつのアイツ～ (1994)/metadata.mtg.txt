@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/bgwuC5Xd9vz9xjoUqABUcqGFey6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1994-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.madhouse.co.jp/works/1994-1993/works_tv_dna.html",
+    "id": 43384,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1994-12-23",
+    "last_episode_to_air": {
+        "air_date": "1994-12-23",
+        "episode_number": 12,
+        "id": 887772,
+        "name": "Bye-Bye Mega-Playboy",
+        "overview": "Ryuji has become like a god, his physical prowess beyond anything human. All he cares about now is to destroy his rival, Junta Momonari! Fortunately for Junta, he's also the only one who can stop Ryuji now... or rather, the Mega-Playboy can! But if he becomes the Mega-Playboy one more time, he may change forever, dooming the future... and if he doesn't, he's dead!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/byoxPjt3oRo6FuRkyVOYbzuzAjA.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "DNA²",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "D・N・A² ～何処かで失くしたあいつのアイツ～",
+    "overview": "Karin, a DNA operator from the future, is on a mission to change the course of History by stopping Junta Momonari from becoming the Mega-Playboy who fathered 100 children and led to the overpopulation of the world. But Junta is no playboy; in fact he is allergic to girls. But when Karin shoots him with the wrong DNA-altering bullet, he starts sporadically becoming the Mega-Playboy capable of charming any woman. Karin must try to restore the situation to normal before the change to Mega-Playboy becomes irreversible.",
+    "popularity": 10.546,
+    "poster_path": "/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-02-21",
+            "episode_count": 3,
+            "id": 52808,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/dLN99PRdru8YedTvor9GK4PSaM2.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1994-10-07",
+            "episode_count": 12,
+            "id": 52809,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fJnDAWDvpfKvpleSYhJsDuI4UXk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 47
+}

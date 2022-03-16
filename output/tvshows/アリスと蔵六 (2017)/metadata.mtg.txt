@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/4OZwDoCjVLtwayU5voUuJuPSH36.jpg",
+    "created_by": [
+        {
+            "id": 1771257,
+            "credit_id": "5d4c21c248333a00151b11bf",
+            "name": "Tetsuya Imai",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://alicetozouroku.com/",
+    "id": 70594,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-06-25",
+    "last_episode_to_air": {
+        "air_date": "2017-06-25",
+        "episode_number": 12,
+        "id": 1331733,
+        "name": "I'm Home",
+        "overview": "As Hatori's parents desperately search for Hatori, it is revealed that she and Sana have been missing for ten days in the real world. In Wonderland, the two girls attempt to find a new exit and come across a rabbit that is holding Hatori's cell phone.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jdiS4AVG2mYck1XhN07fxZnx6Sj.jpg",
+        "vote_average": 7,
+        "vote_count": 2
+    },
+    "name": "Alice & Zoroku",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アリスと蔵六",
+    "overview": "The story centers on a little girl called Sana, who is one of the children that holds the power of \"Alice's Dream,\" an ability that enables her to materialize anything she imagines. After escaping a lab where she was a test subject, Sana ends up in a normal world where she encounters an old man named Zouroku, but will he help her?",
+    "popularity": 16.923,
+    "poster_path": "/aHYmjLTc5niV7uuTBmIz4oTrSx6.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-05-07",
+            "episode_count": 1,
+            "id": 128737,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-04-02",
+            "episode_count": 12,
+            "id": 85915,
+            "name": "Season 1",
+            "overview": "A group of young girls possess a mysterious power known a \"Alice's Dream, \" which gives them the ability to turn their thoughts into reality.  Detained and experimented upon, these youths are locked away in secret until one of them manages to escape.  Her name is Sana - a girl with the power to ignore the very laws of physic.",
+            "poster_path": "/jqz8SgkAjZ7Rp4EyusUcP2z3p6G.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 15
+}

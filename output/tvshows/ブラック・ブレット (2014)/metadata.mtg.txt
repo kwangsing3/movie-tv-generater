@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/aVyL6XmD7wQMfTm6QIcpVsLRkfy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-04-08",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.black-bullet.net/",
+    "id": 60834,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-07-01",
+    "last_episode_to_air": {
+        "air_date": "2014-07-01",
+        "episode_number": 13,
+        "id": 998452,
+        "name": "The Ones Who Aspired to Be Gods",
+        "overview": "With the addition of Kagetane and Kohina, the adjuvant is complete. They choose the Flames of Revolution, the last place humanity won their battle against the Gastrea, as the ground for the final battle against Aldebaran.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/p7BcRgU3jP6Pu1BBMCcL6aeQO4F.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Black Bullet",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブラック・ブレット",
+    "overview": "A near future, where humans have been defeated by the viral parasites named Gastrea. They have been exiled into a small territory and live in despair, side-by-side in terror.\n\nIn this world trapped in darkness—\n\nRentaro, a boy living near Tokyo and member of the \"Civil Security\"—an organization specializing in fighting against the Gastrea—is used to accomplishing dangerous tasks. His partner is Enju, a precocious young girl. They fight thanks to their peculiar powers until one day, when they receive a special assignment from the government. This top secret mission is to prevent the destruction of Tokyo...\n\nSet in a near future, this thrilling heroic-action story... starts now!",
+    "popularity": 25.944,
+    "poster_path": "/4UOpAafs6PCsZ8AwlCjGVIVn2ET.jpg",
+    "production_companies": [
+        {
+            "id": 16738,
+            "logo_path": "/Lf0udeB7OwHoFJ0XIxVwfyGOqE.png",
+            "name": "Kinema Citrus",
+            "origin_country": "JP"
+        },
+        {
+            "id": 61406,
+            "logo_path": "/cp27UOmwl39GhReASLlGOekc2OB.png",
+            "name": "Orange",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-10-08",
+            "episode_count": 1,
+            "id": 180147,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-04-08",
+            "episode_count": 13,
+            "id": 60837,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4UOpAafs6PCsZ8AwlCjGVIVn2ET.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 132
+}

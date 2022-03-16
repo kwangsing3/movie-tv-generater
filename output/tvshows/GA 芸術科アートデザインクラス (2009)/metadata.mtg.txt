@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/jWh193OgC2FAoYvqoOxakFwJx8t.jpg",
+    "created_by": [
+        {
+            "id": 1067790,
+            "credit_id": "6087027c532acb00588837db",
+            "name": "Hiroaki Sakurai",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2009-07-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 37552,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-09-21",
+    "last_episode_to_air": {
+        "air_date": "2009-09-21",
+        "episode_number": 12,
+        "id": 848288,
+        "name": "Hexenkessel",
+        "overview": "After discovering that Namiko is staying home sick for the day, the group tries to cope without her. After her return the girls have a sleepover so that they can get their projects completed on time, but due to a off-the-wall dinner not much gets done.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fxkQjUAqwCciVjVNnkhJP7SVv77.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "GA: Geijutsuka Art Design Class",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "GA 芸術科アートデザインクラス",
+    "overview": "GA is a class that specializes in the arts at Ayanoi High School. Kisaragi, Nodamiki, Kyoju, Tomokane and Namiko are five students who learn about art.",
+    "popularity": 1.917,
+    "poster_path": "/eRwx5rGMhxlo8lef3GFnL2bT3JT.jpg",
+    "production_companies": [
+        {
+            "id": 26262,
+            "logo_path": null,
+            "name": "AIC PLUS+",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-04-02",
+            "episode_count": 1,
+            "id": 48905,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/nRP9nafpg8Mi0OdfxdcWnF3aFao.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-07-06",
+            "episode_count": 12,
+            "id": 48904,
+            "name": "Ga: geijutsuka art design class season 1",
+            "overview": "",
+            "poster_path": "/uK4nTdSz9TZyk9SURZkXk0CITgH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2
+}

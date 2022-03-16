@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/dwEkNoGFZJWqiwJrnzVfmtmVhfU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/5hanayome",
+    "id": 84669,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-26",
+    "last_episode_to_air": {
+        "air_date": "2021-03-26",
+        "episode_number": 12,
+        "id": 2670856,
+        "name": "Sisters War: Part 2",
+        "overview": "With desperation increasing, things become tense amongst the sisters as well as with Futaro. For their elective tour on the last day of the school trip, the quintuplets decide to keep things fair by leaving the outcome to luck.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/gHmE5c8sipL7lXHPiVQETogtvM9.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "The Quintessential Quintuplets",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "五等分の花嫁",
+    "overview": "Fuutarou Uesugi is a poor, antisocial ace student who one day meets the rich transfer student Itsuki Nakano. They argue but when Uesugi realizes he is to be her tutor, he tries to get on better terms. While trying to do so he meets four other girls.",
+    "popularity": 111.116,
+    "poster_path": "/mrahUSmFjae8UHtlOcZ58ytmAGu.jpg",
+    "production_companies": [
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 118286,
+            "logo_path": null,
+            "name": "Bibury Animation Studios",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-11",
+            "episode_count": 12,
+            "id": 113776,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/v88bxFMCXo5qIGlyPUls0yPWfr7.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-01-08",
+            "episode_count": 12,
+            "id": 130268,
+            "name": "Season 2",
+            "overview": "Uesugi, has chosen to continue tutoring the quintuplets, who are all on the verge of failure and dislike studying, until graduation as a part-time tutor. After earning a great amount of trust through the various events at the school camp, Uesugi feels he is starting to understand the girls. However, troubles continue as Uesugi continues to teach the quintuplets.\n\nA new test for Uesugi and the quintuplets begins!",
+            "poster_path": "/sB7QCZr3YSENWthYEz65sgm52xi.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 187762,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 502
+}

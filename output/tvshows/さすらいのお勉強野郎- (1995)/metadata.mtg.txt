@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/a08RnkU3LwE5R552Q5VBJoQUuEL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1995-10-27",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34105,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-06-28",
+    "last_episode_to_air": {
+        "air_date": "1996-06-28",
+        "episode_number": 6,
+        "id": 781900,
+        "name": "Animation is Fun!",
+        "overview": "Chie is a cel-painter at the animation studio where Kintaro works as an errand-boy. Production difficulties ensue, and Kintaro must rely on old friends to pull things through. An animated rendition of Tatsuya Egawa, voiced by the author himself, makes a cameo appearance in this episode.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7LEeKwj0jmOea8yxRRNGURgLjFX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Golden Boy",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "さすらいのお勉強野郎-",
+    "overview": "Kintaro Oe is a 25-year-old boy who left Tokyo University and now lives a simple life, traveling by bicycle to learn everything he can about the world.",
+    "popularity": 30.269,
+    "poster_path": "/fx2DqPaW5OwFTBgS4nbTuCxdYFj.jpg",
+    "production_companies": [
+        {
+            "id": 6559,
+            "logo_path": null,
+            "name": "APPP Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-10-27",
+            "episode_count": 6,
+            "id": 44899,
+            "name": "Season 1",
+            "overview": "Kintaro, despite having met the requirements for a law degree, left Tokyo University without graduating. Golden Boy depicts his living the life of a free spirit, roaming Japan from town to town, job to job. During his travels, Kintaro meets several women whose lives he dramatically changes, despite poor first impressions. He constantly observes and studies the people and events around him, recording his findings in a notebook he carries on his belt.",
+            "poster_path": "/s7ReZKMOCgvA0JKNaw15e3n2tt7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 309
+}

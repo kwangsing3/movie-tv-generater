@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": "/ziDRPfyMJCIJxISHcdcuhAgKCIG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        7
+    ],
+    "first_air_date": "2021-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://showtime.af-original.com/",
+    "id": 131660,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-11-22",
+    "last_episode_to_air": {
+        "air_date": "2021-11-22",
+        "episode_number": 8,
+        "id": 3280371,
+        "name": "Because I Also Love You as the Songstress",
+        "overview": "Although they can’t meet in person for fear of scandal, Shouji and Minami continue to communicate via phone and video calls. Then, one day, Shouji collapses in the middle of a call due to exhaustion from a picture book competition. Without thinking, Minami starts to leave the recording site. She hesitates, however, afraid that the people around her might find out about their relationship.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ptxVWopT4CLCNTX7QOyUJbnpJoS.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Showtime! Uta no Onee-san Datte Shitai",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AnimeFesta",
+            "id": 2616,
+            "logo_path": "/sftM39QJNGFPEXLGOvakDCz0kSv.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "d Anime Store",
+            "id": 3685,
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Anime Houdai",
+            "id": 3748,
+            "logo_path": "/zQbXySts9Nz2wus72JOqUPWG3Qt.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "U-NEXT",
+            "id": 3869,
+            "logo_path": "/ydvZrfyYbBVXPDT1Tv2P6EmRmDZ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "しょうたいむ！〜歌のお姉さんだってしたい〜",
+    "overview": "Fujimoto Shouji is a widowed single father who aspires to be a picture book author. Kana, his only daughter, is a big fan of Takasaki Minami, the singing idol on the children’s educational show “Let’s Sing With Big Sis!” One day, Shouji encounters Minami while she is outside of work. As a television icon for children, Minami is prohibited from romantic relationships, so she is lonely in her private life. Thus begins an adult love story with a songstress.\n\n(Inspired by the character Uta no Oneesan from the children’s show Okaasan to Issho.)",
+    "popularity": 25.613,
+    "poster_path": "/7S86pkMfatspJmXENcPZfgaKB33.jpg",
+    "production_companies": [
+        {
+            "id": 152965,
+            "logo_path": null,
+            "name": "Rabbit Gate",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-09-27",
+            "episode_count": 1,
+            "id": 214266,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-10-04",
+            "episode_count": 8,
+            "id": 206805,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5a8TWKvZRVnq5tO9GCp98J1Ukr8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Even the Singing Lady… Wants To Do It",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

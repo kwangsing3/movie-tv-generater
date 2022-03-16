@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10749,
+            "name": "Romance"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.funimationfilms.com/movie/yourname/",
+    "id": 372058,
+    "imdb_id": "tt5311514",
+    "original_language": "ja",
+    "original_title": "君の名は。",
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+    "popularity": 151.759,
+    "poster_path": "/q719jXXEzOoYaps6babgKnONONX.jpg",
+    "production_companies": [
+        {
+            "id": 3756,
+            "logo_path": "/t38uPdbKmyBB8brKKeTFWIwojRz.png",
+            "name": "CoMix Wave Films",
+            "origin_country": "JP"
+        },
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "Toho",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 8157,
+            "logo_path": "/yHOC2PPmj6j2zzRqwdufCZauFxI.png",
+            "name": "East Japan Marketing & Communications",
+            "origin_country": "JP"
+        },
+        {
+            "id": 14602,
+            "logo_path": "/t9eqx5QCHtu8LxxgYzivqrJAosp.png",
+            "name": "AMUSE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 128617,
+            "logo_path": null,
+            "name": "voque ting",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104184,
+            "logo_path": null,
+            "name": "Lawson Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2016-08-26",
+    "revenue": 357986087,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Your Name.",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 8450
+}

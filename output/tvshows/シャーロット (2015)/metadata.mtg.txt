@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/7H4tSXXGz9enq0E2BEwojBdbHAX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://charlotte-anime.jp/",
+    "id": 63145,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-09-27",
+    "last_episode_to_air": {
+        "air_date": "2015-09-27",
+        "episode_number": 13,
+        "id": 1084024,
+        "name": "Memories to Come",
+        "overview": "The decision that Yu makes is to plunder the ability of every last wielder of a special ability on Earth.\n\nIt is a choice that provides salvation to every ability-wielder, but at the same time, it is a choice that makes Yu pay a huge price in return.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zSlCU7MAcEVSzbbY4avsezmEMOI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Charlotte",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シャーロット",
+    "overview": "All thanks to the special ability that he developed, Yuu was able to  cheat his way into a very prestigious high school. With his power, he  thought nothing was going to stand in his way, until he met a mysterious  girl named Nao Tomori and other students with special abilities just like him. It was the beginning to a new life.",
+    "popularity": 39.592,
+    "poster_path": "/rMOGHPGfuywDViL9Oc0tA29oxtA.jpg",
+    "production_companies": [
+        {
+            "id": 20867,
+            "logo_path": "/op3ROO9jB4KwLUZ16VAvuGasRRv.png",
+            "name": "P.A.Works",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-06-21",
+            "episode_count": 2,
+            "id": 75926,
+            "name": "Specials",
+            "overview": "OVA set between episodes 4 and 5.",
+            "poster_path": "/1ZTE2rQo06QxC75yP7WJHNas8Gk.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-07-05",
+            "episode_count": 13,
+            "id": 68338,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qzeOvTI4eXHKTJLIy9EJQIdbyOy.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 444
+}

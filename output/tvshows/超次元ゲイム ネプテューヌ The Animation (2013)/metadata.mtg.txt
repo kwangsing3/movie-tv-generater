@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/qGfqqUamLuuurGH2wSvqAEiHxxv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://nep-anime.tv",
+    "id": 63525,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-09-27",
+    "last_episode_to_air": {
+        "air_date": "2013-09-27",
+        "episode_number": 12,
+        "id": 1094997,
+        "name": "The Ties (Bifrosts) of Tomorrow",
+        "overview": "It's the final battle, and the fate of Gamindustri is on the line!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yrdy4t3sszpux9dpCBHjHWbAUDz.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Hyperdimension Neptunia",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "超次元ゲイム ネプテューヌ The Animation",
+    "overview": "This is Gameindustri. Beings called Goddesses rule the countries of this unreal world. The four goddesses govern four states: Planeptune, Lastation, Lowee and Leanbox. For many long years these countries fought each other over the Share, the source of the Goddesses' power. However, fearful that the conflict would pointlessly erode their strength, the goddesses signed a Friendship Treaty forbidding them from taking the Share by force. Under the treaty, the Goddesses and their younger sisters took a step forward to a new stage in their relations. It is the dawn of a new, dynamic era marked occasionally by shared laughter, disputes as well as cooperation. But what does the future hold in store for Gameindustri...?",
+    "popularity": 9.459,
+    "poster_path": "/y8W1GS5fEY2XrqkpQrOiLnrf5Kk.jpg",
+    "production_companies": [
+        {
+            "id": 18764,
+            "logo_path": null,
+            "name": "Cinema Sunshine",
+            "origin_country": ""
+        },
+        {
+            "id": 5809,
+            "logo_path": "/aqc1Sj5nfPWb9rjf1TSayKBPlno.png",
+            "name": "Frontier Works",
+            "origin_country": "JP"
+        },
+        {
+            "id": 18765,
+            "logo_path": null,
+            "name": "Mages",
+            "origin_country": ""
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-03-26",
+            "episode_count": 4,
+            "id": 69314,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/5LY7socoCOS9zfGQW4ZFaeJNIoF.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-07-12",
+            "episode_count": 12,
+            "id": 69313,
+            "name": "Season 1",
+            "overview": "After having fought over Share energy for many years, the Goddesses signed a treaty which forbids each from taking Share energy from the other using forceful means. As a result of Neptune's laziness, Planeptune's shares steadily decline, and Histoire sends Neptune off to find a way to remedy the situation.",
+            "poster_path": "/5LY7socoCOS9zfGQW4ZFaeJNIoF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 10
+}

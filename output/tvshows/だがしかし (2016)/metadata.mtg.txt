@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/qYeyW5xKqrMP2A2TY410KrQln1W.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/dagashi/",
+    "id": 65523,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-30",
+    "last_episode_to_air": {
+        "air_date": "2018-03-30",
+        "episode_number": 12,
+        "id": 1462718,
+        "name": "I'm Back, Welcome Back, and...",
+        "overview": "After a surprise reunion with Hotaru at a train station, Kokonotsu asks her why she suddenly disappeared without saying anything to him.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/8Vo9inOAFh2VXtKMFha8uy7DyOi.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dagashi Kashi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "だがしかし",
+    "overview": "Shikada Kokonotsu's father owns a rural sweets shop, and his plan is for Kokonotsu to take it over one day. However, Kokonotsu wants to be a manga author instead! One day in summer, the cute but weird girl Shidare Hotaru, from the famous sweets company, comes to pay a visit. Apparently, Kokonotsu's father is famous and she wants him to join her family's company. However, he will only agree if she can convince Kokonotsu to take over the family business!",
+    "popularity": 27.776,
+    "poster_path": "/lca8iodKGWfMIbVmq3Taizm91iF.jpg",
+    "production_companies": [
+        {
+            "id": 17315,
+            "logo_path": "/8QPhCeRCNVa3jYCtDvThTlAGYSL.png",
+            "name": "feel.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-01-08",
+            "episode_count": 12,
+            "id": 74401,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yb0rxhNKr1mtphOK6G1ORrDNXS5.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-01-11",
+            "episode_count": 12,
+            "id": 97324,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/jD3S3cqtwZQlCToxfAOIR2NWo0I.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 138
+}

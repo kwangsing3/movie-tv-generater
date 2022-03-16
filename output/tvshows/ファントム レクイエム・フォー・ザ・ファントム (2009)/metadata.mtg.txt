@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/1nsuwlNHIWV8xKpGigOxKoG2Jp9.jpg",
+    "created_by": [
+        {
+            "id": 1254559,
+            "credit_id": "5e6e38db2f3b1700174471b8",
+            "name": "Gen Urobuchi",
+            "gender": 2,
+            "profile_path": "/2wYwb8CAEsgxz5aJrSKwVv2dwXx.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2009-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.phantom-r.jp/",
+    "id": 22254,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-09-24",
+    "last_episode_to_air": {
+        "air_date": "2009-09-24",
+        "episode_number": 26,
+        "id": 608475,
+        "name": "Elen",
+        "overview": "Reiji and Elen defeat the Zahlen Schwestern after a difficult battle and Elen finally breaks free of Sythe Master's mental manipulations and is able to kill him. Meanwhile in America, Mr. McGuire is asked for his orders in regards to Phantom and muses over Ein and Zwei's accomplishments for Inferno. He states that youth must prevail over the old system and that Inferno must carry on; whether this means that Ein and Zwei are to be eliminated as part of the \"old system\" or to be retrieved as the \"youth\" is unknown. Six months later, Reiji and Elen have finally traced Elen's heritage back to Mongolia where they meet a dead end. While an old man tells Elen that you could never forget the sky of Mongolia; after finding a field to do so, Elen is content knowing this is her homeland and feels her journey is over. As Reiji watches Elen in the field, he vows that he will keep his promise to make Elen truly smile, which she does after finding peace through being with Reiji and finding her homeland. As a carriage passes by, a shot is fired; Reiji collapses to the ground. Elen is then shown unmoving while looking up at the sky; however a petal of a poisonous flower beside her, Oxytropis, is shown missing. The fate of Elen and Reiji is left unknown, leaving the ending ambiguous.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/aAFCqPR1m0TvTrjUUfDy3fjiFQy.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Phantom: Requiem for the Phantom",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ファントム レクイエム・フォー・ザ・ファントム",
+    "overview": "Mafia is rife in America where assassinations are a regular occurrence on the streets. Inferno, a mysterious company, is behind most of these dealings through the use of their near-invincible human weapon, \"Phantom.\"\n\nOne day, a Japanese tourist accidentally witnesses Phantom's latest murder. Desperate to escape, the tourist hides in a secluded building. However, Phantom, revealed to be a young woman named Ein, and the leader of Inferno \"Scythe Master\" captures the tourist and brainwashes him.\n\nGiven the name \"Zwei,\" this once peaceful tourist is now a puppet of Inferno with no memories. Drawn into a world of lies, deceit, and violence, Zwei must fight to survive, hopefully to one day regain his memories and escape from this world where he is constantly on the brink of death.",
+    "popularity": 12.997,
+    "poster_path": "/tkA2spPJbtaDvx2qz0rQC5af5HR.jpg",
+    "production_companies": [
+        {
+            "id": 4289,
+            "logo_path": null,
+            "name": "BeeTrain",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-07-24",
+            "episode_count": 15,
+            "id": 32141,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/uWG0ieXInib3MB0UGMOjcdSbZS4.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-04-02",
+            "episode_count": 26,
+            "id": 32140,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uWG0ieXInib3MB0UGMOjcdSbZS4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 19
+}

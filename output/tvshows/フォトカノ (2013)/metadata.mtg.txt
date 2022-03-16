@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/iPs05JqfE9XF5Q7f2QZbIrvwtWw.jpg",
+    "created_by": [
+        {
+            "id": 1506154,
+            "credit_id": "6087b461435abd006d563e98",
+            "name": "Akitoshi Yokoyama",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2013-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/photokano/",
+    "id": 56081,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-06-28",
+    "last_episode_to_air": {
+        "air_date": "2013-06-28",
+        "episode_number": 13,
+        "id": 938068,
+        "name": "Loving Each Other",
+        "overview": "Kazuya has a big problem. While his parents are gone on a trip for Europe, he realizes that he might have the hots for his younger sister, Kanon.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2vMxVMvQHa3lk38KhmtkK4x2Ssx.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Photokano",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "フォトカノ",
+    "overview": "During Kazuya Maeda's first year of high school he felt like a nobody, just another forgotten face shuffling through the crowded hallways. Even his best friend from childhood, Nimi, seemed somehow more difficult to approach, since she had matured a little quicker in the unsettling way that girls have a habit of doing. However, this year, things will be different for Kazuya, and part of that change may just be because of the big new chick magnet hanging in front of him: The used digital SLR he just received from his dad! But will just having a camera be enough to make talking to girls a snap? Well, if he stays focused and proves to be good enough at making them look good, it might just be! And since it's digital, there are no negatives or having to wait for things to develop! Will Kazyuya's new stock-in-trade click with the most beautiful girls in school, or will his career as a lensman be just a flash in the pan?",
+    "popularity": 5.537,
+    "poster_path": "/m8U1WcV6N1uQ0KmN5hTzwpZmXJg.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-04-05",
+            "episode_count": 13,
+            "id": 58080,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/m8U1WcV6N1uQ0KmN5hTzwpZmXJg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 6
+}

@@ -1,0 +1,167 @@
+{
+    "adult": false,
+    "backdrop_path": "/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://mobpsycho100.com",
+    "id": 67075,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-04-01",
+    "last_episode_to_air": {
+        "air_date": "2019-04-01",
+        "episode_number": 13,
+        "id": 1744880,
+        "name": "Boss Fight ~The Final Light~",
+        "overview": "The Cultural Tower floats above Seasoning City. The final battle between Mob and Suzuki was about to begin. Mob is almost overwhelmed by the fact that he's able to completely release his powers, but then, he sees his younger brother, Ritsu. Mob regains his composure and he faces off with Suzuki, but Suzuki's power is too great. Mob finally gives up on trying to talk things out and puts everything he has into this battle. Who will be the victor?",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/bVvWPZNtFpvnJKB5lC7jv6dhFGJ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mob Psycho 100",
+    "next_episode_to_air": {
+        "air_date": "2022-12-31",
+        "episode_number": 1,
+        "id": 3292913,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "モブサイコ100",
+    "overview": "Shigeo Kageyama, a.k.a. \"Mob,\" is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob is determined to live a normal life and keeps his ESP suppressed, but when his emotions surge to a level of 100%, something terrible happens to him! As he's surrounded by false espers, evil spirits, and mysterious organizations, what will Mob think? What choices will he make?",
+    "popularity": 104.525,
+    "poster_path": "/5Wf9Y6gucbu1LMe1FyqD8TQjaNM.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3627,
+            "logo_path": "/i1eW4O13B28b4JHpIL5C9rRiiur.png",
+            "name": "Warner Bros. Japan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6681,
+            "logo_path": "/s4RElEnQyM2VrHZCQ3jYemPdxML.png",
+            "name": "THE KLOCKWORX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 142186,
+            "logo_path": "/fCsUYQacBylGp6M7Fafz9Aza9GE.png",
+            "name": "Hakuhodo DY Music & Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59206,
+            "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+            "name": "BS Fuji",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9149,
+            "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+            "name": "Shogakukan",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-09-28",
+            "episode_count": 8,
+            "id": 107371,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/55vdN42xPQxSZodv5aFykQzb35C.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-07-12",
+            "episode_count": 12,
+            "id": 78421,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tbc35gqERUm4dh8pnLVQE66Nh9e.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-01-06",
+            "episode_count": 13,
+            "id": 110805,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/fG5h4mufBkZdFCBBJ6kFHDYJVV1.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2022-12-31",
+            "episode_count": 1,
+            "id": 216245,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/hNm64OvvTJ25465N1dbvNYGHdx9.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

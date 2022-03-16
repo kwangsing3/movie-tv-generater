@@ -1,0 +1,151 @@
+{
+    "adult": false,
+    "backdrop_path": "/ivWNDYPxDMjc82ajeSPuyq70hu9.jpg",
+    "created_by": [
+        {
+            "id": 2271663,
+            "credit_id": "61e18a6ac175b2001c91accc",
+            "name": "Satou Shouji",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3382419,
+            "credit_id": "61e18a7715dea00069ceffea",
+            "name": "Satou Daisuke",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.nbcuni.co.jp/rondorobe/anime/hotd/",
+    "id": 56998,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-09-20",
+    "last_episode_to_air": {
+        "air_date": "2010-09-20",
+        "episode_number": 12,
+        "id": 939799,
+        "name": "All DEAD'S Attack",
+        "overview": "After an EMP wave shuts down all electronic equipment in a wide radius, Komuro and his friends must defend the mansion or risk losing everything that matters to them.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/q59SdK9aHIHQquBi0BfrYN5AaaE.jpg",
+        "vote_average": 9.6,
+        "vote_count": 5
+    },
+    "name": "High School of the Dead",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "学園黙示録 HIGHSCHOOL OF THE DEAD",
+    "overview": "When the world is struck by a deadly pandemic that turns humans into zombies, Takashi Komuro and several of his classmates at Fujimi High School try to survive the apocalypse.",
+    "popularity": 45.52,
+    "poster_path": "/oPiNGGZyBzst3hKGFU1mteT0zhe.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17392,
+            "logo_path": null,
+            "name": "Showgate",
+            "origin_country": ""
+        },
+        {
+            "id": 167887,
+            "logo_path": null,
+            "name": "H.O.T.D.製作委員会",
+            "origin_country": ""
+        },
+        {
+            "id": 7111,
+            "logo_path": "/vHUCDHu63vjfQjDNHvKqlUWOdwE.png",
+            "name": "Geneon Universal Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-04-26",
+            "episode_count": 1,
+            "id": 58282,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/3QNzKOMEeZRkmugD2aYL4mzt7zI.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-07-05",
+            "episode_count": 12,
+            "id": 58281,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tbHxIjmcp7srKoJYWr1SIlKeaQV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "They're gonna graduate with horrors.",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 587
+}

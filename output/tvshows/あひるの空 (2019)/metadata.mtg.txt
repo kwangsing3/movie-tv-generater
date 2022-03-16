@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/g4HXzd7AqkaoC2PImYMwt54vOJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://ahirunosora.jp/",
+    "id": 92892,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-09-30",
+    "last_episode_to_air": {
+        "air_date": "2020-09-30",
+        "episode_number": 50,
+        "id": 2363161,
+        "name": "Bridge",
+        "overview": "The match is finally over, and one question remains: Have the players of Kuzu High done enough to save the basketball club, or have their inter-high dreams come to an end?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/86P2gM2ZBURKGeIyf1isVnBOfNK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ahiru no Sora",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あひるの空",
+    "overview": "A stout, weak, yet highly passionate Sora Kurumatani enters Kuzuryuu High School with hopes that he’ll fulfill his mother’s wishes to dominate his first high school tournament. However, the basketball club—turned den for delinquents—does anything but play basketball! Its club members, Momoharu Hanazono, a skilled blocker who can do power jumps but is horrible at shooting, and his twin brother Chiaki, a talented point guard, has also lost interest in the sport. With just one game overwhelmed with adrenaline rush and excitement, and Sora’s pure love for the game, the youth’s burning out spirit for basketball rekindles.",
+    "popularity": 31.469,
+    "poster_path": "/buUgxLguqSOuc4phBsrrlc4HrlG.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-01",
+            "episode_count": 50,
+            "id": 130986,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3HASzc1mFgrkVlRuXoNiFRcExmH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 154
+}

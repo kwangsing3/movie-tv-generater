@@ -1,0 +1,132 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1406803,
+            "credit_id": "61eebd079e458600437ff1b8",
+            "name": "Suzuhito Yasuda",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        28
+    ],
+    "first_air_date": "2010-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://kc.kodansha.co.jp/yozakura/",
+    "id": 115082,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-11-09",
+    "last_episode_to_air": {
+        "air_date": "2011-11-09",
+        "episode_number": 3,
+        "id": 2580475,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yozakura Quartet: Hoshi no Umi",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "夜桜四重奏 〜ホシノウミ〜",
+    "overview": "Yozakura Quartet ~Hoshi no Umi~ (lit. Yozakura Quartet ~Sea of Stars~) is a series of OVAs released covering the Hoshi no Umi arc of the manga. ~Hoshi no Umi~ consists of three DVDs that was released between Oct. 8, 2010 and Nov. 9, 2011 together with manga volumes 9, 10, and 11.",
+    "popularity": 1.094,
+    "poster_path": "/r188DpOcNfp5g3XITf79vf8yKtc.jpg",
+    "production_companies": [
+        {
+            "id": 20759,
+            "logo_path": null,
+            "name": "Purple Cow Studios Japan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 168537,
+            "logo_path": null,
+            "name": "KMMJ Studios",
+            "origin_country": ""
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 21581,
+            "logo_path": null,
+            "name": "STUDIO RIKKA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-10-07",
+            "episode_count": 3,
+            "id": 173179,
+            "name": "Season 1",
+            "overview": "Two years after moving to Sakurashin, Rin lives happily with her friends, working at the noodle shop. However, Zakuro, an old acquaintance of hers appears at the city with the intention of taking Rin away and the members of the Hiizumi Life Counseling Office make a stand to protect their friend.",
+            "poster_path": "/nBuEyHpIYbKXsaA6k3hfupWzbqe.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

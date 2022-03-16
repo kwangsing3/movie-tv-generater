@@ -1,0 +1,64 @@
+{
+    "adult": false,
+    "backdrop_path": "/kMy8sNBHm7LVp6su91i53ve4mDR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 31595,
+    "imdb_id": "tt0189973",
+    "original_language": "ja",
+    "original_title": "ルパン三世 炎の記憶 〜TOKYO CRISIS〜",
+    "overview": "Lupin attempts and fails to steal a valuable set of Japanese photographic plates. The rightful owner of the plates, Michael Suzuki, is a multimillionaire who is preparing to open a huge water park in Tokyo. Lupin attempts to enlist the help of his steadfast comrades Jigen and Goemon but find them less than reliable; Jigen is suffering from a toothache that throws off his legendary aim, and Goemon has shamefully had his sword, Zantetsuken, stolen by a woman and given to Suzuki to display in his art collection. The group works on a plan with Fujiko to get both the plates and Zantetsuken.",
+    "popularity": 7.184,
+    "poster_path": "/3Q4EMFtRoLToWmuhQ2qtBT6HHQl.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11725,
+            "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+            "name": "VAP",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1998-07-24",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lupin the Third: Tokyo Crisis",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 28
+}

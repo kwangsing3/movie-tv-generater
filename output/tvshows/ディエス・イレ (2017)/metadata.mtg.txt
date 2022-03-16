@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/7heDtXZGMWyKn1ptu8EofNWwjAW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-10-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://diesirae-anime.com",
+    "id": 74087,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-07-02",
+    "last_episode_to_air": {
+        "air_date": "2018-07-02",
+        "episode_number": 17,
+        "id": 1515298,
+        "name": "To the New World",
+        "overview": "A new world is about to begin as the four masters of the Atziluth gather on the golden shore to decide whose law shall reign.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/oBMQgAbR28d9b2K1IuoKjRTNYnk.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dies Irae",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ABEMA",
+            "id": 1521,
+            "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 17,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ディエス・イレ",
+    "overview": "On May 1, 1945 in Berlin, as the Red Army raises the Soviet flag over the Reichskanzlei, a group of Nazi officers conduct a ritual. For them, the slaughter in the city is nothing but the perfect ritual sacrifice in order to bring back the Order of the 13 Lances, a group of supermen whose coming would bring the world's destruction. Years later, no one knows if this group of officers succeeded, or whether they lived or died. Few know of their existence, and even those who knew began to pass away as the decades passed. Now in December in the present day in Suwahara City, Ren Fujii spends his days at the hospital. Every night he sees the same dream: A guillotine. Murderers who hunt people, and the black clothed knights who pursue the murderers. He is desperate to return to his normal, everyday life, but even now he hears his friend Shirō's words: \"Everyone who remains in this city eventually loses their minds.\"",
+    "popularity": 10.086,
+    "poster_path": "/2BBcjIigr2CVnx7NiLsXeZVWmvR.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-10-07",
+            "episode_count": 2,
+            "id": 95873,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-10-14",
+            "episode_count": 17,
+            "id": 93127,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jGmkEoS5efRfuuIy4uGSbWMktnn.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 6
+}

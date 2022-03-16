@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/2XvyjKxx28xMcAyDUxXbQFQ9cL3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2013-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/aiura/index2.html",
+    "id": 50076,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-06-26",
+    "last_episode_to_air": {
+        "air_date": "2013-06-26",
+        "episode_number": 12,
+        "id": 918359,
+        "name": "See You Tomorrow",
+        "overview": "Hello! It's Kanaka Amaya! I believe it's always important to be prepared for anything! And so, I'm going to say something that's not very good! I'm now going to say something nice! ...If I said that, I'd be raising the bar too much. ...Crap, I forgot what I was going to say... Anyway, it's the last episode. That was really fast. Anyway, thank you very much! It would make me very happy if we can meet somewhere again! Everyone, please don't forget Kanaka Amaya!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/hF8xVSry2Mnk3LWNPTriEoSNcVR.jpg",
+        "vote_average": 6,
+        "vote_count": 2
+    },
+    "name": "Aiura",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あいうら",
+    "overview": "They don't always see eye-to-eye, but that just makes these high school girls' daily lives more fun. \"Their lives happen when nothing is happening\".",
+    "popularity": 9.31,
+    "poster_path": "/7jghz8BJVYNbrMeQPRGicgiPZvn.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-04-10",
+            "episode_count": 12,
+            "id": 55540,
+            "name": "Season 1",
+            "overview": "Base on Japanese yonkoma shounen manga series by Chama.  It was first published on Niconico Seiga and later in Kadokawa Shoten's 4-Koma Nano Ace magazine.",
+            "poster_path": "/zqq5Kql3QLfnVaoRDrjDKh4xyNK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 17
+}

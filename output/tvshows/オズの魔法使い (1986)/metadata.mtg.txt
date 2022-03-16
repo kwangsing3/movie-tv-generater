@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/8JWsNMszGwrrYXEivVGTwRwoSxA.jpg",
+    "created_by": [
+        {
+            "id": 1598888,
+            "credit_id": "56fcb301c3a3684809001600",
+            "name": "Katsu Denka",
+            "profile_path": null
+        },
+        {
+            "id": 1598889,
+            "credit_id": "56fcb30c9251415fa3001379",
+            "name": "Hiro Obayashi",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1986-10-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 66081,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1986-12-16",
+    "last_episode_to_air": {
+        "air_date": "1986-12-16",
+        "episode_number": 52,
+        "id": 1182909,
+        "name": "A Very Happy Ending",
+        "overview": "With everything peaceful again, Ozma arranges to send Dorothy home again, with the promise that she can return anytime. Dorothy agrees and returns home.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/r9Fi1tpVXj7FtAYXO1uJQKX1vvZ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Wonderful Wizard of Oz",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "オズの魔法使い",
+    "overview": "A young girl named Dorothy has gone to live with her grandparents on their small farm. One day when Dorothy is left alone in the house a tornado appears. Dorothy fails to get to the basement in time, and the entire house is picked up and transported to a magical land, falling on and killing a wicked witch. There she is informed by a good witch that she must travel to the Capital of Emerald and meet a great magician who may be able to help her find a way home. Along the way she makes some incredible friends and sees many strange and fantastic things.",
+    "popularity": 20.162,
+    "poster_path": "/gULxsk1pbbhqal80ghawS2ZZhaY.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1986-10-06",
+            "episode_count": 52,
+            "id": 75937,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wqLsfyw3DPIsz5bynWfPc9AAOO4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 6
+}

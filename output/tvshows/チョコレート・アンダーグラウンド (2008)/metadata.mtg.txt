@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/evze9zrCTvQdG3ZhuhqtbZ8uNGN.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2008-06-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 44477,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-09-01",
+    "last_episode_to_air": {
+        "air_date": "2008-09-01",
+        "episode_number": 13,
+        "id": 893766,
+        "name": "The Thirteenth Story",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/x9c4YbjUYGp6Oo4HYm0B8rdSWYm.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Chocolate Underground",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "チョコレート・アンダーグラウンド",
+    "overview": "Chocolate is now illegal. The story takes place in present day, the Good for You Party has won the election and announced the amazing Chocolate Prohibition law. They prohibit all sweet things, including chocolates, because they are harmful to ones health. Two boys, Huntley and Smudger, stand up to fight against the law. With help from Louise and other friends, they begin to bootleg chocolate.",
+    "popularity": 4.677,
+    "poster_path": "/9Ir16TaKUb3uZ6l4wcSo0KwkP9y.jpg",
+    "production_companies": [
+        {
+            "id": 92860,
+            "logo_path": null,
+            "name": "Trans Arts",
+            "origin_country": "JP"
+        },
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-06-12",
+            "episode_count": 13,
+            "id": 53464,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1
+}

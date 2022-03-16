@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/kpY6iMfKkssuD1WObzoGSIeMguY.jpg",
+    "created_by": [
+        {
+            "id": 78014,
+            "credit_id": "53e194bbc3a3686d1c000398",
+            "name": "Leiji Matsumoto",
+            "gender": 2,
+            "profile_path": "/muSDczQxWUkLQQuwVvLO8fSdshM.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2002-12-21",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.vap.co.jp/herlock/",
+    "id": 61155,
+    "in_production": false,
+    "languages": [
+        "de",
+        "ja"
+    ],
+    "last_air_date": "2003-12-21",
+    "last_episode_to_air": {
+        "air_date": "2003-12-21",
+        "episode_number": 13,
+        "id": 1003268,
+        "name": "... the end",
+        "overview": "Harlock is left alone on the ship save Mimeh. He follows the Noo into the realm the earth is hidden in. Meanwhile Tadashi is visited by his father’s ghost who tells him of a promise Harlock made him.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/o4WZu6qxPch18ExUQpQAvGixqah.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey",
+    "overview": "On an archaeological mission to the end of the known universe, Professor Daiba unwitting unleashes an ancient horror from its confines. Five years later the malevolent alien force sets in motion a plan which reunites the various crewmembers of the Arcadia to sail the stars once more as well as bring Tadashi Daiba to meet Harlock for the first time (again).",
+    "popularity": 3.25,
+    "poster_path": "/1ZAUHnak7sGD466KlzuqX9vogYR.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-12-21",
+            "episode_count": 13,
+            "id": 62173,
+            "name": "Season 1",
+            "overview": "The adventures of Captain Herlock and the Arcadia",
+            "poster_path": "/nsy3JHA5daiopz22zjRiu4dYH4q.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.5,
+    "vote_count": 5
+}

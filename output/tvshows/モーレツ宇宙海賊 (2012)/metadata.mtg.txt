@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/6eL4UwpCukawx4vh4akpyywgMUz.jpg",
+    "created_by": [
+        {
+            "id": 555172,
+            "credit_id": "5f57b0dfd55c3d003792c878",
+            "name": "Yuichi Sasamoto",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.starchild.co.jp/special/mo-retsu/",
+    "id": 42501,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-07-01",
+    "last_episode_to_air": {
+        "air_date": "2012-07-01",
+        "episode_number": 26,
+        "id": 880801,
+        "name": "There Go the Pirates",
+        "overview": "Its Marika versus Quartz, Marika has rallied all the pirates to confront Quartz in a winner take all battle. But no one expect for three Grand Cross battleships to appear.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/aiITkVZoCeZKvG5sbcZgRqyTPgC.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bodacious Space Pirates",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "モーレツ宇宙海賊",
+    "overview": "Marika is a high school student living on a planet known as Uminoakeboshi. One day she finds out that her deceased father was the captain of the space pirate ship called the \"Bentenmaru\". More importantly, the one to inherit the captain's title has to be a direct descendant—meaning that Marika is now the captain of the ship.",
+    "popularity": 7.224,
+    "poster_path": "/rqyWLgaCnhWNm6RMHYFrNviLWHU.jpg",
+    "production_companies": [
+        {
+            "id": 30293,
+            "logo_path": null,
+            "name": "SATELIGHT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-02-22",
+            "episode_count": 1,
+            "id": 52223,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/xtAvhde0Ag2AdLPDDtpRr0HZuRg.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-01-08",
+            "episode_count": 26,
+            "id": 52224,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/URfHcoFwBTUh5Xsl81DB2vwv75.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 6
+}

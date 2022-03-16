@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/1c1SDpDayNCr4EkC6dQH7Eun4BR.jpg",
+    "created_by": [
+        {
+            "id": 1257425,
+            "credit_id": "6040cacc5be00e006e7568c7",
+            "name": "Hiro Mashima",
+            "gender": 2,
+            "profile_path": "/2ITgITC5VEP8obAHboMUV4t3Zjd.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://edens-zero.net/anime/",
+    "id": 104711,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-10-03",
+    "last_episode_to_air": {
+        "air_date": "2021-10-03",
+        "episode_number": 25,
+        "id": 2865827,
+        "name": "Someone to Love",
+        "overview": "After the battle between the Kurenai Dragoon and Shiki comes to an end, Shiki and the others return to the Edens Zero and have to share some bad news.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/iBMMoXepXQp3HFz2N01GlUhs1iN.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "EDENS ZERO",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "EDENS ZERO",
+    "overview": "Aboard the Edens Zero, a lonely boy with the ability to control gravity embarks on an adventure to meet the fabled space goddess known as Mother.",
+    "popularity": 54.277,
+    "poster_path": "/qYE9Lk9y3yO8GJSX25BsF7XOtD0.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-11",
+            "episode_count": 25,
+            "id": 153312,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zwj3sFZksoFsKqYPMmqGB95H3XJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 93
+}

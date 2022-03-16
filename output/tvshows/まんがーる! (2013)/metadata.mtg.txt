@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/vzTJRmZhg1otwwS6tNsukNF1AcB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2013-01-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 53725,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-03-28",
+    "last_episode_to_air": {
+        "air_date": "2013-03-28",
+        "episode_number": 13,
+        "id": 924621,
+        "name": "It's Anime Time",
+        "overview": "An offer for an anime adaptation has been presented to Earth Star!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kFLi1txvKSCqCYeMGs1n7NUOzDH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mangirl!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まんがーる!",
+    "overview": "A team of girls with zero experience in manga editing are off and running toward their dream of creating the biggest manga magazine in Japan! They seem to do nothing but run into problems and failures... But still they're working hard every day!",
+    "popularity": 6.781,
+    "poster_path": "/zgKoLseRKWiIi5lfdP9WaXdobY3.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-05-24",
+            "episode_count": 1,
+            "id": 56449,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-01-03",
+            "episode_count": 13,
+            "id": 56448,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mopTr8WHeHA4lWOTaxLYSMojMfg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 4
+}

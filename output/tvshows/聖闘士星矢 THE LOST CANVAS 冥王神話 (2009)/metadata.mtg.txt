@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/wci4coPpl3DRnXCiLxeGD5Rc4Kc.jpg",
+    "created_by": [
+        {
+            "id": 1255673,
+            "credit_id": "5efa922ba284eb00368f16fc",
+            "name": "Masami Kurumada",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2009-06-24",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://saintseiya-official.com",
+    "id": 61389,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-07-20",
+    "last_episode_to_air": {
+        "air_date": "2011-07-20",
+        "episode_number": 26,
+        "id": 1532207,
+        "name": "Let You Be Yourself",
+        "overview": "Hakurei finally defeats Hypnos by using his most powerful technique with the help from his former fellow saints from the last Holy War, but he's murdered by Hades just as he was about to destroy the dark barrier. Shion, enraged, attacks Hades causing him no harm. Amidst all this debacle, Dohko, Tenma and Yato arrive to join Shion and Yuzuriha. The Pegasus Saint fights Hades, but the King of the Underworld overpowers him. In the verge of an inminent death, Tenma is saved by Dohko by using all his cosmos.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mqR66JPCW1r46tpwCl6ed4uvTgI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Saint Seiya The Lost Canvas",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "聖闘士星矢 THE LOST CANVAS 冥王神話",
+    "overview": "An orphan known as Tenma becomes one of Athena's 88 warriors known as Saints and finds himself in a war fighting against his best friend Alone who is revealed to be the reincarnation of Athena's biggest enemy, the God Hades.",
+    "popularity": 73.07,
+    "poster_path": "/eJNAxUHVXXUSbuc6D1ojSYH6S1r.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-06-24",
+            "episode_count": 26,
+            "id": 62806,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5jzYyNHbv0hxktAr0Xj1GAjHmOx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8.2,
+    "vote_count": 460
+}

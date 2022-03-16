@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/1sNpGcDUgX2bTM04pCZ7HzhsuP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://web.archive.org/web/20141022082821/http://www.gainax.co.jp/anime/konomini/",
+    "id": 34148,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-06-17",
+    "last_episode_to_air": {
+        "air_date": "2004-06-17",
+        "episode_number": 12,
+        "id": 783026,
+        "name": "The Song of My Heart",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "This Ugly Yet Beautiful World",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "この醜くも美しい世界",
+    "overview": "This Ugly Yet Beautiful World is an anime television series created by Shouji Saeki and Hiroyuki Yamaga. It was co-produced by the Gainax and Shaft animation studios.\n\nThe series aired on the Tokyo Broadcasting System from April 1, 2004 to June 16, 2004, totaling 12 episodes. A manga adaptation, illustrated by Ashita Morimi, was serialized in Hakusensha's Young Animal.",
+    "popularity": 3.214,
+    "poster_path": "/fk7X26y0n7BXlm0BbI2NYQHVl3C.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 5,
+            "id": 44962,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-04-01",
+            "episode_count": 12,
+            "id": 44953,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mFXM9obU7ZIU7P7NPNvTolsD1hF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 5
+}

@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/4zP6Q5KRvxXUSbG75Eva7eIigdA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://anime-longriders.com/",
+    "id": 65337,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-02-05",
+    "last_episode_to_air": {
+        "air_date": "2017-02-05",
+        "episode_number": 12,
+        "id": 1415525,
+        "name": "Long Riders!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/z6gtwE4h6SUweVRIzNFtoBDlgKK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Long Riders!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ろんぐらいだぁす!",
+    "overview": "Ami Kurata, a first-year university student who has no athletic ability, suddenly falls in love with a folding bicycle after seeing it in front of a train station. Inspired by her newfound love, she starts saving up to buy a bicycle and to learn cycling.",
+    "popularity": 4.122,
+    "poster_path": "/ti9wAMDxNEq1YO4niGKTZk9aR3L.jpg",
+    "production_companies": [
+        {
+            "id": 30125,
+            "logo_path": "/idI9yjIWXWgLLdWqUbBpWzmTW9t.png",
+            "name": "Actas",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-11-12",
+            "episode_count": 1,
+            "id": 179909,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-10-08",
+            "episode_count": 12,
+            "id": 73972,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/i8FjjhI3nkUPsCv3m6mCOtNjNkX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

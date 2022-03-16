@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/wOygXyITWIQtfbiUD0xPr2wKahj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45,
+        30
+    ],
+    "first_air_date": "1991-07-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 62913,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-06-25",
+    "last_episode_to_air": {
+        "air_date": "1996-06-25",
+        "episode_number": 3,
+        "id": 2379132,
+        "name": "The Return",
+        "overview": "Yakumo and Pai's quest coming towards a conclusion as they embark on the most dangerous part of their journey. They arrive at the Sacred Gate of Lost Time where they must journey into the dark past of the Sanjigan people. The final battle fast approaches, and the forces of darkness continue to build their power, so it is down to Pai's powers to make sure good triumphs over evil.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "3x3 Eyes",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 7,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サザンアイズ",
+    "overview": "The story of a young man named Yakumo Fuuji, who through a strange series of events becomes the immortal slave of the last of a race of 3 Eyed immortals. The immortal absorbs his soul to save his life, making him immortal in the process. Now, he begins a journey with the female immortal in an attempt to find a way of becoming human. Of course, there are many complications along the way, not the least of which being that the immortal is a female with a split personality, one achingly cute and the other being no-nonsense destructive power, and the romances that develop between.",
+    "popularity": 7.118,
+    "poster_path": "/cFzh4AEckD3bVnD6a33i3SJj11l.jpg",
+    "production_companies": [
+        {
+            "id": 11822,
+            "logo_path": null,
+            "name": "Studio Junio",
+            "origin_country": ""
+        },
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1991-07-25",
+            "episode_count": 4,
+            "id": 67541,
+            "name": "3x3 Eyes",
+            "overview": "",
+            "poster_path": "/rllH5GKhK19QlRdoVg90sibpfM7.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1995-07-25",
+            "episode_count": 3,
+            "id": 158178,
+            "name": "3x3 Eyes: Legend of the Divine Demon",
+            "overview": "Yakumo has trained and searched for 4 years, following Pai's mysterious dissapearance. However, when he finally finds her, not all is well as her memory seems to be gone. They attempt to return her memory by going to the Holy Land, birthplace of the immortal race of Sanjiyans.",
+            "poster_path": "/oOLcpv5DqGbWuyUHLwg4YA4Idsj.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 6,
+    "vote_count": 14
+}

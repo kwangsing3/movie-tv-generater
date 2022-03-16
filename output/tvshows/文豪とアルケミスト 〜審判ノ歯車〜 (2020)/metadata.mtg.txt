@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/AnL4Ph1pcPjGWb9jT1aoYmSzi6T.jpg",
+    "created_by": [
+        {
+            "id": 2469238,
+            "credit_id": "5f3184e4cdf2e6003a28c612",
+            "name": "Odahiro Watanabe",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://anime-bungo-alchemist.com/",
+    "id": 100353,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-08-08",
+    "last_episode_to_air": {
+        "air_date": "2020-08-08",
+        "episode_number": 13,
+        "id": 2375072,
+        "name": "Gears",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9LIL8p4Vq1dNiHX72mTYEkfDudd.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bungo and Alchemist -Gears of Judgement-",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "文豪とアルケミスト 〜審判ノ歯車〜",
+    "overview": "Based on the popular mobile game of the same name. Bungo and Alchemist -Gears of Judgement- is set in a fantasy world with famous and handsome historical figures from the field of literature, who must call upon their magical abilities to save books that have been tainted by evil forces.",
+    "popularity": 8.298,
+    "poster_path": "/rdyxjRbAgdpvDVSBAdTDgiLkPlL.jpg",
+    "production_companies": [
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-04",
+            "episode_count": 13,
+            "id": 144966,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/k0WcFK19azRUgCUWY2ncUqlcr24.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.3,
+    "vote_count": 4
+}

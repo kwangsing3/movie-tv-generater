@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/WnOD3CmSNQTqasxIJ4xJaKmrYd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1991-07-21",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 128936,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1991-11-21",
+    "last_episode_to_air": {
+        "air_date": "1991-11-21",
+        "episode_number": 3,
+        "id": 3066486,
+        "name": "Trembling Triangle Operation: Love Storm 3 Love Triumphant",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "NG Knight Lamune & 40 EX",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "NG騎士ラムネ&40EX ビクビクトライアングル愛の嵐大作戦",
+    "overview": "Lamune has returned to Earth with no memory of his adventures on Hara-Hara world and Doki-Doki space. The remains of Gobuhriki find their way to Earth, and awaken the spirit of Don Harumage. While Cocoa builds a fighting vehicle with stuff she finds around Tokyo, Milk and Leska set off to find Lamune and Da Cider to save the day before the new Gobuhriki is revived and destroys the Earth.",
+    "popularity": 1.4,
+    "poster_path": "/3l3oPfjqm3QlnFRR8cEfGhQj0Ko.jpg",
+    "production_companies": [
+        {
+            "id": 4720,
+            "logo_path": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+            "name": "Asatsu-DK",
+            "origin_country": "JP"
+        },
+        {
+            "id": 50437,
+            "logo_path": null,
+            "name": "Ashi Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 39020,
+            "logo_path": null,
+            "name": "production reed",
+            "origin_country": ""
+        },
+        {
+            "id": 90104,
+            "logo_path": null,
+            "name": "Discotek Media",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1991-07-21",
+            "episode_count": 3,
+            "id": 201820,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

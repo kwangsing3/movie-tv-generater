@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/kuNbZYiODIgeSwf41ReSWtlcRIz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        9
+    ],
+    "first_air_date": "2021-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://azurlane-bisoku.jp/",
+    "id": 109805,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-29",
+    "last_episode_to_air": {
+        "air_date": "2021-03-29",
+        "episode_number": 12,
+        "id": 2605827,
+        "name": "Friends Are Our Most Important Treasure",
+        "overview": "While cleaning the storeroom, Javelin and the others find a mysterious treasure chest with Laffey inside! But it seems like Laffey's lost her memory?! How will they possibly get their precious friend's memory back? Well, you'll just have to see for yourself.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zD10rVNIGQnqi3nWWB4gLEvULcb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Azur Lane: Slow Ahead!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アズールレーン びそくぜんしんっ!",
+    "overview": "This is a slightly peculiar world where the shipgirls live in. A lively and enjoyable school life for girls from different factions will begin at the naval port of Azur Lane. Living out their lives to the fullest, these girls get into various shenanigans—slowly but surely!",
+    "popularity": 26.321,
+    "poster_path": "/evNjloRQilbYco1HIP1c6IpZH4c.jpg",
+    "production_companies": [
+        {
+            "id": 140087,
+            "logo_path": "/lFPM7FXipY4ivUDxsdhrUozNtm8.png",
+            "name": "Yostar Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 140088,
+            "logo_path": null,
+            "name": "CANDY BOX",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-07",
+            "episode_count": 5,
+            "id": 189172,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/4hJ0dLhNnQDVrikPMJmJRsC7o9P.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-01-12",
+            "episode_count": 12,
+            "id": 162734,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pV0YJ8bWSsPuHSuahr4wLERd7vh.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 6
+}

@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/5QAc8dsyOwJBGQ71mhOLMEivOsF.jpg",
+    "belongs_to_collection": {
+        "id": 535790,
+        "name": "Godzilla Anime Trilogy",
+        "poster_path": "/AcBtBpVV5VHYoKuIacclOEuYk.jpg",
+        "backdrop_path": "/7r4nbZ8qWn8od5HVmxq7UvigwFj.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://godzilla-anime.com",
+    "id": 449574,
+    "imdb_id": "tt5979874",
+    "original_language": "ja",
+    "original_title": "GODZILLA 怪獣惑星",
+    "overview": "In the year 2048, the human race is forced to leave Earth after decades of losing against Godzilla and other giant monsters. They take a twenty-year journey to another planet called Tau Ceti-e, but upon arrival, they discover that the planet has become uninhabitable. As living conditions on their ship deteriorate, a young man named Haruo spearheads a movement to return to Earth and take it back from the monsters. The ship successfully makes the return voyage, but the crew realizes that twenty thousand years have passed, with Earth's ecosystem having evolved to become centered around Godzilla.",
+    "popularity": 21.805,
+    "poster_path": "/hAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg",
+    "production_companies": [
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 20024,
+            "logo_path": "/fLc5F7K5zsXsSNSFFsbKrZXAga7.png",
+            "name": "Polygon Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2017-11-17",
+    "revenue": 0,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Who will be eradicated, man, or Godzilla?",
+    "title": "Godzilla: Planet of the Monsters",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 356
+}

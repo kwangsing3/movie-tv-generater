@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "1981-10-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=111",
+    "id": 8909,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1983-03-25",
+    "last_episode_to_air": {
+        "air_date": "1983-03-25",
+        "episode_number": 75,
+        "id": 402075,
+        "name": "The Burnt Remains",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fang of the Sun Dougram",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 75,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "太陽の牙ダグラム",
+    "overview": "Fang of the Sun Dougram is a 75-episode anime television series, created by Ryosuke Takahashi and Sunrise, and aired in Japan from October 23, 1981 to March 25, 1983 on TV Tokyo. A 1983 full-length feature film, Dougram: Documentary of the Fang of the Sun, summarized the series.",
+    "popularity": 12.521,
+    "poster_path": "/3VsRMpdnhoFWwTo9AAZQtuBlsap.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 3,
+            "id": 18850,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1981-10-22",
+            "episode_count": 75,
+            "id": 18849,
+            "name": "Season 1",
+            "overview": "A boy is moved by an independence movement and recaptures a combat armor called Dougram to join a guerrilla group called Fang of the Sun. A specially edited version and comical short film are also available.",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/cD2HK3jBQ2DQmegqppLpW5psPLx.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://babylon-anime.com/",
+    "id": 92599,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-01-27",
+    "last_episode_to_air": {
+        "air_date": "2020-01-27",
+        "episode_number": 12,
+        "id": 1948135,
+        "name": "The End",
+        "overview": "At the suicide summit, Itsuki asks Alex to talk to a girl contemplating suicide. Alex, lost deep in thought in search of the truth behind good and evil, agrees to talk to the girl. On the other hand, Seizaki regards Itsuki's invitation with suspicion and holds tightly on to his gun. Meanwhile, Magase closes in quietly and surely on the two men as the world watches on.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jeTm9BbPBqK3Krp5RQ8RClvXwYb.jpg",
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Babylon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Amazon",
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バビロン",
+    "overview": "Zen Seizaki is a prosecutor with the Tokyo District Public Prosecutors' Office. While investigating illegal acts by a certain pharmaceutical company, Seizaki stumbles upon a page stained with a mixture of blood, hair and skin, along with the letter \"F\" scribbled all across the sheet. As he investigates further, the case goes beyond Zen's imagination and becomes vastly complex, challenging his sense of justice and his knowledge of the truth.\n\nDigging deeper into the investigation, Zen begins to uncover a concealed plot behind the ongoing mayoral election and ties to many people of interest involved in the election and those closer than he thinks. The case grows more severe and propels Zen into an unforeseen hurricane of corruption and deceit behind the election, the establishment of the Shiniki district, and the mysterious woman associated with it all.",
+    "popularity": 12.974,
+    "poster_path": "/sPui8oETvkX3K9c3YHjVMhUiBdV.jpg",
+    "production_companies": [
+        {
+            "id": 105259,
+            "logo_path": "/67VoQg4RJe786AOULP426rEfXew.png",
+            "name": "REVOROOT",
+            "origin_country": "JP"
+        },
+        {
+            "id": 120469,
+            "logo_path": "/tyNprnyeLLQuNfdqhFf4UEiPayF.png",
+            "name": "Twin Engine",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-07",
+            "episode_count": 12,
+            "id": 130375,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rQwjs98F7ngD2LpLDFmR6ImB3LH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.9,
+    "vote_count": 18
+}

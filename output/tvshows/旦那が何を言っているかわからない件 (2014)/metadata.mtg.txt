@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/3ayAETtTnG7S6tSIIRx5SFI0OTw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2014-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.dreamcreation.co.jp/danna/",
+    "id": 61433,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-06-25",
+    "last_episode_to_air": {
+        "air_date": "2015-06-25",
+        "episode_number": 13,
+        "id": 1349954,
+        "name": "Happy Days",
+        "overview": "Everyone gathers to think of a name for Kaoru's and Hajime's child.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/9K0oOr9eKkabPyFLJPv4MaVFmzS.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "I Can't Understand What My Husband Is Saying",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "旦那が何を言っているかわからない件",
+    "overview": "Kaoru is an office lady you can find anywhere, serious and works diligently, but her husband is a super otaku and more-or-less a NEET. She is caught up in one of her husband's whims one day or the subject of his concerns another, but the two are so close that it's embarrassing to even watch them!",
+    "popularity": 29.528,
+    "poster_path": "/6km0BzT3m4bPEHsB9maL29Eh1Xv.jpg",
+    "production_companies": [
+        {
+            "id": 92966,
+            "logo_path": "/9zBMa5LyxHKyatDLHJGal7jetHR.png",
+            "name": "Seven",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-10-03",
+            "episode_count": 13,
+            "id": 62907,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gze8RrT4qYgzX2EZwvi7uMWUy5a.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2015-04-02",
+            "episode_count": 13,
+            "id": 64023,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/42GAcrIG0zvqnC7JczdIG15gXas.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 109
+}

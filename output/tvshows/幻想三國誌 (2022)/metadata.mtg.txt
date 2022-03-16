@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/iSdtOR6EFCTqT154Y7XKJsF8tBW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://gensou-sangokushi.com/",
+    "id": 130206,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-15",
+    "last_episode_to_air": {
+        "air_date": "2022-03-15",
+        "episode_number": 10,
+        "id": 3186628,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/s0Jhz6NYPsYkm6BBhrsi89WEiQa.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fantasia Sango – Realm of Legends",
+    "next_episode_to_air": {
+        "air_date": "2022-03-22",
+        "episode_number": 11,
+        "id": 3186629,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5VpJDOH8RWdrz8fpb7DuuFVLDHK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "BS12 TwellV",
+            "id": 5236,
+            "logo_path": "/5HxyAFfZVNeLrSJK35sgukKeyLf.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "幻想三國誌",
+    "overview": "When the Three Kingdoms are ravaged by demons and monsters, four heroes with little in common must unite to fight the realm’s most vicious enemies.\n\nTogether the heroes unveil an insidious conspiracy while sharing the joys and sorrows of battling a mysterious organization intent on tearing them and the kingdoms apart.",
+    "popularity": 92.314,
+    "poster_path": "/2s8yKCqFk6CSGWznH99FP4wIVy3.jpg",
+    "production_companies": [
+        {
+            "id": 120511,
+            "logo_path": "/621Gha7aYZ7MvnbP91kvBHeyFoR.png",
+            "name": "GEEK TOYS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-11",
+            "episode_count": 12,
+            "id": 204183,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xBJVxRt08sBAXAeEjy3cnzrL0pU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 3
+}

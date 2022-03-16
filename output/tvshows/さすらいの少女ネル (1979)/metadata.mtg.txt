@@ -1,0 +1,85 @@
+{
+    "adult": false,
+    "backdrop_path": "/ah5lq3skUscAUtb1uVoD4kxsJxd.jpg",
+    "created_by": [
+        {
+            "id": 1167144,
+            "credit_id": "59b81b389251417df8002236",
+            "name": "Hideo Nishimaki",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1886817,
+            "credit_id": "59b81b539251417e5d00204e",
+            "name": "Keinosuke Doya",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1979-10-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 73894,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1980-05-01",
+    "last_episode_to_air": {
+        "air_date": "1980-05-01",
+        "episode_number": 26,
+        "id": 1365271,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Little Nell",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "さすらいの少女ネル",
+    "overview": "Nell is a young girl living with her grandfather, Mr Trent, the owner of a shop in London. As he couldn't payback a loan he made, he has to flee with Nell. They decide to search for Nell's mother, who is living somewhere in Great Britain...",
+    "popularity": 0.6,
+    "poster_path": "/dHwdSSE3ScB6JIFxjzJaPSA4ENE.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1979-10-25",
+            "episode_count": 26,
+            "id": 92704,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

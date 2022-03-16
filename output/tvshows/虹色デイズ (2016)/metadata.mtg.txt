@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/JZFFhGtmVkCkckH0W8eaiQf6tN.jpg",
+    "created_by": [
+        {
+            "id": 222332,
+            "credit_id": "5e4954311e92250018c255f0",
+            "name": "Tetsuro Amino",
+            "gender": 2,
+            "profile_path": "/w5BlluEgdOqKdLfKznxZHTjMkR5.jpg"
+        }
+    ],
+    "episode_run_time": [
+        13
+    ],
+    "first_air_date": "2016-01-10",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.rainbow-days.tv/",
+    "id": 71511,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-26",
+    "last_episode_to_air": {
+        "air_date": "2016-06-26",
+        "episode_number": 24,
+        "id": 1456020,
+        "name": "",
+        "overview": "Anna finally discovers how she truly feels, but what will she do with this newfound knowledge?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zV2KPMT7TLTk9p5KYEjYjHabS3V.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Rainbow Days",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "虹色デイズ",
+    "overview": "Nijiiro Days follows the colorful lives and romantic relationships of four high school boys—Natsuki Hashiba, a dreamer with delusions of love; Tomoya Matsunaga, a narcissistic playboy who has multiple girlfriends; Keiichi Katakura, a kinky sadist who always carries a whip; and Tsuyoshi Naoe, an otaku who has a cosplaying girlfriend.\n\nWhen his girlfriend unceremoniously dumps him on Christmas Eve, Natsuki breaks down in tears in the middle of the street and is offered tissues by a girl in a Santa Claus suit. He instantly falls in love with this girl, Anna Kobayakawa, who fortunately attends the same school as him. Natsuki's pursuit of Anna should have been simple and uneventful; however, much to his dismay, his nosy friends constantly meddle in his relationship, as they strive to succeed in their own endeavors of love.",
+    "popularity": 9.783,
+    "poster_path": "/o7rsIEMjXNMtukssbJnN2MVLJET.jpg",
+    "production_companies": [
+        {
+            "id": 39020,
+            "logo_path": null,
+            "name": "production reed",
+            "origin_country": ""
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-03",
+            "episode_count": 2,
+            "id": 108570,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/sfxFmlPkqVXtmhqFDvsXeO3sJVq.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-01-10",
+            "episode_count": 24,
+            "id": 87928,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/i9u4aeelbGs9pqIVlNbo471Zcx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 7
+}

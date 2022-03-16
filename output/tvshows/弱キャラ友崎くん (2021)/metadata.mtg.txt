@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/xWhkbeNtpdvtmLkknzjbLoBghrA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://tomozaki-koushiki.com",
+    "id": 99083,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-26",
+    "last_episode_to_air": {
+        "air_date": "2021-03-26",
+        "episode_number": 12,
+        "id": 2560516,
+        "name": "Equipment for girls has special effects",
+        "overview": "A talk with Kikuchi helps Tomozaki realize what he really wants, and a confrontation with Hinami sets the course for the future of their relationship.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fIgmK2AXcfppydEXlV55lQQawUe.jpg",
+        "vote_average": 7.8,
+        "vote_count": 4
+    },
+    "name": "Bottom-tier Character Tomozaki",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "弱キャラ友崎くん",
+    "overview": "Tomozaki is one of the best gamers in Japan, and in his opinion, the game of real life is one of the worst. No clear-cut rules for success, horribly balanced, and nothing makes sense. But then he meets a gamer who’s just as good as him, and she offers to teach him a few exploits…",
+    "popularity": 35.62,
+    "poster_path": "/86sP2j7NdslbZywy98qPDtzgvEV.jpg",
+    "production_companies": [
+        {
+            "id": 74464,
+            "logo_path": null,
+            "name": "project No.9",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-05-09",
+            "episode_count": 2,
+            "id": 194469,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/xMsDwRZXvXLCPrQYu3iul37BtS.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-01-08",
+            "episode_count": 12,
+            "id": 142812,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/86sP2j7NdslbZywy98qPDtzgvEV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 13
+}

@@ -1,0 +1,62 @@
+{
+    "adult": false,
+    "backdrop_path": "/u1wHUA0R48FH4WV3sGqjwx3aNZm.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "http://given-anime.com/",
+    "id": 632632,
+    "imdb_id": "tt11802992",
+    "original_language": "ja",
+    "original_title": "映画 ギヴン",
+    "overview": "The film centers on the love relationship among the band's bassist Haruki Nakayama, drummer Akihiko Kaji, and Akihiko's roommate and ex-boyfriend Ugetsu Murata.",
+    "popularity": 93.933,
+    "poster_path": "/xKCtoYHUyX8zAg68eemnYa2orep.jpg",
+    "production_companies": [
+        {
+            "id": 42811,
+            "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
+            "name": "Lerche",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2020-08-22",
+    "revenue": 0,
+    "runtime": 60,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Given",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 301
+}

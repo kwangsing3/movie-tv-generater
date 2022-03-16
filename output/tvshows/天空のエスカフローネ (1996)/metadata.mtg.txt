@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/y5zmADT3nKPoJXN8XIv2jFKz3Co.jpg",
+    "created_by": [
+        {
+            "id": 76408,
+            "credit_id": "5257930b760ee36aaa6f4b83",
+            "name": "Shoji Kawamori",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1996-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 8779,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-09-24",
+    "last_episode_to_air": {
+        "air_date": "1996-09-24",
+        "episode_number": 26,
+        "id": 399826,
+        "name": "Eternal Love",
+        "overview": "At long last, Dornkirk's vision of reviving the power of Atlantis seems realized as the Sphere of Absolute Fortune's effects spread across the battlefield and the world of Gaea. However, the war does not end as the Destiny-Altering Device only turns the combatants' bellicose thoughts into reality. Gaea's fate in the end lies in a girl from the Mystic Moon and a white-winged dragon.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gH97yIdCsE2D1Qw1yLAr2iJiqjV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Vision of Escaflowne",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "天空のエスカフローネ",
+    "overview": "High school student Hitomi is transported from Earth to the magical world of Gaea, where she meets boy prince Van Fanel, and is caught up in his quest to unite the countries of Gaea against the ominous Zaibach empire. On the way, she discovers an hidden ability and strives to unravel layers of mystery surrounding Van, his past, and the giant machine known as Escaflowne.",
+    "popularity": 38.278,
+    "poster_path": "/6uX0Q7Sn9JYWbHqQ5ZRJoJKcTmp.jpg",
+    "production_companies": [
+        {
+            "id": 104684,
+            "logo_path": null,
+            "name": "Sound Box",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-06-24",
+            "episode_count": 2,
+            "id": 18651,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1996-04-02",
+            "episode_count": 26,
+            "id": 18650,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hUenfVxdT00hm4WdNQSrAToFsjX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 105
+}

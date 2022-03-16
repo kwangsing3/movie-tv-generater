@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/oeUN3DX9asAXEcdMKBhvgwv9q8q.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://listeners.rocks/",
+    "id": 98748,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-20",
+    "last_episode_to_air": {
+        "air_date": "2020-06-20",
+        "episode_number": 12,
+        "id": 2200132,
+        "name": "Hello, Goodbye",
+        "overview": "The Earless seem unstoppable, bent on destroying the world that has treated them so cruelly. Echo, with his newfound power as a Player, challenges the King of the Earless with his trusty AC30.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/hlqPjepJB6FOIcrcEDbi6QqgUu7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Listeners",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "LISTENERS",
+    "overview": "Set in a world where the concept of music ceases to exist. the story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.",
+    "popularity": 8.172,
+    "poster_path": "/eUYgm7JQIDojyOSWc14yc1RTWzn.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/cGe44GFuB5BEFFvoXP7Skzpm1Vy.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150545,
+            "logo_path": "/df2KyiUSCxpoQxV88AI3zxu8kbD.png",
+            "name": "dugout",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-04",
+            "episode_count": 12,
+            "id": 142166,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9vg3KmboT5Cx1LahPlR1u7gLeyU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 26
+}

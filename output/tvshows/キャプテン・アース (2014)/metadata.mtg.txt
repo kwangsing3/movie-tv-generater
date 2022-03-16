@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2014-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://captain-earth.net/",
+    "id": 60806,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-21",
+    "last_episode_to_air": {
+        "air_date": "2014-09-21",
+        "episode_number": 25,
+        "id": 1009310,
+        "name": "Captain Earth",
+        "overview": "Puck takes control of Blume while possessing Hana's body and leaves to consume all life on Earth. With the Planetary Gears defeated, Daichi is the only one left on Puck's way, fighting with all his forces to stop it and rescue Hana.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ot3APR7LAVojvVk0yWNaIAQryKe.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Captain Earth",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "d Anime Store",
+            "id": 3685,
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キャプテン・アース",
+    "overview": "High-school student Daichi Manatsu works for the Globe organization to pilot a giant robot called the Earth Engine Impacter to protect the Earth from the invading alien force known as the \"Kill-T-Gang\", from the planet Uranus.",
+    "popularity": 17.132,
+    "poster_path": "/g8JU8FwRHdptsS0277dZFdHo5TC.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-06",
+            "episode_count": 25,
+            "id": 60786,
+            "name": "Season 1",
+            "overview": "One night, right before summer vacation, Manatsu Daichi, a second-year in high school, sees a weird round rainbow floating in the sky above Tanegashima and ventures there alone. He has seen this rainbow before. With the memories of his father's mysterious death and an encounter of a strange boy and girl, Daiji arrives on the island while the alarm of a building labelled Earth Engine is going off. Someone asks him if he is a captain, just as robotic intruders from Uranus called Kill-T-Gang arrive. The battle around the shining stars is about to begin.",
+            "poster_path": "/kVbvaxff2ij3gkRhWXiVTsi4TM5.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 8
+}

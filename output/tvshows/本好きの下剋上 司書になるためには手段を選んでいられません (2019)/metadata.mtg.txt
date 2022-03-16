@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
+    "created_by": [
+        {
+            "id": 99202,
+            "credit_id": "620f54de151c5c0069175c83",
+            "name": "Mitsuru Hongo",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://booklove-anime.jp",
+    "id": 91768,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-20",
+    "last_episode_to_air": {
+        "air_date": "2020-06-20",
+        "episode_number": 26,
+        "id": 2308309,
+        "name": "Dreamlike World",
+        "overview": "Tasked with healing the land ravaged by the trombe, Main has to put on a show. How that will affect the way the onlookers see her is anybody's guess... and so is how the head priest will react.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3WMcYzoyRQ1aTx0py1JsjxHEvA.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Ascendance of a Bookworm",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "本好きの下剋上 司書になるためには手段を選んでいられません",
+    "overview": "Avid bookworm and college student Motosu Urano ends up dying in an unforeseen accident. This came right after the news that she would finally be able to work as a librarian as she had always dreamed of. When she regained consciousness, she was reborn as Myne, the daughter of a poor soldier. She was in the town of Ehrenfest, which had a harsh class system. But as long as she had books, she didn't really need anything else. However, books were scarce and belonged only to the nobles. But that doesn't stop her, so she makes a decision... \"If there aren't any books, I'll just create some.\"",
+    "popularity": 32.451,
+    "poster_path": "/aVGueAM88cc4sX6PeMvuAPObDc4.jpg",
+    "production_companies": [
+        {
+            "id": 43368,
+            "logo_path": null,
+            "name": "Ajiado",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-03-09",
+            "episode_count": 2,
+            "id": 139062,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/21OBw5CBBJh3k7brdTp9WHfYETP.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-10-02",
+            "episode_count": 26,
+            "id": 128742,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/llWn3tf7HPYJ93L9gMlo8C3aKlw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 53
+}

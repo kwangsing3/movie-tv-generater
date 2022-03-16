@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/rqQWRJnA8IpD9YeoJz09JgctFZP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.gamers-anime.com",
+    "id": 72426,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-28",
+    "last_episode_to_air": {
+        "air_date": "2017-09-28",
+        "episode_number": 12,
+        "id": 1339717,
+        "name": "Gamers and Billing System Talk",
+        "overview": "The gang heads to the hot springs. Aguri has some piercing criticisms of gamers and the gaming industry.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sSe2WTVhMWvG9rxcS6sXU4XzWgo.jpg",
+        "vote_average": 9.5,
+        "vote_count": 2
+    },
+    "name": "GAMERS!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゲーマーズ！",
+    "overview": "Keita Amano is a perfectly mediocre loner with no particular distinguishing features other than his love for games. One day, his school's prettiest girl and Gamer Club President Karen Tendo suddenly calls out to him. That moment changes Keita's life forever, as he now finds himself in the midst of a romcom with beautiful girl gamers... or, well, that's how it usually goes. Not with him, however.",
+    "popularity": 23.145,
+    "poster_path": "/2VjS9XA68JUPBUFsX9NTuXBqR9e.jpg",
+    "production_companies": [
+        {
+            "id": 91510,
+            "logo_path": "/1eYmEppUaIhXUhejVYPJQhwx4JP.png",
+            "name": "Pine Jam",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-13",
+            "episode_count": 12,
+            "id": 89675,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9m7BVBrl9VaZqRfjpTOrpKpTSjQ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 126
+}

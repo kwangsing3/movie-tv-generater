@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/blgQqJGMBUYxEUdpmKDKMkNhhk2.jpg",
+    "created_by": [
+        {
+            "id": 5026,
+            "credit_id": "52578349760ee36aaa60a37e",
+            "name": "Akira Kurosawa",
+            "gender": 2,
+            "profile_path": "/uCFWmYXu0EqF5Bd6zWaOS4FxvEB.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-06-12",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.samurai-7.com/",
+    "id": 5863,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-12-25",
+    "last_episode_to_air": {
+        "air_date": "2004-12-25",
+        "episode_number": 26,
+        "id": 367179,
+        "name": "The Era's End",
+        "overview": "The final battle has arrived, and only four samurai remain! Will the remaining four all live to see the battle’s end? Will Ukyo finally be killed? Will the capital be stopped, or will it crush Kanna Village?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dyiRnj0nM1qqLXZGJTiIwbiaUC6.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Samurai 7",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Samurai 7",
+    "overview": "Samurai 7 is a 2004 anime TV series, produced by Gonzo and based on Akira Kurosawa's highly regarded 1954 movie Seven Samurai. The series was directed by Toshifumi Takizawa and its music was composed by Kaoru Wada and Eitetsu Hayashi. There are 26 episodes, each costing around ¥32,500,000 to produce.\n\nThe series premiered across Japan on the anime satellite television network, Animax, as an exclusive high definition CS-PPV broadcast, and was also later aired by the network across its other respective networks worldwide, including Southeast Asia, South Asia, Latin America and other regions. Funimation Entertainment acquired the dubbing rights for the North American release. It previously aired in America through the Independent Film Channel in April 2006 and in high definition on Dish Networks Animania HD channel. It has also been broadcast across Canada by specialty channel Razer and across Hong Kong by TVB Jade. The Funimation Channel aired the series on September 6, 2010. It began airing on Adult Swim's revived Toonami block on August 19, 2012. and ended its run on February 10, 2013.",
+    "popularity": 16.607,
+    "poster_path": "/2HTBA7QrGSQD6bXBbwL0lLABY29.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-06-12",
+            "episode_count": 26,
+            "id": 15925,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bI1K3lwBwcUNCRNOyN4XWxv0TzN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 35
+}

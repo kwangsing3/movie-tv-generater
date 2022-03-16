@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/6qyTdO0xhL8oB6HQyP8ehW2zO3x.jpg",
+    "created_by": [
+        {
+            "id": 3053376,
+            "credit_id": "60784c72ab6849006f5d1dae",
+            "name": "Torajirou Kishi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        7
+    ],
+    "first_air_date": "1999-09-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.animenewsnetwork.com/review/colorful/dvd",
+    "id": 11147,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1999-09-30",
+    "last_episode_to_air": {
+        "air_date": "1999-09-30",
+        "episode_number": 16,
+        "id": 446257,
+        "name": "Color 16",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rQQxTawAPjcwYDQGrU4B9aOqrJg.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Colorful",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カラフル",
+    "overview": "The adventures (and mis-adventures) of Men, staring, peeking, glacing, looking, glaring at women and their efforts to get that extra eyefull of harmlessly exposed panties, bra, and occasional cleavage. Following at most, a few regular males and the outragious concequences of their actions.",
+    "popularity": 6.441,
+    "poster_path": "/wlzH3HvDFI19xRR54VasQDubqFc.jpg",
+    "production_companies": [
+        {
+            "id": 12078,
+            "logo_path": null,
+            "name": "Studio Wombat",
+            "origin_country": ""
+        },
+        {
+            "id": 3530,
+            "logo_path": null,
+            "name": "Triangle Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-09-06",
+            "episode_count": 16,
+            "id": 21645,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2spKEn52noQSfmn8uP3LU1gUioi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 3
+}

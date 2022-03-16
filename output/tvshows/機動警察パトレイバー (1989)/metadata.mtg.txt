@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": "/3b1qVJtfgQUAtAJSy6vyPbFdRS4.jpg",
+    "created_by": [
+        {
+            "id": 12180,
+            "credit_id": "5adefb3e0e0a2615f6007f0c",
+            "name": "Mamoru Oshii",
+            "gender": 2,
+            "profile_path": "/s3HsXgIjub4JmOLgdJgfUvXUePt.jpg"
+        },
+        {
+            "id": 57302,
+            "credit_id": "5adefb4cc3a3686acf008600",
+            "name": "Kazunori Ito",
+            "gender": 2,
+            "profile_path": "/9JvpmIzDfIWCaLqHhSYdo3rRm1U.jpg"
+        },
+        {
+            "id": 80930,
+            "credit_id": "5adefb66c3a3686adc00888c",
+            "name": "Yutaka Izubuchi",
+            "gender": 2,
+            "profile_path": "/i5VbEU91iQMrfByrrSoZsQGv3Sg.jpg"
+        },
+        {
+            "id": 1448699,
+            "credit_id": "5adefb5a0e0a2615ed0087b8",
+            "name": "Akemi Takada",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 2029047,
+            "credit_id": "5adefb76c3a3686adc00889d",
+            "name": "Masami Yūki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1989-10-11",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://v-storage.bandaivisual.co.jp/sp-site/patweb/tv.html",
+    "id": 21736,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1990-09-26",
+    "last_episode_to_air": {
+        "air_date": "1990-09-26",
+        "episode_number": 47,
+        "id": 1307671,
+        "name": "Condition Green",
+        "overview": "Noa goes back to her hometown and sees the grave of her dog Alphonse. Asuma goes to get her when a terrorist comes. Division 1 and 2 must find the terrorist without using weapons since it would cause a fire.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1BpOvC2ZEVVoJ1N7QSfuH73K7my.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Patlabor: The TV Series",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 47,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動警察パトレイバー",
+    "overview": "Patlabor: The TV Series is an anime television series, created by Headgear, animated by Sunrise, and based on the Patlabor anime franchise.",
+    "popularity": 7.585,
+    "poster_path": "/eVScFCd5lV0LcQFmewGJI6aGT78.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1989-10-11",
+            "episode_count": 47,
+            "id": 87755,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/k4ps67ErFHd1kHBII7tUE1P0hyu.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 10
+}

@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/utMf670mP8jvxhkKg3fwRbnMWYa.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2001-04-06",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.jvcmusic.co.jp/m-serve/tv/noir/",
+    "id": 1041,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2001-09-27",
+    "last_episode_to_air": {
+        "air_date": "2001-09-27",
+        "episode_number": 26,
+        "id": 54948,
+        "name": "Birth",
+        "overview": "Mireille and Kirika have overcome everything that the Soldats have thrown at them, and proven themselves truly worthy of the name Noir. But there is one last piece of business they must take care of at the manor- a final face off with Altena, the woman who has been manipulating their lives from the very beginning. But will this showdown set them free, or is it just the last move in Altena's game?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/mPkOvW9GbPK4biNQHpmQGmfR0wS.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Noir",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ノワール",
+    "overview": "Mireille Bouquet is a professional assassin, and a very good one at that. But when she follows up an E-mail from a young Japanese girl named Kirika Yumura, inviting her to take \"a pilgrimage to the past\", her life becomes even more dangerous than it already is. Now, with a haunting melody invoking the memory of an event long past, Mireille and Kirika decide to work together to find the truth about a thousand-year-old organization that has controlled both of their lives since before they were born. And the only clue in their search, the only thing Kirika remembers about herself, becomes their working codename: a name designating an ancient fate, of two maidens who reign over death—Noir.",
+    "popularity": 7.901,
+    "poster_path": "/w0nWbKkIFfwU1A5RzF4pMt7aUdO.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2001-04-06",
+            "episode_count": 26,
+            "id": 2966,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bfAm1Wu7fiQMzS2w0tv6a8dAtl2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 11
+}

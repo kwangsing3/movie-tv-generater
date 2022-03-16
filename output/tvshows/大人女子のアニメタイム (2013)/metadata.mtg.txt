@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/oHGSCiBNI2U8PfERq9u5A3ibom3.jpg",
+    "created_by": [
+        {
+            "id": 78373,
+            "credit_id": "5e1e84055c071b0016631c2a",
+            "name": "Reiko Yoshida",
+            "gender": 1,
+            "profile_path": "/5LUxL8rdUtMdqxx8pnWp6PM0wKp.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2013-03-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://curiouscope.com/?p=1693",
+    "id": 89811,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-03-24",
+    "last_episode_to_air": {
+        "air_date": "2013-03-24",
+        "episode_number": 3,
+        "id": 1800647,
+        "name": "Dokoka Dewanai Koko",
+        "overview": "A 43-year-old housewife gets a glimpse of a complicated relationship between a mother and a daughter.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Otona Joshi no Anime Time",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK BS Premium",
+            "id": 2306,
+            "logo_path": "/2XZ8Azne0EKsypd6I3PQ2x1maVu.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "大人女子のアニメタイム",
+    "overview": "A series of animations based on prize-winning short stories for women.",
+    "popularity": 3.765,
+    "poster_path": "/jTuITcmt4kfOwc1mLOqfrx84qxK.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        },
+        {
+            "id": 39020,
+            "logo_path": null,
+            "name": "production reed",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-03-10",
+            "episode_count": 3,
+            "id": 125013,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jTuITcmt4kfOwc1mLOqfrx84qxK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2
+}

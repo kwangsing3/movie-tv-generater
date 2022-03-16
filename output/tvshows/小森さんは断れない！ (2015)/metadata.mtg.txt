@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/ofsymSzq1jG4g1td59YWdNspSzo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2015-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.komori-anime.com/",
+    "id": 75431,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-12-20",
+    "last_episode_to_air": {
+        "air_date": "2015-12-20",
+        "episode_number": 12,
+        "id": 1475076,
+        "name": "Komori-san Can't Decline",
+        "overview": "Shuri, which looks different from usual, is somewhat vague. Megumi and Masako who are worried do not understand well. It was Otani who noticed the reason ...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8VRFbG1hsLno1uv0OJyz4UQn0wA.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Komori-san Can’t Decline!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "小森さんは断れない！",
+    "overview": "Fourteen-year-old Komori Shuri is a junior high school girl who is too nice to decline requests. Constantly doing favors for other people has given her incredible strength?! But even so, she is also an adolescent junior high school girl.",
+    "popularity": 7.92,
+    "poster_path": "/5x4zSfPGabmtTzgGBIdvGk9gi5L.jpg",
+    "production_companies": [
+        {
+            "id": 58268,
+            "logo_path": null,
+            "name": "Artland",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-12-27",
+            "episode_count": 1,
+            "id": 133479,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/yos79dkpoVIwQn0njwu5H8hlGTh.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-10-04",
+            "episode_count": 12,
+            "id": 95939,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/grmeNaaDmK9pLU8PYXkjoiL0Ukb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.3,
+    "vote_count": 3
+}

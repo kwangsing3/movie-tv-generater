@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/asV4ZB6nAhbXoBPEe7eT2agvSiM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://newgame-anime.com",
+    "id": 67012,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-26",
+    "last_episode_to_air": {
+        "air_date": "2017-09-26",
+        "episode_number": 12,
+        "id": 1372052,
+        "name": "Make Sure You Buy It",
+        "overview": "At a promotional event for Peco, Ko tells Rin that she is going to France for a few years to develop a game at another company and build upon her experience, while Momiji hears from Hifumi about how Ko was picked over Aoba for the key visuals. While giving an interview on her work on the game, Ko brings Aoba up on stage to properly acknowledge her for her character designs",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/5ez3PtRBKvoz7DvpEwVWYxI8XNh.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "NEW GAME!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "NEW GAME!",
+    "overview": "After graduating high school, Suzukaze Aoba joins Eagle Jump, the game company that developed Fairies Story, the game she obsessed over as a kid. On her first day as a working member of society, Aoba heads to work swaying in a packed, morning rush hour train. She manages to get to the office building all right but hesitates, wondering if it was really okay for her to take that last step and go inside. That's when a senior member of staff, Toyama Rin, shows up at work and safely leads Aoba inside the offices of Eagle Jump.",
+    "popularity": 23.344,
+    "poster_path": "/tga2LXkZR9gr9MajpYpeWgCLGt2.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-05-04",
+            "episode_count": 1,
+            "id": 86422,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/oSJEiQqIEDf31X2hzznmNqm7FW1.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-07-04",
+            "episode_count": 12,
+            "id": 78291,
+            "name": "NEW GAME!",
+            "overview": "Follow Aoba Suzukaze, a fresh high school graduate that is easily mistaken as a middle school student, as she joins the game company that produced her favorite game as a 3D artist.",
+            "poster_path": "/cm4G0JyNc697TYxmNEobrr0myue.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-07-11",
+            "episode_count": 12,
+            "id": 90141,
+            "name": "NEW GAME!!",
+            "overview": "",
+            "poster_path": "/2HfGJyym2zQF96oI9KMgSltoaG.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 27
+}

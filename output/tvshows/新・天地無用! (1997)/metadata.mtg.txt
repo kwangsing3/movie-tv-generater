@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/2HLd81eL3xFtITtbmeBL3ndqcbg.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1997-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 20485,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1997-09-23",
+    "last_episode_to_air": {
+        "air_date": "1997-09-23",
+        "episode_number": 26,
+        "id": 585952,
+        "name": "Payback",
+        "overview": "Yugi has extended her crystal domain across the Earth, creating a dark and twisted reality that she plan to shape into the perfect world for her and Sasami to play together in. But when Sasami rejects her and joins the other girls at Tenchi's side, a devastated Yugi withdraws to her throne room. With the girls acting as backup, Tenchi must find and confront Yugi- but exactly how should he deal with an entity who is both a malevolent demon and a scared and lonely child?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/auFTSoUifuTukOdQQ0ZWJL5eGWP.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tenchi in Tokyo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "新・天地無用!",
+    "overview": "When Tenchi sets out for the bright lights of Tokyo, his harem of scandalous space vixens won’t take their abandonment lying down! The jilted lovers use an inter-dimensional tunnel to keep tabs on Tenchi and visit him—in bed—any time they please! The claws come out when the girls find out Tenchi has a super cute new girlfriend—and her intentions are anything but honorable!",
+    "popularity": 2.656,
+    "poster_path": "/4IrO5vNH7UVvMWVbJSe4L2Afhee.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1997-04-01",
+            "episode_count": 26,
+            "id": 30525,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/23IaQlm7wzbNJywRIDfwKzbjS79.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

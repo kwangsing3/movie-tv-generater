@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/78pA8Pwar1IOJTEBl9z4s4uJRmH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2019-04-06",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://joshikau-anime.com/",
+    "id": 87463,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-06-22",
+    "last_episode_to_air": {
+        "air_date": "2019-06-22",
+        "episode_number": 12,
+        "id": 1732820,
+        "name": "The High School Girl and the Road Home",
+        "overview": "Momoko, Shibumi, and Mayumi are walking home from school together, laughing and having fun as always. The everyday life of these high school girls continues today as it always has.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/p5zGREelJFaLKWowRshpfj5NxNU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Joshi Kausei",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "女子かう生",
+    "overview": "Who needs dialog when you're this cute? The beautiful (but unlucky) Momoko, the cool, collected Shibumi, and the refreshingly innocent Mayumi star in a \"silent manga.\" No speeches, no dialog! Just pictures, sound effects, and three high school girls living their daily lives.",
+    "popularity": 12.337,
+    "poster_path": "/339Whz6cvEmsyBAcuqv2wtGLVUH.jpg",
+    "production_companies": [
+        {
+            "id": 92966,
+            "logo_path": "/9zBMa5LyxHKyatDLHJGal7jetHR.png",
+            "name": "Seven",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-04-06",
+            "episode_count": 12,
+            "id": 120137,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oDKc0euUnnS6fX2AJllPCGw1nWc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 6
+}

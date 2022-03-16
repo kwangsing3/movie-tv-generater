@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/ijcoCucx8bNf7BUpJyHwMMNW0Ww.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "http://www.sentaifilmworks.com/shows/mayo-chiki",
+    "id": 46169,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-30",
+    "last_episode_to_air": {
+        "air_date": "2011-09-30",
+        "episode_number": 13,
+        "id": 1057783,
+        "name": "Please Fondle It!",
+        "overview": "Subaru tries to protect her identity as a male while the others have crises of their own.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nc3Nqu7KsZvWkikLW3Rly5WGyUa.jpg",
+        "vote_average": 10,
+        "vote_count": 2
+    },
+    "name": "Mayo Chiki!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まよチキ!",
+    "overview": "Sakamachi Kinjiro discovers that the most popular student in their school, Subaru Konoe—the butler of the headmaster’s daughter, Kanade Suzutsuki—is actually a girl.",
+    "popularity": 14.316,
+    "poster_path": "/3l2nxOT9wcdDXXHFPvjhVxxvHJw.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-07-08",
+            "episode_count": 13,
+            "id": 66352,
+            "name": "Season 1",
+            "overview": "Kinjiro Sakamachi has gynophobia (fear of women), due to his violent mother and sister. Subaru Konoe is the butler of his classmate, Kanade Suzutsuki, and has to dress as a male due to butlers having to be men. When Kinjiro discovers Subaru's secret, Kanade promises to cure Kinjiro of his phobia. Kinjiro and Subaru are forced due to circumstances to spend time together and defend Subaru's secret while trying to cure Kinjiro's fear.",
+            "poster_path": "/pzClcBeue4ZcqZsHuEt5N9zE2vB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 23
+}

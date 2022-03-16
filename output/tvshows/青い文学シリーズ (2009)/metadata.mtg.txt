@@ -1,0 +1,159 @@
+{
+    "adult": false,
+    "backdrop_path": "/ljbBSGEVrEOohEDRyPjs3abi2q2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2009-10-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.ntv.co.jp/bungaku/",
+    "id": 61289,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-12-26",
+    "last_episode_to_air": {
+        "air_date": "2009-12-26",
+        "episode_number": 12,
+        "id": 1006738,
+        "name": "Hell Screen",
+        "overview": "Yoshihide, the greatest painter in the country, is commissioned to draw his greatest work, an image of the king's country inside his mausoleum. In the despotic king's realm, Yoshihide can see nothing but the suffering of the commoners. He decides to make his last work a tribute to the country as it really is.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Aoi Bungaku Series",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "青い文学シリーズ",
+    "overview": "An animated adaptation of six classical Japanese literature pieces, including No Longer Human (Ningen Shikkaku) and Run, Melos (Hashire, Melos) by Osamu Dazai, Kokoro by Natsume Souseki, Hell Screen (Jigoku Hen) and The Spider's Thread (Kumo no Ito) by Ryunosuke Akutagawa and In the Forest, Under Cherries in Full Bloom (Sakura no Mori no Mankai no Shita) by Ango Sakaguchi.",
+    "popularity": 13.421,
+    "poster_path": "/pqUwVesDkL3FHvb0vhCixN2FQND.jpg",
+    "production_companies": [
+        {
+            "id": 32344,
+            "logo_path": null,
+            "name": "Studio Amo",
+            "origin_country": ""
+        },
+        {
+            "id": 32339,
+            "logo_path": null,
+            "name": "Threelight Holdings",
+            "origin_country": "JP"
+        },
+        {
+            "id": 32340,
+            "logo_path": null,
+            "name": "Aoi Bungaku Series Committee",
+            "origin_country": ""
+        },
+        {
+            "id": 11846,
+            "logo_path": "/es3LvDA6wLWVDvZnAYYuAT6x8lJ.png",
+            "name": "Hakuhodo DY Media Partners",
+            "origin_country": "JP"
+        },
+        {
+            "id": 822,
+            "logo_path": "/HF2fFP8MH9juSCoN2VtQCFQYPD.png",
+            "name": "Happinet Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 32341,
+            "logo_path": null,
+            "name": "McRAY",
+            "origin_country": ""
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 32342,
+            "logo_path": null,
+            "name": "MTI Co., Ltd.",
+            "origin_country": ""
+        },
+        {
+            "id": 32343,
+            "logo_path": null,
+            "name": "Visionare",
+            "origin_country": ""
+        },
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-10-10",
+            "episode_count": 12,
+            "id": 62534,
+            "name": "Season 1",
+            "overview": "Aoi Bungaku is a 12 episode anime series that is comprised of adaptations of six Japanese literary classics. The stories included are 'No Longer Human' and 'Run, Melos!' by Osamu Dazai, 'In the Forest, Under the Cherry Blossoms in Full Bloom' by Ango Sakaguchi, 'Kokoro' by Natsume Soseki, and 'The Spider's Thread' and 'Hell Screen' by Ryunosuke Akutagawa.",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 16
+}

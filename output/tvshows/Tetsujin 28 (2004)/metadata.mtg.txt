@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/2PLK5n5Mvkf3aG2kGFVFZlOc905.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-04-08",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 44887,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-09-30",
+    "last_episode_to_air": {
+        "air_date": "2004-09-30",
+        "episode_number": 26,
+        "id": 2707325,
+        "name": "Crime And Punishment",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dMYsHdOLv8wRtj70iulnKT9OIkQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tetsujin 28",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Tetsujin 28",
+    "overview": "Tetsujin 28-gō is a 2004 Japanese anime series and the remake of the original 1960s anime adaptation, animated by Genco and Palm Studio and written and directed by Yasuhiro Imagawa. The series has been released in the United States under its original name by Geneon and in the United Kingdom by Manga Entertainment, the first time a Tetsujin-28 property has not been localized to Gigantor in America or other English speaking nations. While not fully based on the original manga, it followed an extremely different storyline than in the 1960s series.",
+    "popularity": 0.791,
+    "poster_path": "/2s4dxdgYBXinDTSK2XPOWz9nxVB.jpg",
+    "production_companies": [
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 30127,
+            "logo_path": null,
+            "name": "Palm Studio",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2004-04-08",
+            "episode_count": 26,
+            "id": 179818,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jWL98mfWEvbU4kMyYQpREIgdpNg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/2hmfW8Gct3VBhF2c2U74HTTYKZw.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/kimiboku2",
+    "id": 45195,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-06-26",
+    "last_episode_to_air": {
+        "air_date": "2012-06-26",
+        "episode_number": 13,
+        "id": 897504,
+        "name": "Navel and Dignity",
+        "overview": "Shun is troubled about his future as everyone else seems to be more prepared than him. Also, Chizuru, Yukki, and Kaname visit the Tea club with Shun and Yuta.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "You and Me",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "君と僕。",
+    "overview": "The story revolves around four teens - the good-looking twins Asaba Yuuta and Yuuki, the effeminate Matsuoka Shun, and the class head Tsukahara Kaname - who have known each other since early childhood. While they are not necessarily good or bad friends, they continue to hang out well into high school. The half-Japanese transfer student Tachibana Chizuru joins the circle of friends in this comedy about the everyday life of adolescence.",
+    "popularity": 17.771,
+    "poster_path": "/c6dZiBpK4N7FEvfvo5eSt8Xe5mX.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-10-04",
+            "episode_count": 13,
+            "id": 53792,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sVxpHvmRcCLtp3cbTsjKw9NjuNd.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2012-04-02",
+            "episode_count": 13,
+            "id": 53793,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/vgEBQFtxZwZmaQ8mWibeqH5LqEU.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 3
+}

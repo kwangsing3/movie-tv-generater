@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/v3rIjMXNBVZhbX8UHhWC2E1cEb1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://oshibudo.com/",
+    "id": 91024,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-26",
+    "last_episode_to_air": {
+        "air_date": "2020-03-26",
+        "episode_number": 12,
+        "id": 2066025,
+        "name": "If My Favorite Pop Idol Made It to the Budokan",
+        "overview": "ChamJam is set to perform at the Setouchi Idol Festival, but Reo seems nervous for some reason. After their performance, Eripiyo reaffirms her love for Maina once again.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bpnvF29Zjt43MQcRDUoWS56mDbI.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "If My Favorite Pop Idol Made It to the Budokan, I Would Die",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "推しが武道館いってくれたら死ぬ",
+    "overview": "Passionate music-lover Eripiyo only wants to see her favorite underground pop group, ChamJam, make it to the big stage at Budokan. Because they’ve enriched her life by their very existence, Eri is willing to dedicate everything she has to see this dream fulfilled – even her health. At their last performance she got a crazy nosebleed. Hey, no one said being a super-fan was easy!",
+    "popularity": 10.206,
+    "poster_path": "/kZN99JbpWKvt5Zot6nVmCFeiBJF.jpg",
+    "production_companies": [
+        {
+            "id": 30294,
+            "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+            "name": "8bit",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-09",
+            "episode_count": 12,
+            "id": 127521,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1sQxUs7K64iC3qXYCfWy7oDJnSX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 4
+}

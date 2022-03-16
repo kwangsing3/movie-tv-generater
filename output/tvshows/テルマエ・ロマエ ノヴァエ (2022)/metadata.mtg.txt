@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/aRAm1DQhfxrxuWG2SNCCVEev7gi.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-03-28",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81264354",
+    "id": 112169,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Thermae Romae Novae",
+    "next_episode_to_air": {
+        "air_date": "2022-03-28",
+        "episode_number": 1,
+        "id": 2479107,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "テルマエ・ロマエ ノヴァエ",
+    "overview": "A proud bath architect in ancient Rome starts randomly surfacing in present-day Japan, where he's inspired by the many bathing innovations he finds.",
+    "popularity": 7.892,
+    "poster_path": "/aQCYAR5dorKMG1GRDqq74OSXK7v.jpg",
+    "production_companies": [
+        {
+            "id": 42563,
+            "logo_path": "/iE1h5iSKEOVbtWh4BX4MbvVNsr5.png",
+            "name": "NAZ",
+            "origin_country": "JP"
+        },
+        {
+            "id": 162613,
+            "logo_path": "/eWF9vlk3e5OH3G0bmVu6WvojKMo.png",
+            "name": "Sonilude",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-03-28",
+            "episode_count": 2,
+            "id": 166878,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ePZ4N5SrkNjQwSBpPErOlKJAQb7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

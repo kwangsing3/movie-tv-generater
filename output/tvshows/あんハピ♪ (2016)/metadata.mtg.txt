@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/sZHNzz5KzIeg4dFj755StgcN27B.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.anne-happy.com/",
+    "id": 66113,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-23",
+    "last_episode_to_air": {
+        "air_date": "2016-06-23",
+        "episode_number": 12,
+        "id": 1251063,
+        "name": "A Happy Outdoor School",
+        "overview": "A game of Miniature Garden Tag abruptly begins at the outdoor school. Will Hanako, Hibari, Botan, Hibiki, and Ren of \"Team Four Leaf Clover\" be able to find the wooden statues they carved and safely make it to the end of the game?!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/t2kzkGtSxojnd2MKFBmr6lrYOsf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Anne-Happy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あんハピ♪",
+    "overview": "The story centers around class 1-7 of Tennomifune Academy, where all the students with \"bad karma\" or misfortune seem to have been gathered. Hibari, a student in this class, meets the unlucky Hanako and the perennially unhealthy Botan on her first day of school, and together they try to find a way to turn their school life into a happy one.",
+    "popularity": 9.73,
+    "poster_path": "/hpsAXLYRIZtaZZiFGE9FoM9pBM9.jpg",
+    "production_companies": [
+        {
+            "id": 34525,
+            "logo_path": "/j9D2XIsKOSu6DHQCDd4Jue5gl00.png",
+            "name": "SILVER LINK.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-07",
+            "episode_count": 12,
+            "id": 75991,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/slAbEdCEAJ7B7hHash2Ik2YGweE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 45
+}

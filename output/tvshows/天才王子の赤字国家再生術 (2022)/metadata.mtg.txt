@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/wcUTzxybqnchOZtX1FlUJAoAydj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://tensaiouji-anime.com/",
+    "id": 117880,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-15",
+    "last_episode_to_air": {
+        "air_date": "2022-03-15",
+        "episode_number": 10,
+        "id": 3416176,
+        "name": "Hey, How About Getting on the Bubble",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gB9rEiTj08Zy9TUSonNivQldMIS.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "The Genius Prince's Guide to Raising a Nation Out of Debt",
+    "next_episode_to_air": {
+        "air_date": "2022-03-22",
+        "episode_number": 11,
+        "id": 3416177,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "天才王子の赤字国家再生術",
+    "overview": "It ain't easy being a genius...\n\nPrince Wein is ready to commit treason. And who can blame him? Faced with the impossible task of ruling his pathetic little kingdom, this poor guy just can't catch a break! But with his brilliant idea of auctioning off his country, this lazy prince should be able to retire once and for all. Or that was the plan...until his treasonous schemes lead to disastrous consequences-namely, accidental victories and the favor of his people!",
+    "popularity": 47.966,
+    "poster_path": "/tSLhTuJ8mqpmQtYZfUVlphIecTX.jpg",
+    "production_companies": [
+        {
+            "id": 114835,
+            "logo_path": null,
+            "name": "Yokohama Animation Lab",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-11",
+            "episode_count": 12,
+            "id": 179254,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pCD3SJvBfAKBV28XVM1Rbf63YKE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 3
+}

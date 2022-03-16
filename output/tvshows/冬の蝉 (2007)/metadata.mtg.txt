@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/kVxcjiuNgjMeoekhItOXprqWGvw.jpg",
+    "created_by": [
+        {
+            "id": 1839067,
+            "credit_id": "595026e6925141314b051956",
+            "name": "Youka Nitta",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        33
+    ],
+    "first_air_date": "2007-02-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "",
+    "id": 44219,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-04-27",
+    "last_episode_to_air": {
+        "air_date": "2007-04-27",
+        "episode_number": 3,
+        "id": 1505008,
+        "name": "Episode Three: Tokyo Tragedy",
+        "overview": "Four years later, Kusaka is working for the new government, wearing Western-style clothing and living in a Western-style home. In a private Japanese cottage behind the house, he keeps Akizuki in secret. The relationship has deteriorated, as Akizuki cannot stand being kept in hiding in comfort while his fellow Bakufu comrades suffer in prison, and he wants to commit suicide.\n\nEventually Aizawa, now an officer of the new law, discovers their relationship. He confronts Akizuki, leaving him with a short sword. A while later, it seems things between Kusaka and Akizuki are being patched up. Soon, a small group of police goes through Kusaka's home, led by Aizawa. Kusaka runs back to the house, engages in a brief argument with his former comrade, and returns to the cottage only to find Akizuki missing and a suicide note on the futon pillow.\n\nAkizuki pulls himself along the snow-covered ground, the short sword in hand, stopping in front of a tree split into four trunks. After a brief reminiscing, he kills himself; Kusaka finds him a short while later. Opening the pouch around Akizuki's neck, he realizes that Akizuki was carrying around the shell of the cicada they had seen about eight years earlier. Kusaka takes the short sword from Akizuki's hand and commits suicide as well.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Winter Cicada",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Logo",
+            "id": 62,
+            "logo_path": "/ztSNqnJ8W1GOYfa3525xFBDb3NY.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "冬の蝉",
+    "overview": "Fuyu no Semi is a Japanese anime OVA loosely based on the manga series, Embracing Love, which also aired on the Logo cable channel in the US.\n\nThe story, set in historical Japan, follows two samurai from opposing political groups, one protectionist and the other globalist, who fall in love with each other.",
+    "popularity": 5.639,
+    "poster_path": "/e12PAc8z9gDi4uAbxoR49DDaGwU.jpg",
+    "production_companies": [
+        {
+            "id": 91747,
+            "logo_path": null,
+            "name": "VENET",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-02-23",
+            "episode_count": 3,
+            "id": 89859,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kexI7fJCOCqxq8bghpl6Elgy1Wv.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 3
+}

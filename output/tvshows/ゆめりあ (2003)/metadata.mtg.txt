@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/yijpsR3NTV9uj2Mh3oT6A8Firs.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-01-08",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 37857,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-03-27",
+    "last_episode_to_air": {
+        "air_date": "2004-03-27",
+        "episode_number": 12,
+        "id": 852932,
+        "name": "Tomokazu 100 Points",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Yumeria",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゆめりあ",
+    "overview": "When Tomokazu Mikuri wakes up next to the girl of his dreams, it will be up to him and a fleet of lovely ladies to stop an alien invasion that could turn their lives into a living nightmare!",
+    "popularity": 4.162,
+    "poster_path": "/8sHBJRKZ5tEG47AFqLoGEdh0eA6.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-01-08",
+            "episode_count": 12,
+            "id": 49199,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zJ4H8HhhcPU3kgBuGlHhNW1jA2h.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 3
+}

@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/6a6kagM45BiZgcauKpjlfpLCJhq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1993-03-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34780,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1993-05-28",
+    "last_episode_to_air": {
+        "air_date": "1993-05-28",
+        "episode_number": 2,
+        "id": 792160,
+        "name": "The Brutal Killer Martial Arts Tournament",
+        "overview": "In order to get enough money to get an airplane, Mink enters a tournament to win 50,000G. However, things may not go as planned as Saucer, Vena, and Damaru have all returned, with Mink as their target. But a new challenger known as Dug, the demon god's son, has arrived as well, also after Mink. Can Mink defeat all of these foes?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dragon Half",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラゴンハーフ",
+    "overview": "Mink, a half human/half dragon teenage girl is on a quest for a potion which will turn her into a full human so that she can win the love of the legendary dragon slayer Dick Saucer.",
+    "popularity": 2.042,
+    "poster_path": "/tH3O31kafRA0ymzZnqIWmdCVB1v.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 105353,
+            "logo_path": null,
+            "name": "Studio Takuranke",
+            "origin_country": "JP"
+        },
+        {
+            "id": 92860,
+            "logo_path": null,
+            "name": "Trans Arts",
+            "origin_country": "JP"
+        },
+        {
+            "id": 104393,
+            "logo_path": null,
+            "name": "Bihou. Incorporated",
+            "origin_country": ""
+        },
+        {
+            "id": 1194,
+            "logo_path": null,
+            "name": "Kadokawa Shoten",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12835,
+            "logo_path": null,
+            "name": "Victor Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1993-03-26",
+            "episode_count": 2,
+            "id": 45558,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8,
+    "vote_count": 2
+}

@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/AOqZsgzymxKEYJxjtQ11MbkraT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2006-02-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/precure_SS/index.html",
+    "id": 36324,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-01-28",
+    "last_episode_to_air": {
+        "air_date": "2007-01-28",
+        "episode_number": 49,
+        "id": 824428,
+        "name": "Reach for the Sky! Friends of the Starry Sky, Forevermore!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Futari wa Precure Splash Star",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ふたりはプリキュア Splash Star",
+    "overview": "The third series in Izumi Todo's Pretty Cure franchise, following a new story different from the previous two series.",
+    "popularity": 8.374,
+    "poster_path": "/AgRxi1Ba2Hai8Yf8yLKM9wdCvTE.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4868,
+            "logo_path": "/3ExeT4zGXBFU7ei1crOvuzKnc1z.png",
+            "name": "Asahi Broadcasting Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4720,
+            "logo_path": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+            "name": "Asatsu-DK",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2006-02-05",
+            "episode_count": 49,
+            "id": 47244,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/AgRxi1Ba2Hai8Yf8yLKM9wdCvTE.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 3
+}

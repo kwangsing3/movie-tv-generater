@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/tJSIavJOGBiMW3EQSGM9ZbGuqNW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2018-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://ganma.jp/g/anime/otonabougu/",
+    "id": 82958,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-19",
+    "last_episode_to_air": {
+        "air_date": "2021-03-19",
+        "episode_number": 12,
+        "id": 2605764,
+        "name": "The Armor That Leapt Through Time",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/4kjztBvkPug7fNoTMBKrsMocl97.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Armor Shop for Ladies & Gentlemen",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "d Anime Store",
+            "id": 3685,
+            "logo_path": "/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おとなの防具屋さん",
+    "overview": "In a world of sword and sorcery a young villager named Kautsu comes upon a unique armor shop that only deals with a certain kind of equipment for female adventurers.",
+    "popularity": 11.637,
+    "poster_path": "/ryMkIrCbXgIxOl4tBfCMQsHI131.jpg",
+    "production_companies": [
+        {
+            "id": 147559,
+            "logo_path": null,
+            "name": "Niigata Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-03-06",
+            "episode_count": 3,
+            "id": 176942,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/xSNIKMqRDXkuXrRyDXjjkkUmDDH.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-10-08",
+            "episode_count": 12,
+            "id": 110519,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rhkRvbGITUl7Y0PiBkW9tfocY42.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-01-01",
+            "episode_count": 12,
+            "id": 157527,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/hYDuinTNryk2FXzIixMxYEI2CUh.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 5
+}

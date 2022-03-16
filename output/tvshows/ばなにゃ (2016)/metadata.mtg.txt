@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/eDcr92URnTb5EK5xkC4tylmE1JY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2016-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://bananya.jp/anime.html",
+    "id": 67656,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-12-24",
+    "last_episode_to_air": {
+        "air_date": "2019-12-24",
+        "episode_number": 13,
+        "id": 2027888,
+        "name": "Bananya and the Big Round World, Nya",
+        "overview": "Bananya looks around. What is this place??? It looks like the legendary Rainbow Bananya has used her powers to send him to the big round thing in the sky, just like he always dreamed of! And there he meets... Oh my nya!",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/4kAzuyyt4qXB3GrrLgLMbTAhaNh.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bananya",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ばなにゃ",
+    "overview": "Bananya is a series about the secret life of kitties who live in bananas.",
+    "popularity": 12.937,
+    "poster_path": "/nkHA9QgrHLh3vEq4WL5itDZAiCt.jpg",
+    "production_companies": [
+        {
+            "id": 99170,
+            "logo_path": "/4Ao5ZncaRPpYtP6JH7TkMxxkPW0.png",
+            "name": "Gathering",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-04",
+            "episode_count": 13,
+            "id": 79761,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5Wh3qfiI7qPWakmKpAHntl5oCVy.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-10-01",
+            "episode_count": 13,
+            "id": 136266,
+            "name": "Bananya and the Curious Bunch",
+            "overview": "",
+            "poster_path": "/jWPTA54SU8Gpy8wU4E6xExs4hue.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 11
+}

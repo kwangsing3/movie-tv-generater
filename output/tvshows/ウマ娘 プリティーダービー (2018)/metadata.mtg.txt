@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/g8MhNBgIcfhlpzxNJkuwg64mMwX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://anime-umamusume.jp/",
+    "id": 77694,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-30",
+    "last_episode_to_air": {
+        "air_date": "2021-03-30",
+        "episode_number": 13,
+        "id": 2816267,
+        "name": "Galloping After Our Dreams",
+        "overview": "The Arima Kinen is the final G1 race of the year, featuring a roster of horse girls selected by fan ballot. Tokai Teio is among the competitors, and this time, she is running with something to prove.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/6jb9U1YphQ6GrQDRANNubIFR8fp.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Umamusume: Pretty Derby",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ウマ娘 プリティーダービー",
+    "overview": "In a world very much like our own, great race horses of the past have a chance to be reborn as \"horse girls\"—girls with the ears and tails of horses as well as their speed and endurance. The best of these horse girls go to train at Tokyo's Tracen Academy, hopefully moving on to fame and fortune as both racers and idols.\n\nSpecial Week, a high school horse girl from the countryside, has just transferred to Tracen, and she's determined to fulfill her promise to her mother to become the best horse girl in Japan. On her way to school, she takes a pit stop at the race track and instantly falls in love with Silence Suzuka's style, becoming determined to race on the same team as her.",
+    "popularity": 29.181,
+    "poster_path": "/AqHU9G5YN7uHbalGAIGujIWy2cg.jpg",
+    "production_companies": [
+        {
+            "id": 20867,
+            "logo_path": "/op3ROO9jB4KwLUZ16VAvuGasRRv.png",
+            "name": "P.A.Works",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-12-19",
+            "episode_count": 4,
+            "id": 120691,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/j0IkHjUu7WYifpntlhKEit3E4JL.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-04-02",
+            "episode_count": 13,
+            "id": 100345,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rk4dnGzU53zz3rLiCSCITyDMDbU.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-01-05",
+            "episode_count": 13,
+            "id": 174039,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/9fuKN22zt3jQXBs4y2y5GGTqL3U.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 48
+}

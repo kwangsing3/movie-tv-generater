@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/mRa2K6Fx2iPE0dyCGKpbFWBsMbk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2004-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34793,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2005-04-21",
+    "last_episode_to_air": {
+        "air_date": "2005-04-21",
+        "episode_number": 13,
+        "id": 792412,
+        "name": "Final Bravo!",
+        "overview": "Yukinari, Kirie, Tomoka, Lisa, and Maharu fight their way through to save Miharu from Yukina. At the end of the series, Yukinari, Miharu, Maharu, Kirie, Tomoka, Lisa, Fukuyama, Koyomi and Yukina all return to Earth and live happily ever after together.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/7iGePPyH7lNu9rGKnmjngHDJz40.jpg",
+        "vote_average": 9,
+        "vote_count": 2
+    },
+    "name": "Girls Bravo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガールズブラボー",
+    "overview": "A high school boy, Yukinari, has been bullied and abused by girls all his life and has developed gynophobia--a fear of women. In fact, just being around them makes him break out in hives! One day, he is transferred to a world that only females inhabit.",
+    "popularity": 20.737,
+    "poster_path": "/7oi1AruNAkgzKRn47muIP6Bq8iK.jpg",
+    "production_companies": [
+        {
+            "id": 102209,
+            "logo_path": null,
+            "name": "Girls Bravo Production Committee",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-07-05",
+            "episode_count": 11,
+            "id": 45573,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cOtQE35ShQ9FRJPmMscI0AieK7J.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2005-01-27",
+            "episode_count": 13,
+            "id": 45574,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/epli7NlrYXIaNNJld24ooG5A6Vn.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 256
+}

@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/gHaqtksrERg4PhDzsnrvW7dTs6z.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-01-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://yorimoi.com",
+    "id": 76059,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-27",
+    "last_episode_to_air": {
+        "air_date": "2018-03-27",
+        "episode_number": 13,
+        "id": 1457458,
+        "name": "We'll Go On Another Journey Someday",
+        "overview": "Kimari wakes up to the sound of her alarm and goes through her duties for the day. The girls have gotten used to their lives in Antarctica, but the summer team will have to leave in three days. Their journey of a lifetime is reaching its end.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/a8b4W34P7NTV6DJiSU02n4awneZ.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "A Place Further Than the Universe",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "宇宙よりも遠い場所",
+    "overview": "Scenery that we have never seen. Sounds that we have never heard. Scent that we have never smelled. Food that we have never tasted. And the surge of emotion that we have never experienced. This is the expedition of recollecting the pieces torn apart and sensation left alone. When we reach that place, what will we think? Howling, 40 degree angle. Raging, 50 degree angle. Shouting, 60 degree angle. A wilderness beyond the heavy sea. The furthest south, far from civilization. At the top of the Earth. We will find lights through the girls' eyes to live tomorrow.",
+    "popularity": 18.906,
+    "poster_path": "/iERXyBf0K6DfAQ8oKEYrdjf1vIs.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-01-02",
+            "episode_count": 13,
+            "id": 97317,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6NPkOGcQmV2W0r0XEAMXELxxiKZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 66
+}

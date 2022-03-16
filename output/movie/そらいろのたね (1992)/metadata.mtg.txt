@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 54041,
+    "imdb_id": "tt2140421",
+    "original_language": "ja",
+    "original_title": "そらいろのたね",
+    "overview": "The Sky-Colored Seed is a series of three TV spots created for the Nippon TV (NTV) network to commemorate its 40th anniversary. The story is about a boy who plants a sky-colored seed, which grows into a big house with a lot of animals in it. It is based on the 1964 children's book The Sky-Colored Seed by Reiko Nakagawa and Yuriko Omura",
+    "popularity": 1.4,
+    "poster_path": "/9qfdDHL5KytuAkAEO1L2FYT5uHx.jpg",
+    "production_companies": [
+        {
+            "id": 10342,
+            "logo_path": "/eS79pslnoKbWg7t3PMA9ayl0bGs.png",
+            "name": "Studio Ghibli",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1992-01-01",
+    "revenue": 0,
+    "runtime": 2,
+    "spoken_languages": [
+        {
+            "english_name": "No Language",
+            "iso_639_1": "xx",
+            "name": "No Language"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Sky-Colored Seed",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 12
+}

@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": "/pDmfA1mRdd0LrQm566YIFuZQTYO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://arifureta.com/",
+    "id": 86034,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-10",
+    "last_episode_to_air": {
+        "air_date": "2022-03-10",
+        "episode_number": 9,
+        "id": 3416118,
+        "name": "Invasion of the Royal Capital",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/TA0diTYjdp1IN8NyjwE7TgrvYM.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Arifureta: From Commonplace to World's Strongest",
+    "next_episode_to_air": {
+        "air_date": "2022-03-17",
+        "episode_number": 10,
+        "id": 3416119,
+        "name": "God's Apostle",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/2cmGMCWolD1b48irc97QgXnEBWW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ありふれた職業で世界最強",
+    "overview": "Seventeen-year-old Hajime Nagumo is your average, everyday otaku. However, his simple life of pulling all-nighters and sleeping in school is suddenly turned upside down when he, along with the rest of his class, is summoned to a fantasy world! They're treated like heroes and tasked with the duty of saving the human race from utter extinction. But what should have been any otaku's wet dream quickly turns into Hajime's nightmare. While the rest of his class are blessed with godlike powers, Hajime's job, Synergist, only has a single transmutation skill. Ridiculed and bullied by his classmates for being weak, he soon finds himself in despair. Will he be able to survive in this dangerous world of monsters and demons with only a glorified blacksmith's level of strength?",
+    "popularity": 24.868,
+    "poster_path": "/kB9tdE00Z5zWIJQux1jiYvRyPIC.jpg",
+    "production_companies": [
+        {
+            "id": 42519,
+            "logo_path": null,
+            "name": "asread.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12569,
+            "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+            "name": "White Fox",
+            "origin_country": "JP"
+        },
+        {
+            "id": 120787,
+            "logo_path": null,
+            "name": "Digital Noise",
+            "origin_country": ""
+        },
+        {
+            "id": 120788,
+            "logo_path": null,
+            "name": "Studio Twinkle",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-08-12",
+            "episode_count": 18,
+            "id": 129684,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ZFz3GyVLbKGKSIam2iY62AjcZl.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-07-08",
+            "episode_count": 13,
+            "id": 117117,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lBVbu6YUvNvEikvq7GEiLSzKhhH.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2022-01-13",
+            "episode_count": 12,
+            "id": 213264,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/76pzhZf26qLFgGKzm8H4c4tQ6dk.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "—and so, the boy surpassed the “strongest.”",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 432
+}

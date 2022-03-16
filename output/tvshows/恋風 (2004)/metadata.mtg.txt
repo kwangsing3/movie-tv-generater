@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/mT1c4srStn6wuaUphCGDP2owu8j.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2004-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 42861,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-07-07",
+    "last_episode_to_air": {
+        "air_date": "2004-07-07",
+        "episode_number": 8,
+        "id": 882895,
+        "name": "Frozen Dew",
+        "overview": "Koshiro remembers the birth of his sister and their life together before their parent's divorce. Although they were too far apart in age to understand each other, they felt a vague sense of affection. In the present, Koshiro goes to see his mother for the first time in many years. She tells him how much Nanoka looked up to her big brother and tells him to be a good big brother to her. On the ride back, he remembers an incident when baby Nanoka gave him a glass of mud and he ended up keeping it because it made her so happy. He resolves to be a good big brother to her.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Koi Kaze",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "恋風",
+    "overview": "Koi Kaze is a Japanese manga series written and illustrated by Motoi Yoshida. It premiered in the September 2001 issue of Evening and ran for 29 chapters until its conclusion in the October 2004 issue. The individual chapters were collected and published in five tankōbon volumes by Kodansha. The series tells of the love affair that develops between 27-year-old Koshiro, and his 15-year-old sister, Nanoka.\n\nThe chapters were adapted as a 13-episode anime television series by A.C.G.T. Directed by Takahiro Omori, the episodes premiered on TV Asahi on April 1, 2004 and ran until June 17, 2004. Only twelve episodes of the series aired, with the remaining episode streamed online and later included in both DVD releases and when the series aired in reruns as the eighth episode. The anime series is licensed for release in North American by Geneon Entertainment, which released it across three DVD volumes in 2005.",
+    "popularity": 7.561,
+    "poster_path": "/s35QQ1lzLgdsF52AId8daUGcsa2.jpg",
+    "production_companies": [
+        {
+            "id": 5451,
+            "logo_path": "/xeHQM5AsvHwo4Ublp4MetaEfsVf.png",
+            "name": "ACGT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-04-01",
+            "episode_count": 13,
+            "id": 52382,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/91EOvXwhKkNh72eynkn46BsATqx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 7
+}

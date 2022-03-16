@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/88lc6QRg6zIiib0u5NuspjsCRdP.jpg",
+    "created_by": [
+        {
+            "id": 79737,
+            "credit_id": "60ee28410f21c6005f520b8e",
+            "name": "Yoshiyuki Tomino",
+            "gender": 2,
+            "profile_path": "/3I8gsOJ30GCd5g71NYbYXZeEybg.jpg"
+        },
+        {
+            "id": 3161832,
+            "credit_id": "612e1395a135330061477a1f",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1997-01-25",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.gundam-w.jp",
+    "id": 42667,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1997-07-25",
+    "last_episode_to_air": {
+        "air_date": "1997-07-25",
+        "episode_number": 3,
+        "id": 1958369,
+        "name": "Return to Forever",
+        "overview": "Heero rendezvous with the Wing Zero and flies to Earth to save Relena, but is intercepted by Wufei's Altron Gundam and forced to fight him. Duo, Trowa and Quatre get their Gundams back and help Zechs and Noin in their attack on the Mariemaia Army's captured fortress in Brussels. Heero eventually arrives, having convinced Wufei that they must bring an end to the conflict, and uses the Wing Zero's twin buster rifle to destroy the fortress' underground bunker shields. When the people of Earth arrive to declare their own desires for peace, Relena and Lady Une are able to convince Mariemaia that she is mistaken. Dekim tries to kill Relena, but is instead killed by one of his own soldiers out of respect for Treize. Following Mariemaia's surrender and the return of peace between Earth and the colonies, the last of the mobile suits (including the Gundams) are destroyed. The Gundam pilots are at last able to bring closure to their lives as soldiers.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/IuN7H0krQRyxOEGdPgYsnMEKmT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam Wing: Endless Waltz",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "新機動戦記ガンダムＷ Endless Waltz",
+    "overview": "Gundam Wing: Endless Waltz, known in Japan as New Mobile Report Gundam Wing: Endless Waltz, is the sequel to Mobile Suit Gundam Wing, both of which are set in the \"After Colony\" timeline, an alternate universe to that of the original Mobile Suit Gundam series. Aside from being a continuation to the Gundam Wing TV series, it also reveals details regarding the pasts of the five Gundam pilots and the true objective behind \"Operation Meteor.\"\n\nEndless Waltz originally premiered in Japan as a three-part OVA in 1997, and it was later released as a theatrical compilation movie in 1998, including additional scenes and an altered musical score.",
+    "popularity": 14.227,
+    "poster_path": "/4F9Ona4T6LEo5ZPgOHmPubvnnlD.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1997-01-25",
+            "episode_count": 3,
+            "id": 134422,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/y2PaXRI7Mv1KVN3M16bIcClJi6Q.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 8.3,
+    "vote_count": 41
+}

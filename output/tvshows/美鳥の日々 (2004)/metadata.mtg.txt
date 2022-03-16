@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/h7r1SlHhPAfy39SA9l58Zqt5CgC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2004-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 42824,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2004-06-27",
+    "last_episode_to_air": {
+        "air_date": "2004-06-27",
+        "episode_number": 13,
+        "id": 1472989,
+        "name": "Our Days",
+        "overview": "Seiji's right hand returns to normal. Midori is no longer there. Ayase confesses her feelings, but it is unrequited…",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/y7c43y4nLQ00nyiwJWiRn1JdsTH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Midori Days",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "美鳥の日々",
+    "overview": "A high school boy who one day finds his right hand replaced with a girl named Midori and his attempts to return her to her real body.",
+    "popularity": 10.599,
+    "poster_path": "/gyY7CfjW70VsJXZRzs1JDD278Oc.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-07-23",
+            "episode_count": 3,
+            "id": 168863,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2004-04-04",
+            "episode_count": 13,
+            "id": 71973,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gqkxV1CsPhXdnKJXlHP0dIRwdG5.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 8
+}

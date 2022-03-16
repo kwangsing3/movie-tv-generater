@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/n8rr6yQjttsf5qzIgVQhGphZDio.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://shikizakura-anime.com/",
+    "id": 95248,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-26",
+    "last_episode_to_air": {
+        "air_date": "2021-12-26",
+        "episode_number": 12,
+        "id": 1978554,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9QUZs7BNJy1kRR7XSlWoqUUY4vT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Shikizakura",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chukyo TV",
+            "id": 2727,
+            "logo_path": "/KaIK93kJFD8WKH451owMdmNOSz.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS4",
+            "id": 3220,
+            "logo_path": "/naTpOY8AjRtgBw0JXafrhAD8ZBT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シキザクラ",
+    "overview": "Shikizakura: where cherry blossoms are in full bloom while trees are colored with autumn leaves. In this special place, where the transient world meets the spirit world, a ritual to save humanity is about to begin…\n\nHigh school student Kakeru Miwa, by a strange turn of events, winds up being an irregular member of a power suit team tasked with battling Oni. These Oni possess humans and try to cling to the transient world. Only the power suit, Yoroi, which combines ancient secrets with the latest technology, can protect people from Oni. Kakeru decides to become a hero who will battle Oni and protect Ouka Myoujin, the shrine maiden fated with saving the world.",
+    "popularity": 16.838,
+    "poster_path": "/owU4s2OfeTh2lGWJpjqJCCHq1X4.jpg",
+    "production_companies": [
+        {
+            "id": 124255,
+            "logo_path": null,
+            "name": "Sublimation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-10",
+            "episode_count": 12,
+            "id": 135473,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9uq335gJDYIhjSg11y8IZYQgnUb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3,
+    "vote_count": 1
+}

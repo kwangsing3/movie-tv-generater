@@ -1,0 +1,130 @@
+{
+    "adult": false,
+    "backdrop_path": "/69d8Yv2mLx28H2I7kST2L074tWv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        20
+    ],
+    "first_air_date": "2018-10-21",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.poptv.ph/series/2569",
+    "id": 111120,
+    "in_production": false,
+    "languages": [
+        "en",
+        "tl"
+    ],
+    "last_air_date": "2021-02-27",
+    "last_episode_to_air": {
+        "air_date": "2021-02-27",
+        "episode_number": 12,
+        "id": 2834336,
+        "name": "For Daddy",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Barangay 143",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "GMA Network",
+            "id": 50,
+            "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+            "origin_country": "PH"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Barangay 143",
+    "overview": "",
+    "popularity": 3.492,
+    "poster_path": "/1X0OBLVQnl0i18yQIFK1bhkan4m.jpg",
+    "production_companies": [
+        {
+            "id": 151744,
+            "logo_path": null,
+            "name": "Synergy88",
+            "origin_country": ""
+        },
+        {
+            "id": 151745,
+            "logo_path": null,
+            "name": "ASI Studios",
+            "origin_country": ""
+        },
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "PH",
+            "name": "Philippines"
+        },
+        {
+            "iso_3166_1": "SG",
+            "name": "Singapore"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-21",
+            "episode_count": 14,
+            "id": 164905,
+            "name": "Season 1",
+            "overview": "When tragedy and the search for his real father bring him to Manila, a basketball star finds a home on an unlikely team of misfits in search of glory.",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2020-12-12",
+            "episode_count": 12,
+            "id": 188314,
+            "name": "Season 2",
+            "overview": "Bren and his team find themselves in difficult positions when hard truths and romantic confessions come to light as they eye a championship victory.",
+            "poster_path": "/ufykuzTvOujS5hyjH3JTqY5YraR.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Tagalog",
+            "iso_639_1": "tl",
+            "name": ""
+        }
+    ],
+    "status": "Ended",
+    "tagline": "The League of Life",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

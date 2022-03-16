@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/tPGza1yNkjfoS8XS5O1Gs8ZI7ea.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-01-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://kotobuki-anime.com",
+    "id": 83454,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-03-31",
+    "last_episode_to_air": {
+        "air_date": "2019-03-31",
+        "episode_number": 12,
+        "id": 1660197,
+        "name": "Kotobuki of the Setting Sun",
+        "overview": "Bravery. Chutzpah. Derring-do. The KOTOBUKI Flight Corps will need all that and more as the battle in the skies over Ikesuka soars to its thrilling conclusion!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2korLonhe8fHyvSn9IIkBDFwIkO.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Magnificent KOTOBUKI",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "荒野のコトブキ飛行隊",
+    "overview": "The story will take place in a barren frontier where people trade goods with each other in order to help each other survive. The Kotobuki Squadron are bodyguards for hire, led by a strict but beautiful squadron leader, an unreliable commanding officer, and a true artisan of a crew chief. Alongside pilots who don't lack for personality, they take to the air in dogfights, letting the engine noise of their Hayabusa fighters ring out in the skies.",
+    "popularity": 11.826,
+    "poster_path": "/2N3aZe9lBnhH9jTIsgavX2TNcK2.jpg",
+    "production_companies": [
+        {
+            "id": 109639,
+            "logo_path": null,
+            "name": "GEMBA",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-04-10",
+            "episode_count": 12,
+            "id": 175860,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/2ij7NqQEeG4mtyAWel9mBPb429I.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-01-13",
+            "episode_count": 12,
+            "id": 111533,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rgbrZ2ZqXEztDNfEBrdwGJjWNfr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 3
+}

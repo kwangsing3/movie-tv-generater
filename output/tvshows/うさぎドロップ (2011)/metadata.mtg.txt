@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/kREWBfkeUvDHiYnL9jriXcFV2rd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2011-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.usagi-drop.tv",
+    "id": 45213,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-16",
+    "last_episode_to_air": {
+        "air_date": "2011-09-16",
+        "episode_number": 11,
+        "id": 897893,
+        "name": "The First Step",
+        "overview": "It's the first anniversary of Grandpa's death, which means Rin and Daikichi have been living together for about a year now. Daikichi mulls over what he's lost and what he's gained since Rin came into his life...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/poaBK6g5n1iOWacb2CDN6zym0SM.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Usagi Drop",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "うさぎドロップ",
+    "overview": "By force of circumstances, a 30-year-old single man with a full-time job suddenly starts raising a 6-year-old girl. While running each other ragged, the two of them gradually grow into a \"family\".",
+    "popularity": 22.256,
+    "poster_path": "/nMeOuxeY1Djly3xIFoam2H5tU0Q.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-10-28",
+            "episode_count": 4,
+            "id": 53823,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/qRwYp7UlbZapFdZ36MTrROe22Dd.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-07-08",
+            "episode_count": 11,
+            "id": 53822,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fOwx2B3OarRkXnVsTUJJoqPzDqG.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 108
+}

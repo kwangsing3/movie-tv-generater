@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/i5UgJEvHoJa3sPlAxqLPwC5g2aQ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2005-01-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 25115,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-03-26",
+    "last_episode_to_air": {
+        "air_date": "2005-03-26",
+        "episode_number": 13,
+        "id": 650989,
+        "name": "Tree of Eternity",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vVeZXbiTISCkMhpgKCHgHCrm2Hb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magical Canan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まじかるカナン",
+    "overview": "Chihaya is an average high school student whose life turns upside down when she comes across Natsuki, a cute, rabbit-like creature that she takes in as a pet before finding out he can take human form and is from Evergreen, a parallel world full of nature and magic. He has come to the human world to retrieve five special stolen Seeds, each with the power to possess people and turn them into the embodiment of their desire. Chihaya is drafted into becoming Magical Warrior Carmine, Natsuki’s souped-up (and suped-up) lead partner and together they begin the quest to recover the Seeds, a task made more difficult by the arrivals of arrogant rival Cerulean Blue and Septem, a Magical Warrior from Evergreen who is oddly jealous of Chihaya.",
+    "popularity": 1.495,
+    "poster_path": "/5W4v16VWZOeIahYW0CMIBkRRUsb.jpg",
+    "production_companies": [
+        {
+            "id": 46652,
+            "logo_path": null,
+            "name": "AIC A.S.T.A.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-01-01",
+            "episode_count": 13,
+            "id": 35337,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/y4viU8JsiosBGn1VZbKXtQ4tTSX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/767l8nP1qSBoxwVX21s2QczngfR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2017-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://imas-sidem.com",
+    "id": 74186,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-30",
+    "last_episode_to_air": {
+        "air_date": "2017-12-30",
+        "episode_number": 13,
+        "id": 1403667,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "THE iDOLM@STER Side M",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイドルマスター Side M",
+    "overview": "315 Production – a newly set up small talent agency – has assembled a group of aspiring male idols from various occupational fields. They include a former lawyer, a former doctor, former pilot and so on… Even though everyone hails from different backgrounds, they share a common dream: to be the top idol. And so, the stories of these male idols at 315 Production take centre stage…",
+    "popularity": 5.444,
+    "poster_path": "/44obbKhFBNSx5jzd3GZk3Mcvhln.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-10-01",
+            "episode_count": 2,
+            "id": 112135,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-10-07",
+            "episode_count": 13,
+            "id": 93356,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xaeIbL1TY8EFpJw71MsIpewj3E5.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 5
+}

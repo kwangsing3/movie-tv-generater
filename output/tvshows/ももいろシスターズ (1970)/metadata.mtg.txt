@@ -1,0 +1,68 @@
+{
+    "adult": false,
+    "backdrop_path": "/bUwkzmWJCaXTEDjLsDGYqoFe1oY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        10
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 26572,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "1998-10-01",
+    "last_episode_to_air": {
+        "air_date": "1998-10-01",
+        "episode_number": 24,
+        "id": 672332,
+        "name": "Legendary Idol Momoko!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Momoiro Sisters",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ももいろシスターズ",
+    "overview": "",
+    "popularity": 3.249,
+    "poster_path": "/44g63SrTFB5gzTy57T3wLWwA2EE.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 24,
+            "id": 37121,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

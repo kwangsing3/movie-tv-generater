@@ -1,0 +1,55 @@
+{
+    "adult": false,
+    "backdrop_path": "/nz8TI2O4ZJPYPOxwunApHhiKehU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 413389,
+    "imdb_id": "tt1499872",
+    "original_language": "ja",
+    "original_title": "てなもんやボイジャーズ?",
+    "overview": "Three girls, broke and incredibly far from home, are determined to make their way back to Earth from the distant planet they have found themselves stranded on.  Along the way, they must dodge lawmen and outlaws alike to have any hope of completing their journey.",
+    "popularity": 0.699,
+    "poster_path": "/501ph2lMyoFIK6gFs87GiifD8pB.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1999-06-25",
+    "revenue": 0,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tenamonya Voyagers",
+    "video": false,
+    "vote_average": 3,
+    "vote_count": 1
+}

@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/wffBRriPGAmFkdHZtmpLq47r27y.jpg",
+    "created_by": [
+        {
+            "id": 1256920,
+            "credit_id": "61ffd1ff00508a0067de9135",
+            "name": "Nisio Isin",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2012-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/medakabox/index2.html",
+    "id": 45858,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-12-27",
+    "last_episode_to_air": {
+        "air_date": "2012-12-27",
+        "episode_number": 12,
+        "id": 905032,
+        "name": "Good Loser Kumagawa, -12th Tank. Execute the Student Council",
+        "overview": "The story of Medaka continues but the writers are saving that for another time. Enjoy this bonus story of everyone’s favorite loser.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/kJNt47jU4nUiLA8j7zXBfK3J74g.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Medaka Box",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "めだかボックス",
+    "overview": "Kurokami Medaka is an exceptional first year student at Hanokiwa Academy who got elected as president of the student council with a smashing 98% of the votes. Extremely intelligent, strong, and rich; she wants to help anyone in need. To do that, she introduces a suggestion box that allows any student to contact her. Later known as the Medaka Box, it will bring forth incredible challenges to Kurokami and her friends of the student council.",
+    "popularity": 6.206,
+    "poster_path": "/7W0wmXZa8ZOgawGXvHD3Gv1vVQ6.jpg",
+    "production_companies": [
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-04",
+            "episode_count": 12,
+            "id": 54301,
+            "name": "Medaka Box",
+            "overview": "",
+            "poster_path": "/rXTIzdYwtlej1f01cN6C1JIYdlE.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2012-10-11",
+            "episode_count": 12,
+            "id": 54300,
+            "name": "Medaka Box Abnormal",
+            "overview": "",
+            "poster_path": "/86MKGioKJczHIoSRRUHLTtnwpkP.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 6
+}

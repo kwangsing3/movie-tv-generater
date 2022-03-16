@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/ojR7MmJ9prF5ws1RJMt0LZiDghQ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2008-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://kimiaru.jp/",
+    "id": 79044,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-03-30",
+    "last_episode_to_air": {
+        "air_date": "2008-03-30",
+        "episode_number": 13,
+        "id": 1477238,
+        "name": "Family",
+        "overview": "Shinra prepares for her concert and Ren tries alone to deal with his father. Ren and his father get into a fight and realizes who his true family is. At her performance, Shinra exposes her true style and true self. Ren and Mihato become part of the family. The family then starts fighting over who Ren is going to personally serve, by the way Ageha drops by and says she is going to join in on the fight.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "They Are My Noble Masters",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "君が主で執事が俺で",
+    "overview": "Uesugi Ren and his sister Mihato ran away from home because of domestic violence. When they at last reach the city they have a hard time finding work to earn some money. They eventually enter the service of the Kuonji family, making a pledge of absolute loyalty. Thus Ren's days of being a butler to the demanding Kuonji heir begins...",
+    "popularity": 3.499,
+    "poster_path": "/grGacfAwNtsqPfrhNwcx34q7ftx.jpg",
+    "production_companies": [
+        {
+            "id": 5451,
+            "logo_path": "/xeHQM5AsvHwo4Ublp4MetaEfsVf.png",
+            "name": "ACGT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-01-06",
+            "episode_count": 13,
+            "id": 102911,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8XcclNl7zwFdcUKjtXSAa5ly20z.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 3
+}

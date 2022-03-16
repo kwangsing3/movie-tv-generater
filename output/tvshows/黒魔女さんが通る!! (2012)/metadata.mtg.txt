@@ -1,0 +1,86 @@
+{
+    "adult": false,
+    "backdrop_path": "/2n3PKZuPekGI42bxPJyqtCqfGYM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        7
+    ],
+    "first_air_date": "2012-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 108871,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-04-04",
+    "last_episode_to_air": {
+        "air_date": "2012-04-04",
+        "episode_number": 1,
+        "id": 2413860,
+        "name": "",
+        "overview": "No description",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Here Comes the Black Witch!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK Educational TV",
+            "id": 622,
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "黒魔女さんが通る!!",
+    "overview": "Kurotori Chiyoko, a 5th-grader in elementary school, loves the occult. One day, a friend requests her to do a love fortune-telling. Chiyoko tries to summon Cupid, but thanks to a stuffy nose, accidentally summons a witch named Gyubid instead!\n\nFrom that day on, Chiyoko starts learning witchcraft from Gyubid, the self-proclaimed hottest instructor of the magic world. The training regimen is tough, and punishment for slacking is harsh. Fortunately, Chiyoko is able to keep her extra-curricular studies secret, aided by the fact that no one else can see Gyubid.",
+    "popularity": 0.6,
+    "poster_path": "/7qfLWb485w67RoXUGGswZ7ckJib.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-04-04",
+            "episode_count": 1,
+            "id": 161344,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

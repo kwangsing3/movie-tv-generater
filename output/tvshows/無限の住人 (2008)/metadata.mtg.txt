@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/lEkFtdExm58rxg5bNEo0whvVLhU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-07-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 34697,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-12-29",
+    "last_episode_to_air": {
+        "air_date": "2008-12-29",
+        "episode_number": 13,
+        "id": 790254,
+        "name": "Wind",
+        "overview": "The paths taken by all the surviving characters are shown. Rin abolishes her hesitations and trains with utter devotion. Meanwhile the tactics of the Mugai-ryū seem to have sealed Anotsu's fate.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/qgzllelAzVMWTZQx2J6BZQ2gOox.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Blade of the Immortal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無限の住人",
+    "overview": "Manji is a crass, violent samurai with a special ability: he cannot die. Cursed with immortality by the nun Yobikuni as punishment for his ruthless deeds, he has grown weary of his ageless life. The only way to lift the curse is to slay 1,000 evil men. So Manji wanders Japan, shedding the blood of the wicked on his quest to finally die.",
+    "popularity": 7.065,
+    "poster_path": "/ufo6y5FUdhUOXc97zZhpvmcQLRP.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2008-07-14",
+            "episode_count": 13,
+            "id": 45443,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wQv1BdakXdBevw2hFyT7dosRclk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 5
+}

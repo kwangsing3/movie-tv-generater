@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/cQkVDjs14A6AFUcts89T8GF4WAP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        17
+    ],
+    "first_air_date": "2015-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://kyojinchu.tv/",
+    "id": 63510,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-12-20",
+    "last_episode_to_air": {
+        "air_date": "2015-12-20",
+        "episode_number": 12,
+        "id": 1245086,
+        "name": "Attack! Titan Junior High School",
+        "overview": "Following the events of the 104th school festival, Eren vows to get their cheeseburgers back from the Titans, defying the teachers and heading to the Titans' building. Finally making their way to the principal's office, where they believe the cheeseburgers to be located, they find a gigantic key in the center of a small city. As the rest of the class fights to hold off the attacking Titans, Eren carries the key to the keyhole and unlocks it. Inside, they find themselves in what is revealed to be the principal's lunch box, as the Colossal Titan lifts the lid and takes the cheeseburger stand. Enraged, Eren attacks, but is swallowed along with the stand. As his classmates look on in horror, however, the Titan spits him back out, and Eren reveals that he managed to rescue one of the burgers. As the students celebrate their first victory against the Titans, Erwin tells the other faculty that with this victory, human students now have a chance for a happy school life.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/n2XsYnkxYIBMygY7poDfqUdi2Hk.jpg",
+        "vote_average": 8.3,
+        "vote_count": 3
+    },
+    "name": "Attack on Titan: Junior High",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "進撃！ 巨人中学校",
+    "overview": "The story follows Eren Yeager and Mikasa Ackerman entering Titan Jr. High, a school where humans and Titans study in the same area in coexistence. Because of a \"traumatic\" event, where the Colossal Titan ate his lunch back in middle school, Eren hates the Titans, and is constantly trying to find a way to rid the earth of their kind. Because of this, he has a hard time making friends, much to Mikasa's worry.",
+    "popularity": 87.983,
+    "poster_path": "/el6yFiXQxiPLZLCJsukAI9UTI6J.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-10-04",
+            "episode_count": 12,
+            "id": 69251,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/raE04drTJmjVUn7dzYkgkh82rsW.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 109
+}

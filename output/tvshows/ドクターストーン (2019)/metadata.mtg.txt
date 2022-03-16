@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/1Ep6YHL5QcrNC1JN6RYalWRPopi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-07-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://dr-stone.jp",
+    "id": 86031,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-25",
+    "last_episode_to_air": {
+        "air_date": "2021-03-25",
+        "episode_number": 11,
+        "id": 2659420,
+        "name": "Prologue of Dr. Stone",
+        "overview": "The Kingdom of Science is victorious, however it is not over for Senku. Senku must use all of his knowledge to cure Tsukasa who is severly injured.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/tutjWPr1ZBzfBOr3XTv79q8EPmx.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dr. Stone",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 35,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドクターストーン",
+    "overview": "One fateful day, all of humanity was petrified by a blinding flash of light. After several millennia, high schooler Taiju awakens and finds himself lost in a world of statues. However, he's not alone! His science-loving friend Senku's been up and running for a few months and he's got a grand plan in mind, to kickstart civilization with the power of science!",
+    "popularity": 20.98,
+    "poster_path": "/dLlnzbDCblBXcJqFLXyvN43NIwp.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71963,
+            "logo_path": "/8YTVwpqHtS42dlG6F2mZ8m5IDI4.png",
+            "name": "TOHO Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-21",
+            "episode_count": 2,
+            "id": 166462,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/A6cLp3XarZvI7I2Js06MUid1umc.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-07-06",
+            "episode_count": 24,
+            "id": 117113,
+            "name": "Season 1",
+            "overview": "3,700 years after a mysterious light turns every human on the planet into stone, genius boy Senku Ishigami emerges from his petrification into a \"Stone World\" and seeks to rebuild human civilization from the ground up.",
+            "poster_path": "/58EudfXv38HfupYBpfn8txOlZpO.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2021-01-15",
+            "episode_count": 11,
+            "id": 164875,
+            "name": "Stone Wars",
+            "overview": "",
+            "poster_path": "/a1gQ45ZJELpIpFwOmRC1763rrGb.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 1007
+}

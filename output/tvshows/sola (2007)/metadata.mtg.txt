@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/puVJTVVM2xCIFeIECsZP6c2Eecv.jpg",
+    "created_by": [
+        {
+            "id": 1241550,
+            "credit_id": "5258d7c0760ee3466170e98a",
+            "name": "Naoki Yanagi",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2007-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.sola-project.com/",
+    "id": 34214,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-06-29",
+    "last_episode_to_air": {
+        "air_date": "2007-06-29",
+        "episode_number": 13,
+        "id": 785679,
+        "name": "Sky",
+        "overview": "Matsuri tries to forcefully stab Aono with her sword, but Aono moves out of the way in time; she still manages to get a wound on her shoulder. While Aono runs away, Yorito is left with an arm missing and he slowly becomes weaker since Aono is losing her Yaka powers. Matsuri tells Yorito to not intervene and goes after Aono. During the fight, Matsuri loses her sword, and Aono takes it up to shove it into Matsuri, but Yorito, not listening to Matsuri's heeding words, intervenes and he is impaled on the sword. Yorito then disappears in a flurry of paper followed by Aono's shrill cries. Matsuri does not hesitate this time to stab Aono and after the sun rises, Matsuri also disappears, but Aono is now human. One year later Aono comes back, and no one but she herself remembers who she is, or any of the incidents that happened. Aono meets with Mana and Koyori and they become friends again.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rPQt4VX1RsBR3IdlALlExrzSzuR.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sola",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "sola",
+    "overview": "Sola is a Japanese work originally conceived by Naoki Hisaya with original character design by Naru Nanao. Sola is a mixed media project, first unveiled through the prologue of the manga featured in the Japanese manga magazine Dengeki Daioh on December 21, 2006, published by MediaWorks. The manga, which is illustrated by Chako Abeno, ended serialization on February 21, 2008. The manga has been licensed for distribution in North America by Broccoli Books with the first volume being released in June 2008. A short drama CD which also served as a prologue to the series was released at Comiket 71 in December 2006, and a second drama CD was released in May 2008. An anime version aired in Japan between April and June 2007; the anime contained thirteen episodes, and two additional DVD-exclusive episodes followed. The anime was licensed by Bandai Entertainment for distribution in North America in a subtitle-only box set of all fifteen episodes. The title, Sola, is close in pronunciation to the Japanese word sora. At the end of 2007, Japanese anime fans voted Sola as the best anime of the year.",
+    "popularity": 7.245,
+    "poster_path": "/uw66gNzEjIbqzA41w0Zk0QOzAfk.jpg",
+    "production_companies": [
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 2,
+            "id": 45087,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/pqrtA72Rx5yqrnheULLyYhTTKlK.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-04-07",
+            "episode_count": 13,
+            "id": 45086,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wT8HgEqzGwVMH9CCVdNUhj5AUQi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 5
+}

@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/a7zU79JLuSrr5qxJLnzrjykguM7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.rotte-omocha.com/",
+    "id": 42508,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-06-26",
+    "last_episode_to_air": {
+        "air_date": "2011-06-26",
+        "episode_number": 12,
+        "id": 880879,
+        "name": "An Asterisk Beyond the Sky",
+        "overview": "Astarotte and Naoya have their date at the amusement park where she finally manages to convey her feelings to him. The two promise to meet again while Mercelida pays a visit to Asuha. Some time after Naoya and Asuha return to the human realm, Ini makes use of Naoya's cellphone and the World Tree sapling at their house to establish communications with them, and the duo learns that the clover-shaped mark on Rotte's back was actually a bug bite and Judit gets some \"punishment\" for her mistake. Soon after Ini manages to stabilize the World Tree's magic to create a proper portal between the worlds, Naoya and Asuha use it to return to the monster realm and rejoin Lotte, whose growth marks finally appeared on her back.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xcBwS7dmY7U55bSyrFtRNBh8VAr.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Astarotte's Toy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "アスタロッテのおもちゃ！",
+    "overview": "While job hunting, Naoya is taken by a mysterious girl to a magical land where he is installed in the harem of the succubus Princess Lotte. Thanks to trauma from her childhood, Lotte hates men and surrounds herself with lots of other women, who all have quirks of their own. In spite of her selfishness, when Naoya learns that Lotte is really quite lonely he agrees to stay in her world...if he can bring his daughter Asuha with him.",
+    "popularity": 8.984,
+    "poster_path": "/fvRvDhGsSvQpGGcg6sVnxFa2O4N.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2011-09-07",
+            "episode_count": 3,
+            "id": 52234,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/z1M9YMuwiEMYWJFDqyTeFAchDoJ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-04-10",
+            "episode_count": 12,
+            "id": 52235,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rKBfnIluSrf2sy8kE7vUZQ414ui.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 17
+}

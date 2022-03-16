@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2006-12-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/wintergarden",
+    "id": 42825,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-12-24",
+    "last_episode_to_air": {
+        "air_date": "2006-12-24",
+        "episode_number": 2,
+        "id": 882703,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Di Gi Charat: Winter Garden",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ウィンターガーデン",
+    "overview": "Dejiko and Puchiko are all grown up! Instead of cooking up mischief, Dejiko now works at a local bakery, and Puchiko goes to school. Gone are the cat ears and the laser beam eyes, instead replaced by an everyday life that is nothing short of ordinary. But when Dejiko crosses paths with a handsome young man on Christmas Eve, will he bring the magic back to her mundane life? Or will the former alien princess miss her shot a true love?",
+    "popularity": 1.279,
+    "poster_path": "/n228mQO4UuI6BoQKethD21DBCAt.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-12-23",
+            "episode_count": 2,
+            "id": 52364,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 5,
+    "vote_count": 1
+}

@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/puEtwq9tcx0VcNxIdiwz7Q97Yn1.jpg",
+    "created_by": [
+        {
+            "id": 2628311,
+            "credit_id": "5f972a22a6725400391120ac",
+            "name": "Minami Otori",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-09-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.productionig.com/contents/works_sp/05_/index.html",
+    "id": 35184,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-02-26",
+    "last_episode_to_air": {
+        "air_date": "2005-02-26",
+        "episode_number": 13,
+        "id": 798512,
+        "name": "Yukio Again",
+        "overview": "Suddenly one day, Nao and Miki loose control of their abilities as wind handlers. The wind suddenly starts to blow harsher and they begin to feel euphoric. When finally the woman doctor in the nurse's office starts to create wind, the reason becomes apparent.\n\nIt was Mr. Taiki's older sister-in-law, Yukio. She had arrived in town. She says she was just on her way back from her friend's wedding. What could be the real reason for her arrival?\n\nAnd the time that Nao and Miki become adults is definitely coming closer.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Windy Tales",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "NHK BS1",
+            "id": 219,
+            "logo_path": "/8fr5rRhr3avyMYDDl4b3ePardYc.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "NHK BS2",
+            "id": 2026,
+            "logo_path": "/eMVZPvSxfpFUxzzqzbYIYgE9uJK.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Family Gekijo",
+            "id": 2905,
+            "logo_path": "/uYiTfGXmZnCzGNCB59QcaZmnffT.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "風人物語",
+    "overview": "While hanging out on the roof of her school, Nao Ueshima discovers a flock of flying cats. In her haste to snap a picture, Nao tumbles over the side of the building. But instead of plummeting to her doom, Nao is guided by an unseen force that allows her to land safely on her feet. Determined to unlock the secrets of the flying cats and the identity of her rescuer, Nao soon learns that not only is one of her teachers able to control the wind, but he can also teach others to control it, too!",
+    "popularity": 5.033,
+    "poster_path": "/67BALqq9CEg0WDVsXjw1nTnItqd.jpg",
+    "production_companies": [
+        {
+            "id": 529,
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-09-11",
+            "episode_count": 13,
+            "id": 45951,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eGI0CaZx9YZZkA4HLn6r8yWJ4Vw.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 2
+}

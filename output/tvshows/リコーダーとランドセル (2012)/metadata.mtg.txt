@@ -1,0 +1,147 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1406853,
+            "credit_id": "60a347eff9183a00585b0af2",
+            "name": "Hiroshi Kimura",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 2357216,
+            "credit_id": "60a348027314a10078fcd37b",
+            "name": "Itsuki Imazaki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2012-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.takeshobo.co.jp/sp/tv_rikoran",
+    "id": 52873,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-10-07",
+    "last_episode_to_air": {
+        "air_date": "2013-10-07",
+        "episode_number": 11,
+        "id": 2915578,
+        "name": "Everyone and Summer Vacation - PM",
+        "overview": "Something good always happens in the wake of something bad? Don't assume summer vacation will last forever.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/blwOT7X25sOpeeaIycPQZEzzqIR.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Recorder and Randsell",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "リコーダーとランドセル",
+    "overview": "On the surface it seems as if Atsushi is an adult, but really he's just an elementary student! However, he is paired with a second-year high school student Atsumi, whose height is just the opposite of his. These two together create an unusual relationship and will undoubtedly instigate some comedic antics in this slice of life comedy!",
+    "popularity": 7.383,
+    "poster_path": "/3N78xAszaBfwteZqGtLxRhK2iim.jpg",
+    "production_companies": [
+        {
+            "id": 92966,
+            "logo_path": "/9zBMa5LyxHKyatDLHJGal7jetHR.png",
+            "name": "Seven",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-07-17",
+            "episode_count": 2,
+            "id": 56112,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-01-06",
+            "episode_count": 13,
+            "id": 56113,
+            "name": "Recorder and Randsell Do",
+            "overview": "",
+            "poster_path": "/6DqcpRg5HdC87lq1s5GyNIvtjWG.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2012-04-04",
+            "episode_count": 13,
+            "id": 56114,
+            "name": "Recorder and Randsell Re",
+            "overview": "",
+            "poster_path": "/fWWNh3Wp7V6a4AN0zV1xr9Gtq4F.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2013-07-01",
+            "episode_count": 13,
+            "id": 56115,
+            "name": "Recorder and Randsell Mi",
+            "overview": "",
+            "poster_path": "/wmsnfNyNTgmHeZvFNcFj3e4SwIM.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3,
+    "vote_count": 2
+}

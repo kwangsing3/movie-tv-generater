@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/y8DX7y9vvUcc0uKYd7USO9QkTg6.jpg",
+    "created_by": [
+        {
+            "id": 589648,
+            "credit_id": "5ef1a0962e2b2c0036743060",
+            "name": "Nobutaka Nishizawa",
+            "gender": 2,
+            "profile_path": "/6RZXWWjmwLRDEGLxZLR20aM5xPB.jpg"
+        },
+        {
+            "id": 1898633,
+            "credit_id": "5ef1a070d11e0e0036ae7986",
+            "name": "Takehiko Inoue",
+            "gender": 2,
+            "profile_path": "/omtKRZenowcgI4azZSWuATShj5G.jpg"
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "1993-10-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 42573,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-03-23",
+    "last_episode_to_air": {
+        "air_date": "1996-03-23",
+        "episode_number": 101,
+        "id": 881569,
+        "name": "SLAM DUNK!",
+        "overview": "The battle between the combo team and Shohoku has reached its climax, and the one deciding its conclusion is Sakuragi with a Slam Dunk. Though Shohoku has more important things to look forward to, such as the Inter High Tournament.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/o4rnQI85QOP2LMRJAaNvEQRBKnV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Slam Dunk",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 101,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スラムダンク",
+    "overview": "Sakuragi Hanamichi is a junior high punk used to getting into fights and being rejected by girls but upon entering high school he meets the girl of his dreams, Haruko Akagi. He will do anything in order to win her heart including joining the school basketball team that is aiming to conquer the nation lead by Haruko's brother. The problem is that Sakuragi has never played basketball before and a freshman sensation is stealing the spotlight and Haruko's affection from him.",
+    "popularity": 62.55,
+    "poster_path": "/nHJLXhna27FMUqRLhO2TXFgdH3X.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-01-01",
+            "episode_count": 5,
+            "id": 52280,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/mpcxelyVRNc3r6Cc5geLywbybli.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1993-10-16",
+            "episode_count": 101,
+            "id": 52281,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tzpJ16ybIVfXYjPhjelXnnyZwo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 633
+}

@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/jm8fUh70x9WUIg7tMGMTHEmLhI4.jpg",
+    "created_by": [
+        {
+            "id": 1902036,
+            "credit_id": "59d948e6c3a368620d02972f",
+            "name": "Syun Matsuena",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-10-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/kenichi/",
+    "id": 37585,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-09-29",
+    "last_episode_to_air": {
+        "air_date": "2007-09-29",
+        "episode_number": 50,
+        "id": 850168,
+        "name": "The Mightiest Disciple, Kenichi!",
+        "overview": "Cornered by Kenichi's unexpected reaction, Ryuto utilizes a dangerous technique to rise up his power beyond his body's limits, and the reason for his grudge on him is revealed. As their fight comes close to a conclusion, Kenichi continues determined to win, not only for his own sake, but for his childhood friend's too.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gQbn5Z8NsdXRTuqvmKCl2YwEWcp.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kenichi: The Mightiest Disciple",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "史上最強の弟子ケンイチ",
+    "overview": "Yeah, Kenichi’s a total wimp. He’s always getting picked on and doesn’t have a lot of friends to stick up for him. The guy needs motivation if he hopes to graduate in one piece. Well, Miu’s the perfect motivation. She’s hot, she accepts him, and she just so happens to live at a dojo with six martial arts masters. You could say fate has led Kenichi to their door, or you could say he was just following the hottie. Either way, he’s about to get whipped into serious shape. If he can survive some hard-core training, he might survive another day at school. He might even score with Miu. Yeah, you could call Kenichi a wimp. But let’s go with underdog instead.",
+    "popularity": 49.114,
+    "poster_path": "/pLzfW5xWN9sOId6C6vgcv8otnN7.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-03-16",
+            "episode_count": 15,
+            "id": 48972,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/cmx58tb46UJRUZTjzTAjIhRnR6r.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-10-07",
+            "episode_count": 50,
+            "id": 48971,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ht5vrzpi95w5rw0wE9kqdRilaRY.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "From Wimp To Warrior. Sort of.",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 372
+}

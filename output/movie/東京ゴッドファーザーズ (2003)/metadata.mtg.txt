@@ -1,0 +1,70 @@
+{
+    "adult": false,
+    "backdrop_path": "/78F8cn6EXum1zpukF3HTNI8W0EA.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.sonypictures.com/movies/tokyogodfathers",
+    "id": 13398,
+    "imdb_id": "tt0388473",
+    "original_language": "ja",
+    "original_title": "東京ゴッドファーザーズ",
+    "overview": "During a Christmas Eve in Tokyo, three homeless people, middle-aged alcoholic Gin, former drag queen Hana, and dependent runaway girl Miyuki, discover an abandoned newborn while looking through the garbage. With only a handful of clues to the baby's identity, the three misfits search the city to find its parents.",
+    "popularity": 21.539,
+    "poster_path": "/ukhvxpVcBsb1MpRRwiqEIwyKdUX.jpg",
+    "production_companies": [
+        {
+            "id": 24035,
+            "logo_path": null,
+            "name": "Tokyo Godfathers Production Committee",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2003-12-29",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Meet the ultimate dysfunctional family.",
+    "title": "Tokyo Godfathers",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 785
+}

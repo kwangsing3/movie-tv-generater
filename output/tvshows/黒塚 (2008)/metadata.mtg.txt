@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/wTI3uar4cpVL36BAgCE25ouUlls.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 34861,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-12-23",
+    "last_episode_to_air": {
+        "air_date": "2008-12-23",
+        "episode_number": 12,
+        "id": 794827,
+        "name": "The Black Tomb",
+        "overview": "Kuro confronts the Red Emperor, who is revealed to be Benkei, and kills him. Kuromitsu beheads Kuro and places his head on a new body. Kuro awakens in the forest, having lost his memory, and begins again his search for Kuromitsu.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kurozuka",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "黒塚",
+    "overview": "In feudal Japan, Kurou and his servant Benkei are fleeing from Kurou's elder brother, who has recently ascended to the throne. In a forest, they come across a house and a strange woman by the name of Kuromitsu, who agrees to harbor them under one condition: that they do not peer into the inner chambers. Soon, they are attacked by the Red Army; they are searching for Kuromitsu, whose blood holds immortality. Fatally wounded, Kurou drinks some of Kuromitsu's blood and gains immortality along with strange abilities; but shortly after, Kurou is seemingly decapitated and wakes up centuries later in a ruined city. In this twisted future the Red Army is omnipresent and still searching for Kuromitsu’s blood, while a rebel army seeks to keep them from acquiring it. With threats at every turn and fueled by his obsession, Kurou sets forth to find Kuromitsu and seek his revenge on the Red Army.",
+    "popularity": 8.595,
+    "poster_path": "/hez6h5LZxedDfzHHPu3iqj2Gm82.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-10-07",
+            "episode_count": 12,
+            "id": 45679,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qjOQP2d0cjqzrobrt0BpZOh4J1x.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 3
+}

@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/kX5ZDHA0t8KmdZ3umNfZP6RBCff.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2020-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.pref.kumamoto.jp/kiji_29913.html",
+    "id": 95559,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-24",
+    "last_episode_to_air": {
+        "air_date": "2020-03-24",
+        "episode_number": 12,
+        "id": 1987890,
+        "name": "Path",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6iBGl1q119zRwWHIiMArnz0R548.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Natsunagu!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Kumamoto Broadcasting",
+            "id": 3468,
+            "logo_path": null,
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "なつなぐ！",
+    "overview": "Natsuna Kunugi, a university student in Tokyo, visits Kumamoto in search of friends who she could not contact following the Kumamoto earthquakes. There, she meets local people who are full of compassion and uniqueness, including the energetic junior high school student, Izumi. A heartfelt coming-of-age story begins.",
+    "popularity": 6.464,
+    "poster_path": "/oit7fDhDcMArQ8BdFhmtiNCGmQa.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-07",
+            "episode_count": 12,
+            "id": 136022,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2XrGmsjlBiMLtjglwvTc6bpLexa.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.2,
+    "vote_count": 6
+}

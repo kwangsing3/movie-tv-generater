@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/6e3Hi3CXWRUK81iqkorlAAHLOtg.jpg",
+    "created_by": [
+        {
+            "id": 1378883,
+            "credit_id": "61e967b8ea37e0009e7dd4b6",
+            "name": "Tsutomu Nihei",
+            "gender": 2,
+            "profile_path": "/tPl4uhRdD9IdC0xmzYCIUOhilU.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://ooyukiumi.net",
+    "id": 156013,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "大雪海のカイナ",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "大雪海のカイナ",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/74yR6kkFEGAdIwdfJw2XlUCxAjt.jpg",
+    "production_companies": [
+        {
+            "id": 20024,
+            "logo_path": "/fLc5F7K5zsXsSNSFFsbKrZXAga7.png",
+            "name": "Polygon Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 240832,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/74yR6kkFEGAdIwdfJw2XlUCxAjt.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

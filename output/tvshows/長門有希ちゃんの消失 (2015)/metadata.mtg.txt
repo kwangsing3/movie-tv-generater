@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/3sulOZRzXnX4eP6GpG6w97shDt3.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.yukichan-anime.com/",
+    "id": 68574,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-07-18",
+    "last_episode_to_air": {
+        "air_date": "2015-07-18",
+        "episode_number": 16,
+        "id": 1237601,
+        "name": "Fireworks",
+        "overview": "The summer is almost over. Ever since the other Yuki disappeared, Kyon has been acting strange around Yuki. When he realizes that it’s not just him who’s feeling awkward and that he’s making Yuki suffer, he decides to do something about it.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rRQuAGZPzmXccQoZQREVY0PrfSD.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "The Disappearance of Nagato Yuki-chan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "長門有希ちゃんの消失",
+    "overview": "In an alternate universe, shy, awkward Yuki Nagato attempts to court her crush, Kyon, with the help of her best friend and neighbor, the perky and indomitable Ryoko Asakura. Together, the trio defends their high school literature club from extermination…and from the pestering of their over-the-top classmate Tsuruya and her friend and minion Mikuru.",
+    "popularity": 14.574,
+    "poster_path": "/1usg5ElzRxorATTr5ImYBj6fj3D.jpg",
+    "production_companies": [
+        {
+            "id": 30293,
+            "logo_path": null,
+            "name": "SATELIGHT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-10-26",
+            "episode_count": 1,
+            "id": 151636,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-04-04",
+            "episode_count": 16,
+            "id": 81750,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8F4YxAESCJWgF44J93gMtJ8DCPX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 55
+}

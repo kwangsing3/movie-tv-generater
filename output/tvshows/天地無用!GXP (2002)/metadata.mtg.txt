@@ -1,0 +1,83 @@
+{
+    "adult": false,
+    "backdrop_path": "/9tfG0WM9azqdOlJEu46DwONA1Ba.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2002-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 42881,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-09-25",
+    "last_episode_to_air": {
+        "air_date": "2002-09-25",
+        "episode_number": 26,
+        "id": 883160,
+        "name": "Final Engagement",
+        "overview": "Following the revelations about Seina's position and the girls' feelings for him, it is decided that he should marry all four of them (for purely political reasons, of course...)! However, there are a number of parties that want to interrupt the wedding for one reason or another. Will Seina even make it to the altar unscathed?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tenchi Muyo! GXP",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "天地無用!GXP",
+    "overview": "Seina is unlucky, so unlucky that when he stumbles upon a  recruiter looking for his senpai Tenchi he gets taken instead. Forced  into the Galaxy police, his luck begins to change. A natural to randomly  jumping near pirates, he is assigned his own decoy to draw out pirates.  His luck brings him into the lives of four women who have a habit of  cancelling out his bad luck, turning it into good. Armed with this luck,  they pilot the most powerful ships in the Tenchi Universe to defeat the  Barta pirates. Now the only uncertainty is whether the sexy Kaunaq, a  former model turned GXP officer, sturdy Kiriko, who has known Seina for  years, the mysterious Ryoko, a former pirate named after the legendary  one, or the childish Neiju, a powerful witch, will win Seina.",
+    "popularity": 13.061,
+    "poster_path": "/bOvUNvTnASUNM8SjZAEorNZ5nwi.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2002-04-03",
+            "episode_count": 26,
+            "id": 52395,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 5
+}

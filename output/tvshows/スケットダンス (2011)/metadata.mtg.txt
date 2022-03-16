@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/2YfvI7EixiVDylMcj2FxuXIlpu2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://sketdance.jp/",
+    "id": 42419,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-27",
+    "last_episode_to_air": {
+        "air_date": "2012-09-27",
+        "episode_number": 77,
+        "id": 2337909,
+        "name": "The Campus SKET (Then)",
+        "overview": "While Bossun and the Sket Dance are helping the basketball team due to Jogasaki's little accident, Saaya works up the courage to confess to Bossun. Meanwhile, Sojiro thinks Saaya is still in love with Tsubaki.\n\nCan Bossun and the gang help the basketball team and what will happen between Saaya's undying love and Bossun?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Sket Dance",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 103,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "スケットダンス",
+    "overview": "Sket Dance is a manga series written and illustrated by Kenta Shinohara and serialized, beginning in July 2007, in Shueisha's manga magazine Weekly Shōnen Jump. Sket Dance won the 55th annual Shogakukan Manga Award in 2009 for best shōnen manga. An anime adaptation, produced by Tatsunoko, premiered on April 7, 2011 on TV Tokyo.",
+    "popularity": 16.589,
+    "poster_path": "/wYMBMX3s6X3aCTifAIrLRxR5A3f.jpg",
+    "production_companies": [
+        {
+            "id": 86740,
+            "logo_path": null,
+            "name": "Studio Tulip",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-02-04",
+            "episode_count": 1,
+            "id": 52168,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-04-07",
+            "episode_count": 77,
+            "id": 52169,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/183K2UxHoN2YJXlBCIOWj63pm6X.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2012-04-05",
+            "episode_count": 26,
+            "id": 52170,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/yFIeGQQbDtucy2eOwzagusw2bzB.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 3
+}

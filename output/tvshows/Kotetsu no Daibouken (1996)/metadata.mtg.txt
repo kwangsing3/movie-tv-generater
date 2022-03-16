@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1996-12-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 138126,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1997-01-10",
+    "last_episode_to_air": {
+        "air_date": "1997-01-10",
+        "episode_number": 2,
+        "id": 3326765,
+        "name": "Volume 2",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Adventures of Kotetsu",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "Kotetsu no Daibouken",
+    "overview": "While walking through the streets of Tokyo, Linn Suzuki comes across a strange device sticking up from the sidewalk. Suddenly, she is set upon by thugs and is helped by a beautiful stranger who takes them all down. It seems young Linn has fled Deep Kyoto from her cruel mistress and has traveled to Edo where she hopes to find her long lost brother, who was last seen working for the Kuon Detective Agency. By chance, this stranger happens to be Miho Kuon and lets Linn stay with her (nicknaming her Kotetsu, or Little Tetsu after her brother, Tetsujin). However, a mysterious agency called the Syndicate are after Miho and Linn is now in the thick of things.",
+    "popularity": 1.341,
+    "poster_path": "/u0tqOISHOzI99foMzPo4IgAj5Db.jpg",
+    "production_companies": [
+        {
+            "id": 880,
+            "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
+            "name": "Daiei Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 54951,
+            "logo_path": null,
+            "name": "Palm Tree",
+            "origin_country": ""
+        },
+        {
+            "id": 54952,
+            "logo_path": null,
+            "name": "Project Team Sara",
+            "origin_country": ""
+        },
+        {
+            "id": 17985,
+            "logo_path": null,
+            "name": "Wani Books",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1996-12-13",
+            "episode_count": 2,
+            "id": 218681,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/4peiJ4ve1GJulLAt1IA9y0XymN5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://anime.assaultlily-pj.com",
+    "id": 94541,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-12-25",
+    "last_episode_to_air": {
+        "air_date": "2020-12-25",
+        "episode_number": 12,
+        "id": 2544331,
+        "name": "Bouquet: Flower Language",
+        "overview": "The most powerful Huge yet is attacking Yurigaoka, and Riri is the only one left who can fight! Can Yuyu overcome her past in time to join her? And what can the other Lilies do against an enemy that disables their weapons?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fCAUXrHfi4eHpUP5RIYZ8QMB20C.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "Assault Lily: BOUQUET",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アサルトリリィ BOUQUET",
+    "overview": "On Earth in the near future, humanity faced imminent destruction from mysterious giant creatures known as \"Huge.\" The entire world unites against the Huge, and successfully develops weaponry known as \"CHARM\" (Counter Huge Arms) by combining science and magic. CHARM exhibits high rates of synchronization with teenaged girls, and the girls who use CHARM are viewed as heroes called \"Lilies.\" Throughout the world, \"Garden\" military academies are established to train Lilies to face the Huge and to serve as bases to protect and guide people.\n\nRiri Hitotsuyanagi managed to pass the exam to enter the prestigious Garden known as Yurigaoka Girls' School. She entered in an attempt to find Yuyu Shirai, a girl who rescued her in her past. This is a story about Riri and other girls who aim to become Lilies at one such Garden.",
+    "popularity": 16.882,
+    "poster_path": "/iXLZtzmxRPMMYyNtSOysGWLEmd1.jpg",
+    "production_companies": [
+        {
+            "id": 6689,
+            "logo_path": "/l96PFbGQ8kUs030SrkYdK4LQklE.png",
+            "name": "SHAFT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-06",
+            "episode_count": 1,
+            "id": 214120,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/jho4HHxSweV2VrSnutMZUsvvSm5.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-10-02",
+            "episode_count": 12,
+            "id": 134069,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bpUkMqQ5bbMiBipwrYpbg33kAQC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 36
+}

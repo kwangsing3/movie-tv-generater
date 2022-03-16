@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/7zcbTjrxMhftRC5YkPPjPoQQ3mb.jpg",
+    "created_by": [
+        {
+            "id": 1350084,
+            "credit_id": "5ab7aa3b0e0a261fe501c4b1",
+            "name": "Yasunao Aoki",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2004-10-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.yakitate-japan.com/",
+    "id": 46350,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-03-14",
+    "last_episode_to_air": {
+        "air_date": "2006-03-14",
+        "episode_number": 69,
+        "id": 2303275,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Yakitate!! Japan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Setouchi",
+            "id": 2064,
+            "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Hokkaido",
+            "id": 3202,
+            "logo_path": "/g1jerEP7O2rIYd83AaLKXeZlbpI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 69,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "焼きたて!!ジャぱん",
+    "overview": "Azuma Kazuma isn't terribly clever, but he's got a good heart and  great skill - at baking. Since childhood, he's been on a quest to create  the perfect bread to represent Japan internationally. Now, he seeks to  enter the famous bakery Pantasia, in hopes of reaching his goal. But  plots abound...",
+    "popularity": 16.099,
+    "poster_path": "/LutrAkS7kyQ4MkDYaHLLrrWRIF.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-10-12",
+            "episode_count": 69,
+            "id": 54635,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 7
+}

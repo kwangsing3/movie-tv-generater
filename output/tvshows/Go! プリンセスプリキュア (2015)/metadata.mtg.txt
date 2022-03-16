@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/hTnLthO4sxUWP8QgdJy7d011KOq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-02-01",
+    "genres": [
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/princess_precure/",
+    "id": 62569,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-01-31",
+    "last_episode_to_air": {
+        "air_date": "2016-01-31",
+        "episode_number": 50,
+        "id": 1229919,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Go! Princess PreCure",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Go! プリンセスプリキュア",
+    "overview": "Go! Princess PreCure is set in a boarding junior high school, named Noble Gakuen (Noble Academy). The protagonist Haruka Haruno is a 13-year-old first year student. Her big dream is to be a princess someday, because she has admired a princess in the picture book she has kept since her childhood. One day she transforms into Cure Flora with \"Dress Up Key\" which Prince Kanata of Hope Kingdom gave her as a good luck charm when she was little. Then she also finds other PreCure girls in her school, 14-year-old Minami Kaidou as Cure Mermaid and 13-year-old Kirara Amanogawa as Cure Twinkle. As the Princess PreCure team, with two fairies Pafu and Aroma, they decide to fight against dark witch Disupia (or Despair) who hates all the dreams in the world and wants to turn them to despair.",
+    "popularity": 4.757,
+    "poster_path": "/hjbDINi2GZ86kdFeUn7u2twNcat.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-02-01",
+            "episode_count": 50,
+            "id": 66359,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 3
+}

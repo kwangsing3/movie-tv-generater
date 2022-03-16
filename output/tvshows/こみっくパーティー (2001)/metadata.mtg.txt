@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": "/2OJHvyaLknEW0xUJRhCRdPY6KnZ.jpg",
+    "created_by": [
+        {
+            "id": 1845376,
+            "credit_id": "5aad71fb92514116ae017142",
+            "name": "Norihiko Sudo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2001-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 25099,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-06-27",
+    "last_episode_to_air": {
+        "air_date": "2005-06-27",
+        "episode_number": 13,
+        "id": 650768,
+        "name": "As Time Goes By",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/4v8ekhGnT5zWV4a9N16WVFvkTqV.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Comic Party",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "こみっくパーティー",
+    "overview": "Kazuki, a Japanese high school student, is dragged into the world  of fan comics along with his friend Mizuki by the scheming Taishi.  Taishi soon convinces Kazuki to draw his own fan comic, but Mizuki, who  hates the large crowds and long lines of comic book conventions,  fiercely opposes the idea. As Kazuki's obsession with finishing his  comic in time for the next convention threatens his schoolwork and his  relationships, he becomes estranged from Mizuki.",
+    "popularity": 7.594,
+    "poster_path": "/niLH54PduHk2h7Xcva3acwFfU4i.jpg",
+    "production_companies": [
+        {
+            "id": 3560,
+            "logo_path": "/yOsrKcVSpC9ofAkE6hJjvC8sW9u.png",
+            "name": "KSS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5372,
+            "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+            "name": "OLM",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 5,
+            "id": 35327,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2001-04-02",
+            "episode_count": 13,
+            "id": 35326,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "2003-12-22",
+            "episode_count": 13,
+            "id": 35328,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/efgkpmDTOSBWJkD3DdqwqfhjURT.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

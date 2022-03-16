@@ -1,0 +1,81 @@
+{
+    "adult": false,
+    "backdrop_path": "/ehZJLjjiDUAfV2grSWiyMVPBXjN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/kabukibu/",
+    "id": 71009,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-09-27",
+    "last_episode_to_air": {
+        "air_date": "2017-09-27",
+        "episode_number": 13,
+        "id": 3076404,
+        "name": "Specials - Epilogue: Chocolate Wars",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xarSMrQ8yEij0etUw71gAsZNbGB.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kabukibu!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "カブキブ！",
+    "overview": "",
+    "popularity": 0.63,
+    "poster_path": "/1PEmwQew79gbcSitRY3OCpeFZAU.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2017-04-07",
+            "episode_count": 13,
+            "id": 86828,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aaQkUr9IXUjhvWYJkRMf2GeJ4Xx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        10
+    ],
+    "first_air_date": "2020-06-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://www.pokemon.co.jp/ex/poketoon/",
+    "id": 104518,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-28",
+    "last_episode_to_air": {
+        "air_date": "2021-12-28",
+        "episode_number": 8,
+        "id": 3413272,
+        "name": "Jigglypuff's Song",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3iTESR413dxaJnQdRI13DRLLNx8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pokétoon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YouTube",
+            "id": 247,
+            "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Pokétoon",
+    "overview": "Animations released on Pokémon Kids TV Japan YouTube channel.",
+    "popularity": 14.829,
+    "poster_path": "/hGH2EPhQ29Rzb9WZawwLzAcJaJC.jpg",
+    "production_companies": [
+        {
+            "id": 20556,
+            "logo_path": "/vtDnd97vIv35YpJzQ5k2H4LP0uv.png",
+            "name": "Studio Colorido",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12654,
+            "logo_path": "/sFftxQv68oHFEX1GUsnsgsP8IQf.png",
+            "name": "The Pokémon Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-06-05",
+            "episode_count": 8,
+            "id": 152971,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5d1DkiDfvRgt7mE8I9WNJ13qWtr.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1
+}

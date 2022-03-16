@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/faicWAPegyjGTf4o0wHrb6tQLFg.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-01-16",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://inarikonkon.jp/",
+    "id": 67143,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-20",
+    "last_episode_to_air": {
+        "air_date": "2014-03-20",
+        "episode_number": 10,
+        "id": 1207131,
+        "name": "Inari, Konkon, ABCs of Love",
+        "overview": "Pushing herself to her very limits in her attempts to free Uka from her heavenly prison, Inari struggles to overcome her feelings of betrayal and do the right thing--not necessarily the easiest or the most convenient--for both of them.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7KuYgtpsZIzWjdhiAwnMNqgekMB.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Inari Kon Kon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "いなり、こんこん、恋いろは。",
+    "overview": "Fushimi Inari is a shy, not-so-bright middle school girl living in Kyoto's Fushimi ward. She has a crush on her classmate Tanbabashi, but cannot express her feelings. One day, as thanks for helping a fox pup, the deity Uka no Mitama no Kami grants her the ability to change her form.",
+    "popularity": 10.876,
+    "poster_path": "/9kloAe3nAy7BbXAKOv30vKDhyDZ.jpg",
+    "production_companies": [
+        {
+            "id": 65500,
+            "logo_path": null,
+            "name": "Production IMS",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-06-26",
+            "episode_count": 1,
+            "id": 78831,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/gTlPUc8xLHHHdG4YBOIQtQKL0wS.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-01-16",
+            "episode_count": 10,
+            "id": 78571,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4PRetgOG7gbuMvK6NjASXFEICCL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 5
+}

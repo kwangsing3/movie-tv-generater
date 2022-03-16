@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/96FgOxpNIObrbP7fmccztNpeKJB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2006-04-01",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.gakuenheaven.jp/",
+    "id": 8799,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-06-24",
+    "last_episode_to_air": {
+        "air_date": "2006-06-24",
+        "episode_number": 13,
+        "id": 399928,
+        "name": "Promise",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gakuen Heaven",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "学園ヘヴン",
+    "overview": "Gakuen Heaven is a media franchise originating from the PC game Gakuen Heaven: Boy's Love Scramble, originally released by the company SPRAY. The franchise gradually expanded to include more games, drama CDs, manga, and anime.",
+    "popularity": 9.32,
+    "poster_path": "/yb4S7Z2XoKZ15ikgueqw3ljCU4a.jpg",
+    "production_companies": [
+        {
+            "id": 78440,
+            "logo_path": null,
+            "name": "Tokyo Kids",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-04-01",
+            "episode_count": 13,
+            "id": 18666,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 5
+}

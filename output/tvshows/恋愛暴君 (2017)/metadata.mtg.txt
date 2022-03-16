@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/aGOlHlWsylqnhaRm6nerosmD0g7.jpg",
+    "created_by": [
+        {
+            "id": 1695704,
+            "credit_id": "58e7d6eac3a368731a05759e",
+            "name": "Atsushi Nigorikawa",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 3066508,
+            "credit_id": "6084e422f92532007c56f42b",
+            "name": "Megane Mihoshi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://renaiboukun.com/",
+    "id": 70883,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-06-22",
+    "last_episode_to_air": {
+        "air_date": "2017-06-22",
+        "episode_number": 12,
+        "id": 1331150,
+        "name": "Right, Let's All Die! x I Finally Understand",
+        "overview": "Gris to demonize, disagreement to Akane and yuzu. Seiji searches for Guri and goes to heaven!  The secret of Guri revealed there. With the addition of the speculation of the illicium and the Demon King, the stage moves to hell, but  there is a black company! ??\n\nCan Aoji and his friends save Guri?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/n0UjaluOsuuGYfqCEqhzkF7YgXr.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Love Tyrant",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS Japan",
+            "id": 1198,
+            "logo_path": null,
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "恋愛暴君",
+    "overview": "A Kiss Note is a powerful notebook that makes anyone who has their name written together will instantly fall in love if they kiss each other regardless of any circumstances. This magical and very familiar item belongs to an angel named Guri whose job as cupid is to create couples. However, she accidentally writes down Aino Seiji, a regular high school student, and unless he kisses someone, Guri will die. She convinces Seiji to go kiss his crush, Hiyama Akane, the school's popular girl who turns out has even stronger feelings for him, bordering on obsessive and psychotic. Eventually Akane and Seiji come together but not before Guri decides that she likes Seiji as well. What seems awesome to most guys becomes hell for Seiji who just wants a normal relationship with girls.",
+    "popularity": 14.709,
+    "poster_path": "/cgIoscnDeI0FZ2w360KmKEle4Rg.jpg",
+    "production_companies": [
+        {
+            "id": 72366,
+            "logo_path": null,
+            "name": "EMT²",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-04-07",
+            "episode_count": 12,
+            "id": 86522,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xW8vALlLNeW6ZEBWJLMdDIuY3MU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 21
+}

@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/kWA9LYpRVA1UQTDC1kQeFNJmp1Q.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2010-02-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/tv/hc_precure/",
+    "id": 42981,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-01-30",
+    "last_episode_to_air": {
+        "air_date": "2011-01-30",
+        "episode_number": 49,
+        "id": 884264,
+        "name": "Everyone's Heart as One! I'm the Strongest Precure!!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "HeartCatch PreCure!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハートキャッチプリキュア!",
+    "overview": "The seventh Pretty Cure installment.",
+    "popularity": 17.83,
+    "poster_path": "/ifzvO12NxM3pAXD0lXzm3NYm29x.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2010-02-07",
+            "episode_count": 49,
+            "id": 52462,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ifzvO12NxM3pAXD0lXzm3NYm29x.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9.8,
+    "vote_count": 4
+}

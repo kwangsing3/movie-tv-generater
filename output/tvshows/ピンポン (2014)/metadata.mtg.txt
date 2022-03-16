@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/1rEPk87q49PspQmBJ74bwsXBVkH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2014-04-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.pingpong-anime.tv/",
+    "id": 60811,
+    "in_production": false,
+    "languages": [
+        "zh",
+        "ja"
+    ],
+    "last_air_date": "2014-06-20",
+    "last_episode_to_air": {
+        "air_date": "2014-06-20",
+        "episode_number": 11,
+        "id": 1019406,
+        "name": "Blood Tastes Like Iron",
+        "overview": "The final match is on.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ceyZYADVoYYHNq3F4hMPazZObnW.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Ping Pong the Animation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ピンポン",
+    "overview": "Teenage boys Peco and Smile grew up playing table tennis together and now face grueling competition, forcing them to grow as both athletes and men.",
+    "popularity": 13.64,
+    "poster_path": "/frgVn3ww547TVQH8vS2bWKZnEBu.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-04-11",
+            "episode_count": 11,
+            "id": 60793,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ndW9AqgTTBunYun5Qgjo06caKzg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Enter the hero! Enter the hero! Enter the hero!",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 50
+}

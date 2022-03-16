@@ -1,0 +1,59 @@
+{
+    "adult": false,
+    "backdrop_path": "/mJc4c2eN1bwRhNZfjDKukzNerYx.jpg",
+    "belongs_to_collection": {
+        "id": 148065,
+        "name": "Doraemon Collection",
+        "poster_path": "/4TLSP1KD1uAlp2q1rTrc6SFlktX.jpg",
+        "backdrop_path": "/rc6OFcSasL5YxBRPUQVwxmVF6h5.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 98613,
+    "imdb_id": "tt0473474",
+    "original_language": "ja",
+    "original_title": "ドラえもん のび太とふしぎ風使い",
+    "overview": "One day, Nobita runs into a creature-like ball of wind, which came from a faraway land, but blew into their neighbourhood following the recent typhoon that went through the area. Nobita names it Fuuko. Eventually, he, Doraemon and their friends take it to a vast countryside through the Anywhere Door. There, they learn about the Wind and Storm Villages, and Fuuko’s real identity. Soon, Nobita and his friends have to protect Fuuko from the Storm Village and a now-possessed Nobuo, who is being controlled by the spirit of the Storm Village’s former leader.",
+    "popularity": 34.121,
+    "poster_path": "/frCCqkLB5xwLNnQgi6wmlexVrVQ.jpg",
+    "production_companies": [
+        {
+            "id": 5141,
+            "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+            "name": "Shin-Ei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2003-03-08",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Doraemon: Nobita and the Windmasters",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 39
+}

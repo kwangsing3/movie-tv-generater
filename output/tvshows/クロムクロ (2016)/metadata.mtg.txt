@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/9ByWfLIczxMdIprIFRzMaD3UQxa.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://kuromukuro.com",
+    "id": 66080,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-29",
+    "last_episode_to_air": {
+        "air_date": "2016-09-29",
+        "episode_number": 26,
+        "id": 1221307,
+        "name": "A Samurai Never Looks Back",
+        "overview": "Through the fight with the Efidolg, the characters find themselves closer to their aims. Kennosuke discovers the path he must walk.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/x2NTJIuiou8ydNWPnyicO25H2R.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kuromukuro",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クロムクロ",
+    "overview": "When mecha attack a research center, its students, pilots, and researchers must fight back with the help of mysterious artifacts and a young samurai.",
+    "popularity": 14.695,
+    "poster_path": "/q3Mvd8IgjfvyuEUtalEkY91wzUb.jpg",
+    "production_companies": [
+        {
+            "id": 20867,
+            "logo_path": "/op3ROO9jB4KwLUZ16VAvuGasRRv.png",
+            "name": "P.A.Works",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-07",
+            "episode_count": 26,
+            "id": 75934,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9f218nebleugK4GyljHA9wGpalS.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 21
+}

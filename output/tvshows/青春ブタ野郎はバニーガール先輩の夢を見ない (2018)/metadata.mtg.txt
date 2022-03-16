@@ -1,0 +1,150 @@
+{
+    "adult": false,
+    "backdrop_path": "/5J4f4XDeRg7c7bHcXK26e1gkb0t.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://ao-buta.com/",
+    "id": 82739,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-27",
+    "last_episode_to_air": {
+        "air_date": "2018-12-27",
+        "episode_number": 13,
+        "id": 1652163,
+        "name": "The Dawn After an Endless Night",
+        "overview": "With Sakuta's help, Kaede is able to go to school at night. She is now enthusiastic about heading to school during the day. However, on the following day, the original Kaede's memory suddenly returns, eradicating all memories of the Kaede that had spent the last two years together with Sakuta. A certain person appears before Sakuta, who is overwhelmed with grief because Kaede was no longer around.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gz2hhSzMTW4dSa3dFVY25DpJq9Q.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Asahi Broadcasting Corporation",
+            "id": 1410,
+            "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "overview": "Puberty Syndrome—a rumored, mysterious syndrome that only affects those in their puberty. For example, a bunny girl suddenly appeared in front of Sakuta Azusagawa. The bunny girl's real identity is Mai Sakurajima, a teenage celebrity who is currently an inactive high school senior. For some reason, her charming figure does not reflect in the eyes of others. In the course of revealing the mystery behind this phenomenon, Sakuta begins to explore his feelings towards Mai. Set in a city where the skies and seas shine, Sakuta unfolds the meaning behind his bizarre encounters on women with the said syndrome.",
+    "popularity": 88.851,
+    "poster_path": "/cU4jHfo1Q9AEPnFqFqtuSA74gdi.jpg",
+    "production_companies": [
+        {
+            "id": 121589,
+            "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+            "name": "CloverWorks",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86839,
+            "logo_path": "/4gMnTQACykjt0KSRV1N8vSKpkVt.png",
+            "name": "ABC Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2073,
+            "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+            "name": "Kadokawa",
+            "origin_country": "JP"
+        },
+        {
+            "id": 157002,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "name": "Tokyo MX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 81418,
+            "logo_path": null,
+            "name": "Nagoya Broadcasting Network",
+            "origin_country": "JP"
+        },
+        {
+            "id": 118502,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "name": "Nippon BS Broadcasting",
+            "origin_country": "JP"
+        },
+        {
+            "id": 142186,
+            "logo_path": "/fCsUYQacBylGp6M7Fafz9Aza9GE.png",
+            "name": "Hakuhodo DY Music & Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-12-19",
+            "episode_count": 5,
+            "id": 120526,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/sAxtUBZEL1Eni978DxxEfXQoBTa.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-10-04",
+            "episode_count": 13,
+            "id": 110163,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kj0h90OrgTibRh8PxdldyKgledl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 891
+}

@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/A9hlgeBCsoBwyF6MLIUYKwD3Pmz.jpg",
+    "created_by": [
+        {
+            "id": 114724,
+            "credit_id": "54db6a7d925141619b001993",
+            "name": "Ai Yazawa",
+            "gender": 1,
+            "profile_path": "/uMDUWCZGdWlSZbRAm2Txc8GU8cw.jpg"
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2005-10-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34208,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-12-30",
+    "last_episode_to_air": {
+        "air_date": "2005-12-30",
+        "episode_number": 12,
+        "id": 785517,
+        "name": "Future",
+        "overview": "Now that the fashion show is over, and everyone is graduating from their school, what will become of the members of Paradise Kiss?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jv16qy44GqtwlYpeqRGIizNSlrS.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Paradise Kiss",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "パラダイス・キス",
+    "overview": "Yukari is a typical high-school student who listens to her parents and attends school everyday. As she starts to question her way of life, she encounters a group of fashion design students who has a clothing label known as \"Paradise Kiss\". The group needs to find a model to showcase their designs in an up-coming fashion show and decides to pick Yukari instead. Initially, Yukari was reluctant to be associated with this seemingly eccentric group, but eventually, she realises that they are really nice people. Furthermore, their passion and enthusiasm to follow their ideals and dreams make Yukari realise that she has not been enjoying her life and this motivated her to pursue her own dreams.",
+    "popularity": 10.994,
+    "poster_path": "/o4c1e7mWp2MrsHGOytAWSRLx2tJ.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-10-14",
+            "episode_count": 12,
+            "id": 45074,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sLxlvUwxV8IjZSsYzqlvouV9D2m.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 11
+}

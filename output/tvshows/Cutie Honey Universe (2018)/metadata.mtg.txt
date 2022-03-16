@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/3bwrHHyUg1PLxEaEQX1vz0S2IJL.jpg",
+    "created_by": [
+        {
+            "id": 221769,
+            "credit_id": "5adccde49251410ac702243a",
+            "name": "Natsuko Takahashi",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://cutiehoney-u.com/",
+    "id": 77729,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-28",
+    "last_episode_to_air": {
+        "air_date": "2018-06-28",
+        "episode_number": 12,
+        "id": 1510509,
+        "name": "You Will Return with Hope",
+        "overview": "Honey learns the true power of her Airborne Element Fixing Device.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/eIryPe4IAHxqysSvSKIO06irgcQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cutie Honey Universe",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Cutie Honey Universe",
+    "overview": "Honey Kisaragi is an amazingly humanlike and fashion conscious android with the unique ability to transform her body into a wide range of outrageous yet stylish disguises, each of which comes with its own dazzling super ability. After a run-in with a sinister secret criminal cabal organization, Panther Claw, the luscious and law-abiding Honey makes it her mission to bring them down.",
+    "popularity": 7.325,
+    "poster_path": "/vs2vejPLKVpbbHcUmfqIMuA0Wj2.jpg",
+    "production_companies": [
+        {
+            "id": 39020,
+            "logo_path": null,
+            "name": "production reed",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-08",
+            "episode_count": 12,
+            "id": 100399,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mtVkU0Tf7eFakjwZOGGih29Ugp8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 3
+}

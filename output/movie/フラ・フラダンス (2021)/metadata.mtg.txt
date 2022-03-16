@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/8SYsf4yF0CmrdCVZSj43tZHGoG6.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://hula-fulladance.com/",
+    "id": 760765,
+    "imdb_id": "tt13409496",
+    "original_language": "ja",
+    "original_title": "フラ・フラダンス",
+    "overview": "",
+    "popularity": 1.24,
+    "poster_path": "/jTjMpI2i7vbh8VSOTSk6Nv6MZNX.jpg",
+    "production_companies": [
+        {
+            "id": 74440,
+            "logo_path": "/mf1nS1bfySc1XM5EmPZp4qsAOoy.png",
+            "name": "Bandai Namco Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-12-03",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hula Fulla Dance",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

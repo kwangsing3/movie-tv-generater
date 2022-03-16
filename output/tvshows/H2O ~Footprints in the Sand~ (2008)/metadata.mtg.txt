@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/iT6q5HWJFWITSTVDN7eoCn82Sif.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-01-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://anime.webnt.jp/h2o/",
+    "id": 30631,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-03-20",
+    "last_episode_to_air": {
+        "air_date": "2008-03-20",
+        "episode_number": 12,
+        "id": 743920,
+        "name": "H2O",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cEkv3hzRdcgkLXts9BmrB4Rp62l.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "H2O: Footprints in the Sand",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "H2O ~Footprints in the Sand~",
+    "overview": "Takuma Hirose, an emotionally wounded boy becomes blind after his mother died in his childhood. For medical treatment, he moves to his mother’s home village where he enters a new school.",
+    "popularity": 8.534,
+    "poster_path": "/tlAhXf8ZctUQvobvH4mo4jR365B.jpg",
+    "production_companies": [
+        {
+            "id": 19533,
+            "logo_path": null,
+            "name": "ZEXCS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-01-03",
+            "episode_count": 12,
+            "id": 42172,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/v4cHDgYIst47tExyPCDhRiDMB1G.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

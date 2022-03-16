@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/1OYpcxGZkkn13HbRCYQwgxKyToP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2013-10-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.sekatsuyo.com/",
+    "id": 76721,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-12-22",
+    "last_episode_to_air": {
+        "air_date": "2013-12-22",
+        "episode_number": 12,
+        "id": 1425242,
+        "name": "To the World",
+        "overview": "The spirited, and sadistic, match between Sakura and Elena reaches its epic, pulse-pounding climax!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fniLTAEobPLgNfuHABCIfOrmaXD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Wanna Be the Strongest in the World",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "世界でいちばん強くなりたい！",
+    "overview": "Sakura Hagiwara, the main vocalist of the nationally renowned idol group Sweet Diva, suddenly decides to become a female professional wrestler.",
+    "popularity": 27.772,
+    "poster_path": "/1YaxVSLtXRH9qZjF4JIXML0PNDG.jpg",
+    "production_companies": [
+        {
+            "id": 12083,
+            "logo_path": "/jlk2Htq5C5ToDiIoM353xwpWwO6.png",
+            "name": "ARMS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-12-12",
+            "episode_count": 6,
+            "id": 104179,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/iQHMVfxRWHFpNTrfHvma3nrWsEH.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-10-06",
+            "episode_count": 12,
+            "id": 98599,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/d7wpxDbveGfmgquGhtV4e5DDDtH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 4
+}

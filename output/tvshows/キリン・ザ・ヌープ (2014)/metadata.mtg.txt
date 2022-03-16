@@ -1,0 +1,77 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2014-02-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.nhk.or.jp/anime/petit/program.html?prg=noop",
+    "id": 78955,
+    "in_production": false,
+    "languages": [
+        "xx"
+    ],
+    "last_air_date": "2014-02-13",
+    "last_episode_to_air": {
+        "air_date": "2014-02-13",
+        "episode_number": 2,
+        "id": 1474090,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kirin the Noop",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK Educational TV",
+            "id": 622,
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "キリン・ザ・ヌープ",
+    "overview": "",
+    "popularity": 0.84,
+    "poster_path": "/1SRVeSfCZARbbb917mRNyJjHzKa.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2014-02-06",
+            "episode_count": 2,
+            "id": 102740,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "No Language",
+            "iso_639_1": "xx",
+            "name": "No Language"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

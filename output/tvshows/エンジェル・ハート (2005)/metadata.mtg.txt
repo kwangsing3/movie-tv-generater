@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/xWP6CQszpcZ1uVoua2PHhewSBZA.jpg",
+    "created_by": [
+        {
+            "id": 1659452,
+            "credit_id": "579eab87c3a3683ced005988",
+            "name": "Coamix, Shinchōsha",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2005-10-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 42999,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-25",
+    "last_episode_to_air": {
+        "air_date": "2006-09-25",
+        "episode_number": 50,
+        "id": 884418,
+        "name": "Last Present",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6kj3N2YzusWB7i0ksnt33Klxogv.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Angel Heart",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エンジェル・ハート",
+    "overview": "A young Taiwanese assassin codenamed \"Glass Heart\" committed suicide by jumping off a building, and her heart was pierced by metal fence. Miraculously, her life was saved by heart transplantation. During her recovery she began to experience strange dreams, which lead her to Japan looking for the donor of her heart, who happens to be Kaori Makimura, former partner of City Hunter Ryo Saeba.\n\nThe author mentioned in the first tankoubon volume that Angel Heart only shares the same characters of City Hunter but not its continuation. The events are all parallel universe, therefore it has nothing to do with City Hunter.",
+    "popularity": 8.169,
+    "poster_path": "/4j6iZEAAAl0pHSksmKqVaa7XRjU.jpg",
+    "production_companies": [
+        {
+            "id": 7164,
+            "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+            "name": "TMS Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-10-03",
+            "episode_count": 50,
+            "id": 52467,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7L0Z4FnzN9XywkSL7jwiRchcQ3n.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 5
+}

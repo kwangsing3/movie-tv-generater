@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/hFo8WcMktlZasmnM0tScJVhAjHn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2015-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://imas-cinderella.com/",
+    "id": 63406,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-10-17",
+    "last_episode_to_air": {
+        "air_date": "2015-10-17",
+        "episode_number": 25,
+        "id": 1176635,
+        "name": "Cinderella Girls at the Ball.",
+        "overview": "The Cinderella's Ball finally begins,  with the Cinderella Project girls encouraged by Producer to smile  as they do each of their routines.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4p72MZe6Uc3MQa0j7l4JHbgylZt.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "THE iDOLM@STER Cinderella Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイドルマスター シンデレラガールズ",
+    "overview": "There are many idols with long-established talent agency 346 Production. And now the company is starting a new program, the Cinderella Project! Girls leading normal lives are chosen to be aspiring idols and see another world for the first time in this Cinderella story. Can they all climb the stairs that lead to the palace?\n\nThe magic begins now...",
+    "popularity": 17.296,
+    "poster_path": "/lkItXUa5V2z1WGTBqp2Er1zsNpc.jpg",
+    "production_companies": [
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 13066,
+            "logo_path": "/2fgqTGBeaKaGer4vDUXmYaUIR5o.png",
+            "name": "Nippon Columbia",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12502,
+            "logo_path": "/aDcFy26DtVbyZIFOZNTLsooWH5X.png",
+            "name": "Bandai Namco Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-02-28",
+            "episode_count": 4,
+            "id": 69068,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-01-10",
+            "episode_count": 25,
+            "id": 69066,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ut0NROv2RlT4MD8qzgxRyNdObfV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.8,
+    "vote_count": 8
+}

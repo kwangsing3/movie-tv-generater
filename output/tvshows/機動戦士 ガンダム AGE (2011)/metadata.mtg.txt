@@ -1,0 +1,122 @@
+{
+    "adult": false,
+    "backdrop_path": "/fX1AfMqIXslKcA9QJkKrQEHnYZk.jpg",
+    "created_by": [
+        {
+            "id": 1256907,
+            "credit_id": "52596d36760ee34661a12e0b",
+            "name": "Akihiro Hino",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.gundam-age.net/",
+    "id": 45835,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-23",
+    "last_episode_to_air": {
+        "air_date": "2012-09-23",
+        "episode_number": 49,
+        "id": 978665,
+        "name": "End of a Long Journey",
+        "overview": "The siege of the Space Fortress La Gramis grinds into its final stages, and despite the tremendous losses to both the Vagan and Federation sides, the atrocities of war only seem to be on the increase. As the long struggle reaches its end, can Flit, Asemu and Kio reach any kind of agreement with Ezelcant?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ijxICjE7rHnaGprHNCQLG5MphVK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mobile Suit Gundam AGE",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士 ガンダム AGE",
+    "overview": "Mobile Suit Gundam AGE is a 2011 Japanese science fiction anime television series and the twelfth incarnation of Sunrise's long-running Gundam franchise. The series was first announced in the July issue of Shogakukan's CoroCoro Comic, and has gaming company Level-5's President Akihiro Hino in charge of the story.\n\nThis installment of the Gundam meta-series is set on a futuristic Earth plagued by an interplanetary war that spans a whole century. Its story revolves around three protagonists from the same family, each piloting his own version of the eponymous mecha, fighting to defend Earth and its space colonies from an enemy race far more advanced in terms of technology.\n\nThe series was officially unveiled by Bandai on June 13, 2011, during a special event at the 2011 Tokyo Toy Show. Gundam AGE premiered on the MBS and TBS broadcasting stations in Japan on October 9, 2011 and 49 episodes were broadcast, with the last episode on September 23, 2012. A compilation OVA titled Mobile Suit Gundam AGE: Memory of Eden will be released on July 26, 2013, focusing on the second protagonist of the series, Asemu Asuno.",
+    "popularity": 32.726,
+    "poster_path": "/iOIMFI37oVzG5eI2CIto12l9q3f.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-07-25",
+            "episode_count": 2,
+            "id": 54273,
+            "name": "Specials",
+            "overview": "Gundam Age Memory of Eden retells the Gundam Age TV story of how the Vagan plan to take over Earth in a war with the Federation.",
+            "poster_path": "/nGdwBQk2eHORWwTpI0YK9Atmf0c.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-10-09",
+            "episode_count": 49,
+            "id": 54272,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/c1GVqzckde1IsAJhZNG3ABzmqFx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

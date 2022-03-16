@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/smCy3cbwhxgYn3LbEahdIKNuCiV.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1995-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 20351,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1996-06-27",
+    "last_episode_to_air": {
+        "air_date": "1996-06-27",
+        "episode_number": 11,
+        "id": 2862431,
+        "name": "The Final Battle! Burn Up, Fist of Friendship",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Virtua Fighter",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 46,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バーチャファイター",
+    "overview": "Akira Yuki has spent years honing his skills under the guidance of his grandfather. Meanwhile, a nefarious robotics scientist, Eva Durix, desires to create the perfect soldier. Eva kidnaps Sarah Bryant, a close acquaintance of Akira and now he must now fight his way to Sarah to save her.",
+    "popularity": 8.141,
+    "poster_path": "/y2FkPPjwn4OR9eB1fJa6iXEMHJd.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1995-10-02",
+            "episode_count": 35,
+            "id": 30376,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7l12li7oojatFJ6cN8ioYb8UZDB.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1996-04-18",
+            "episode_count": 11,
+            "id": 30377,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

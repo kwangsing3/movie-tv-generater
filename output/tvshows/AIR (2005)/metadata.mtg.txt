@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/35FmCLoBgRsfD26EPtUu7Qzga8l.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2005-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/air/",
+    "id": 26201,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-03-25",
+    "last_episode_to_air": {
+        "air_date": "2005-03-25",
+        "episode_number": 12,
+        "id": 666969,
+        "name": "Air",
+        "overview": "The summer festival has finally arrived, but unfortunately it rains that day and thus the festival is canceled. Wanting to do anything she can for Misuzu, Haruko brings her to the local shrine. As mother and daughter bond, can Haruko ultimately save Misuzu from returning to her other self in the vast blue sky?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jL0HflsSupvhJlbc9nEeMliKz2R.jpg",
+        "vote_average": 7.7,
+        "vote_count": 3
+    },
+    "name": "Air",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "AIR",
+    "overview": "Yukito Kunisaki is on a journey in search of the Winged Maiden who was bound to the sky centuries ago after hearing the old childhood tale from his mother. As Yukito shows his puppet show to people in an attempt to make some money, he finds himself in a small town in which he did not expect to stay very long. However, when he meets an unusual girl named Misuzu, things take a drastic turn as he is invited to stay with her.",
+    "popularity": 11.788,
+    "poster_path": "/3TZsD9hh7XQYVpZYnokrR5zEDU5.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-04-01",
+            "episode_count": 3,
+            "id": 36657,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/gF6h3Q78KRj9wNKdG2GOJDrHL2O.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-01-07",
+            "episode_count": 12,
+            "id": 36656,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rawxX9JO45kxjXFgu1MNgTi5EMf.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 31
+}

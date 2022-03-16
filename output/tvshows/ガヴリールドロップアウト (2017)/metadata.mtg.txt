@@ -1,0 +1,138 @@
+{
+    "adult": false,
+    "backdrop_path": "/zscbGuTQ5DX7UL4Xrl9XxIVtXDN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://gabdro.com/",
+    "id": 69285,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-27",
+    "last_episode_to_air": {
+        "air_date": "2017-03-27",
+        "episode_number": 12,
+        "id": 1266331,
+        "name": "Gabriel DropOut!",
+        "overview": "Gabriel hears that her older sister is heading to Earth and seems troubled. Which really comes as no surprise, as her older sister, Zelel, is known to be very efficient in Heaven. She’s a very powerful angel, who is known to be serious and strict, and is referred to as the Hand of God. Gabriel starts panicking, thinking that she might get such a harsh punishment if she finds out that she’s fallen that the world might be destroyed. Will Gabriel be able to get through in one piece?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/s80u4izVA3R4KfvV7CxpJsACJrh.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gabriel DropOut",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガヴリールドロップアウト",
+    "overview": "Gabriel White graduated at the top of the class at angel school and attends a human school on earth in pursuit of knowledge, but then gets engrossed in an MMO and decides it's too much trouble to go anywhere. Based on the manga by Ukami.",
+    "popularity": 16.585,
+    "poster_path": "/dS5dut05RFNi3fOCn6iO31Eag9x.jpg",
+    "production_companies": [
+        {
+            "id": 87085,
+            "logo_path": null,
+            "name": "NTT Plala",
+            "origin_country": "JP"
+        },
+        {
+            "id": 7967,
+            "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+            "name": "Media Factory",
+            "origin_country": "JP"
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        },
+        {
+            "id": 87086,
+            "logo_path": null,
+            "name": "Sony Music Communications",
+            "origin_country": ""
+        },
+        {
+            "id": 87087,
+            "logo_path": "/qaORyPDPycokkOtErwZexiREovY.png",
+            "name": "Kadokawa Media House",
+            "origin_country": "JP"
+        },
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-03-24",
+            "episode_count": 2,
+            "id": 92840,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ozlyww1E1H1AUYqcvR3UxZbdkg4.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2017-01-09",
+            "episode_count": 12,
+            "id": 83188,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xZ829nmxpYPVU1dybmcqhd6DZ7O.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 30
+}

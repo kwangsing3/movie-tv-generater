@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/fmdDkTWvjrCYyOD9Xgqc3AbQcZr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kanokano-anime.com",
+    "id": 113137,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-18",
+    "last_episode_to_air": {
+        "air_date": "2021-09-18",
+        "episode_number": 12,
+        "id": 3052294,
+        "name": "Girlfriend, Girlfriend",
+        "overview": "Nagisa had insisted on supporting Saki on the hot spring vacation, but when Saki confronts her about it, she begins to speak her mind.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/opbpTVfA62yggK1OSljD8ey2ctY.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Girlfriend, Girlfriend",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カノジョも彼女",
+    "overview": "Mukai Naoya has loved Saki Saki since grade school, and when she finally accepts his feelings, he's at his happiest. But one day, a cute girl named Minase Nagisa confesses to him! Not wishing to choose only one over another, Naoya chooses to go out with both of them!! What will be of this love triangle that challenges morality itself?",
+    "popularity": 39.46,
+    "poster_path": "/6vvqfs1Q4lDFhlzSNO5bWY4I4S.jpg",
+    "production_companies": [
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-03",
+            "episode_count": 12,
+            "id": 168691,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wiEOWqTJ6OkEHMWAhX4r8gC42wX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 18
+}

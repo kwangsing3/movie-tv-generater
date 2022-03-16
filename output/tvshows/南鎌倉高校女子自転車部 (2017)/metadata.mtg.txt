@@ -1,0 +1,143 @@
+{
+    "adult": false,
+    "backdrop_path": "/fSdBLwoPg9Sh2oNKbzXeKBJms8M.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://minakama-anime.jp/",
+    "id": 69296,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-31",
+    "last_episode_to_air": {
+        "air_date": "2017-03-31",
+        "episode_number": 13,
+        "id": 2814641,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Minami Kamakura High School Girls Cycling Club",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "南鎌倉高校女子自転車部",
+    "overview": "Maiharu Hiromi has moved to Kamakura Nagasaki, and rides a bicycle to school everyday. Then she meets Akizuki Tomoe, the leader of the girls cycling club. She therefore joins the club and her life gradually begins to change.",
+    "popularity": 8.658,
+    "poster_path": "/e5Db5PFHLSkyzVGr6h5cGRl8Rgf.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5451,
+            "logo_path": "/xeHQM5AsvHwo4Ublp4MetaEfsVf.png",
+            "name": "ACGT",
+            "origin_country": "JP"
+        },
+        {
+            "id": 166289,
+            "logo_path": null,
+            "name": "Duckbill Entertainment",
+            "origin_country": "SG"
+        },
+        {
+            "id": 166290,
+            "logo_path": null,
+            "name": "NADA Holdings",
+            "origin_country": "US"
+        },
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 166291,
+            "logo_path": null,
+            "name": "Crunchyroll SC Anime Fund",
+            "origin_country": "US"
+        },
+        {
+            "id": 17981,
+            "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+            "name": "AT-X",
+            "origin_country": "JP"
+        },
+        {
+            "id": 150946,
+            "logo_path": null,
+            "name": "My Theater D.D.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 166292,
+            "logo_path": null,
+            "name": "Shanghai Tiantan Culture & Media",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-01-07",
+            "episode_count": 13,
+            "id": 83202,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8ua1XTKnCrQuCQUX2xaxwvsJ2D9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2
+}

@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/9KJTPglkgWXbyzTkqIOgA6y8Dv6.jpg",
+    "created_by": [
+        {
+            "id": 116752,
+            "credit_id": "55938acc92514152db00320b",
+            "name": "Ken Akamatsu",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2005-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.negima.ne.jp/",
+    "id": 8859,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-06-29",
+    "last_episode_to_air": {
+        "air_date": "2005-06-29",
+        "episode_number": 26,
+        "id": 400581,
+        "name": "Not for Me, Not for You, But for Us",
+        "overview": "Evangeline is forced to divulge the magical truth to the entire class.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 10,
+        "vote_count": 1
+    },
+    "name": "Negima!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔法先生ネギま!",
+    "overview": "Vampires, robots, sorcery… And that’s all before Gym Class! Welcome to Mahora Academy, an all-girls school where the impossible and the enchanting are a part of the curriculum. It’s the start of the new school year and emotions run rampant as the girls of Class 2-A meet the newest staff addition – Negi Springfield. A ten-year-old Welsh born prodigy, Negi has more problems than he has students. As a wizard-in-training, this academic appointment is the final requirement in his quest to become a Magister Magorum. But if he messes things up and the girls find out, existence as an exotic ermine will be his fate!",
+    "popularity": 14.864,
+    "poster_path": "/pfEiIQQ1n3LgSRznpoDWpniCnfo.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-03-24",
+            "episode_count": 11,
+            "id": 18717,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-01-05",
+            "episode_count": 26,
+            "id": 18716,
+            "name": "Season 1",
+            "overview": "10-year old Negi Springfield is a wizard-in-training, and needs only to pass one more test in order to become a Master Wizard. Unfortunately, his final task is a bizarre one- to become a English teacher at an all-females boarding school. As soon as he arrives, he completely embarasses one of his students, Asuna Kagurazaka, and replaces the teacher she loves, which garners her hatred. To make matters worse, Asuna learns that Negi is a wizard,and promises to tell unless he helps her out. But, unfortunately, circumstances force them to work together to do many things, from fighting evil wizards to helping the class pass their final exam, with a lot of humor, magic, and romances thrown in.",
+            "poster_path": "/nET4xcfevMJsfnMCxmZqKMS1MEy.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 12
+}

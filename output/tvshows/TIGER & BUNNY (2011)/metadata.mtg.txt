@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/3ONxc0Qnk6yPwlUYktbsjmdKRmL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.tigerandbunny.net/tv/",
+    "id": 39659,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2011-09-18",
+    "last_episode_to_air": {
+        "air_date": "2011-09-18",
+        "episode_number": 25,
+        "id": 869473,
+        "name": "Eternal Immortality",
+        "overview": "The heroes suffer a stunning loss and must mourn a fallen peer, while Barnaby finally encounters his parents' killer one-on-one.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/x6jaApS60RfRb421qXbGf5uyt39.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "TIGER & BUNNY",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "TIGER & BUNNY",
+    "overview": "In an alternate New York City protected by a band of superheroes called NEXT, veteran Wild Tiger is forced to team up with rookie Barnaby Brooks Jr.",
+    "popularity": 10.977,
+    "poster_path": "/qyFMwoPDeKZWpvAyLAhhXDgOI9R.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-05-27",
+            "episode_count": 3,
+            "id": 50982,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/z5wA8NfZar1t8FPGbN8ItFlyyEi.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2011-04-03",
+            "episode_count": 25,
+            "id": 50983,
+            "name": "Season 1",
+            "overview": "Tiger tries to rebuild his image with Bunny at his side as the pair saves Stern Bild from animated statues, a pyromaniac and the psychotic Mad Bear.",
+            "poster_path": "/5SCaXAtoXSLrHdlJABqu4C2BBjF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 17
+}

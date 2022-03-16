@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "1998-10-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 34675,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1999-03-29",
+    "last_episode_to_air": {
+        "air_date": "1999-03-29",
+        "episode_number": 24,
+        "id": 789878,
+        "name": "Rebirth",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kHrFVpvdicb618zH2W0M2celgjP.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kurogane Communication",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "鉄コミュニケイション",
+    "overview": "The Earth is deserted. The human race has been wiped out. Robots now inhabit the world. However, only one human remains. A young girl named Haruka is the last human left on Earth. With the help of 5 robot friends, she will find out how the Earth became a place for robots, and her own past.",
+    "popularity": 4.245,
+    "poster_path": "/aqfnrFNiyib0IetxbKsb29excm3.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1998-10-05",
+            "episode_count": 24,
+            "id": 45418,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

@@ -1,0 +1,55 @@
+{
+    "adult": false,
+    "backdrop_path": "/nBs7bMgv3wRVEGRiCLH9XqCrQob.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 35948,
+    "imdb_id": "tt0257885",
+    "original_language": "ja",
+    "original_title": "多重人格探偵サイコ",
+    "overview": "Yosuke Kobayashi, a detective assigned on a homicide unit, saw his wife killed by a serial killer, Shinji Nishizono. From a shock he suffered MPD (multiple personality disorder) and became Kazuhiko Amamiya. Soon after he managed to hunt down and killed the murderer of his wife, new series of murders have occurred and the suspects claimed to be Shinji Nishizono himself. Is it really him? Or a copycat? And who is Kazuhiko Amamiya?",
+    "popularity": 2.163,
+    "poster_path": "/51yXXu6c7fuzT6jzrBp9yLDydlj.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2000-05-02",
+    "revenue": 0,
+    "runtime": 324,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Multiple Personality Detective Psycho - Kazuhiko Amamiya Returns",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 13
+}

@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/n213Gr0YwVqP4ZfGfZ0ojrWzW5X.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://tamakomarket.com",
+    "id": 48561,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-03-28",
+    "last_episode_to_air": {
+        "air_date": "2013-03-28",
+        "episode_number": 12,
+        "id": 915363,
+        "name": "Another Year Ends",
+        "overview": "As the whole shopping district takes an interest in Mechya, Tamako feels a little confused by everything, the empty shopping district begins to remind her of when her mother died. When asked by Dera about what she thinks of the whole bride business, Tamako talks about how much the district has meant to her over the years. Tamako rushes to turn down Mechya's proposal, only to learn that she isn't actually a candidate, as Choi has misunderstood things. After the girls see them off, Choi and Mechya head back to their home country, only to realise they've left Dera behind. Come New Year's, Dera attempts to head back home by hiding himself in a bouquet, only to wind up in a box Mochizō has ordered for Tamako's birthday and end up right back on Tamako's doorstep.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/nJjRj8TRi1EqKSa0XbpQkx5NOUj.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tamako Market",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "たまこまーけっと",
+    "overview": "Tamako is just a normal young girl whose family has been making mochi for generations. As her birthday approaches, she happens to meet a talking bird who claims to be a royal court attendant looking for a bride for his master. After the encounter, Dera the bird decides to stay around her and becomes a part of Tamako's life and the neighborhood that she lives in.",
+    "popularity": 15.206,
+    "poster_path": "/chxENbRzjXqA9xJ36EaZFnFqyzE.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-03-20",
+            "episode_count": 14,
+            "id": 55187,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-01-10",
+            "episode_count": 12,
+            "id": 55186,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xJClDBtzBt71ilOCFNinUti41wK.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Welcome to Tama-ya, Where Life is Sweet And Full of Unexpected Surprises!",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 30
+}

@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/nSHLjtxXSx69RGHLI95cvsHcx94.jpg",
+    "created_by": [
+        {
+            "id": 1138074,
+            "credit_id": "5f9ea3af7614210037f18742",
+            "name": "Hiroshi Mori",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2015-10-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.f-noitamina.com/",
+    "id": 70292,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2015-12-18",
+    "last_episode_to_air": {
+        "air_date": "2015-12-18",
+        "episode_number": 11,
+        "id": 1270771,
+        "name": "Colorless Weekend",
+        "overview": "Magata visits Saikawa at the university. She says that she won't turn herself in, because she might not be sentenced to death. She also won't commit suicide, because she wants someone else to kill her. As she leaves, she is surrounded by what appear to be the police guard following Saikawa, but Nishinosono later informs Saikawa that the guard had been called off earlier. Saikawa reveals to Nishinosono that Gidō is his little sister. In a flashback, Magata and her daughter discuss the nature of humans and relationships. In the final scene, Magata introduces her new personalities, her daughter Michiru and her uncle Shindō to Kishio, the personality based on her dead twin brother.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1zdl977mTGZffDKJlPCEKs4ckO7.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Perfect Insider",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "すべてがFになる",
+    "overview": "Souhei Saikawa is a college professor who is obsessed with genius Shiki Magata’s work. He, Moe Nishinosono, and a group of his other students plan a retreat to the remote island where Magata currently resides, which may put them in danger’s way...",
+    "popularity": 6.357,
+    "poster_path": "/32j3Kh8v2ahzSZza773nDFYXsxX.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-10-09",
+            "episode_count": 11,
+            "id": 85129,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rmHPseWWCwUuctSaObXpfkVFmum.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 19
+}

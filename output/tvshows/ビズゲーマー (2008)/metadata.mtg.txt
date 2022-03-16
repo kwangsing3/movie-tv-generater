@@ -1,0 +1,154 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1646980,
+            "credit_id": "577f1f459251413b6f001bc1",
+            "name": "Kazuya Minekura",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-03-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "http://www.fwinc.co.jp/busgamer/",
+    "id": 43141,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-03-28",
+    "last_episode_to_air": {
+        "air_date": "2008-03-28",
+        "episode_number": 3,
+        "id": 885605,
+        "name": "One Man's Game",
+        "overview": "The final episode starts out with Team AAA (no name), going to the match location. It turns out the match is on a rooftop with a Hawaiian themed party going on. What's gonna be the outcome of the match for Team AAA (no name).",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Bus Gamer",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Nagoya TV",
+            "id": 576,
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ビズゲーマー",
+    "overview": "When three complete strangers, Mishiba Toki, Nakajyo Nobuto and Saitoh Kazuo, are hired by a corporation to compete in the Bus Game, an illegal dog-fight conducted in strict secrecy, they are given the team code of \"Team AAA\" (Triple Anonymous). This group of three who differ entirely from their living environments to their personalities have to work together effectively, but without mutually wiping out their mistrust of each other or prying into each other's privacy. They only have one point in common - each of them need a large amount of money for their individual circumstances. To get the money, they must play in the game despite their very own lives being at stake.",
+    "popularity": 2.996,
+    "poster_path": "/x0MwtjK5Sa7g9XwkoFZ6IdFYdcl.jpg",
+    "production_companies": [
+        {
+            "id": 5809,
+            "logo_path": "/aqc1Sj5nfPWb9rjf1TSayKBPlno.png",
+            "name": "Frontier Works",
+            "origin_country": "JP"
+        },
+        {
+            "id": 10038,
+            "logo_path": "/nCueXKwYIEXrZ5ofqSJBO1YcmRr.png",
+            "name": "Square Enix",
+            "origin_country": "JP"
+        },
+        {
+            "id": 93615,
+            "logo_path": null,
+            "name": "Anpro",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-03-14",
+            "episode_count": 3,
+            "id": 52603,
+            "name": "Bus Gamer",
+            "overview": "",
+            "poster_path": "/9TwduiLftOqiKRDCGkttXoWC28q.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 4
+}

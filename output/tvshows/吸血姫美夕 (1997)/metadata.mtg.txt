@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/gQBAqyGWh6lDRw2hJFV1kMwaYed.jpg",
+    "created_by": [
+        {
+            "id": 1451470,
+            "credit_id": "581ea4f3c3a36806f9014044",
+            "name": "Narumi Kakinouchi",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1028316,
+            "credit_id": "5b12ca20c3a3686292008d57",
+            "name": "Toshiki Hirano",
+            "gender": 2,
+            "profile_path": "/AjofS1kfJ241g7kTsJXsonxN7MA.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1997-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 42460,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1998-03-31",
+    "last_episode_to_air": {
+        "air_date": "1998-03-31",
+        "episode_number": 26,
+        "id": 880491,
+        "name": "The Eternal Sleep",
+        "overview": "Miyu is struggling with her fight against the last Shinma. Larva tries to help her, but is trapped in an unknown space and confronted by the bird Shinma Shidon.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Vampire Princess Miyu",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "吸血姫美夕",
+    "overview": "Miyu, a vampire girl, acts as a guardian, sending stray demons known as Shinma back to the darkness while publicly posing as a high school student.",
+    "popularity": 17.101,
+    "poster_path": "/A5Ro3RpFXAWiV5Ntk7BoMcDcSUE.jpg",
+    "production_companies": [
+        {
+            "id": 4690,
+            "logo_path": null,
+            "name": "Anime International Company (AIC)",
+            "origin_country": "JP"
+        },
+        {
+            "id": 182,
+            "logo_path": null,
+            "name": "JVC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1997-10-07",
+            "episode_count": 26,
+            "id": 52196,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/m9yiQQnUSXTB3xOpvtSwePGwmYX.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 2
+}

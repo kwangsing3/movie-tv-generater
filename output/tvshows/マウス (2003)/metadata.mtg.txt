@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1148342,
+            "credit_id": "5e9d833ed18fb9001b91bc25",
+            "name": "Satoru Akahori",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2003-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 39025,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-03-23",
+    "last_episode_to_air": {
+        "air_date": "2003-03-23",
+        "episode_number": 12,
+        "id": 864961,
+        "name": "Steal:12 Mouse's Dreams Will Never End",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ntQ1xlJoR4foUFAa90ZMKUAMe8c.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Mouse",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マウス",
+    "overview": "Sorata is an art instructor at Yamanoue School. At the young age of 20 he is already a full-fledged teacher with a meek and nerd-like disposition. Yet Sorata has a secret: he's Mouse, the internationally infamous thief.",
+    "popularity": 6.987,
+    "poster_path": "/r5RJRhGPop5PwOF3xBHeM07wkhf.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        },
+        {
+            "id": 143565,
+            "logo_path": null,
+            "name": "Broccoli",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-01-05",
+            "episode_count": 12,
+            "id": 50554,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dyCo5bbBCayXyuU7bba3LZRJCk7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 4
+}

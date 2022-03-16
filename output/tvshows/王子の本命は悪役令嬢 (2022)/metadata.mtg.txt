@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/85srbooZYBI7rEqBgssvzeotzAb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        7
+    ],
+    "first_air_date": "2022-01-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://akuyakureijou.af-original.com/",
+    "id": 138909,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2022-03-14",
+    "last_episode_to_air": {
+        "air_date": "2022-03-14",
+        "episode_number": 8,
+        "id": 3424911,
+        "name": "The Future Is Not Yet Set",
+        "overview": "Sirius asks Diana about the Diafell family's plans. She gives up and decides to reveal everything to Sirius and face her punishment. However, Sirius makes a surprising proposal to Diana.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Prince's Favorite Is the Villainess",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AnimeFesta",
+            "id": 2616,
+            "logo_path": "/sftM39QJNGFPEXLGOvakDCz0kSv.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "王子の本命は悪役令嬢",
+    "overview": "One day, an office worker reincarnates into the world of her favorite otome game. Unfortunately, however, she has become the game's villainess, Diana. On top of that, Prince Sirius, supposedly the protagonist's primary target, is targeting her instead. To avoid a Bad End, she needs the prince to hate her. So she tries to seduce him, who supposedly admires purity. However, instead of being disgusted, the prince looks at her lustfully.",
+    "popularity": 30.472,
+    "poster_path": "/q76lLNhLGn0nW6cng2ryH42U35n.jpg",
+    "production_companies": [
+        {
+            "id": 125825,
+            "logo_path": null,
+            "name": "Studio Hōkiboshi",
+            "origin_country": "JP"
+        },
+        {
+            "id": 149421,
+            "logo_path": "/6UqbB0NLRWEIaCKsd5YkOigJgXb.png",
+            "name": "Suiseisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 91520,
+            "logo_path": "/wdcFLdFVOPEm3uEp6Hb9OXgi5Zd.png",
+            "name": "STUDIO MAUSU",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-31",
+            "episode_count": 2,
+            "id": 245909,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2022-01-10",
+            "episode_count": 8,
+            "id": 219984,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ruAS149zDuGjBEW5zFm8bgchH9b.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "If they tie the knot, it will be a Bad End! A sweet and lewd forbidden love story.",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

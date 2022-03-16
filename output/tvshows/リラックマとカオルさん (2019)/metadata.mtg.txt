@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/jLIEjHrxzFmCMwqW4qjafgDHCm6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "2019-04-19",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80196883",
+    "id": 84655,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-07-05",
+    "last_episode_to_air": {
+        "air_date": "2019-07-05",
+        "episode_number": 13,
+        "id": 1764316,
+        "name": "Moving Out",
+        "overview": "As their apartment's demolition date draws near, Kaoru searches for a new place, and they all do their best to toss out the things they don't need.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1QSjANrCbCjUygJATXeg7vnqqxz.jpg",
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    "name": "Rilakkuma and Kaoru",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "リラックマとカオルさん",
+    "overview": "Kaoru's unexpected new roommate is Rilakkuma, a bear with a zipper on its back that spends each day just lazing around -- but is impossible to hate.",
+    "popularity": 10.453,
+    "poster_path": "/lzohWj8xtowSXJVN9PsJjZAf1B2.jpg",
+    "production_companies": [
+        {
+            "id": 122939,
+            "logo_path": null,
+            "name": "Dwarf Studios",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-04-19",
+            "episode_count": 13,
+            "id": 113734,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/b9lqvKoCEO39lEHt0XTDm3DrYrc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 24
+}

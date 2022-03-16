@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/h5efL2VLo93liPv1l4GqjL4n73Q.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://mugen-immortal.com/",
+    "id": 92090,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-26",
+    "last_episode_to_air": {
+        "air_date": "2020-03-26",
+        "episode_number": 24,
+        "id": 2195781,
+        "name": "Final Act – Blade of the Immortal",
+        "overview": "The lives of those gathered fizzle out one after another. Those remaining are battered and bruised. Yet still they take up their swords, and slam their convictions against one another. The last one standing... And the revenge that was fulfilled... The curtain now closes on the tale of the man with an eternal life, and of those people whose finite lives were a blaze of passion.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/myvhz36mYkqftjWzTVv5rVmNqKQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Blade of the Immortal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Amazon",
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無限の住人-IMMORTAL-",
+    "overview": "Manji is a crass, violent samurai with a special ability: he cannot die. Cursed with immortality by the nun Yobikuni as punishment for his ruthless deeds, he has grown weary of his ageless life. The only way to lift the curse is to slay 1,000 evil men. So Manji wanders Japan, shedding the blood of the wicked on his quest to finally die.",
+    "popularity": 14.431,
+    "poster_path": "/QgzPVGxED2TLdMBQzzbXwu12D.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-10",
+            "episode_count": 24,
+            "id": 129307,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2u58CWgvmrurXrb7oYdcwUnpp8v.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 78
+}

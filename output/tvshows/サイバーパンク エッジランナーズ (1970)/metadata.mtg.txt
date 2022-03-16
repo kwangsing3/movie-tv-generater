@@ -1,0 +1,94 @@
+{
+    "adult": false,
+    "backdrop_path": "/xChVQQXnqkno4H04n8NpZXtgELo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81054853",
+    "id": 105248,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Cyberpunk: Edgerunners",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サイバーパンク エッジランナーズ",
+    "overview": "The series follows a street kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an edgerunner—a mercenary outlaw also known as a cyberpunk.",
+    "popularity": 2.713,
+    "poster_path": "/utF6LRd1UHzUWFQiqfEzbkJEC8N.jpg",
+    "production_companies": [
+        {
+            "id": 50908,
+            "logo_path": "/wdfnq5ze8Ctrb5WiSRQdggyYPUY.png",
+            "name": "TRIGGER",
+            "origin_country": "JP"
+        },
+        {
+            "id": 117187,
+            "logo_path": "/yvoseFnv994G3Djf9ngf9ODbQ8A.png",
+            "name": "CD PROJEKT RED",
+            "origin_country": "PL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 10,
+            "id": 154580,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lWKgOwoNnhjSlDdjI8sW4bmA01g.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

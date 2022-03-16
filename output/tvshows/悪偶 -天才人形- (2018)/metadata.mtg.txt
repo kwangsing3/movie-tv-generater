@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/hFQ7Sb9r51gXzzhtifNjee09nt1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-07-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://aguu-anime.com/",
+    "id": 80836,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-25",
+    "last_episode_to_air": {
+        "air_date": "2018-09-25",
+        "episode_number": 12,
+        "id": 1525101,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/wvEMgtZPfF1YrqLhlFtump1Kd5r.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Aguu: Genius Dolls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "悪偶 -天才人形-",
+    "overview": "Ai is an ordinary girl, and a dancer. Her friend Machi is also a dancer, but Machi is a genius. Watching Machi's talent often makes Ai feel down. But one day, Ai finds out Machi's secret: the existence of the Aguu, palm-size entities who grant genius talent upon those who hold them. In order to save Machi, who has become a \"Seamstress\" who makes Aguu, Ai becomes a \"Savior.\" The Saviors are a group of people who have fought the Seamstresses for generations.",
+    "popularity": 2.773,
+    "poster_path": "/koYz7Ltso8h9bucuWcV7HSwjFT0.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-10",
+            "episode_count": 12,
+            "id": 106286,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/koYz7Ltso8h9bucuWcV7HSwjFT0.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

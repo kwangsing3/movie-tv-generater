@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/wLw4jLzVNuGFPJ5WMIAaNRsyY52.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2006-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.ntv.co.jp/host/index.html",
+    "id": 1043,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-27",
+    "last_episode_to_air": {
+        "air_date": "2006-09-27",
+        "episode_number": 26,
+        "id": 55014,
+        "name": "This is Our Ouran Fair!",
+        "overview": "The Host Club must race against time to keep Tamaki in Japan and save the club from disbanding. However there are a few bumps along the way, as well as a wild horse ride, fighting with Ootori family police and Grand Tonnerre taking over lots of businesses. After Hikaru gets hurt, Haruhi rides the carriage and runs after Tamaki. Haruhi convinces Tamaki to return to the Host Club and reaches for his hand, but Tamaki is stopped by Eclair Tonnerre. Haruhi falls from the carriage and off a bridge. Eclair lets go of Tamaki's arm and Tamaki thanks her before jumping from the car to save Haruhi. In the end, Haruhi, dances with all the members of the Host Club.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/emGDkN3HQBsj3u50zihy3qIBwFs.jpg",
+        "vote_average": 10,
+        "vote_count": 2
+    },
+    "name": "Ouran High School Host Club",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "桜蘭高校ホスト部",
+    "overview": "Ouran High is a school for the extremely wealthy or, in Haruhi's case, the extremely talented. But no amount of talent will help when Haruhi accidentally drops an eight million yen vase in a music room. The vase was the property of Ouran High School Host Club, a group of attractive young men who, for a fee, provide their time and affections for their lovesick clientele: the female students. Fascinated by this strange new specimen, a poor and clumsy commoner, they force Haruhi to work for them until the debt is repaid; but they get a lot more than they bargained for...",
+    "popularity": 31.915,
+    "poster_path": "/30N2QvPvT0F4tTQk1A6qguL63yd.jpg",
+    "production_companies": [
+        {
+            "id": 2849,
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-04-05",
+            "episode_count": 26,
+            "id": 2972,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9A7q9QjLoTfYLn7zejj7uRYA3IZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.4,
+    "vote_count": 142
+}

@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/25VbpAR7ZtL1uU072xAsasGmAiF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-07-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.love-lab.tv/",
+    "id": 65602,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-09-27",
+    "last_episode_to_air": {
+        "air_date": "2013-09-27",
+        "episode_number": 13,
+        "id": 1165685,
+        "name": "One Hand on Another",
+        "overview": "Maki continues acting strangely and even suggest the student council should hold off on conducting love labs.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fFkpwDoksMaSwipZ0Cfi0a4daCy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Love Lab",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS-TBS",
+            "id": 881,
+            "logo_path": "/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "恋愛ラボ",
+    "overview": "Love Lab is set in Fujisaki Girls Academy, which is known for their school body being composed of very proper students. The most prominent one of them is Natsuo Maki, the student president who is admired by her classmates for her calm and polite demeanor. On the other hand, Riko Kurahashi is also admired but for having a very forward and boyish personality. Riko accidentally walks into Maki when she is kissing a body pillow with a picture of a guy for practice, and learns that she is not as collected as everyone thinks she is. Riko is forced into keeping Maki's secret and joins her in practicing romance activities such as holding hands and more.",
+    "popularity": 9.306,
+    "poster_path": "/9d1z67mhab83inx26JHu6zAb6QS.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-07-05",
+            "episode_count": 13,
+            "id": 74563,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/koBilhqvcYQZXEPoiah5OkDrj96.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 7
+}

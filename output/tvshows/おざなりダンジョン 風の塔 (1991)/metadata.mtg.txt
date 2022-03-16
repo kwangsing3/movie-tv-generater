@@ -1,0 +1,154 @@
+{
+    "adult": false,
+    "backdrop_path": "/hVkCJwEBc1UsPeS6MITypfNBgpU.jpg",
+    "created_by": [
+        {
+            "id": 2503463,
+            "credit_id": "5e151f326262080014c680eb",
+            "name": "Motoo Koyama",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1991-09-27",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 97455,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja",
+        "pt"
+    ],
+    "last_air_date": "1991-12-20",
+    "last_episode_to_air": {
+        "air_date": "1991-12-20",
+        "episode_number": 3,
+        "id": 2042161,
+        "name": "Here you are Epilogue",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/vqkUQLysViN6xnqT0j6S6HdZTak.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ozanari Dungeon: The Tower of Wind",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "おざなりダンジョン 風の塔",
+    "overview": "Mocha and her two companions are adventurers for hire. Unfortunately, their quest for wealth is hampered by their inability to finish a job. Just as they are going broke, Mocha contracts to steal a mystic dragon's head from the secluded temple of fire. When the trio finally escapes with the head, it speaks, offering a fortune for abandoning the contract and taking it to a different temple. Mocha readily agrees. They soon find themselves fighting their employer to prevent the end of the world.",
+    "popularity": 2.804,
+    "poster_path": "/rMbiB3xtcNidtj6hZIvL5yXQXHP.jpg",
+    "production_companies": [
+        {
+            "id": 10342,
+            "logo_path": "/eS79pslnoKbWg7t3PMA9ayl0bGs.png",
+            "name": "Studio Ghibli",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3069,
+            "logo_path": null,
+            "name": "Tokyo Movie Shinsha",
+            "origin_country": ""
+        },
+        {
+            "id": 104646,
+            "logo_path": null,
+            "name": "Tokyo Laboratory",
+            "origin_country": "JP"
+        },
+        {
+            "id": 84888,
+            "logo_path": null,
+            "name": "Gakken Co. Ltd.",
+            "origin_country": ""
+        },
+        {
+            "id": 13061,
+            "logo_path": null,
+            "name": "Toshiba EMI",
+            "origin_country": ""
+        },
+        {
+            "id": 20868,
+            "logo_path": null,
+            "name": "Telecom Animation Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 127487,
+            "logo_path": null,
+            "name": "D.S.D. Eureka",
+            "origin_country": ""
+        },
+        {
+            "id": 4813,
+            "logo_path": null,
+            "name": "Maki Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1991-09-27",
+            "episode_count": 3,
+            "id": 140223,
+            "name": "Season 1",
+            "overview": "The king of the Tower of Wind seeks the power of the legendary Dragon's Head, and employs the fighter Moka, the thief Buruman, and the magic user Kiriman to steal it for him. But the Dragon's Head is sealed in the Temple of Fire, and to capture it Moka will have to face the sect that has protected it generation after generation!",
+            "poster_path": "/eCiMIC60qyyO22jmbWRI5HlzK9V.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

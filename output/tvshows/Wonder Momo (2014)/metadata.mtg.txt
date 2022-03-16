@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/ue2x6LpkwhmoA1MfBbljNJ8Ahlh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        7
+    ],
+    "first_air_date": "2014-02-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 61538,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-06",
+    "last_episode_to_air": {
+        "air_date": "2014-03-06",
+        "episode_number": 5,
+        "id": 1464124,
+        "name": "Shibuya Under Attack!",
+        "overview": "Team Momo is pushed to the limit as aliens expand their invasion to Kyoto.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/kMsMB19PFSyvKYCIqoSS9fpFZZT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Wonder Momo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Niconico",
+            "id": 1083,
+            "logo_path": "/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Wonder Momo",
+    "overview": "One day, a group of aliens planning to take over Earth invade Tokyo. Momoko, who aspires to be an idol, gets involved in the fight in an unexpected form. Warudemon, king of the alien empire, uses various tactics to hunt down Momoko and the people around her. Momoko then decides to stand up to the Warudemon, plain and simple.",
+    "popularity": 3.657,
+    "poster_path": "/oj1aiarK3Y95k1YvdG5IfD9qD0B.jpg",
+    "production_companies": [
+        {
+            "id": 35971,
+            "logo_path": "/5q5P83YiDQa34FgGd2Wtw7aWBnr.png",
+            "name": "Graphinica",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-02-06",
+            "episode_count": 5,
+            "id": 63151,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.3,
+    "vote_count": 7
+}

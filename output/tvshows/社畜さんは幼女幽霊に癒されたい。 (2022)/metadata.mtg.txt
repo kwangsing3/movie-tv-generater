@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/iplAiDez3Wk2hCcdNxpYKBQBcc8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://shachikusan.com/",
+    "id": 127327,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "The Company Slave Wants to Be Healed by a Little Ghost Girl",
+    "next_episode_to_air": {
+        "air_date": "2022-04-07",
+        "episode_number": 1,
+        "id": 3017720,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "社畜さんは幼女幽霊に癒されたい。",
+    "overview": "",
+    "popularity": 6.882,
+    "poster_path": "/A99G8PDEToveNpCSRLuUVplyuYS.jpg",
+    "production_companies": [
+        {
+            "id": 74464,
+            "logo_path": null,
+            "name": "project No.9",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-07",
+            "episode_count": 1,
+            "id": 198823,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4u7YPuV7Yzkzv7EHNm5IPCL1MkC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

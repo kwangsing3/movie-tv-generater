@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/wOwui4SsP3ZGaWPlOxup0YqRyYF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2007-06-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://dmc-tv.com/",
+    "id": 12577,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-09-06",
+    "last_episode_to_air": {
+        "air_date": "2007-09-06",
+        "episode_number": 12,
+        "id": 484304,
+        "name": "Stylish",
+        "overview": "With Dante impaled and crucified in the demon dimension, it's up to Lady, Trish, Morrison and Patty to hold off Sid/Abigail's final assault on the world.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/apoTK1ZP4xKRjJhekQb4Vm1CkLy.jpg",
+        "vote_average": 5.2,
+        "vote_count": 6
+    },
+    "name": "Devil May Cry",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "WOWOW Prime",
+            "id": 172,
+            "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デビル メイ クライ",
+    "overview": "The adventures of the demon hunter Dante who himself is half demon and half human.",
+    "popularity": 21.587,
+    "poster_path": "/xDGxMQk24gt4proydCyxddPzTIG.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-05-16",
+            "episode_count": 1,
+            "id": 23469,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2007-06-14",
+            "episode_count": 12,
+            "id": 23468,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/poxH6rO48G0qxyyDBN08bVkN71p.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 111
+}

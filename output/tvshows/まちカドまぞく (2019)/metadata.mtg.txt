@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/ikFZqJVEntPwTS6cYr9ze84OGgb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/machikado/",
+    "id": 88806,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-09-27",
+    "last_episode_to_air": {
+        "air_date": "2019-09-27",
+        "episode_number": 12,
+        "id": 1822066,
+        "name": "Feelings to Convey!! A New Leap Forward for Demonkind!!",
+        "overview": "Momo needs to process the shocking revelations that rocked her to the core! Perhaps Yuko can solve the dilemma by offering Momo a deal with a demon girl.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8d6zMDhXv2ddfjAG0kcyY0jW5hL.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "The Demon Girl Next Door",
+    "next_episode_to_air": {
+        "air_date": "2022-04-08",
+        "episode_number": 1,
+        "id": 3382285,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まちカドまぞく",
+    "overview": "Awakening her dormant abilities as a devil one day, Yuuko Yoshida aka Shadow Mistress Yuuko, is entrusted with the mission to defeat the Light clan's shrine maiden, a magical girl, by her ancestor Lilith. Yuuko meets magical girl Momo Chiyoda through her classmate Anri Sada, and challenges her to a duel, but loses quickly due to her lack of strength.\n\nSince then, Yuuko has struggled with her role as a devil and her duel with Momo, and borrowed help from her regularly. However, by a strange coincidence, Yuuko also weakens Momo by taking away her power to cooperate in protecting the peace of Tama city.",
+    "popularity": 16.97,
+    "poster_path": "/p20iserOUnei2kYvMA1Sz5zk2uT.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-02",
+            "episode_count": 4,
+            "id": 134539,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/f2LbepoHSsTNBcCiNAG8TEicVSf.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-07-12",
+            "episode_count": 12,
+            "id": 123009,
+            "name": "Season 1",
+            "overview": "After a strange dream of a mysterious ancestor, high school student Yuuko Yoshida wakes to see that she has grown demonic horns and a tail. Dazed and confused, her mother reveals to her a dark family secret: her family is descended from a Dark Clan that was banished to live powerless and destitute by their mortal enemies, the magical girls of the Light Clan. The only way to lift their ancestry's curse is for Yuuko to find a magical girl, murder her, and splatter her blood all over her ancestor's Demon God statue.\n\nFortunately for \"Shadow Mistress Yuuko,\" a magical girl saves her from being run over by an oncoming truck. Unfortunately, Momo Chiyoda happens to be Yuuko's classmate at Sakuragaoka High and is much stronger than her in both strength and endurance. Taking pity on her wimpy assailant, the magical girl agrees to train Yuuko and help her unlock her dormant powers. Now, Yuuko must rise up and defeat her generous frenemy to save her family from the terrible grip of poverty.",
+            "poster_path": "/qLtDrSPgVgWrKh9C47OmLd7sj41.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2022-04-08",
+            "episode_count": 1,
+            "id": 234751,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/RBxbDXlykmJxrxbcjhpTRwUElA.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 8
+}

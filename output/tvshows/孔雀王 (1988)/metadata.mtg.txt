@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 2007911,
+            "credit_id": "61933e216ca9a00045a381e8",
+            "name": "Makoto Ogino",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1988-04-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 138688,
+    "in_production": false,
+    "languages": [
+        "en",
+        "it",
+        "ja"
+    ],
+    "last_air_date": "1994-06-17",
+    "last_episode_to_air": {
+        "air_date": "1994-06-17",
+        "episode_number": 2,
+        "id": 3340646,
+        "name": "Rumbling Kunlun Mountains",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Spirit Warrior",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 5,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "孔雀王",
+    "overview": "A young mystic without a past, Kujaku was born under a dark omen possessed of incredible supernatural powers. Raised by priests, he has learned to use these powers for good. But the evil Siegfried von Mittgard seeks to steal his birthright, and rule the world as the Regent of Darkness. He has dispatched bloodthirsty minions to destroy Kujaku before he can awaken to his destiny. Now, Kujaku must unravel the riddle of his past, before the power within consumes him!",
+    "popularity": 0.6,
+    "poster_path": "/fKxld0oO0QxHdmDs0R7GnjwRk60.jpg",
+    "production_companies": [
+        {
+            "id": 7776,
+            "logo_path": null,
+            "name": "Pioneer LDC, Inc.",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1988-04-29",
+            "episode_count": 3,
+            "id": 219698,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "1994-05-25",
+            "episode_count": 2,
+            "id": 219701,
+            "name": "Shin Kujakuou",
+            "overview": "Twin avatars, a boy and a girl, were born to reincarnate the gods of light Kujakuou and god of darkness Tenjaou. The Boy, Akira, is a member of a Buddhist sect charged with guardian the Dragon Grail, a mysterious vessel that has the power to release Tenjaou into the world. Power crazy neo-Nazi Siegfried von Mittgard plans to steal the grail and reincarnate himself as Tenjaou; this will prevent Akira's twin, Tomoko, from fulfilling her destiny, but Siegfried has another role in mind for her.",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 0,
+    "vote_count": 0
+}

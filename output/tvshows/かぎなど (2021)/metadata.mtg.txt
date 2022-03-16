@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/6BPh9lPOqyzenBTFlDUqDl6Fgh4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2021-10-13",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://kaginado.com/",
+    "id": 123684,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-29",
+    "last_episode_to_air": {
+        "air_date": "2021-12-29",
+        "episode_number": 12,
+        "id": 3285082,
+        "name": "The School Carnival Ends, and Then… Etc.",
+        "overview": "The Kaginado Academy Carnival Arc enters its third and final episode! The long-awaited beauty contest begins, bringing the event to a powerful climax. But it's not the climax anyone expected.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gC6qyZi55XmQk6OpjaMOAHYUjl.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "KAGINADO",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "かぎなど",
+    "overview": "This is the story of a small miracle. Stars from different universes and different times that were never meant to cross paths. By irony of fate, these stars come together in “Kaginado Academy”. What awaits them there is a lively school life full of hope and dreams. The wonderful encounters provide the stars with new radiance. What awaits beyond that radiance...?",
+    "popularity": 22.023,
+    "poster_path": "/mCqjGnDpRdckJwIhvJtAnQWlvbJ.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-13",
+            "episode_count": 12,
+            "id": 191267,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mCqjGnDpRdckJwIhvJtAnQWlvbJ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2
+}

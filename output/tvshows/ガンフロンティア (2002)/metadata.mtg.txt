@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/9osID0fKogCwTOlsnwn5VrfjoJ6.jpg",
+    "created_by": [
+        {
+            "id": 78014,
+            "credit_id": "5c68df1892514129d5fa7abf",
+            "name": "Leiji Matsumoto",
+            "gender": 2,
+            "profile_path": "/muSDczQxWUkLQQuwVvLO8fSdshM.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2002-03-28",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 25015,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-06-20",
+    "last_episode_to_air": {
+        "air_date": "2002-06-20",
+        "episode_number": 13,
+        "id": 649668,
+        "name": "Footprints to future",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xFCWWzAXrH1xE7LPQOqMYTr2523.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gun Fontier",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ガンフロンティア",
+    "overview": "Sea Pirate Captain Harlock and the errant samurai, Tochiro arrive in the United States on the Western Frontier. Along with a mysterious woman they meet along the way, the two friends challenge sex rings, bandits, and a corrupt sheriff. They are searching for a lost clan of Japanese immigrants, and they will tear Gun Frontier from end to end until they find it.",
+    "popularity": 5.091,
+    "poster_path": "/j5XULSmXXK9DMbN07E9h1FjYJTg.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2002-03-28",
+            "episode_count": 13,
+            "id": 35241,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/txt4vdXk9205jH1nFcm2GoGhVXc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 7
+}

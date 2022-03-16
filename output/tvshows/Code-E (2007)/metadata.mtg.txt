@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/dMJW4tFSEWFEpLFPPXqHScsXWLC.jpg",
+    "created_by": [
+        {
+            "id": 1467455,
+            "credit_id": "59d7b65bc3a368620d0111c0",
+            "name": "Ichiro Sakaki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2007-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 43322,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-09-22",
+    "last_episode_to_air": {
+        "air_date": "2008-09-22",
+        "episode_number": 12,
+        "id": 887482,
+        "name": "The Last of the Last of All Operations!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Code-E",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "Code-E",
+    "overview": "Code-E is a Japanese anime television series animated by Studio DEEN. It is based on an original concept by Ichiro Sakaki and directed by Toshiyuki Katō. The first season consists of twelve episodes and first aired in Japan on July 3, 2007 to September 23, 2007. A second season titled Mission-E began airing in July 2008. A new lead character named Maori Kimizuka will be joining Chinami in the sequel.",
+    "popularity": 4.27,
+    "poster_path": "/eeyz0D4V1SbYhI6JeGAP1xEowRI.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2007-07-08",
+            "episode_count": 12,
+            "id": 52771,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jnZ9uOPBuDPnldDUrlGYp7gwC6D.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-07-07",
+            "episode_count": 12,
+            "id": 52772,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/shgJMvazRp5L7mkOJsAvq4EGUeQ.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2
+}

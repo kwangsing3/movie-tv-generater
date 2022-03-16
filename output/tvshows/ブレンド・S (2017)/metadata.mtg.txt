@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/shat7d2no6y7p29568WprhohTAu.jpg",
+    "created_by": [
+        {
+            "id": 2960265,
+            "credit_id": "601787f5b5bc21003b9ff48d",
+            "name": "Miyuki Nakayama",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2017-10-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://blend-s.jp/",
+    "id": 74081,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-12-24",
+    "last_episode_to_air": {
+        "air_date": "2017-12-24",
+        "episode_number": 12,
+        "id": 1403725,
+        "name": "I Love You!",
+        "overview": "The Café Stile members are on a ski trip, when Dino finally decides to confess his feelings to Maika. However, there is an unexpected turn of events when Maika, right out of the bath, suddenly interrupts him. Is Maika going to beat Dino to the punch and confess her love for him?! The following day, Maika has an unforeseen, shocking confession for Kaho, Miu and Mafuyu.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lDPmYiScbCvaxipjZDn3BC6tYa6.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Blend S",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Animax Asia",
+            "id": 3268,
+            "logo_path": "/gNsvkmJY7QzRQ7AZ0QK9PeONIm2.png",
+            "origin_country": "TW"
+        },
+        {
+            "name": "GEM Asia",
+            "id": 5402,
+            "logo_path": null,
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブレンド・S",
+    "overview": "High school girl Maika Sakuranomiya has trouble finding a part-time job because of how scary she looks when smiling. However, she is scouted one day by Dino, the manager of the café Stile where its waitresses play unique traits such as tsundere and younger sister. Maika is given a sadist trait because of her looks and has to adopt a dominant and cruel persona when servicing customers, particularly masochist ones.",
+    "popularity": 19.344,
+    "poster_path": "/cRN22Xeb4kZ3GVBdfIJVPgD3ZH0.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-10-08",
+            "episode_count": 12,
+            "id": 93119,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/e4PGBf6Z9xlEaosFknrWGncm8Yg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 205
+}

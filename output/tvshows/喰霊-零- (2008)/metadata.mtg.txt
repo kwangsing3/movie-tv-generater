@@ -1,0 +1,114 @@
+{
+    "adult": false,
+    "backdrop_path": "/VA1j2Jmd3wCjEUE59DXdHr2QJZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2008-10-05",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.ga-rei.jp/",
+    "id": 26328,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-12-21",
+    "last_episode_to_air": {
+        "air_date": "2008-12-21",
+        "episode_number": 12,
+        "id": 668849,
+        "name": "Yearning Prayer",
+        "overview": "The SDCD gets a lock on Yomi's location, and Kagura sets out to cut down the monster she once considered her sister. Should she fail, the end of the world will surely follow.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2ELqErXMtW0n0uRPXqVCKDdsHzB.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ga-Rei-Zero",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "喰霊-零-",
+    "overview": "In Japan, there exists a government agency known as the Supernatural Disaster Countermeasures Division (SDCD), whose duty is to protect the citizens from creatures unseen. They are able to dispatch these monsters swiftly and without alerting the general public. But currently, they face a different challenge: the betrayal of one of their own.",
+    "popularity": 10.233,
+    "poster_path": "/2EVMtqOkdqYRNUmSROhT6ulpMS3.jpg",
+    "production_companies": [
+        {
+            "id": 110471,
+            "logo_path": null,
+            "name": "AIC Spirits",
+            "origin_country": ""
+        },
+        {
+            "id": 42519,
+            "logo_path": null,
+            "name": "asread.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 10,
+            "id": 151509,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-10-05",
+            "episode_count": 12,
+            "id": 36808,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hW76jgk2vHoKQDNfJSfAHwuNDqb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 25
+}

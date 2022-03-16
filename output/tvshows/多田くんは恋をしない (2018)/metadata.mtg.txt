@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/9PosEjEkcSt5jO0rRDgQ0iUcMIo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://tadakoi.tv/",
+    "id": 75975,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-06-28",
+    "last_episode_to_air": {
+        "air_date": "2018-06-28",
+        "episode_number": 13,
+        "id": 1509741,
+        "name": "I'll Never Forget It, Either.",
+        "overview": "Emotions run wild as Teresa and Charles get closer to tying the knot. Tada races to recover his invitation to the ceremony. Will Tada ever be able to settle his feelings?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/q5BYr6QvHCI7HHenVdLy3uu5TAN.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tada Never Falls in Love",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "多田くんは恋をしない",
+    "overview": "Love has never really been a concern for Mitsuyoshi Tada, and as the aspiring photographer enters his second year of high school. However, things just might change after he meets a foreigner named Teresa Wagner. Nevertheless, after she asks him to photograph her, the two soon separate... only to meet each other again twice more that day! Finding Teresa just as she is caught in a sudden downpour, Tada invites her to his family's coffee shop to dry off. There, she explains that she was separated from her traveling companion, Alec. When Teresa reunites with Alec shortly after, they say their goodbyes - but the two unexpectedly show up as transfer students in his class the next day.\n\nTeresa and Alec quickly get used to their lives at the High School and decide to join Tada in the photography club. With these two  additions to his equally eccentric group of friends, Tada's second year of high school is about to get even livelier, and he might need to start rethinking his approach to love.",
+    "popularity": 16.324,
+    "poster_path": "/kx6AtxZV3uLKlXAnToAoV5wjNA0.jpg",
+    "production_companies": [
+        {
+            "id": 41996,
+            "logo_path": "/4Rw2mRqA8JOf8qec6pVF57U65me.png",
+            "name": "Doga Kobo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-05",
+            "episode_count": 13,
+            "id": 97126,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pnJF6CkfRnKzkm65OLk42FKNH2X.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 68
+}

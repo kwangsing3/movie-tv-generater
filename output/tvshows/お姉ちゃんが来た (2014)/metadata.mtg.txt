@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/996SZsMPTnm0JADuuUKO5fTEQg3.jpg",
+    "created_by": [
+        {
+            "id": 1836606,
+            "credit_id": "5949a10dc3a368619b000074",
+            "name": "Rikou Anzai",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2014-01-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.takeshobo.co.jp/sp/tv_oneechan/",
+    "id": 72452,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-26",
+    "last_episode_to_air": {
+        "air_date": "2014-03-26",
+        "episode_number": 12,
+        "id": 1330712,
+        "name": "My Bedside Nurse Came!",
+        "overview": "The World's #1 Big Sister",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/z2TWlAfnJooJtDIVos5CqKenEpH.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "My Big Sister Arrived",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "お姉ちゃんが来た",
+    "overview": "Tomoya’s father remarries to another woman, giving him a stepsister, Ichika. However Ichika is 17-years old and has completely fallen in love with her stepbrother who is only 13!! Families will collide in the most unusual fashion this season, in the new anime short: ONEE-CHAN GA KITA!",
+    "popularity": 12.1,
+    "poster_path": "/jEDeJhl39ryjIKqVthmFN1ZJWFZ.jpg",
+    "production_companies": [
+        {
+            "id": 87536,
+            "logo_path": null,
+            "name": "C2C",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-01-09",
+            "episode_count": 13,
+            "id": 89732,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/d3SjP4i7bpbYzIOeCkp2mSRbTH5.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 10
+}

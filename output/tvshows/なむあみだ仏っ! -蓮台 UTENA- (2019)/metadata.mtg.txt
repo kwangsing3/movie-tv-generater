@@ -1,0 +1,82 @@
+{
+    "adult": false,
+    "backdrop_path": "/8HP4oDZqwzCuaSQajo5Ho9GwL4j.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2019-04-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://namuami-utena-anime.com",
+    "id": 87474,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-06-24",
+    "last_episode_to_air": {
+        "air_date": "2019-06-24",
+        "episode_number": 12,
+        "id": 1793987,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "NAMUAMIDABUTSU! -UTENA-",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "なむあみだ仏っ! -蓮台 UTENA-",
+    "overview": "The pain that everyone cannot escape when living: the living, old, sick, and death. The way to save it is through Buddhist enlightenment. At the end of a war, a prince who obtained the Buddhist enlightenment became the Shaka Nyorai and saved the world. Long time has passed since that, currently the latter age of decadence. Mara, the worry that once tried to destroy Shaka's enlightenment, has made a contract with the devil in order to seek revenge against Shaka. He begins to control people with worries.\n\nMeanwhile, a team centering around Shaka, called the Thirteen Buddhas, and the two benevolent deities who protect the dharma, Taishakuten and Bonten, have stood up to fight against Mara to protect people from worries. A battle between Mara and the Buddhist gods that involves people begins now!",
+    "popularity": 13.758,
+    "poster_path": "/zoCLMTA1t1dMXbC26RLfvEp24If.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-04-08",
+            "episode_count": 12,
+            "id": 120160,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eInSrTe2MWlCbjbGpWnloOEthuO.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

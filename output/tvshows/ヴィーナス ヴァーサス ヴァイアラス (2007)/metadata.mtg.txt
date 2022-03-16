@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/pLuTTpqMvzHo8UInUURRd18XsC7.jpg",
+    "created_by": [
+        {
+            "id": 1686319,
+            "credit_id": "60b1da2e57d37800597fdc46",
+            "name": "Shinichirou Kimura",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2007-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/vvv/",
+    "id": 68641,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-03-30",
+    "last_episode_to_air": {
+        "air_date": "2007-03-30",
+        "episode_number": 12,
+        "id": 1434302,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/39l5KS9p2G55254EsTOw0gG33kb.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Venus Versus Virus",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ヴィーナス ヴァーサス ヴァイアラス",
+    "overview": "Venus Versus Virus revolves around the life of a young girl named Sumire Takahana who has had the power to see ghosts since she was a small child, though no one believes her. One night while running to her dorm building to make curfew, a broach flies out of no where and she pricks her finger on it and sees a demon. Suddenly, another girl clad in gothic lolita clothing arrives bearing a huge gun and kills the demon. Once the ordeal is overwith, the girl gives Sumire a flier for a local clothing store, Venus Vanguard. When Sumire comes to the store, the girl, whose name is Lucia Nabashi, she explains to her that because she pricked her finger on Lucia's broach, Sumire now has the power to see demons as well as ghosts. Additionally, Lucia now wants Sumire to help her rid the world of these demons called Virus that threaten to consume all of humanity.",
+    "popularity": 2.92,
+    "poster_path": "/pjrK9j4WlXQsHcyXZ0QTfi8znWz.jpg",
+    "production_companies": [
+        {
+            "id": 78802,
+            "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+            "name": "Studio Hibari",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-01-12",
+            "episode_count": 12,
+            "id": 81862,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pHPp9uDrVX7JU5BErwGHex05iC1.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 3
+}

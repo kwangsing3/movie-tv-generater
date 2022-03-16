@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/z4GtNULtH7UCjrzg6PoCCjpzDcs.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2002-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 42567,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-12-27",
+    "last_episode_to_air": {
+        "air_date": "2003-12-27",
+        "episode_number": 12,
+        "id": 881462,
+        "name": "Ties",
+        "overview": "Most of the inhabitants expect Tina to return soon from her trip home to America - only Kaoru and Aoi have seen the paper that Tina left at her door, and Aoi seems to miss Tina the most.    But finally, when they were about to give up on their friend, the Enishi of the Western Style house shows its power...",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/rSTckNL2DpoFMCIK0xUmhX8A4Le.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ai Yori Aoshi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 36,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "藍より青し",
+    "overview": "Kaoru is a college boy with everything going for him. He lives in a mansion with his beautiful fiancé, Aoi, all his roommates are babes, and they all have the hots for him. There’s just one hitch: due to family complications, Kaoru and his beloved have to keep their engagement a secret. As he gets tangled in countless steamy situations, can Kaoru overcome temptation and stay true to the lovely Aoi?",
+    "popularity": 17.907,
+    "poster_path": "/sBqJgnOAIJzc8MO6okjlH4ePfJh.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-04-01",
+            "episode_count": 2,
+            "id": 52276,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/954Qu7AxUMUeOV30Nnn3PUhiIxj.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2002-04-10",
+            "episode_count": 24,
+            "id": 52277,
+            "name": "Ai Yori Aoshi",
+            "overview": "",
+            "poster_path": "/qiql4jztERl368c0JYylQXaTkLA.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2003-10-12",
+            "episode_count": 12,
+            "id": 52278,
+            "name": "Ai Yori Aoshi: Enishi",
+            "overview": "",
+            "poster_path": "/bP4ePD7t5A60bAvabH8KMHITMPN.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 61
+}

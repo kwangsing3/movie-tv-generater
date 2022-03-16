@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/z5tNF9IC6Lr17dpHIq3xq7mcTH9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-07-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://anime-rurumo.com/index.html?top",
+    "id": 79208,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-24",
+    "last_episode_to_air": {
+        "air_date": "2014-09-24",
+        "episode_number": 12,
+        "id": 2503163,
+        "name": "A Day Without Rurumo",
+        "overview": "The season is winter. The year is already ending. After throwing a dreary all-male Christmas party, Kota and his friends Nishino and Sugawara make plans for their first shrine visit of the year. At Nishino's request, he decides to invite Rurumo with them.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/4021qsdgapTPhVZwLWRBqJpCuUW.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magimoji Rurumo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まじもじるるも",
+    "overview": "Shibaki is a high school boy only interested in girls. However, he has been branded as the most perverted boy at school, and the girls go out of their way to avoid him. When he finds a book in the library about how to summon witches, he tries it as a joke; unexpectedly, though, the book works, and a cute witch named Rurumo appears to grant him a wish. Shibaki helps Rurumo and she in return refuses to take his soul.\n\nAfter some time, he thinks about his meeting with Rurumo, and wishes he could see her again. His wish is granted immediately, as Rurumo falls from the sky and crash-lands in front of him, tasked with getting him to use up 666 magic tickets that grant wishes before she can become a witch again. However, according to Rurumo's familiar, what she does not know is that each ticket he uses will shorten his life span, and, when the last ticket is used, he will die.",
+    "popularity": 11.825,
+    "poster_path": "/yeTec1XPD05dnunlFtbarSfKgU3.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-07-09",
+            "episode_count": 2,
+            "id": 136134,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/g6DcqqxpdpT6zKDOQxYT87m0bTV.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-07-09",
+            "episode_count": 12,
+            "id": 168351,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gAJ80tUgAZ7h2RZPVsTIkce5zm7.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 28
+}

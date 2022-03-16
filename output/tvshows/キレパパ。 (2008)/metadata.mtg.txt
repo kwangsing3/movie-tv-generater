@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/30CDPxXXbbdkGu2elCwSO2F9JF5.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        29
+    ],
+    "first_air_date": "2008-01-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 85022,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-11-28",
+    "last_episode_to_air": {
+        "air_date": "2008-11-28",
+        "episode_number": 2,
+        "id": 1645073,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kirepapa.",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "キレパパ。",
+    "overview": "Chisato is a beautiful 35-year-old writer, who looks like 18, and the father of Riju, a cute 15-year-old boy. Chisato's hobby is to drive away all of Riju's friends because he thinks they want to corrupt his precious child, so he shows his good side to these boys while he poisons the cake he brings them with a smile; however, there is one guy, Shunsuke, who doesn't fall for the tricks. But is Shunsuke really aiming for Riju? Who is that mysterious writer Chisato loves so much? And why is Chisato convinced that Riju's friends want to take advantage of him?",
+    "popularity": 5.029,
+    "poster_path": "/2uwmeuVWsyqotpkJDt1gyJ97Hki.jpg",
+    "production_companies": [
+        {
+            "id": 5451,
+            "logo_path": "/xeHQM5AsvHwo4Ublp4MetaEfsVf.png",
+            "name": "ACGT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-01-25",
+            "episode_count": 2,
+            "id": 114544,
+            "name": "OVA",
+            "overview": "",
+            "poster_path": "/zuhWb490FQkMabOgxAwINKVf3bC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 7.5,
+    "vote_count": 2
+}

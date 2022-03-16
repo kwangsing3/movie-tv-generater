@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2006-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 35897,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2009-05-16",
+    "last_episode_to_air": {
+        "air_date": "2009-05-16",
+        "episode_number": 7,
+        "id": 815817,
+        "name": "Netherworld Siblings",
+        "overview": "Now free of assassins, Laharl, Flonne, and Etna stop for lunch at a saloon. The trio soon meets up with a strange girl named Maharl claiming to be Laharl's sister, but Laharl questions her relation to him. Could this strange girl really be Laharl's younger sister?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "name": "Disgaea",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "魔界戦記ディスガイア",
+    "overview": "Laharl, the demon prince of the Netherworld and son of the late Lord Krichevskoy, is awakened by Flonne, the sugary-sweet angel-in-training sent to assassinate the overlord. Etna, the Prinnies, and Flonne, join the selfish, disgruntled, and perpetually hungry Laharl as he treks the deepest, darkest realms to become king of the cursed land.",
+    "popularity": 3.994,
+    "poster_path": "/bQgbjA328PuWQP1epb75sQEkMnU.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2006-02-23",
+            "episode_count": 1,
+            "id": 46696,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-04-04",
+            "episode_count": 12,
+            "id": 46695,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/awWm4qgpr3uDCZxUnFKaZKxseRx.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 4
+}

@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/zoTjEePiDK7GyrpY4Hfv52EB8Wf.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2018-06-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 85188,
+    "in_production": false,
+    "languages": [
+        "zh"
+    ],
+    "last_air_date": "2018-06-01",
+    "last_episode_to_air": {
+        "air_date": "2018-06-01",
+        "episode_number": 1,
+        "id": 1650823,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Meng Ta: Xue Mi Cheng",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "梦塔·雪谜城",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/AoeB7RDhrsR5GURap3dnLjhTLpZ.jpg",
+    "production_companies": [
+        {
+            "id": 111148,
+            "logo_path": null,
+            "name": "N/A",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-06-01",
+            "episode_count": 13,
+            "id": 114840,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/AoeB7RDhrsR5GURap3dnLjhTLpZ.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

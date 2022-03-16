@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/enkRDzgrYROAqlI4CbdT0VMZJdq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2011-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/anime/prettyrhythm2011/story/index.html",
+    "id": 108906,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-07-03",
+    "last_episode_to_air": {
+        "air_date": "2012-07-03",
+        "episode_number": 51,
+        "id": 2506458,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Pretty Rhythm: Aurora Dream",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Setouchi",
+            "id": 2064,
+            "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS TV Tokyo",
+            "id": 3471,
+            "logo_path": "/lUEv1JU8b5UcZJ1XoJkAq8o6UVd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "プリティーリズム オーロラドリーム",
+    "overview": "Prism Stars are performers on the new popular ice show, Prism Show. They are superidols whose techniques, singing and fashion sense are a cut above all others. Aira and Rizumu are two Prism Stars whose goal is to become the best, the Prism Queen; however, the road to success is bumpy.",
+    "popularity": 4.82,
+    "poster_path": "/taWXKwAF5Lqy80dPCKHW3eruxqJ.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-04-09",
+            "episode_count": 51,
+            "id": 161413,
+            "name": "Pretty Rhythm: Aurora Dream",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 161414,
+            "name": "Pretty Rhythm: Dear My Future",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

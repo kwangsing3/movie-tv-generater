@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/km5AHMstq5BVMwPw7dYd2dK744m.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 34802,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2004-09-21",
+    "last_episode_to_air": {
+        "air_date": "2004-09-21",
+        "episode_number": 24,
+        "id": 792620,
+        "name": "And yet, the dawn of you who begins a journey",
+        "overview": "Bocca returns to Earth and finally meets the Monster King. The Monster King reveals the secret about the Melody of Oblivion.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Melody of Oblivion",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "忘却の旋律",
+    "overview": "After a war occurred in the 20th century between humans and demons. Since that time, the monsters rule the world in fear but keep relatively hidden from public view. A boy named Bokka ponders the past and wonders what became of the Meros Warriors who defended the world so bravely against the demons.",
+    "popularity": 5.348,
+    "poster_path": "/A5s2Z2y3PUm5qtwi9jE3ek9SPd.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2004-04-06",
+            "episode_count": 24,
+            "id": 45583,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 3
+}

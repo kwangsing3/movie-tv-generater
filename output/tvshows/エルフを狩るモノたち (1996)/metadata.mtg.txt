@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": "/n00YPtmXqRiny74bSzK7z9ZLJ7U.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1996-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 12565,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1997-12-19",
+    "last_episode_to_air": {
+        "air_date": "1997-12-19",
+        "episode_number": 12,
+        "id": 484203,
+        "name": "Those Who Still Hunt Elves",
+        "overview": "The ancient evil that Tree Town was built to seal has awakened... and only Those Who Hunt Elves stand a chance at stopping it. It's time for an epic battle, a confirmation of friendships, and the most unlikely of saviors, in this, the final episode of Those Who Hunt Elves II.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Those Who Hunt Elves",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "エルフを狩るモノたち",
+    "overview": "Martial Artist Junpei, actress Airi, and artillery-obsessed student Ritsuko all find themselves transported from Japan to a magical world. When the elven priestess Celcia casts the spell to send them home, she is interrupted, and the spell is broken into parts that scatter throughout the world. The spell fragments imprint themselves onto the bodies of various female elves so the trio must travel in search of them.",
+    "popularity": 13.132,
+    "poster_path": "/hHBAl44kt1m4KGBrVMWTKrYD5Uf.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1996-10-04",
+            "episode_count": 12,
+            "id": 23460,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oADR5L7mRqHvHV5dsHcg0V1EwVP.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "1997-10-01",
+            "episode_count": 12,
+            "id": 23461,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/ueIiORsTu2aQNXPWUGLpQPCB85w.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 5
+}

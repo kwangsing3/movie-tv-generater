@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/3VmiG5gFL9tkWV4USMxeLCpZ5Y3.jpg",
+    "created_by": [
+        {
+            "id": 1110435,
+            "credit_id": "6081b6fc0f0da50040be199e",
+            "name": "Yoshitomo Yonetani",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-05-23",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.amuri.jp/",
+    "id": 123993,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-09-26",
+    "last_episode_to_air": {
+        "air_date": "2008-09-26",
+        "episode_number": 3,
+        "id": 2894767,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/eyphSZdbnXN6Pzq8O3HxecF0xpg.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Amuri in Star Ocean",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Bandai Channel",
+            "id": 888,
+            "logo_path": "/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "星の海のアムリ",
+    "overview": "",
+    "popularity": 1.4,
+    "poster_path": "/mLLuHmgXvVhc16kekndagnOaBkD.jpg",
+    "production_companies": [
+        {
+            "id": 78802,
+            "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+            "name": "Studio Hibari",
+            "origin_country": "JP"
+        },
+        {
+            "id": 528,
+            "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+            "name": "Bandai Visual",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-05-23",
+            "episode_count": 3,
+            "id": 191755,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mLLuHmgXvVhc16kekndagnOaBkD.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

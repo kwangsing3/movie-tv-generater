@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/7iiVHhrQ2aMzwcQovFDreFjAfzA.jpg",
+    "created_by": [
+        {
+            "id": 1387538,
+            "credit_id": "5ead67080b731600243e38b9",
+            "name": "Kia Asamiya",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1999-04-09",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www6.nhk.or.jp/anime/program/detail.html?i=yui",
+    "id": 34159,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-10-19",
+    "last_episode_to_air": {
+        "air_date": "2000-10-19",
+        "episode_number": 26,
+        "id": 783872,
+        "name": "We're all friends!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Corrector Yui",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "NHK Educational TV",
+            "id": 622,
+            "logo_path": "/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "コレクター・ユイ",
+    "overview": "Yui is an average schoolgirl who lives in a future where all computers are supported by a single global network known as COMNET. Yui is a computer-illiterate girl who after a computer-lab accident is approached by IR, a raccoon looking corrector computer program, which tells her she must save COMNET. She must stop the rogue A.I. (Artificial Intelligence) computer program known as Grosser and his hench-programs from taking over the world. Grosser was originally designed to be that manager of all of COMNET. At first she's very reluctant to play the heroine because of her complete lack of knowledge and ability with computers. To save COMNET she must find and gain the trust of the other seven wayward corrector programs. They must also find the creator or COMNET Professor Inukai, to help stop Grosser for good.",
+    "popularity": 9.692,
+    "poster_path": "/bTqu08E0Ahw5UvX3JfEKukso16N.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1999-04-09",
+            "episode_count": 26,
+            "id": 44988,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3A5DtmhTFZ9EPFbdXrAkJyEm8C0.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2000-04-13",
+            "episode_count": 26,
+            "id": 44989,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/wrXvnQfKLLtEXG9L9Gl3u2S6U3U.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 3
+}

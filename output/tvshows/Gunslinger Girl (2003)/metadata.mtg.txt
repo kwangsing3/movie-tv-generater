@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/r3S6gEYSIkMp3nddxJYIq3GSAIp.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-10-08",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.marv.jp/special/gs/gunslingergirl/www/1st/",
+    "id": 31731,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-03-31",
+    "last_episode_to_air": {
+        "air_date": "2008-03-31",
+        "episode_number": 13,
+        "id": 759204,
+        "name": "And So Pinocchio Becomes Human",
+        "overview": "The \"Pinocchio Arc\" comes to a conclusion. Franco and Franca decide to come to the aid of Cristiano and Pinocchio. Triela and Pinocchio battle it out with guns and knives while Hillshire looks for Cristiano. Pinocchio shoots Triela with her own pistol and Cristiano is shot and then captured by Jean and Rico. Franco and Franca arrive to rescue Cristiano and make their escape by car. They reach the roadblock and Angelica shoots Franca. They fail to negotiate a bend in the road and crash into the Mediterranean. Triela finds Pinocchio and her training allows her to finally defeat him. In the aftermath of the battle, they dredge the car from the sea, but no bodies are found. All of the cyborgs are congratulated by their handlers for jobs well-done. Back at the compound, the girls settle back into their daily routine.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/23zIaeKLZseGFapySkO2fKvOAVG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gunslinger Girl",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Gunslinger Girl",
+    "overview": "The Social Welfare Agency saves the lives of terminal patients using cybernetic implants. Then it teaches them to kill. After surviving the slaughter of her family, young Henrietta awakens to her new life at the Agency with a rebuilt body and no memory. Teamed with Jose, who is responsible for turning her into the perfect assassin, Henrietta’s been given a second chance—but at what cost?",
+    "popularity": 13.551,
+    "poster_path": "/2tr9uJuGdMFzWfXF2tVZvpVaRXe.jpg",
+    "production_companies": [
+        {
+            "id": 58268,
+            "logo_path": null,
+            "name": "Artland",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2008-11-24",
+            "episode_count": 2,
+            "id": 43233,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/kHCGw8u4UhSFw3MiK6ucezhtZSt.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-10-08",
+            "episode_count": 13,
+            "id": 43232,
+            "name": "Gunslinger Girl",
+            "overview": "Set in modern Italy, story follows a group of traumatically-injured young girls taken from hospitals all over the country, who are then cybernetically enhanced, indoctrinated and trained to be assassins by a secret branch of the Public Corporation for Social Welfare, Section 2. Each girl is assigned to a male \"handler\" who oversees her training, deployments, and general conduct. Each handler is free to \"condition\" his cybernetic assassin to the extent he sees fit, which increases a girl’s lethality and loyalty at the expense of human individuality and lifespan.",
+            "poster_path": "/jrXX2Y6jdQSlXbDSB79Zpdeiv5W.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2008-01-07",
+            "episode_count": 13,
+            "id": 43234,
+            "name": "Gunslinger Girl: Il Teatrino",
+            "overview": "",
+            "poster_path": "/A7Mj0CHKl6fmR3cRTHAcOrcnO9Y.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "The girl has a mechanical body. However, she is still an adolescent child.",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 28
+}

@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/3ztUIm3r1iCLiYv35AeNjTvli7m.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2012-09-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://web.archive.org/web/20150730142338/http://www.ganganonline.com/pop/horimiyaova/",
+    "id": 71376,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-05-25",
+    "last_episode_to_air": {
+        "air_date": "2021-05-25",
+        "episode_number": 6,
+        "id": 2946837,
+        "name": "A Kind Person",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Hori-san and Miyamura-kun",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "堀さんと宮村くん",
+    "overview": "Within everyone there exists a side preferably kept hidden, even from close friends. For the smart and popular Kyouko Hori, it’s the fact that she has to do all the housework and care for her little brother, Souta, because of her parents' busy work schedules. For the gentle Izumi Miyamura, whom everybody sees as an otaku, it's his nine hidden piercings and large body tattoo.\n\nSo what happens when they accidentally discover each other's hidden sides? Sharing parts of themselves that they couldn't with anyone else, strong bonds of friendship soon begin to form between Miyamura and Hori, as well as those around them. As their hidden personas start to dissipate, they slowly learn how to open up to others.",
+    "popularity": 12.548,
+    "poster_path": "/oTiNcs7Rfu2AzfexlSNl7VTxHiM.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 25697,
+            "logo_path": "/u0AlLAjKiCI42ZeRUIuI8ARuosr.png",
+            "name": "Hoods Entertainment",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-09-26",
+            "episode_count": 6,
+            "id": 87630,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zAgpFrLFsa8Jr1LVCxSU7PqmDWi.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 3
+}

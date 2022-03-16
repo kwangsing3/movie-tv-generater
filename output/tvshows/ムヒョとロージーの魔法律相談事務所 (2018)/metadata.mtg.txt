@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/bnFAuSU9qelbKNuXdCI1F8y4FHf.jpg",
+    "created_by": [
+        {
+            "id": 1722286,
+            "credit_id": "5b4b89b79251417d0f0262cb",
+            "name": "Nobuhiro Kondo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2018-08-03",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://mahouritsu.com/",
+    "id": 80853,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-09-22",
+    "last_episode_to_air": {
+        "air_date": "2020-09-22",
+        "episode_number": 12,
+        "id": 2336399,
+        "name": "That Which is Perfect",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/a16vKKbeBlWihU58EMnZQkkXG4U.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Muhyo & Roji's Bureau of Supernatural Investigation",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 24,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ムヒョとロージーの魔法律相談事務所",
+    "overview": "Are you a victim of unwanted spirit possession? Is there a ghost you need sent up and away...or down to burn for all eternity? If the answer is yes, then you need Muhyo and Roji, experts in magic law. Serving justice to evil spirits is their specialty.",
+    "popularity": 10.653,
+    "poster_path": "/w21VgvgYKwhuG0wavy60SaWvqfs.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-08-03",
+            "episode_count": 12,
+            "id": 106317,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/d0kWTyzE5thGFxoCxmWd9XhcX7a.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2020-07-07",
+            "episode_count": 12,
+            "id": 147535,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/bXak6tIN8aTwhGBdy1KeWhKqSgr.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 4
+}

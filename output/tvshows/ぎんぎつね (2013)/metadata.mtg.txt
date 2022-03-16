@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/8eY9bNp4bYXenZ6qCLGCfmtvNHO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://gingitsune.net/",
+    "id": 72911,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2013-12-22",
+    "last_episode_to_air": {
+        "air_date": "2013-12-22",
+        "episode_number": 12,
+        "id": 1474987,
+        "name": "Summer Cleansing",
+        "overview": "It's time for the Summer Cleansing. At the Saeki Inari shrine, Makoto, Yumi, and Hiwako wake up early so Tatsuo's sister, Etsuko, can help them change into shrine maiden outfits. Tatsuo drops by to mention that a foreign-looking boy has arrived. When they step outside, they find the student council president Kirishima. People continue to gather for the semi-annual event",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dyx1Bmj3rh2ZPBlV7g5SXU6j3MR.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gingitsune: Messenger Fox of the Gods",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Osaka",
+            "id": 824,
+            "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぎんぎつね",
+    "overview": "Gintarou is a fox spirit that has been protecting the small Inari temple since the Edo era. Saeki Makoto's family possesses the power to see the gods' agent, but the ability is limited to one living relative at a time. When Makoto's mother passed away while she was still young, Makoto inherited the ability as the sole remaining family member. With the help of fox spirit's power, Makoto and Gintarou help the people of their community, in spite of their many differences.",
+    "popularity": 8.894,
+    "poster_path": "/oYH2yRCdnvZAFVhGdoAUVCKq8uv.jpg",
+    "production_companies": [
+        {
+            "id": 35970,
+            "logo_path": null,
+            "name": "diomedéa",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-10-07",
+            "episode_count": 12,
+            "id": 90610,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rdRS6biV3MtX2ZXuvEzXbISzAue.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 4
+}

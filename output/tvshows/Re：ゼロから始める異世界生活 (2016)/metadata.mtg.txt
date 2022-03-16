@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://re-zero-anime.jp/",
+    "id": 65942,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-24",
+    "last_episode_to_air": {
+        "air_date": "2021-03-24",
+        "episode_number": 25,
+        "id": 2784131,
+        "name": "Offbeat Steps Under the Moonlight",
+        "overview": "The magic Roswaal is using to control the weather generates enough mana to attract the Great Rabbit, which draws closer to the Sanctuary in a massive horde. Emilia takes Roswaal and Ram to shelter in the graveyard with everyone else, but the Great Rabbit horde has already grown enough to engulf their surroundings. Just when all hope seems lost, Subaru and Beatrice appear before Emilia. So begins Subaru and Beatrice's first battle against the Great Rabbit, one of the Three Great Mabeasts.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/5qBB8xTPLYDkngNCSbe8k77t280.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Re：ゼロから始める異世界生活",
+    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+    "popularity": 104.585,
+    "poster_path": "/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
+    "production_companies": [
+        {
+            "id": 12569,
+            "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+            "name": "White Fox",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-04-05",
+            "episode_count": 50,
+            "id": 76465,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/DZtIJ4MbMgvrdZ6aqcCRfWjH03.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-04",
+            "episode_count": 25,
+            "id": 75470,
+            "name": "Season 1",
+            "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+            "poster_path": "/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2020-07-08",
+            "episode_count": 25,
+            "id": 135315,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/kyJHixOWh9vvHDs12V335urey7T.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 222
+}

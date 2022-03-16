@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/qu2Wr1qsIVlzsb4554Wkis7NqDX.jpg",
+    "created_by": [
+        {
+            "id": 2057028,
+            "credit_id": "5f793255e039f10038e760b4",
+            "name": "Kaori Yuki",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2000-05-25",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 26173,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2000-08-25",
+    "last_episode_to_air": {
+        "air_date": "2000-08-25",
+        "episode_number": 3,
+        "id": 666624,
+        "name": "Regeneration",
+        "overview": "Setsuna tells Sara about what he has inside. Rosiel kills Sara and Alexil's power appear and destroys everything. Seraphita tells Setsuna about who Setsuna really is and what he has to do to bring Sara back to life.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gk0gm5erEL51mAJV8TZKIRGS6Yx.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Angel Sanctuary",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "天使禁猟区",
+    "overview": "Setsuna, a High School student, not only has to deal with bullies and more then appropiate feelings for his own sister, but also must come to terms with the fact that he is the reincarnation of the Organic Angel Alexiel who rebelled against God. Being thrust into a world he never knew existed he must believe that angels and demons exist for the sake of Heaven, Earth and even Hell.",
+    "popularity": 3.574,
+    "poster_path": "/KQ6Tvlw6t9HJIY5ZdItC6igKRi.jpg",
+    "production_companies": [
+        {
+            "id": 72652,
+            "logo_path": null,
+            "name": "Hal Film Maker",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2000-05-25",
+            "episode_count": 3,
+            "id": 36631,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6je28kSGmXClndNDh3YJ6ET8vxN.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 7,
+    "vote_count": 4
+}

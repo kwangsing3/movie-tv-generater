@@ -1,0 +1,91 @@
+{
+    "adult": false,
+    "backdrop_path": "/uk4CCY322KMDdUejdMdygv45iGR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://wave-anime.com/",
+    "id": 113780,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-29",
+    "last_episode_to_air": {
+        "air_date": "2021-03-29",
+        "episode_number": 12,
+        "id": 2696153,
+        "name": "Big WAVEs!!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/dCV8pNUYg0YEIV5TgOgghH5SRD8.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "WAVE!! -Let's go surfing!!-",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "WAVE!!～サーフィンやっぺ!!～",
+    "overview": "Follow the story of these beach boys who learned to love the ultimate sport of surfing!",
+    "popularity": 15.721,
+    "poster_path": "/ojIICjgH0ZH4aYPhXersZ02mVeH.jpg",
+    "production_companies": [
+        {
+            "id": 14969,
+            "logo_path": "/jwTtvhoCesywogszy79x84Y8Ihh.png",
+            "name": "Asahi Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-11",
+            "episode_count": 12,
+            "id": 170173,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ojIICjgH0ZH4aYPhXersZ02mVeH.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 3
+}

@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/az1WfPrMy5VkFqDbLalgdiOcGm2.jpg",
+    "created_by": [
+        {
+            "id": 106577,
+            "credit_id": "605750dbfd4f800074bacc91",
+            "name": "Junichi Sato",
+            "gender": 2,
+            "profile_path": "/ckKxvO5rmHG9nh4ZarKffR3iYUv.jpg"
+        }
+    ],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2012-08-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.anime-oneoff.info/",
+    "id": 107328,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-10-07",
+    "last_episode_to_air": {
+        "air_date": "2012-10-07",
+        "episode_number": 4,
+        "id": 2385843,
+        "name": "And Thus Began Their Memories",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/aPc2kPEEznNFOQ6mpFb526ZTpUs.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "One Off",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "わんおふ -one off-",
+    "overview": "A slice of life of high school girls in the early summer. Shiozaki Haruno is a 17-year-old girl who loves her motor cycle, HONDA's Giorno. She lives in remote highlands and longs for a vivid life in a city. Encounters with people staying at Haruno's parents' boardinghouse encourage her to step forward to her dream.",
+    "popularity": 2.99,
+    "poster_path": "/rlOoQG9dKkJZHGgmJ3jmQzr7I6k.jpg",
+    "production_companies": [
+        {
+            "id": 3365,
+            "logo_path": null,
+            "name": "TYO Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71226,
+            "logo_path": null,
+            "name": "TYO Animations",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-08-05",
+            "episode_count": 4,
+            "id": 158738,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rlOoQG9dKkJZHGgmJ3jmQzr7I6k.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

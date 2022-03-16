@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/524amZpqKKaCbKuzzlMzWla6L5V.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1991-08-01",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 82252,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1992-03-01",
+    "last_episode_to_air": {
+        "air_date": "1992-03-01",
+        "episode_number": 4,
+        "id": 1569002,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Kekko Kamen",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "けっこう仮面",
+    "overview": "No,​ that's not a skin-tight pink costume - it's her skin! She's Kekko Kamen,​ the dynamic denuded damsel who fights injustice in the altogether.​ Her mission?​ To expose rampant classroom corruption at the Big Toenail of Satan's Spartan Institute of Higher Education - all while repeatedly rescuing everyone's favorite victim,​ the beautiful (and often naked) Mayumi Takahashi,​ from the Institute's terrifying torture chamber!",
+    "popularity": 6.078,
+    "poster_path": "/fanuyyTyptfeM5FtK0skCBxmm9j.jpg",
+    "production_companies": [
+        {
+            "id": 12268,
+            "logo_path": null,
+            "name": "Dynamic Planning",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1991-08-01",
+            "episode_count": 4,
+            "id": 109115,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nPTejpYjN3Oh8WoZdT2tiLK9lOC.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Video",
+    "vote_average": 5,
+    "vote_count": 3
+}

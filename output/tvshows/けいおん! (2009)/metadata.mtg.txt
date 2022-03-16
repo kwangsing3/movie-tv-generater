@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/8UwpclMJMPbJV0FCgDd8R8XilRY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2009-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/k-on/",
+    "id": 42253,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-09-15",
+    "last_episode_to_air": {
+        "air_date": "2010-09-15",
+        "episode_number": 24,
+        "id": 879103,
+        "name": "Graduation Ceremony!",
+        "overview": "Graduation day comes and goes. Azusa is happy for her friends but is sad to see them go.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/gtXQ6yeUwq8o5nY1nstAWQAVhjP.jpg",
+        "vote_average": 9,
+        "vote_count": 2
+    },
+    "name": "K-ON!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 36,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "けいおん!",
+    "overview": "The Sakuragoaka Girls' Academy curriculum traditionally focuses on the three \"R\"s of reading, writing and arithmetic, but Ritsu Tainaka wants to add two more \"R\"s: Rock and Roll! To do that, however, Ritsu has to save the Light Music Club from being shut down due to little problems like not having any other members or a faculty advisor. After strong-arming her best friend Mio into joining and convincing Tsumugi Kotobuki to make it a trio, Ritsu's would-be rockers are soon only one talented guitarist short of the quartet they need for school approval. What they get, unfortunately, is Yui Hirasawa, who's never held a guitar in her life, but she's determined to learn! Will the school halls come alive with the sound of music?",
+    "popularity": 52.815,
+    "poster_path": "/70hf2538UAf7mzzNgvqTlWq6PDf.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1393,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "name": "TBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-06-26",
+            "episode_count": 21,
+            "id": 52080,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/2njp6E7B2sz0lyLOi55Y9F2xq9v.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-04-03",
+            "episode_count": 12,
+            "id": 52078,
+            "name": "K-ON!",
+            "overview": "It's Yui Hirasawa's first year in high school, and she's eagerly searching for a club to join. At the same time, Ritsu Tainaka, a drummer, and her friend Mio Akiyama, a bassist, are desperately trying to save the school's light music club, which is about to be disbanded due to lack of members. They manage to recruit Tsumugi Kotobuki to play the keyboard, meaning they only need one more member to get the club running again. Yui joins, thinking it will be an easy experience for her to play the castanets, the only instrument she knows. However, the other members think their new addition is actually a guitar prodigy...",
+            "poster_path": "/4VptMvnDRRsUeeNRs6UTPKTjqiX.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2010-04-07",
+            "episode_count": 24,
+            "id": 52079,
+            "name": "K-ON!!",
+            "overview": "It's the final year of high school for Yui (guitar), Ritsu (drums), Mio (bass), and Tsumugi Kotobuki (keyboard), the founding members of the Light Music Club. Together with junior member Azusa (guitar), they spend their days in the music room enjoying tea, sweets, and practicing music. Amidst band practice, preparations for the new student orientation performance, scouting for new members, they still have time for \"After School Tea Time\". It's a delightfully fun time in K-On!",
+            "poster_path": "/9f9k7XvArBUVR4sWhSVrID8UGPl.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Reading, Writing, Rock & Roll!",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 75
+}

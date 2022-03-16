@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/1VZ8gN6tPoAd7EdfCzVPmtDczhD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-04-11",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://tokyo-revengers-anime.com/",
+    "id": 105009,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-09-19",
+    "last_episode_to_air": {
+        "air_date": "2021-09-19",
+        "episode_number": 24,
+        "id": 3057389,
+        "name": "A Cry Baby",
+        "overview": "Takemichi heads to his first Toman meeting wearing his jacket and is surprised to see the vice commander of Valhalla, Hanma, and Chifuyu standing next to Mikey. Not only that, but he finds out that it was Kisaki Tetta who arranged all of this. Takemichi falls into despair when he realizes he wasn't able to change the future again despite Baji sacrificing his own life to protect Toman. And then, Chifuyu says...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/bQH23udylJmaQByLhUo7RMejQzX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Tokyo Revengers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "東京リベンジャーズ",
+    "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
+    "popularity": 188.402,
+    "poster_path": "/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+    "production_companies": [
+        {
+            "id": 42521,
+            "logo_path": "/4pb8pt4VLyQmZM8wJrJfbm2Pmob.png",
+            "name": "Lidenfilms",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-29",
+            "episode_count": 25,
+            "id": 188962,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/kvsFvhZ9DPKm0KV7TY9nOeXYsWC.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2021-04-11",
+            "episode_count": 24,
+            "id": 153971,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 754
+}

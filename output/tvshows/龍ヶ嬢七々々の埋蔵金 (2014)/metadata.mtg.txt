@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/qk8bTx2aJi2cAxhLoEiWOZFnEnG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2014-04-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.nanana.tv/",
+    "id": 60832,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-06-20",
+    "last_episode_to_air": {
+        "air_date": "2014-06-20",
+        "episode_number": 11,
+        "id": 1029598,
+        "name": "The Resolve of Yama Juugo",
+        "overview": "Isshin's plan has rendered Ikusaba's \"Shadowfins\" useless, and victory is right before the Adventure Club's eyes... but then Ikusaba unleashes the power of his other Nanana's Collection treasure, leaving Juugo in serious trouble. Then Tensai steps in, telling Ikusaba she's figured out his power and offering him a proposal.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5NPgJLip4YxxAgnxzT8r4GfZoIJ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Nanana's Buried Treasure",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "龍ヶ嬢七々々の埋蔵金",
+    "overview": "Disowned by his father, Jugo Yama has run away from home to the island of Nanae. He begins to live by himself, only to discover his room is haunted by the ghost of Nanana Ryugajo. She was murdered ten years ago, and her killer must be found before she can rest in peace. Before her death, Nanana collected things from all over the world and hid them throughout the island. Using the mysterious powers of these hidden items, they should be able to find the culprit. As Jugo begins his hunt for her collection, however, he discovers he's not the only person searching.",
+    "popularity": 7.662,
+    "poster_path": "/8HDzk34De2Z0xq5bXxkzzhla55l.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-06-25",
+            "episode_count": 6,
+            "id": 148092,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/q0fFbIlmfLXBYBDojzqkNRWiYf8.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-04-11",
+            "episode_count": 11,
+            "id": 60833,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2vxMbyH4F5Ya0TBS1QHvYjNGl6K.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.5,
+    "vote_count": 4
+}

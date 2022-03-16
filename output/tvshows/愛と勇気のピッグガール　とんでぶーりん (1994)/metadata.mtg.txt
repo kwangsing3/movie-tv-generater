@@ -1,0 +1,137 @@
+{
+    "adult": false,
+    "backdrop_path": "/8QnYftbKVqVzocx6MZJ6CUFruIz.jpg",
+    "created_by": [
+        {
+            "id": 1825952,
+            "credit_id": "592d34c79251417bf900cd07",
+            "name": "Taeko Ikeda",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1994-09-03",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 71961,
+    "in_production": false,
+    "languages": [
+        "ja",
+        "pt"
+    ],
+    "last_air_date": "1995-08-19",
+    "last_episode_to_air": {
+        "air_date": "1995-08-19",
+        "episode_number": 51,
+        "id": 2023475,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Super Pig",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Globo",
+            "id": 60,
+            "logo_path": "/K3CiSckB66dBX4P5fvbC0wT7Nh.png",
+            "origin_country": "BR"
+        },
+        {
+            "name": "ANIMAX",
+            "id": 171,
+            "logo_path": "/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "愛と勇気のピッグガール　とんでぶーりん",
+    "overview": "One fateful day, Karin, a junior-high student, found what she thought was an injured piglet. However, the piglet was just exhausted from hunger. After the piglet regained his health by eating Karin's apple, he revealed that he is a prince, Tonrariano III, from a planet called Booringo. Tonrariano wanted to reward Karin for helping him and so he transformed her into a pig with superpowers. Karin was not at all pleased with the gift because she wanted to become a pretty superheroine like \"Cutey Chao\" (a parody of Cutey Honey), not Super Pig. Reluctantly, she became more interested in her role as Super Pig when she found out that she can turn into someone like \"Cutey Chao\" if she can collect 108 pearls through doing good deeds for other people.",
+    "popularity": 5.914,
+    "poster_path": "/2B3eqlNIULKwo0X7qmwHf7W3rXd.jpg",
+    "production_companies": [
+        {
+            "id": 4287,
+            "logo_path": null,
+            "name": "Nippon Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2106,
+            "logo_path": "/3ymjxYcUFEwCdMf2SoVyGd1aHef.png",
+            "name": "Saban Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-09-03",
+            "episode_count": 51,
+            "id": 88820,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 22
+}

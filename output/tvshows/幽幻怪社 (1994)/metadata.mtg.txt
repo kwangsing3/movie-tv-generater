@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/33TdlcXh8Ztw8sEf9Ofb69NClhO.jpg",
+    "created_by": [
+        {
+            "id": 2950607,
+            "credit_id": "6206be34d954200099b8b178",
+            "name": "Madhouse",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        29
+    ],
+    "first_air_date": "1994-08-25",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 44422,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1995-02-25",
+    "last_episode_to_air": {
+        "air_date": "1995-02-25",
+        "episode_number": 4,
+        "id": 893486,
+        "name": "Lover Come Back to Me",
+        "overview": "A group of Buddhist monks have moved into town and have decided that they will take over the area's supernatural problems and putting  Yuugen Kaishya out of business...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Phantom Quest Corp.",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "幽幻怪社",
+    "overview": "Ayaka Kisaragi is a beautiful woman descended from a long line of Japanese exorcists. However, bored with their traditions, she started her own business, Phantom Quest Corp. Although she is very competent with her skills, Ayaka's own bad habits often cut into the company's meager earnings and interfere with paying the various experts whose help she usually depends upon.",
+    "popularity": 3.6,
+    "poster_path": "/6uoxqr1jMruElWaxpDdvK7RgVDv.jpg",
+    "production_companies": [
+        {
+            "id": 13068,
+            "logo_path": null,
+            "name": "Pioneer LDCA, Inc.",
+            "origin_country": ""
+        },
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-07-25",
+            "episode_count": 1,
+            "id": 53439,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1994-08-25",
+            "episode_count": 4,
+            "id": 53438,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 3
+}

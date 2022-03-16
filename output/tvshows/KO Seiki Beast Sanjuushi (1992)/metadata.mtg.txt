@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 148098,
+            "credit_id": "6188d1ce1fd36f006288274c",
+            "name": "Hiroshi Negishi",
+            "gender": 2,
+            "profile_path": "/eiHf9CXEac2jBQJo10LkwFI3lnp.jpg"
+        },
+        {
+            "id": 1148342,
+            "credit_id": "6188d1e735d1bc00432e0a42",
+            "name": "Satoru Akahori",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1253051,
+            "credit_id": "6188d1f42cde980095bbf131",
+            "name": "Takehiko Itō",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3073789,
+            "credit_id": "6188d1dbf8aee8006634c0cb",
+            "name": "Rei Nakahara",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "1992-05-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 45284,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "1993-11-21",
+    "last_episode_to_air": {
+        "air_date": "1993-11-21",
+        "episode_number": 7,
+        "id": 3326754,
+        "name": "I`ll (probably) win in the end! Uh, are you sure?",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "KO Century Beast Warriors",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "en",
+    "original_name": "KO Seiki Beast Sanjuushi",
+    "overview": "In the future, after the Earth is split in half, three unlikely companions, Wan (the tiger), Bud (the bird), and Mei-Mah (the mermaid), seek a legendary treasure before their human enemies do.",
+    "popularity": 0.951,
+    "poster_path": "/oymeOligNyG3sMzpeeQbGRauixN.jpg",
+    "production_companies": [
+        {
+            "id": 13064,
+            "logo_path": null,
+            "name": "Animate Film",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3041,
+            "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+            "name": "GAINAX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 164053,
+            "logo_path": null,
+            "name": "Project B4",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1992-05-02",
+            "episode_count": 7,
+            "id": 218679,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

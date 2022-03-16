@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": "/3xZ2EJo3FHfOxMCTjo663UgVbnz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2001-05-21",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.hidive.com/tv/chance-pop-session",
+    "id": 19752,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2001-08-13",
+    "last_episode_to_air": {
+        "air_date": "2001-08-13",
+        "episode_number": 13,
+        "id": 577521,
+        "name": "Angels",
+        "overview": "The day of the Music Police Awards has finally arrived. R3 must face up against their longtime idol Reika in their rise to fame.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Chance Pop Session",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "チャンス　トライアングルセッション",
+    "overview": "Three young girls, strangers to each other, share an instinctual passion and talent for music. Brought together from distinctly different worlds, they meet by chance at the concert of their idol. The concert strikes a chord in each of their hearts and unites them with a common dream of stardom. The girls each enroll in the same music school and are brought together again in a special class for exceptional talent. As their voices come together in harmony, the girls realize that they share more than just a passion for song.\n\nA mysterious blue stone, a hauntingly beautiful meoldy... what do these traces of the past have to do with the uncertain future of this gifted trio?",
+    "popularity": 1.58,
+    "poster_path": "/2R3Ots47eZlEFkWJBxzcjg3U1Vd.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3465,
+            "logo_path": "/x8my1WrmOQa8P68XrZPixPBnSkm.png",
+            "name": "ADV Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2001-05-21",
+            "episode_count": 13,
+            "id": 30016,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2R3Ots47eZlEFkWJBxzcjg3U1Vd.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Separated by tragedy, brought together by Chance...",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

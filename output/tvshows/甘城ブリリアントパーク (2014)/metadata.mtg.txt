@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/lvBdVlkEqzq6rCu0VQo3UFpdvxP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://amaburi.jp",
+    "id": 65332,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-12-26",
+    "last_episode_to_air": {
+        "air_date": "2014-12-26",
+        "episode_number": 13,
+        "id": 1158946,
+        "name": "Not a Good PV!",
+        "overview": "Triken takes suggestions from the staff to make a promotional video for the park with dubious results.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cbEBV0f8KO39T82xHuh4cANQZ5n.jpg",
+        "vote_average": 8,
+        "vote_count": 2
+    },
+    "name": "Amagi Brilliant Park",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "甘城ブリリアントパーク",
+    "overview": "Seiya Kanie, believes that the beautiful but reserved Isuzu Sento has invited him on a date at an amusement park called Amagi Brilliant Park. Much to his chagrin, not only is the location a run-down facility, the supposed date is merely a recruitment tour where Sento and Princess Latifa Fleuranza, the owner of the theme park, ask him to become the park's new manager. Their cause for desperation? As stipulated in a land-use contract, Amagi has less than three months to meet a quota of 500,000 guests, or the park will be closed for good and the land redeveloped by a greedy real-estate company.\n\nSeiya is won over by the revelation that Amagi is no ordinary amusement park; many of its employees are mysterious magical beings who live in the human world and are nourished by the energy created by people having fun. Entrusted with the hopes and dreams of this far-off enchanted land, Seiya must now use his many skills to bring Amagi back on its feet, or watch it crumble before his eyes.",
+    "popularity": 23.271,
+    "poster_path": "/1ZFzedg6kYDBFjZANxcDdERsN08.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1393,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "name": "TBS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-12-26",
+            "episode_count": 8,
+            "id": 74989,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/tk2hVOuXInHFgsud62cnBUcL3tW.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-10-07",
+            "episode_count": 13,
+            "id": 73966,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pa9FgTl91euxts3c3Dt2vQZ8IJR.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 58
+}

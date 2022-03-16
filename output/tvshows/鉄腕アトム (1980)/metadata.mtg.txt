@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/99pDUbaBbCAt9u0aC845iunyPfm.jpg",
+    "created_by": [
+        {
+            "id": 58160,
+            "credit_id": "52587155760ee34661232a8d",
+            "name": "Osamu Tezuka",
+            "gender": 2,
+            "profile_path": "/4xOgZySBani7h7xkFwK4Rf0MqNg.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "1980-10-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.astroboy-online.com/wiki/",
+    "id": 23022,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1981-12-23",
+    "last_episode_to_air": {
+        "air_date": "1981-12-23",
+        "episode_number": 52,
+        "id": 1423381,
+        "name": "Astro's First Love",
+        "overview": "As Astro attempts to recover stolen plans for a robot he is helped by Niki, a girl robot, with whom he falls in love.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/riD74oRnEU4mVJq0pQljtcYMnT6.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Astro Boy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 52,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "鉄腕アトム",
+    "overview": "In 2030 AD, after being abandoned by his creator, a young boy robot is rescued by an Android Advocate, Dr Elefun, who adopts him as his own and guides him in the use of his special powers to aid and protect mankind and robot-kind.",
+    "popularity": 17.341,
+    "poster_path": "/u3LVqlU9OLVN18uwIazxwgDVgdZ.jpg",
+    "production_companies": [
+        {
+            "id": 4262,
+            "logo_path": "/K1m4DWOObFOKCJp6XGOskEKymE.png",
+            "name": "Tezuka Productions",
+            "origin_country": "JP"
+        },
+        {
+            "id": 20327,
+            "logo_path": null,
+            "name": "Mushi Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6755,
+            "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1980-10-01",
+            "episode_count": 52,
+            "id": 32979,
+            "name": "Astro Boy",
+            "overview": "",
+            "poster_path": "/uYjObymj5YTZnP2jzrUMAaylBMI.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 49
+}

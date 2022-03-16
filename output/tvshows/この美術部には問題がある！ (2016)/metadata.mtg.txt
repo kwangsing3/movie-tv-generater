@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/4bzcsTvFLxSGsmJ98rc48rJHOu7.jpg",
+    "created_by": [
+        {
+            "id": 1668477,
+            "credit_id": "57b8b66a92514118b10010af",
+            "name": "Imigi Muru",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/konobi/",
+    "id": 65955,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-09-23",
+    "last_episode_to_air": {
+        "air_date": "2016-09-23",
+        "episode_number": 12,
+        "id": 1212054,
+        "name": "From Now On",
+        "overview": "It's raining hard, and Maria is without an umbrella. Mizuki suggests Subaru offer her his, setting off a logistical and romantic conundrum.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/wAtXkqkrzU9geJq3HlSvZqklMmf.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "This Art Club Has a Problem!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "この美術部には問題がある！",
+    "overview": "An art club in a certain middle school, and its members: Subaru Uchimaki, who is a genius at drawing faces, but only wants to draw the perfect 2D wife; Colette, a rich troublemaker who never stops making mischief; and the club president, who sleeps through sessions and collects sleeping aids. Mizuki Usami is the only person in the club who wants to do art club-like activities, and constantly struggles to do so.",
+    "popularity": 16.751,
+    "poster_path": "/gCLhgNtu6rMWYAQIxMbgA47jWgW.jpg",
+    "production_companies": [
+        {
+            "id": 17315,
+            "logo_path": "/8QPhCeRCNVa3jYCtDvThTlAGYSL.png",
+            "name": "feel.",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-08",
+            "episode_count": 12,
+            "id": 75489,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xE1qgGs33k6d2WGNxzfFYmbyKu6.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 9
+}

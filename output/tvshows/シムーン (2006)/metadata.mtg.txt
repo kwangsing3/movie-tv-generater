@@ -1,0 +1,87 @@
+{
+    "adult": false,
+    "backdrop_path": "/zfjO1BTSb9XGH59Id3lUTrQSdwi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2006-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 1102,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-25",
+    "last_episode_to_air": {
+        "air_date": "2006-09-25",
+        "episode_number": 26,
+        "id": 56718,
+        "name": "Their Portrait",
+        "overview": "Years after the war, the former members of Chor Tempest reflect on their lives.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/cSrr9oQjfzYCFd8R8kK6FpbEN9h.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Simoun",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "シムーン",
+    "overview": "In the world of Daikuuriku, everyone is born female, and chooses which sex they wish to become at age 17. In this world, the peaceful theocracy of Simulacrum is guarded by magical flying machines called \"Simoun\", which can only be piloted by young girls who haven't chosen a sex yet. The Simoun can activate a magical power known as \"Ri Maajon\" that can destroy large numbers of enemies at once. When the industrialized nation of Argentum decides that it needs to invade Simulacrum to acquire the secret of the Simoun, war breaks out, drawing the Simoun \"Sibyllae\" (priestesses who fly the Simoun) into a lopsided battle. Because the war is raging, the Sibyllae are granted an exemption from choosing a permanent sex for as long as they're willing to keep flying. Aaeru, a determined young Sibylla with a mysterious past, and Neviril, the leader of Chor Tempest, Simulacrum's most elite Simoun squadron, must lead their fellow priestesses through conflict both within their ranks and in the sky.",
+    "popularity": 7.516,
+    "poster_path": "/wLWB1z3WazzQxReEpr4HbJHP1X2.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2006-04-04",
+            "episode_count": 26,
+            "id": 3097,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2oKI1hYECXO0Up4f4EScsPtS9qF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.3,
+    "vote_count": 3
+}

@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/2QbyWDvb6GylplTD77rNAZNepaU.jpg",
+    "belongs_to_collection": {
+        "id": 109079,
+        "name": "Saint Seiya Collection",
+        "poster_path": "/zvq7Y8XCRkPP6QPv3nLfJ465LUd.jpg",
+        "backdrop_path": "/zWtHU9NHNVfgdyCH8qqMCgrKdrI.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 83088,
+    "imdb_id": "tt0326101",
+    "original_language": "ja",
+    "original_title": "聖闘士星矢 最終聖戦の戦士たち",
+    "overview": "The plot involves the coming of Lucifer to the Sanctuary, where his underlings systematically dispose of the surviving Gold Saints. Athena goes to Lucifer to ask for peace, placing herself in peril. The Bronze Saints must then come to her rescue, destroying Lucifer's Fallen Angels (Seima Tenshi in Japanese) in the process.",
+    "popularity": 36.323,
+    "poster_path": "/2cngWdiFwvtaOxnlQxNDYIRX8df.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1989-03-18",
+    "revenue": 0,
+    "runtime": 45,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Saint Seiya: Warriors of the Final Holy Battle",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 148
+}

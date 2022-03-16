@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/7jbkt5iKJB7jvVDANrGjuZtY4ZO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2005-04-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 35415,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-09-14",
+    "last_episode_to_air": {
+        "air_date": "2006-09-14",
+        "episode_number": 12,
+        "id": 800953,
+        "name": "Honey and Clover",
+        "overview": "Ayumi questions Shūji's love for Hagu. Takumi is happy for Shūji for admitting his love for Hagu. Ayumi regrets telling Shinobu about Hagu's accident. Takumi explains to Ayumi that Hagu had art as a part of her life, so her love for Shinobu was uncertain in the past. Shūji prepares to take a break from teaching, and then tells Rika about it. Rika explains to Shūji that Takumi scolded her about Shūji. Kaoru feels guilty for allowing the former boss of Floyd Electric to live with his children and grandchildren. Hagu compares Ayumi to a dove, and Hagu would want to make origami doves for Ayumi. Shinobu tells Kaoru about the fun employees and about the strong Hagu. Everyone celebrates the graduation of Yūta and Hagu. This will be the last night before Yūta leaves. Yūta and Hagu are sent to buy ice cream. Hagu worries about Shūji, but Yūta tells her not to worry. As Yūta leaves on a train, Hagu bids him farewell, giving him some bread. Within each sandwich, a four-leaf clover is seen.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Honey and Clover",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 36,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ハチミツとクローバー",
+    "overview": "Takemoto Yuuta, Mayama Takumi, and Morita Shinobu are college students who share the small apartment. Even though they live in poverty, the three of them are able to obtain pleasure through small things in life. The story follows these characters' life stories as poor college students, as well as their love lives when a short but talented 18 year old girl called Hanamoto Hagumi appears.",
+    "popularity": 10.016,
+    "poster_path": "/r9BlrgxYUjouB1ybDBYoJbPezs7.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2005-12-23",
+            "episode_count": 2,
+            "id": 46134,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2005-04-14",
+            "episode_count": 24,
+            "id": 46133,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dE2TP3Hw6Aoh1tSCjxzt3kjAPQd.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2006-06-29",
+            "episode_count": 12,
+            "id": 46132,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/8MxAS3A0UccGN6umOw4y0f91fqF.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 13
+}

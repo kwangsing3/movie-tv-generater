@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/rU8uXY1m8UMEx7ofyOsczOApCe2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-07-08",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://hyakuren-anime.com/",
+    "id": 80670,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-23",
+    "last_episode_to_air": {
+        "air_date": "2018-09-23",
+        "episode_number": 12,
+        "id": 1516572,
+        "name": "A Place to Call Home",
+        "overview": "Yuuto is sent back to modern Japan, where he's forced to make a choice: stay there with his beloved Mitsuki, or go back to save everyone.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/gOZRoQiv3QnPJT9dLZtE5INWh77.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The Master of Ragnarok & Blesser of Einherjar",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "百錬の覇王と聖約の戦乙女",
+    "overview": "Yuuto Suoh gets more than he bargained for when he joins his childhood friend Mitsuki Shimoya in testing out an urban legend. When he uses his phone to take a picture of himself with the local shrine's divine mirror, he is whisked off into another world – one heavily steeped in the lore of the old Norse myths. Using his knowledge gained from school and from his solar-powered smartphone, he has the chance to bring the Wolf Clan, the same people who cared for him, to prominence, all while earning the adoration of a group of magic-wielding warrior maidens known as the Einherjar.",
+    "popularity": 21.448,
+    "poster_path": "/OVaM55ub5iIEZxLzGdOvFnhk3O.jpg",
+    "production_companies": [
+        {
+            "id": 72366,
+            "logo_path": null,
+            "name": "EMT²",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-07-08",
+            "episode_count": 12,
+            "id": 106025,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/imPRA6VRDU2iRwJbhGqU2Ne8Jun.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.9,
+    "vote_count": 19
+}

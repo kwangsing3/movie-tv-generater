@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": "/ko38jWFU9T8RI2h4CYXticEWXAR.jpg",
+    "created_by": [
+        {
+            "id": 1867122,
+            "credit_id": "598c111592514107b800be99",
+            "name": "Estudio La'cryma",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2008-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.truetears.jp/index.html",
+    "id": 34162,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2008-03-30",
+    "last_episode_to_air": {
+        "air_date": "2008-03-30",
+        "episode_number": 13,
+        "id": 783950,
+        "name": "Your Tears",
+        "overview": "The day after the festival, Shinichirō goes to Jun to apologize for Noe's broken leg, though Jun says he will not forgive him. Jun later sees Hiromi and breaks it off with her, saying that he never loved her, not even a little bit. Shinichirō decides to show his picture book to Noe, but she refuses, so he says he is going to throw it into the sea, which he does by ripping out the pages and making them into paper airplanes. Noe interferes and they manage to recover all but the last page, but Noe looks at the rest of them. Shinichirō and Noe part with him telling her that while he is in love with Hiromi, his heart wavers when he looks at Noe. Shinichirō goes to see Hiromi at night and tells her that he will always be with her. Several months later in the spring, Noe is finally able to shed tears for the first time in years.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/20MNaCV6XsszCUDLMJpYJXIEnze.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "True Tears",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Kids Station",
+            "id": 610,
+            "logo_path": "/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "true tears",
+    "overview": "True Tears is a Japanese anime television series produced by P.A. Works and directed by Junji Nishimura. The anime aired in Japan on the TV Kanagawa television network between January 6, 2008 and March 30, 2008, containing thirteen episodes. The anime shares almost nothing in common with the visual novel of the same name that preceded it, using an entirely different story with different characters, and a different art style. An Internet radio show hosted by three voice actresses from the anime was also produced to promote the anime. The anime has been released by Bandai Entertainment in an English subtitle-only box set. A Blu-ray box set released in Japan contained an extra three-minute epilogue.",
+    "popularity": 6.395,
+    "poster_path": "/8LNIMyN5oUvhj4k5VofUZ4kLXho.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2008-03-25",
+            "episode_count": 9,
+            "id": 44993,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2008-01-06",
+            "episode_count": 13,
+            "id": 44992,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6i1PR7nwX8lopovaxciZIc1UuVF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 8
+}

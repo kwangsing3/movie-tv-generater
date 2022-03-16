@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/z8sHmvEF3zvOpCekFPJz4dDtHdb.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 68828,
+    "imdb_id": "tt0151866",
+    "original_language": "ja",
+    "original_title": "アウトランダーズ",
+    "overview": "In the midst of a violent invasion of Earth by unknown alien forces, photo-journalist Wakatsuki Tetsuya comes across a scantily-clad alien woman, cutting a swath of death through the Terran ranks with her sword. After a chaotic struggle, Tetsuya is knocked unconscious, only to awaken aboard her starship. To his surprise, she turns out to be Kahm, the invaders' princess - and she has picked Tetsuya for a starring role in her upcoming wedding. As the groom....",
+    "popularity": 1.788,
+    "poster_path": "/x5TXVXjLASi2FY4g21yxjlqzOI.jpg",
+    "production_companies": [
+        {
+            "id": 13583,
+            "logo_path": "/sJkZLWP2YObM15VYd4lQwJllI9m.png",
+            "name": "Tatsunoko Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1986-12-16",
+    "revenue": 0,
+    "runtime": 51,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Outlanders",
+    "video": false,
+    "vote_average": 3.8,
+    "vote_count": 5
+}

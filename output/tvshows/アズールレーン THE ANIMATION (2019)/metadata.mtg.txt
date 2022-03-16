@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": "/xMMsFxhW8aid6AVnfHL3nSvOusA.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-10-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://azurlane-anime.jp/",
+    "id": 91455,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-20",
+    "last_episode_to_air": {
+        "air_date": "2020-03-20",
+        "episode_number": 12,
+        "id": 1945477,
+        "name": "BLUE WATERS - May the Azure Lanes Bless You",
+        "overview": "The Orochi proves to be much more powerful than the most advanced technologies humanity has to offer, and Enterprise is knocked out by a huge explosion. The battle is at its final phase as each combatant faces the truths they seek through battle.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/7REC5ghp44ZM6vTzGcOXY9RxMj0.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Azur Lane",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アズールレーン THE ANIMATION",
+    "overview": "When the \"Sirens,\" an alien force with an arsenal far surpassing the limits of current technology, suddenly appeared, a divided humanity stood in complete solidarity for the first time. Four countries formed Azur Lane, paving the way for the improvement of modern warfare, which led to an initial victory. However, this tenuous union was threatened by opposing ideals, dividing the alliance into two and humanity became fragmented once again.\n\nAs a seasoned and experienced fighter, the \"Grey Ghost\" Enterprise shoulders Azur Lane's hope for ending the war. But behind her stoic persona hides a frail girl, afraid of the ocean. Even so, she continues to fight as she believes that it's the only purpose for her existence.\n\nAmidst the neverending conflict within humankind, the keys that could unite a fragmented race might exist: a soldier coming to terms with her mysterious personality and camaraderie between those with different ideals.",
+    "popularity": 17.782,
+    "poster_path": "/f9Vd8DSs919p2pufqN7AddTv9DA.jpg",
+    "production_companies": [
+        {
+            "id": 118286,
+            "logo_path": null,
+            "name": "Bibury Animation Studios",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-11-14",
+            "episode_count": 2,
+            "id": 135828,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/xm5fHQg149iGDS9ktq5latrc36L.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-10-03",
+            "episode_count": 12,
+            "id": 128252,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7HNRD41slE24dJw9Q5E4Pd6uIWh.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 67
+}

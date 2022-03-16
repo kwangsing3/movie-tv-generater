@@ -1,0 +1,168 @@
+{
+    "adult": false,
+    "backdrop_path": "/rZtZxZz5mthJynJvMdvjeyoRNzU.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-07-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://df.iwatobi-sc.com/",
+    "id": 61456,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-09-27",
+    "last_episode_to_air": {
+        "air_date": "2018-09-27",
+        "episode_number": 12,
+        "id": 1560623,
+        "name": "Dive to the Future!",
+        "overview": "Nagisa, Rei, and the rest of the Iwatobi Swim Club have come to cheer on their former teammates at the All-Japan Invitational. Makoto tells them the story of how ever since Haruka swam for the first time, he'd been swimming only freestyle.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/hJoyk7EtFAJngU6z160Zy3sLN8Y.jpg",
+        "vote_average": 3,
+        "vote_count": 1
+    },
+    "name": "Free!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 37,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Free!",
+    "overview": "The story revolves around Haruka Nanase, a boy who has always loved to be immersed in water, and to swim in it. Before graduating from elementary school, he participated in a swimming tournament along with his fellow swimming club members, Makoto Tachibana, Nagisa Hazuki, and Rin Matsuoka. After achieving victory, each of the boys went their separate ways. Time passed, and in the middle of their uneventful high school lives Rin appears and challenges Haruka to a match, showing Haruka his overwhelming power. Not wanting it to end like this, Haruka, gathers together Makoto and Nagisa once again and brings a new member named Rei Ryugazaki to create the Iwatobi High School Swimming Club in order to defeat Rin.",
+    "popularity": 35.532,
+    "poster_path": "/aV195WULVVW6EFUGTwpYHO1lp3t.jpg",
+    "production_companies": [
+        {
+            "id": 5438,
+            "logo_path": "/nrvweD25GIYmfTIaFyIncLy4p3G.png",
+            "name": "Kyoto Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 91067,
+            "logo_path": null,
+            "name": "Animation DO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 9148,
+            "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+            "name": "Pony Canyon",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6683,
+            "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+            "name": "Lantis",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4868,
+            "logo_path": "/3ExeT4zGXBFU7ei1crOvuzKnc1z.png",
+            "name": "Asahi Broadcasting Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86839,
+            "logo_path": "/4gMnTQACykjt0KSRV1N8vSKpkVt.png",
+            "name": "ABC Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 136217,
+            "logo_path": "/dBYuplhBgeOsGPQOI0LukWNbFWE.png",
+            "name": "Bandai Namco Arts",
+            "origin_country": "JP"
+        },
+        {
+            "id": 155271,
+            "logo_path": "/z5E1jpLIrwDckeWcMqcPZ9qHvTw.png",
+            "name": "Heart Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-09-11",
+            "episode_count": 15,
+            "id": 105538,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-07-04",
+            "episode_count": 12,
+            "id": 62942,
+            "name": "Free! Iwatobi Swim Club",
+            "overview": "Four boys named Haruka, Makoto, Nagisa and Rin all participated in a swimming tournament shortly before graduating elementary school and later parted ways. Years later, they reunite when Rin challenges Haruka to a race and wins. Not wanting to be defeated so easily, Haruka gathers Makoto and Nagisa and a new recruit named Rei to form the Iwatobi High School Swimming Club.",
+            "poster_path": "/78B2mQrfhIrzXYyL1N2jfcC9cPa.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-07-03",
+            "episode_count": 13,
+            "id": 95487,
+            "name": "Free! Eternal Summer",
+            "overview": "The Iwatobi Swimming Club is back and struggles with the recruitment of new members. At the same time, senior members Haru and Makoto have to figure out what to do after high school, challenging their love for swimming. Meanwhile an old childhood friend of Rin returns and stirs up some trouble - especially with Haru. How is the Iwatobi gang going to respond?!",
+            "poster_path": "/zjQ1oOIfSyD78BqPi3uBov5IDH.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2018-07-12",
+            "episode_count": 12,
+            "id": 104986,
+            "name": "Free! Dive to the Future",
+            "overview": "Haruka, who is attending college in Tokyo, meets Asahi again and reawakens his memories from his middle school years, including those of Ikuya. Makoto is working toward a new dream while he is in Tokyo together with Haruka. Rin has an unexpected meeting in Sydney.",
+            "poster_path": "/jNzN9yDk7qQfY72QsfQwFi6VaCE.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.5,
+    "vote_count": 185
+}

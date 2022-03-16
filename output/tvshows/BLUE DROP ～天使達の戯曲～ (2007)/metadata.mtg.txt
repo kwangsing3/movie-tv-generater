@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/wCATYQyQGwoeY5KNKs0TL1H0w3r.jpg",
+    "created_by": [
+        {
+            "id": 1839061,
+            "credit_id": "60ac83aa07e2810027af74f1",
+            "name": "Masahiko Ookura",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        13
+    ],
+    "first_air_date": "2007-10-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.bestack.co.jp/bluedrop/",
+    "id": 26045,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-12-25",
+    "last_episode_to_air": {
+        "air_date": "2007-12-25",
+        "episode_number": 13,
+        "id": 664903,
+        "name": "Rosmarinus",
+        "overview": "The invasion begins and the human defense forces are no match for the new Arume weapon. Blue joins the fight and destroys several enemy ships.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/x9hR1NyyKm3X5Q68DCxh7k2qb4g.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Blue Drop",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BLUE DROP ～天使達の戯曲～",
+    "overview": "Mari Wakatake has been living with her Grandmother for the past 5 years after a tragedy caused the loss of her home, friends and family, as well as her memories. Fearing for her future, her Grandmother admits her into Kaihou Academy, for her to make friends, instead of home studying. Although reluctant to go, she does and meets Hagino Sekonji. At first appearance, this girl appears like a normal student but inside her lies a deep secret that relates to the tragedy of 5 years ago.",
+    "popularity": 3.216,
+    "poster_path": "/xb2Zbo3O5rciDApvvDeiCRthDKr.jpg",
+    "production_companies": [
+        {
+            "id": 14969,
+            "logo_path": "/jwTtvhoCesywogszy79x84Y8Ihh.png",
+            "name": "Asahi Production",
+            "origin_country": "JP"
+        },
+        {
+            "id": 110472,
+            "logo_path": null,
+            "name": "BeSTACK",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-10-02",
+            "episode_count": 13,
+            "id": 36509,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2bw9lzLRAwd16DLR9LP7fxLBotl.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 3
+}

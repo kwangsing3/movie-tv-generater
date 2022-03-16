@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/jU7aA911z7SrXtjgQOvjDVXcR0q.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1978-09-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 31709,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1981-03-26",
+    "last_episode_to_air": {
+        "air_date": "1981-03-26",
+        "episode_number": 113,
+        "id": 758792,
+        "name": "Illusion of Youth(Part Two)",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Galaxy Express 999",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji News Network",
+            "id": 3110,
+            "logo_path": "/tjDkrfSswzDxx57bXnVwcx8QRUQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 113,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "銀河鉄道９９９",
+    "overview": "Galaxy Express 999 is a manga written and drawn by Leiji Matsumoto, as well as various anime films and TV series based on it. It is set in a space-faring, high-tech future in which humans have learned how to transfer their minds into mechanical bodies, thus achieving practical immortality.\n\nThe manga won the Shogakukan Manga Award for shōnen in 1978. The anime series won the Animage Anime Grand Prix prize in 1981.\n\nThe number \"999\" in the title is pronounced \"Three-Nine,\" as opposed to \"Nine-Nine-Nine,\" \"Nine Ninety-Nine\" or \"Nine Hundred Ninety-Nine.\"\n\nMatsumoto was inspired to create Galaxy Express 999 by the idea of a steam train running through the stars in the novel Night on the Galactic Railroad by Kenji Miyazawa.",
+    "popularity": 25.508,
+    "poster_path": "/hSL8OUYK1TRKENMgrgStaY5lqzK.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1979-10-11",
+            "episode_count": 3,
+            "id": 43203,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/tuNcWFf9FaHCzBdtCais3QKXUPv.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "1978-09-14",
+            "episode_count": 113,
+            "id": 43204,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9jryhBwUANvkvsLKdE8XWBxLgLV.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 8
+}

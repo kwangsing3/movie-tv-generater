@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/wKJYYP4cX51Z7FWhFaUWmPVFGk1.jpg",
+    "created_by": [
+        {
+            "id": 1067794,
+            "credit_id": "595ec2ae9251410c5608b876",
+            "name": "Hayato Date",
+            "gender": 2,
+            "profile_path": "/zrnf0dYAOlV3GhJCk2SFpdc5i83.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/konbini/",
+    "id": 72508,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "last_air_date": "2017-09-22",
+    "last_episode_to_air": {
+        "air_date": "2017-09-22",
+        "episode_number": 12,
+        "id": 1339668,
+        "name": "March",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zdmOw7XRzEbvhl3Gz0bdPgAX7CY.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Convenience Store Boy Friends",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "コンビニカレシ",
+    "overview": "Six high school boys hang out at a local convenience store where they talk about their daily lives. Haruki Mishima and Towa Honda are first year students looking forward to the high school experience. Alongside them, there’s Nasa Sanagi, the only member of the cooking research club. Natsu Asumi is a loner but has third year students, Mikado Nakajima and Masamune Sakurakoji, looking out for him.",
+    "popularity": 4.223,
+    "poster_path": "/lbZS7fyGP9LO8BqP8K6Z1UACmpl.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1393,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "name": "TBS",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-07",
+            "episode_count": 12,
+            "id": 89812,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zKztdw21UjPKgnIQHlCC8K8XtSb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 8
+}

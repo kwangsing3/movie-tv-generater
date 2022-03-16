@@ -1,0 +1,161 @@
+{
+    "adult": false,
+    "backdrop_path": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2019-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://kaguya.love/",
+    "id": 83121,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-06-27",
+    "last_episode_to_air": {
+        "air_date": "2020-06-27",
+        "episode_number": 12,
+        "id": 2315598,
+        "name": "The Student Council Would Like a Group Photo / The Student Council Is Going to Get That Group Photo / Chika Fujiwara Wants to Inflate",
+        "overview": "The student council is asked to model for the Shuchiin Academy brochure. However, Kaguya's family has a strict policy prohibiting her from being photographed for any forms of publicity, and as result, she is unable to participate. As Kaguya longingly observes the rooftop photo shoot, the student council members propose to take a final group photo, solely for private use, on their cell phone, which makes Kaguya very happy. Just then a gust of wind blows across the rooftop, causing her to drop her phone and sending it way down below to the school grounds. Kaguya picks up her shattered cell phone from the floor and begins to reflect on all the photos with everyone she has lost, and becomes overwhelmed with sadness.",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/4TFSIQb1iGfSlfuiwt7Dz2Umlij.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "Kaguya-sama: Love is War",
+    "next_episode_to_air": {
+        "air_date": "2022-04-09",
+        "episode_number": 1,
+        "id": 3297824,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tochigi TV",
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+    "overview": "Considered a genius due to having the highest grades in the country, Miyuki Shirogane leads the prestigious Shuchiin Academy's student council as its president, working alongside the beautiful and wealthy vice president Kaguya Shinomiya. The two are often regarded as the perfect couple by students despite them not being in any sort of romantic relationship.",
+    "popularity": 92.978,
+    "poster_path": "/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 86741,
+            "logo_path": null,
+            "name": "Magic Capsule",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-05-19",
+            "episode_count": 2,
+            "id": 196030,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/6x0mPukLfCENknL78aqcaBLLycm.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2019-01-12",
+            "episode_count": 12,
+            "id": 110896,
+            "name": "Season 1",
+            "overview": "At the renowned Shuchiin Academy, Miyuki Shirogane and Kaguya Shinomiya are the student body’s top representatives. Ranked the top student in the nation and respected by peers and mentors alike, Miyuki serves as the student council president. Alongside him, the vice president Kaguya—eldest daughter of the wealthy Shinomiya family—excels in every field imaginable. They are the envy of the entire student body, regarded as the perfect couple.",
+            "poster_path": "/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2020-04-11",
+            "episode_count": 12,
+            "id": 134483,
+            "name": "Kaguya-sama: Love is War?",
+            "overview": "After a slow but eventful summer vacation, Shuchiin Academy’s second term is now starting in full force. As August transitions into September, Miyuki Shirogane’s birthday looms ever closer, leaving Kaguya Shinomiya in a serious predicament as to how to celebrate it. Furthermore, the tenure of the school’s 67th student council is coming to an end. Due to the council members being in different classes, the only time Kaguya and Miyuki have to be together will soon disappear, putting all of their cunning plans at risk.",
+            "poster_path": "/d8jw8L8pAKVLRUU5hMUEVxIZmIe.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2022-04-09",
+            "episode_count": 1,
+            "id": 216535,
+            "name": "Kaguya-sama: Ultra Romantic",
+            "overview": "",
+            "poster_path": "/a1Rw2X708PT5ZcA7UdbFKXEy2ow.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 465
+}

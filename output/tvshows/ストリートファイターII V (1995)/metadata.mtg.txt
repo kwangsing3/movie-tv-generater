@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": "/5uZ80WFcMe39ZLBgZBistqmDOp.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "1995-04-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 31713,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1995-11-27",
+    "last_episode_to_air": {
+        "air_date": "1995-11-27",
+        "episode_number": 29,
+        "id": 758873,
+        "name": "Fight to the Finish: Final Round",
+        "overview": "Guile and Chun Li battle outside, while Ryu, Ken, and Bison in the focal point of the universe, basically just another dimension that Bison's eagle head sends them to. There, Ryu and Ken seem destined to lose, because of Bison's overwhelming Psycho Power. Ryu and Ken's fighting abilities are no match for Bison, and Guile is losing tremendously to Chun Li, since the cyberchip has made her a much more powerful opponent than she was without it. Bison uses his Psycho Crusher and Double Knee Press attacks to overpower Ryu and Ken, severely wounding both of them. They eventually find the strength needed to carry on thanks to their Hadou powers. Ken uses the Hadou-Shoryu to weaken Bison substantially (and this also knocked the cyberchip off Chun Li's head), allowing Ryu to finish him off with a Whirlwind Hurricane Kick, followed by a Rising Dragon Punch, and then finally a Hadouken. The Hadouken connected because Bison was distracted at the time, as he was charging for another Psycho Crusher attack. After Bison is gone, Ryu and Ken go back to America, then Ryu sails to an unknown location, though it is presumably his home in Japan.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/lKSdz53xrj4N9048e0DLv8jxpM9.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Street Fighter II: V",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 44,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ストリートファイターII V",
+    "overview": "Ryu and Ken travel the world to become better fighters and learn new techniques. During their journey, they find themselves caught up in a conspiracy of the mysterious Shadowlaw.",
+    "popularity": 26.875,
+    "poster_path": "/lCpzWDPfMp9mTN9sQ51IRFQP5r7.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1994-08-08",
+            "episode_count": 4,
+            "id": 43211,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "1995-04-10",
+            "episode_count": 29,
+            "id": 43209,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gQneoOYK2YVEtNwjy2t7KAVoc2U.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 15,
+            "id": 43210,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/gQneoOYK2YVEtNwjy2t7KAVoc2U.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 20
+}

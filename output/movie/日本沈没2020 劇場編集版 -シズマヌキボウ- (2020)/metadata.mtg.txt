@@ -1,0 +1,58 @@
+{
+    "adult": false,
+    "backdrop_path": "/uFZz9UsYK199YEgBdcRDQFruuGl.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "http://japansinks2020.com/",
+    "id": 734871,
+    "imdb_id": null,
+    "original_language": "ja",
+    "original_title": "日本沈没2020 劇場編集版 -シズマヌキボウ-",
+    "overview": "",
+    "popularity": 0.891,
+    "poster_path": "/qA2olSCyfvoFMr9ghRbhqxS0Jsf.jpg",
+    "production_companies": [
+        {
+            "id": 99494,
+            "logo_path": "/qkHfgTmVRgYOyX0d4EivIDFFKMz.png",
+            "name": "Science SARU",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2020-11-13",
+    "revenue": 0,
+    "runtime": 151,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Japan Sinks 2020 Theatrical Edition - Shizumanuki Bow -",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+}

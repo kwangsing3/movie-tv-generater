@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": "/py5ORWHXfxAHxOH9gkC8ECqvvbs.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2018-04-06",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.tv-tokyo.co.jp/nana-na/",
+    "id": 91039,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-09-24",
+    "last_episode_to_air": {
+        "air_date": "2020-09-24",
+        "episode_number": 24,
+        "id": 2309424,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Wacky TV Na Na Na",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS TV Tokyo",
+            "id": 3471,
+            "logo_path": "/lUEv1JU8b5UcZJ1XoJkAq8o6UVd.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 72,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "テレビ野郎 ナナーナ",
+    "overview": "An adult comedy series about a film crew of banana men who work for a television station. In order to boost ratings they have to follow the absurd requests of the boss.",
+    "popularity": 3.48,
+    "poster_path": "/180q8ZflFYnuEnOzK8KoDqkhYur.jpg",
+    "production_companies": [
+        {
+            "id": 120657,
+            "logo_path": null,
+            "name": "Studio Crocodile",
+            "origin_country": "JP"
+        },
+        {
+            "id": 168185,
+            "logo_path": null,
+            "name": "33 Collective",
+            "origin_country": ""
+        },
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-06",
+            "episode_count": 24,
+            "id": 127563,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sMpd3FsDeY9S9tnR16B2w2kvJmW.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-04-11",
+            "episode_count": 24,
+            "id": 127564,
+            "name": "Exciting Caveland",
+            "overview": "After the TV station gets acquired by “Nanazon Prime Video,” departments that don’t get high ratings will be restructured (aka fired). The shooting crew takes on a large-scale plan for their survival. The Banakawa Family was an extremely wealthy family in the Edo period but their gold was hidden somewhere in a cave (that even the surviving members of the Banakawa Family can’t find). So the crew’s program will feature them exploring the underground world in search of this hidden treasure that so far major TV station networks with big budgets could not find.",
+            "poster_path": "/180q8ZflFYnuEnOzK8KoDqkhYur.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2020-04-16",
+            "episode_count": 24,
+            "id": 147496,
+            "name": "Chase the Kraken Monster!",
+            "overview": "",
+            "poster_path": "/iBaboPdTNG8xBbMDtDDryqkz1DK.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

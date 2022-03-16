@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/q0OC9CXNzgqvDufd3ODmKUGGNaw.jpg",
+    "created_by": [
+        {
+            "id": 1876241,
+            "credit_id": "5a808650c3a368189f021138",
+            "name": "Hiroyuki",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        14
+    ],
+    "first_air_date": "2007-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.doujin.tv/",
+    "id": 77024,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2007-09-18",
+    "last_episode_to_air": {
+        "air_date": "2007-09-18",
+        "episode_number": 12,
+        "id": 1431377,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Dojin Work",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドージンワーク",
+    "overview": "Doujin Work follows the life of a young girl named Najimi Osana and her exposure into the doujin world. She was first tempted into becoming a doujin artist after seeing how much one of her friends can make at a convention. Najimi loves to draw, though soon learns contrary to what she expected that this new world is anything but easy. As she attends more conventions and meets more people, Najimi eventually manages to find a group of very interesting friends. These friends already have some experience in the field and help her out along the way so that she can someday make a name for herself creating doujinshi.",
+    "popularity": 1.541,
+    "poster_path": "/oW5Gofz5wZ3950CSoPURZIAGuiF.jpg",
+    "production_companies": [
+        {
+            "id": 105693,
+            "logo_path": null,
+            "name": "Remic",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2007-07-03",
+            "episode_count": 12,
+            "id": 99182,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 4
+}

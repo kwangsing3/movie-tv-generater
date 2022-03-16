@@ -1,0 +1,115 @@
+{
+    "adult": false,
+    "backdrop_path": "/Ar5krnLmhenT80VyAaY82wM39Z9.jpg",
+    "created_by": [
+        {
+            "id": 2381676,
+            "credit_id": "5d4c35dfc68b6900140f867d",
+            "name": "Shiori Amase",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://allout-anime.com/index.html",
+    "id": 68071,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-31",
+    "last_episode_to_air": {
+        "air_date": "2017-03-31",
+        "episode_number": 25,
+        "id": 1228408,
+        "name": "All Out",
+        "overview": "The bad blood between Matsuo and the other third-years remains... but right now... right now making the \"Strongest Team in Kanagawa\" standing before us remember our name comes first!! Despite their inconsistent coordination, Jinko desperately holds on, finally drawing that man to the field... The Jinko VS Ryoin game heads towards is magnificent conclusion!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xBDgxiJPnnLHQq2YEiidccx712B.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "ALL OUT!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "オールアウト!!",
+    "overview": "In rugby, there is no ace striker, there is no number four batter, so who is the star of the team?  The story begins at school entrance ceremony of Kanagawa High School where Kenji Gion, a small but gutsy go-getter joins the rugby club. He joins with his classmate, Iwashimizu, who has a complicated past and sub-captain Hachiouji, who always takes good care of his Club members. Lastly, there is Captain Sekizan, who has overwhelming powers but keeps his cards close to his chest. With such differences in both personality and physical performance, the team must learn to work and grow together so they can become the best.",
+    "popularity": 14.606,
+    "poster_path": "/vj7gUFUHkgTK9SBCxeW9puI7fmc.jpg",
+    "production_companies": [
+        {
+            "id": 3464,
+            "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+            "name": "Madhouse",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-07",
+            "episode_count": 25,
+            "id": 80692,
+            "name": "Season 1",
+            "overview": "Kenji Gion is a Short first-year high school student.  On his first day in Kanagawa Prefectural High School, he meets the tall Sumiaki Iwashimizu during a game of rugby.  Kenji Strikes a friendship with Sumiaki, and soon joins the rugby club.",
+            "poster_path": "/6yDw8cxaMKTlKaK3PpGaxdS09Gp.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 7
+}

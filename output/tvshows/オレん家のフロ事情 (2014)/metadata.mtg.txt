@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/ffgH1wTR5EaeMniTVeIZ6N8OZM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        4
+    ],
+    "first_air_date": "2014-10-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 61435,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-12-29",
+    "last_episode_to_air": {
+        "air_date": "2014-12-29",
+        "episode_number": 13,
+        "id": 1030799,
+        "name": "The Circumstances of Wakasa's Employment",
+        "overview": "Wakasa worries that Tatsumi may kick him out after watching a man complaining about his partner's moocher tendencies on TV, and asks Tatsumi to help him find a job. Because Wakasa has nothing to put on a resume, Tatsumi recommends that he enter by-mail sweepstakes, but Wakasa is unable to write kanji and Tatsumi must teach him. Wakasa fills out stacks of postcards, but is shocked that he will not get to see the contest results for a month. Tatsumi reassures Wakasa that he doesn't have to worry about being kicked out, because they are friends. Wakasa mainly enters contests to win free meat, but what he receives at the end of the month is a scarf, which he had been aiming for to give to Tatsumi. During the credits, Wakasa's friends come over for a New Year's party, and Kasumi also has a brief appearance wishing her brother a happy new year from her own house.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1kyFhWvOKyQfOmNVvDav7HDXd3j.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Merman in My Tub",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "オレん家のフロ事情",
+    "overview": "Tatsumi is a high school student who lives on his own, until a merman named Wakasa takes up residence in his bathtub. His solitary lifestyle is turned upside down by the self-centered (but handsome) new roommate.",
+    "popularity": 12.602,
+    "poster_path": "/4GJMMggNvXi2UbuZCvnkQ3w9jFi.jpg",
+    "production_companies": [
+        {
+            "id": 14969,
+            "logo_path": "/jwTtvhoCesywogszy79x84Y8Ihh.png",
+            "name": "Asahi Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-10-06",
+            "episode_count": 13,
+            "id": 62910,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/joRTdobnRehgTlmjbDULeKmnfJm.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 5
+}

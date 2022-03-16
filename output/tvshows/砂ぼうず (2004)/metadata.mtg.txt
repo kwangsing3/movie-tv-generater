@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": "/9ubqJedkFPgW2apWFfXUqzWl9dM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2004-10-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.gonzo.co.jp/archives/sunabozu/",
+    "id": 29616,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-03-28",
+    "last_episode_to_air": {
+        "air_date": "2005-03-28",
+        "episode_number": 24,
+        "id": 727952,
+        "name": "The Demon Revealed",
+        "overview": "With the thought of Kanta being dead quickly erased from her mind, Kosuna sets out to prove herself as a true mercenary one last time against her old master. Kanta reveals that Kaizuka may not be all that he seems to be, and the Underground Mercenaries are destroyed. Kosuna chooses to forget about her past and Desert Punk, knowing that is the only way she can truly become Kanto Desert's greatest power babe.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Desert Punk",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "CBC",
+            "id": 201,
+            "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "砂ぼうず",
+    "overview": "In the future, Japan is a wasteland. In the Great Kanto Desert, scattered humans eke out a living in the hot sand. Among them, a short-statured man they call \"Sunabozu\" makes a living as a bounty hunter. Like a demon of the sand, he seems unbeatable. Yet, like all men, he has a particular weakness for the opposite sex...",
+    "popularity": 10.597,
+    "poster_path": "/mJ22FZbnULTrfohVbm0JEcYTTRo.jpg",
+    "production_companies": [
+        {
+            "id": 1077,
+            "logo_path": "/1tpNgC6BptieT9oF2LJ7H6pbG6S.png",
+            "name": "GONZO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-10-04",
+            "episode_count": 24,
+            "id": 41011,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 6
+}

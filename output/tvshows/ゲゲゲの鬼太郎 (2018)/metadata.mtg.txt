@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/93axj1GITdaVNxBzAzLqsRmJYmz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-04-01",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.toei-anim.co.jp/kitaro/",
+    "id": 76759,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-29",
+    "last_episode_to_air": {
+        "air_date": "2020-03-29",
+        "episode_number": 97,
+        "id": 2204736,
+        "name": "The World You See Isn't All There Is",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/wMmDxDy8L3lsQu753nf6gOaubFg.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "GeGeGe no Kitaro",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Fuji TV",
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 97,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゲゲゲの鬼太郎",
+    "overview": "Nearly twenty years into the 21st century, people have forgotten the existence of Yokai. When a number of unexplainable phenomena plague adults of the human world with confusion and chaos, thirteen-year-old Mana writes a letter to the Yokai Post in search of answers, only to be greeted by GeGeGe no Kitaro...",
+    "popularity": 25.15,
+    "poster_path": "/pXydwUWk3mVvVY63iRkdj5bY3Vn.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 27716,
+            "logo_path": "/9Pp6m0fRqe86E7MOFaj1ZZiuuL1.png",
+            "name": "YOMIKO Advertising",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3341,
+            "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+            "name": "Fuji Television Network",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-01",
+            "episode_count": 97,
+            "id": 98659,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ni7xKonTH27nAn535u9TpaYKt2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 8
+}

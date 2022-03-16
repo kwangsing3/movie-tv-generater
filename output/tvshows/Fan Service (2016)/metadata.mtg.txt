@@ -1,0 +1,127 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        75
+    ],
+    "first_air_date": "2016-10-21",
+    "genres": [
+        {
+            "id": 10767,
+            "name": "Talk"
+        }
+    ],
+    "homepage": "http://roosterteeth.com/show/fan-service",
+    "id": 69193,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-11-13",
+    "last_episode_to_air": {
+        "air_date": "2019-11-13",
+        "episode_number": 7,
+        "id": 1984970,
+        "name": "Have Pokemon Evolutions Gone TOO FAR!?!?",
+        "overview": "Join Miles Luna, Yssa Badiola, Cole Gallian, and Josh Ornelas as they discuss Pokemon Sword and Shield, Sword Art Online, and fantasy petting zoos.",
+        "production_code": "",
+        "season_number": 4,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Fan Service",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Rooster Teeth",
+            "id": 1356,
+            "logo_path": "/dMmhDfPq3Ulz6AIJ9G2ymeTKwUh.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 64,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Fan Service",
+    "overview": "Gray Haddock, Kerry Shawcross, Miles Luna, and their friends discuss the latest news, trailers, and episodes from the world of Anime.",
+    "popularity": 4.008,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 17412,
+            "logo_path": "/mWttB7AboQmh1ij0e9yo0dFdz3c.png",
+            "name": "Rooster Teeth Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-02-19",
+            "episode_count": 5,
+            "id": 83009,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/jThLiACQFCSd1j5SsCwenx0w3gQ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-10-21",
+            "episode_count": 12,
+            "id": 83008,
+            "name": "2016",
+            "overview": "",
+            "poster_path": "/4DpWxVeJBU7FQ2nFYI9EZ0NaAqP.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-02-11",
+            "episode_count": 37,
+            "id": 84972,
+            "name": "2017",
+            "overview": "",
+            "poster_path": "/jnsnMYK18lWaASax8BBeCU26Xnv.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2018-07-20",
+            "episode_count": 12,
+            "id": 107840,
+            "name": "2018",
+            "overview": "",
+            "poster_path": "/rcQwtwHty37FRbeRvmf3ATvboeC.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2019-10-02",
+            "episode_count": 3,
+            "id": 135851,
+            "name": "2019",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Talk Show",
+    "vote_average": 0,
+    "vote_count": 0
+}

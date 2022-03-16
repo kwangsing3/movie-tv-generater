@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/s0ZOL7LXU6BmxBV1evmMhr1o24Z.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-04-03",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://kmmk.tv/",
+    "id": 65382,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-06-19",
+    "last_episode_to_air": {
+        "air_date": "2016-06-19",
+        "episode_number": 12,
+        "id": 1214474,
+        "name": "Decision",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/5M3m9rNMEqXDHlb5gdaniDjsuGD.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Girl Meets Bear",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "くまみこ",
+    "overview": "The anime follows Machi, a middle school student who serves as a shrine maiden at a Shinto shrine and takes care of a bear, who lives on mountain in Japan's northern Tohoku region. The bear, Natsu, has the ability to talk and is Machi's guardian. When Machi explains to Natsu that she will attend a school in the city, he gives Machi a set of trials that she must pass in order to be able to survive city life.",
+    "popularity": 8.157,
+    "poster_path": "/pbUttgNPLnMaEgPwTFPUNIDzLZx.jpg",
+    "production_companies": [
+        {
+            "id": 72366,
+            "logo_path": null,
+            "name": "EMT²",
+            "origin_country": "JP"
+        },
+        {
+            "id": 16738,
+            "logo_path": "/Lf0udeB7OwHoFJ0XIxVwfyGOqE.png",
+            "name": "Kinema Citrus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-06-24",
+            "episode_count": 2,
+            "id": 132764,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/iqnjvzFEhFh0RcMzryJkZg7Pkxu.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2016-04-03",
+            "episode_count": 12,
+            "id": 74059,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/q73Edeak1ezsjEaAzw5HwEF4esz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.1,
+    "vote_count": 8
+}

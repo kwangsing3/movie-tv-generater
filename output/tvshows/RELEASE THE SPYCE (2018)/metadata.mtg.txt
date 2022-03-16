@@ -1,0 +1,96 @@
+{
+    "adult": false,
+    "backdrop_path": "/lYuHXR5T4MhPDpTL39UrPtmfjkB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://releasethespyce.jp/",
+    "id": 82905,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-12-23",
+    "last_episode_to_air": {
+        "air_date": "2018-12-23",
+        "episode_number": 12,
+        "id": 1604873,
+        "name": "Tsukikage is Forever",
+        "overview": "Project Gekkako is now up and running. With only a few remaining members of Tsukikage left, will they be able to save everyone or fail as others before them?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/tvhtiGOR7R1lvvQT3gapfHSGAvJ.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Release the Spyce",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "RELEASE THE SPYCE",
+    "overview": "The series is about a girl named Momo who attends high school at the city of Sorasaki. However, she is secretly a member of Tsukikage, an intelligence agency that protects people. As a new member of the agency, she works alongside her colleagues including her senior Yuki and friends. Together, they work to establish peace in the city.",
+    "popularity": 11.921,
+    "poster_path": "/zzvQsDaWSWiHunkWoWtFpEKmqLe.jpg",
+    "production_companies": [
+        {
+            "id": 59988,
+            "logo_path": null,
+            "name": "Lay-duce",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-10-07",
+            "episode_count": 12,
+            "id": 110433,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/byH2KjskJS0QnwTJECrVALOiAEL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 9
+}

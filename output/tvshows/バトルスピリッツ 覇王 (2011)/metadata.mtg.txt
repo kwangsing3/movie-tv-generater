@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/jrKkSeO6RHHnSoVgouwvUSy4k6p.jpg",
+    "created_by": [
+        {
+            "id": 3161832,
+            "credit_id": "612d3d9dc490480042b7d1b1",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2011-09-18",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://www.bn-pictures.co.jp/battlespirits/Heroes/",
+    "id": 93988,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-02",
+    "last_episode_to_air": {
+        "air_date": "2012-09-02",
+        "episode_number": 50,
+        "id": 1938417,
+        "name": "Rivals, Forever!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Battle Spirits: Heroes",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Nagoya TV",
+            "id": 576,
+            "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "バトルスピリッツ 覇王",
+    "overview": "Hajime Hinobori is a grade 7 student who loves Battle Spirits. His parents leave him to research Battlefield Systems for the International Battle Spirits Association. Hajime is left under the care of their dear friend Dr. Denjiro. Then, Hajime finds a completed a Battlefield System demo machine. He will now fight as a Test Battler and is incredibly excited by the Spirits materialized in the Battlefield!",
+    "popularity": 9.339,
+    "poster_path": "/4Ma0bfl0ZuuwwcMyj7DMuy8Uofc.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 4720,
+            "logo_path": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+            "name": "Asatsu-DK",
+            "origin_country": "JP"
+        },
+        {
+            "id": 81418,
+            "logo_path": null,
+            "name": "Nagoya Broadcasting Network",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-09-17",
+            "episode_count": 50,
+            "id": 133046,
+            "name": "Season 1",
+            "overview": "Like every card game enthusiast, Hajime Hinobori has always wanted to see the Spirits from his cards come to life and witness them in real combat. This dream is successfully realized by Hajime's scientist parents, who develop an augmented reality system that revolutionizes the competitive scene of Battle Spirits. Curious players from across the globe travel to partake in this innovative battle system.\n\nWith his sight set on becoming the champion of this new form of Battle Spirits, Hajime encounters many colorful and quirky rivals, including eccentric diva Kimari Tatsumi and arrogant prodigy Tegamaru Tanashi. Along this journey of self-discovery and card-gaming shenanigans, there are no ordinary days in the lives of young heroes striving to take the crown!",
+            "poster_path": "/6FTkW5BgDuouSuz9ZQssITegrTA.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1
+}

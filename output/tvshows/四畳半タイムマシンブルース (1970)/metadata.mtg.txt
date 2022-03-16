@@ -1,0 +1,88 @@
+{
+    "adult": false,
+    "backdrop_path": "/xR4bDE3vDVAQBU1h2X1Jqa0eagb.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": null,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://yojohan-timemachine.asmik-ace.co.jp/",
+    "id": 130996,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Tatami Time Machine Blues",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Disney+",
+            "id": 2739,
+            "logo_path": "/uzKjVDmQ1WRMvGBb7UNRE0wTn1H.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "四畳半タイムマシンブルース",
+    "overview": "",
+    "popularity": 1.247,
+    "poster_path": "/1SNpSCxrtRuo1ZHmPzCgF1Vubop.jpg",
+    "production_companies": [
+        {
+            "id": 99494,
+            "logo_path": "/qkHfgTmVRgYOyX0d4EivIDFFKMz.png",
+            "name": "Science SARU",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 205545,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tkaDT2mmZabfR1vcSp9n2uA8O49.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

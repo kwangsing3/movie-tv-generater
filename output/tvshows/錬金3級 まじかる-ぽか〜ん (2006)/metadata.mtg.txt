@@ -1,0 +1,118 @@
+{
+    "adult": false,
+    "backdrop_path": "/tAj16goVV87MRe2Mx7bAVm8tjiN.jpg",
+    "created_by": [
+        {
+            "id": 554510,
+            "credit_id": "60a29b7ed4cc8e002a16328e",
+            "name": "Kenichi Yatagai",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2006-04-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 33728,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-06-20",
+    "last_episode_to_air": {
+        "air_date": "2006-06-20",
+        "episode_number": 12,
+        "id": 778314,
+        "name": "The Spell of Grief Is When Memories Change/The Gentle Spell Is a Magician",
+        "overview": "A. Aiko finds a VCR that contains her memories as a rerun of the girls' favorite show is airing. When the girls plan to use the VCR to tape it, they end up needing D/A Converter to hook it up to their Digital Television and search the entire country for one.\n\nB. When Uma ends up with a cold, she ends up getting the other girls infected with her magic when they make fun of her. With her magic perfected, she practices it on the town. After curing herself and the other girls of the cold, they soon work on a way to make a Cherry Blossom Tree in front of a hospital bloom early when Uma runs out of magic.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Magical Pokaan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "錬金3級 まじかる?ぽか〜ん",
+    "overview": "The energetic werewolf Liru, the joyful witch-in-training Uma, the motherly android Aiko, and the seductive vampire Pachira—are princesses from the netherworld who have traveled to the human world in search of a new home.",
+    "popularity": 11.102,
+    "poster_path": "/l09DBGlfomCZzD5jyMkj0CaE1Jw.jpg",
+    "production_companies": [
+        {
+            "id": 105693,
+            "logo_path": null,
+            "name": "Remic",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2006-06-23",
+            "episode_count": 3,
+            "id": 44600,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-04-04",
+            "episode_count": 12,
+            "id": 44601,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9A4J9xIupDqgF7leYexRDsX6Jkz.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 4
+}

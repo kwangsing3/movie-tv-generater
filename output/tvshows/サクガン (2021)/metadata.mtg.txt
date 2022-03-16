@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": "/wFA7VOC5lw6GV6wBD4LbzzvTgEY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-10-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://sakugan-anime.com",
+    "id": 96398,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-12-23",
+    "last_episode_to_air": {
+        "air_date": "2021-12-23",
+        "episode_number": 12,
+        "id": 3270887,
+        "name": "TO BE CONTINUED",
+        "overview": "Memempu is captured by a Shibito girl who refers to her as a \"rainbow child.\" What do those words mean? And can Gagumber save her before something terrible happens?!",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8PPxUQKDMUD03qOD2Qqx0Z6f3Vv.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "name": "SAKUGAN",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サクガン",
+    "overview": "One day in the distant future. Humans live shoulder to shoulder in “colonies” separated by rock. Outside the colonies, a dangerous undeveloped area called “the Labyrinth” is expanding. Those who risk their lives to develop “the Labyrinth”, who mark out the undeveloped areas, are known as “Markers”. A young girl, Memempu, who wants to be a Marker one day, and a man, Gagumber, who used to be one. This mismatched father and daughter now take on the Labyrinth! “If there’s no path, dig one!”",
+    "popularity": 36.056,
+    "poster_path": "/j5qKYDIc9FHXtij3NaolOWOiK1I.jpg",
+    "production_companies": [
+        {
+            "id": 30293,
+            "logo_path": null,
+            "name": "SATELIGHT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-07",
+            "episode_count": 12,
+            "id": 137989,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oeYcVIheU4qnHFzvRyTARNSllg5.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 6
+}

@@ -1,0 +1,178 @@
+{
+    "adult": false,
+    "backdrop_path": "/clNR2BABiVEcaPRQbCT1y1bHz0R.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2012-04-07",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.accel-world.net/",
+    "id": 43167,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2012-09-22",
+    "last_episode_to_air": {
+        "air_date": "2012-09-22",
+        "episode_number": 24,
+        "id": 885839,
+        "name": "Reincarnation",
+        "overview": "Haru equips the Gale Thruster and engages in aerial battle with Seiji, managing to deal a strike before it runs out. Although Chiyu uses her Citron Call on Seiji again, healing him, Seiji's wings suddenly disappear and return to Haru. Using the combined power of his wings and the Gale Thruster, Haru deals the finishing blow to Seiji. After the battle, Chiyu reveals her ability isn't healing but is in fact the ability to reverse time, which she used to return Haru's wings to their rightful owner, revealing she only sided with Seiji in order to level up her ability to pull it off. As Seiji becomes desperate, Vice reveals to Seiji that his brain implant chip will disappear once Brain Burst is removed before taking his leave. With nothing left to save him, Seiji is finished off by Haru and loses his Brain Burst. Afterwards, Chiyu reveals it was her who told Kuroyukihime about their situation and decides to join their legion. After Kuroyukihime returns from Okinawa, she visits Haru, who explains everything and wishes for her to stay by his side. Back at school, Haru is cleared of suspicion whilst Seiji has lost all of his memories relating to Brain Burst. Afterwards, Haru takes Kuroyukihime to finally reunite with Raker, where it is revealed that Kuroyukihime's name, or at least nickname is \"Sachan\".",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/yON4Hb9dMCBEY9C3017KaMtGawV.jpg",
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    "name": "Accel World",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "AT-X",
+            "id": 173,
+            "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TV Aichi",
+            "id": 252,
+            "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Teletama",
+            "id": 715,
+            "logo_path": "/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "tvk",
+            "id": 792,
+            "logo_path": "/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アクセル・ワールド",
+    "overview": "A short, overweight student uses the Neuro Link, an evolution of the Nerve Gear, to escape himself from the reality. But his skills in the virtual world brings him to the attention of Kuroyukihime, a popular student who introduces him to the Brain Burst.",
+    "popularity": 27.691,
+    "poster_path": "/eNodkllQPCOrWlPCRfPUc9Deyo2.jpg",
+    "production_companies": [
+        {
+            "id": 32957,
+            "logo_path": "/fsKExPZ443yF5oMRmbK96AjcZBT.png",
+            "name": "ASCII Media Works",
+            "origin_country": "JP"
+        },
+        {
+            "id": 145850,
+            "logo_path": null,
+            "name": "Bandai Namco Games",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 113519,
+            "logo_path": "/wxcVGtJwKkElcCXP6A0opM82xu0.png",
+            "name": "Warner Home Video",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-07-25",
+            "episode_count": 10,
+            "id": 52634,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/phSGxUs1yJoTazB44aB5jTN9O54.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2012-04-07",
+            "episode_count": 24,
+            "id": 52633,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eNodkllQPCOrWlPCRfPUc9Deyo2.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 78
+}

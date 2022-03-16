@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/2mCaELXGnpaZHbqy3AybqB93pIn.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-01-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://showbyrock-anime-s.com/",
+    "id": 110651,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-03-25",
+    "last_episode_to_air": {
+        "air_date": "2021-03-25",
+        "episode_number": 12,
+        "id": 2816427,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/rxcZgqdtphmmLYUxw5zhrl2AO8t.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Show By Rock!! Stars!!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "SHOW BY ROCK!! STARS!!",
+    "overview": "\"All stars\" season of Show by Rock!! featuring all the bands from previous seasons.",
+    "popularity": 7.538,
+    "poster_path": "/bIocmcA3boR9BKuJieK7P9845n4.jpg",
+    "production_companies": [
+        {
+            "id": 16738,
+            "logo_path": "/Lf0udeB7OwHoFJ0XIxVwfyGOqE.png",
+            "name": "Kinema Citrus",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-07",
+            "episode_count": 12,
+            "id": 164089,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bIocmcA3boR9BKuJieK7P9845n4.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/xauynUgAdY2RpUACO0LuOGRcSnW.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2014-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.ytv.co.jp/kindaichi_r/",
+    "id": 69355,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2016-03-26",
+    "last_episode_to_air": {
+        "air_date": "2016-03-26",
+        "episode_number": 22,
+        "id": 1495884,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": "/oGK8yxFnp0OYgh3tUD56eX89Q8b.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "The File of Young Kindaichi Returns",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "YTV",
+            "id": 569,
+            "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 47,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "金田一少年の事件簿R",
+    "overview": "High school student Hajime Kindaichi is the supposed grandson of famous private detective Kosuke Kindaichi. Visiting Hong Kong for a fashion event with Kindaichi, our hero's girlfriend Miyuki is captured by a stranger in a case of mistaken identity. The journey to save Miyuki itself leads to yet another crime case...",
+    "popularity": 19.15,
+    "poster_path": "/zO2tblpedor1VPTIvByS8Iccjs5.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-12-26",
+            "episode_count": 1,
+            "id": 104292,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/vTcQ931cNXOME9SLYPy9ZM0KQU4.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-04-05",
+            "episode_count": 25,
+            "id": 83331,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zKcLf33yDCyBwqwROIaStVHUEsM.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2015-10-03",
+            "episode_count": 22,
+            "id": 104290,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/qUi5dySgAIgHRVOWoVxYR3OlpNu.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.3,
+    "vote_count": 3
+}

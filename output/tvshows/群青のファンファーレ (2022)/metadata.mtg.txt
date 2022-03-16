@@ -1,0 +1,113 @@
+{
+    "adult": false,
+    "backdrop_path": "/8r3SdNxKTLAQZVqSeru8i1wIDZ8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://fanfare-anime.com/",
+    "id": 131681,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Fanfare of Adolescence",
+    "next_episode_to_air": {
+        "air_date": "2022-04-02",
+        "episode_number": 1,
+        "id": 3143749,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tochigi TV",
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "群青のファンファーレ",
+    "overview": "The story takes place at a horse racing academy that trains boys to become jockeys. The three-year academy is very competitive and those who wish to enter must not only pass an academic test, but a physical and fitness test as well. Yu Arimura is a former popular idol who becomes enamored with horse racing after seeing it for the first time, and wants to join the academy. Shun Kanami was raised on an island, and only experienced horse races through radio broadcasts growing up. Amane comes from a high-class family in England, and his father is a former jockey. Amane has previously attended horse racing academies in various countries. The show follows these three 15-year-old boys at the academy.",
+    "popularity": 7.552,
+    "poster_path": "/9pKRj4aytu4XQPljlI9gz7csKpM.jpg",
+    "production_companies": [
+        {
+            "id": 59988,
+            "logo_path": null,
+            "name": "Lay-duce",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-02",
+            "episode_count": 13,
+            "id": 206843,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yrime5TRiUUSK8r3M8tPO363kmc.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

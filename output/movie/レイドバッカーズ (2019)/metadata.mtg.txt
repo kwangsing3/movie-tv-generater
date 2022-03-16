@@ -1,0 +1,63 @@
+{
+    "adult": false,
+    "backdrop_path": "/eWijUGvRe8OO4y9awrS21rIQF68.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "http://laidbackers.com/",
+    "id": 572647,
+    "imdb_id": "tt9232810",
+    "original_language": "ja",
+    "original_title": "レイドバッカーズ",
+    "overview": "In order to take over her grandmother's Dagashi store, art student Kumi Honamanuma moved to Kyoto. She met Harami Mino, K Kusanagi, Mai Haisaka, and a dog who lives in the store, which supposed to be empty. Kumi ended up living with these girls, who claim that they are heroes reincarnated to contemporary period to chase after the demon king. Harami and others seem to live in a peaceful life with no missions to to do anymore, Ran, who was demon king in the past and appears to be an elementary school girl from failing to reincarnate, one day. The story begins with Ran requesting to collect demon king's fragments.",
+    "popularity": 2.063,
+    "poster_path": "/no0EGVUwv5yDsz7YUYWr746lfcw.jpg",
+    "production_companies": [
+        {
+            "id": 25504,
+            "logo_path": null,
+            "name": "Studio Gokumi",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2019-04-05",
+    "revenue": 0,
+    "runtime": 58,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Laidbackers",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 1
+}

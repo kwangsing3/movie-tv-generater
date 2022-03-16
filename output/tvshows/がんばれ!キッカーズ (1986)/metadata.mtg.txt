@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/glq1UD01KT0OUHWjQmMYfQ5jbc3.jpg",
+    "created_by": [
+        {
+            "id": 1065385,
+            "credit_id": "560ab7fb9251417199002a9f",
+            "name": "Akira Shigino",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "1986-10-15",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 64049,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1987-04-08",
+    "last_episode_to_air": {
+        "air_date": "1987-04-08",
+        "episode_number": 26,
+        "id": 1111536,
+        "name": "A grand finale",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/jMrjz6Xa3gqB8LrFhitmELQp2mQ.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "name": "Fight! Kickers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Nippon TV",
+            "id": 57,
+            "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "がんばれ!キッカーズ",
+    "overview": "Kickers, a soccer club, is a weak team that hardly wins a game. It has recorded 22 consecutive losses up till now. Neither a star player nor a sign of a victory can be found in the team. That's why they begin to lose hopes. But the team quickly changes when Kakeru Daichi, a newcomer to Kitahara Primary School, joins the team! Kakeru loves soccer and his passion towards soccer is overwhelming. He used to be a member of a prestigious soccer team, yet he gives no hint about it. He practices more than anybody in the team. Kakeru's attitude brings back the passion for soccer that the team members have forgotten. The team members support and train each other, and start to win games. This sports animation showing growth of boys is based on soccer, one of the most popular sports in the world.",
+    "popularity": 5.196,
+    "poster_path": "/7NjsEwjdP2TiScGDr2vDujC2F8T.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1986-10-14",
+            "episode_count": 26,
+            "id": 71045,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2p5rvrEfkHwZYt9Kt3H2rYimCk8.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.2,
+    "vote_count": 11
+}

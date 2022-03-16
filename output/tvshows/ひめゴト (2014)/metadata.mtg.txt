@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/g4BxeUtWRl33CEAyPuQFjHY5svh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        5
+    ],
+    "first_air_date": "2014-07-07",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 70718,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-09-29",
+    "last_episode_to_air": {
+        "air_date": "2014-09-29",
+        "episode_number": 13,
+        "id": 1475001,
+        "name": "Sorry, Hime-kun",
+        "overview": "The day after Hime left, the student council room was much more quiet than usual. 18+ mentions trying to find someone to replace Hime, but President Unko says there could never be a replacement for Hime. And once again, Hime is assaulted by thugs and is then rescued by...",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/3xtK5dxo1yjhGVKKBBwlmxew17w.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Himegoto",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ひめゴト",
+    "overview": "The story follows Hime Arikawa, whose absent parents have left him saddled with a huge debt. After being saved from debt collectors by three girls on the student council, in exchange for paying off his debt, he agrees to spend the rest of his high school career dressed as a girl.",
+    "popularity": 9.522,
+    "poster_path": "/cfNgyiz8bX6GxpiH9rP66h5n2Gp.jpg",
+    "production_companies": [
+        {
+            "id": 14969,
+            "logo_path": "/jwTtvhoCesywogszy79x84Y8Ihh.png",
+            "name": "Asahi Production",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-07",
+            "episode_count": 13,
+            "id": 86183,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6s1pFAe459L7YsAouquTRlqmdpT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 13
+}

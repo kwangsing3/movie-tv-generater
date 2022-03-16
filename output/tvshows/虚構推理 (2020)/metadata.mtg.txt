@@ -1,0 +1,139 @@
+{
+    "adult": false,
+    "backdrop_path": "/aqFXBWCKw98zvbpXbqtWQhTnw9p.jpg",
+    "created_by": [
+        {
+            "id": 1241818,
+            "credit_id": "607561388ddc3400798e1d57",
+            "name": "Keiji Gotoh",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-01-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://kyokousuiri.jp/",
+    "id": 93653,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-29",
+    "last_episode_to_air": {
+        "air_date": "2020-03-29",
+        "episode_number": 12,
+        "id": 2040478,
+        "name": "She Who Defends Order",
+        "overview": "Yokai, ayakashi, spectres, demons, mononoke, and ghosts... Everything has order, and you must never go against the order. Kotoko's fourth solution is accepted by the users on the wiki site and Kuro is able to give the final blow to Steel Lady Nanase. Will that be enough to finish her off?! And what exactly was Rikka's motive?",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/frLGV3Ylg0UeYUTdAS9K0zf14QO.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "In/Spectre",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "tv asahi",
+            "id": 103,
+            "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "虚構推理",
+    "overview": "At the young age of 11, Kotoko Iwanaga was abducted by youkai for two weeks and asked to become their \"God of Wisdom,\" a mediator between the spirit and human worlds, to which the girl quickly agreed but at the cost of her right eye and left leg. Now, six years later, whenever youkai wish for their problems to be solved, they make their way to Kotoko for consultation.\n\nMeanwhile, Kurou Sakuragawa, a 22-year-old university student, has just broken up with his girlfriend after he fled alone when the two encountered a kappa. Seeing this as her chance to become closer with him, Kotoko immediately makes her move, hoping to get married to Kurou one day. However, she quickly realizes there is something more to Kurou. With this knowledge, she asks for his help in solving the various issues presented by the supernatural, all the while wishing her newfound partner will eventually reciprocate her feelings.",
+    "popularity": 30.857,
+    "poster_path": "/sqQUbshLEsJoA9QKVUbUGNRtnvX.jpg",
+    "production_companies": [
+        {
+            "id": 22602,
+            "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+            "name": "Brain's Base",
+            "origin_country": "JP"
+        },
+        {
+            "id": 74838,
+            "logo_path": null,
+            "name": "NAS",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 245618,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/gt2WPoCjP0t7gswmvBN2HfhSCxP.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-01-12",
+            "episode_count": 12,
+            "id": 132404,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gaL2P4pNxU5gbsFkQnA73IYMARE.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 218490,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 136
+}

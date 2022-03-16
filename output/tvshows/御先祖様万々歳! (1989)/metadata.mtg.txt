@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": "/pQUvJlR6WtfRx7TnsDXDrXHqRg6.jpg",
+    "created_by": [
+        {
+            "id": 12180,
+            "credit_id": "5fb567b9d0b434003ea3c89f",
+            "name": "Mamoru Oshii",
+            "gender": 2,
+            "profile_path": "/s3HsXgIjub4JmOLgdJgfUvXUePt.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "1989-08-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 113157,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1990-01-25",
+    "last_episode_to_air": {
+        "air_date": "1990-01-25",
+        "episode_number": 6,
+        "id": 2508950,
+        "name": "Dreaming of a Butterfly",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Gosenzo-sama Banbanzai!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "御先祖様万々歳!",
+    "overview": "The Yomota family is small and typical: father Kinekuni (42), mother Tamiko (38), and son Inumaru (17). One day, a beautiful girl appears at their front door, calling herself \"Maroko Yomota,\" granddaughter of Inumaru who travels back in time with a time machine to visit her ancestors. Despite of Tamiko's strong objection, Kinekuni and Inumaru welcome her to stay with them, and the structure of a happy family has begun to collapse.",
+    "popularity": 1.96,
+    "poster_path": "/OFJET0TWYuSwNTaQ42n8QvwrsZ.jpg",
+    "production_companies": [
+        {
+            "id": 3234,
+            "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+            "name": "Pierrot",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1989-08-05",
+            "episode_count": 6,
+            "id": 168768,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

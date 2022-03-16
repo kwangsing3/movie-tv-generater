@@ -1,0 +1,101 @@
+{
+    "adult": false,
+    "backdrop_path": "/oUjYTgiMwRRqNBpr9O6u9a0DdaN.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        13
+    ],
+    "first_air_date": "2019-04-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://senryu-girl-official.com/",
+    "id": 87445,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2019-06-22",
+    "last_episode_to_air": {
+        "air_date": "2019-06-22",
+        "episode_number": 12,
+        "id": 1732715,
+        "name": "Nanako and Eiji",
+        "overview": "the pair met by chance / and their lives changed forever / thanks to senryu",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/YqNobaljELrWl2Q9e0AiCKfwJC.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Senryu Girl",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "MBS",
+            "id": 94,
+            "logo_path": "/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "川柳少女",
+    "overview": "At first glance Yukishiro Nanako seems like a normal high school girl, but she has a notable eccentricity: instead of speaking, she communicates only through written senryu poetry! This means she expresses herself only in 5-7-5 syllables. To most this might seem like an inconvenience, but for Nanako and her ex-delinquent bestie, Busujima Eiji, it adds to the experience of their high school lives as they run the Literature Club.",
+    "popularity": 12.465,
+    "poster_path": "/4W2mdiVE6vKnSumIQyD3g2S7Mw0.jpg",
+    "production_companies": [
+        {
+            "id": 56949,
+            "logo_path": null,
+            "name": "CONNECT",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-04-06",
+            "episode_count": 12,
+            "id": 120097,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/exvLxvJGfwDvWYAFAS7rwYaFLwb.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 30
+}

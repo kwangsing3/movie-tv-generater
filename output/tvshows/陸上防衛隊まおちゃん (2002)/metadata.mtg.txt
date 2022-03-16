@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/wijT08uoWpgJRKYEBfP9b9IFOQx.jpg",
+    "created_by": [
+        {
+            "id": 116752,
+            "credit_id": "55938badc3a3682d35000ded",
+            "name": "Ken Akamatsu",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2002-07-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.kingrecords.co.jp/SCR_CATALOG/006.html",
+    "id": 29788,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2002-12-25",
+    "last_episode_to_air": {
+        "air_date": "2002-12-25",
+        "episode_number": 26,
+        "id": 730048,
+        "name": "Today I'll Defend Loosely as Usual!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Ground Defense Force! Mao-chan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "陸上防衛隊まおちゃん",
+    "overview": "Three eight-year-old girls, Mao, Misora and Sylvia, try to defend the earth against invading aliens. The world's defense has fallen to unlikely straits because the aliens are excessively cute, of which combat engagements are televised: if the forces battling the aliens were not cute themselves, the general public would revolt, as it would be seen as \"bullying\". Consequently, three military leaders chose their granddaughters to be the defenders, fittingly, becoming a team even cuter than the aliens. They each have a clover-shaped badge that enables them to transform.",
+    "popularity": 2.869,
+    "poster_path": "/hxh39fEZFL7YXlxF5ZCmXXxnppW.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        },
+        {
+            "id": 59118,
+            "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+            "name": "Kodansha",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2002-07-03",
+            "episode_count": 26,
+            "id": 41178,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 1
+}

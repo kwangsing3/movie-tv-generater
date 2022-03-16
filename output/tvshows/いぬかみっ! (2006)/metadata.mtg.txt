@@ -1,0 +1,99 @@
+{
+    "adult": false,
+    "backdrop_path": "/a7hX2rTvQrV62EWez5V3M1N6cpX.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2006-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34808,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2006-06-21",
+    "last_episode_to_air": {
+        "air_date": "2006-06-21",
+        "episode_number": 12,
+        "id": 792816,
+        "name": "The Dying Me's Song",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Inukami!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "いぬかみっ!",
+    "overview": "Inukami are benevolent, dog-like beasts with great spiritual powers that can also take human form. Together with a clan of \"Inukami Users,\" they fight to vanquish evil. One such clan member, Keita Kawahira, is seen as a total loser. He doesn't take his job seriously, flirts with every woman he sees, and can't find a single Inukami willing to form a contract with him. Then, one day, he meets the Inukami \"Yoko.\" She is beautiful, fearless, and powerful beyond compare, but also self-centered and uncontrollable.",
+    "popularity": 8.39,
+    "poster_path": "/fYJelXjN5DSJewfkfLb5sskcPYA.jpg",
+    "production_companies": [
+        {
+            "id": 34767,
+            "logo_path": "/bwQwcvERESoieoPksEq1iZsRW0J.png",
+            "name": "Seven Arcs",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2007-04-21",
+            "episode_count": 1,
+            "id": 45594,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2006-04-05",
+            "episode_count": 26,
+            "id": 45593,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/stWw8ci28T0wRsH61wOr3Rdec3c.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2
+}

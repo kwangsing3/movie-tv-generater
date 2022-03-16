@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/33szknNsrRWiw8NPJZbVXOkfBfy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2018-01-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://itojunji-anime.com/",
+    "id": 75775,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2018-03-23",
+    "last_episode_to_air": {
+        "air_date": "2018-03-23",
+        "episode_number": 12,
+        "id": 1455477,
+        "name": "Smashed / Rumors",
+        "overview": "The story Smashed features a group of friends who encounter unimaginable consequences when enjoying an exotic treat. And in Rumors, Souichi bites off more than he can chew, even with nails for teeth, when trying to manipulate his classmates.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/k7LpDPjFiU4lbaS4XhLTiOE9QYX.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Junji Ito Collection",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "伊藤潤二「コレクション」",
+    "overview": "A collection of animated horror stories based on the works of Japanese artist Junji Ito.",
+    "popularity": 31.295,
+    "poster_path": "/umJEelwoLi3x123sbJ9pMTPA5Lt.jpg",
+    "production_companies": [
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-27",
+            "episode_count": 2,
+            "id": 109052,
+            "name": "Specials",
+            "overview": "Included with the second and third volumes of the Ito Junji: Collection Bluray/DVD releases.",
+            "poster_path": "/cJY8JpTFxUZAqL4bPgy8YmzOVwo.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2018-01-05",
+            "episode_count": 12,
+            "id": 96702,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/o5iq6hT1sqq854R18g4X3ywIxQL.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 140
+}

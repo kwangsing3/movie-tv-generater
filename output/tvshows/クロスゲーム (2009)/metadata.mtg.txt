@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/w1M0A627784nDxakXG7iI3o20hp.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        21
+    ],
+    "first_air_date": "2009-04-05",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "http://www.tv-tokyo.co.jp/anime/crossgame/",
+    "id": 46337,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2010-03-28",
+    "last_episode_to_air": {
+        "air_date": "2010-03-28",
+        "episode_number": 50,
+        "id": 908959,
+        "name": "More Than Anyone in the World...",
+        "overview": "Thanks to Ko, Seishu has earned a one-run lead in the twelfth inning, but pitching eleven innings is starting to take its toll on Ko.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/m71bzZBjyJjZPS9t69lQONO1jBU.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Cross Game",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クロスゲーム",
+    "overview": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima family runs a batting center and  cafe, and they have four daughters. There's Ichiyo, the responsible  eldest; Wakaba, Kō's cheerful best friend; Aoba, who doesn't get along  with Kō; and Momiji, the energetic youngest daughter. When Kō enters high school, he aspires to lead his baseball team to the  Koshien National High School Championship as their ace pitcher and make  Wakaba's dream come true.",
+    "popularity": 8.794,
+    "poster_path": "/grfEAsk3rrTSh1OcEeISI3N2oYN.jpg",
+    "production_companies": [
+        {
+            "id": 3034,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "name": "TV Tokyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12655,
+            "logo_path": "/7Rt8txBx60jJ0jjtOibGWmP22vo.png",
+            "name": "Shogakukan-Shueisha Productions",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2009-04-05",
+            "episode_count": 50,
+            "id": 54625,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pXORE1EFxmpraOZ4NCzom8JTZOU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.7,
+    "vote_count": 9
+}

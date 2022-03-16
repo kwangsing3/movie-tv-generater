@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": "/enDp4luDoSV9sksR6AhZqx4xIM2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://blackrockshooter-dawnfall.com/",
+    "id": 133733,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": null,
+    "last_episode_to_air": null,
+    "name": "Black Rock Shooter: Dawn Fall",
+    "next_episode_to_air": {
+        "air_date": "2022-04-03",
+        "episode_number": 1,
+        "id": 3219693,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ブラック★★ロックシューター DAWN FALL",
+    "overview": "",
+    "popularity": 7.157,
+    "poster_path": "/tB4SlwZ2kJwWHGKnY5vVHQJ4EAS.jpg",
+    "production_companies": [
+        {
+            "id": 118286,
+            "logo_path": null,
+            "name": "Bibury Animation Studios",
+            "origin_country": "JP"
+        },
+        {
+            "id": 162241,
+            "logo_path": null,
+            "name": "Bibury Animation CG",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-03",
+            "episode_count": 1,
+            "id": 211166,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jJZA1opcux4nbAp5e27CEbAGbc9.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

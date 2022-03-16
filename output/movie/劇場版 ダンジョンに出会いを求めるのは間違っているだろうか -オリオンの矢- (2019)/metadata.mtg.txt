@@ -1,0 +1,124 @@
+{
+    "adult": false,
+    "backdrop_path": "/zlpKUEE4A5LjaTmEz37pw2VZQug.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://www.danmachi.com/movie/",
+    "id": 553835,
+    "imdb_id": "tt9526152",
+    "original_language": "ja",
+    "original_title": "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか -オリオンの矢-",
+    "overview": "In the city of Orario, beneath an impossibly tall tower, lies the dungeon. Only adventurers who form partnerships with the gods themselves have any hope of defeating the monsters that lie within. But the dungeon is not the only place where monsters exist. Far from Orario, in the ruins of an ancient city, a new threat arises. To counter this threat, the goddess Artemis has come to Orario in search of a champion—but it’s not Ais Wallenstein (the legendary Sword Princess) nor Ottar (the strongest warrior to ever enter the dungeon) that she chooses. Rather it is Bell Cranel, a newbie adventurer partnered with a low-tier goddess.",
+    "popularity": 77.892,
+    "poster_path": "/vh1Ye1jWmR7pFJpTIHbSR521zO5.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        },
+        {
+            "id": 95809,
+            "logo_path": "/5ac8LhghlxYKbPSwbXJkgrNfjGF.png",
+            "name": "EGG FIRM",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3627,
+            "logo_path": "/i1eW4O13B28b4JHpIL5C9rRiiur.png",
+            "name": "Warner Bros. Japan",
+            "origin_country": "JP"
+        },
+        {
+            "id": 142186,
+            "logo_path": "/fCsUYQacBylGp6M7Fafz9Aza9GE.png",
+            "name": "Hakuhodo DY Music & Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 164005,
+            "logo_path": "/1gWzgRKlpVVHLY8yYzTFesSZzR2.png",
+            "name": "SB Creative",
+            "origin_country": "JP"
+        },
+        {
+            "id": 5751,
+            "logo_path": null,
+            "name": "GENCO",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6681,
+            "logo_path": "/s4RElEnQyM2VrHZCQ3jYemPdxML.png",
+            "name": "THE KLOCKWORX",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3466,
+            "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+            "name": "Movic",
+            "origin_country": "JP"
+        },
+        {
+            "id": 113034,
+            "logo_path": "/hL98ifueUh5UdbiQnTRop1Q551z.png",
+            "name": "FuRyu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 151191,
+            "logo_path": "/wBA1v3dFtpRARIE7sYxc657x7rQ.png",
+            "name": "Gree",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2019-02-15",
+    "revenue": 0,
+    "runtime": 82,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 158
+}

@@ -1,0 +1,112 @@
+{
+    "adult": false,
+    "backdrop_path": "/3vhISZJYAYDkZNV0rcLTvfzdYwZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-01-11",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://227anime.com",
+    "id": 93875,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-03-28",
+    "last_episode_to_air": {
+        "air_date": "2020-03-28",
+        "episode_number": 12,
+        "id": 2045375,
+        "name": "22/7 (nanabun no nijyuuni)",
+        "overview": "After the eight members of 22/7 gather and confirm their love for the group again, the Wall, which had been silent since the disbandment press conference, starts to speak again.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/d7J89zbzjwbDv7moNVisNCligsb.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "22/7",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Gunma TV",
+            "id": 343,
+            "logo_path": "/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "22/7",
+    "overview": "One day, Miu Takigawa suddenly receives a letter notifying her that she has been chosen as a member of a brand-new project. Half in disbelief, she heads over to the location stated on the letter. There, she finds seven other girls summoned there in the same fashion. The girls behold a giant, top-secret facility. They stand in bewilderment as they are told: \"You are going to debut for a major record label as an idol group.\" A new kind of idol, never-before-seen, is about to be born here...",
+    "popularity": 15.564,
+    "poster_path": "/3YvgP8HM9Jlaua0YbM9tQIKUl6d.jpg",
+    "production_companies": [
+        {
+            "id": 13113,
+            "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+            "name": "A-1 Pictures",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-04",
+            "episode_count": 2,
+            "id": 163221,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/dev1yz3cfANTump470q0qVXoIxo.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-01-11",
+            "episode_count": 12,
+            "id": 132789,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3YvgP8HM9Jlaua0YbM9tQIKUl6d.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "The future is in our hands.",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 7
+}

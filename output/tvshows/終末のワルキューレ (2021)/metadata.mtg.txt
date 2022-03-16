@@ -1,0 +1,103 @@
+{
+    "adult": false,
+    "backdrop_path": "/iq5L971DFW1SwLJdvl7OpPI1QeZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2021-06-17",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://ragnarok-official.com",
+    "id": 114868,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2021-06-17",
+    "last_episode_to_air": {
+        "air_date": "2021-06-17",
+        "episode_number": 12,
+        "id": 3029613,
+        "name": "And Ragnarok Goes On",
+        "overview": "Despite Kojiro's Niten Ganryu duel blade method, Poseidon's powerful attacks continue to wear him down. But the battle isn't over yet.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/6pJlzARnDmyQI3dMlGTf8nuHjAE.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "name": "Record of Ragnarok",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "終末のワルキューレ",
+    "overview": "Before eradicating humankind from the world, the gods give them one last chance to prove themselves worthy of survival. Let the Ragnarok battles begin.",
+    "popularity": 150.812,
+    "poster_path": "/kTs2WNZOukpWdNhoRlH94pSJ3xf.jpg",
+    "production_companies": [
+        {
+            "id": 35971,
+            "logo_path": "/5q5P83YiDQa34FgGd2Wtw7aWBnr.png",
+            "name": "Graphinica",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-06-17",
+            "episode_count": 12,
+            "id": 172706,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/i4WT5rrniX5QUuQ59OGrNa99Ceg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.6,
+    "vote_count": 991
+}

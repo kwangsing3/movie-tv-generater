@@ -1,0 +1,117 @@
+{
+    "adult": false,
+    "backdrop_path": "/1sWzmUmMPT0cmfgPJkzzZ1VEnqY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-07-12",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://mon-isha-anime.com",
+    "id": 98685,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-09-27",
+    "last_episode_to_air": {
+        "air_date": "2020-09-27",
+        "episode_number": 12,
+        "id": 2337180,
+        "name": "The City of Dragons' Doctor",
+        "overview": "Skadi’s surgery was a success and all of Lindworm had rejoiced. While the whole city is rejoicing, Sapphee ends up catching a cold, possibly from letting her guard down after they finished the surgery. Glenn takes a lot of care in taking care of her and Sapphee uses this chance to let him dote on her. Later on, Glenn has to make a house call, and ends up running into Skadi and Kunai on his way, as well as some others he had treated in the past. They all give Glenn thanks and give him various gifts. He ends up bringing back all of the food and alcohol he had received, and they have a huge party back at the clinic.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/fQAOEF9XQS1COyHG9lAe077ocDd.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Monster Girl Doctor",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "Sun TV",
+            "id": 817,
+            "logo_path": "/5g8LER5X7tvziu3We71m9HnBmy6.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "KBS Kyoto",
+            "id": 1137,
+            "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "モンスター娘のお医者さん",
+    "overview": "In the town of Lindworm where monsters and humans coexist, Dr. Glenn runs an exemplary medical clinic for monster girls with his lamia assistant, Sapphee. Whether receiving a marriage proposal by a centaur injured in battle, palpating the injury of a mermaid, or suturing the delicate wounds of a flesh golem, Dr. Glenn performs his job with grace and confidence. But when an unsavory character seeks to steal a harpy egg, how will the unflappable Dr. Glenn respond...?",
+    "popularity": 15.662,
+    "poster_path": "/w0RJVdb1BdEjHAUX1LmzGyUvLaS.jpg",
+    "production_companies": [
+        {
+            "id": 116766,
+            "logo_path": "/6P2DnCakufsQBNFRJQQKMPmcrb.png",
+            "name": "ARVO ANIMATION",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-07-12",
+            "episode_count": 12,
+            "id": 142041,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/d2D80008oi4xYYUVSk34WcuosAF.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 15
+}

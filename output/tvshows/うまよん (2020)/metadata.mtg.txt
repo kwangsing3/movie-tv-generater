@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/omfqodxKCub3vgLX59MZm46ectJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        3
+    ],
+    "first_air_date": "2020-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://umamusume.jp/umayon/",
+    "id": 101668,
+    "in_production": true,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2020-09-22",
+    "last_episode_to_air": {
+        "air_date": "2020-09-22",
+        "episode_number": 12,
+        "id": 2336307,
+        "name": "Today's Main Race! The Gilded Vessel Obstacle Course (G1)",
+        "overview": "It's the final race of the season, as a group of horse girls take on a deviously designed obstacle course.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/1VDiV9Cc408ZLMTUjSgzlOf6kxr.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Umayon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Tokyo MX",
+            "id": 614,
+            "logo_path": "/3qFArHw6nrFIdkH2tPht701sNhs.png",
+            "origin_country": "JP"
+        },
+        {
+            "name": "BS11",
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "うまよん",
+    "overview": "The horse girls are back to charm you in this special, bite-size anime. Umayon comes alive as a cute and eye-catching anime! At a school-turned-training facility, the girls will race, perform, and train... but that's not all! Saddle up for a short-form anime that displays the laidback school days of the horse girls! Aaaaand, they're off!",
+    "popularity": 17.541,
+    "poster_path": "/okFfrKHndBIIPpxmUTRhqvb98cP.jpg",
+    "production_companies": [
+        {
+            "id": 123172,
+            "logo_path": "/52z6trsASwSR0hVhwgNJ4KkmOd2.png",
+            "name": "DMM.futureworks",
+            "origin_country": "JP"
+        },
+        {
+            "id": 92406,
+            "logo_path": null,
+            "name": "W-Toon Studio",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 12,
+            "id": 259030,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2020-07-07",
+            "episode_count": 12,
+            "id": 147411,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/267XMlzK3jiGLzWHqShD0hycyYg.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

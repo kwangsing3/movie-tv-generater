@@ -1,0 +1,120 @@
+{
+    "adult": false,
+    "backdrop_path": "/hMUBBrl1qqw6LXz0ZH3XGLhTt6B.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2003-04-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 25676,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2003-04-03",
+    "last_episode_to_air": {
+        "air_date": "2003-04-03",
+        "episode_number": 26,
+        "id": 659788,
+        "name": "Eternal Dark",
+        "overview": "Once upon a time the Hikari family created a living artwork, known as The Black Wings. The Niwa family, a family of phantom thieves tried to steal the artwork. The artwork must now be sealed forever. Krad and Dark fight, and at the end they both are sealed into the Black Wings, from which they came from. Daisuke realizes who his sacred maiden is, and Dark and Krad disappear.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/w9x7cQvAp39yRsulmOh4bX5I16r.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "D.N.Angel",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV Tokyo",
+            "id": 98,
+            "logo_path": "/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ディー・エヌ・エンジェル",
+    "overview": "D.N.Angel is a Japanese manga series written and illustrated by Yukiru Sugisaki. The ongoing manga premiered in Japan in the Kadokawa Shoten shōjo magazine Monthly Asuka in November 1997. The series went on an extended hiatus after the August 2005 issue, returning in the April 2008 issue. Kadokawa Shoten has collected the individual chapters and published them in 15 tankōbon volumes so far. The manga series is licensed for English language release in North America and the United Kingdom by Tokyopop, which has released 13 volumes of the series as of 2011.\n\nDentsu and Xebec adapted the manga into a 26-episode anime series which aired in Japan on TV Tokyo from April 3, 2003 until September 25, 2003. The anime was later adapted into second two volume manga series, a PlayStation 2 video game, and a series of drama CDs.",
+    "popularity": 11.205,
+    "poster_path": "/3etrMwiRXgGLTrQeDv55Rps5Ryv.jpg",
+    "production_companies": [
+        {
+            "id": 5937,
+            "logo_path": "/yelUQVWP72Nw5DirciMc9dqdk60.png",
+            "name": "XEBEC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 36076,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-04-03",
+            "episode_count": 26,
+            "id": 36075,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rRIadAbKtlD5Onhb8keQzY1kVYU.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.1,
+    "vote_count": 8
+}

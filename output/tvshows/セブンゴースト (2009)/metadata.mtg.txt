@@ -1,0 +1,125 @@
+{
+    "adult": false,
+    "backdrop_path": "/ik7Szz5OTDCjloDZkrQ9ABCfDf4.jpg",
+    "created_by": [
+        {
+            "id": 1256190,
+            "credit_id": "5a93df5092514107a901a672",
+            "name": "Yuki Amemiya",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1256191,
+            "credit_id": "5a93df15925141417102d32f",
+            "name": "Yukino Ichihara",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2009-04-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 21855,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2009-09-22",
+    "last_episode_to_air": {
+        "air_date": "2009-09-22",
+        "episode_number": 25,
+        "id": 601932,
+        "name": "The Heart Is Lead By The Truth On The Other Side...",
+        "overview": "Teito uses the power of the Eye of Mikhail to summon Frau, Castor, Labrador, Lance, and the Black Hawks.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/ipcBGNalUhomb1mkqZtYBihbJ9T.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "07-Ghost",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Chiba TV",
+            "id": 663,
+            "logo_path": "/8XNtModCxAwtvLy86b3phkE1jge.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 25,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "セブンゴースト",
+    "overview": "Set in a gothic fantasy world, this is the story of Teito Klein, an orphaned slave who became the top military academy student. However, an unexpected turn of events left him pursued by the forces of the Barsburg Empire. Now an escaping convict, Teito's sheltered by the church and its law of sanctuary. Here, he discovered many mysteries surrounding himself, the church, and the Empire itself. The fact that he might be connected to a dethroned king and the mystical stone of god, \"The Eye of Mikhael\", made him the target of the empire more than ever. Fortunately the church is under the mythical 7 Ghost protection. But who are the Ghosts really. Will Teito be free from the military's clutch, and what of his said mission to uncover the history. And who is the military's Chief-of-Staff Ayanami exactly. Teito's future seems to have spiraled into an unexpectedly perilous path.",
+    "popularity": 21.287,
+    "poster_path": "/v4pW812Jpqpf3Ih5gYGCu51kdDl.jpg",
+    "production_companies": [
+        {
+            "id": 92585,
+            "logo_path": null,
+            "name": "Ichijinsha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6075,
+            "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+            "name": "Studio Deen",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 2,
+            "id": 31641,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2009-04-07",
+            "episode_count": 25,
+            "id": 31639,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/d8SqvIHImwkPLLAniNy74qkX7QB.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 13
+}

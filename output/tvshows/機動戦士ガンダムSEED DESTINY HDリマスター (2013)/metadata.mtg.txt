@@ -1,0 +1,111 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1241824,
+            "credit_id": "61cd7a9762f335004184833b",
+            "name": "Mitsuo Fukuda",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3161832,
+            "credit_id": "61b9efaefa404600870d63db",
+            "name": "Hajime Yatate",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2013-03-29",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.gundam-seed.net/blu_ray.html",
+    "id": 137466,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2014-03-07",
+    "last_episode_to_air": {
+        "air_date": "2014-03-07",
+        "episode_number": 50,
+        "id": 3311060,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/zKgpZIpvI86jD2EWZqPLIIPhy4v.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "機動戦士ガンダムSEED DESTINY HDリマスター",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 50,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士ガンダムSEED DESTINY HDリマスター",
+    "overview": "",
+    "popularity": 4.811,
+    "poster_path": "/6nl7WHQvWWZLLgchDSeZWPhUbM1.jpg",
+    "production_companies": [
+        {
+            "id": 3153,
+            "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+            "name": "SUNRISE",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-03-29",
+            "episode_count": 50,
+            "id": 217531,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1
+}

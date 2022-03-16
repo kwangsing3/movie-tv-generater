@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/37SYmcbtk8ZwrrNZxCExRAnVTPW.jpg",
+    "created_by": [
+        {
+            "id": 1148342,
+            "credit_id": "52588925760ee346614b8bfe",
+            "name": "Satoru Akahori",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2003-01-03",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 27942,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2005-03-30",
+    "last_episode_to_air": {
+        "air_date": "2005-03-30",
+        "episode_number": 13,
+        "id": 700830,
+        "name": "Teach Us Love and Victory, Please!",
+        "overview": "",
+        "production_code": "",
+        "season_number": 2,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Lime-Colored History of War",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "らいむいろ戦奇譚",
+    "overview": "Umakai Shintaro, a Russian diplomat originally from Japan, defects and goes to Sapporo to teach at a girls academy. However, that girls academy is not typical—it is on board the Amanohara, and the five girls Shintaro teaches are known as the Lime Unit—girls with the ability to summon powerful beings to fight for them. Shintaro eventually becomes their teacher and general in battle, and so the six embark on a weird and excessively erotic journey, as Shintaro helps the girls overcome their weaknesses, become stronger for the final stand at Lushun, and also understand the motives of the \"Russian Spiritual Corps\" that assist the opponent, which, unfortunately, has one member whom Shintaro knew well...",
+    "popularity": 4.703,
+    "poster_path": "/mJ5EUHbELqUhgUb3awozELGsdoy.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2004-04-23",
+            "episode_count": 2,
+            "id": 39097,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0
+        },
+        {
+            "air_date": "2003-01-03",
+            "episode_count": 13,
+            "id": 39096,
+            "name": "Lime-iro Senkitan",
+            "overview": "",
+            "poster_path": "/hR2hxec0Oy7inXPA03e941KbDl7.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2005-01-05",
+            "episode_count": 13,
+            "id": 39098,
+            "name": "Lime-iro Ryuukitan X",
+            "overview": "",
+            "poster_path": "/9elXzgP0KLedOSe9ENBdX2lPSvt.jpg",
+            "season_number": 2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}

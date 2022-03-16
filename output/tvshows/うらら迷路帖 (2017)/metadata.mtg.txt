@@ -1,0 +1,95 @@
+{
+    "adult": false,
+    "backdrop_path": "/dxGYIBz4PaPDavRhUzpX76NZZbr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2017-01-06",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.tbs.co.jp/anime/urara/",
+    "id": 69345,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "2017-03-24",
+    "last_episode_to_air": {
+        "air_date": "2017-03-24",
+        "episode_number": 12,
+        "id": 1266534,
+        "name": "Baths and Celebrations Sometimes Have Smiles",
+        "overview": "After passing their exams, the whole gang heads off to the hot springs where they solidify their friendship.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/xJJhD6B2GLny1ij7BhzTrvbczBM.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Urara Meirocho",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TBS",
+            "id": 160,
+            "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+            "origin_country": "JP"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "うらら迷路帖",
+    "overview": "This is Meiro-machi (Labyrinth Town), the town of fortune-telling. In town, there is a fortune-telling shop called Urara, where girls aspiring to be fortune-tellers come from all over the country. Chiya, who was raised in the mountains, comes to the town with a purpose, but what is it exactly? There, she meets Kon who is always serious, Koume who loves all things western, and the shy Nono. Their fun days of living together as apprentice fortune-tellers are about to begin.",
+    "popularity": 10.42,
+    "poster_path": "/yjfwp2gErEwHJaA7U93aQMYSKqA.jpg",
+    "production_companies": [
+        {
+            "id": 11884,
+            "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+            "name": "J.C.Staff",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-01-06",
+            "episode_count": 12,
+            "id": 83299,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iZY1X0eYgwAeNljb0Q7UDW6oXfT.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 8
+}

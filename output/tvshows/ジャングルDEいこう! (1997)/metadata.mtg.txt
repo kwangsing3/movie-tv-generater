@@ -1,0 +1,78 @@
+{
+    "adult": false,
+    "backdrop_path": "/gaP9aPxPyCaD4TdXl3ccGs1PYwj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        29
+    ],
+    "first_air_date": "1997-03-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 102177,
+    "in_production": false,
+    "languages": [
+        "ja"
+    ],
+    "last_air_date": "1997-04-01",
+    "last_episode_to_air": {
+        "air_date": "1997-04-01",
+        "episode_number": 3,
+        "id": 2232247,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Jungle de Ikou!",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "ja",
+    "original_name": "ジャングルDEいこう!",
+    "overview": "After meeting a dancing old man in what she thinks is just a crazy dream, a schoolgirl embarks on a series of magical adventures with a little creature named Ongo who might be evil and a shy girl with mysterious powers named Nami.",
+    "popularity": 0.6,
+    "poster_path": "/4keBPopOGxSbokHDdXrbQwMyduz.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1997-03-26",
+            "episode_count": 3,
+            "id": 148356,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8.7,
+    "vote_count": 3
+}
