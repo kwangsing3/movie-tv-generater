@@ -1,19 +1,14 @@
 import {join} from 'node:path';
 import {WriteFile, WriteFileAsJSON} from '../utility/fileIO';
 import * as wrapTMDB from 'wraptmdb-ts';
-const cliProgress = require('child_process');
 //Step1
-export default async function Call(keywords: any[], path: string) {
+export default async (keywords: any[], path: string) => {
   let str = '';
   let legn = keywords.length - 1;
   keywords.forEach((element: string) => {
     str += element;
     if (legn-- > 0) str += '|';
   });
-  const bar1 = new cliProgress.SingleBar(
-    {},
-    cliProgress.Presets.shades_classic
-  );
   let cur_page = 1;
   let MaxPage = 1;
   const query = {
@@ -33,8 +28,7 @@ export default async function Call(keywords: any[], path: string) {
     ? data['total_results']
     : 0;
   MaxPage = data['total_pages'] > 1 ? data['total_pages'] : -1;
-  let current_result = 0;
-  bar1.start(total_results, current_result);
+  const current_result = 0;
   while (cur_page <= MaxPage) {
     // To Search for movie ID
     query.page = cur_page;
@@ -54,15 +48,13 @@ export default async function Call(keywords: any[], path: string) {
         await GenerateFolder(data, path);
       } catch (error) {
         console.log(error);
-        bar1.update(current_result++);
       }
       cur_page++;
     }
-    bar1.stop();
   }
-}
+};
 /*------------------Geaneate Logic------------------*/
-const metadataName = 'metadata.mtg.txt';
+const metadataName = 'metadata.json';
 //Generate Folder by JSON structure
 async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
   // Skip if has no name
@@ -86,16 +78,16 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
   Foldername += ` (${Year})`;
   //Add a fake file to let fetcher can get metadata
   await WriteFile(
-    join(parentpath + Foldername + '/' + `${Foldername}.mtg.mkv`),
+    join(parentpath + Foldername + '/' + `${Foldername}.cache.mkv`),
     null
   );
   //Add extra folders
   await WriteFile(
-    join(parentpath + Foldername + '/' + 'Specials' + '/.mtg.gitkeep'),
+    join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'),
     null
   );
   await WriteFile(
-    join(parentpath + Foldername + '/' + 'Extras' + '/.mtg.gitkeep'),
+    join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'),
     null
   );
   //Add json as a tag

@@ -37,7 +37,8 @@ jobs:
       - run: |
           git config --local user.email "actions@example.com"
           git config --local user.name "Github-Action"
+          ls -a | grep -v "README.md\|output\|[.]$" | grep -v ^.git$ | xargs rm -rf
           git add --all
           git commit --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ steps.date.outputs.date }}" 
-          git push -f
+          git push -f origin branch_dev:deploy
       # --allow-empty  It allow no changed commit to push preventing return error from no-changed push.
