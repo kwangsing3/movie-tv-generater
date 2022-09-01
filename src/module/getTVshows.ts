@@ -1,14 +1,9 @@
-import {join} from 'node:path';
+import {join, parse} from 'node:path';
 import {WriteFile, WriteFileAsJSON} from '../utility/fileIO';
 import * as wrapTMDB from 'wraptmdb-ts';
+import {SendToSturct} from './struct';
+import {DownloadFile} from '../utility/httpmethod';
 
-//
-//
-//
-//
-// image host: https://image.tmdb.org/t/p/w500/
-//
-//
 //Step1
 export default async (keywords: string[], path: string) => {
   //轉變keywords語法
@@ -38,7 +33,7 @@ export default async (keywords: string[], path: string) => {
     ? data['total_results']
     : 0;
   MaxPage = data['total_pages'] > 1 ? data['total_pages'] : -1;
-  const current_result = 0;
+  let cur_count = 1;
   while (cur_page <= MaxPage) {
     query.page = cur_page; //更新搜尋屬性
     const data = await wrapTMDB.Discover.GetTVDiscover(query); // To Search in TVshows list.
@@ -52,9 +47,12 @@ export default async (keywords: string[], path: string) => {
     });
     //Generated json structure
     for (const key of IDs) {
-      const data = await wrapTMDB.TV.GetDetails(key, 'zh-tw');
+      let data = await wrapTMDB.TV.GetDetails(key, 'zh-tw');
       //turn into real folder
-      await GenerateFolder(data, path);
+
+      data = await GenerateFolder(data, path);
+      SendToSturct('tv', data);
+      console.log(`TVshows: ${cur_count++}/${total_results}`);
     }
     cur_page++;
   }
@@ -86,22 +84,25 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
     ? data['seasons']
     : [];
   for (const season of Seasons) {
-    //Season name
-    let name = Object.prototype.hasOwnProperty.call(season, 'name')
+    //Season name, prefix Season index (有些季別不會特別標示Season)
+    let SeasonName = Object.prototype.hasOwnProperty.call(season, 'name')
       ? season['name']
       : '';
-    if (name === '' || name === 'Specials' || name === 'Extras') {
+    if (
+      SeasonName === '' ||
+      SeasonName === 'Specials' ||
+      SeasonName === 'Extras'
+    ) {
       continue;
     }
-    //prefix Season index (有些季別不會特別標示Season)
     const season_number = Object.prototype.hasOwnProperty.call(
       season,
       'season_number'
     )
       ? season['season_number']
       : -1;
-    if (!name.includes(`Season ${season_number}`)) {
-      name = `Season ${season_number} - ${name}`;
+    if (!SeasonName.includes(`Season ${season_number}`)) {
+      SeasonName = `Season ${season_number} - ${SeasonName}`;
     }
     // Episode Count (ignore if there's no episodes)
     const episode_count = Object.prototype.hasOwnProperty.call(
@@ -113,24 +114,47 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
     if (episode_count < 1) {
       continue;
     }
-    //.gitkeep: git will not track the folder if nothing in there
-    await WriteFile(
-      join(parentpath + Foldername + '/' + `${Foldername}.cache.mkv`),
-      null
-    );
-    //Add extra folders
-    await WriteFile(
-      join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'),
-      null
-    );
-    await WriteFile(
-      join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'),
-      null
-    );
-    //Add json as a tag
-    await WriteFileAsJSON(
-      join(parentpath + Foldername + '/' + metadataName),
-      data
-    );
+    //
+    //.gitkeep
+    await WriteFile(join(parentpath, Foldername, SeasonName, '.gitkeep'), null);
+    //
+    //Download season poster
+    if (season['poster_path'] !== undefined && season['poster_path'] !== null) {
+      const poster_url =
+        'https://image.tmdb.org/t/p/w500' + season['poster_path'];
+      let poster_pat = '';
+      const ext = parse(season['poster_path']).ext;
+      poster_pat = join(parentpath, Foldername, SeasonName, `poster${ext}`);
+      await DownloadFile(poster_url, poster_pat);
+      season['poster_path'] = poster_pat;
+    }
   }
+  //.gitkeep: git will not track the folder if nothing in there
+  await WriteFile(
+    join(parentpath + Foldername + '/' + `${Foldername}.cache.mkv`),
+    null
+  );
+  //Add extra folders
+  await WriteFile(
+    join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'),
+    null
+  );
+  await WriteFile(
+    join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'),
+    null
+  );
+
+  //Download poster
+  let poster_pat = '';
+  if (data['poster_path'] !== undefined && data['poster_path'] !== null) {
+    const poster_url = 'https://image.tmdb.org/t/p/w500' + data['poster_path'];
+    const ext = parse(data['poster_path']).ext;
+    poster_pat = join(parentpath, Foldername, `poster${ext}`);
+    await DownloadFile(poster_url, poster_pat);
+  }
+
+  //Add json as a tag
+  await WriteFileAsJSON(join(parentpath, Foldername, metadataName), data);
+  data['poster_path'] = poster_pat;
+  return data;
 }

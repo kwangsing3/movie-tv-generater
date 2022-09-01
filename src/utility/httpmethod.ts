@@ -1,3 +1,4 @@
+/* eslint-disable node/no-unsupported-features/node-builtins */
 const axios = require('axios');
 /**
  * GET method
@@ -78,3 +79,28 @@ export const GetRateLimit = () => {
 
   return minus <= 0 ? 0 : waitRateMS - minus;
 };
+
+import {createWriteStream} from 'fs';
+import * as stream from 'stream';
+import {promisify} from 'util';
+const pipeline = promisify(stream.pipeline);
+
+/**
+ * 下載檔案
+ * @param fileUrl
+ * @param outputLocationPath
+ * @returns
+ */
+export async function DownloadFile(
+  fileUrl: string,
+  outputLocationPath: string
+): Promise<any> {
+  try {
+    const request = await axios.get(fileUrl, {
+      responseType: 'stream',
+    });
+    await pipeline(request.data, createWriteStream(outputLocationPath));
+  } catch (error) {
+    console.error(`download ${fileUrl} pipeline failed: `, error);
+  }
+}
