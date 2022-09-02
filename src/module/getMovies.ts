@@ -30,7 +30,7 @@ export default async (keywords: any[], path: string) => {
     ? data['total_results']
     : 0;
   MaxPage = data['total_pages'] > 1 ? data['total_pages'] : -1;
-  let cur_count = 0;
+  let cur_count = 1;
   while (cur_page <= MaxPage) {
     // To Search for movie ID
     query.page = cur_page;
@@ -48,9 +48,9 @@ export default async (keywords: any[], path: string) => {
       //turn into real folder
       await GenerateFolder(data, path);
       SendToSturct('movie', data);
-      console.log(`TVshows: ${cur_count++}/${total_results}`);
-      cur_page++;
+      console.log(`Movies: ${cur_count++}/${total_results}`);
     }
+    cur_page++;
   }
 };
 /*------------------Geaneate Logic------------------*/
@@ -63,9 +63,7 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
     : '';
   if (Foldername === '') return;
   //Prefix Foldername
-  Foldername = Foldername.replace('/', '／')
-    .replace('\\', '＼')
-    .replace(':', '：');
+  Foldername = Foldername.replace(/[/\\?%*:|"<>]/g, '_');
   //Release date
   const strFirstAirDate = Object.prototype.hasOwnProperty.call(
     data,
@@ -90,8 +88,8 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
     join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'),
     null
   );
-  //Download poster
 
+  //Download poster
   let poster_pat = '';
   if (data['poster_path'] !== undefined && data['poster_path'] !== null) {
     const poster_url = 'https://image.tmdb.org/t/p/w500' + data['poster_path'];
@@ -101,8 +99,7 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
   }
 
   //Add json as a tag
-  await WriteFileAsJSON(
-    join(parentpath + Foldername + '/' + metadataName),
-    data
-  );
+  await WriteFileAsJSON(join(parentpath, Foldername, metadataName), data);
+  data['poster_path'] = poster_pat;
+  return data;
 }

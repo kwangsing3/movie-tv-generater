@@ -20,9 +20,6 @@ wrapTMDB.SetHeader({
   Referer: 'https://github.com/kwangsing3/movie-tv-generater',
 });
 //
-//
-//
-//
 async function main() {
   //
   //每次啟動時清除並重建/output
@@ -31,7 +28,6 @@ async function main() {
     console.error(err);
   });
   await MKDir(outputPath);
-  //
   //
   //TV Shows
   await getTVshows(['210024'], './output/tvshows/'); //anime: 210024

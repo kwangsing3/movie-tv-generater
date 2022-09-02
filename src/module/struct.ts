@@ -28,7 +28,6 @@ export function SendToSturct(tag: 'tv' | 'movie', input: any) {
 
 function SendTV(input: any) {
   //
-  console.log();
   const ori_name = input['original_name'];
   const Seasons = input['seasons'];
   const year = new Date(input['first_air_date']).getUTCFullYear();
@@ -36,7 +35,11 @@ function SendTV(input: any) {
     const resDate = filter(new Date(input['first_air_date']));
     if (!Object.prototype.hasOwnProperty.call(tv_struct, resDate))
       tv_struct[resDate] = {};
-    tv_struct[resDate][ori_name] = input;
+    tv_struct[resDate][ori_name] = {
+      episode_count: input['episode_count'],
+      id: input['id'],
+      poster_path: input['poster_path'],
+    };
   } else {
     for (const key of Seasons) {
       const resDate = filter(new Date(key['air_date']));
@@ -44,17 +47,25 @@ function SendTV(input: any) {
         tv_struct[resDate] = {};
       key['poster_path'] =
         'https://image.tmdb.org/t/p/original/' + key['poster_path'];
-      tv_struct[resDate][`${ori_name} (${year})`] = key;
+      tv_struct[resDate][`${ori_name} (${year})`] = {
+        episode_count: key['episode_count'],
+        id: key['id'],
+        poster_path: key['poster_path'],
+      };
     }
   }
-  //
-  //
-  //
   //
 }
 function SendMovie(input: any) {
   //
-  console.log();
+  const ori_name = input['original_title'];
+  const resDate = filter(new Date(input['release_date']));
+  if (!Object.prototype.hasOwnProperty.call(movie_struct, resDate))
+    movie_struct[resDate] = {};
+  movie_struct[resDate][ori_name] = {
+    id: input['id'],
+    poster_path: input['poster_path'],
+  };
 }
 
 const filter = (date: Date) => {

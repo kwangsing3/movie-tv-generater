@@ -49,7 +49,6 @@ export default async (keywords: string[], path: string) => {
     for (const key of IDs) {
       let data = await wrapTMDB.TV.GetDetails(key, 'zh-tw');
       //turn into real folder
-
       data = await GenerateFolder(data, path);
       SendToSturct('tv', data);
       console.log(`TVshows: ${cur_count++}/${total_results}`);
@@ -71,9 +70,8 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
   let Foldername = data['original_name'];
   if (Foldername === '' || Foldername === undefined) return;
   //Prefix Foldername
-  Foldername = Foldername.replace('/', '／')
-    .replace('\\', '＼')
-    .replace(':', '：');
+  Foldername = Foldername.replace(/[/\\?%*:|"<>]/g, '_');
+
   //Release date (Year)
   const strFirstAirDate = data['first_air_date'];
   const FirstAirDate = new Date(strFirstAirDate);
@@ -114,7 +112,11 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
     if (episode_count < 1) {
       continue;
     }
-    //
+    if (SeasonName.includes('鋼彈創鬥者潛網大戰')) {
+      console.log();
+    }
+    //prefix folder name
+    SeasonName = SeasonName.replace(/[/\\?%*:|"<>]/g, '_');
     //.gitkeep
     await WriteFile(join(parentpath, Foldername, SeasonName, '.gitkeep'), null);
     //

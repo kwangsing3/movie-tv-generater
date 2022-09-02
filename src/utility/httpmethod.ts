@@ -1,3 +1,5 @@
+const needDownload = true;
+
 /* eslint-disable node/no-unsupported-features/node-builtins */
 const axios = require('axios');
 /**
@@ -95,6 +97,7 @@ export async function DownloadFile(
   fileUrl: string,
   outputLocationPath: string
 ): Promise<any> {
+  if (!needDownload) return;
   try {
     const request = await axios.get(fileUrl, {
       responseType: 'stream',
