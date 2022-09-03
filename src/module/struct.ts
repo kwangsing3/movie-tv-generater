@@ -128,7 +128,44 @@ export function PrefixMovie(input: any) {
   return result;
 }
 export function PrefixTV(input: any) {
-  return '777';
+  //input = sample;
+  let result = '';
+  result = '';
+  const filt: any = {};
+  //依照日期組成一組，之後再反轉(讓最新的擺在前面)
+  for (const index in input) {
+    const key = input[index];
+    const keys = Object.keys(key);
+    const size = keys.length;
+    const date = index;
+    const year = date.slice(0, 4);
+    //製作日期標頭
+    let tmp = `# ${date}`;
+    tmp += `${EOL}`;
+
+    for (let i = 0; i < size; i++) {
+      //貼上海報
+      tmp += `${EOL}`;
+      tmp += `|${imgSTR(key[keys[i]]['poster_path'])}|${keys[i]} (${year})|`;
+      tmp += `${EOL}`;
+      tmp += '|--|--|';
+      tmp += `${EOL}`;
+    }
+    tmp += `${EOL}`;
+    filt[date] = tmp;
+  }
+  const properties = Object.keys(filt).sort().reverse();
+  for (const i of properties) {
+    if (i.includes('NaN')) continue;
+    result += `${filt[i]}${EOL}${EOL}`;
+  }
+  result += `${filt['NaN-NaN']}${EOL}${EOL}`;
+  //
+  // 轉譯成純文字 (最新的優先)
+
+  //
+  //
+  return result;
 }
 
 /*
@@ -137,3 +174,5 @@ export function PrefixTV(input: any) {
 aaa |劇場版 NARUTO -ナルト- 疾風伝|aaa
 aaa |劇場版 NARUTO -ナルト- 疾風伝|aaa
 */
+
+const sample = {};
