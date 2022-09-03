@@ -3,6 +3,9 @@ import {WriteFile, WriteFileAsJSON} from '../utility/fileIO';
 import * as wrapTMDB from 'wraptmdb-ts';
 import {SendToSturct} from './struct';
 import {DownloadFile} from '../utility/httpmethod';
+
+const dev_limit = false;
+
 //Step1
 export default async (keywords: any[], path: string) => {
   let str = '';
@@ -46,11 +49,14 @@ export default async (keywords: any[], path: string) => {
     for (const key of IDs) {
       const data = await wrapTMDB.Movies.GetDetails(key);
       //turn into real folder
-      await GenerateFolder(data, path);
-      SendToSturct('movie', data);
+      const res = await GenerateFolder(data, path);
+      SendToSturct('movie', res);
       console.log(`Movies: ${cur_count++}/${total_results}`);
     }
     cur_page++;
+    if (dev_limit && cur_count > 5) {
+      break;
+    }
   }
 };
 /*------------------Geaneate Logic------------------*/
@@ -77,16 +83,16 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
   //Add a fake file to let fetcher can get metadata
   await WriteFile(
     join(parentpath + Foldername + '/' + `${Foldername}.cache.mkv`),
-    null
+    ''
   );
   //Add extra folders
   await WriteFile(
     join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'),
-    null
+    ''
   );
   await WriteFile(
     join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'),
-    null
+    ''
   );
 
   //Download poster
@@ -96,10 +102,10 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
     const ext = parse(data['poster_path']).ext;
     poster_pat = join(parentpath, Foldername, `poster${ext}`);
     await DownloadFile(poster_url, poster_pat);
+    data['poster_path'] = poster_pat;
   }
 
   //Add json as a tag
   await WriteFileAsJSON(join(parentpath, Foldername, metadataName), data);
-  data['poster_path'] = poster_pat;
   return data;
 }

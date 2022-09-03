@@ -13,11 +13,11 @@ const {
  * @param content 檔案內容
  * @returns true-成功  false-失敗
  */
-export async function WriteFile(targetPath: string, content: any) {
+export async function WriteFile(targetPath: string, content: string) {
   const parentPath = dirname(targetPath);
   await MKDir(parentPath);
   targetPath = join(targetPath);
-  await fs.writeFile(targetPath, JSON.stringify(content), 'utf-8');
+  await fs.writeFile(targetPath, content, 'utf-8');
 }
 /**
  * 依照JSON的格式寫入檔案，並自動檢查是否有相應的資料夾位置
