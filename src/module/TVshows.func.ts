@@ -4,8 +4,6 @@ import * as wrapTMDB from 'wraptmdb-ts';
 import {SendToSturct} from './struct';
 import {DownloadFile} from '../utility/httpmethod';
 
-const dev_limit = false;
-
 //Step1
 export default async (keywords: string[], path: string) => {
   //轉變keywords語法
@@ -48,17 +46,20 @@ export default async (keywords: string[], path: string) => {
       IDs.push(element['id']);
     });
     //Generated json structure
-    for (const key of IDs) {
-      let data = await wrapTMDB.TV.GetDetails(key, 'zh-tw');
+    for (let index = 0; index < IDs.length; index++) {
+      let data = await wrapTMDB.TV.GetDetails(IDs[index], 'zh-tw');
       //turn into real folder
       data = await GenerateFolder(data, path);
       SendToSturct('tv', data);
       console.log(`TVshows: ${cur_count++}/${total_results}`);
+      if (
+        process.env['MODE'] === 'DEBUG' &&
+        index.toString() === process.env['AMOUNT']
+      )
+        break;
     }
     cur_page++;
-    if (dev_limit && cur_count > 5) {
-      break;
-    }
+    if (process.env['MODE'] === 'DEBUG') break;
   }
 };
 
@@ -117,9 +118,7 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
     if (episode_count < 1) {
       continue;
     }
-    if (SeasonName.includes('鋼彈創鬥者潛網大戰')) {
-      console.log();
-    }
+
     //prefix folder name
     SeasonName = SeasonName.replace(/[/\\?%*:|"<>]/g, '_');
     //.gitkeep

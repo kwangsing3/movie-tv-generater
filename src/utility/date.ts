@@ -27,8 +27,3 @@ export function GetReadalbeTime(str: string): string {
       : currenttime.getSeconds().toString();
   return `${month}/${date}/${year} ${hour}:${minute}:${second}`;
 }
-
-//TODO: Need to figure out:
-//系統時間
-//時區時間
-//換日線時間

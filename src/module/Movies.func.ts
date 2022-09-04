@@ -4,8 +4,6 @@ import * as wrapTMDB from 'wraptmdb-ts';
 import {SendToSturct} from './struct';
 import {DownloadFile} from '../utility/httpmethod';
 
-const dev_limit = false;
-
 //Step1
 export default async (keywords: any[], path: string) => {
   let str = '';
@@ -46,17 +44,20 @@ export default async (keywords: any[], path: string) => {
       IDs.push(element['id']);
     });
     //Generated json structure
-    for (const key of IDs) {
-      const data = await wrapTMDB.Movies.GetDetails(key);
+    for (let index = 0; index < IDs.length; index++) {
+      const data = await wrapTMDB.Movies.GetDetails(IDs[index]);
       //turn into real folder
       const res = await GenerateFolder(data, path);
       SendToSturct('movie', res);
       console.log(`Movies: ${cur_count++}/${total_results}`);
+      if (
+        process.env['MODE'] === 'DEBUG' &&
+        index.toString() === process.env['AMOUNT']
+      )
+        break;
     }
     cur_page++;
-    if (dev_limit && cur_count > 5) {
-      break;
-    }
+    if (process.env['MODE'] === 'DEBUG') break;
   }
 };
 /*------------------Geaneate Logic------------------*/

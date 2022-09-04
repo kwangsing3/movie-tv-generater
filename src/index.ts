@@ -2,8 +2,8 @@ const core = require('@actions/core');
 import {rm, rmdir} from 'node:fs/promises';
 import {join} from 'node:path';
 import * as wrapTMDB from 'wraptmdb-ts';
-import getMovies from './module/getMovies';
-import getTVshows from './module/getTVshows';
+import getMovies from './module/Movies.func';
+import getTVshows from './module/TVshows.func';
 import {InsertReadme, WriteBasicReadme} from './module/readme';
 import {WriteStruct} from './module/struct';
 import {MKDir} from './utility/fileIO';
@@ -25,9 +25,9 @@ async function main() {
   //
   //每次啟動時清除並重建/output
   const outputPath = join(__dirname, '../', '../', 'output');
-  // await rm(outputPath, {recursive: true}).catch(err => {
-  //   console.error(err);
-  // });
+  await rm(outputPath, {recursive: true}).catch(err => {
+    console.error(err);
+  });
   await MKDir(outputPath);
 
   //
@@ -58,3 +58,11 @@ try {
     console.error(error);
   }
 }
+
+/*
+
+  TODO:
+  1. 製作以環境變數決定的 假資料以免每次測試都要拉很多資料。
+
+
+*/

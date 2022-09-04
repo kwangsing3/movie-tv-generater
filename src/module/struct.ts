@@ -42,7 +42,7 @@ function SendTV(input: any) {
       const resDate = filterTV(new Date(key['air_date']));
       if (!Object.prototype.hasOwnProperty.call(tv_struct, resDate))
         tv_struct[resDate] = {};
-      tv_struct[resDate][`${ori_name} (${year})`] = {
+      tv_struct[resDate][`${ori_name}`] = {
         episode_count: key['episode_count'],
         id: key['id'],
         poster_path: key['poster_path'],
@@ -64,20 +64,20 @@ function SendMovie(input: any) {
 
 const filterTV = (date: Date) => {
   const year = date.getUTCFullYear();
-  const month = date.getUTCMonth();
-  return `${year}-${((month + 1) % 3) * 3 + 1}`;
+  const month = date.getUTCMonth() + 1;
+  let res = '';
+  if (month < 4) res = '1';
+  else if (month >= 4 && month < 7) res = '4';
+  else if (month >= 7 && month < 10) res = '7';
+  else if (month >= 10) res = '10';
+  return `${year}-${res}`;
 };
 
 export const WriteStruct = async (tag: 'tv' | 'movie', pat: string) => {
   switch (tag) {
     case 'tv':
-      await WriteFileAsJSON(join(pat, '../', 'tv_struct.json'), tv_struct);
       return PrefixTV(tv_struct);
     case 'movie':
-      await WriteFileAsJSON(
-        join(pat, '../', 'movie_struct.json'),
-        movie_struct
-      );
       return PrefixMovie(movie_struct);
     default:
       break;
@@ -88,7 +88,6 @@ const imgSTR = (pat: String) => {
   return `<img src="${pat}"  width="120" height="180"/>`;
 };
 export function PrefixMovie(input: any) {
-  //input = sample;
   let result = '';
   result = '';
   const filt: any = {};
@@ -105,10 +104,17 @@ export function PrefixMovie(input: any) {
 
     for (let i = 0; i < size; i++) {
       //貼上海報
+      // tmp += `${EOL}`;
+      // tmp += `|${imgSTR(key[keys[i]]['poster_path'])}|${keys[i]} (${year})|`;
+      // tmp += `${EOL}`;
+      // tmp += '|--|--|';
+      // tmp += `${EOL}`;
       tmp += `${EOL}`;
-      tmp += `|${imgSTR(key[keys[i]]['poster_path'])}|${keys[i]} (${year})|`;
+      tmp += `|${imgSTR(key[keys[i]]['poster_path'])}|`;
       tmp += `${EOL}`;
-      tmp += '|--|--|';
+      tmp += '|--|';
+      tmp += `${EOL}`;
+      tmp += `|${keys[i]} (${year})|`;
       tmp += `${EOL}`;
     }
     tmp += `${EOL}`;
@@ -122,13 +128,11 @@ export function PrefixMovie(input: any) {
   result += `${filt['NaN-NaN']}${EOL}${EOL}`;
   //
   // 轉譯成純文字 (最新的優先)
-
   //
   //
   return result;
 }
 export function PrefixTV(input: any) {
-  //input = sample;
   let result = '';
   result = '';
   const filt: any = {};
@@ -146,9 +150,11 @@ export function PrefixTV(input: any) {
     for (let i = 0; i < size; i++) {
       //貼上海報
       tmp += `${EOL}`;
-      tmp += `|${imgSTR(key[keys[i]]['poster_path'])}|${keys[i]} (${year})|`;
+      tmp += `|${imgSTR(key[keys[i]]['poster_path'])}|`;
       tmp += `${EOL}`;
-      tmp += '|--|--|';
+      tmp += '|--|';
+      tmp += `${EOL}`;
+      tmp += `|${keys[i]} (${year})|`;
       tmp += `${EOL}`;
     }
     tmp += `${EOL}`;
@@ -162,17 +168,7 @@ export function PrefixTV(input: any) {
   result += `${filt['NaN-NaN']}${EOL}${EOL}`;
   //
   // 轉譯成純文字 (最新的優先)
-
   //
   //
   return result;
 }
-
-/*
-2007-7| ---- | ----
----- | ---- | ----
-aaa |劇場版 NARUTO -ナルト- 疾風伝|aaa
-aaa |劇場版 NARUTO -ナルト- 疾風伝|aaa
-*/
-
-const sample = {};
