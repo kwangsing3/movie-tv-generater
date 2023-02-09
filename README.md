@@ -10,5 +10,3 @@ If there's invalid path:
 ```
 git config core.protectNTFS false
 ```
-undefined
-

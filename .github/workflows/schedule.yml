@@ -1,10 +1,14 @@
 name: Daily Update-yml
 on:
   schedule: # execute every 12 hours
-    - cron: '* */24 * * *'
+      - cron: '* */24 * * *'
   push:
-    branches:
-      - branch_dev
+      branches:
+      - 4-fix-github-action-yml
+env:
+  isAction: true
+  TMDB_TOKEN: "${{ secrets.TMDB_TOKEN }}"
+  MODE: "DEBUG"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,7 +24,7 @@ jobs:
           path: node_modules
           # cache key 包含了所有我們希望固定的資訊：OS，node 版本，以及 package-lock.json 的檔案內容，使用 hashFiles 將檔案內容轉換成字串
           key: node-modules-${{ runner.os }}-${{ matrix.node-version }}-${{ hashFiles('package-lock.json') }}
-
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
       - name: Install Packages
         run: test -d node_modules && echo "node_modules exists" || npm ci
       - name: Get current date
@@ -29,16 +33,13 @@ jobs:
       #tsc
       - name: tsc
         run: tsc
-      - run: ls 
-      # To Generate Files here
       - run: npm run prod
-        env:  
-          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
       - run: |
           git config --local user.email "actions@example.com"
           git config --local user.name "Github-Action"
-      #   ls -a | grep -v "README.md\|output\|[.]$\|tv_struct.json\|movie_struct.json" | grep -v ^.git$ | xargs rm -rf
+          git branch page
+          ls -a | grep -v "README.md\|output\|[.]$\|index.html" | grep -v ^.git$ | xargs rm -rf
           git add --all
           git commit --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ steps.date.outputs.date }}" 
-          git push -f origin branch_dev:deploy
+          git push -f origin page
       # --allow-empty  It allow no changed commit to push preventing return error from no-changed push.

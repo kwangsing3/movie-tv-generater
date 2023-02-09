@@ -51,11 +51,6 @@ export default async (keywords: string[], path: string): Promise<Movie[]> => {
         console.log(GLOBAL_COUNTER++ + '/' + total_results);
         cont++;
       });
-      if (
-        process.env['MODE'] === 'DEBUG' &&
-        index.toString() === process.env['AMOUNT']
-      )
-        break;
     }
     let skip = 0;
     const cache = GLOBAL_COUNTER;
@@ -66,7 +61,7 @@ export default async (keywords: string[], path: string): Promise<Movie[]> => {
         skip = 0;
       }
       //console.log(GLOBAL_COUNTER);
-      if (skip >= 30) {
+      if (skip >= 800) {
         console.error('request break!');
         break;
       }

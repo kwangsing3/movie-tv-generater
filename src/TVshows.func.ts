@@ -64,7 +64,7 @@ export default async (
         skip = 0;
       }
       //console.log(GLOBAL_COUNTER);
-      if (skip >= 30) {
+      if (skip >= 800) {
         console.error('request break!');
         break;
       }

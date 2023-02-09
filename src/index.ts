@@ -5,10 +5,10 @@ import RenderHTML from './html';
 import getMovies from './Movies.func';
 import getTVshows from './TVshows.func';
 import {MKDir, WriteFile} from './utility/fileIO';
-import {SetRatePerMin} from './utility/httpmethod';
+import {SetRatePerMin, sleep} from './utility/httpmethod';
 
 const core = require('@actions/core');
-const isAction = false;
+const notAction = process.env['isAction'] ? process.env['isAction'] : true;
 const TOKEN =
   process.env.TMDB_TOKEN === undefined || process.env.TMDB_TOKEN === ''
     ? process.argv[2]
@@ -23,9 +23,10 @@ wrapTMDB.SetHeader({
 async function main() {
   //每次啟動時清除並重建 /output
   const outputPath = join(__dirname, '../', '../', 'output');
-  await rm(outputPath, {recursive: true}).catch(err => {
-    console.error(err);
-  });
+  if (!notAction)
+    await rm(outputPath, {recursive: true}).catch(err => {
+      console.error(err);
+    });
   await MKDir(outputPath);
   SetRatePerMin(60);
 
@@ -44,7 +45,7 @@ async function main() {
 try {
   main();
 } catch (error) {
-  if (isAction) {
+  if (notAction) {
     core.setFailed(`${error}`);
   } else {
     console.error(error);

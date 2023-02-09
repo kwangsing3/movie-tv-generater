@@ -214,7 +214,7 @@ function makeTableMOVIE(movies: Movie[]): string {
               __dirname,
               '../',
               '../',
-              key['poster_path']
+              key['poster_path'] ? key['poster_path'] : ''
             )}" width="100px"/></td>
         </tr>
     `;
@@ -238,7 +238,7 @@ function makeTableTV(tvseries: TVseries[]): string {
               __dirname,
               '../',
               '../',
-              key['poster_path']
+              key['poster_path'] ? key['poster_path'] : ''
             )}" width="100px"/></td>
         </tr>
     `;
