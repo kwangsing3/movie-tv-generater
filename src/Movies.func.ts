@@ -1,11 +1,13 @@
 import {join, parse} from 'node:path';
-import {WriteFile, WriteFileAsJSON} from '../utility/fileIO';
+import {WriteFile, WriteFileAsJSON} from './utility/fileIO';
 import * as wrapTMDB from 'wraptmdb-ts';
-import {SendToSturct} from './struct';
-import {DownloadFile} from '../utility/httpmethod';
+import {DownloadFile, sleep} from './utility/httpmethod';
+import {Movie} from './model/model';
 
 //Step1
-export default async (keywords: any[], path: string) => {
+export default async (keywords: string[], path: string): Promise<Movie[]> => {
+  const CACHE: Movie[] = [];
+  let GLOBAL_COUNTER = 0;
   let str = '';
   let legn = keywords.length - 1;
   keywords.forEach((element: string) => {
@@ -19,7 +21,7 @@ export default async (keywords: any[], path: string) => {
     with_watch_monetization_types: 'flatrate',
     include_adult: true,
     sort_by: 'popularity.desc',
-    page: cur_page,
+    page: cur_page++,
     language: 'en-US',
   };
   //First request to get infomation
@@ -31,44 +33,61 @@ export default async (keywords: any[], path: string) => {
     ? data['total_results']
     : 0;
   MaxPage = data['total_pages'] > 1 ? data['total_pages'] : -1;
-  let cur_count = 1;
   while (cur_page <= MaxPage) {
     // To Search for movie ID
     query.page = cur_page;
+    await sleep(200);
     const data = await wrapTMDB.Discover.GetMovieDiscover(query);
     if (data['results'].length === 0) {
       break;
     }
-    const IDs: any[] = [];
-    data['results'].forEach((element: {[x: string]: any}) => {
-      IDs.push(element['id']);
-    });
+    const resList = data['results'];
     //Generated json structure
-    for (let index = 0; index < IDs.length; index++) {
-      const data = await wrapTMDB.Movies.GetDetails(IDs[index]);
+    let cont = 0;
+    for (let index = 0; index < resList.length; index++) {
       //turn into real folder
-      const res = await GenerateFolder(data, path);
-      SendToSturct('movie', res);
-      console.log(`Movies: ${cur_count++}/${total_results}`);
+      CACHE.push(resList[index]);
+      await GenerateFolder(resList[index], path, () => {
+        console.log(GLOBAL_COUNTER++ + '/' + total_results);
+        cont++;
+      });
       if (
         process.env['MODE'] === 'DEBUG' &&
         index.toString() === process.env['AMOUNT']
       )
         break;
     }
+    let skip = 0;
+    const cache = GLOBAL_COUNTER;
+    while (cont !== resList.length) {
+      if (cache === GLOBAL_COUNTER) {
+        skip++;
+      } else {
+        skip = 0;
+      }
+      //console.log(GLOBAL_COUNTER);
+      if (skip >= 30) {
+        console.error('request break!');
+        break;
+      }
+    }
     cur_page++;
     if (process.env['MODE'] === 'DEBUG') break;
   }
+  return CACHE;
 };
 /*------------------Geaneate Logic------------------*/
 const metadataName = 'metadata.json';
 //Generate Folder by JSON structure
-async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
+function GenerateFolder(data: Movie, parentpath: string, next: Function) {
   // Skip if has no name
   let Foldername = Object.prototype.hasOwnProperty.call(data, 'original_title')
     ? data['original_title']
     : '';
-  if (Foldername === '') return;
+  if (Foldername === '') {
+    next();
+    return;
+  }
   //Prefix Foldername
   Foldername = Foldername.replace(/[/\\?%*:|"<>]/g, '_');
   //Release date
@@ -82,19 +101,13 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
   const Year = FirstAirDate.getUTCFullYear();
   Foldername += ` (${Year})`;
   //Add a fake file to let fetcher can get metadata
-  await WriteFile(
+  WriteFile(
     join(parentpath + Foldername + '/' + `${Foldername}.cache.mkv`),
     ''
   );
   //Add extra folders
-  await WriteFile(
-    join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'),
-    ''
-  );
-  await WriteFile(
-    join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'),
-    ''
-  );
+  WriteFile(join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'), '');
+  WriteFile(join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'), '');
 
   //Download poster
   let poster_pat = '';
@@ -102,11 +115,12 @@ async function GenerateFolder(data: {[x: string]: any}, parentpath: string) {
     const poster_url = 'https://image.tmdb.org/t/p/w500' + data['poster_path'];
     const ext = parse(data['poster_path']).ext;
     poster_pat = join(parentpath, Foldername, `poster${ext}`);
-    await DownloadFile(poster_url, poster_pat);
+    DownloadFile(poster_url, poster_pat);
     data['poster_path'] = poster_pat;
   }
 
   //Add json as a tag
-  await WriteFileAsJSON(join(parentpath, Foldername, metadataName), data);
+  WriteFileAsJSON(join(parentpath, Foldername, metadataName), data);
+  next();
   return data;
 }
