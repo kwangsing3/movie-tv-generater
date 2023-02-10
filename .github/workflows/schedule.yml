@@ -4,11 +4,10 @@ on:
       - cron: '* */24 * * *'
   push:
       branches:
-      - 6-need-to-fix-there-are-some-github-yml-syntax-already-been-deprecated
+      - main
 env:
   isAction: true
   TMDB_TOKEN: "${{ secrets.TMDB_TOKEN }}"
-  MODE: "DEBUG"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,7 +25,7 @@ jobs:
           key: node-modules-${{ runner.os }}-${{ matrix.node-version }}-${{ hashFiles('package-lock.json') }}
       - name: Get current date
         id: date
-        run: echo "DATE=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+        run: echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
       - name: Install Packages
         run: test -d node_modules && echo "node_modules exists" || npm ci
       #tsc
