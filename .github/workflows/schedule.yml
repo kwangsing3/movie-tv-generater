@@ -37,7 +37,7 @@ jobs:
       - run: |
           git config --local user.email "actions@example.com"
           git config --local user.name "Github-Action"
-          git branch page
+          git checkout page
           ls -a | grep -v "README.md\|output\|[.]$\|index.html" | grep -v ^.git$ | xargs rm -rf
           git add --all
           git commit --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ steps.date.outputs.date }}" 
