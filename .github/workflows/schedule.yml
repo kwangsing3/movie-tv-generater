@@ -31,15 +31,14 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       #tsc
-      - name: tsc
-        run: tsc
+      - run: git fetch origin 
+      - run: tsc
       - run: npm run prod
-      - run: |
-          git config --local user.email "actions@example.com"
-          git config --local user.name "Github-Action"
-          git checkout page
-          ls -a | grep -v "README.md\|output\|[.]$\|index.html" | grep -v ^.git$ | xargs rm -rf
-          git add --all
-          git commit --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ steps.date.outputs.date }}" 
-          git push -f origin page
+      - run: git config --local user.email "actions@example.com"
+      - run: git config --local user.name "Github-Action"
+      - run: git checkout page
+      - run: ls -a | grep -v "README.md\|output\|[.]$\|index.html" | grep -v ^.git$ | xargs rm -rf
+      - run: git add --all
+      - run: git commit -a --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ steps.date.outputs.date }}" 
+      - run: git push -f origin page
       # --allow-empty  It allow no changed commit to push preventing return error from no-changed push.
