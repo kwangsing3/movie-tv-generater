@@ -26,15 +26,18 @@ jobs:
       - name: Get current date
         id: date
         run: echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
+      - run: git fetch origin page
+      - run: git fetch origin main
+      - run: git checkout page
+      - run: ls -a | grep -v "[.]$\|^.git$" | xargs rm -rf
+      - run: git checkout main *
+      #tsc
       - name: Install Packages
         run: test -d node_modules && echo "node_modules exists" || npm ci
-      #tsc
-      - run: git fetch origin 
       - run: tsc
       - run: npm run prod
       - run: git config --local user.email "actions@example.com"
       - run: git config --local user.name "Github-Action"
-      - run: git checkout page
       - run: ls -a | grep -v "README.md\|output\|[.]$\|index.html" | grep -v ^.git$ | xargs rm -rf
       - run: git add --all
       - run: git commit -a --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ env.DATE }}" 

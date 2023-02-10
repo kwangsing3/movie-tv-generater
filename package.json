@@ -16,5 +16,6 @@
     "start": "nodemon src/index.ts",
     "build": "tsc",
     "prod": "node build/src/index.js"
-  }
+  },
+  "version": "1.0.3"
 }
