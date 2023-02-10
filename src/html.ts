@@ -197,6 +197,7 @@ function SCRIPT(): string {
   </script>
   `;
 }
+const imgWidth = '150px';
 function makeTableMOVIE(movies: Movie[]): string {
   let str = `<table border="1">
   <thead>
@@ -210,12 +211,9 @@ function makeTableMOVIE(movies: Movie[]): string {
         <tr>
             <td>${key?.['original_title']}</td>
             <td>${key?.['release_date']}</td>
-            <td><img src="${join(
-              __dirname,
-              '../',
-              '../',
-              key['poster_path']
-            )}" width="100px"/></td>
+            <td><img src="${
+              key['poster_path'] ? key['poster_path'] : ''
+            }" width="${imgWidth}" alt="${key.original_title}" /></td>
         </tr>
     `;
   }
@@ -234,12 +232,9 @@ function makeTableTV(tvseries: TVseries[]): string {
         <tr>
             <td>${key['original_name']}</td>
             <td>${key['first_air_date']}</td>
-            <td><img src="${join(
-              __dirname,
-              '../',
-              '../',
-              key['poster_path']
-            )}" width="100px"/></td>
+            <td><img src="${
+              key['poster_path'] ? key['poster_path'] : ''
+            }" width="${imgWidth}" alt="${key.original_name}" /></td>
         </tr>
     `;
   }
