@@ -5,7 +5,6 @@ import RenderHTML from './html';
 import getMovies from './Movies.func';
 import getTVshows from './TVshows.func';
 import {MKDir, WriteFile} from './utility/fileIO';
-import {SetRatePerMin, sleep} from './utility/httpmethod';
 
 const core = require('@actions/core');
 const notAction = process.env['isAction'] ? process.env['isAction'] : true;
@@ -28,10 +27,7 @@ async function main() {
       console.error(err);
     });
   await MKDir(outputPath);
-  SetRatePerMin(60);
 
-  //README
-  const READpat = join(__dirname, '../', '../', 'README.md');
   //
   //TV Shows
   const cacheTV = await getTVshows(['210024'], './output/tvshows/'); //anime: 210024
