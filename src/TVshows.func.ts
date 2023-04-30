@@ -8,7 +8,7 @@ export default async (
   tarPath: string
 ): Promise<TVseries[]> => {
   const CACHE: TVseries[] = [];
-  const GLOBAL_COUNTER = 0;
+  let GLOBAL_COUNTER = 1;
   //轉變keywords語法
   let keySTR = '';
   let legn = keywords.length - 1;
@@ -24,7 +24,7 @@ export default async (
     include_adult: true,
     sort_by: 'popularity.desc',
     page: cur_page++,
-    language: 'en-US',
+    language: 'zh-TW',
   };
   //First request to get infomation
   const data = await wrapTMDB.Discover.GetTVDiscover(query);
@@ -44,7 +44,10 @@ export default async (
       continue;
     }
     const resList = data['results'];
-    for (const ii of resList) CACHE.push(ii);
+    for (const ii of resList) {
+      CACHE.push(ii);
+      console.log(GLOBAL_COUNTER++ + '/' + total_results);
+    }
     // //Generated json structure
     //const cont = 0;
     // for (const key of resList) {

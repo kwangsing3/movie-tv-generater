@@ -5,7 +5,7 @@ import {Movie} from './model/model';
 //Step1
 export default async (keywords: string[], path: string): Promise<Movie[]> => {
   const CACHE: Movie[] = [];
-  const GLOBAL_COUNTER = 0;
+  let GLOBAL_COUNTER = 1;
   let str = '';
   let legn = keywords.length - 1;
   keywords.forEach((element: string) => {
@@ -20,7 +20,7 @@ export default async (keywords: string[], path: string): Promise<Movie[]> => {
     include_adult: true,
     sort_by: 'popularity.desc',
     page: cur_page++,
-    language: 'en-US',
+    language: 'zh-TW',
   };
   //First request to get infomation
   const data = await wrapTMDB.Discover.GetMovieDiscover(query);
@@ -45,6 +45,7 @@ export default async (keywords: string[], path: string): Promise<Movie[]> => {
     for (let index = 0; index < resList.length; index++) {
       //turn into real folder
       CACHE.push(resList[index]);
+      console.log(GLOBAL_COUNTER++ + '/' + total_results);
       // await GenerateFolder(resList[index], path, () => {
       //   console.log(GLOBAL_COUNTER++ + '/' + total_results);
       //   cont++;
