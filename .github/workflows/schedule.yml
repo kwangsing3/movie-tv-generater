@@ -39,7 +39,7 @@ jobs:
         run: npm run prod
       - run: git config --local user.email "actions@example.com"
       - run: git config --local user.name "Github-Action"
-      - run: ls -a | grep -v "README.md\|output\|[.]$\|index.html" | grep -v ^.git$ | xargs rm -rf
+      - run: ls -a | grep -v "README.md\|[.]$\|index.html" | grep -v ^.git$ | xargs rm -rf
       - run: git add --all
       - run: git commit -a --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ env.DATE }}"
       - run: git push -f origin page
