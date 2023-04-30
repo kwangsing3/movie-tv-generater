@@ -4,7 +4,7 @@
  * example code:
  * const args: {[x: string]: string}  = GetArgs();
  */
- export function GetArgs() {
+export function GetArgs() {
   const args: {[x: string]: string} = {};
   process.argv.slice(2).map(element => {
     const matches = element.match('--([a-zA-Z0-9]+)=(.*)');

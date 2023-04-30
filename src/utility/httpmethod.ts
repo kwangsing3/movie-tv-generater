@@ -1,17 +1,18 @@
+/* eslint-disable node/no-unsupported-features/node-builtins */
 const axios = require('axios');
 /**
  * GET method
  * @param url request path
  * @returns 取得伺服器回應
  */
-export async function GET(url: string): Promise<any> {
+export async function GET(url: string): Promise<object> {
   const config = {
     method: 'get',
     url: url,
     headers: {},
     timeout: 15000,
   };
-  let data: any = {};
+  let data: object = {};
 
   try {
     const wait = GetRateLimit();
@@ -33,16 +34,16 @@ export async function GET(url: string): Promise<any> {
  */
 export async function POST(
   url: string,
-  header: any,
-  content: any
-): Promise<any> {
+  header: {[x: string]: string},
+  content: {[x: string]: string}
+): Promise<object> {
   const config = {
     method: 'post',
     url: url,
     data: content,
     headers: header,
   };
-  let data: any = {};
+  let data: object = {};
 
   try {
     if (waitRateMS !== 0) {
@@ -56,7 +57,7 @@ export async function POST(
   return data;
 }
 
-function sleep(ms: number): Promise<unknown> {
+export function sleep(ms: number): Promise<unknown> {
   return new Promise(resolve => {
     setTimeout(resolve, ms);
   });
@@ -78,3 +79,33 @@ export const GetRateLimit = () => {
 
   return minus <= 0 ? 0 : waitRateMS - minus;
 };
+
+import {createWriteStream} from 'fs';
+import * as stream from 'stream';
+import {promisify} from 'util';
+const pipeline = promisify(stream.pipeline);
+
+/**
+ * 下載檔案
+ * @param fileUrl
+ * @param outputLocationPath
+ * @returns
+ */
+export async function DownloadFile(
+  fileUrl: string,
+  outputLocationPath: string
+) {
+  if (process.env['noDownload']) return;
+  try {
+    const wait = GetRateLimit();
+    if (wait !== 0) {
+      await sleep(wait);
+    }
+    const request = await axios.get(fileUrl, {
+      responseType: 'stream',
+    });
+    await pipeline(request.data, createWriteStream(outputLocationPath));
+  } catch (error) {
+    console.error(`download ${fileUrl} pipeline failed: `, error);
+  }
+}

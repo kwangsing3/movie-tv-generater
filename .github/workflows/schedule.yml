@@ -4,7 +4,10 @@ on:
     - cron: '* */24 * * *'
   push:
     branches:
-      - branch_dev
+      - main
+env:
+  isAction: true
+  TMDB_TOKEN: '${{ secrets.TMDB_TOKEN }}'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,31 +16,31 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version: '${{ matrix.node-version }}'
       - name: Cache Node Modules
         uses: actions/cache@v2
         with:
-          path: node_modules
           # cache key 包含了所有我們希望固定的資訊：OS，node 版本，以及 package-lock.json 的檔案內容，使用 hashFiles 將檔案內容轉換成字串
+          path: node_modules
           key: node-modules-${{ runner.os }}-${{ matrix.node-version }}-${{ hashFiles('package-lock.json') }}
-
-      - name: Install Packages
-        run: test -d node_modules && echo "node_modules exists" || npm ci
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        run: echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
+      - run: git fetch origin page
+      - run: git fetch origin main
+      - run: git checkout page
+      - run: ls -a | grep -v "[.]$\|^.git$" | xargs rm -rf
+      - run: git checkout main *
       #tsc
-      - name: tsc
-        run: tsc
-      - run: ls 
-      # To Generate Files here
-      - run: npm run prod
-        env:  
-          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
-      - run: |
-          git config --local user.email "actions@example.com"
-          git config --local user.name "Github-Action"
-          git add --all
-          git commit --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ steps.date.outputs.date }}" 
-          git push -f
+      - name: Install Packages
+        run: test -d node_modules && echo "node_modules exists" || npm ci
+      - run: tsc
+      - name: Run Process
+        run: npm run prod
+      - run: git config --local user.email "actions@example.com"
+      - run: git config --local user.name "Github-Action"
+      - run: ls -a | grep -v "README.md\|output\|[.]$\|index.html" | grep -v ^.git$ | xargs rm -rf
+      - run: git add --all
+      - run: git commit -a --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ env.DATE }}"
+      - run: git push -f origin page
       # --allow-empty  It allow no changed commit to push preventing return error from no-changed push.

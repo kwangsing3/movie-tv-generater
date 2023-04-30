@@ -1,7 +1,6 @@
 /* eslint-disable node/no-unsupported-features/node-builtins */
 import * as fs from 'node:fs/promises';
 import {stat} from 'node:fs/promises';
-import {extname} from 'node:path';
 import path = require('node:path');
 import {join} from 'path';
 import {dirname} from 'path';
@@ -11,13 +10,17 @@ const {
 /** 寫入檔案，並自動檢查是否有相應的資料夾位置
  * @param path 檔案位置
  * @param content 檔案內容
- * @returns true-成功  false-失敗
+ * @returns 檔案位置
  */
-export async function WriteFile(targetPath: string, content: any) {
+export async function WriteFile(
+  targetPath: string,
+  content: string
+): Promise<string> {
   const parentPath = dirname(targetPath);
   await MKDir(parentPath);
   targetPath = join(targetPath);
   await fs.writeFile(targetPath, content, 'utf-8');
+  return targetPath;
 }
 /**
  * 依照JSON的格式寫入檔案，並自動檢查是否有相應的資料夾位置
