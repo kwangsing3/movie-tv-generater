@@ -36,6 +36,8 @@ function BODY(tvseries: TVseries[], movies: Movie[]): string {
       TVstruct[year][month] = [];
     TVstruct[year][month].push(key);
   }
+
+  //Movie
   const MOVstruct: {[key: string]: {[key: string]: Movie[]}} = {};
   for (const key of movies) {
     //Movie
@@ -48,8 +50,8 @@ function BODY(tvseries: TVseries[], movies: Movie[]): string {
       MOVstruct[year][month] = [];
     MOVstruct[year][month].push(key);
   }
+
   //classfication***
-  //
   let tabsContent = '<div id="tv" class="Maintabcontent">';
   let reversSTR: string[] = [];
   for (const key in TVstruct) {
@@ -212,8 +214,12 @@ function makeTableMOVIE(movies: Movie[]): string {
             <td>${key?.['original_title']}</td>
             <td>${key?.['release_date']}</td>
             <td><img src="${
-              key['poster_path'] ? key['poster_path'] : ''
-            }" width="${imgWidth}" alt="${key.original_title}" /></td>
+              key['poster_path']
+                ? 'https://image.tmdb.org/t/p/w500' + key['poster_path']
+                : ''
+            }" loading="lazy" width="${imgWidth}" alt="${
+      key.original_title
+    }" /></td>
         </tr>
     `;
   }
@@ -233,8 +239,12 @@ function makeTableTV(tvseries: TVseries[]): string {
             <td>${key['original_name']}</td>
             <td>${key['first_air_date']}</td>
             <td><img src="${
-              key['poster_path'] ? key['poster_path'] : ''
-            }" width="${imgWidth}" alt="${key.original_name}" /></td>
+              key['poster_path']
+                ? 'https://image.tmdb.org/t/p/w500' + key['poster_path']
+                : ''
+            }" loading="lazy" width="${imgWidth}" alt="${
+      key.original_name
+    }" /></td>
         </tr>
     `;
   }

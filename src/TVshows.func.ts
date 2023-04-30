@@ -83,7 +83,11 @@ const metadataName = 'metadata.json';
 function GenerateFolder(data: TVseries, parentpath: string, next: Function) {
   // Skip if has no name
   let Foldername = data['original_name'];
-  if (Foldername === '' || Foldername === undefined) {
+  if (
+    process.env['STATICFILE'] === 'false' ||
+    Foldername === '' ||
+    Foldername === undefined
+  ) {
     next();
     return;
   }

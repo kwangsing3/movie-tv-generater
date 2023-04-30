@@ -79,7 +79,7 @@ function GenerateFolder(data: Movie, parentpath: string, next: Function) {
   let Foldername = Object.prototype.hasOwnProperty.call(data, 'original_title')
     ? data['original_title']
     : '';
-  if (Foldername === '') {
+  if (process.env['STATICFILE'] === 'false' || Foldername === '') {
     next();
     return;
   }

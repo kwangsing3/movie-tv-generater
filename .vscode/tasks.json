@@ -8,7 +8,7 @@
 				"$tsc"
 			],
 			"group": "build",
-			"label": "tsc: 建置 - tsconfig.json"
+			"label": "tsc: build - tsconfig.json"
 		}
 	]
 }
