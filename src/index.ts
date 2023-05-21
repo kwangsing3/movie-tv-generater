@@ -9,7 +9,7 @@ import getTVshows from './TVshows.func';
 import {MKDir, WriteFile} from './utility/fileIO';
 
 const notAction = process.env['isAction'] ? process.env['isAction'] : true;
-const TOKEN = process.env.TMDB_TOKEN;
+const TOKEN = process.env['TMDB_TOKEN'];
 
 if (!notAction) {
   //Github Action
@@ -31,7 +31,6 @@ wrapTMDB.SetHeader({
   'User-Agent': 'Movie-TV-Generater: Daily Update',
   Referer: 'https://github.com/kwangsing3/movie-tv-generater',
 });
-//
 
 async function main() {
   //每次啟動時清除並重建 /output
@@ -43,9 +42,9 @@ async function main() {
     });
   await MKDir(outputPath);
   //TV Shows
-  const cacheTV = await getTVshows(['210024'], './output/tvshows/'); //anime: 210024
+  const cacheTV = await getTVshows(['210024']); //anime: 210024
   //Movies
-  const cachemov = await getMovies(['210024'], './output/movie/');
+  const cachemov = await getMovies(['210024']);
   const html = RenderHTML(cacheTV, cachemov);
   const pp = await WriteFile(join(__dirname, '../', '../', 'index.html'), html);
   console.log(pp);

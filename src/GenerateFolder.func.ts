@@ -1,4 +1,4 @@
-import {TVseries} from './model/model';
+import {BaseSeries} from './model/model';
 import {WriteFile, WriteFileAsJSON} from './utility/fileIO';
 import {join, parse} from 'node:path';
 import {DownloadFile} from './utility/httpmethod';
@@ -6,12 +6,12 @@ import {DownloadFile} from './utility/httpmethod';
 const metadataName = 'metadata.json';
 //Generate Folder by JSON structure
 export default function GenerateFolder(
-  data: TVseries,
+  data: BaseSeries,
   parentpath: string,
   next: Function
 ) {
   // Skip if has no name
-  let Foldername = data['original_name'];
+  let Foldername = data['original_title'];
   if (
     process.env['STATICFILE'] === 'false' ||
     Foldername === '' ||

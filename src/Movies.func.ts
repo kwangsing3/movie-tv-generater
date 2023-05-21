@@ -1,10 +1,10 @@
 import * as wrapTMDB from 'wraptmdb-ts';
 import {sleep} from './utility/httpmethod';
-import {Movie} from './model/model';
+import {BaseSeries} from './model/model';
 
 //Step1
-export default async (keywords: string[], path: string): Promise<Movie[]> => {
-  const CACHE: Movie[] = [];
+export default async (keywords: string[]): Promise<BaseSeries[]> => {
+  const CACHE: BaseSeries[] = [];
   let GLOBAL_COUNTER = 1;
   let str = '';
   let legn = keywords.length - 1;

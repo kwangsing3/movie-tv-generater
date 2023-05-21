@@ -1,9 +1,12 @@
-import {Movie, TVseries} from './model/model';
+import {BaseSeries} from './model/model';
+/**
+
+ */
 let LATESTTV = '';
 let LATESTMOVIE = '';
 export default function RenderHTML(
-  tvseries: TVseries[],
-  movies: Movie[]
+  tvseries: BaseSeries[],
+  movies: BaseSeries[]
 ): string {
   return `
     <!DOCTYPE html>
@@ -22,9 +25,9 @@ function HEAD(): String {
   </head>
   `;
 }
-function BODY(tvseries: TVseries[], movies: Movie[]): string {
+function BODY(tvseries: BaseSeries[], movies: BaseSeries[]): string {
   //classfication***
-  const TVstruct: {[key: string]: {[key: string]: TVseries[]}} = {};
+  const TVstruct: {[key: string]: {[key: string]: BaseSeries[]}} = {};
   for (const key of tvseries) {
     if (key.first_air_date === undefined) continue;
     //TV
@@ -40,11 +43,11 @@ function BODY(tvseries: TVseries[], movies: Movie[]): string {
   }
 
   //Movie
-  const MOVstruct: {[key: string]: {[key: string]: Movie[]}} = {};
+  const MOVstruct: {[key: string]: {[key: string]: BaseSeries[]}} = {};
   for (const key of movies) {
-    if (key.release_date === undefined) continue;
+    if (key.first_air_date === undefined) continue;
     //Movie
-    const date = new Date(key.release_date);
+    const date = new Date(key.first_air_date);
     const year = date.getUTCFullYear();
     const month = date.getUTCMonth() + 1;
     if (Number.isNaN(year) || Number.isNaN(month)) continue;
@@ -234,14 +237,14 @@ function SCRIPT(): string {
   `;
 }
 const imgWidth = '150px';
-function makeTableMOVIE(movies: Movie[]): string {
+function makeTableMOVIE(movies: BaseSeries[]): string {
   let str = '<div class="container">';
   for (const key of movies) {
     str += `<div class="item"><table>
     <tr><td>${
       key?.['title'] ? key?.['title'] : key?.['original_title']
     }</td></tr>
-    <tr><td>${key?.['release_date']}</td></tr>
+    <tr><td>${key?.['first_air_date']}</td></tr>
     <tr><td><img src="${
       key['poster_path']
         ? 'https://image.tmdb.org/t/p/w500' + key['poster_path']
@@ -254,25 +257,27 @@ function makeTableMOVIE(movies: Movie[]): string {
   str += '</div>';
   return str;
 }
-function makeTableTV(tvseries: TVseries[]): string {
+function makeTableTV(tvseries: BaseSeries[]): string {
   let str = '<div class="container">';
   for (const key of tvseries) {
     str += `<div class="item"><table>
-    <tr><td>${key?.['name'] ? key?.['name'] : key?.['original_name']}</td></tr>
+    <tr><td>${
+      key?.['title'] ? key?.['title'] : key?.['original_title']
+    }</td></tr>
     <tr><td>${key['first_air_date']}</td></tr>
     <tr><td><img src="${
       key['poster_path']
         ? 'https://image.tmdb.org/t/p/w500' + key['poster_path']
         : ''
     }" loading="lazy" width="${imgWidth}" alt="${
-      key.original_name
+      key?.['original_title']
     }" /></td></tr></table></div>
     `;
   }
   str += '</div>';
   return str;
 }
-function CreateTAB(year: string, input: {[x: string]: TVseries[]}): string {
+function CreateTAB(year: string, input: {[x: string]: BaseSeries[]}): string {
   let tabs = `<div class="tab"><h2>${year}</h2>`;
   for (const month in input) {
     tabs += `
@@ -290,7 +295,7 @@ function CreateTAB(year: string, input: {[x: string]: TVseries[]}): string {
   }
   return tabs + res;
 }
-function CreateMTAB(year: string, input: {[x: string]: Movie[]}): string {
+function CreateMTAB(year: string, input: {[x: string]: BaseSeries[]}): string {
   let tabs = `<div class="tab"><h2>${year}</h2>`;
   for (const month in input) {
     tabs += `
