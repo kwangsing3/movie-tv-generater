@@ -4,7 +4,7 @@ import {BaseSeries} from './model/model';
 
 //Step1
 export default async (keywords: string[]): Promise<BaseSeries[]> => {
-  const CACHE: BaseSeries[] = [];
+  const result: BaseSeries[] = [];
   let GLOBAL_COUNTER = 1;
   let str = '';
   let legn = keywords.length - 1;
@@ -40,33 +40,29 @@ export default async (keywords: string[]): Promise<BaseSeries[]> => {
       break;
     }
     const resList = data['results'];
-    //Generated json structure
-    // const cont = 0;
-    for (let index = 0; index < resList.length; index++) {
+    for (const key of resList) {
       //turn into real folder
-      CACHE.push(resList[index]);
+      result.push({
+        id: key['id'],
+        title: key['title'],
+        poster_path: key['poster_path'],
+        adult: key['adult'],
+        genre_ids: key['genre_ids'],
+        first_air_date: key['release_date'],
+        backdrop_path: key['backdrop_path'],
+        original_language: key['original_language'],
+        original_title: key['original_title'],
+        Seasons: [],
+        popularity: key['popularity'],
+        overview: key['overview'],
+        vote_average: key['vote_average'],
+        vote_count: key['vote_count'],
+      });
       console.log(GLOBAL_COUNTER++ + '/' + total_results);
-      // await GenerateFolder(resList[index], path, () => {
-      //   console.log(GLOBAL_COUNTER++ + '/' + total_results);
-      //   cont++;
-      // });
     }
-    // let skip = 0;
-    // const cache = GLOBAL_COUNTER;
-    // while (cont !== resList.length) {
-    //   if (cache === GLOBAL_COUNTER) {
-    //     skip++;
-    //   } else {
-    //     skip = 0;
-    //   }
-    //   //console.log(GLOBAL_COUNTER);
-    //   if (skip >= 800) {
-    //     console.error('request break!');
-    //     break;
-    //   }
-    // }
+
     cur_page++;
     if (process.env['MODE'] === 'DEBUG') break;
   }
-  return CACHE;
+  return result;
 };

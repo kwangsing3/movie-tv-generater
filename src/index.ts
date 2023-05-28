@@ -3,7 +3,7 @@ require('dotenv').config(); // .env
 import {rm} from 'node:fs/promises';
 import {join} from 'node:path';
 import * as wrapTMDB from 'wraptmdb-ts';
-import RenderHTML from './html';
+import RenderHTML from './html/html';
 import getMovies from './Movies.func';
 import getTVshows from './TVshows.func';
 import {MKDir, WriteFile} from './utility/fileIO';
@@ -45,9 +45,10 @@ async function main() {
   const cacheTV = await getTVshows(['210024']); //anime: 210024
   //Movies
   const cachemov = await getMovies(['210024']);
+
   const html = RenderHTML(cacheTV, cachemov);
-  const pp = await WriteFile(join(__dirname, '../', '../', 'index.html'), html);
-  console.log(pp);
+  // Write HTML file
+  await WriteFile(join(__dirname, '../', '../', 'index.html'), html);
 }
 
 main().catch((error: unknown) => {
