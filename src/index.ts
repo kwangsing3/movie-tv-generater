@@ -2,6 +2,8 @@ import {rm} from 'node:fs/promises';
 import {join} from 'node:path';
 import RenderHTML from './html';
 import {MKDir, WriteFile} from './utility/fileIO';
+import { DiscoverTV } from './wraptmdb/tv.func';
+import { DiscoverMovie } from './wraptmdb/movie.func';
 
 const core = require('@actions/core');
 const notAction = process.env['isAction'] ? process.env['isAction'] : true;

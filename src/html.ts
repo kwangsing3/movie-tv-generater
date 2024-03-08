@@ -1,10 +1,9 @@
 import {join} from 'node:path';
-import {MovieI, TVseriesI} from './model/model';
 let LATESTTV = '';
 let LATESTMOVIE = '';
 export default function RenderHTML(
-  tvseries: TVseriesI[],
-  movies: MovieI[]
+  tvseries: any[],
+  movies: any[]
 ): string {
   return `
     <!DOCTYPE html>
@@ -22,9 +21,9 @@ function HEAD(): String {
   </head>
   `;
 }
-function BODY(tvseries: TVseriesI[], movies: MovieI[]): string {
+function BODY(tvseries: any[], movies: any[]): string {
   //classfication***
-  const TVstruct: {[key: string]: {[key: string]: TVseriesI[]}} = {};
+  const TVstruct: {[key: string]: {[key: string]: any[]}} = {};
   for (const key of tvseries) {
     //TV
     const date = new Date(key.first_air_date);
@@ -36,7 +35,7 @@ function BODY(tvseries: TVseriesI[], movies: MovieI[]): string {
       TVstruct[year][month] = [];
     TVstruct[year][month].push(key);
   }
-  const MOVstruct: {[key: string]: {[key: string]: MovieI[]}} = {};
+  const MOVstruct: {[key: string]: {[key: string]: any[]}} = {};
   for (const key of movies) {
     //Movie
     const date = new Date(key.release_date);
@@ -198,7 +197,7 @@ function SCRIPT(): string {
   `;
 }
 const imgWidth = '150px';
-function makeTableMOVIE(movies: MovieI[]): string {
+function makeTableMOVIE(movies: any[]): string {
   let str = `<table border="1">
   <thead>
         <tr>
@@ -220,7 +219,7 @@ function makeTableMOVIE(movies: MovieI[]): string {
   str += ' </tbody></table>';
   return str;
 }
-function makeTableTV(tvseries: TVseriesI[]): string {
+function makeTableTV(tvseries: any[]): string {
   let str = `<table border="1">
   <thead>
     <tr>
@@ -241,7 +240,7 @@ function makeTableTV(tvseries: TVseriesI[]): string {
   str += ' </tbody></table>';
   return str;
 }
-function CreateTAB(year: string, input: {[x: string]: TVseriesI[]}): string {
+function CreateTAB(year: string, input: {[x: string]: any[]}): string {
   let tabs = `<div class="tab"><h2>${year}</h2>`;
   for (const month in input) {
     tabs += `
@@ -259,7 +258,7 @@ function CreateTAB(year: string, input: {[x: string]: TVseriesI[]}): string {
   }
   return tabs + res;
 }
-function CreateMTAB(year: string, input: {[x: string]: MovieI[]}): string {
+function CreateMTAB(year: string, input: {[x: string]: any[]}): string {
   let tabs = `<div class="tab"><h2>${year}</h2>`;
   for (const month in input) {
     tabs += `

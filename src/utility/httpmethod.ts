@@ -1,28 +1,41 @@
-/* eslint-disable node/no-unsupported-features/node-builtins */
+import { createWriteStream } from "node:fs";
+import { pipeline } from "node:stream";
+
 const axios = require('axios');
 /**
  * GET method
  * @param url request path
  * @returns 取得伺服器回應
  */
-export async function GET(url: string): Promise<object> {
-  const config = {
+export async function GET(
+  url: string,
+  headers?: any,
+  maxRedirects?: number
+): Promise<any> {
+  const config: any = {
     method: 'get',
     url: url,
-    headers: {},
+    headers: headers,
     timeout: 15000,
   };
-  let data: object = {};
+  if (maxRedirects === 0) {
+    config.maxRedirects = maxRedirects;
+    config.validateStatus = function (status: number) {
+      return status >= 200 && status < 303;
+    };
+  }
+  let data: any = {};
 
   try {
     const wait = GetRateLimit();
     if (wait !== 0) {
-      await sleep(wait);
+      await Sleep(wait);
     }
     data = await axios(config);
     cache = new Date();
   } catch (error: any) {
-    console.log(error);
+    console.error(error['message']);
+    throw error;
   }
   return data;
 }
@@ -34,20 +47,27 @@ export async function GET(url: string): Promise<object> {
  */
 export async function POST(
   url: string,
-  header: {[x: string]: string},
-  content: {[x: string]: string}
-): Promise<object> {
-  const config = {
+  header: any,
+  content: any,
+  maxRedirects?: number
+): Promise<any> {
+  const config: any = {
     method: 'post',
     url: url,
     data: content,
     headers: header,
   };
-  let data: object = {};
+  if (maxRedirects === 0) {
+    config.maxRedirects = maxRedirects;
+    config.validateStatus = function (status: number) {
+      return status >= 200 && status < 303;
+    };
+  }
+  let data: any = {};
 
   try {
     if (waitRateMS !== 0) {
-      await sleep(GetRateLimit());
+      await Sleep(GetRateLimit());
     }
     data = await axios(config);
     cache = new Date();
@@ -56,17 +76,15 @@ export async function POST(
   }
   return data;
 }
-
-export function sleep(ms: number): Promise<unknown> {
+/*
+  依照速率阻塞線程。
+*/
+export function Sleep(ms: number): Promise<unknown> {
   return new Promise(resolve => {
     setTimeout(resolve, ms);
   });
 }
 
-/*
-    製作目標:
-       依照速率阻塞線程。
-*/
 let waitRateMS = 0;
 let cache = new Date();
 // 一分鐘可接受次數
@@ -79,12 +97,6 @@ export const GetRateLimit = () => {
 
   return minus <= 0 ? 0 : waitRateMS - minus;
 };
-
-import {createWriteStream} from 'fs';
-import * as stream from 'stream';
-import {promisify} from 'util';
-const pipeline = promisify(stream.pipeline);
-
 /**
  * 下載檔案
  * @param fileUrl
@@ -99,7 +111,7 @@ export async function DownloadFile(
   try {
     const wait = GetRateLimit();
     if (wait !== 0) {
-      await sleep(wait);
+      await Sleep(wait);
     }
     const request = await axios.get(fileUrl, {
       responseType: 'stream',
