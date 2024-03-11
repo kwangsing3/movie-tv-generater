@@ -1,6 +1,6 @@
-import {join, parse} from 'node:path';
-import {WriteFile, WriteFileAsJSON} from '../utility/fileIO';
-import {DownloadFile, Sleep} from '../utility/httpmethod';
+import { join, parse } from 'node:path';
+import { WriteFile, WriteFileAsJSON } from '../utility/fileIO';
+import {  GET, Sleep, downloadFile } from '../utility/httpmethod';
 
 const metadataName = 'metadata.json';
 //Step1
@@ -19,16 +19,17 @@ export async function DiscoverMovie(
   });
   let cur_page = 1;
   let MaxPage = 1;
-  const query = {
-    with_keywords: str,
-    with_watch_monetization_types: 'flatrate',
-    include_adult: true,
-    sort_by: 'popularity.desc',
-    page: cur_page++,
-    language: 'en-US',
-  };
+
+
+
+  const url = 'https://api.themoviedb.org/3/discover/movie?include_adult=true&language=zh-TW&sort_by=popularity.desc&with_keywords='+keywords.toString();
+  const headers = {
+    accept: 'application/json',
+    Authorization: 'Bearer '+TOKEN,
+  }
+
   //First request to get infomation
-  const data: any = [];
+  const data: any = (await GET(url + `&page=${cur_page++}`,headers))['data'];
   const total_results = Object.prototype.hasOwnProperty.call(
     data,
     'total_results'
@@ -38,10 +39,9 @@ export async function DiscoverMovie(
   MaxPage = data['total_pages'] > 1 ? data['total_pages'] : -1;
   while (cur_page <= MaxPage) {
     // To Search for movie ID
-    query.page = cur_page;
     await Sleep(200);
-    const data: any = [];
-    if (data['results'].length === 0) {
+    const data: any =  (await GET(url + `&page=${cur_page}`,headers))['data'];
+    if (Array.isArray(data)||data?.['results'].length === 0) {
       break;
     }
     const resList = data['results'];
@@ -75,7 +75,7 @@ export async function DiscoverMovie(
   return CACHE;
 }
 //Generate Folder by JSON structure
-function GenerateFolder(data: MovieI, parentpath: string, next: Function) {
+async function GenerateFolder(data: MovieI, parentpath: string, next: Function) {
   // Skip if has no name
   let Foldername = Object.prototype.hasOwnProperty.call(data, 'original_title')
     ? data['original_title']
@@ -97,13 +97,13 @@ function GenerateFolder(data: MovieI, parentpath: string, next: Function) {
   const Year = FirstAirDate.getUTCFullYear();
   Foldername += ` (${Year})`;
   //Add a fake file to let fetcher can get metadata
-  WriteFile(
+  await WriteFile(
     join(parentpath + Foldername + '/' + `${Foldername}.cache.mkv`),
     ''
   );
   //Add extra folders
-  WriteFile(join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'), '');
-  WriteFile(join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'), '');
+  await WriteFile(join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'), '');
+  await WriteFile(join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'), '');
 
   //Download poster
   let poster_pat = '';
@@ -111,12 +111,12 @@ function GenerateFolder(data: MovieI, parentpath: string, next: Function) {
     const poster_url = 'https://image.tmdb.org/t/p/w500' + data['poster_path'];
     const ext = parse(data['poster_path']).ext;
     poster_pat = join(parentpath, Foldername, `poster${ext}`);
-    DownloadFile(poster_url, poster_pat);
+    await downloadFile(poster_url, poster_pat);
     data['poster_path'] = poster_pat;
   }
 
   //Add json as a tag
-  WriteFileAsJSON(join(parentpath, Foldername, metadataName), data);
+  await WriteFileAsJSON(join(parentpath, Foldername, metadataName), data);
   next();
   return data;
 }

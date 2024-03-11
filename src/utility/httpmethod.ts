@@ -1,5 +1,4 @@
-import { createWriteStream } from "node:fs";
-import { pipeline } from "node:stream";
+import { createWriteStream } from "fs";
 
 const axios = require('axios');
 /**
@@ -103,21 +102,25 @@ export const GetRateLimit = () => {
  * @param outputLocationPath
  * @returns
  */
-export async function DownloadFile(
-  fileUrl: string,
-  outputLocationPath: string
-) {
-  if (process.env['noDownload']) return;
+export const downloadFile = async (url: string, filePath: string) => {
+  const writer = createWriteStream(filePath);
+
   try {
-    const wait = GetRateLimit();
-    if (wait !== 0) {
-      await Sleep(wait);
-    }
-    const request = await axios.get(fileUrl, {
-      responseType: 'stream',
+    const response = await axios({
+      url,
+      method: 'GET',
+      responseType: 'stream'
     });
-    await pipeline(request.data, createWriteStream(outputLocationPath));
+
+    response.data.pipe(writer);
+
+    return new Promise((resolve, reject) => {
+      writer.on('finish', resolve);
+      writer.on('error', reject);
+    });
   } catch (error) {
-    console.error(`download ${fileUrl} pipeline failed: `, error);
+    // Handle errors
+    console.error('Error downloading file:', error);
+    throw error;
   }
-}
+};

@@ -1,6 +1,6 @@
 import {join, parse} from 'node:path';
 import {WriteFile, WriteFileAsJSON} from '../utility/fileIO';
-import {DownloadFile, GET, Sleep} from '../utility/httpmethod';
+import { GET, Sleep, downloadFile} from '../utility/httpmethod';
 
 //Step1
 export async function DiscoverTV(
@@ -87,7 +87,7 @@ export async function DiscoverTV(
 /*------------------Generate Logic------------------*/
 const metadataName = 'metadata.json';
 //Generate Folder by JSON structure
-function GenerateFolder(data: TVseriesI, parentpath: string, next: Function) {
+async function GenerateFolder(data: TVseriesI, parentpath: string, next: Function) {
   // Skip if has no name
   let Foldername = data['original_name'];
   if (Foldername === '' || Foldername === undefined) {
@@ -104,13 +104,13 @@ function GenerateFolder(data: TVseriesI, parentpath: string, next: Function) {
   Foldername += ` (${Year})`;
 
   //.gitkeep: git will not track the folder if nothing in there
-  WriteFile(
+  await WriteFile(
     join(parentpath + Foldername + '/' + `${Foldername}.cache.mkv`),
     ''
   );
   //Add extra folders
-  WriteFile(join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'), '');
-  WriteFile(join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'), '');
+  await WriteFile(join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'), '');
+  await WriteFile(join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'), '');
 
   //Download poster
   let poster_pat = '';
@@ -118,11 +118,11 @@ function GenerateFolder(data: TVseriesI, parentpath: string, next: Function) {
     const poster_url = 'https://image.tmdb.org/t/p/w500' + data['poster_path'];
     const ext = parse(data['poster_path']).ext;
     poster_pat = join(parentpath, Foldername, `poster${ext}`);
-    DownloadFile(poster_url, poster_pat);
+    await downloadFile(poster_url, poster_pat);
     data['poster_path'] = poster_pat;
   }
   //Add json as a tag
-  WriteFileAsJSON(join(parentpath, Foldername, metadataName), data);
+  await WriteFileAsJSON(join(parentpath, Foldername, metadataName), data);
   next();
   return data;
 }

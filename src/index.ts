@@ -13,7 +13,10 @@ const TOKEN =
     : process.env.TMDB_TOKEN;
 //Setup wrapTMDB
 //
+
+
 async function main() {
+  await sandbox();
   //每次啟動時清除並重建 /output
   const outputPath = join(__dirname, '../', '../', 'output');
   if (!notAction)
@@ -42,6 +45,8 @@ try {
   }
 }
 
+
+async function sandbox() {}
 /*
 
   TODO:
@@ -49,3 +54,5 @@ try {
 
 
 */
+
+
