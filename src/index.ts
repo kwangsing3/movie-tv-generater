@@ -2,51 +2,48 @@ import {rm} from 'node:fs/promises';
 import {join} from 'node:path';
 import RenderHTML from './html';
 import {MKDir, WriteFile} from './utility/fileIO';
-import { DiscoverTV } from './wraptmdb/tv.func';
-import { DiscoverMovie } from './wraptmdb/movie.func';
+import {DiscoverTV} from './wraptmdb/tv.func';
+import {DiscoverMovie} from './wraptmdb/movie.func';
 
-const core = require('@actions/core');
-const notAction = process.env['isAction'] ? process.env['isAction'] : true;
-const TOKEN =
-  process.env.TMDB_TOKEN === undefined || process.env.TMDB_TOKEN === ''
-    ? process.argv[2]
-    : process.env.TMDB_TOKEN;
 //Setup wrapTMDB
-//
+const TOKEN = process.env.TMDB_TOKEN ?? process.argv[2];
+const discoverTagID = ['210024']; //anime: 210024
 
-
-async function main() {
-  await sandbox();
-  //每次啟動時清除並重建 /output
-  const outputPath = join(__dirname, '../', '../', 'output');
-  if (!notAction)
-    await rm(outputPath, {recursive: true}).catch(err => {
+(async () => {
+  console.log('--流程開始--');
+  try {
+    await sandbox();
+    //每次啟動時清除並重建 /output
+    const outputPath = join('output');
+    await rm(outputPath, {recursive: true, force: true}).catch(err => {
       console.error(err);
     });
-  await MKDir(outputPath);
+    await MKDir(outputPath);
 
-  //
-  //TV Shows
-  const cacheTV = await DiscoverTV(['210024'], './output/tvshows/', TOKEN); //anime: 210024
-  //Movies
-  const cachemov = await DiscoverMovie(['210024'], './output/movie/', TOKEN);
-  const html = RenderHTML(cacheTV, cachemov);
-  const pp = await WriteFile(join(__dirname, '../', '../', 'index.html'), html);
-  console.log(pp);
-}
-//
-try {
-  main();
-} catch (error) {
-  if (notAction) {
-    core.setFailed(`${error}`);
-  } else {
+    //TV Shows
+    const cacheTV = await DiscoverTV(discoverTagID, './output/tvshows/', TOKEN);
+    //Movies
+    const cachemov = await DiscoverMovie(
+      discoverTagID,
+      './output/movie/',
+      TOKEN,
+    );
+
+    //
+    const html = RenderHTML(cacheTV, cachemov);
+    await WriteFile(join(__dirname, '../', '../', 'index.html'), html);
+    //
+  } catch (error) {
     console.error(error);
   }
+})().finally(() => {
+  console.log('--流程結束--');
+});
+
+async function sandbox() {
+  //
+  await DiscoverMovie(discoverTagID, './output/movie/', TOKEN);
 }
-
-
-async function sandbox() {}
 /*
 
   TODO:
@@ -54,5 +51,3 @@ async function sandbox() {}
 
 
 */
-
-

@@ -1,63 +1,52 @@
 import {join, parse} from 'node:path';
-import {WriteFile, WriteFileAsJSON} from '../utility/fileIO';
-import { GET, Sleep, downloadFile} from '../utility/httpmethod';
+import {WriteFile} from '../utility/fileIO';
+import {GET, Sleep, downloadFile} from '../utility/httpmethod';
+import {DiscoverResponse, ITVseries} from '../interface';
 
 //Step1
 export async function DiscoverTV(
   keywords: string[],
   tarPath: string,
-  TOKEN: string
-): Promise<TVseriesI[]> {
-  const CACHE: TVseriesI[] = [];
+  TOKEN: string,
+): Promise<ITVseries[]> {
+  let CACHE: ITVseries[] = [];
   let GLOBAL_COUNTER = 0;
-  //轉變keywords語法
-  let keySTR = '';
-  let legn = keywords.length - 1;
-  keywords.forEach((element: string) => {
-    keySTR += element;
-    if (legn-- > 0) keySTR += '|';
-  });
   let cur_page = 1;
   let MaxPage = 1;
-  const query = {
-    with_keywords: keySTR,
-    with_watch_monetization_types: 'flatrate',
-    include_adult: true,
-    sort_by: 'popularity.desc',
-    page: cur_page++,
-    language: 'en-US',
-  };
   //First request to get infomation
-
   const url =
-    'https://api.themoviedb.org/3/discover/tv?include_adult=true&include_null_first_air_dates=false&language=zh-tw&sort_by=popularity.desc&with_keywords='+keywords.toString();
-  const headers =  {
+    'https://api.themoviedb.org/3/discover/tv?include_adult=true&include_null_first_air_dates=false&language=zh-tw&sort_by=popularity.desc&with_keywords=' +
+    keywords.toString().replace(/,/g, '');
+  const headers = {
     accept: 'application/json',
-    Authorization: 'Bearer '+TOKEN,
+    Authorization: 'Bearer ' + TOKEN,
   };
 
-  const data: any = (await GET(url+'&page=1', headers))['data'];
+  const data: DiscoverResponse = await GET(url + '&page=1', headers);
   const total_results = Object.prototype.hasOwnProperty.call(
     data,
-    'total_results'
+    'total_results',
   )
     ? data['total_results']
     : 0;
   MaxPage = data['total_pages'] > 1 ? data['total_pages'] : -1;
 
   while (cur_page <= MaxPage) {
-    query.page = cur_page; //更新搜尋屬性
+    //更新搜尋屬性
     await Sleep(200);
-    const data: any =  (await GET(url+`&page=${cur_page}`, headers))['data'];
+    const data: DiscoverResponse = await GET(
+      url + `&page=${cur_page}`,
+      headers,
+    );
     if (data['results'].length === 0) {
       continue;
     }
-    const resList = data['results'];
-    for (const ii of resList) CACHE.push(ii);
+    const resList: ITVseries[] = data['results'] as ITVseries[];
+    CACHE = [...CACHE, ...resList];
     // //Generated json structure
     let cont = 0;
     for (const key of resList) {
-      await GenerateFolder(key, tarPath, () => {
+      await GenerateFolder(key, tarPath).then(() => {
         console.log(GLOBAL_COUNTER++ + '/' + total_results);
         cont++;
       });
@@ -83,63 +72,41 @@ export async function DiscoverTV(
 }
 
 //
-//
+//Generate Folder by JSON structure
 /*------------------Generate Logic------------------*/
 const metadataName = 'metadata.json';
-//Generate Folder by JSON structure
-async function GenerateFolder(data: TVseriesI, parentpath: string, next: Function) {
-  // Skip if has no name
-  let Foldername = data['original_name'];
+async function GenerateFolder(data: ITVseries, parentpath: string) {
+  let Foldername = data['name'] ?? data['original_name'];
   if (Foldername === '' || Foldername === undefined) {
-    next();
-    return;
+    return; // Skip if has no name
   }
   //Prefix Foldername
   Foldername = Foldername.replace(/[/\\?%*:|"<>]/g, '_');
-
   //Release date (Year)
   const strFirstAirDate = data['first_air_date'];
   const FirstAirDate = new Date(strFirstAirDate);
   const Year = FirstAirDate.getUTCFullYear();
   Foldername += ` (${Year})`;
 
-  //.gitkeep: git will not track the folder if nothing in there
-  await WriteFile(
-    join(parentpath + Foldername + '/' + `${Foldername}.cache.mkv`),
-    ''
-  );
-  //Add extra folders
-  await WriteFile(join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'), '');
-  await WriteFile(join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'), '');
+  // Add extra folders
+  //.gitkeep: git will not track the folder if nothing in there, so need an empty file.
+  await WriteFile(join(parentpath + Foldername, `${Foldername}.cache.mkv`), '');
+  await WriteFile(join(parentpath + Foldername + '/Specials/.gitkeep'), '');
+  await WriteFile(join(parentpath + Foldername + '/Extras/.gitkeep'), '');
 
   //Download poster
   let poster_pat = '';
   if (data['poster_path'] !== undefined && data['poster_path'] !== null) {
-    const poster_url = 'https://image.tmdb.org/t/p/w500' + data['poster_path'];
+    const poster_url = `https://image.tmdb.org/t/p/w500${data['poster_path']}`;
     const ext = parse(data['poster_path']).ext;
     poster_pat = join(parentpath, Foldername, `poster${ext}`);
     await downloadFile(poster_url, poster_pat);
     data['poster_path'] = poster_pat;
   }
   //Add json as a tag
-  await WriteFileAsJSON(join(parentpath, Foldername, metadataName), data);
-  next();
+  await WriteFile(
+    join(parentpath, Foldername, metadataName),
+    JSON.stringify(data, null, 4),
+  );
   return data;
-}
-
-// TVseries 結構
-interface TVseriesI {
-  backdrop_path: string;
-  first_air_date: string;
-  genre_ids: number[];
-  id: number;
-  name: string;
-  origin_country: string[];
-  original_language: string;
-  original_name: string;
-  overview: string;
-  popularity: number;
-  poster_path: string;
-  vote_average: number;
-  vote_count: number;
 }

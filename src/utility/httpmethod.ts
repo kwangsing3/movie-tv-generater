@@ -1,21 +1,22 @@
-import { createWriteStream } from "fs";
+import axios, {AxiosRequestConfig, AxiosResponse} from 'axios';
+import {createWriteStream} from 'fs';
 
-const axios = require('axios');
 /**
  * GET method
  * @param url request path
  * @returns 取得伺服器回應
  */
-export async function GET(
+export async function GET<T>(
   url: string,
-  headers?: any,
-  maxRedirects?: number
-): Promise<any> {
-  const config: any = {
+  headers?: {[x: string]: string},
+  timeout?: number,
+  maxRedirects?: number,
+): Promise<T> {
+  const config: AxiosRequestConfig = {
     method: 'get',
     url: url,
     headers: headers,
-    timeout: 15000,
+    timeout: timeout === undefined ? 15000 : timeout,
   };
   if (maxRedirects === 0) {
     config.maxRedirects = maxRedirects;
@@ -23,38 +24,31 @@ export async function GET(
       return status >= 200 && status < 303;
     };
   }
-  let data: any = {};
-
-  try {
-    const wait = GetRateLimit();
-    if (wait !== 0) {
-      await Sleep(wait);
-    }
-    data = await axios(config);
-    cache = new Date();
-  } catch (error: any) {
-    console.error(error['message']);
-    throw error;
-  }
-  return data;
+  if (waitRateMS !== 0) await Sleep(GetRateLimit());
+  const response: AxiosResponse<T> = await axios(config);
+  cache = new Date();
+  return response.data;
 }
+
 /**
  * POST method
  * @param url request path
  * @param content request body
  * @returns 取決於伺服器實作，可能不會出現回傳。
  */
-export async function POST(
+export async function POST<T>(
   url: string,
-  header: any,
-  content: any,
-  maxRedirects?: number
-): Promise<any> {
-  const config: any = {
+  header: {[x: string]: string},
+  content: {[x: string]: string},
+  timeout?: number,
+  maxRedirects?: number,
+): Promise<T> {
+  const config: AxiosRequestConfig = {
     method: 'post',
     url: url,
     data: content,
     headers: header,
+    timeout: timeout === undefined ? 15000 : timeout,
   };
   if (maxRedirects === 0) {
     config.maxRedirects = maxRedirects;
@@ -62,19 +56,12 @@ export async function POST(
       return status >= 200 && status < 303;
     };
   }
-  let data: any = {};
-
-  try {
-    if (waitRateMS !== 0) {
-      await Sleep(GetRateLimit());
-    }
-    data = await axios(config);
-    cache = new Date();
-  } catch (error: any) {
-    console.log(error['message']);
-  }
-  return data;
+  if (waitRateMS !== 0) await Sleep(GetRateLimit());
+  const response: AxiosResponse<T> = await axios(config);
+  cache = new Date();
+  return response.data;
 }
+
 /*
   依照速率阻塞線程。
 */
@@ -109,7 +96,7 @@ export const downloadFile = async (url: string, filePath: string) => {
     const response = await axios({
       url,
       method: 'GET',
-      responseType: 'stream'
+      responseType: 'stream',
     });
 
     response.data.pipe(writer);

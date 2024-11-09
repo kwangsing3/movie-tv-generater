@@ -1,56 +1,53 @@
-import { join, parse } from 'node:path';
-import { WriteFile, WriteFileAsJSON } from '../utility/fileIO';
-import {  GET, Sleep, downloadFile } from '../utility/httpmethod';
+import {join, parse} from 'node:path';
+import {WriteFile} from '../utility/fileIO';
+import {GET, Sleep, downloadFile} from '../utility/httpmethod';
+import {DiscoverResponse, IMovie} from '../interface';
 
 const metadataName = 'metadata.json';
 //Step1
 export async function DiscoverMovie(
   keywords: string[],
   path: string,
-  TOKEN: string
-): Promise<MovieI[]> {
-  const CACHE: MovieI[] = [];
+  TOKEN: string,
+): Promise<IMovie[]> {
+  let CACHE: IMovie[] = [];
   let GLOBAL_COUNTER = 0;
-  let str = '';
-  let legn = keywords.length - 1;
-  keywords.forEach((element: string) => {
-    str += element;
-    if (legn-- > 0) str += '|';
-  });
   let cur_page = 1;
   let MaxPage = 1;
 
-
-
-  const url = 'https://api.themoviedb.org/3/discover/movie?include_adult=true&language=zh-TW&sort_by=popularity.desc&with_keywords='+keywords.toString();
+  const url =
+    'https://api.themoviedb.org/3/discover/movie?include_adult=true&language=zh-TW&sort_by=popularity.desc&with_keywords=' +
+    keywords.toString();
   const headers = {
     accept: 'application/json',
-    Authorization: 'Bearer '+TOKEN,
-  }
+    Authorization: 'Bearer ' + TOKEN,
+  };
 
   //First request to get infomation
-  const data: any = (await GET(url + `&page=${cur_page++}`,headers))['data'];
-  const total_results = Object.prototype.hasOwnProperty.call(
-    data,
-    'total_results'
-  )
-    ? data['total_results']
-    : 0;
+  const data: DiscoverResponse = await GET(
+    url + `&page=${cur_page++}`,
+    headers,
+  );
+  const total_results = data['total_results'] ?? 0;
   MaxPage = data['total_pages'] > 1 ? data['total_pages'] : -1;
+
   while (cur_page <= MaxPage) {
     // To Search for movie ID
     await Sleep(200);
-    const data: any =  (await GET(url + `&page=${cur_page}`,headers))['data'];
-    if (Array.isArray(data)||data?.['results'].length === 0) {
+    const data: DiscoverResponse = await GET(
+      url + `&page=${cur_page}`,
+      headers,
+    );
+    if (Array.isArray(data) || data?.['results'].length === 0) {
       break;
     }
-    const resList = data['results'];
+    const resList: IMovie[] = data['results'] as IMovie[];
     //Generated json structure
     let cont = 0;
-    for (let index = 0; index < resList.length; index++) {
-      //turn into real folder
-      CACHE.push(resList[index]);
-      await GenerateFolder(resList[index], path, () => {
+    CACHE = [...CACHE, ...resList];
+
+    for (const key of resList) {
+      await GenerateFolder(key, path).then(() => {
         console.log(GLOBAL_COUNTER++ + '/' + total_results);
         cont++;
       });
@@ -74,36 +71,25 @@ export async function DiscoverMovie(
   }
   return CACHE;
 }
+
 //Generate Folder by JSON structure
-async function GenerateFolder(data: MovieI, parentpath: string, next: Function) {
+async function GenerateFolder(data: IMovie, parentpath: string) {
   // Skip if has no name
-  let Foldername = Object.prototype.hasOwnProperty.call(data, 'original_title')
-    ? data['original_title']
-    : '';
+  let Foldername = data['original_title'] ?? data['title'];
   if (Foldername === '') {
-    next();
     return;
   }
   //Prefix Foldername
   Foldername = Foldername.replace(/[/\\?%*:|"<>]/g, '_');
   //Release date
-  const strFirstAirDate = Object.prototype.hasOwnProperty.call(
-    data,
-    'release_date'
-  )
-    ? data['release_date']
-    : '';
-  const FirstAirDate = new Date(strFirstAirDate);
+  const FirstAirDate = new Date(data['release_date'] ?? '');
   const Year = FirstAirDate.getUTCFullYear();
   Foldername += ` (${Year})`;
+
   //Add a fake file to let fetcher can get metadata
-  await WriteFile(
-    join(parentpath + Foldername + '/' + `${Foldername}.cache.mkv`),
-    ''
-  );
-  //Add extra folders
-  await WriteFile(join(parentpath + Foldername + '/' + 'Specials' + '/.gitkeep'), '');
-  await WriteFile(join(parentpath + Foldername + '/' + 'Extras' + '/.gitkeep'), '');
+  await WriteFile(join(parentpath + Foldername, `${Foldername}.cache.mkv`), '');
+  await WriteFile(join(parentpath + Foldername + '/Specials/.gitkeep'), '');
+  await WriteFile(join(parentpath + Foldername + '/Extras/.gitkeep'), '');
 
   //Download poster
   let poster_pat = '';
@@ -116,25 +102,9 @@ async function GenerateFolder(data: MovieI, parentpath: string, next: Function) 
   }
 
   //Add json as a tag
-  await WriteFileAsJSON(join(parentpath, Foldername, metadataName), data);
-  next();
+  await WriteFile(
+    join(parentpath, Foldername, metadataName),
+    JSON.stringify(data, null, 4),
+  );
   return data;
-}
-
-// Movie 結構
-interface MovieI {
-  adult: boolean;
-  backdrop_path: string;
-  genre_ids: number[];
-  id: number;
-  original_language: string;
-  original_title: string;
-  overview: string;
-  popularity: number;
-  poster_path: string;
-  release_date: string;
-  title: string;
-  video: boolean;
-  vote_average: number;
-  vote_count: number;
 }
