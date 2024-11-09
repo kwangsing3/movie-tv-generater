@@ -1,28 +1,28 @@
 name: Daily Update-yml
 on:
-  schedule: # execute every 12 hours
-      - cron: '* */24 * * *'
+  schedule: # execute per day
+    - cron: '0 0 * * *'
   push:
-      branches:
+    branches:
       - main
 env:
   isAction: true
-  TMDB_TOKEN: "${{ secrets.TMDB_TOKEN }}"
+  TMDB_TOKEN: '${{ secrets.TMDB_TOKEN }}'
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: "${{ matrix.node-version }}"
+          node-version: 22.11.0
       - name: Cache Node Modules
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           # cache key 包含了所有我們希望固定的資訊：OS，node 版本，以及 package-lock.json 的檔案內容，使用 hashFiles 將檔案內容轉換成字串
           path: node_modules
-          key: node-modules-${{ runner.os }}-${{ matrix.node-version }}-${{ hashFiles('package-lock.json') }}
+          key: node-modules-${{ runner.os }}-22.11.0-${{ hashFiles('package-lock.json') }}
       - name: Get current date
         id: date
         run: echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
@@ -34,12 +34,11 @@ jobs:
       #tsc
       - name: Install Packages
         run: test -d node_modules && echo "node_modules exists" || npm ci
-      - run: tsc
       - run: npm run prod
       - run: git config --local user.email "actions@example.com"
       - run: git config --local user.name "Github-Action"
       - run: ls -a | grep -v "README.md\|output\|[.]$\|index.html" | grep -v ^.git$ | xargs rm -rf
       - run: git add --all
-      - run: git commit -a --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ env.DATE }}" 
+      - run: git commit -a --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ env.DATE }}"
       - run: git push -f origin page
       # --allow-empty  It allow no changed commit to push preventing return error from no-changed push.
