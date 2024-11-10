@@ -20,6 +20,7 @@
     "clean": "gts clean",
     "compile": "tsc",
     "fix": "gts fix",
+    "postinstall": "npm run compile",
     "prepare": "husky",
     "pretest": "npm run compile",
     "posttest": "npm run lint"

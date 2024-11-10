@@ -1,7 +1,7 @@
 import './extension/console';
 import {rm} from 'node:fs/promises';
 import {join} from 'node:path';
-import RenderHTML from './html';
+import RenderHTML from './HTML/html.func';
 import {MKDir, WriteFile} from './utility/fileIO';
 import {DiscoverTV} from './wraptmdb/tv.func';
 import {DiscoverMovie} from './wraptmdb/movie.func';
@@ -21,14 +21,20 @@ const discoverTagID = ['210024']; //anime: 210024
     });
     await MKDir(outputPath);
 
-    //TV Shows
+    //拉取電影及影集資料後儲存Cache
     const cacheTV = await DiscoverTV(discoverTagID, TOKEN);
-    //Movies
     const cachemov = await DiscoverMovie(discoverTagID, TOKEN);
-
+    await WriteFile(
+      join(outputPath, 'tvserie', 'cacheTV.json'),
+      JSON.stringify(cacheTV, null, 4),
+    );
+    await WriteFile(
+      join(outputPath, 'movie', 'cachemov.json'),
+      JSON.stringify(cachemov, null, 4),
+    );
     //
     const html = RenderHTML(cacheTV, cachemov);
-    await WriteFile(join(__dirname, '../', '../', 'index.html'), html);
+    await WriteFile(join('index.html'), html);
     //
   } catch (error) {
     console.error(error);
