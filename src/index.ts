@@ -1,3 +1,4 @@
+import './extension/console';
 import {rm} from 'node:fs/promises';
 import {join} from 'node:path';
 import RenderHTML from './html';

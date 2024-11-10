@@ -89,9 +89,12 @@ export const GetRateLimit = () => {
  * @param outputLocationPath
  * @returns
  */
-export const downloadFile = async (url: string, filePath: string) => {
+export const DownloadFile = async (url: string, filePath: string) => {
+  // TODO: 先取消下載，待要製作結構功能時再開啟。
+  const ff = false;
+  if (!ff) return;
+  //
   const writer = createWriteStream(filePath);
-
   try {
     const response = await axios({
       url,

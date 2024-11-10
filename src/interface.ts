@@ -20,15 +20,15 @@ export interface IBaseInfo {
 
 // TVseries 結構
 export interface ITVseries extends IBaseInfo {
-  first_air_date: string;
   name: string;
-  origin_country: string[];
   original_name: string;
+  first_air_date: string;
+  origin_country: string[];
 }
 // Movie 結構
 export interface IMovie extends IBaseInfo {
+  title: string;
   original_title: string;
   release_date: string;
-  title: string;
   video: boolean;
 }
