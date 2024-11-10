@@ -4,7 +4,6 @@ import {DiscoverResponse, IMovie} from '../interface';
 //Step1
 export async function DiscoverMovie(
   keywords: string[],
-  path: string,
   TOKEN: string,
 ): Promise<IMovie[]> {
   let CACHE: IMovie[] = [];

@@ -22,13 +22,9 @@ const discoverTagID = ['210024']; //anime: 210024
     await MKDir(outputPath);
 
     //TV Shows
-    const cacheTV = await DiscoverTV(discoverTagID, './output/tvshows/', TOKEN);
+    const cacheTV = await DiscoverTV(discoverTagID, TOKEN);
     //Movies
-    const cachemov = await DiscoverMovie(
-      discoverTagID,
-      './output/movie/',
-      TOKEN,
-    );
+    const cachemov = await DiscoverMovie(discoverTagID, TOKEN);
 
     //
     const html = RenderHTML(cacheTV, cachemov);
@@ -43,7 +39,7 @@ const discoverTagID = ['210024']; //anime: 210024
 
 async function sandbox() {
   //
-  await DiscoverMovie(discoverTagID, './output/movie/', TOKEN);
+  //await DiscoverMovie(discoverTagID, TOKEN);
 }
 /*
 
