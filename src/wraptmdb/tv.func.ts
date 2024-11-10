@@ -1,6 +1,6 @@
 import {GET, Sleep} from '../utility/httpmethod';
 import {DiscoverResponse, ITVseries} from '../interface';
-
+import * as cliProgress from 'cli-progress';
 //Step1
 export async function DiscoverTV(
   keywords: string[],
@@ -23,23 +23,41 @@ export async function DiscoverTV(
   );
   MaxPage = data['total_pages'] > 1 ? data['total_pages'] : -1;
 
+  //進度條
+  const Mainbar = new cliProgress.SingleBar(
+    {
+      format: '影集資訊獲取進度: [{bar}] {percentage}% |  {value}/{total}',
+    },
+    cliProgress.Presets.shades_classic,
+  );
+  Mainbar.start(data.total_results, 0);
+  let barCounter = 0;
+  //
   while (cur_page <= MaxPage) {
     //更新搜尋屬性
     await Sleep(200);
-    const data: DiscoverResponse = await GET(
-      url + `&page=${cur_page}`,
-      headers,
-    );
-    if (data?.['results'].length === 0) {
-      continue;
+    try {
+      const data: DiscoverResponse = await GET(
+        url + `&page=${cur_page}`,
+        headers,
+      );
+      if (data?.['results'].length === 0) {
+        continue;
+      }
+      const resList: ITVseries[] = data['results'] as ITVseries[];
+      resList.forEach(e => {
+        Mainbar.update(++barCounter);
+        e.poster_path = `https://image.tmdb.org/t/p/w500${e['poster_path']}`;
+      });
+      CACHE = [...CACHE, ...resList];
+      cur_page++;
+    } catch (error) {
+      Mainbar.stop();
+      break;
     }
-    const resList: ITVseries[] = data['results'] as ITVseries[];
-    resList.forEach(e => {
-      e.poster_path = `https://image.tmdb.org/t/p/w500${e['poster_path']}`;
-    });
-    CACHE = [...CACHE, ...resList];
-    cur_page++;
     if (process.env['MODE'] === 'DEBUG') break;
   }
+  Mainbar.update(data.total_results);
+  Mainbar.stop();
   return CACHE;
 }

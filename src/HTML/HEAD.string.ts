@@ -9,6 +9,11 @@ function STYLE(): string {
   return `
     <style>
       /* Style the tab */
+      img {
+        padding-top: 8px;
+        width: 100%;
+      }
+
       .tab {
         overflow: hidden;
         border: 1px solid #ccc;
@@ -38,10 +43,18 @@ function STYLE(): string {
   
       /* Style the tab content */
       .tabcontent {
-        display: none;
-        padding: 6px 12px;
-        border: 1px solid #ccc;
-        border-top: none;
+        display: flex;
+        flex-wrap: wrap;
+        justify-items: start;
+        padding: 15px;
+      }
+      .tabcontent > div {
+        width: 150px;
+        background-color: #e7e7e7;
+        margin: 10px;
+        padding: 20px;
+        font-size: 20px;
+        border-radius: 20px;
       }
       .Maintablinks {
         font-size: 150%;
@@ -51,6 +64,7 @@ function STYLE(): string {
         text-align: center;
         padding: 2%;
       }
+      
     </style>
     `;
 }

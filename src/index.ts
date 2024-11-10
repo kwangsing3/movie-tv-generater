@@ -5,6 +5,8 @@ import RenderHTML from './HTML/html.func';
 import {MKDir, WriteFile} from './utility/fileIO';
 import {DiscoverTV} from './wraptmdb/tv.func';
 import {DiscoverMovie} from './wraptmdb/movie.func';
+import cacheTV from './test/cacheTV.json';
+import cacheMOVIE from './test/cacheMOVIE.json';
 
 //Setup wrapTMDB
 const TOKEN = process.env.TMDB_TOKEN ?? process.argv[2];
@@ -13,7 +15,7 @@ const discoverTagID = ['210024']; //anime: 210024
 (async () => {
   console.log('--流程開始--');
   try {
-    await sandbox();
+    if (process.env['MODE'] === 'DEBUG') await sandbox();
     //每次啟動時清除並重建 /output
     const outputPath = join('output');
     await rm(outputPath, {recursive: true, force: true}).catch(err => {
@@ -44,13 +46,7 @@ const discoverTagID = ['210024']; //anime: 210024
 });
 
 async function sandbox() {
-  //
-  //await DiscoverMovie(discoverTagID, TOKEN);
+  const html = RenderHTML(cacheTV, cacheMOVIE);
+  await WriteFile(join('index.html'), html);
+  throw 'Early out';
 }
-/*
-
-  TODO:
-  1. 製作以環境變數決定的 假資料以免每次測試都要拉很多資料。
-
-
-*/
