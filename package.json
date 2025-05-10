@@ -1,7 +1,8 @@
 {
+  "version": "1.0.4",
   "dependencies": {
     "@actions/core": "^1.9.1",
-    "axios": "^1.6.7",
+    "axios": "^1.9.0",
     "cli-progress": "^3.12.0"
   },
   "devDependencies": {
@@ -23,8 +24,8 @@
     "fix": "gts fix",
     "postinstall": "npm run compile",
     "prepare": "husky",
-    "pretest": "npm run compile",
-    "posttest": "npm run lint"
-  },
-  "version": "1.0.4"
+    "release:major": "npx changelogen@latest  --major --release",
+    "release:minor": "npx changelogen@latest  --minor --release",
+    "release:patch": "npx changelogen@latest  --patch --release"
+  }
 }

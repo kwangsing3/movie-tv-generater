@@ -1,5 +1,5 @@
-import HEAD from './HEAD.string';
-import {IMovie, ITVseries} from '../interface';
+import HEAD from './string.HEAD';
+import {IMovie, ITVseries} from '../int.basic';
 
 let LATESTTV = '';
 let LATESTMOVIE = '';
@@ -9,10 +9,9 @@ export default function RenderHTML(
 ): string {
   return `
     <!DOCTYPE html>
-      ${HEAD()}
-      ${BODY(tvseries, movies)}
-      ${SCRIPT()}
-    </html>
+    ${HEAD()}
+    ${BODY(tvseries, movies)}
+    ${SCRIPT()}
   `;
 }
 
@@ -79,7 +78,9 @@ function BODY(tvseries: ITVseries[], movies: IMovie[]): string {
     <!-- Tab links -->
     ${tabsContent}
   </body>
-  <footer class="copyright"> &copy; Copyright ${new Date().getFullYear()} <a href="https://github.com/kwangsing3/movie-tv-generater" target="_blank">kwangsing3</a>. All rights reserved.</footer> 
+  <footer class="copyright"> 
+    &copy; Copyright ${new Date().getFullYear()} <a href="https://github.com/kwangsing3/movie-tv-generater" target="_blank">kwangsing3</a>. All rights reserved.
+  </footer> 
   `;
 }
 

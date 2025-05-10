@@ -1,9 +1,20 @@
 {
   "extends": "./node_modules/gts/",
-  "rules": {
-    "@typescript-eslint/no-floating-promises": "off"
-  },
   "parserOptions": {
-    "warnOnUnsupportedTypeScriptVersion": false
+    "sourceType": "module"
+  },
+  "rules": {
+    "n/no-unsupported-features/es-syntax": [
+      "error",
+      {
+        "ignores": [],
+        "version": ">=20.0.0"
+      }
+    ]
+  },
+  "settings": {
+    "node": {
+      "version": ">=16.0.0"
+    }
   }
 }

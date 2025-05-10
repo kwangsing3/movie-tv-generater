@@ -1,7 +1,7 @@
 import {join, parse} from 'node:path';
-import {IBaseInfo} from './interface';
+import {IBaseInfo} from './int.basic';
 import {WriteFile} from './utility/fileIO';
-import {DownloadFile} from './utility/httpmethod';
+import {DownloadFile} from './utility/http.mod';
 
 //
 //Generate Folder by JSON structure

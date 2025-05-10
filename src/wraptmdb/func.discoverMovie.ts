@@ -1,32 +1,30 @@
-import {GET, Sleep} from '../utility/httpmethod';
-import {DiscoverResponse, ITVseries} from '../interface';
+import {GET, Sleep} from '../utility/http.mod';
+import {DiscoverResponse, IMovie} from '../int.basic';
 import * as cliProgress from 'cli-progress';
 //Step1
-export async function DiscoverTV(
+export async function DiscoverMovie(
   keywords: string[],
   TOKEN: string,
-): Promise<ITVseries[]> {
-  let CACHE: ITVseries[] = [];
+): Promise<IMovie[]> {
+  let CACHE: IMovie[] = [];
   let cur_page = 1;
   let MaxPage = 1;
-  //First request to get infomation
+
   const url =
-    'https://api.themoviedb.org/3/discover/tv?include_adult=true&include_null_first_air_dates=false&language=zh-tw&sort_by=popularity.desc&with_keywords=' +
-    keywords.toString().replace(/,/g, '');
+    'https://api.themoviedb.org/3/discover/movie?include_adult=true&language=zh-TW&sort_by=popularity.desc&with_keywords=' +
+    keywords.toString();
   const headers = {
     accept: 'application/json',
     Authorization: 'Bearer ' + TOKEN,
   };
-  const data: DiscoverResponse = await GET(
-    url + `&page=${cur_page++}`,
-    headers,
-  );
+  //First request to get infomation
+  const response = await GET(url + `&page=${cur_page++}`, headers);
+  const data: DiscoverResponse = response.data as DiscoverResponse;
   MaxPage = data['total_pages'] > 1 ? data['total_pages'] : -1;
-
   //進度條
   const Mainbar = new cliProgress.SingleBar(
     {
-      format: '影集資訊獲取進度: [{bar}] {percentage}% |  {value}/{total}',
+      format: '電影資訊獲取進度: [{bar}] {percentage}% |  {value}/{total}',
     },
     cliProgress.Presets.shades_classic,
   );
@@ -34,17 +32,15 @@ export async function DiscoverTV(
   let barCounter = 0;
   //
   while (cur_page <= MaxPage) {
-    //更新搜尋屬性
+    // To Search for movie ID
     await Sleep(200);
     try {
-      const data: DiscoverResponse = await GET(
-        url + `&page=${cur_page}`,
-        headers,
-      );
+      const response = await GET(url + `&page=${cur_page}`, headers);
+      const data: DiscoverResponse = response.data as DiscoverResponse;
       if (data?.['results'].length === 0) {
-        continue;
+        break;
       }
-      const resList: ITVseries[] = data['results'] as ITVseries[];
+      const resList: IMovie[] = data['results'] as IMovie[];
       resList.forEach(e => {
         Mainbar.update(++barCounter);
         e.poster_path = `https://image.tmdb.org/t/p/w500${e['poster_path']}`;
