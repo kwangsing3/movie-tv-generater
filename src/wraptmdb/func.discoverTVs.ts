@@ -1,24 +1,41 @@
 import {GET, Sleep} from '../utility/http.mod';
 import {DiscoverResponse, ITVseries} from '../int.basic';
 import * as cliProgress from 'cli-progress';
+import {ReadFile} from '../utility/fileIO';
+import {join} from 'path';
 //Step1
 export async function DiscoverTV(
   keywords: string[],
   TOKEN: string,
 ): Promise<ITVseries[]> {
+  if (process.env['CACHE'] === 'true') {
+    try {
+      const TVs = JSON.parse(
+        await ReadFile(join('./data', 'tvserie', 'cacheTV.json')),
+      ) as ITVseries[];
+      return TVs;
+    } catch (error) {
+      console.log('無法讀取快取檔案，將重新獲取資料');
+    }
+  }
   let CACHE: ITVseries[] = [];
   let cur_page = 1;
   let MaxPage = 1;
   //First request to get infomation
-  const url =
-    'https://api.themoviedb.org/3/discover/tv?include_adult=true&include_null_first_air_dates=false&language=zh-tw&sort_by=popularity.desc&with_keywords=' +
-    keywords.toString().replace(/,/g, '');
+  const _URL = new URL('https://api.themoviedb.org/3/discover/tv');
+  _URL.searchParams.append('include_adult', 'true');
+  _URL.searchParams.append('include_null_first_air_dates', 'false');
+  _URL.searchParams.append('language', 'zh-TW');
+  _URL.searchParams.append('sort_by', 'popularity.desc');
+  _URL.searchParams.append('with_keywords', keywords.toString());
+
   const headers = {
     accept: 'application/json',
     Authorization: 'Bearer ' + TOKEN,
   };
-  const response = await GET(url + `&page=${cur_page++}`, headers);
+  const response = await GET(_URL + `&page=${cur_page++}`, headers);
   const data: DiscoverResponse = response.data as DiscoverResponse;
+  console.log('獲取影集資訊列表...');
   MaxPage = data['total_pages'] > 1 ? data['total_pages'] : -1;
 
   //進度條
@@ -35,7 +52,8 @@ export async function DiscoverTV(
     //更新搜尋屬性
     await Sleep(200);
     try {
-      const response = await GET(url + `&page=${cur_page}`, headers);
+      console.log(`獲取第 ${cur_page}/${MaxPage} 頁影集資訊---`);
+      const response = await GET(_URL + `&page=${cur_page}`, headers);
       const data: DiscoverResponse = response.data as DiscoverResponse;
       if (data?.['results'].length === 0) {
         continue;

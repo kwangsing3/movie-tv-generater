@@ -2,7 +2,6 @@ import './extension/console';
 import {rm} from 'node:fs/promises';
 import {join} from 'node:path';
 import {MKDir, WriteFile} from './utility/fileIO';
-import {DiscoverTV} from './wraptmdb/func.discoverTVs';
 import {DiscoverMovie} from './wraptmdb/func.discoverMovie';
 import sandbox from './sandbox';
 import RenderHTML from './HTML/func.genhtml';
@@ -16,25 +15,26 @@ const discoverTagID = ['210024']; //anime: 210024
   try {
     await sandbox();
     //每次啟動時清除並重建 /output
-    const outputPath = join('output');
-    await rm(outputPath, {recursive: true, force: true}).catch(err => {
-      console.error(err);
-    });
-    await MKDir(outputPath);
+    await rm('./output', {recursive: true, force: true})
+      .catch(err => {
+        console.error(err);
+      })
+      .finally(async () => {
+        await MKDir('./output');
+      });
 
-    //拉取電影及影集資料後儲存Cache
-    const cacheTV = await DiscoverTV(discoverTagID, TOKEN);
+    //拉取電影資料後儲存Cache
     const cachemov = await DiscoverMovie(discoverTagID, TOKEN);
     await WriteFile(
-      join(outputPath, 'tvserie', 'cacheTV.json'),
-      JSON.stringify(cacheTV, null, 4),
-    );
-    await WriteFile(
-      join(outputPath, 'movie', 'cachemov.json'),
+      join('./output', 'movie', 'cachemov.json'),
       JSON.stringify(cachemov, null, 4),
     );
-    //
-    const html = RenderHTML(cacheTV, cachemov);
+    await WriteFile(
+      join('./data', 'movie', 'cachemovie.json'),
+      JSON.stringify(cachemov, null, 4),
+    );
+    //生成頁面
+    const html = RenderHTML([], cachemov);
     await WriteFile(join('index.html'), html);
     //
   } catch (error) {
