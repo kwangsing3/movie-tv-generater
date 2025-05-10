@@ -34,8 +34,8 @@ const discoverTagID = ['210024']; //anime: 210024
       JSON.stringify(cacheTV, null, 4),
     );
     //
-    const html = RenderHTML(cacheTV, []);
-    await WriteFile(join('index.html'), html);
+    const html = RenderHTML(cacheTV);
+    await WriteFile(join('tv.html'), html);
   } catch (error) {
     console.error(error);
   }

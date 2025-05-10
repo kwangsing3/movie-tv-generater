@@ -1,41 +1,29 @@
 import HEAD from './string.HEAD';
-import {IMovie, ITVseries} from '../int.basic';
+import {IBaseInfo, IMovie, ITVseries} from '../int.basic';
 
 let LATESTTV = '';
-let LATESTMOVIE = '';
-export default function RenderHTML(
-  tvseries: ITVseries[],
-  movies: IMovie[],
-): string {
+export default function RenderHTML(data: IBaseInfo[]): string {
   return `
     <!DOCTYPE html>
     ${HEAD()}
-    ${BODY(tvseries, movies)}
+    ${BODY(data)}
     ${SCRIPT()}
   `;
 }
 
-function BODY(tvseries: ITVseries[], movies: IMovie[]): string {
+function BODY(dataList: IBaseInfo[]): string {
   //classfication***
   const TVstruct: {[key: string]: {[key: string]: ITVseries[]}} = {};
-  for (const key of tvseries) {
+  for (const key of dataList) {
     //TV
-    const date = new Date(key.first_air_date);
+    const tkey: any = key;
+    const dd = tkey['first_air_date'] ?? tkey['release_date'];
+    const date = new Date(dd);
     const year = date.getUTCFullYear();
     const month = date.getUTCMonth() + 1;
     TVstruct[year] = TVstruct[year] ?? {};
     TVstruct[year][month] = TVstruct[year][month] ?? [];
-    TVstruct[year][month].push(key);
-  }
-  const MOVstruct: {[key: string]: {[key: string]: IMovie[]}} = {};
-  for (const key of movies) {
-    //Movie
-    const date = new Date(key.release_date);
-    const year = date.getUTCFullYear();
-    const month = date.getUTCMonth() + 1;
-    MOVstruct[year] = MOVstruct[year] ?? {};
-    MOVstruct[year][month] = MOVstruct[year][month] ?? [];
-    MOVstruct[year][month].push(key);
+    TVstruct[year][month].push(tkey);
   }
   //classfication***
 
@@ -49,31 +37,25 @@ function BODY(tvseries: ITVseries[], movies: IMovie[]): string {
   }
 
   //find last key
-  let arr_Y = Object.keys(TVstruct);
+  const arr_Y = Object.keys(TVstruct);
   let latestY = arr_Y[arr_Y.length - 1];
-  let arr_M = Object.keys(TVstruct[latestY]);
+  const arr_M = Object.keys(TVstruct[latestY]);
   let latestM = arr_M[arr_M.length - 1];
   LATESTTV = latestY + latestM;
   tabsContent += '</div>';
   tabsContent += '<div id="movie" class="Maintabcontent">';
   STR_revers = [];
-  for (const key in MOVstruct) {
-    STR_revers.push(CreateMTAB(key, MOVstruct[key]));
-  }
   for (let i = STR_revers.length - 1; i > -1; i--) {
     tabsContent += STR_revers[i];
   }
-  arr_Y = Object.keys(MOVstruct);
   latestY = arr_Y[arr_Y.length - 1];
-  arr_M = Object.keys(MOVstruct[latestY]);
   latestM = arr_M[arr_M.length - 1];
-  LATESTMOVIE = latestY + latestM;
   tabsContent += '</div>';
   return `
   <body>
     <div class="tab">
-      <button class="Maintablinks" onclick="openMainTab(event, 'tv')">TV</button>
-      <button class="Maintablinks" onclick="openMainTab(event, 'movie')">Movie</button>
+      <a class="Maintablinks" href="./tv.html">TV</a>
+      <a class="Maintablinks" href="./movie.html">Movie</a>
     </div>
     <!-- Tab links -->
     ${tabsContent}
@@ -133,7 +115,7 @@ function SCRIPT(): string {
       if(evt)
         evt.currentTarget.className += " active";
 
-      openTab(event, (tabID === 'tv'?'T${LATESTTV}':'M${LATESTMOVIE}'))
+      openTab(event, 'T${LATESTTV}')
     }
     openMainTab(event, 'tv');
     openTab(event,'T${LATESTTV}')
@@ -141,25 +123,14 @@ function SCRIPT(): string {
   `;
 }
 
-function makeUNIT_MOVIE(movies: IMovie[]): string {
-  let str = '';
-  for (const key of movies) {
-    str += `
-      <div class="container">
-        <div>${key['title']}</div>
-        <img src="${key['poster_path'] ?? ''}" alt="${key.title}" />
-      </div>
-    `;
-  }
-  return str;
-}
-function makeUNIT_TV(tvseries: ITVseries[]): string {
+function makeUNIT_TV(tvseries: IBaseInfo[]): string {
   let str = '';
   for (const key of tvseries) {
+    const tkey: any = key;
     str += `
       <div class="container">
-        <div>${key['name']}</div>
-        <img src="${key['poster_path'] ?? ''}" alt="${key.name}" />
+        <div>${tkey['name'] ?? tkey['title']}</div>
+        <img src="${key['poster_path'] ?? ''}" alt="" />
       </div>
     `;
   }
@@ -178,24 +149,6 @@ function CreateTAB(year: string, input: {[x: string]: ITVseries[]}): string {
     res += `
     <div id="T${year}${month}" class="tabcontent">
       ${makeUNIT_TV(input[month])}
-    </div>
-    `;
-  }
-  return tabs + res;
-}
-function CreateMTAB(year: string, input: {[x: string]: IMovie[]}): string {
-  let tabs = `<div class="tab"><h2>${year}</h2>`;
-  for (const month in input) {
-    tabs += `
-      <button class="tablinks" onclick="openTab(event, 'M${year}${month}')">${month}月</button>
-    `;
-  }
-  tabs += '</div>';
-  let res = '';
-  for (const month in input) {
-    res += `
-    <div id="M${year}${month}" class="tabcontent">
-      ${makeUNIT_MOVIE(input[month])}
     </div>
     `;
   }

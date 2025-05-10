@@ -58,7 +58,8 @@ export async function DiscoverTV(
       if (data?.['results'].length === 0) {
         continue;
       }
-      const resList: ITVseries[] = data['results'] as ITVseries[];
+      let resList: ITVseries[] = data['results'] as ITVseries[];
+      resList = resList.filter(e => !isNaN(Date.parse(e.first_air_date))); //過濾掉為空或無法顯示的日期
       resList.forEach(e => {
         Mainbar.update(++barCounter);
         e.poster_path = `https://image.tmdb.org/t/p/w500${e['poster_path']}`;

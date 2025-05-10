@@ -34,8 +34,8 @@ const discoverTagID = ['210024']; //anime: 210024
       JSON.stringify(cachemov, null, 4),
     );
     //生成頁面
-    const html = RenderHTML([], cachemov);
-    await WriteFile(join('index.html'), html);
+    const html = RenderHTML(cachemov);
+    await WriteFile(join('movie.html'), html);
     //
   } catch (error) {
     console.error(error);

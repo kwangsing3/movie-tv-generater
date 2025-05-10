@@ -11,7 +11,7 @@ export async function DiscoverMovie(
   if (process.env['CACHE'] === 'true') {
     try {
       const movie = JSON.parse(
-        await ReadFile(join('./test', 'movie', 'cachemovie.json')),
+        await ReadFile(join('./data', 'movie', 'cachemovie.json')),
       ) as IMovie[];
       return movie;
     } catch (error) {
